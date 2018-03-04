@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">已为 %1$d 位联系人添加“%2$s”标签</item>
+        <item quantity="one">已为 %1$d 位联系人添加“%2$s”标签</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">正在将 %1$d 个联系人添加到标签“%2$s”中</item>
+        <item quantity="one">正在将 %1$d 个联系人添加到标签“%2$s”中</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">查看关于 %d 位联系人的建议信息</item>
+        <item quantity="one">查看关于 %d 位联系人的建议信息</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d 位垃圾联系人</item>
+        <item quantity="one">%d 位垃圾联系人</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d 位重复的联系人</item>
+        <item quantity="one">1 位重复的联系人</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">最近有 %1$d 次通话 • 上次通话日期为 %2$s</item>
+        <item quantity="one">最近有 %1$d 次通话 • 上次通话日期为 %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">联系人已添加到标签“%1$s”中</item>
+        <item quantity="one">联系人已添加到标签“%1$s”中</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d 位联系人</item>
+        <item quantity="one">%d 位联系人</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d 位联系人 · %2$s</item>
+        <item quantity="one">%1$d 位联系人 · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">已删除 %1$d 位联系人</item>
+        <item quantity="one">已删除 %1$d 位联系人</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">将从 Google 通讯录和已同步的所有设备中移除这些联系人</item>
+        <item quantity="one">将从 Google 通讯录和已同步的所有设备中移除此联系人</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">其他帐号中有 %1$d 位联系人</item>
+        <item quantity="one">其他帐号中有 1 位联系人</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d 位联系人</item>
+        <item quantity="one">1 位联系人</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 位联系人（在 ^2 中）</item>
+        <item quantity="one">^1 位联系人（在 ^2 中）</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">要将这 %1$d 位联系人移动到 %2$s 吗？</item>
+        <item quantity="one">要将此联系人移动到 %2$s 吗？</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">已移动 %d 位联系人</item>
+        <item quantity="one">已移动 %d 位联系人</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">已完成 %d 位联系人的移动</item>
+        <item quantity="one">已完成 1 位联系人的移动</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">正在移动 %d 位联系人</item>
+        <item quantity="one">正在移动联系人</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">已将 %1$d 位联系人备份到 %2$s</item>
+        <item quantity="one">已将 %1$d 位联系人备份到 %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">从 SIM 卡导入</item>
+        <item quantity="one">从 SIM 卡导入</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d 位联系人</item>
+        <item quantity="one">1 位联系人</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">已导入 %d 位 SIM 卡联系人</item>
+        <item quantity="one">已导入 1 位 SIM 卡联系人</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">通过以下应用分享联系人</item>
+        <item quantity="one">通过以下应用分享联系人</item>
+    </plurals>
+</resources>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_search_hint">חפש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חפש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="app_has_in_app_purchases">רכישות מתוך האפליקציה</string>
+    <string name="app_has_permissions">‏הרשאות: %s</string>
+    <string name="app_has_runtime_permissions">האפליקציה תבקש הרשאות</string>
+    <string name="app_picker_app_already_installed_toast">אפליקציה זו כבר מותקנת</string>
+    <string name="app_picker_loading">מחפש אפליקציות זמינות…</string>
+    <string name="app_picker_loading_toast">האפליקציות הזמינות ייטענו בקרוב</string>
+    <string name="app_picker_no_apps">לא נבחרו אפליקציות</string>
+    <string name="app_picker_no_apps_found">לא נמצאו אפליקציות</string>
+    <string name="apps_in_app_purchases_disclaimer_all">רכישות מתוך אפליקציות לא יועברו אל ה-^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">ייתכן שרכישות מסוימות מתוך אפליקציות לא יועברו אל ה-^1.</string>
+    <string name="apps_permissions_described_v2">"‏רק אפליקציות ®iOS פופולריות הזמינות בחינם יכולות להתאים לאפליקציות של Android. רוב הרכישות מתוך האפליקציות לא יעברו. תוכל למצוא עוד אפליקציות בחנות Play לאחר השלמת ההגדרה.
+
+ייתכן שיהיה עליך להעניק הרשאה מראש לאפליקציות מסוימות כדי לקבל גישה ליכולות ולפרטי מידע מסוימים במכשיר. ההרשאות מאורגנות בקבוצות של הרשאות. באמצעות הבחירה להתקין את האפליקציות האלה, אתה מאשר את ההרשאות שהן חלק מכל קבוצה. למטה תראה תיאור של כל קבוצת הרשאות.
+
+ייתכן שאפליקציות מסוימות לא ידרשו אישור מראש של הרשאות. כשתשתמש באחת מהאפליקציות האלה, תוכל לאפשר או לדחות הרשאה יחידה לפני שהאפליקציה תשתמש בסוג הנתונים הזה.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">עם התקנת כל אפליקציה אתה מביע את הסכמתך להרשאות שלה. <annotation id="apps_permissions_learn_more">למידע נוסף</annotation></string>
+    <string name="auto_restore_summary">לאחר התקנה מחדש של אפליקציה, שחזר את ההגדרות והנתונים המגובים</string>
+    <string name="auto_restore_title">שחזור אוטומטי</string>
+    <string name="backup_configure_account_default_summary">אף חשבון אינו מאחסן כרגע נתונים מגובים</string>
+    <string name="backup_configure_account_title">חשבון גיבוי</string>
+    <string name="backup_data_summary">‏גבה נתוני אפליקציות, סיסמאות Wi-Fi והגדרות אחרות אל Google Drive</string>
+    <string name="backup_data_summary_full">"‏גבה מרחוק באופן אוטומטי נתונים מהמכשיר (כמו סיסמאות לרשתות Wi-Fi והיסטוריית שיחות) ונתוני אפליקציות (כמו הגדרות וקבצים שאוחסנו על ידי אפליקציות).
+
+כשתפעיל את הגיבוי האוטומטי, נתוני המכשיר והאפליקציות יישמרו מדי פעם באופן מרוחק. נתוני אפליקציות יכולים להיות מכל סוג שהאפליקציה שומרת (בהתבסס על הגדרות המפתח), כולל נתונים שעשויים להיות רגישים, כמו אנשי קשר, הודעות ותמונות."</string>
+    <string name="backup_data_title">‏גיבוי ל-Google Drive</string>
+    <string name="backup_erase_dialog_message">‏האם להפסיק לגבות את סיסמאות ה-Wi-Fi, הסימניות, הגדרות אחרות ונתוני האפליקציות שלך ולמחוק את כל העותקים מ-Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">‏האם להפסיק לגבות את נתוני המכשיר (כמו ססמאות לרשתות Wi-Fi והיסטוריית שיחות) ונתוני אפליקציות (כמו הגדרות וקבצים המאוחסנים על ידי אפליקציות) ולמחוק את כל העותקים השמורים ב-Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">אירעה שגיאה בפתיחת הגדרות התמונות</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏לאחר שתפעיל את הגיבוי האוטומטי:
+
+ ● הגדרות המכשיר ונתוני אפליקציה יישמרו מדי פעם בתיקייה פרטית ב-Google Drive. נתוני אפליקציות יכולים לכלול את כל הנתונים שהאפליקציה שמרה (על סמך הגדרות המפתח), כולל נתונים שעשויים להיות רגישים, כמו אנשי קשר, הודעות ותמונות.
+
+ קבצים גדולים, או קבצים שמפתחים בחרו שלא לכלול בשירות, לא יגובו.
+
+ ● תמונות והקלטות של סרטונים ממכשיר זה יסתנכרנו עם ספריית תמונות Google כך שתוכל לחפש, לערוך, למחוק ולשתף אותן מכל אחד מהמכשירים שלך.
+
+ תמונות וסרטונים ברזולוציה מלאה יועלו כברירת מחדל. קבצים אלה לא ייחשבו כחלק ממכסת האחסון שלך ב-Drive.
+
+ ● אנשי קשר ונתונים משויכים ממכשיר זה יסתנכרנו עם אנשי קשר מחשבון Google. תוכל להשתמש באפליקציית 'אנשי קשר' של Google כדי לחפש, לערוך, למחוק ולשתף אנשי קשר מכל אחד מהמכשירים שלך.
+
+ ● רשומות יומן ונתונים משויכים ממכשיר זה יסתנכרנו עם יומן Google. תוכל להשתמש באפליקציית יומן Google כדי לחפש, לערוך, למחוק ולשתף אנשי קשר מכל אחד מהמכשירים שלך.
+
+ נתונים מגובים לא ייחשבו כחלק ממכסת האחסון שלך ב-Drive."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"‏לאחר שתפעיל את הגיבוי האוטומטי:
+
+ ● הגדרות המכשיר ונתוני אפליקציות יישמרו מדי פעם בתיקייה פרטית ב-Google Drive. נתוני אפליקציות יכולים לכלול את כל הנתונים שנשמרו על-ידי אפליקציה מסוימת (על סמך הגדרות המפתח), כולל נתונים שעשויים להיות רגישים, כמו אנשי קשר, הודעות ותמונות.
+
+ קבצים גדולים או קבצים שמפתחים בחרו שלא לכלול בשירות לא יגובו.
+
+ ● אנשי הקשר והנתונים המשויכים אליהם ממכשיר זה יסתנכרנו עם אנשי הקשר בחשבון Google. תוכל להשתמש באפליקציית 'אנשי קשר' של Google כדי לחפש, לערוך, למחוק ולשתף אנשי קשר מכל אחד מהמכשירים שלך.
+
+ ● רשומות יומן ונתונים המשויכים אליהן ממכשיר זה יסתנכרנו עם יומן Google. תוכל להשתמש באפליקציית יומן Google כדי לחפש, לערוך, למחוק ולשתף אנשי קשר מכל אחד מהמכשירים שלך.
+
+ נתונים מגובים לא ייחשבו כחלק ממכסת האחסון שלך ב-Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">‏יומן, אנשי קשר, תמונות וסרטונים מסתנכרנים עם חשבון Google שלך וניתן להשתמש בהם בכל השירותים.</string>
+    <string name="backup_opt_in_backup_description_v2">גיבוי אוטומטי מבטיח שתוכל לשחזר או להחליף טלפונים בקלות בכל עת. <annotation id="backup_opt_in_learn_more">מידע נוסף</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"‏גיבוי הפריטים הבאים יכובה:
+
+אפליקציות ונתוני אפליקציות
+היסטוריית שיחות
+הגדרות מכשיר
+תמונות וסרטונים
+SMS
+
+הסנכרון של יומן ואנשי קשר ימשיך לחשבון Google שלך. כשההגדרה תושלם, תוכל לשנות את הגדרות הסנכרון על ידי מעבר אל "<annotation id="backup_opt_in_settings_instructions">הגדרות > חשבונות > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">לכבות את הגיבוי?</string>
+    <string name="backup_opt_in_backup_list">"‏אפליקציות ונתוני אפליקציה
+יומן
+היסטוריית שיחות
+אנשי קשר
+הגדרות מכשיר (כולל סיסמאות WiFi)‏
+תמונות וסרטונים
+הודעות SMS"</string>
+    <string name="backup_opt_in_backup_list_header">הגיבוי כולל:</string>
+    <string name="backup_opt_in_backup_title">‏גיבוי ל-Google Drive</string>
+    <string name="backup_opt_in_disable_backup">בטל גיבוי</string>
+    <string name="backup_photos_update">‏עדכן את תמונות Google</string>
+    <string name="backup_settings_activity_backup_title">גיבוי</string>
+    <string name="backup_settings_activity_title">גיבוי ואיפוס</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">אל תעתיק</string>
+    <string name="close_button_label">סגור</string>
+    <string name="cloud_restore_app_picker_button">שחזר</string>
+    <string name="cloud_restore_app_picker_description_no_apps">בגיבוי אין אפליקציות</string>
+    <string name="cloud_restore_app_picker_title">בחירת אפליקציות לשחזור</string>
+    <string name="common_accept">מסכים</string>
+    <string name="common_add_account_label">הוספת חשבון</string>
+    <string name="common_ads_settings_title">מודעות</string>
+    <string name="common_agree">מסכים</string>
+    <string name="common_app_name">‏שירותי Google Play</string>
+    <string name="common_asm_preferences_settings_title">העדפות חשבון</string>
+    <string name="common_asm_privacy_settings_title">מידע אישי ופרטיות</string>
+    <string name="common_asm_security_settings_title">כניסה ואבטחה</string>
+    <string name="common_audience_edit_button_label">ערוך</string>
+    <string name="common_cancel">בטל</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏לא ניתן להפעיל את Hangouts (שגיאת הרשאה).</string>
+    <string name="common_car_permission_desc">קבל גישה לשירות הרכב.</string>
+    <string name="common_car_permission_label">שירות רכב</string>
+    <string name="common_chips_label_empty_circles">לא במעגלים</string>
+    <string name="common_chips_label_extended_circles">מעגלים מורחבים</string>
+    <string name="common_chips_label_only_you">רק אתה</string>
+    <string name="common_chips_label_public">ציבורי</string>
+    <string name="common_chips_label_your_circles">המעגלים שלך</string>
+    <string name="common_choose_account_label">בחירת חשבון</string>
+    <string name="common_clear_app_data_menu_item">נקה נתוני אפליקציות</string>
+    <string name="common_connected">מחובר</string>
+    <string name="common_connected_apps_settings_title">אפליקציות מחוברות</string>
+    <string name="common_connecting">מתחבר...</string>
+    <string name="common_continue">המשך</string>
+    <string name="common_disagree">לא מסכים</string>
+    <string name="common_disconnect">נתק</string>
+    <string name="common_done">סיום</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">מאת:</string>
+    <string name="common_games_settings_title">‏Play משחקים</string>
+    <string name="common_get_started">התחל</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">הפעל</string>
+    <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">שגיאה</string>
+    <string name="common_google_play_services_install_button">התקן</string>
+    <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_updating_title">‏שירותי Google Play מתעדכנים</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏שירותי Google Play הותקנו עם ארכיטקטורה שגויה.</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏שירותי Google Play הותקנו עם ארכיטקטורה (%1$s) השונה מהארכיטקטורה של המכשיר (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">ארכיטקטורה שגויה</string>
+    <string name="common_google_settings">‏הגדרות Google</string>
+    <string name="common_google_settings_account">חשבון</string>
+    <string name="common_google_settings_credentials_title">Smart Lock for Passwords</string>
+    <string name="common_google_settings_developer">למפתחים</string>
+    <string name="common_google_settings_services">שירותים</string>
+    <string name="common_got_it">הבנתי</string>
+    <string name="common_install">התקן</string>
+    <string name="common_learn_more">למידע נוסף</string>
+    <string name="common_list_apps_menu_help">עזרה</string>
+    <string name="common_list_apps_menu_help_and_feedback">עזרה ומשוב</string>
+    <string name="common_loading">טוען…</string>
+    <string name="common_location_settings_title">מיקום</string>
+    <string name="common_magictether_settings_title">שיתוף אינטרנט מיידי בין ניידים</string>
+    <string name="common_maps_settings_title">מפות וקו רוחב</string>
+    <string name="common_mdm_feature_name">‏ניהול מכשיר ה-Android</string>
+    <string name="common_missing_url_viewer">אין מציג עבור כתובת אתר חיצונית.</string>
+    <string name="common_more_options">אפשרויות נוספות</string>
+    <string name="common_networking_settings_title">יצירת קשרים</string>
+    <string name="common_no_browser_for_restricted_url">גישה מוגבלת. דפדפן לא נמצא.</string>
+    <string name="common_no_devices_found">לא נמצאו מכשירים</string>
+    <string name="common_no_network">לא זמין מכיוון שהמכשיר לא מקוון</string>
+    <string name="common_no_thanks">לא, תודה</string>
+    <string name="common_not_now">לא עכשיו</string>
+    <string name="common_off">כבוי</string>
+    <string name="common_ok">אישור</string>
+    <string name="common_on">פועל</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_open_source_licenses">רישיונות קוד פתוח</string>
+    <string name="common_people_settings_title">אנשי קשר</string>
+    <string name="common_permissions_enable_in_settings">הפעל בהגדרות</string>
+    <string name="common_permissions_missing_end">"כדי להמשיך, פתח את 'הגדרות', ואז 'הרשאות' ואשר את כל הפריטים שברשימה."</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+כדי להפעיל, עבור לקטע
+הגדרות >
+הרשאות >
+שירותי Google Play"</string>
+    <string name="common_permissions_missing_start">‏האפליקציה הזו לא תפעל כראוי אם לא תאפשר לשירותי Google Play לבקש גישה לפריטים הבאים:</string>
+    <string name="common_permissions_open_settings">פתח הגדרות</string>
+    <string name="common_phone">טלפון</string>
+    <string name="common_plus_settings_title">Google+‎</string>
+    <string name="common_privacy_policy">מדיניות הפרטיות</string>
+    <string name="common_restore">שחזר</string>
+    <string name="common_retry">נסה שוב</string>
+    <string name="common_search_settings_title">חיפוש</string>
+    <string name="common_security_ootp_setting_title">קוד אבטחה</string>
+    <string name="common_security_settings_title">אבטחה</string>
+    <string name="common_send">שלח</string>
+    <string name="common_sending">שולח…</string>
+    <string name="common_set_up_nearby_device_settings_title">הגדרת מכשיר בקרבת מקום</string>
+    <string name="common_settings">הגדרות</string>
+    <string name="common_signin_button_text">כניסה</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="common_something_went_wrong">משהו השתבש</string>
+    <string name="common_system_info">נתוני המערכת</string>
+    <string name="common_take_photo_label">צילום תמונה</string>
+    <string name="common_terms_of_service">תנאים והגבלות</string>
+    <string name="common_try_again">נסה שוב</string>
+    <string name="common_turn_on_bluetooth">‏להפעיל את Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">מחק</string>
+    <string name="common_ui_confirm_deleting_checkbox">הבנתי, אני רוצה למחוק</string>
+    <string name="common_unknown">לא ידוע</string>
+    <string name="common_update">עדכן</string>
+    <string name="common_url_load_unsuccessful_message">‏מכשיר ה-Android שלך אינו מחובר לשירות נתונים. כדי להציג את המידע הזה כעת, היכנס לכתובת %s באמצעות דפדפן אינטרנט.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏מכשיר ה-Android שלך לא מחובר לרשת Wi-Fi. כדי להציג את המידע הזה כעת, היכנס לכתובת %s באמצעות דפדפן אינטרנט.</string>
+    <string name="common_url_login_notice">היכנס בשם %1$s</string>
+    <string name="common_usage_and_diagnostics">שימוש ואבחון</string>
+    <string name="common_yesterday">אתמול</string>
+    <string name="confirm_copy_button_text">העתק</string>
+    <string name="contacts_number_device_and_icloud">‏%1$d ב-iCloud®‎, %2$d במכשיר</string>
+    <string name="contacts_number_device_and_icloud_with_google">‏אנשי קשר מחשבון Google, %1$d ב-iCloud®‎, %2$d במכשיר</string>
+    <string name="contacts_number_device_and_sim_with_google">‏אנשי קשר מחשבון Google‏, %1$d ב-SIM, %2$d במכשיר</string>
+    <string name="contacts_number_device_with_google">‏אנשי קשר מחשבון Google‏, %1$d במכשיר</string>
+    <string name="contacts_number_icloud_with_google">‏אנשי קשר מחשבון Google‏, %1$d ב-®iCloud</string>
+    <string name="contacts_number_sim_with_google">‏אנשי קשר מחשבון Google‏, %1$d בכרטיס SIM</string>
+    <string name="copy_confirmation_description">‏אתה עומד להעתיק נתונים, כמו חשבון Google והאפליקציות שלך, לטלפון החדש</string>
+    <string name="copy_confirmation_title">האם להעתק לטלפון החדש?</string>
+    <string name="d2d_app_picker_description_no_apps">לא הצלחנו למצוא אפליקציות</string>
+    <string name="d2d_app_picker_title">אפליקציות</string>
+    <string name="d2d_migration_canceled_on_source">ההעתקה בוטלה</string>
+    <string name="data_copied_fragment_description">הנתונים הועתקו לטלפון החדש. אתה יכול לנתק את הכבל.</string>
+    <string name="data_copied_fragment_description_cancel">בחרת להפסיק את ההעתקה, לכן רק חלק מהנתונים הועתקו לטלפון החדש.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">בחרת להפסיק את ההעתקה, לכן דבר לא הועתק לטלפון החדש.</string>
+    <string name="data_copied_fragment_description_error">משהו השתבש, כך שלא ניתן היה להעתיק הכל.</string>
+    <string name="data_copied_fragment_description_error_no_data">משהו השתבש, כך שלא ניתן היה להעתיק את הנתונים.</string>
+    <string name="data_copied_fragment_no_data_title">לא ניתן להעתיק</string>
+    <string name="data_copied_fragment_some_data_title">חלק מהנתונים הועתקו</string>
+    <string name="data_copied_fragment_title">הנתונים הועתקו</string>
+    <string name="device_backup_title">גיבוי מכשיר</string>
+    <string name="device_not_supported_fragment_new_device">אתה מחובר לטלפון חדש. כדי להמשיך, חבר מחדש את הטלפון הקודם.</string>
+    <string name="device_not_supported_fragment_new_device_title">חבר מחדש לטלפון הקודם</string>
+    <string name="device_not_supported_fragment_no_data_cable">כבל זה אינו יכול להעביר נתונים. חבר מחדש עם כבל אחר ונסה שוב.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">נסה כבל אחר</string>
+    <string name="device_not_supported_fragment_retry_description">ודא שהטלפון הישן אינו נעול, ולאחר מכן נתק את הכבל וחבר אותו שוב</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">משהו השתבש</string>
+    <string name="device_not_supported_ios_supervised_description">‏מאחר שמכשיר ה-iPhone®‎ שלך בפיקוח, יהיה עליך לבחור דרך אחרת להעתקת נתונים</string>
+    <string name="device_picker_description">‏הגיבויים מאוחסנים ב-Google Drive</string>
+    <string name="device_picker_empty">אין גיבויים המקושרים לחשבון %1$s.</string>
+    <string name="device_picker_empty_title">לא נמצאו גיבויים</string>
+    <string name="device_picker_item">גיבוי %1$s</string>
+    <string name="device_picker_last_used">מועד שימוש אחרון ^1</string>
+    <string name="device_picker_skip">אל תשחזר</string>
+    <string name="device_picker_title">בחירת גיבוי לשחזור</string>
+    <string name="disabled_by_admin_summary_text">נמצא בשליטת מנהל מערכת</string>
+    <string name="download_msg_error_invalid">ההורדה הוגדרה באופן שגוי.</string>
+    <string name="download_msg_in_progress">ההורדה מתבצעת.</string>
+    <string name="download_msg_not_allowed_space">אין מספיק שטח פנוי לביצוע ההורדה.</string>
+    <string name="download_msg_pending">ההורדה תיכף תתחיל…</string>
+    <string name="download_notification_description">האפליקציה %1$s ביקשה נתונים אלה.</string>
+    <string name="download_notification_title">מביא נתונים נוספים</string>
+    <string name="drive_backup_account">חשבון</string>
+    <string name="drive_backup_apps_in_backup">גיבוי של נתוני אפליקציות</string>
+    <string name="drive_backup_apps_last_backup">הגיבוי האחרון</string>
+    <string name="drive_backup_apps_loading">טוען…</string>
+    <string name="drive_backup_apps_screen_title">נתוני אפליקציות</string>
+    <string name="drive_backup_content_apps_title">נתוני אפליקציות</string>
+    <string name="drive_backup_content_calendar_dialog_message">‏אירועים שנוצרו ביומן Google יסונכרנו בכל המכשירים המחוברים לחשבון Google שלך.</string>
+    <string name="drive_backup_content_calendar_title">יומן</string>
+    <string name="drive_backup_content_callhistory_dialog_message">הגיבוי כולל את נתוני התאריך והנמען של שיחות שבוצעו והתקבלו.</string>
+    <string name="drive_backup_content_callhistory_title">היסטוריית שיחות</string>
+    <string name="drive_backup_content_contacts_dialog_message">"‏אנשי קשר שנוצרו ב'אנשי קשר מחשבון Google' יסונכרנו בכל המכשירים המחוברים לחשבון Google שלך."</string>
+    <string name="drive_backup_content_contacts_title">אנשי קשר</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">‏הגיבוי כולל את תצורת המכשיר, כגון טפט, סיסמאות Wi-Fi ואפליקציות המוגדרות כברירת מחדל.</string>
+    <string name="drive_backup_content_devicesettings_title">הגדרות מכשיר</string>
+    <string name="drive_backup_content_header">תוכן</string>
+    <string name="drive_backup_content_photos_dialog_message">‏חשבון הגיבוי הראשי שלך שונה. ניתן לשנות גם את חשבון הגיבוי לתמונות Google ל-%s.</string>
+    <string name="drive_backup_content_photos_dialog_no">סגור</string>
+    <string name="drive_backup_content_photos_dialog_title">האם לשנות גם את חשבון התמונות והסרטונים?</string>
+    <string name="drive_backup_content_photos_dialog_yes">שנה</string>
+    <string name="drive_backup_content_photos_title">תמונות וסרטונים</string>
+    <string name="drive_backup_content_sms_dialog_message">‏הגיבוי כולל הודעות שנשלחו והתקבלו. זה לא כולל מדיה של MMS.</string>
+    <string name="drive_backup_content_sms_title">‏הודעות SMS</string>
+    <string name="drive_backup_content_status_dolly_action">הבנתי</string>
+    <string name="drive_backup_content_status_error">שגיאה בקבלת תאריך הסנכרון האחרון</string>
+    <string name="drive_backup_content_status_lastsaved">‏גיבוי אחרון: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">‏סנכרון אחרון: %1$s</string>
+    <string name="drive_backup_content_status_never">מחכה לגיבוי</string>
+    <string name="drive_backup_content_status_sync_adapter_action">הגדרות סנכרון</string>
+    <string name="drive_backup_content_status_sync_off">הסנכרון כבוי</string>
+    <string name="drive_backup_content_status_updating">בודק סטטוס...</string>
+    <string name="drive_backup_disabled_backuplist">"‏הגיבוי כולל:
+ - אפליקציות ונתוני אפליקציות
+ - היסטוריית שיחות
+ - הגדרות מכשיר (כולל סיסמאות Wi-Fi‏)
+ - יומן Google‏
+ - אנשי קשר מחשבון Google‏
+ - תמונות וסרטונים
+ - הודעות SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"‏הגיבוי כולל את הפריטים הבאים:
+\u0009- אפליקציות ונתוני אפליקציות
+\u0009- היסטוריית השיחות
+\u0009- הגדרות המכשיר (כולל סיסמאות Wi-Fi‏)
+\u0009- יומן Google‏
+\u0009- אנשי הקשר מחשבון Google‏
+\u0009- הודעות SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">הושבת על ידי מנהל המערכת</string>
+    <string name="drive_backup_disabled_detailedinfo">"‏יומן Google, אנשי קשר מחשבון Google, תמונות וסרטונים מסתנכרנים לחשבון Google שלך ​​וניתן להשתמש בהם בכל השירותים.
+
+ניתן להפעיל סנכרון אפילו אם הגיבוי כבוי. ניתן לשנות הגדרות סנכרון ב'הגדרות' > 'חשבונות' > 'Google'."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"‏היומן, אנשי הקשר, התמונות והסרטונים מסתנכרנים לחשבון Google שלך, ​​וניתן להשתמש בהם בכל השירותים.
+
+ניתן להפעיל את הסנכרון גם אם הגיבוי כבוי. כדי לשנות את הגדרות הסנכרון, עבור אל 'הגדרות' > 'חשבונות' > Google."</string>
+    <string name="drive_backup_disabled_introduction">גיבוי אוטומטי מבטיח שתוכל לשחזר או להחליף טלפונים בקלות בכל עת.</string>
+    <string name="drive_backup_settings_title">גיבוי</string>
+    <string name="drive_backup_state">‏גיבוי ל-Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"‏נתוני הגיבוי של מכשיר זה ב-Google Drive יימחקו לצמיתות.
+
+תמונות וסרטונים שכבר גובו יישארו זמינים ב-Google Drive.‏
+
+יומן Google ואנשי קשר מחשבון Google ימשיכו להסתנכרן לחשבון Google שלך. ניתן לשנות הגדרות סנכרון ב'הגדרות' > 'חשבונות' > 'Google'."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"‏נתוני הגיבוי של המכשיר יימחקו מ-Google Drive לצמיתות.
+
+ הסנכרון של היומן ושל אנשי הקשר עם חשבון Google יימשך. כדי לשנות את הגדרות הסנכרון, עבור אל 'הגדרות' > 'חשבונות' > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">כבה ומחק</string>
+    <string name="drive_backup_state_dialog_title">האם לכבות ולמחוק את הגיבוי?</string>
+    <string name="durationDayHour">%1$d יום %2$d שעה</string>
+    <string name="durationDayHours">%1$d יום %2$d שעות</string>
+    <string name="durationDays">%1$d ימים</string>
+    <string name="durationHourMinute">%1$d שעה %2$d דקה</string>
+    <string name="durationHourMinutes">%1$d שעה %2$d דקות</string>
+    <string name="durationHours">%1$d שעות</string>
+    <string name="durationMinute">%1$d דקה</string>
+    <string name="durationMinuteSecond">"%1$d דקה %2$d שנ'"</string>
+    <string name="durationMinuteSeconds">"%1$d דקה %2$d שנ'"</string>
+    <string name="durationMinutes">%1$d דקות</string>
+    <string name="durationSecond">%1$d שנייה</string>
+    <string name="durationSeconds">%1$d שניות</string>
+    <string name="encryption_warning_fragment_description">"‏הצפנת גיבוי מופעלת למכשיר ה-®iPhone. אם לא הפעלת אותה בעצמך, ייתכן שמנהל ה-IT הפעיל אותה.
+
+ניתן להעתיק רק תמונות, מוזיקה וסרטונים. למידע נוסף, עבור לכתובת "<b>g.co/datatransferhelp‏</b>.</string>
+    <string name="encryption_warning_fragment_title">הצפנת גיבוי</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">איני מוצא את המתאם</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"‏מצא את מתאם Quick Switch Adapter שנכלל באריזה של ה-^1.
+
+חבר את הכבל למתאם."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">חיבור המתאם לכבל</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">בטל את נעילת הטלפון הישן ולאחר מכן חבר את המתאם אל הטלפון הזה.</string>
+    <string name="fragment_usb_connect_both_phones_title">חיבור שני הטלפונים</string>
+    <string name="fragment_usb_dialog_cancel_description">כמות התוכן הגדולה ביותר תועבר אם תשתמש בכבל. אם הכבלים שבאריזה לא מתאימים, נסה להשתמש בכבל הטעינה או בכבל הנתונים שעובדים עם הטלפון הישן.</string>
+    <string name="fragment_usb_dialog_cancel_title">האם להעתיק נתונים בדרך אחרת?</string>
+    <string name="fragment_usb_dont_have_cable">אין לי כבל</string>
+    <string name="fragment_usb_dont_have_old_phone">הטלפון הישן שלי לא נמצא ברשותי</string>
+    <string name="fragment_usb_find_cable_description">השתמש בכבל שמתאים לטלפון הישן, למשל כבל הנתונים או כבל הטעינה.</string>
+    <string name="fragment_usb_find_cable_title">מציאת הכבל המתאים</string>
+    <string name="fragment_usb_initial_description">העבר נתונים מהטלפון הישן שלך אל ^1 זה.</string>
+    <string name="fragment_usb_initial_title">התחלת העתקה של הנתונים</string>
+    <string name="fragment_usb_legacy_description">"זו הדרך המהירה ביותר להעברת כמה שיותר נתונים.
+
+מצא את המתאם באריזה וחבר אותו לטלפון החדש. חבר את הטלפונים באמצעות הכבל ולאחר מכן בטל את נעילת הטלפון הישן."</string>
+    <string name="fragment_usb_other_ways">העתק ללא כבל</string>
+    <string name="fragment_usb_plug_cable">חיבור כבל לטלפון הישן שלך</string>
+    <string name="fragment_waiting_title">רק רגע…</string>
+    <string name="gigabyteShort">‏GB‏‏</string>
+    <string name="google_contacts_static_text">‏אנשי הקשר של Google יסתנכרנו</string>
+    <string name="google_contacts_static_text_off">‏סנכרון אנשי קשר מחשבון Google יתבצע</string>
+    <string name="header_set_backup_account">הגדרת חשבון גיבוי</string>
+    <string name="i_message_dialog_message">"‏כדי להמשיך לקבל הודעות SMS ממשתמשי ®iPhone, יהיה עליך לכבות את ®iMessage.
+
+היכנס אל "<b>g.co/iMessageHelp</b> לקבלת הוראות.</string>
+    <string name="instructions_fragment_title">המשך בטלפון השני</string>
+    <string name="ios_connected_fragment_description">"‏במסך הבא תוכל להיכנס לחשבון Google או ליצור חשבון חדש.
+
+אם לא תוסיף את חשבון Google שלך, האירועים מיומן ®iOS שלך לא יעברו."</string>
+    <string name="ios_message_attachment_explanation">‏[הקבצים המצורפים להודעה נמצאים בתמונות Google > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachment_failed_explanation">‏[לא ניתן היה להעתיק חלק מהקבצים המצורפים. את הקבצים המצורפים שהועברו ניתן למצוא בתמונות Google > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachment_placeholder">‏[קובץ מצורף נשמר בתמונות Google‏ > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachments_placeholder">‏[קבצים מצורפים נשמרים בתמונות Google‏ > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_migration_default_calendar_title">‏יומן Google</string>
+    <string name="ios_migration_other_contact_relation">אחר</string>
+    <string name="ios_photos_dialog_message">"‏לא ניתן להעתיק תמונות שמאוחסנות ב-iCloud®‎.
+
+כדי להעביר תמונות אלה אל ה-^1, התקן את האפליקציה תמונות Google במכשיר ה-iPhone®‎ והפעל את האפשרות 'גיבוי וסנכרון'. היכנס אל "<b>g.co/datatransferhelp</b> כדי לקבל הוראות נוספות.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">הוסף חשבון</string>
+    <string name="lockscreen_smartdevice_action_next">הבא</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">בטל את הנעילה כדי להמשיך בהגדרת הטלפון</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">מטעמי אבטחה, תצטרך לאשר את נעילת המסך כדי להמשיך בהגדרה</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">אישור נעילת המסך</string>
+    <string name="manage_data_label">‏חשבון Google</string>
+    <string name="master_clear_title">איפוס לנתוני היצרן</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">צריך להגדיר את חשבון הגיבוי</string>
+    <string name="notification_content_title_set_backup_account">גיבוי</string>
+    <string name="notification_ticker_set_backup_account">דרוש חשבון גיבוי</string>
+    <string name="permgrouplab_calendar">יומן</string>
+    <string name="permgrouplab_camera">מצלמה</string>
+    <string name="permgrouplab_contacts">אנשי קשר</string>
+    <string name="permgrouplab_location">מיקום</string>
+    <string name="permgrouplab_microphone">מיקרופון</string>
+    <string name="permgrouplab_phone">טלפון</string>
+    <string name="permgrouplab_sensors">חיישני גוף</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">אחסון</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">אף חשבון אינו מאחסן כרגע תמונות מגובות</string>
+    <string name="photos_backup_title">גיבוי תמונות</string>
+    <string name="photos_filtering_option_all">הכל</string>
+    <string name="photos_filtering_option_none">כלום</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏אנשי קשר שהועתקו יישמרו בחשבון Google שלך.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏אנשי קשר ויומנים שהועתקו יישמרו בחשבון Google שלך.</string>
+    <string name="restore_choice_data_disclaimer_v2">ייתכן שחלק מהנתונים לא יועתקו אל ^1. <annotation id="restore_choice_data_disclaimer_learn_more">למידע נוסף</annotation></string>
+    <string name="restore_choice_deselect_some_content">בטל בחירה של חלק מהתוכן כדי להמשיך</string>
+    <string name="restore_choice_learn_more_android">"‏לא ניתן להעתיק אוטומטית חלק מהנתונים מהטלפון הישן שלך:
+
+ ● הורדות (כמו קובצי PDF)
+
+ ● תמונות, סרטונים ומוזיקה שמאוחסנים בתיקיות נסתרות
+
+ ● תמונות, סרטונים ומוזיקה שהתקבלו בהודעות טקסט
+
+ ● אפליקציות שמקורן אינו בחנות Google Play
+
+ ● נתוני אפליקציות (אם האפליקציה לא משתמשת בגיבוי Android)
+
+ ● הגדרות מסוימות במכשיר
+
+ ● חשבונות שאינם חשבונות Google (והנתונים המשויכים)
+
+ ● אנשי קשר ויומנים שמסונכרנים לשירותים שאינם שירותי Google
+
+ ● רינגטונים
+
+ לקבלת פרטים נוספים ועזרה בהעתקת חלק מהנתונים האלה, היכנס אל g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"‏לא ניתן להעתיק באופן אוטומטי חלק מהנתונים מהטלפון הישן שלך:
+
+ ● אפליקציות ונתוני אפליקציות
+
+ ● תמונות אם העותק המקורי לא מאוחסן בטלפון (לדוגמה, אם מופעלת ההגדרה 'אופטימיזציה לאחסון', תמונות מקוריות מאוחסנות ב-®iCloud)‏
+
+ ● קבצים ומסמכים שמאוחסנים ב-®‏iCloud‏
+
+ ● הגדרות מכשיר (כמו סיסמאות Wi-Fi וטפט)
+
+ ● מוזיקה המוגנת על ידי ניהול זכויות דיגיטליות (DRM) (לדוגמה, מוזיקה של ®iTunes שנרכשה לפני אפריל 2009 או מוזיקה שהורדה להאזנה במצב לא מקוון באפליקציית סטרימינג של מוזיקה)
+
+ ● חשבונות שאינם חשבונות Google (והנתונים המשויכים אליהם)
+
+ ● אנשי קשר ויומנים המסונכרנים לשירותים שאינם Google או ®iCloud‏
+
+ ● סימניות מ-®Safari‏
+
+ קבצים מצורפים מ-®iMessage‏ יהיו זמינים בתמונות Google  > תיקיות במכשיר > קבצים מצורפים להודעה.
+
+ לקבלת פרטים נוספים ועזרה בהעתקת חלק מהנתונים האלה, עבור לכתובת: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">אין מספיק מקום</string>
+    <string name="restore_choice_total_text">מתוך %1$s הזמינים / %2$s העברה</string>
+    <string name="restore_error_message">משהו השתבש במהלך השחזור. מצטערים.</string>
+    <string name="restore_item_appdata">נתוני אפליקציה</string>
+    <string name="restore_item_calendar">‏יומן Google</string>
+    <string name="restore_item_calendar_ical_description">‏יומן ®iOS, יומן Google</string>
+    <string name="restore_item_calendar_ical_off_description">‏יומן Google יסתנכרן בכל זאת</string>
+    <string name="restore_item_calendar_sync_description">‏יומן Google יסתנכרן</string>
+    <string name="restore_item_call_logs">היסטוריית שיחות</string>
+    <string name="restore_item_contacts">אנשי קשר</string>
+    <string name="restore_item_device_settings_description">‏סיסמאות ל-Wi-Fi ועוד</string>
+    <string name="restore_item_downloads">הורדות</string>
+    <string name="restore_item_email">אימייל</string>
+    <string name="restore_item_email_description">‏Gmail יסתנכרן</string>
+    <string name="restore_item_message_attachments">קבצים מצורפים של הודעות</string>
+    <string name="restore_item_messages">הודעות</string>
+    <string name="restore_item_music">מוזיקה</string>
+    <string name="restore_item_photos">תמונות וסרטונים</string>
+    <string name="restore_item_settings">הגדרות מכשיר</string>
+    <string name="restore_item_sms">‏הודעות SMS</string>
+    <string name="restore_item_will_be_synced_text">הנתונים האלה יסתנכרנו לטלפון שלך</string>
+    <string name="restore_progress_title">השחזור מתבצע…</string>
+    <string name="search_menu_title">חפש</string>
+    <string name="small_time_duration">פחות מדקה</string>
+    <string name="source_connected_description">מכין…</string>
+    <string name="source_connected_title">מחובר אל %1$s</string>
+    <string name="source_copying_description">הנתונים שבחרת מועתקים אל הטלפון החדש</string>
+    <string name="source_copying_title">מעתיק...</string>
+    <string name="source_default_target_device_name">מכשיר חדש</string>
+    <string name="source_notification_device_disconnected">חבר מחדש את הכבל</string>
+    <string name="source_notification_text">העברה מטלפון לטלפון מתבצעת עכשיו</string>
+    <string name="source_notification_title">העברת נתונים</string>
+    <string name="source_success_description">סיים את ההגדרה במכשיר %1$s.</string>
+    <string name="source_success_screen_title">התהליך הסתיים!</string>
+    <string name="source_unplugged_description">חבר מחדש אל %1$s</string>
+    <string name="source_unplugged_title">כבל מנותק</string>
+    <string name="source_waiting_title">המשך ההגדרה במכשיר %1$s</string>
+    <string name="status_bar_notification_info_overflow">‎999+‎</string>
+    <string name="stop_copying_dialog_continue_button">סגור</string>
+    <string name="stop_copying_dialog_message_before_transfer">הנתונים לא הועתקו לטלפון החדש</string>
+    <string name="stop_copying_dialog_message_during_transfer">חלק מהנתונים לא הועתק לטלפון החדש</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">אל תעתיק</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">עצור</string>
+    <string name="stop_copying_dialog_title_before_transfer">לא להעתיק?</string>
+    <string name="stop_copying_dialog_title_during_transfer">האם להפסיק את ההעתקה?</string>
+    <string name="storage_management_wear_descriptive_text">"אפליקציות משתמשות באחסון המכשיר שלך לשכפול נתונים עבור גאדג'ט לביש."</string>
+    <string name="storage_management_wear_manage_size_label">"נהל את האחסון בגאדג'ט לביש"</string>
+    <string name="storage_management_wear_size_label">"אחסון בגאדג'ט לביש"</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏סך הנתונים שבהם נעשה שימוש בשירותי Google Play, כולל מנוע החיפוש ונתונים אחרים.</string>
+    <string name="storage_managment_clear_all_data">נקה את כל הנתונים</string>
+    <string name="storage_managment_computing_size">מחשב...</string>
+    <string name="storage_managment_icing_size_label">נתוני חיפוש</string>
+    <string name="storage_managment_manage_icing_button">נהל נתוני חיפוש</string>
+    <string name="storage_managment_search_index_descriptive_text">אנו מאיצים את החיפוש במכשיר שלך באמצעות מנוע חיפוש שבו ישתמשו האפליקציות.</string>
+    <string name="storage_managment_title">‏אחסון עבור שירותי Google Play</string>
+    <string name="storage_managment_total_size_label">אחסון כולל</string>
+    <string name="suw_back_button_label">חזרה</string>
+    <string name="suw_more_button_label">עוד</string>
+    <string name="suw_next_button_label">הבא</string>
+    <string name="target_default_source_device_model">מכשיר ישן</string>
+    <string name="target_device_not_supported_cant_continue_description">יהיה עליך לבחור דרך אחרת להעתקת נתונים</string>
+    <string name="target_device_not_supported_cant_continue_title">אין תמיכה בטלפון אחר</string>
+    <string name="target_device_not_supported_try_restarting_description">"‏נתק את הכבל והפעל מחדש את הטלפון הישן שלך. לאחר מכן חבר מחדש את הכבל ופעל בהתאם להוראות ב-Pixel.
+
+ אם שגיאה זו תוצג שוב ושוב, ייתכן שיהיה עליך לנסות להעתיק בדרך אחרת."</string>
+    <string name="target_device_not_supported_try_restarting_title">ייתכן שאין תמיכה לטלפון</string>
+    <string name="target_smart_device_timeout_add_account">הוסף חשבון</string>
+    <string name="target_smart_device_timeout_description">אם תרצה, תוכל לנסות להוסיף את חשבונך באופן ידני</string>
+    <string name="target_smart_device_timeout_dismiss">סגור</string>
+    <string name="target_smart_device_timeout_title">נתקלת בבעיה?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">הטלפונים מחוברים</string>
+    <string name="toast_reconnect_cable">חבר מחדש את הכבל</string>
+    <string name="transfer_finished_fragment_title">הוספת ליטושים אחרונים...</string>
+    <string name="transfer_summary_copied">הנתונים הועתקו</string>
+    <string name="transfer_summary_fragment_description">ניתן לנתק את הכבל.</string>
+    <string name="transfer_summary_fragment_finish">סיום</string>
+    <string name="transfer_summary_fragment_title">הטלפון כמעט מוכן</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">חלק מהתמונות לא הועתקו. <annotation id="transfer_summary_learn_more">למידע נוסף</annotation></string>
+    <string name="transfer_summary_not_copied">הנתונים לא הועתקו</string>
+    <string name="transfer_summary_partial">%1$s / %2$s הועתקו</string>
+    <string name="transfer_summary_will_sync">הנתונים יסונכרנו לאחר ההגדרה</string>
+    <string name="transferring_fragment_calculating_remaining_time">מחשב את הזמן שנותר…</string>
+    <string name="transferring_fragment_header">מעתיק...</string>
+    <string name="transferring_fragment_remaining_time">נשארו %1$s</string>
+    <string name="trust_instructions_description">‏כדי להמשיך, בדוק את מכשיר ה-®iPhone ואשר את החיבור</string>
+    <string name="trust_instructions_trademark_disclaimer">‏iPhone‏, iPad,‏ iOS,‏ iMessage,‏ iCloud,‏ Safari ו-iTunes הם סימנים מסחריים של .Apple Inc והם רשומים בארה\"ב ובמדינות אחרות.</string>
+</resources>

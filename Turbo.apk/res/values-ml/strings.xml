@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">തിരയുന്നത് മായ്‌ക്കുക</string>
+    <string name="place_autocomplete_search_hint">തിരയുക</string>
+    <string name="common_google_play_services_unknown_issue">Google Play സേവനങ്ങളുമായി ബന്ധപ്പെട്ട് %1$s ആപ്പിനെന്തോ പ്രശ്നമുണ്ട്. വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="common_google_play_services_enable_button">പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="common_google_play_services_enable_text">നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="common_google_play_services_enable_title">Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="common_google_play_services_install_button">ഇന്‍സ്റ്റാള്‍ ചെയ്യുക</string>
+    <string name="common_google_play_services_install_text">Google Play സേവനങ്ങളില്ലാതെ %1$s പ്രവർത്തിക്കില്ല, ഈ സേവനങ്ങളാകട്ടെ നിങ്ങളുടെ ഉപകരണത്തിൽ ഇല്ല.</string>
+    <string name="common_google_play_services_install_title">Google Play സേവനങ്ങൾ നേടുക</string>
+    <string name="common_google_play_services_notification_ticker">Google Play സേവനങ്ങളിലെ പിശക്</string>
+    <string name="common_google_play_services_unsupported_text">Google Play സേവനങ്ങളില്ലാതെ %1$s പ്രവർത്തിക്കില്ല, സേവനങ്ങളെയാകട്ടെ നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്ക്കുന്നുമില്ല.</string>
+    <string name="common_google_play_services_update_button">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="common_google_play_services_update_text">നിങ്ങൾ Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തില്ലെങ്കിൽ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="common_google_play_services_update_title">Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="common_google_play_services_updating_text">നിലവിൽ അപ്‌ഡേറ്റുചെയ്യുന്ന Google Play സേവനങ്ങൾ ഇല്ലാതെ %1$s പ്രവർത്തിക്കില്ല.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play സേവനങ്ങളുടെ പുതിയ പതിപ്പ് ആവശ്യമാണ്. താമസിയാതെ ഇത് സ്വയം അപ്‌ഡേറ്റുചെയ്യും.</string>
+    <string name="common_open_on_phone">ഫോണിൽ തുറക്കുക</string>
+    <string name="common_signin_button_text">സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="common_signin_button_text_long">Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="anomaly_entry_system">Android സിസ്റ്റം</string>
+    <string name="background_battery_usage_description">പശ്ചാത്തലത്തിൽ അമിത ബാറ്ററി ഉപയോഗം കണ്ടെത്തി</string>
+    <string name="battery_history_days">%1$dദി. %2$dമ. %3$dമി. %4$dസെ.</string>
+    <string name="battery_history_hours">%1$dമണിക്കൂര്‍ %2$dമിനിറ്റ് %3$dസെക്കന്‍ഡ്</string>
+    <string name="battery_history_minutes">%1$dമിനിറ്റ് %2$dസെക്കൻഡ്</string>
+    <string name="battery_history_seconds">%1$dസെക്കൻഡ്</string>
+    <string name="battery_history_days_no_seconds">%1$dദി. %2$dമ. %3$dമി.</string>
+    <string name="battery_history_hours_no_seconds">%1$dമ. %2$dമി.</string>
+    <string name="battery_history_minutes_no_seconds">%1$dമി.</string>
+    <string name="notification_channel_name">ബാറ്ററി ചാർജ്ജ് കുറവാണെന്ന അറിയിപ്പ്</string>
+    <string name="time_remaining_warning_subtext">നിങ്ങളുടെ ഉപയോഗത്തെ അടിസ്ഥാനമാക്കി ഏതാണ്ട് %1$s ശേഷിക്കുന്നു</string>
+    <string name="time_remaining_warning_text">ബാറ്ററി ഉടൻ തീർന്നേക്കാം</string>
+    <string name="usage_alerts_empty_state">അവസാനം പൂർണ്ണമായി ചാർജ് ആയതുമുതൽ അലേർട്ടുകളൊന്നും വന്നിട്ടില്ല</string>
+    <string name="usage_alerts_title">ഉപയോഗ അലേർട്ടുകൾ</string>
+</resources>

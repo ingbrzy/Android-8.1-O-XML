@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="add_profile_title">Operatör ekle</string>
+    <string name="available_space">Kullanılabilir alan</string>
+    <string name="cancel_button">İptal</string>
+    <string name="carrier_policy_info_1">Operatörlerinizi sıfırlamadığınız sürece bu cihazda başka operatör etkinleştirilemez.</string>
+    <string name="carrier_policy_info_2">Operatörlerinizi sıfırlamadığınız sürece bu operatör bu cihazdan kaldırılamaz.</string>
+    <string name="carrier_policy_info_3">"Operatörlerinizi istediğiniz zaman Ayarlar'dan sıfırlayabilirsiniz, ancak bu işlemle cihazınızdaki tüm operatörler kaldırılır."</string>
+    <string name="carrier_policy_text">%1$s, cihazınız için indirilebilir bir eSIM hazırladı. Devam ettiğinizde, %1$s operatör politikasını kabul etmiş olursunuz:</string>
+    <string name="checking_code">Kod kontrol ediliyor…</string>
+    <string name="choose_carrier_add_button">Farklı bir operatör ekle</string>
+    <string name="choose_carrier_title">Operatörünüzü seçin</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="confirmation_code_text">Operatörünüzün verdiği onay kodunu girin. Bu adım operatörünüz tarafından zorunlu tutulmaktadır.</string>
+    <string name="confirmation_code_title">Operatör onay kodu</string>
+    <string name="confirmation_code_what">Bu nedir?</string>
+    <string name="connect_button">Bağlan</string>
+    <string name="connect_carrier_confirm_title">%1$s mobil ağına bağlanılsın mı?</string>
+    <string name="continue_button">Devam</string>
+    <string name="device_locked_dialog_text">%1$s operatörüne bu cihazın kilidinin açılıp açılamayacağını sorun.</string>
+    <string name="device_locked_dialog_title">eSIM indirilemiyor</string>
+    <string name="device_password_text">Devam etmek için cihazınızın şifresini girin.</string>
+    <string name="device_password_title">Şifrenizi onaylayın</string>
+    <string name="disable_carrier_dialog_text">"Bu cihazın ağ bağlantısı hemen kesilecek.
+
+Bu işlem, SIM kartınızla ilgili hizmet planını iptal etmez."</string>
+    <string name="disable_carrier_dialog_title">Operatör devre dışı bırakılsın mı?</string>
+    <string name="disable_fail_text">Bir hata oluştu ve operatörünüz devre dışı bırakılamadı.</string>
+    <string name="disable_fail_title">Operatör devre dışı bırakılamıyor</string>
+    <string name="disable_profile_title">Devre dışı bırak</string>
+    <string name="disabled_profiles_title">Kullanılabilir operatörler</string>
+    <string name="disabling_carrier">Operatör devre dışı bırakılıyor...</string>
+    <string name="download_fail_dialog_text">Bir hata nedeniyle eSIM indirilemiyor. Tekrar deneyin ve sorun devam ederse %1$s ile iletişime geçin.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Bir hata nedeniyle eSIM indirilemiyor. Tekrar deneyin ve sorun devam ederse operatörünüzle iletişime geçin.</string>
+    <string name="download_fail_dialog_title">eSIM indirilemiyor</string>
+    <string name="download_sub_text">Cihazınız %1$s operatöründen bir eSIM indiriyor. Bu işlem biraz zaman alabilir.</string>
+    <string name="download_sub_text_no_carrier_name">Cihazınız bir eSIM indiriyor. Bu işlem biraz zaman alabilir.</string>
+    <string name="download_sub_title">İndiriliyor…</string>
+    <string name="download_sub_transform_title">Hizmet kontrol ediliyor…</string>
+    <string name="eid_title">EID</string>
+    <string name="enable_carrier_dialog_text">"%2$s yerine %1$s operatörüne bağlanacaksınız.
+
+Bu işlem, %2$s hizmet planınızı iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"SIM kartınızdaki operatör yerine %1$s operatörüne bağlanacaksınız.
+
+Bu işlem, SIM kartınızdaki mobil hizmet planınızı iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"%1$s yerine SIM kartınızdaki operatöre bağlanacaksınız.
+
+Bu işlem, %1$s hizmet planınızı iptal etmeyecektir."</string>
+    <string name="enable_carrier_dialog_title">Operatör değiştirilsin mi?</string>
+    <string name="enable_fail_policy_text">%1$s operatör politikası nedeniyle ilk olarak operatörlerinizi sıfırlamadıkça bu yeni operatörü etkinleştiremeyeceksiniz.</string>
+    <string name="enable_fail_text">Bir hata nedeniyle operatöre geçiş yapılamıyor.</string>
+    <string name="enable_fail_title">Operatöre geçiş yapılamıyor</string>
+    <string name="enable_profile_title">Etkinleştir</string>
+    <string name="enabling_carrier">Operatöre geçiş yapılıyor…</string>
+    <string name="erasing_carriers">Operatörler sıfırlanıyor…</string>
+    <string name="euicc_settings_title">Donanım ayarları</string>
+    <string name="euicc_title">eSIM Yöneticisi</string>
+    <string name="fireware_version">Donanım yazılımı sürümü</string>
+    <string name="get_default_sub_title">Bilgiler kontrol ediliyor…</string>
+    <string name="get_metadata_fail_title">Profil meta verileri alınamadı</string>
+    <string name="nickname_title">Takma ad</string>
+    <string name="no_qr_code_info_text_1">Kodunuz cihazınızla birlikte gelen bir belgede veya operatörünüzün gönderdiği bir e-postada yazılı olabilir.</string>
+    <string name="no_qr_code_info_text_2">Operatörünüz size fiziksel bir SIM kart verdiyse başlamak için şimdi o kartı takın.</string>
+    <string name="no_qr_code_info_title_1">QR kodunuzu bulacağınız yerler</string>
+    <string name="no_qr_code_info_title_2">Onun yerine SIM kartı takın</string>
+    <string name="no_qr_code_scan_button">QR kodunu tara</string>
+    <string name="no_qr_code_title">QR kodunuz yok mu?</string>
+    <string name="notification_channel_ota_update">Operatör güncellemeleri</string>
+    <string name="ota_error_notification_msg">Yeniden başlatıldıktan sonra mobil hizmet devam edecek.</string>
+    <string name="ota_error_notification_title">Operatör güncellemesi başarısız</string>
+    <string name="ota_notification_msg">Güncellemeden sonra mobil hizmet devam edecek</string>
+    <string name="ota_notification_title">Operatör güncellemesi tamamlanıyor...</string>
+    <string name="phone_number_title">Telefon numarası</string>
+    <string name="profile_disabled">Devre dışı</string>
+    <string name="profile_enabled">Etkin</string>
+    <string name="profile_list_action_bar_title">Operatör</string>
+    <string name="reboot_button_title">Telefonu yeniden başlat</string>
+    <string name="remove_carrier_dialog_text">"Bu cihazın ağ bağlantısı hemen kesilecek.
+
+Bu işlem, %1$s hizmet planınızı iptal etmeyecektir."</string>
+    <string name="remove_carrier_dialog_title">Operatör kaldırılsın mı?</string>
+    <string name="remove_fail_policy_text">%1$s operatör politikası nedeniyle, operatörlerinizi sıfırlamadıkça bu operatörü kaldıramayacaksınız.</string>
+    <string name="remove_fail_text">Bir hata oluştu ve operatörünüz kaldırılamadı.</string>
+    <string name="remove_fail_title">Operatör kaldırılamıyor</string>
+    <string name="remove_profile_title">Kaldır</string>
+    <string name="removing_carrier">Operatör kaldırılıyor…</string>
+    <string name="res_continue_info_item_1">"Hizmetinizi etkinleştirmek için ek bir adım gerçekleştirmeniz gerekebilir
+"</string>
+    <string name="res_continue_info_item_2">Hizmet alamıyorsanız yardım için %1$s ile iletişime geçin</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Mobil hizmet yoksa yardım için operatörünüze başvurun</string>
+    <string name="res_continue_text">"%1$s adlı operatörden bir eSIM indirdiniz.
+"</string>
+    <string name="res_continue_text_no_carrier_name">Bir eSIM indirdiniz.</string>
+    <string name="res_continue_title">İndirme işlemi tamamlandı</string>
+    <string name="res_download_button">İndir</string>
+    <string name="res_download_text">%1$s, cihazınız için indirilebilir bir eSIM hazırladı.</string>
+    <string name="res_download_text_no_carrier_name">Operatörünüz, cihazınız için indirilebilir bir eSIM hazırladı.</string>
+    <string name="res_download_title">"eSIM'i indir"</string>
+    <string name="reset_button">Sıfırla</string>
+    <string name="reset_dialog_carriers_body">Cihazınızdaki tüm operatörler silinsin mi? Bu işlemi geri alamazsınız.</string>
+    <string name="reset_dialog_carriers_title">Operatörler sıfırlansın mı?</string>
+    <string name="reset_dialog_reset_button">Sıfırla</string>
+    <string name="reset_euicc_title">Operatörleri sıfırla</string>
+    <string name="reset_fail_text">Bir hata oluştu ve operatörleriniz sıfırlanamadı.</string>
+    <string name="reset_fail_title">Operatörler sıfırlanamıyor</string>
+    <string name="reset_screen_enabled_carrier_name">%1$s (Etkin)</string>
+    <string name="reset_screen_text_bottom">Bu işlem mobil hizmet planlarınızı iptal etmez.</string>
+    <string name="reset_screen_text_top">Bu işlemle, aşağıdakiler dahil olmak üzere cihazınızdaki tüm operatörler kaldırılır:</string>
+    <string name="reset_screen_title">Operatörleri sıfırlayın</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="sim_card_label">SIM kart</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_title">Durum</string>
+    <string name="suw_activate_notification_text">Çağrılar, kısa mesajlar ve veri kurulumu için %1$s operatör uygulamasını kullanın.</string>
+    <string name="suw_activate_notification_title">Hizmetinizi etkinleştirin</string>
+    <string name="suw_back_button_label">Geri</string>
+    <string name="suw_failed_msg">"Maalesef %1$s hizmetiniz şu anda etkinleştirilemiyor.
+
+Cihazınızın kurulumunu bitirir bitirmez etkinleştirmeniz istenecektir."</string>
+    <string name="suw_failed_msg_activate_later">"Maalesef %1$s hizmetiniz şu anda etkinleştirilemiyor.
+
+Hizmeti daha sonra etkinleştirmek için %1$s operatör uygulamasını kullanın."</string>
+    <string name="suw_failed_title">Hizmeti daha sonra etkinleştirin</string>
+    <string name="suw_more_button_label">Diğer</string>
+    <string name="suw_next_button_label">İleri</string>
+    <string name="suw_setting_up_phone_info">"Bir dakikadan daha az süre kaldı
+
+Telefonunuzun yerleşik eSIM'ini kullandığınız için teşekkürler. %1$s operatörünü kullanmak için SIM karta ihtiyacınız yoktur. Ancak bu telefonda istediğiniz zaman bir SIM kart kullanmaya devam edebilirsiniz."</string>
+    <string name="suw_setting_up_phone_title">Telefonunuz ayarlanıyor…</string>
+    <string name="switch_button">Değiştir</string>
+    <string name="switch_carrier_confirm_title">%1$s mobil ağına geçilsin mi?</string>
+    <string name="switch_confirm_option_1">%1$s operatörüne geç</string>
+    <string name="switch_confirm_option_2">%1$s operatöründe kal</string>
+    <string name="switch_confirm_text">Geçiş yapmak %1$s mobil hizmet planınızı iptal etmez.</string>
+    <string name="sys_notification_selected_btn">%1$s operatörüne geç</string>
+    <string name="sys_notification_selected_text">Seçenekler için dokunun</string>
+    <string name="sys_notification_switch_to_esim_btn_no_carrier_name">Ağa geç</string>
+    <string name="sys_notification_switch_to_esim_title">%1$s ağı kullanılabilir</string>
+    <string name="sys_notification_switch_to_esim_title_no_carrier_name">Mobil ağ kullanılabilir</string>
+    <string name="sys_notification_switch_to_psim_btn_no_carrier_name">SIM karta geç</string>
+    <string name="sys_notification_switch_to_psim_title">%1$s SIM kartı takıldı</string>
+    <string name="sys_notification_switch_to_psim_title_no_carrier_name">SIM kart takıldı</string>
+    <string name="sys_notification_switched_btn">%1$s operatörüne geri dön</string>
+    <string name="sys_notification_switched_btn_no_carrier_name">Geri dön</string>
+    <string name="sys_notification_switched_text">"%1$s eSIM'iniz artık etkin değil"</string>
+    <string name="sys_notification_switched_text_no_carrier_name">"Önceki operatör eSIM'iniz artık etkin değil"</string>
+    <string name="sys_notification_switched_title">%1$s operatörüne geçiş yapıldı</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Başka bir operatöre geçiş yapıldı</string>
+    <string name="sys_notification_title">Operatör değiştirme</string>
+    <string name="wrong_code_dialog_text">Bazı operatörler ek güvenlik için onay kodu ister. Kodunuz cihazınızla birlikte gelen bir belgede veya operatörünüzün gönderdiği bir e-postada yazılı olabilir.</string>
+    <string name="msg_camera_framework_bug">Maalesef, Android kamera bir sorunla karşılaştı. Cihazı yeniden başlatmanız gerekebilir.</string>
+    <string name="msg_default_status">Taranacak QR kodunu vizör çerçevesinin içine yerleştirin.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">有 %2$d 个人评了 %1$s 颗星</item>
+        <item quantity="one">有 1 个人评了 %1$s 颗星</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d 天后到期</item>
+        <item quantity="one">%1$d 天后到期</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d 小时后到期</item>
+        <item quantity="one">%1$d 小时后到期</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">另外 %1$d 项</item>
+        <item quantity="one">另外 %1$d 项</item>
+    </plurals>
+</resources>

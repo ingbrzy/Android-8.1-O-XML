@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontakter tillagda på etikett %2$s</item>
+        <item quantity="one">%1$d kontakt tillagd på etikett %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Lägger till %1$d kontakter till etiketten %2$s</item>
+        <item quantity="one">Lägger till %1$d kontakt till etiketten %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Granska föreslagen information om %d kontakter</item>
+        <item quantity="one">Granska föreslagen information om %d kontakt</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d skräpkontakter</item>
+        <item quantity="one">%d skräpkontakt</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d dubblettkontakter</item>
+        <item quantity="one">En dublettkontakt</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d senaste samtal • Senast den %2$s</item>
+        <item quantity="one">%1$d senaste samtal • Senast den %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontakter redan tillagda på etiketten %1$s</item>
+        <item quantity="one">Kontakt redan tillagd på etiketten %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontakter · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontakter raderade</item>
+        <item quantity="one">%1$d kontakt raderad</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Dessa kontakter tas bort från Google Kontakter och alla synkroniserade enheter.</item>
+        <item quantity="one">Den här kontakten tas bort från Google Kontakter och alla synkroniserade enheter.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontakter i dina andra konton</item>
+        <item quantity="one">En kontakt i dina andra konton</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontakter</item>
+        <item quantity="one">En kontakt</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontakter • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Flytta dessa %1$d kontakter till %2$s?</item>
+        <item quantity="one">Flytta den här kontakten till %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Flyttade %d kontakter</item>
+        <item quantity="one">Flyttade %d kontakt</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d kontakter flyttade</item>
+        <item quantity="one">Kontakt flyttad</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Flyttar %d kontakter</item>
+        <item quantity="one">Flytar kontakt</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontakter har säkerhetskopierats till %2$s</item>
+        <item quantity="one">%1$d kontakt har säkerhetskopierats till %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importera från SIM-kort</item>
+        <item quantity="one">Importera från SIM-kort</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">En kontakt</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-kontakter importerade</item>
+        <item quantity="one">En SIM-kontakt importerad</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Dela kontakter med</item>
+        <item quantity="one">Dela kontakt med</item>
+    </plurals>
+</resources>

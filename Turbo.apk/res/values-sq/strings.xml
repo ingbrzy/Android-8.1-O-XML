@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Pastro kërkimin</string>
+    <string name="place_autocomplete_search_hint">Kërko</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="common_google_play_services_enable_button">Aktivizo</string>
+    <string name="common_google_play_services_enable_text">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_enable_title">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_install_button">Instalo</string>
+    <string name="common_google_play_services_install_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde.</string>
+    <string name="common_google_play_services_install_title">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_notification_ticker">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote.</string>
+    <string name="common_google_play_services_update_button">Përditëso</string>
+    <string name="common_google_play_services_update_text">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_update_title">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_updating_text">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="common_google_play_services_wear_update_text">Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti.</string>
+    <string name="common_open_on_phone">Hape në telefon</string>
+    <string name="common_signin_button_text">Identifikohu</string>
+    <string name="common_signin_button_text_long">Identifikohu me Google</string>
+    <string name="anomaly_entry_system">Sistemi Android</string>
+    <string name="background_battery_usage_description">U gjet përdorim i lartë i baterisë në sfond</string>
+    <string name="battery_history_days">%1$d ditë %2$d orë %3$d min. %4$d sek.</string>
+    <string name="battery_history_hours">%1$d orë %2$d min. %3$d sek.</string>
+    <string name="battery_history_minutes">%1$d minuta %2$d sekonda</string>
+    <string name="battery_history_seconds">%1$d sek.</string>
+    <string name="battery_history_days_no_seconds">%1$d ditë %2$d orë %3$d min.</string>
+    <string name="battery_history_hours_no_seconds">%1$d orë %2$d min.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min.</string>
+    <string name="notification_channel_name">Njoftimi për nivelin e ulët të baterisë</string>
+    <string name="time_remaining_warning_subtext">Rreth %1$s të mbetura bazuar në përdorimin tënd</string>
+    <string name="time_remaining_warning_text">Bateria mund të mbarojë së shpejti</string>
+    <string name="usage_alerts_empty_state">Asnjë sinjalizim që prej ngarkimit të fundit të plotë të baterisë</string>
+    <string name="usage_alerts_title">Sinjalizimet për përdorimin</string>
+</resources>

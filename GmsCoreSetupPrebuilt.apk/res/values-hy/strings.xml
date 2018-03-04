@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Գնումներ հավելվածի միջոցով</string>
+    <string name="app_has_permissions">Թույլտվություններ՝ %s</string>
+    <string name="app_has_runtime_permissions">Հավելվածը կհայցի թույլտվություններ</string>
+    <string name="app_picker_app_already_installed_toast">Այս հավելվածն արդեն տեղադրված է</string>
+    <string name="app_picker_loading">Հասանելի հավելվածների որոնում…</string>
+    <string name="app_picker_loading_toast">Հասանելի հավելվածները շուտով կբեռնվեն</string>
+    <string name="app_picker_no_apps">Ոչ մի հավելված չի ընտրվել</string>
+    <string name="app_picker_no_apps_found">Հավելվածներ չեն գտնվել</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Հավելվածի միջոցով կատարված գնումները ^1 սարք չեն փոխանցվի:</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Հավելվածի միջոցով կատարված որոշ գնումներ չեն կարող փոխանցվել ^1 սարք:</string>
+    <string name="apps_permissions_described_v2">"Android հավելվածներին հնարավոր է համապատասխանեցնել միայն հայտնի, անվճար iOS® հավելվածներ: Հավելվածներից կատարված գնումներից շատերը չեն փոխանցվի: Կարգավորումն ավարտելուց հետո Play Խանութում կարող եք գտնել այլ հավելվածներ:
+
+Հնարավոր է, որ ձեզանից պահանջվի որոշ հավելվածներին տրամադրել սարքի որոշ հնարավորությունները կամ տվյալները օգտագործելու նախնական համաձայնություն: Թույլտվությունները բաժանվում են առանձին խմբերի: Տեղադրելով այս հավելվածները՝ դուք համաձայնում եք տրամադրել տվյալ խմբում ներառված թույլտվությունները: Թույլտվությունների յուրաքանչյուր խմբի նկարագրությունը կարող եք գտնել ստորև:
+
+Հնարավոր է՝ որոշ հավելվածներ նախնական թույլտվությունների տրամադրում չպահանջեն: Նման հավելվածներն օգտագործելիս դուք կարող եք թույլատրել կամ մերժել առանձին թույլտվությունները՝ նախքան հավելվածը կօգտագործի այդ տեսակի տվյալները:
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Տեղադրելով հավելվածը՝ դուք համաձայնում եք դրա թույլտվությունները: <annotation id="apps_permissions_learn_more">Իմանալ ավելին</annotation></string>
+    <string name="auto_restore_summary">Հավելվածը վերատեղադրելիս վերականգնել պահուստավորված կարգավորումները և տվյալները</string>
+    <string name="auto_restore_title">Ավտոմատ վերականգնում</string>
+    <string name="backup_configure_account_default_summary">Պահուստավորված տվյալները պահող հաշիվ ներկայումս չկա</string>
+    <string name="backup_configure_account_title">Պահուստային հաշիվ</string>
+    <string name="backup_data_summary">Պահուստավորել հավելվածի տվյալները, Wi-Fi գաղտնաբառերը և այլ կարգավորումները Google Drive-ում</string>
+    <string name="backup_data_summary_full">"Սարքի տվյալների (Wi-Fi-ի գաղտնաբառեր և զանգերի պատմություն), ինչպես նաև հավելվածների տվյալների (հավելվածների պահած կարգավորումներ, ֆայլեր և այլն) ինքնաշխատ հեռակա պահուստավորում:
+
+Ինքնաշխատ պահուստավորումը միացնելիս՝ սարքի և հավելվածների տվյալները պարբերաբար պահվում են հեռակա կարգով: Հավելվածների տվյալները նրանց պահած ցանկացած տվյալներն են (կախված մշակողի կարգավորումներից): Դրանց թվում կարող են լինել նաև կոնտակտներ, հաղորդագրություններ, լուսանկարներ և այլ գաղտնի տվյալներ:"</string>
+    <string name="backup_data_title">Պահուստավորել Google Drive-ում</string>
+    <string name="backup_erase_dialog_message">Դադարեցնե՞լ ձեր Wi‑Fi գաղտնաբառերի, էջանիշերի, այլ կարգավորումների և հավելվածների տվյալների պահուստավորումը, ինչպես նաև ջնջել բոլոր պատճենները Google Drive-ից:</string>
+    <string name="backup_erase_dialog_message_full">Դադարեցնե՞լ սարքի տվյալների (օրինակ՝ Wi-Fi-ի գաղտնաբառեր և զանգերի պատմություն) և հավելվածների տվյալների (օրինակ՝ հավելվածների պահած կարգավորումներ և ֆայլեր) պահուստավորումը և ջնջել բոլոր պատճենները Google Drive-ից:</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Չհաջողվեց բացել լուսանկարների կարգավորումները</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Ինքնապահուստավորումը միացնելու դեպքում՝
+
+ ● Սարքի կարգավորումներն ու հավելվածների տվյալները պարբերաբար պահվում են Google Drive-ի առանձին պանակում: Հավելվածների տվյալները այն տվյալներն են, որոնք հավելվածը պահել է (մշակողի կարգավորումների հիման վրա): Դրանց թվում կարող են լինել նաև գաղտնի տվյալներ, օրինակ՝ կոնտակտներ, հաղորդագրություններ և լուսանկարներ:
+
+ Չեն պահուստավորվի մեծ ֆայլերը կամ ֆայլերը, որոնք մշակողները որոշել են չընդգրկել այս ծառայության մեջ:
+
+ ● Սարքում պահվող լուսանկարներն ու տեսագրությունները համաժամեցվում են Google Լուսանկարների ձեր դարանի հետ, ինչը թույլ է տալիս որոնել, փոփոխել, ջնջել և տարածել դրանք ձեր ցանկացած սարքից:
+
+ Ըստ կանխադրման վերբեռնվում են լրիվ լուծաչափով լուսանկարներն ու տեսանյութերը: Դրանք տեղ չեն զբաղեցնում Google Drive-ի պահեստում։
+
+ ● Այս սարքում պահվող կոնտակտներն ու դրանց հետ առնչվող տվյալները համաժամեցվում են Google Կոնտակտներում: Օգտագործեք Google Կոնտակտներ հավելվածը՝ ձեր սարքերում կոնտակտներ որոնելու, փոփոխելու և ջնջելու համար:
+
+ ● Այս սարքում պահվող օրացույցի իրադարձություններն ու դրանց հետ առնչվող տվյալները համաժամեցվում են Google Օրացույցում: Օգտագործեք Google Օրացույց հավելվածը՝ ձեր սարքերում կոնտակտներ որոնելու, փոփոխելու և ջնջելու համար:
+
+ Պահուստավորված տվյալները տեղ չեն զբաղեցնում Google Drive-ի պահեստում:"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Ինքնապահուստավորումը միացնելու դեպքում՝
+
+ ● Սարքի կարգավորումներն ու հավելվածների տվյալները պարբերաբար պահվում են Google Drive-ի առանձին պանակում: Հավելվածների տվյալները այն տվյալներն են, որոնք հավելվածը պահել է (մշակողի կարգավորումների հիման վրա): Դրանց թվում կարող են լինել նաև գաղտնի տվյալներ, օրինակ՝ կոնտակտներ, հաղորդագրություններ և լուսանկարներ:
+
+ Չեն պահուստավորվի մեծ ֆայլերը կամ ֆայլերը, որոնք մշակողները որոշել են չընդգրկել այս ծառայության մեջ:
+
+ ● Այս սարքում պահվող կոնտակտներն ու դրանց հետ առնչվող տվյալները համաժամեցվում են Google Կոնտակտներում: Օգտագործեք Google Կոնտակտներ հավելվածը՝ ձեր սարքերում կոնտակտներ որոնելու, փոփոխելու, ջնջելու և համօգտագործելու համար:
+
+ ● Այս սարքում պահվող օրացույցի իրադարձություններն ու դրանց հետ առնչվող տվյալները համաժամեցվում են Google Օրացույցում: Օգտագործեք Google Օրացույց հավելվածը՝ ձեր սարքերում կոնտակտներ որոնելու, փոփոխելու, ջնջելու և համօգտագործելու համար:
+
+ Պահուստավորված տվյալները տեղ չեն զբաղեցնում Google Drive-ի պահեստում:"</string>
+    <string name="backup_opt_in_backup_description_extra">Օրացույցը, կոնտակտները, լուսանկարները և տեսանյութերը համաժամեցվել են ձեր Google հաշվում և կարող են օգտագործվել տարբեր ծառայությունների կողմից:</string>
+    <string name="backup_opt_in_backup_description_v2">Ավտոմատ պահուստավորման շնորհիվ դուք կարող եք ցանկացած պահի հեշտությամբ վերականգնել կամ փոխել հեռախոսները: <annotation id="backup_opt_in_learn_more">Իմանալ ավելին</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Այս գործողության արդյունքում պահուստավորումը կանջատվի հետևյալի համար՝
+
+Հավելվածներ և հավելվածների տվյալներ
+Զանգերի պատմություն
+Սարքի կարգավորումներ
+Լուսանկարներ և տեսանյութեր
+SMS
+
+Օրացույցը և կոնտակտները կշարունակեն համաժամեցվել ձեր Google հաշվում: Կարգավորումն ավարտելուց հետո կարող եք փոխել համաժամեցման կարգավորումները՝ անցնելով "<annotation id="backup_opt_in_settings_instructions">Կարգավորումներ > Հաշիվներ > Google</annotation>:</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Անջատե՞լ պահուստավորումը:</string>
+    <string name="backup_opt_in_backup_list">"Հավելվածներ և հավելվածների տվյալներ
+Օրացույց
+Զանգերի պատմություն
+Կոնտակտներ
+Սարքի կարգավորումներ (ներառյալ Wi-Fi-ի գաղտնաբառերը)
+Լուսանկարներ և տեսանյութեր
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Պահուստավորված տվյալները ներառում են հետևյալը`</string>
+    <string name="backup_opt_in_backup_title">Պահուստավորել Google Drive-ում</string>
+    <string name="backup_opt_in_disable_backup">Անջատել պահուստավորումը</string>
+    <string name="backup_photos_update">Խնդրում ենք թարմացնել Google Լուսանկարներ հավելվածը</string>
+    <string name="backup_settings_activity_backup_title">Պահուստավորել</string>
+    <string name="backup_settings_activity_title">Պահուստավորում և վերականգնում</string>
+    <string name="byteShort">Բ</string>
+    <string name="cancel_copy_button_text">Չպատճենել</string>
+    <string name="close_button_label">Փակել</string>
+    <string name="cloud_restore_app_picker_button">Վերականգնել</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Պահուստավորված տվյալներում հավելվածներ չկան</string>
+    <string name="cloud_restore_app_picker_title">Ընտրեք հավելվածներ՝ վերականգնելու համար</string>
+    <string name="common_accept">Ընդունել</string>
+    <string name="common_add_account_label">Ավելացնել հաշիվ</string>
+    <string name="common_ads_settings_title">Գովազդ</string>
+    <string name="common_agree">Համաձայն եմ</string>
+    <string name="common_app_name">Google Play ծառայություններ</string>
+    <string name="common_asm_preferences_settings_title">Հաշվի կարգավորումներ</string>
+    <string name="common_asm_privacy_settings_title">Անձնական տվյալներ և գաղտնիություն</string>
+    <string name="common_asm_security_settings_title">Մուտք և անվտանգություն</string>
+    <string name="common_audience_edit_button_label">Փոփոխել</string>
+    <string name="common_cancel">Չեղարկել</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts-ը չի կարող սկսվել (թույլտվության սխալ կա):</string>
+    <string name="common_car_permission_desc">Մուտք դեպի ավտոմեքենայի սպասարկում:</string>
+    <string name="common_car_permission_label">Ավտոմեքենայի սպասարկում</string>
+    <string name="common_chips_label_empty_circles">Օղակներ չկան</string>
+    <string name="common_chips_label_extended_circles">Ընդլայնված օղակներ</string>
+    <string name="common_chips_label_only_you">Միայն դուք</string>
+    <string name="common_chips_label_public">Հանրային</string>
+    <string name="common_chips_label_your_circles">Ձեր օղակները</string>
+    <string name="common_choose_account_label">Ընտրեք հաշիվ</string>
+    <string name="common_clear_app_data_menu_item">Մաքրել հավելվածների տվյալները</string>
+    <string name="common_connected">Կապակցված է</string>
+    <string name="common_connected_apps_settings_title">Կապակցված հավելվածներ</string>
+    <string name="common_connecting">Միանում է...</string>
+    <string name="common_continue">Շարունակել</string>
+    <string name="common_disagree">Համաձայն չեմ</string>
+    <string name="common_disconnect">Անջատել</string>
+    <string name="common_done">Պատրաստ է</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Ուղարկող`</string>
+    <string name="common_games_settings_title">Play Խաղեր</string>
+    <string name="common_get_started">Սկսել</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Միացնել</string>
+    <string name="common_google_play_services_enable_text">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_error_dialog_title">Սխալ</string>
+    <string name="common_google_play_services_install_button">Տեղադրել</string>
+    <string name="common_google_play_services_install_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="common_google_play_services_install_title">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_unknown_issue">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="common_google_play_services_unsupported_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="common_google_play_services_update_button">Թարմացնել</string>
+    <string name="common_google_play_services_update_text">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_update_title">Թարմացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_updating_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="common_google_play_services_updating_title">Google Play ծառայությունների թարմացում</string>
+    <string name="common_google_play_services_wear_update_text">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Տեղադրված Google Play ծառայությունները չեն համապատասխանում կառուցվածքին:</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play ծառայության կառուցվածքը (%1$s) չի համապատասխանում սարքի կառուցվածքին (%2$s):</string>
+    <string name="common_google_play_services_wrong_architecture_title">Կառուցվածքը չի համապատասխանում</string>
+    <string name="common_google_settings">Google-ի կարգավորումներ</string>
+    <string name="common_google_settings_account">Հաշիվ</string>
+    <string name="common_google_settings_credentials_title">Գաղտնաբառերի Smart Lock</string>
+    <string name="common_google_settings_developer">Մշակող</string>
+    <string name="common_google_settings_services">Ծառայություններ</string>
+    <string name="common_got_it">Պարզ է</string>
+    <string name="common_install">Տեղադրել</string>
+    <string name="common_learn_more">Իմանալ ավելին</string>
+    <string name="common_list_apps_menu_help">Օգնություն</string>
+    <string name="common_list_apps_menu_help_and_feedback">Օգնություն և հետադարձ կապ</string>
+    <string name="common_loading">Բեռնում…</string>
+    <string name="common_location_settings_title">Տեղադրություն</string>
+    <string name="common_magictether_settings_title">Մոդեմի ակնթարթային ռեժիմ</string>
+    <string name="common_maps_settings_title">Քարտեզներ և Latitude</string>
+    <string name="common_mdm_feature_name">Android սարքի կառավարիչ</string>
+    <string name="common_missing_url_viewer">Արտաքին url ցույց տալու համար պահանջվող դիտակը բացակայում է:</string>
+    <string name="common_more_options">Այլ ընտրանքներ</string>
+    <string name="common_networking_settings_title">Ցանց</string>
+    <string name="common_no_browser_for_restricted_url">Մուտքը սահմանափակ է: Դիտարկիչ չի գտնվել:</string>
+    <string name="common_no_devices_found">Սարքեր չեն գտնվել</string>
+    <string name="common_no_network">Անհասանելի է, քանի որ սարքը անցանց է</string>
+    <string name="common_no_thanks">Ոչ</string>
+    <string name="common_not_now">Ոչ հիմա</string>
+    <string name="common_off">Անջատած</string>
+    <string name="common_ok">Հաստատել</string>
+    <string name="common_on">Միացած</string>
+    <string name="common_open_on_phone">Բացել հեռախոսով</string>
+    <string name="common_open_source_licenses">Բաց կոդի արտոնագրեր</string>
+    <string name="common_people_settings_title">Կոնտակտներ</string>
+    <string name="common_permissions_enable_in_settings">Միացնել կարգավորումներից</string>
+    <string name="common_permissions_missing_end">Շարունակելու համար բացեք Կարգավորումներն, ապա ընտրեք Թույլտվությունները և տրամադրեք թույլտվություն բոլոր նշված միավորների համար:</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Միացնելու համար անցեք
+Կարգավորումներ >
+Թույլտվություններ >
+Google Play ծառայություններ"</string>
+    <string name="common_permissions_missing_start">Այս հավելվածն ինչպես հարկն է կաշխատի միայն եթե Google Play ծառայությունների հարցմանն ի պատասխան տրամադրեք հետևյալ թույլտվությունները՝</string>
+    <string name="common_permissions_open_settings">Բացել կարգավորումները</string>
+    <string name="common_phone">Հեռախոս</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="common_restore">Վերականգնել</string>
+    <string name="common_retry">Կրկնել</string>
+    <string name="common_search_settings_title">Որոնում</string>
+    <string name="common_security_ootp_setting_title">Անվտանգության կոդ</string>
+    <string name="common_security_settings_title">Անվտանգություն</string>
+    <string name="common_send">Ուղարկել</string>
+    <string name="common_sending">Ուղարկում…</string>
+    <string name="common_set_up_nearby_device_settings_title">Մոտակա սարքի կարգավորում</string>
+    <string name="common_settings">Կարգավորումներ</string>
+    <string name="common_signin_button_text">Մուտք գործել</string>
+    <string name="common_signin_button_text_long">Մուտք գործել Google-ով</string>
+    <string name="common_something_went_wrong">Սխալ առաջացավ</string>
+    <string name="common_system_info">Համակարգի տվյալներ</string>
+    <string name="common_take_photo_label">Լուսանկարել</string>
+    <string name="common_terms_of_service">Օգտագործման պայմաններ</string>
+    <string name="common_try_again">Փորձել նորից</string>
+    <string name="common_turn_on_bluetooth">Միացնել Bluetooth-ը</string>
+    <string name="common_ui_confirm_deleting_button">Ջնջել</string>
+    <string name="common_ui_confirm_deleting_checkbox">Հասկանում եմ և ուզում եմ ջնջել ջնջել</string>
+    <string name="common_unknown">Անհայտ է</string>
+    <string name="common_update">Թարմացնել</string>
+    <string name="common_url_load_unsuccessful_message">Ձեր Android սարքը միացված չէ տվյալների ծառայությանը: Այս տեղեկությունն այժմ տեսնելու համար դիտարկիչով այցելեք %s:</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Ձեր Android սարքը միացված չէ Wi-Fi ցանցին: Այս տեղեկությունը տեսնելու համար վեբ դիտարկչով այցելեք %s:</string>
+    <string name="common_url_login_notice">Մուտք գործել որպես %1$s</string>
+    <string name="common_usage_and_diagnostics">Օգտագործում և ախտորոշում</string>
+    <string name="common_yesterday">Երեկ</string>
+    <string name="confirm_copy_button_text">Պատճենել</string>
+    <string name="contacts_number_device_and_icloud">%1$d կոնտակտ iCloud®-ում, %2$d կոնտակտ սարքում</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Կոնտակտներ, %1$d կոնտակտ iCloud®-ում, %2$d կոնտակտ սարքում</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Կոնտակտներ, %1$d կոնտակտ SIM քարտում, %2$d կոնտակտ սարքում</string>
+    <string name="contacts_number_device_with_google">Google Կոնտակտներ, %1$d կոնտակտ սարքում</string>
+    <string name="contacts_number_icloud_with_google">Google Կոնտակտներ, iCloud®-ում՝ %1$d</string>
+    <string name="contacts_number_sim_with_google">Google Կոնտակտներ, SIM քարտում՝ %1$d</string>
+    <string name="copy_confirmation_description">Ձեր տվյալները (օրինակ՝ Google հաշիվը և հավելվածները) կպատճենվեն նոր հեռախոսում</string>
+    <string name="copy_confirmation_title">Պատճենե՞լ նոր հեռախոսում:</string>
+    <string name="d2d_app_picker_description_no_apps">Չհաջողվեց գտնել հավելվածներ</string>
+    <string name="d2d_app_picker_title">Հավելվածներ</string>
+    <string name="d2d_migration_canceled_on_source">Պատճենումը չեղարկվել է</string>
+    <string name="data_copied_fragment_description">Ձեր տվյալները պատճենվել են նոր հեռախոսում: Կարող եք անջատել մալուխը:</string>
+    <string name="data_copied_fragment_description_cancel">Դուք դադարեցրել եք պատճենումը, ուստի տվյալների մի մասն է միայն պատճենվել նոր հեռախոսում:</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Դուք դադարեցրել եք պատճենումը, ուստի նոր հեռախոսում տվյալներ չեն պատճենվել:</string>
+    <string name="data_copied_fragment_description_error">Առաջացավ սխալ, որի պատճառով չհաջողվեց պատճենել բոլոր տվյալները:</string>
+    <string name="data_copied_fragment_description_error_no_data">Առաջացավ սխալ, որի պատճառով չհաջողվեց պատճենել ձեր տվյալները:</string>
+    <string name="data_copied_fragment_no_data_title">Չհաջողվեց պատճենել</string>
+    <string name="data_copied_fragment_some_data_title">Տվյալների մի մասը պատճենվել է</string>
+    <string name="data_copied_fragment_title">Տվյալները պատճենվել են</string>
+    <string name="device_backup_title">Սարքի պահուստավորում</string>
+    <string name="device_not_supported_fragment_new_device">Դուք միացել եք նոր հեռախոսին: Շարունակելու համար վերամիացեք նախորդին:</string>
+    <string name="device_not_supported_fragment_new_device_title">Վերամիացեք նախորդ հեռախոսին</string>
+    <string name="device_not_supported_fragment_no_data_cable">Այս մալուխը չի կարող տվյալներ փոխանցել: Վերամիացեք մեկ այլ մալուխի օգնությամբ, ապա նորից փորձեք:</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Փորձեք մեկ այլ մալուխ</string>
+    <string name="device_not_supported_fragment_retry_description">Համոզվեք, որ հին հեռախոսն ապակողպված է, ապա անջատեք և կրկին միացրեք մալուխը</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Սխալ առաջացավ</string>
+    <string name="device_not_supported_ios_supervised_description">Քանի որ ձեր iPhone® սարքը վերահսկվում է, դուք պետք է ընտրեք տվյալները պատճենելու մեկ այլ եղանակ</string>
+    <string name="device_picker_description">Պահուստավորված է Google Drive-ում</string>
+    <string name="device_picker_empty">%1$s հաշվին միացված պահուստային տվյալներ չկան։</string>
+    <string name="device_picker_empty_title">Պահուստային տվյալներ չեն գտնվել</string>
+    <string name="device_picker_item">%1$s-ի պահուստավորված տվյալներ</string>
+    <string name="device_picker_last_used">Վերջին օգտագործման ամսաթիվը՝ ^1</string>
+    <string name="device_picker_skip">Չվերականգնել</string>
+    <string name="device_picker_title">Վերականգնելու համար ընտրեք պահուստավորված տվյալները</string>
+    <string name="disabled_by_admin_summary_text">Վերահսկվում է ադմինիստրատորի կողմից</string>
+    <string name="download_msg_error_invalid">Ներբեռնումը սխալ է սահմանվել:</string>
+    <string name="download_msg_in_progress">Ներբեռնումն ընթացքի մեջ է:</string>
+    <string name="download_msg_not_allowed_space">Բավարար տարածք չկա ներբեռնումը կատարելու համար:</string>
+    <string name="download_msg_pending">Ներբեռնումը սպասման մեջ է:</string>
+    <string name="download_notification_description">%1$s-ը հարցում է կատարել սրա մասին:</string>
+    <string name="download_notification_title">Առբերվում են ավելի շատ տվյալներ</string>
+    <string name="drive_backup_account">Հաշիվ</string>
+    <string name="drive_backup_apps_in_backup">Պահուստավորված տվյալներով հավելվածներ</string>
+    <string name="drive_backup_apps_last_backup">Վերջին պահուստավորումը</string>
+    <string name="drive_backup_apps_loading">Բեռնում…</string>
+    <string name="drive_backup_apps_screen_title">Հավելվածի տվյալներ</string>
+    <string name="drive_backup_content_apps_title">Հավելվածի տվյալներ</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Օրացույցում ստեղծված միջոցառումները կհամաժամեցվեն բոլոր սարքերում, որոնց միջոցով մուտք եք գործել ձեր Google հաշիվ:</string>
+    <string name="drive_backup_content_calendar_title">Օրացույց</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Պահուստավորվող տվյալները ներառում են տվյալներ ելքային և մուտքային զանգերի ամսաթվերի և հասցեատերերի մասին։</string>
+    <string name="drive_backup_content_callhistory_title">Զանգերի պատմություն</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Կոնտակտներում ստեղծված կոնտակտները կհամաժամեցվեն բոլոր սարքերում, որոնց միջոցով մուտք եք գործել ձեր Google հաշիվ:</string>
+    <string name="drive_backup_content_contacts_title">Կոնտակտներ</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Պահուստավորվող տվյալները ներառում են սարքի կարգավորումները, օրինակ՝ պաստառը, WiFi–ի գաղտնաբառերը և կանխադրված հավելվածները:</string>
+    <string name="drive_backup_content_devicesettings_title">Սարքի կարգավորումները</string>
+    <string name="drive_backup_content_header">Բովանդակություն</string>
+    <string name="drive_backup_content_photos_dialog_message">Ձեր պահուստավորման առաջնային հաշիվը փոխվել է: Google Լուսանկարների պահուստավորման հաշիվը կարող եք նույնպես փոխել %s-ի:</string>
+    <string name="drive_backup_content_photos_dialog_no">ՓԱԿԵԼ</string>
+    <string name="drive_backup_content_photos_dialog_title">Փոխե՞լ նաև լուսանկարների և տեսանյութերի պահուստավորման հաշիվը:</string>
+    <string name="drive_backup_content_photos_dialog_yes">ՓՈԽԵԼ</string>
+    <string name="drive_backup_content_photos_title">Լուսանկարներ և տեսանյութեր</string>
+    <string name="drive_backup_content_sms_dialog_message">Պահուստավորվող տվյալները ներառում են ստացված և ուղարկված հաղորդագրությունները:</string>
+    <string name="drive_backup_content_sms_title">SMS հաղորդագրություններ</string>
+    <string name="drive_backup_content_status_dolly_action">Պարզ է</string>
+    <string name="drive_backup_content_status_error">Չհաջողվեց ստանալ վերջին համաժամեցման ամսաթիվը</string>
+    <string name="drive_backup_content_status_lastsaved">Վերջին պահուստավորում՝ %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Վերջին համաժամեցում՝ %1$s</string>
+    <string name="drive_backup_content_status_never">Պահուստավորման սպասում</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Համաժամեցման կարգավորումներ</string>
+    <string name="drive_backup_content_status_sync_off">Համաժամեցումն անջատված է</string>
+    <string name="drive_backup_content_status_updating">Կարգավիճակի ստուգում…</string>
+    <string name="drive_backup_disabled_backuplist">"Պահուստավորված տվյալները ներառում են հետևյալը՝
+\u0009- Հավելվածներ և հավելվածների տվյալներ
+\u0009- Զանգերի պատմություն
+\u0009- Սարքի կարգավորումներ (ներառյալ Wi-Fi-ի գաղտնաբառերը)
+\u0009- Google Օրացույց
+\u0009- Google Կոնտակտներ
+\u0009- Լուսանկարներ և տեսանյութեր
+\u0009- SMS-ներ"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Պահուստավորված տվյալները ներառում են հետևյալը՝
+ - Հավելվածներ և հավելվածների տվյալներ
+ - Զանգերի պատմություն
+ - Սարքի կարգավորումներ (ներառյալ Wi-Fi-ի գաղտնաբառերը)
+ - Google Օրացույց
+- Google Կոնտակտներ
+ - SMS-ներ"</string>
+    <string name="drive_backup_disabled_by_device_owner">Անջատվել է ձեր ադմինիստրատորի կողմից</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Օրացույցը, Google Կոնտակտները, լուսանկարները և տեսանյութերը համաժամեցվում են ձեր Google հաշվի հետ և կարող են օգտագործվել տարբեր ծառայությունների կողմից:
+
+Համաժամեցումը հնարավոր է ակտիվացնել նույնիսկ եթե պահուստավորումն անջատված է: Համաժամեցման կարգավորումները հնարավոր է փոխել՝ անցնելով Կարգավորումներ > Հաշիվներ > Google:"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Օրացույցը և Google Կոնտակտները համաժամեցվում են ձեր Google հաշվի հետ և կարող են օգտագործվել տարբեր ծառայությունների կողմից:
+
+Համաժամեցումը հնարավոր է ակտիվացնել, նույնիսկ եթե պահուստավորումն անջատված է: Համաժամեցման կարգավորումները հնարավոր է փոխել՝ անցնելով Կարգավորումներ > Հաշիվներ > Google:"</string>
+    <string name="drive_backup_disabled_introduction">Ինքնաշխատ պահուստավորումը թույլ է տալիս ցանկացած պահի հեշտությամբ վերականգնել կամ փոխել հեռախոսը:</string>
+    <string name="drive_backup_settings_title">Պահուստավորել</string>
+    <string name="drive_backup_state">Պահուստավորել Google Drive-ում</string>
+    <string name="drive_backup_state_dialog_message">"Այս սարքի Google Drive-ում պահուստավորված տվյալներն ընդմիշտ կջնջվեն:
+
+Սակայն արդեն իսկ պահուստավորված լուսանկարներն ու տեսանյութերը հասանելի կլինեն Google Drive-ում:
+
+Google Օրացույցը և Google Կոնտակտները կշարունակեն համաժամեցվել ձեր Google հաշվի հետ: Համաժամեցման կարգավորումները կարող եք փոխել՝ անցնելով Կարգավորումներ > Հաշիվներ > Google:"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Այս սարքի Google Drive-ում պահուստավորված տվյալներն ընդմիշտ կջնջվեն:
+
+Google Օրացույցը և Google Կոնտակտները կշարունակեն համաժամեցվել ձեր Google հաշվի հետ: Համաժամեցման կարգավորումները կարող եք փոխել՝ անցնելով Կարգավորումներ > Հաշիվներ > Google:"</string>
+    <string name="drive_backup_state_dialog_okaction">Անջատել և ջնջել</string>
+    <string name="drive_backup_state_dialog_title">Անջատե՞լ և ջնջել պահուստավորված տվյալները:</string>
+    <string name="durationDayHour">%1$d օր %2$d ժամ</string>
+    <string name="durationDayHours">%1$d օր %2$d ժամ</string>
+    <string name="durationDays">%1$d օր</string>
+    <string name="durationHourMinute">%1$d ժամ %2$d րոպե</string>
+    <string name="durationHourMinutes">%1$d ժամ %2$d րոպե</string>
+    <string name="durationHours">%1$d ժամ</string>
+    <string name="durationMinute">%1$d րոպե</string>
+    <string name="durationMinuteSecond">%1$d րոպե %2$d վայրկյան</string>
+    <string name="durationMinuteSeconds">%1$d րոպե %2$d վայրկյան</string>
+    <string name="durationMinutes">%1$d րոպե</string>
+    <string name="durationSecond">%1$d վայրկյան</string>
+    <string name="durationSeconds">%1$d վայրկյան</string>
+    <string name="encryption_warning_fragment_description">"Ձեր iPhone® սարքում միացված է պահուստային տվյալների գաղտնագրումը: Եթե դուք չեք միացրել այդ գործառույթը, ապա հնարավոր է, որ դա արել է ձեր ՏՏ ադմինիստրատորը:
+
+Հնարավոր է պատճենել միայն լուսանկարները, երաժշտությունը և տեսանյութերը: Լրացուցիչ տեղեկությունների համար այցելեք "<b>g.co/datatransferhelp</b>:</string>
+    <string name="encryption_warning_fragment_title">Պահուստային տվյալների գաղտնագրում</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Չեմ կարող գտնել հարմարիչը</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Գտեք Quick Switch Adapter-ը ^1-ի տուփի մեջ:
+
+Մալուխը միացրեք ադապտերին:"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Միացրեք հարմարիչը և մալուխը</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Ապակողպեք հին սարքը, ապա հարմարիչը միացրեք հեռախոսին:</string>
+    <string name="fragment_usb_connect_both_phones_title">Երկու հեռախոսները միացրեք միմյանց</string>
+    <string name="fragment_usb_dialog_cancel_description">Բովանդակության մեծ մասը հնարավոր է տեղափոխել մալուխի միջոցով: Եթե տուփի մեջ պարունակվող մալուխները պիտանի չեն, ապա փորձեք օգտագործել ձեր հին հեռախոսի հետ համատեղելի լիցքավորման կամ տվյալների մալուխ:</string>
+    <string name="fragment_usb_dialog_cancel_title">Պատճենե՞լ տվյալները մեկ այլ եղանակով:</string>
+    <string name="fragment_usb_dont_have_cable">Մալուխ չունեմ</string>
+    <string name="fragment_usb_dont_have_old_phone">Հին հեռախոսն ինձ մոտ չէ</string>
+    <string name="fragment_usb_find_cable_description">Օգտագործեք ձեր հին հեռախոսի հետ համատեղելի մալուխ, օրինակ՝ տվյալների կամ լիցքավորման մալուխը:</string>
+    <string name="fragment_usb_find_cable_title">Գտեք ճիշտ մալուխը</string>
+    <string name="fragment_usb_initial_description">Ձեր հին հեռախոսի տվյալները փոխանցեք այս ^1 սարք:</string>
+    <string name="fragment_usb_initial_title">Փորձենք պատճենել ձեր տվյալները</string>
+    <string name="fragment_usb_legacy_description">"Սա տվյալների մեծամասնությունը պատճենելու ամենաարագ եղանակն է:
+
+Տուփի մեջ գտեք հարմարիչը և միացրեք այն ձեր նոր հեռախոսին: Հեռախոսները մալուխի միջոցով միացրեք միմյանց և ապակողպեք ձեր հին հեռախոսը:"</string>
+    <string name="fragment_usb_other_ways">Պատճենել առանց մալուխի</string>
+    <string name="fragment_usb_plug_cable">Միացրեք մալուխը հին հեռախոսին</string>
+    <string name="fragment_waiting_title">Սպասեք մի փոքր…</string>
+    <string name="gigabyteShort">ԳԲ</string>
+    <string name="google_contacts_static_text">Google Կոնտակտները կհամաժամեցվի</string>
+    <string name="google_contacts_static_text_off">Google Կոնտակտները կշարունակեն համաժամեցվել</string>
+    <string name="header_set_backup_account">Սահմանել պահուստավորման հաշիվ</string>
+    <string name="i_message_dialog_message">"Ձեզ անհրաժեշտ է անջատել iMessage®-ը, որպեսզի կարողանաք շարունակել iPhone®-ի օգտատերերից հաղորդագրություններ ստանալ:
+
+Ցուցումներ ստանալու համար այցելեք "<b>g.co/iMessageHelp</b>:</string>
+    <string name="instructions_fragment_title">Շարունակեք մյուս հեռախոսի վրա</string>
+    <string name="ios_connected_fragment_description">"Հաջորդ էկրանին կարող եք մուտք գործել ձեր Google հաշիվ կամ ստեղծել նորը:
+
+Եթե Google հաշիվ չավելացնեք, ձեր iOS Calendar® օրացույցի միջոցառումները չեն փոխանցվի:"</string>
+    <string name="ios_message_attachment_explanation">[Ձեր հաղորդագրությունների կցորդները պահվել են Google Լուսանկարներ > Սարքի պանակներ > Հաղորդագրությունների կցորդներ պանակում]</string>
+    <string name="ios_message_attachment_failed_explanation">[Կցորդների մի մասը հնարավոր չէ պատճենել: Փոխանցված կցորդները կարող եք գտնել Google Լուսանկարներ > Սարքի պանակներ > Հաղորդագրությունների կցորդներ պանակում]</string>
+    <string name="ios_message_attachment_placeholder">[Կցորդը պահվել է Google Լուսանկարներ > Սարքի պանակներ > Հաղորդագրությունների կցորդներ պանակում]</string>
+    <string name="ios_message_attachments_placeholder">[Կցորդները պահվել են Google Լուսանկարներ > Սարքի պանակներ > Հաղորդագրությունների կցորդներ պանակում]</string>
+    <string name="ios_migration_default_calendar_title">Օրացույց</string>
+    <string name="ios_migration_other_contact_relation">Այլ</string>
+    <string name="ios_photos_dialog_message">"iCloud®-ում պահված լուսանկարները հնարավոր չէ պատճենել:
+
+Այդ լուսանկարները ^1 սարքում պատճենելու համար iPhone® սարքում տեղադրեք Google Լուսանկարներ հավելվածը և միացրեք Պահուստավորում և համաժամեցում կարգավորումը: Լրացուցիչ ցուցումներ ստանալու համար այցելեք "<b>g.co/datatransferhelp</b>:</string>
+    <string name="kilobyteShort">կԲ</string>
+    <string name="list_item_add_account">Ավելացնել հաշիվ</string>
+    <string name="lockscreen_smartdevice_action_next">Հաջորդը</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Ապակողպեք և շարունակեք հեռախոսի կարգավորումը</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Անվտանգության նկատառումներից ելնելով պետք է հաստատեք էկրանի կողպման եղանակը՝ կարգավորումը շարունակելու համար</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Հաստատեք էկրանի կողպման եղանակը</string>
+    <string name="manage_data_label">Google հաշիվ</string>
+    <string name="master_clear_title">Վերակայել բոլոր տվյալները</string>
+    <string name="megabyteShort">ՄԲ</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Պետք է ստեղծել պահուստավորման հաշիվ</string>
+    <string name="notification_content_title_set_backup_account">Պահուստավորում</string>
+    <string name="notification_ticker_set_backup_account">Անհրաժեշտ է պահուստավորման հաշիվ</string>
+    <string name="permgrouplab_calendar">Օրացույց</string>
+    <string name="permgrouplab_camera">Տեսախցիկ</string>
+    <string name="permgrouplab_contacts">Կոնտակտներ</string>
+    <string name="permgrouplab_location">Տեղադրություն</string>
+    <string name="permgrouplab_microphone">Խոսափող</string>
+    <string name="permgrouplab_phone">Հեռախոս</string>
+    <string name="permgrouplab_sensors">Մարմնի սենսորներ</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Հիշողություն</string>
+    <string name="petabyteShort">ՊԲ</string>
+    <string name="photo_backup_configure_account_default_summary">Պահուստավորված լուսանկարները պահող հաշիվ ներկայումս չկա</string>
+    <string name="photos_backup_title">Լուսանկարների պահուստավորում</string>
+    <string name="photos_filtering_option_all">Բոլորը</string>
+    <string name="photos_filtering_option_none">Ոչ մեկը</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Պատճենված կոնտակտները կպահվեն ձեր Google հաշվում:</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Պատճենված կոնտակտներն ու օրացույցները կպահվեն ձեր Google հաշվում:</string>
+    <string name="restore_choice_data_disclaimer_v2">Ձեր տվյալների մի մասը հնարավոր չէ պատճենվել ^1 սարքում: <annotation id="restore_choice_data_disclaimer_learn_more">Իմանալ ավելին</annotation></string>
+    <string name="restore_choice_deselect_some_content">Շարունակելու համար ապանշեք բովանդակության մի մասը</string>
+    <string name="restore_choice_learn_more_android">"Ձեր հին հեռախոսի որոշ տվյալներ հնարավոր չէ պատճենել ավտոմատ կերպով՝
+
+ ● Ներբեռնումներ (օրինակ՝ PDF ֆայլեր)
+
+ ● Թաքցված պանակներում պարունակվող լուսանկարներ, տեսանյութեր և երաժշտություն
+
+ ● Տեքստային հաղորդագրությունների միջոցով ստացված լուսանկարներ, տեսանյութեր և երաժշտություն
+
+ ● Հավելվածներ, որոնք Google Play Խանութի միջոցով չեն ստացվել
+
+ ● Հավելվածների տվյալներ (եթե հավելվածը չի օգտագործում Android պահուստավորումը)
+
+ ● Սարքի որոշակի կարգավորումներ
+
+ ● Google հաշիվներից բացի այլ հաշիվներ (և դրանց հետ կապակցված տվյալներ)
+
+ ● Google-ից բացի այլ ծառայությունների հետ համաժամեցված կոնտակտներ և օրացույցներ
+
+ ● Զանգերանգներ
+
+ Նշված տվյալների պատճենման վերաբերյալ լրացուցիչ տեղեկություններ և օգնություն ստանալու համար այցելեք g.co/datatransferhelp:"</string>
+    <string name="restore_choice_learn_more_ios">"Ձեր հին հեռախոսի որոշ տվյալներ հնարավոր չէ պատճենել ավտոմատ կերպով՝
+
+ ● Հավելվածներ և հավելվածների տվյալներ
+
+ ● Լուսանկարներ, որոնց բնօրինակները ձեր հեռախոսում չեն պահվում (օրինակ՝ երբ «Հիշողության օպտիմալացում» կարգավորումը միացված է, լուսանկարների բնօրինակները պահվում են iCloud®-ում)
+
+ ● iCloud®-ում պահված ֆայլեր և փաստաթղթեր
+
+ ● Սարքի կարգավորումներ (օրինակ՝ Wi-Fi գաղտնաբառեր, պաստառ)
+
+ ● Թվային իրավունքների կառավարման (DRM) համակարգով պաշտպանված երաժշտություն (օրինակ՝ մինչև 2009թ. ապրիլը iTunes(R)-ից գնված երաժշտություն կամ երաժշտության հեռարձակման հավելվածների միջոցով անցանց ունկնդրելու նպատակով ներբեռնված երաժշտություն)
+
+ ● Google հաշիվներից բացի այլ հաշիվներ (և դրանց հետ կապակցված տվյալներ)
+
+ ● Google-ից և iCloud®-ից բացի այլ ծառայությունների հետ համաժամեցված կոնտակտներ և օրացույցներ
+
+ ● Safari®-ի էջանիշեր
+
+ iMessage®-ի կցորդները հասանելի կլինեն այստեղ՝ Google Լուսանկարներ > Սարքի պանակներ > Հաղորդագրությունների կցորդներ:
+
+ Նշված տվյալների պատճենման վերաբերյալ լրացուցիչ տեղեկություններ և օգնություն ստանալու համար այցելեք g.co/datatransferhelp:"</string>
+    <string name="restore_choice_not_enough_space">Բավարար տարածք չկա</string>
+    <string name="restore_choice_total_text">ձեզ հասանելի %1$s / %2$s փոխանցման</string>
+    <string name="restore_error_message">Ներեցեք, վերականգնելու ընթացքում առաջացավ խնդիր։</string>
+    <string name="restore_item_appdata">Հավելվածի տվյալներ</string>
+    <string name="restore_item_calendar">Օրացույց</string>
+    <string name="restore_item_calendar_ical_description">iOS® Օրացույց, Google Օրացույց</string>
+    <string name="restore_item_calendar_ical_off_description">Google Օրացույցը կշարունակի համաժամեցվել</string>
+    <string name="restore_item_calendar_sync_description">Google Օրացույցը կհամաժամեցվի</string>
+    <string name="restore_item_call_logs">Զանգերի պատմություն</string>
+    <string name="restore_item_contacts">Կոնտակտներ</string>
+    <string name="restore_item_device_settings_description">Wi-Fi գաղտնաբառեր և ավելին</string>
+    <string name="restore_item_downloads">Ներբեռնումներ</string>
+    <string name="restore_item_email">Էլեկտրոնային նամակներ</string>
+    <string name="restore_item_email_description">Gmail-ը կհամաժամեցվի</string>
+    <string name="restore_item_message_attachments">Հաղորդագրությունների կցորդներ</string>
+    <string name="restore_item_messages">Հաղորդագրություններ</string>
+    <string name="restore_item_music">Երաժշտություն</string>
+    <string name="restore_item_photos">Լուսանկարներ և տեսանյութեր</string>
+    <string name="restore_item_settings">Սարքի կարգավորումներ</string>
+    <string name="restore_item_sms">SMS հաղորդագրություններ</string>
+    <string name="restore_item_will_be_synced_text">Տվյալները կհամաժամեցվեն ձեր հեռախոսի հետ</string>
+    <string name="restore_progress_title">Վերականգնում…</string>
+    <string name="small_time_duration">1 րոպեից պակաս</string>
+    <string name="source_connected_description">Պատրաստում...</string>
+    <string name="source_connected_title">Կապակցվել է ձեր %1$s սարքին</string>
+    <string name="source_copying_description">Ձեր ընտրած տվյալները պատճենվում են նոր հեռախոսում</string>
+    <string name="source_copying_title">Պատճենում...</string>
+    <string name="source_default_target_device_name">նոր սարք</string>
+    <string name="source_notification_device_disconnected">Կրկին միացրեք մալուխը</string>
+    <string name="source_notification_text">Տվյալները փոխանցվում են հեռախոսից հեռախոս</string>
+    <string name="source_notification_title">Տվյալների փոխանցում</string>
+    <string name="source_success_description">Ավարտեք կարգավորումը %1$s սարքի վրա:</string>
+    <string name="source_success_screen_title">Ամեն ինչ պատրաստ է:</string>
+    <string name="source_unplugged_description">Նորից միացրեք %1$s-ին</string>
+    <string name="source_unplugged_title">Մալուխն անջատված է</string>
+    <string name="source_waiting_title">Շարունակեք կարգավորումը %1$s սարքի վրա</string>
+    <string name="stop_copying_dialog_continue_button">Մերժել</string>
+    <string name="stop_copying_dialog_message_before_transfer">Ձեր տվյալները նոր հեռախոսում չեն պատճենվել</string>
+    <string name="stop_copying_dialog_message_during_transfer">Ձեր տվյալների մի մասը նոր հեռախոսում չի պատճենվել</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Չպատճենել</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Դադարեցնել</string>
+    <string name="stop_copying_dialog_title_before_transfer">Չպատճենե՞լ:</string>
+    <string name="stop_copying_dialog_title_during_transfer">Դադարեցնե՞լ պատճենումը:</string>
+    <string name="storage_management_wear_descriptive_text">Ծրագրերն օգտագործում են ձեր սարքի պահեստը, որպեսզի կարողանան տվյալները վերարտադրել շարժականի:</string>
+    <string name="storage_management_wear_manage_size_label">Կառավարել շարժական պահեստը</string>
+    <string name="storage_management_wear_size_label">Շարժական պահեստ</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play ծառայությունների կողմից օգտագործվող ընդհանուր տվյալները, այդ թվում` որոնողական համակարգը և այլ տվյալներ:</string>
+    <string name="storage_managment_clear_all_data">Մաքրել բոլոր տվյալները</string>
+    <string name="storage_managment_computing_size">Հաշվարկվում է…</string>
+    <string name="storage_managment_icing_size_label">Որոնման տվյալներ</string>
+    <string name="storage_managment_manage_icing_button">Կառավարել որոնման տվյալները</string>
+    <string name="storage_managment_search_index_descriptive_text">Մենք արագացնում ենք որոնումը ձեր սարքում՝ տրամադրելով որոնման համակարգ Apps-ի օգտագործման համար:</string>
+    <string name="storage_managment_title">Google Play ծառայությունների պահուստ</string>
+    <string name="storage_managment_total_size_label">Ընդհանուր հիշողությունը</string>
+    <string name="suw_back_button_label">Հետ</string>
+    <string name="suw_more_button_label">Ավելին</string>
+    <string name="suw_next_button_label">Առաջ</string>
+    <string name="target_default_source_device_model">հին սարքը</string>
+    <string name="target_device_not_supported_cant_continue_description">Դուք պետք է ընտրեք տվյալները պատճենելու մեկ այլ եղանակ</string>
+    <string name="target_device_not_supported_cant_continue_title">Մյուս հեռախոսը չի աջակցվում</string>
+    <string name="target_device_not_supported_try_restarting_description">"Անջատեք մալուխը և վերագործարկեք հին հեռախոսը, ապա կրկին միացրեք մալուխը և հետևեք Pixel սարքի էկրանի վրա հայտնվող ցուցումներին:
+
+Եթե սխալը չվերանա, ապա փորձեք պատճենել մեկ այլ եղնակով:"</string>
+    <string name="target_device_not_supported_try_restarting_title">Հնարավոր է՝ հեռախոսը համատեղելի չէ</string>
+    <string name="target_smart_device_timeout_add_account">ԱՎԵԼԱՑՆԵԼ ՀԱՇԻՎ</string>
+    <string name="target_smart_device_timeout_description">Ցանկության դեպքում կարող եք փորձել հաշիվն ավելացնել ձեռքով</string>
+    <string name="target_smart_device_timeout_dismiss">ՓԱԿԵԼ</string>
+    <string name="target_smart_device_timeout_title">Խնդիր ունե՞ք:</string>
+    <string name="terabyteShort">ՏԲ</string>
+    <string name="toast_phones_connected">Հեռախոսները կապված են</string>
+    <string name="toast_reconnect_cable">Կրկին միացրեք մալուխը</string>
+    <string name="transfer_finished_fragment_title">Կարգավորումն ավարտվում է...</string>
+    <string name="transfer_summary_copied">Տվյալները պատճենվել են</string>
+    <string name="transfer_summary_fragment_description">Կարող եք անջատել մալուխը:</string>
+    <string name="transfer_summary_fragment_finish">ԱՎԱՐՏԵԼ</string>
+    <string name="transfer_summary_fragment_title">Ձեր հեռախոսը համարյա պատրաստ է</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Ձեր լուսանկարների մի մասը չի պատճենվել: <annotation id="transfer_summary_learn_more">Իմանալ ավելին</annotation></string>
+    <string name="transfer_summary_not_copied">Տվյալները չեն պատճենվել</string>
+    <string name="transfer_summary_partial">%2$s-ից պատճենվել է %1$s-ը</string>
+    <string name="transfer_summary_will_sync">Տվյալները կհամաժամեցվեն տեղադրելուց հետո</string>
+    <string name="transferring_fragment_calculating_remaining_time">Հաշվարկվում է մնացած ժամանակը...</string>
+    <string name="transferring_fragment_header">Պատճենում...</string>
+    <string name="transferring_fragment_remaining_time">Մնացել է %1$s</string>
+    <string name="trust_instructions_description">Շարունակելու համար հաստատեք կապակցումը ձեր iPhone® սարքում</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari և iTunes ապրանքանիշերը Apple Inc. ընկերության ԱՄՆ-ում և այլ երկրներում գրանցված ապրանքանիշերն են:</string>
+</resources>

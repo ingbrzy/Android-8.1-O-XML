@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d aplikací (vše)</item>
+        <item quantity="one">1 aplikace</item>
+        <item quantity="few">%1$d aplikace (vše)</item>
+        <item quantity="many">%1$d aplikace (vše)</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d vybraných aplikací</item>
+        <item quantity="one">1 vybraná aplikace</item>
+        <item quantity="few">%1$d vybrané aplikace</item>
+        <item quantity="many">%1$d vybrané aplikace</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d aplikací již je nainstalováno</item>
+        <item quantity="one">1 aplikace již je nainstalována</item>
+        <item quantity="few">%1$d aplikace již jsou nainstalovány</item>
+        <item quantity="many">%1$d aplikace již je nainstalováno</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Záloha obsahuje %1$d aplikací. Vyberte jich několik nebo přeneste všechny.</item>
+        <item quantity="one">Záloha obsahuje %1$d aplikaci.</item>
+        <item quantity="few">Záloha obsahuje %1$d aplikace. Vyberte jich několik nebo přeneste všechny.</item>
+        <item quantity="many">Záloha obsahuje %1$d aplikace. Vyberte jich několik nebo přeneste všechny.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontaktů v zařízení</item>
+        <item quantity="one">1 kontakt v zařízení</item>
+        <item quantity="few">%1$d kontakty v zařízení</item>
+        <item quantity="many">%1$d kontaktu v zařízení</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM karta: %1$d, zařízení: %2$d</item>
+        <item quantity="one">SIM karta: %1$d, zařízení: %2$d</item>
+        <item quantity="few">SIM karta: %1$d, zařízení: %2$d</item>
+        <item quantity="many">SIM karta: %1$d, zařízení: %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d kontaktů ve službě iCloud®</item>
+        <item quantity="one">1 kontakt ve službě iCloud®</item>
+        <item quantity="few">%1$d kontakty ve službě iCloud®</item>
+        <item quantity="many">%1$d kontaktu ve službě iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kontaktů na SIM kartě</item>
+        <item quantity="one">1 kontakt na SIM kartě</item>
+        <item quantity="few">%1$d kontakty na SIM kartě</item>
+        <item quantity="many">%1$d kontaktu na SIM kartě</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Nalezli jsme %1$d aplikací. Vyberte jich několik nebo přeneste všechny.</item>
+        <item quantity="one">Nalezli jsme %1$d aplikaci. Chcete ji přenést?</item>
+        <item quantity="few">Nalezli jsme %1$d aplikace. Vyberte jich několik nebo přeneste všechny.</item>
+        <item quantity="many">Nalezli jsme %1$d aplikace. Vyberte jich několik nebo přeneste všechny.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">U %1$d vašich aplikací pro iOS® byly nalezeny odpovídající aplikace pro Android. Instalací jednotlivých aplikací jim udělujete oprávnění, která požadují. &lt;annotation id="apps_permissions_learn_more">Další informace&lt;/annotation></item>
+        <item quantity="one">U 1 vaší aplikace pro iOS® byla nalezena odpovídající aplikace pro Android. Instalací této aplikace jí udělujete oprávnění, která požaduje. &lt;annotation id="apps_permissions_learn_more">Další informace&lt;/annotation></item>
+        <item quantity="few">U %1$d vašich aplikací pro iOS® byly nalezeny odpovídající aplikace pro Android. Instalací jednotlivých aplikací jim udělujete oprávnění, která požadují. &lt;annotation id="apps_permissions_learn_more">Další informace&lt;/annotation></item>
+        <item quantity="many">U %1$d vaší aplikace pro iOS® byly nalezeny odpovídající aplikace pro Android. Instalací jednotlivých aplikací jim udělujete oprávnění, která požadují. &lt;annotation id="apps_permissions_learn_more">Další informace&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Zbývá %1$d položek…</item>
+        <item quantity="one">Zbývá %1$d položka…</item>
+        <item quantity="few">Zbývají %1$d položky…</item>
+        <item quantity="many">Zbývá %1$d položky…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Upozornění! Následující uživatelé se této události již neúčastní:</item>
+        <item quantity="one">Upozornění! Následující uživatel se této události již neúčastní:</item>
+        <item quantity="few">Upozornění! Následující uživatelé se této události již neúčastní:</item>
+        <item quantity="many">Upozornění! Následující uživatelé se této události již neúčastní:</item>
+    </plurals>
+</resources>

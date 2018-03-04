@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">A túa valoración: %1$s estrelas</item>
+        <item quantity="one">A túa valoración: %1$s estrela</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d recensións</item>
+        <item quantity="one">%1$d recensión</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d recensións para a valoración de %2$d estrelas</item>
+        <item quantity="one">%1$d recensión para a valoración de %2$d estrela</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Pausáronse as instalacións</item>
+        <item quantity="one">Pausouse a instalación</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">As aplicacións analizáronse hai %1$d días</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Elimináronse %1$d aplicacións daniñas. %2$s.</item>
+        <item quantity="one">Eliminouse %1$d aplicación daniña. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Debes aprobar %1$d actualizacións</item>
+        <item quantity="one">Debes aprobar %1$d actualización</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d actualizacións novas</item>
+        <item quantity="one">%1$d actualización nova</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d actualizacións dispoñibles</item>
+        <item quantity="one">%1$d actualización dispoñible</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Actualizar todo</item>
+        <item quantity="one">Actualizar</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Actualizáronse %1$d aplicacións</item>
+        <item quantity="one">Actualizouse %1$d aplicación</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelas</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrela</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelas: %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrela: %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelas: %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrela: %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d usuarios consideran que esta recensión é útil. Marcar comentario como útil</item>
+        <item quantity="one">%1$d usuario considera que esta recensión é útil. Marcar comentario como útil</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d usuarios consideran que esta recensión é útil. Desmarcar comentario como útil</item>
+        <item quantity="one">%1$d usuario considera que esta recensión é útil. Desmarcar comentario como útil</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Valorado &lt;b>%1$s estrelas&lt;/b></item>
+        <item quantity="one">Valorado con &lt;b>%1$s estrela&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">en %1$s recensións</item>
+        <item quantity="one">en %1$s recensión</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s estrelas&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s estrela&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Utilizouse por última vez hai %1$d días</item>
+        <item quantity="one">Utilizouse por última vez hai %1$d día</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Restaurar as %1$d aplicacións seleccionadas</item>
+        <item quantity="one">Restaurar a aplicación seleccionada</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">estrelas</item>
+        <item quantity="one">estrela</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">As aplicacións instalaranse pronto.</item>
+        <item quantity="one">A aplicación instalarase pronto.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">As actualizacións das aplicacións instalaranse pronto.</item>
+        <item quantity="one">A actualización da aplicación instalarase pronto.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Utilizouse por última vez hai %1$d días</item>
+        <item quantity="one">Utilizouse por última vez hai %1$d día</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Utilizouse por última vez hai %1$d meses</item>
+        <item quantity="one">Utilizouse por última vez hai %1$d mes</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Para instalar aplicacións ou actualizacións neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia na configuración de almacenamento.</item>
+        <item quantity="one">Para instalar a aplicación ou actualizala neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia na configuración de almacenamento.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Para instalar aplicacións ou actualizacións neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia en &lt;a href=\"\">Configuración > Almacenamento&lt;/a>.</item>
+        <item quantity="one">Para instalar a aplicación ou actualizala neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia en &lt;a href=\"\">Configuración > Almacenamento&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Para instalar aplicacións ou actualizacións neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia en Configuración > Almacenamento.</item>
+        <item quantity="one">Para instalar a aplicación ou actualizala neste dispositivo, elimina as aplicacións que xa non precisas. Tamén podes liberar espazo eliminando ficheiros multimedia en Configuración > Almacenamento.</item>
+    </plurals>
+</resources>

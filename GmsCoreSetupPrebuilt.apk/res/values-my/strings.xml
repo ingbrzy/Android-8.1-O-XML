@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">အက်ပ်အတွင်း ဝယ်ယူမှုများ</string>
+    <string name="app_has_permissions">ခွင့်ပြုချက်များ− %s</string>
+    <string name="app_has_runtime_permissions">အက်ပ်သည် ခွင့်ပြုချက်များကို တောင်းခံပါလိမ့်မည်</string>
+    <string name="app_picker_app_already_installed_toast">ဤအက်ပ်ကို ထည့်သွင်းပြီးပါပြီ</string>
+    <string name="app_picker_loading">ရနိုင်သည့် အက်ပ်များကို ရှာနေသည်…</string>
+    <string name="app_picker_loading_toast">ရနိုင်သည့် အက်ပ်များကို မကြာမီ သွင်းပေးပါမည်</string>
+    <string name="app_picker_no_apps">မည်သည့်အက်ပ်မျှ ရွေးချယ်ထားခြင်းမရှိပါ</string>
+    <string name="app_picker_no_apps_found">မည်သည့်အက်ပ်မျှ မတွေ့ပါ</string>
+    <string name="apps_in_app_purchases_disclaimer_all">အက်ပ်အတွင်းဝယ်ယူမှုများကို သင့် ^1 သို့ လွှဲပြောင်းသွားမည် မဟုတ်ပါ။</string>
+    <string name="apps_in_app_purchases_disclaimer_some">အချို့သော အက်ပ်အတွင်းဝယ်ယူမှုများကို သင့် ^1 သို့ လွှဲပြောင်းသွားမည် မဟုတ်ပါ။</string>
+    <string name="apps_permissions_described_v2">"လူကြိုက်များပြီး အခမဲ့ရရှိသည့် iOS® အက်ပ်များကိုသာ Android အက်ပ်များသို့ တွဲချိတ်နိုင်ပါသည်။ အက်ပ်အတွင်းဝယ်ယူမှု အများစုကို လွှဲပြောင်းသွားမည် မဟုတ်ပါ။ စနစ်ထည့်သွင်းမှု ပြီးဆုံးသွားလျှင် Play စတိုး၌ နောက်ထပ်အက်ပ်များကို တွေ့မြင်နိုင်ပါမည်။
+
+သင့်စက်ပစ္စည်းပေါ်ရှိ တိကျသည့် အချက်အလက်များကို အသုံးပြုနိုင်ရန် သို့မဟုတ် လုပ်ဆောင်ချက်များ ပြုလုပ်နိုင်ရန်အတွက် အချို့အက်ပ်များကို ချက်ခြင်း ခွင့်ပြုပေးရနိုင်ပါသည်။ ခွင့်ပြုချက်များကို ခွင့်ပြုချက်အုပ်စုများအဖြစ် စုစည်းထားပါသည်။ ဤအက်ပ်များကို ထည့်သွင်းရန် ရွေးချယ်ခြင်းအားဖြင့် အုပ်စုတစ်ခုချင်းစီရှိ ခွင့်ပြုချက်များကို သဘောတူရာရောက်ပါသည်။ ခွင့်ပြုချက် အုပ်စုတစ်ခုချင်းစီ၏ ဖော်ပြချက်ကို အောက်တွင် ပေးထားပါသည်။
+
+အချို့အက်ပ်များသည် ခွင့်ပြုချက်များကို ချက်ခြင်း လက်ခံရန် မလိုအပ်ပါ။ သင်ဤအက်ပ်များအနက်မှ တစ်ခုကို အသုံးပြုသည့်အခါ ၎င်းအက်ပ်သည် ထိုကဲ့သို့သော ဒေတာအမျိုးအစားများကို အသုံးမပြုမီ ခွင့်ပြုချက် တစ်ခုချင်းစီကို ခွင့်ပြုပေးခြင်း သို့မဟုတ် ငြင်းဆိုခြင်းများ ပြုလုပ်နိုင်ပါသည်။
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">အက်ပ်တစ်ခုချင်းစီကို ထည့်သွင်းခြင်းဖြင့် ၎င်း၏ ခွင့်ပြုချက်များကို သင်သဘောတူရာ ရောက်ပါသည်။ <annotation id="apps_permissions_learn_more">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="auto_restore_summary">အက်ပ်တစ်ခုကို ပြန်လည်ထည့်သွင်းသည့်အခါ မိတ္တူကူးထားသည့် ဆက်တင်များနှင့် ဒေတာများကို ပြန်ယူပါ</string>
+    <string name="auto_restore_title">အလိုအလျောက် ပြန်ယူပါ</string>
+    <string name="backup_configure_account_default_summary">လက်ရှိတွင် မည်သည့်အကောင့်ကမျှ ဒေတာများကို မိတ္တူကူးသိမ်းဆည်းထားခြင်းမရှိပါ</string>
+    <string name="backup_configure_account_title">မိတ္တူကူးရန် အကောင့်</string>
+    <string name="backup_data_summary">အက်ပ်ဒေတာများ၊ Wi-Fi စကားဝှက်များနှင့် အခြားဆက်တင်များကို Google Drive သို့မိတ္တူကူးပါ</string>
+    <string name="backup_data_summary_full">"စက်ပစ္စည်းဒေတာများ (Wi-Fi စကားဝှက်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်းကဲ့သို့) နှင့်အက်ပ်ဒေတာများ (အက်ပ်များမှ သိမ်းဆည်းလိုက်သည့် ဆက်တင်များနှင့် ဖိုင်များကဲ့သို့) ကို အဝေးထိန်းစနစ်ဖြင့် အလိုအလျောက် မိတ္တူကူးပါ။
+
+အလိုအလျောက် မိတ္တူကူးခြင်းကို ဖွင့်ထားသည့်အခါ စက်ပစ္စည်းနှင့် အက်ပ်ဒေတာများကို အဝေးထိန်းစနစ်ဖြင့် အချိန်အားလျော်စွာ မိတ္တူကူးသွားပါမည်။ အက်ပ်ဒေတာများဟုဆိုရာတွင် (ဆော့ဖ်ဝဲအင်ဂျင်နီယာ၏ ဆက်တင်များအပေါ်မူတည်၍) အဆက်အသွယ်များ၊ မက်ဆေ့ဂျ်များနှင့် ဓာတ်ပုံများကဲ့သို့ အရေးကြီးသည့်ဒေတာများ အပါအဝင် အက်ပ်ကသိမ်းဆည်းလိုက်သည့် မည်သည့်ဒေတာကိုမဆို ဆိုလိုပါသည်။"</string>
+    <string name="backup_data_title">Google Drive သို့ မိတ္တူကူးပါ</string>
+    <string name="backup_erase_dialog_message">သင့် Wi‑Fi စကားဝှက်များ၊ ဝဘ်လိပ်စာများ၊ အခြားဆက်တင်များနှင့် အက်ပ်ဒေတာများကို မိတ္တူကူးခြင်းမှ ရပ်တန့်ပြီး Google Drive ပေါ်ရှိ မိတ္တူများအားလုံးကို ဖျက်လိုပါသလား။</string>
+    <string name="backup_erase_dialog_message_full">စက်ပစ္စည်းဒေတာများ (Wi-Fi စကားဝှက်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်း) နှင့် အက်ပ်ဒေတာများ (အက်ပ်များမှ သိမ်းဆည်းလိုက်သည့် ဆက်တင်များနှင့် ဖိုင်များ) ကိုမိတ္တူကူးခြင်းမှ ရပ်တန့်ပြီး Google Drive ပေါ်ရှိ မိတ္တူများအားလုံးကို ဖျက်မလား။</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">ဓာတ်ပုံဆက်တင်များကို ဖွင့်ရာတွင် ပြဿနာရှိနေပါသည်</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"အလိုအလျောက် မိတ္တူကူးခြင်းကို ဖွင့်ထားစဉ်တွင် −
+
+ ● စက်ပစ္စည်းဆက်တင်များနှင့် အက်ပ်ဒေတာများကို Google Drive အတွင်းရှိ သီးသန့်ဖိုင်တွဲထဲတွင် ပုံမှန်သိမ်းဆည်းသွားပါမည်။ အက်ပ်ဒေတာဟုဆိုရာတွင် အဆက်အသွယ်များ၊ မက်ဆေ့ဂျ်များနှင့် ဓာတ်ပုံများကဲ့သို့ အရေးကြီးသည့် ဒေတာများအပါအဝင် အက်ပ်မှ သိမ်းဆည်းထားသည့် ဒေတာများ (ဆော့ဖ်ဝဲအင်ဂျင်နီယာ ဆက်တင်များအပေါ် မူတည်၍) အက်ပ်မှ သိမ်းဆည်းလိုက်သည့် ဒေတာများအားလုံး ပါဝင်ပါသည်။
+
+ အရွယ်အစားကြီးသည့် ဖိုင်များ သို့မဟုတ် ဆော့ဖ်ဝဲအင်ဂျင်နီယာမှ အရန်ကူးယူခြင်းမပြုရန် ထုတ်ပယ်ထားသည့် ဖိုင်များကို အရန်ကူးယူခြင်း ပြုလုပ်မည် မဟုတ်ပါ။
+
+ ● ဤစက်ပစ္စည်းဖြင့် ရိုက်ကူးထားသည့် ဓာတ်ပုံနှင့် ဗီဒီယိုများကို သင့် Google Photos စုစည်းမှုသို့ သိမ်းဆည်းထားပြီး သင့်စက်ပစ္စည်းများအားလုံးမှနေ၍ ရှာဖွေခြင်း၊ တည်းဖြတ်ခြင်း၊ ဖျက်ခြင်းနှင့် မျှဝေခြင်းတို့ ပြုလုပ်နိုင်ပါသည်။
+
+ မူရင်းအနေဖြင့်  အရည်အသွေးပြည့် ဓာတ်ပုံနှင့် ဗီဒီယိုများကို အပ်လုဒ်လုပ်ပါသည်။ ၎င်းတို့သည် သင့် Drive သိုလှောင်မှုကို ယူသုံးမည်မဟုတ်ပါ။
+
+ ● ဤစက်ပစ္စည်းထဲရှိ အဆက်အသွယ်များနှင့် ဆက်စပ်ဒေတာများကို Google Contacts ထဲသို့ စင့်ခ်လုပ်ထားပါသည်။ Google Contacts အက်ပ်ကို အသုံးပြုပြီး အဆက်အသွယ်များကို ရှာဖွေခြင်း၊ တည်းဖြတ်ခြင်း၊ ဖျက်ခြင်းနှင့် မျှဝေခြင်းတို့ကို မည်သည့်စက်ပစ္စည်းတွင်မဆို ပြုလုပ်နိုင်ပါသည်။
+
+ ● ပြက္ခဒိန်ဖြစ်ရပ်များနှင့် ဆက်စပ်ဒေတာများကို Google Calendar သို့ စင့်ခ်လုပ်ထားပါသည်။ Google Calendar အက်ပ်ကို အသုံးပြုပြီး အဆက်အသွယ်များကို ရှာဖွေခြင်း၊ တည်းဖြတ်ခြင်း၊ ဖျက်ခြင်းနှင့် မျှဝေခြင်းတို့ကို မည်သည့်စက်ပစ္စည်းတွင်မဆို ပြုလုပ်နိုင်ပါသည်။
+
+ မိတ္တူကူးသည့်ဒေတာများသည် Drive သိုလှောင်ခန်းနေရာကို အသုံးပြုမည် မဟုတ်ပါ။"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"အလိုအလျောက် အရန်သိမ်းခြင်းကို ဖွင့်သည့်အခါ-
+
+ ● ကိရိယာဆက်တင်များနှင့် အက်ပ်ဒေတာကို Google Drive ထဲရှိ သီးသန့်ဖိုင်တွဲထဲသို့ ပုံမှန် သိမ်းဆည်းပါသည်။ အက်ပ်ဒေတာဆိုသည်မှာ အက်ပ်က သိမ်းထားသော မည်သည့်ဒေတာမဆို ဖြစ်နိုင်ပါသည် (ဆော့ဖ်ဝဲအင်ဂျင်နီယာ ဆက်တင်များအပေါ် မူတည်သည်)၊ အဆက်အသွယ်များ၊ မက်ဆေ့ဂျ်များနှင့် ဓာတ်ပုံများကဲ့သို့ အရေးကြီးသောဒေတာများ ပါဝင်လေ့ရှိပါသည်။
+
+ ဖိုင်အကြီးများ (သို့) ဆော့ဖ်ဝဲအင်ဂျင်နီယာက ဝန်ဆောင်မှုထဲမှ ဖယ်ထုတ်ထားသော ဖိုင်များကို အရန်သိမ်းဆည်းမည် မဟုတ်ပါ။
+
+ ● ဤကိရိယာထဲမှ အဆက်အသွယ်များနှင့် အခြားသက်ဆိုင်ရာဒေတာများကို Google Contacts သို့ စင့်ခ်လုပ်ပါမည်။ သင်၏ မည်သည့်ကိရိယာမှမဆို အဆက်အသွယ်များကို ရှာဖွေရန်၊ တည်းဖြတ်ရန်၊ ဖျက်ရန်နှင့် မျှဝေရန် Google Contacts အက်ပ်ကို အသုံးပြုနိုင်ပါသည်။
+
+ ● ပြက္ခဒိန်ထဲတွင် ထည့်ထားသည်များနှင့် ဤကိရိယာမှ သက်ဆိုင်ရာဒေတာများကို Google Calendar သို့ စင့်ခ်လုပ်ပါမည်။ သင်၏ မည်သည့်ကိရိယာမှမဆို အဆက်အသွယ်များကို ရှာဖွေရန်၊ တည်းဖြတ်ရန်၊ ဖျက်ရန်နှင့် မျှဝေရန် Google Calendar အက်ပ်ကို အသုံးပြုနိုင်ပါသည်။
+
+ အရန်သိမ်းထားသည့် ဒေတာကို သင်၏ Drive သိုလှောင်ခန်းအတွက် သတ်မှတ်ပေးထားသော ပမာဏထဲတွင် ထည့်သွင်းရေတွက်မည်မဟုတ်ပါ။"</string>
+    <string name="backup_opt_in_backup_description_extra">ပြက္ခဒိန်၊ အဆက်အသွယ်၊ ဓာတ်ပုံနှင့် ဗီဒီယိုများကို Google အကောင့်ဖြင့် စင့်ခ်လုပ်ထားသည်ဖြစ်ရာ ဝန်ဆောင်မှုများအားလုံးတွင် အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="backup_opt_in_backup_description_v2">အလိုအလျောက် မိတ္တူကူးခြင်းအားဖြင့် ဒေတာများကို အလွယ်တကူပြန်ယူခြင်း သို့မဟုတ် ဖုန်းများကို ပြောင်းလဲခြင်းများအား အချိန်မရွေး လုပ်နိုင်ပါသည်။ <annotation id="backup_opt_in_learn_more">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"၎င်းသည် အောက်ပါတို့အတွက် မိတ္တူကူးခြင်းကို ပိတ်လိုက်ပါမည် −
+
+အက်ပ်များနှင့် အက်ပ်ဒေတာ
+ခေါ်ဆိုမှုမှတ်တမ်း
+စက်ပစ္စည်းဆက်တင်များ
+ဓာတ်ပုံနှင့် ဗီဒီယိုများ
+SMS
+
+ပြက္ခဒိန်နှင့် အဆက်အသွယ်များကို သင့် Google အကောင့်သို့ စင့်ခ်လုပ်သွားမည်ဖြစ်သည်။ စနစ်ထည့်သွင်းမှု ပြီးဆုံးသွားလျှင် "<annotation id="backup_opt_in_settings_instructions">ဆက်တင်များ > အကောင့်များ > Google</annotation> သို့ သွားပြီး စင့်ခ်ဆက်တင်များကို ပြောင်းလဲနိုင်ပါသည်။</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">မိတ္တူကူးခြင်းကို ပိတ်မလား။</string>
+    <string name="backup_opt_in_backup_list">"အက်ပ်များနှင့် အက်ပ်ဒေတာ
+ပြက္ခဒိန်
+ခေါ်ဆိုမှုမှတ်တမ်း
+အဆက်အသွယ်များ
+စက်ပစ္စည်း ဆက်တင်များ (Wi-Fi စကားဝှက်များ အပါအဝင်)
+ဓာတ်ပုံနှင့် ဗီဒီယိုများ
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">မိတ္တူကူးရာတွင် အောက်ပါတို့ပါဝင်ပါသည် −</string>
+    <string name="backup_opt_in_backup_title">Google Drive သို့ မိတ္တူကူးပါ</string>
+    <string name="backup_opt_in_disable_backup">မိတ္တူကူးခြင်းကို ပိတ်ပါ</string>
+    <string name="backup_photos_update">Google Photos ကို အပ်ဒိတ်လုပ်ပါ</string>
+    <string name="backup_settings_activity_backup_title">မိတ္တူ</string>
+    <string name="backup_settings_activity_title">မိတ္တူကူးခြင်းနှင့် ပြန်လည်သတ်မှတ်ခြင်း</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">မကူးပါနှင့်</string>
+    <string name="close_button_label">ပိတ်ရန်</string>
+    <string name="cloud_restore_app_picker_button">ပြန်ထည့်သွင်းရန်</string>
+    <string name="cloud_restore_app_picker_description_no_apps">သင့်မိတ္တူတွင် မည်သည့်အက်ပ်မျှမရှိပါ</string>
+    <string name="cloud_restore_app_picker_title">ပြန်ထည့်သွင်းရန် အက်ပ်များ ရွေးပါ</string>
+    <string name="common_accept">လက်ခံရန်</string>
+    <string name="common_add_account_label">အကောင့်တစ်ခုထည့်ရန်</string>
+    <string name="common_ads_settings_title">ကြော်ငြာများ</string>
+    <string name="common_agree">သဘောတူသည်</string>
+    <string name="common_app_name">Google Play ဝန်ဆောင်မှုများ</string>
+    <string name="common_asm_preferences_settings_title">အကောင့် ရွေးချယ်မှုများ</string>
+    <string name="common_asm_privacy_settings_title">ကန့်သတ်ဆက်တင်</string>
+    <string name="common_asm_security_settings_title">ဝင်ရောက်ခြင်းနှင့် လုံခြုံရေး</string>
+    <string name="common_audience_edit_button_label">တည်းဖြတ်ပါ</string>
+    <string name="common_cancel">မလုပ်တော့</string>
+    <string name="common_cannot_start_hangouts_security_exception">ဟန်းအောက်ကို မစတင်နိုင်ပါ (ခွင့်ပြုချက် အမှား)။</string>
+    <string name="common_car_permission_desc">ကား ဝန်ဆောင်မှုကို ရယူသုံးခြင်း</string>
+    <string name="common_car_permission_label">ကား ဝန်ဆောင်မှု</string>
+    <string name="common_chips_label_empty_circles">စက်ဝိုင်းများ မရှိ</string>
+    <string name="common_chips_label_extended_circles">တိုးချဲ့ထားသည့် စက်ဝိုင်းများ</string>
+    <string name="common_chips_label_only_you">သင်သာလျှင်</string>
+    <string name="common_chips_label_public">အများသုံး</string>
+    <string name="common_chips_label_your_circles">သင့်စက်ဝိုင်းများ</string>
+    <string name="common_choose_account_label">အကောင့် တစ်ခုကို ရွေးပါ</string>
+    <string name="common_clear_app_data_menu_item">အက်ပ်ဒေတာကို ရှင်းရန်</string>
+    <string name="common_connected">ချိတ်ဆက်ပြီးပါပြီ</string>
+    <string name="common_connected_apps_settings_title">ချိတ်ဆက်ထားသည့် အက်ပ်များ</string>
+    <string name="common_connecting">ချိတ်ဆက်နေသည်...</string>
+    <string name="common_continue">ရှေ့ဆက်ရန်</string>
+    <string name="common_disagree">သဘောမတူပါ</string>
+    <string name="common_disconnect">ဆက်သွယ်မှု ဖြတ်ရန်</string>
+    <string name="common_done">ပြီးပြီ</string>
+    <string name="common_fitness_settings_title">Google ကြံ့ခိုင်</string>
+    <string name="common_from">မှ−</string>
+    <string name="common_games_settings_title">ဂိမ်းများ ကစားရန်</string>
+    <string name="common_get_started">စတင်ရန်</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">ဖွင့်ရန်</string>
+    <string name="common_google_play_services_enable_text">Google Play ဝန်ဆောင်မှုများကို မဖွင့်သ၍ %1$s သည်အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_enable_title">Google Play ဝန်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="common_google_play_services_error_dialog_title">အမှား</string>
+    <string name="common_google_play_services_install_button">ထည့်သွင်းပါ</string>
+    <string name="common_google_play_services_install_text">သင့်တက်ဘလက်တွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် %1$s ကိုဖွင့်၍မရပါ။</string>
+    <string name="common_google_play_services_install_title">Google Play ဝန်ဆောင်မှုများရယူရန်</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ဝန်ဆောင်မှုများ အမှား</string>
+    <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="common_google_play_services_unsupported_text">Google Play ဝန်ဆောင်မှုများကို သင့်စက်ပစ္စည်းတွင် ပံ့ပိုးမထားသည့်အတွက် ၎င်းမရှိဘဲ %1$s ကို ဖွင့်၍မရပါ။</string>
+    <string name="common_google_play_services_update_button">အပ်ဒိတ်</string>
+    <string name="common_google_play_services_update_text">Google Play ဝန်ဆောင်မှုများအား အပ်ဒိတ်မလုပ်ပါက %1$s အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_update_title">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="common_google_play_services_updating_text">Google Play ဝန်ဆောင်မှုများကို လက်ရှိအပ်ဒိတ်လုပ်နေသောကြောင့် %1$s ကိုဖွင့်၍ရမည်မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_updating_title">Google Play ဝန်ဆောင်မှုများကို အပ်ဒိတ်လုပ်နေသည်</string>
+    <string name="common_google_play_services_wear_update_text">Google Play ဝန်ဆောင်မှုဗားရှင်းအသစ်များ လိုအပ်နေသည်။ အချိန်အနည်းငယ်အကြာတွင် ၎င်းကိုယ်တိုင်အပ်ဒိတ်လုပ်ပါ လိမ့်မည်။</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">ဗိသုကာ အမှားဖြင့် Google Play ဝန်ဆောင်မှုများအား သွင်းယူခဲ့သည်။</string>
+    <string name="common_google_play_services_wrong_architecture_text">"Google Play ဝန်ဆောင်မှုများအား ဗိသုကာ (%1$s)  တစ်ခုဖြင့် သွင်းယူထားပြီးဖြစ်ကာ ၎င်းသည် သင့်စက်ကိရိယာ ဗိသုကာ (%2$s) နှင့် မတူပါ။"</string>
+    <string name="common_google_play_services_wrong_architecture_title">ဗိသုကာ အမှား</string>
+    <string name="common_google_settings">Google ဆက်တင်များ</string>
+    <string name="common_google_settings_account">အကောင့်</string>
+    <string name="common_google_settings_credentials_title">စကားဝှက် Smart Lock</string>
+    <string name="common_google_settings_developer">ဆော့ဖ်ဝဲအင်ဂျင်နီယာ</string>
+    <string name="common_google_settings_services">ဝန်ဆောင်မှုများ</string>
+    <string name="common_got_it">ရပါပြီ</string>
+    <string name="common_install">ထည့်သွင်းရန်</string>
+    <string name="common_learn_more">ပိုမိုလေ့လာရန်</string>
+    <string name="common_list_apps_menu_help">အကူအညီ</string>
+    <string name="common_list_apps_menu_help_and_feedback">အကူအညီနှင့် အကြံပြုချက်</string>
+    <string name="common_loading">ဖွင့်နေသည်…</string>
+    <string name="common_location_settings_title">တည်နေရာ</string>
+    <string name="common_magictether_settings_title">အမြန်ချိတ်ဆက်မျှဝေခြင်း</string>
+    <string name="common_maps_settings_title">မြေပုံများ နှင့် လတ္တီတွဒ်</string>
+    <string name="common_mdm_feature_name">Android စက်ပစ္စည်း မန်နေဂျာ</string>
+    <string name="common_missing_url_viewer">ပြင်ပ url တစ်ခု ပြသော ကြည့်ရှုသူ ပျောက်ဆုံးနေ၏။</string>
+    <string name="common_more_options">အခြားရွေးစရာများ</string>
+    <string name="common_networking_settings_title">ကွန်ရက်လုပ်ငန်း</string>
+    <string name="common_no_browser_for_restricted_url">သုံးစွဲမှုကို ကန့်သတ်ထားသည်။ ဘရောင်ဇာတစ်ခုမှ မတွေ့ပါ။</string>
+    <string name="common_no_devices_found">စက်ပစ္စည်းများ မတွေ့ပါ</string>
+    <string name="common_no_network">ကိရိယာသည် အော့ဖ်လိုင်း ဖြစ်နေ၍ မလုပ်နိုင်ပါ</string>
+    <string name="common_no_thanks">မလိုတော့ပါ</string>
+    <string name="common_not_now">ယခုမဟုတ်သေးပါ</string>
+    <string name="common_off">ပိတ်ပါ</string>
+    <string name="common_ok">အိုကေ</string>
+    <string name="common_on">ဖွင့်ပါ</string>
+    <string name="common_open_on_phone">ဖုန်းပေါ်မှာ ဖွင့်ပါ</string>
+    <string name="common_open_source_licenses">အခမဲ့ ရင်းမြစ် လိုင်စင်များ</string>
+    <string name="common_people_settings_title">အဆက်အသွယ်များ</string>
+    <string name="common_permissions_enable_in_settings">ဆက်တင်များတွင် ဖွင့်ပါ</string>
+    <string name="common_permissions_missing_end">ဆက်လုပ်ရန်၊ ဆက်တင်ကိုဖွင့်ပါ၊ ပြီးနောက်ခွင့်ပြုချက်များကိုဖွင့်ပြီး၊ စာရင်းရှိအကြောင်းအရာများအားလုံးကို ခွင့်ပြုပါ။</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ဖွင့်ရန်၊ 
+ဆက်တင်များ >
+ခွင့်ပြုချက်များ >
+Google Play ဝန်ဆောင်မှုများသို့ သွားပါ"</string>
+    <string name="common_permissions_missing_start">Google Play ဝန်ဆောင်မှုများအား အောက်ပါတို့ကို သုံးစွဲခွင့်မပြုထားလျှင် ဤအက်ပ်သည် ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်မည်မဟုတ်ပါ−</string>
+    <string name="common_permissions_open_settings">ဆက်တင်များကိုဖွင့်ပါ</string>
+    <string name="common_phone">ဖုန်း</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">ပုဂ္ဂိုလ်ရေးဆိုင်ရာ မူဝါဒ</string>
+    <string name="common_restore">ပြန်ရယူရန်</string>
+    <string name="common_retry">ထပ်စမ်းရန်</string>
+    <string name="common_search_settings_title">ရှာဖွေပါ</string>
+    <string name="common_security_ootp_setting_title">လုံခြုံရေးကုဒ်</string>
+    <string name="common_security_settings_title">လုံခြုံရေး</string>
+    <string name="common_send">ပို့ရန်</string>
+    <string name="common_sending">ပို့နေသည်…</string>
+    <string name="common_set_up_nearby_device_settings_title">အနီးအနားရှိ စက်ကိရိယာအား စဖွင့်သတ်မှတ်ရန်</string>
+    <string name="common_settings">ဆက်တင်</string>
+    <string name="common_signin_button_text">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="common_signin_button_text_long">Google ဖြင့် လက်မှတ်ထိုးဝင်ရေ</string>
+    <string name="common_something_went_wrong">တစ်ခုခုချွတ်ယွင်းနေသည်</string>
+    <string name="common_system_info">စနစ် အချက်အလက်</string>
+    <string name="common_take_photo_label">ဓာတ်ပုံရိုက်ရန်</string>
+    <string name="common_terms_of_service">ဝန်ဆောင်မှု စည်းမျဉ်းများ</string>
+    <string name="common_try_again">ထပ်လုပ်ရန်</string>
+    <string name="common_turn_on_bluetooth">ဘလူးတုသ်ဖွင့်ပါ</string>
+    <string name="common_ui_confirm_deleting_button">ဖျက်ရန်</string>
+    <string name="common_ui_confirm_deleting_checkbox">ကျွန်ုပ် နားလည်ပြီး ဖျက်လိုပါသည်</string>
+    <string name="common_unknown">အမျိုးအမည်မသိ</string>
+    <string name="common_update">အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="common_url_load_unsuccessful_message">သင်၏ အန်ဒရွိုက် ကိရိယာမှာ ဒေတာ ဝန်ဆောင်မှုနှင့် ချိတ်ဆက်မထားပါ။ ဤ အချက်အလက်များကို ယခု ကြည့်ရန်၊ %sကို ဝဘ် ဘရောင်ဇာ တစ်ခုဖြင့် ဝင်ကြည့်ပါ။</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">သင့် Android စက်ပစ္စည်းသည် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်ထားခြင်း မရှိပါ။ ဤအချက်အလက်ကို ယခုကြည့်ရန် ဝဘ်ဘရောင်ဇာဖြင့် %s သို့သွားပါ။</string>
+    <string name="common_url_login_notice">%1$s ဟု လက်မှတ်ထိုးဝင်ပါ</string>
+    <string name="common_usage_and_diagnostics">အသုံးပြုမှုနှင့် အမှားရှာဖွေမှုများ</string>
+    <string name="common_yesterday">မနေ့က</string>
+    <string name="confirm_copy_button_text">ကူးယူပါ</string>
+    <string name="contacts_number_device_and_icloud">iCloud® တွင် %1$d ဦး၊ စက်ပစ္စည်းထဲတွင် %2$d ဦး</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts၊ iCloud® တွင် %1$d ဦး၊ စက်ထဲတွင် %2$d ဦး</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts၊ ဆင်းမ်ကဒ်ထဲတွင် %1$d ဦး၊ စက်ထဲတွင် %2$d ဦး</string>
+    <string name="contacts_number_device_with_google">Google Contacts၊ စက်ထဲတွင် %1$d ဦး</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts၊ iCloud® တွင် %1$d ဦး</string>
+    <string name="contacts_number_sim_with_google">Google Contacts၊ ဆင်းမ်ကဒ်ထဲတွင် %1$d ဦး</string>
+    <string name="copy_confirmation_description">သင့် Google အကောင့်နှင့် အက်ပ်များကဲ့သို့သော ဒေတာများကို ဖုန်းအသစ်သို့ ကူးယူပါ</string>
+    <string name="copy_confirmation_title">သင့်ဖုန်းအသစ်သို့ ကူးလိုပါသလား။</string>
+    <string name="d2d_app_picker_description_no_apps">မည်သည့်အက်ပ်ကိုမျှ မတွေ့ပါ</string>
+    <string name="d2d_app_picker_title">အက်ပ်များ</string>
+    <string name="d2d_migration_canceled_on_source">ကူးယူခြင်းကို ပယ်ဖျက်လိုက်ပါပြီ</string>
+    <string name="data_copied_fragment_description">သင့်ဒေတာများကို ဖုန်းအသစ်သို့ မိတ္တူကူးပြီးဖြစ်သဖြင့် ကေဘယ်ကြိုးကို ဖြုတ်နိုင်ပါပြီ။</string>
+    <string name="data_copied_fragment_description_cancel">မိတ္တူကူးခြင်းကို ရပ်လိုက်ရန် သင်ရွေးချယ်ခဲ့သောကြောင့် အချို့ဒေတာများသာ သင့်ဖုန်းအသစ်သို့ မိတ္တူကူးယူခဲ့သည်။</string>
+    <string name="data_copied_fragment_description_cancel_no_data">မိတ္တူကူးခြင်းကို ရပ်ရန် ရွေးခဲ့သောကြောင့် သင့်ဖုန်းအသစ်သို့ မည်သည့်အရာမျှ မိတ္တူမကူးခဲ့ပါ။</string>
+    <string name="data_copied_fragment_description_error">တစ်စုံတစ်ခု မှားသွားသောကြောင့် အားလုံးကို မိတ္တူကူးယူ၍ မရခဲ့ပါ။</string>
+    <string name="data_copied_fragment_description_error_no_data">တစ်ခုခုလွဲချော်သွားသောကြောင့် သင့်ဒေတာကို မိတ္တူမကူးနိုင်ခဲ့ပါ။</string>
+    <string name="data_copied_fragment_no_data_title">မိတ္တူကူး၍ မရခဲ့ပါ</string>
+    <string name="data_copied_fragment_some_data_title">ဒေတာအချို့ကို မိတ္တူကူးခဲ့သည်</string>
+    <string name="data_copied_fragment_title">ဒေတာကို မိတ္တူကူးပြီးသွားပြီ</string>
+    <string name="device_backup_title">စက်ပစ္စည်းကို မိတ္တူကူးပါ</string>
+    <string name="device_not_supported_fragment_new_device">သင်သည် ဖုန်းအသစ်တစ်လုံးနှင့် ချိတ်ဆက်နေသည်။ ဆက်လုပ်နိုင်ရန် ယခင်ဖုန်းနှင့် ပြန်ချိတ်ဆက်ပါ။</string>
+    <string name="device_not_supported_fragment_new_device_title">ယခင်ဖုန်းနှင့် ပြန်ချိတ်ဆက်ပါ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ဤကေဘယ်ကြိုးသည် ဒေတာမလွှဲပြောင်းနိုင်ပါ။ အခြားကေဘယ်ကြိုးနှင့် ပြန်ချိတ်ဆက်ပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">အခြားကေဘယ်ကြိုးကို စမ်းသုံးကြည့်ပါ</string>
+    <string name="device_not_supported_fragment_retry_description">သင့်ဖုန်းအဟောင်းကို လော့ခ်ဖွင့်ထားပြီး ချိတ်ဆက်မှုဖြုတ်ကာ ကေဘယ်ကို ပြန်ချိတ်ပါ</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">တစ်စုံတစ်ခု မှားယွင်းနေပါသည်</string>
+    <string name="device_not_supported_ios_supervised_description">သင့် iPhone® စက်ပစ္စည်းကို ကြီးကြပ်နေသောကြောင့် ဒေတာများကို ကူးယူရန် အခြားနည်းလမ်းတစ်ခုကို အသုံးပြုရပါမည်</string>
+    <string name="device_picker_description">မိတ္တူကူးယူမှုများကို Google Drive တွင် သိမ်းဆည်းထားပါသည်</string>
+    <string name="device_picker_empty">%1$s နှင့် လင့်ခ်လုပ်ထားသည့် မိတ္တူ မရှိပါ။</string>
+    <string name="device_picker_empty_title">မိတ္တူ မတွေ့ပါ</string>
+    <string name="device_picker_item">%1$s မိတ္တူ</string>
+    <string name="device_picker_last_used">^1 က နောက်ဆုံးအသုံးပြုခဲ့သည်</string>
+    <string name="device_picker_skip">ပြန်လည်အသုံးမပြုပါ</string>
+    <string name="device_picker_title">ပြန်ယူရန် မိတ္တူတစ်ခု ရွေးပါ</string>
+    <string name="disabled_by_admin_summary_text">စီမံခန့်ခွဲသူမှ ထိန်းချုပ်ပါသည်</string>
+    <string name="download_msg_error_invalid">ဒေါင်းလုဒ်ကို စီစဉ်ခဲ့မှု မမှန်ခဲ့ပါ။</string>
+    <string name="download_msg_in_progress">ဒေါင်းလုဒ် ဆက်လုပ်ကိုင်နေ။</string>
+    <string name="download_msg_not_allowed_space">ဒေါင်းလုဒ် လုပ်ရန် နေရာ မလုံလောက်ပါ။</string>
+    <string name="download_msg_pending">ဒေါင်းလုဒ် စောင့်ဆိုင်းနေ။</string>
+    <string name="download_notification_description">%1$s က ဒါကို တောင်းဆိုခဲ့သည်။</string>
+    <string name="download_notification_title">နောက်ထပ် ဒေတာကို ရယူနေ</string>
+    <string name="drive_backup_account">အကောင့်</string>
+    <string name="drive_backup_apps_in_backup">အက်ပ်ဒေတာကို မိတ္တူကူးရန်</string>
+    <string name="drive_backup_apps_last_backup">နောက်ဆုံးအကြိမ် မိတ္တူကူးယူထားမှု</string>
+    <string name="drive_backup_apps_loading">ဖွင့်နေသည်…</string>
+    <string name="drive_backup_apps_screen_title">အက်ပ်ဒေတာ</string>
+    <string name="drive_backup_content_apps_title">အက်ပ်ဒေတာ</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Calendar တွင် ထည့်သွင်းထားသော အစီအစဉ်များကို သင်၏Google အကောင့်သို့ လက်မှတ်ထိုးဝင်ထားသော စက်ပစ္စည်းအားလုံးတွင် စင့်ခ်လုပ်ပါမည်။</string>
+    <string name="drive_backup_content_calendar_title">Calendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">မိတ္တူတွင် အထွက်နှင့် အဝင်ဖုန်းခေါ်ဆိုမှုများ၏ ရက်စွဲနှင့် လက်ခံစကားပြောသူတို့ ပါဝင်သည်။</string>
+    <string name="drive_backup_content_callhistory_title">ခေါ်ဆိုမှု မှတ်တမ်း</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Contacts တွင် ထည့်သွင်းထားသော အဆက်အသွယ်များကို သင်၏ Google အကောင့်သို့ လက်မှတ်ထိုးဝင်ထားသော စက်ပစ္စည်းအားလုံးတွင် စင့်ခ်လုပ်ပါမည်။</string>
+    <string name="drive_backup_content_contacts_title">Contacts</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">မိတ္တူတွင် နောက်ခံပုံရိပ်၊ WiFi စကားဝှက်များနှင့် မူရင်းအက်ပ်များကဲ့သို့ စက်ကိရိယာ ပုံစံပြင်သတ်မှတ်ခြင်း ပါဝင်ပါသည်။</string>
+    <string name="drive_backup_content_devicesettings_title">စက်ပစ္စည်း ဆက်တင်များ</string>
+    <string name="drive_backup_content_header">မာတိကာ</string>
+    <string name="drive_backup_content_photos_dialog_message">သင်၏ အဓိကမိတ္တူအကောင့်ကို ပြောင်းလိုက်ပါပြီ။ Google Photos ၏ မိတ္တူအကောင့်ကို %s သို့လည်း ပြောင်းနိုင်ပါသည်။</string>
+    <string name="drive_backup_content_photos_dialog_no">ပယ်ရန်</string>
+    <string name="drive_backup_content_photos_dialog_title">ဓာတ်ပုံများနှင့် ဗီဒီယိုအကောင့်များကိုလည်း ပြောင်းမလား။</string>
+    <string name="drive_backup_content_photos_dialog_yes">ပြောင်းရန်</string>
+    <string name="drive_backup_content_photos_title">ဓာတ်ပုံနှင့် ဗီဒီယိုများ</string>
+    <string name="drive_backup_content_sms_dialog_message">မိတ္တူတွင် အဝင်မက်ဆေ့ဂျ်များနှင့် အထွက်မက်ဆေ့ဂျ်များ ပါဝင်သည်။ အမ်အမ်အက်စ် မီဒီယာမပါဝင်ပါ။</string>
+    <string name="drive_backup_content_sms_title">SMS စာတိုမက်ဆေ့ဂျ်များ</string>
+    <string name="drive_backup_content_status_dolly_action">ရပါပြီ</string>
+    <string name="drive_backup_content_status_error">နောက်ဆုံးစင့်ခ်လုပ်သည့် ရက်စွဲကို ရယူရာတွင် မှားယွင်းနေသည်</string>
+    <string name="drive_backup_content_status_lastsaved">နောက်ဆုံး အရန်သိမ်းခြင်း- %1$s</string>
+    <string name="drive_backup_content_status_lastsync">နောက်ဆုံး စင့်ခ်လုပ်ခြင်း- %1$s</string>
+    <string name="drive_backup_content_status_never">မိတ္တူကူးရန် စောင့်နေသည်</string>
+    <string name="drive_backup_content_status_sync_adapter_action">စင့်ခ်ဆက်တင်များ</string>
+    <string name="drive_backup_content_status_sync_off">ပြိုင်တူညှိမှုကို ပိတ်ထားသည်</string>
+    <string name="drive_backup_content_status_updating">အခြေအနေကို စစ်ဆေးနေသည်…</string>
+    <string name="drive_backup_disabled_backuplist">"မိတ္တူတွင် ပါဝင်သည်များမှာ -
+ - အက်ပ်များနှင့် အက်ပ်ဒေတာများ
+ - ယခင်ခေါ်ဆိုမှုများ
+ - စက်ပစ္စည်းဆက်တင်များ (Wi-Fi စကားဝှက်များ အပါအဝင်)
+ - Google Calendar
+ - Google အဆက်အသွယ်များ
+ - ဓာတ်ပုံများနှင့် ဗီဒီယိုများ
+ - SMS မက်ဆေ့ဂျ်များ"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"အရန်သိမ်းရာတွင် အောက်ပါတို့ ပါဝင်သည်-
+\u0009- အက်ပ်များနှင့် အက်ပ်ဒေတာများ
+\u0009- ဖုန်းခေါ်ဆိုမှု မှတ်တမ်း
+\u0009- ကိရိယာဆက်တင်များ (Wi-Fi စကားဝှက်များ ပါဝင်သည်)
+\u0009- Google Calendar
+\u0009- Google Contacts
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">စီမံခန့်ခွဲသူက ပိတ်ထားပါသည်</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Calendar၊ Google အဆက်အသွယ်များ၊ ဓာတ်ပုံများနှင့် ဗီဒီယိုများကို သင့် Google အကောင့်သို့ တူညီသွားအောင် ညှိထားပြီး ၎င်းတို့ကို ဝန်ဆောင်မှုများတွင် အသုံးပြုနိုင်ပါသည်။
+
+ မိတ္တူပွားစနစ်ကို ပိတ်ထားသည့်တိုင်အောင် ပြိုင်တူညှိပေးသည့် ဝန်ဆောင်မှုကို အသုံးပြုနိုင်ပါသည်။ ပြိုင်တူညှိရန် ဆက်တင်များကို ဆက်တင်များ > အကောင့်များ > Google တွင် ပြောင်းနိုင်ပါသည်။"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Calendar နှင့် Google Contacts များကို သင်၏ Google Account သို့ စင့်ခ်လုပ်ထားပြီးဖြစ်ကာ ဝန်ဆောင်မှုအားလုံးတွင် အသုံးပြုကောင်း ပြုနိုင်သည်။
+
+အရန်သိမ်းခြင်းကို ပိတ်ထားသည့်တိုင် စင့်လုပ်ခြင်းကို ဖွင့်ထားနိုင်သည်။ ဆက်တင်များ > အကောင့်များ > Google ထဲတွင် စင့်ခ်လုပ်သည့် ဆက်တင်များကို ပြောင်းနိုင်သည်။"</string>
+    <string name="drive_backup_disabled_introduction">အလိုအလျောက်မိတ္တူကူးခြင်းဖြင့် လွယ်လင့်တကူ ပြန်ထည့်သွင်းနိုင်ပါသည် သို့မဟုတ် ဖုန်းများကို အချိန်မရွေးပြောင်းနိုင်ပါသည်။</string>
+    <string name="drive_backup_settings_title">မိတ္တူကူးရန်</string>
+    <string name="drive_backup_state">Google Drive သို့ မိတ္တူကူးပါ</string>
+    <string name="drive_backup_state_dialog_message">"Google Drive တွင် သိမ်းထားသော ဤစက်ပစ္စည်းအတွက်  မိတ္တူဒေတာတို့ကို အပြီးဖျက်လိုက်ပါမည်။
+
+ မိတ္တူကူးထားသော ဓာတ်ပုံများနှင့် ဗီဒီယိုများသည် Google Drive တွင် ဆက်လက်ရှိနေပါမည်။
+
+Goole ပြက္ခဒိန် နှင့် Google အဆက်အသွယ်များ တို့ကို Google အကောင့်သို့ တူညီသွားအောင် ပြိုင်တူညှိပေးပါမည်။ ပြိုင်တူညှိရန်ဆက်တင်များကို ဆက်တင်များ > အကောင့်များ > Google တွင် ပြောင်းနိုင်ပါသည်။"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Google Drive ထဲတွင် အရန်သိမ်းထားသည့် ကိရိယာ၏ဒေတာကို အပြီးအပိုင် ဖျက်ပါမည်။
+
+Google Calendar နှင့် Google Contacts သည် သင်၏ Google Account သို့ ဆက်လက်စင့်ခ် လုပ်ပါမည်။ ဆက်တင်များ > အကောင့်များ > Google ထဲတွင် စင့်ခ်လုပ်သည့်ဆက်တင်များကို ပြောင်းနိုင်ပါသည်။"</string>
+    <string name="drive_backup_state_dialog_okaction">ပိတ်၍ဖျက်ပစ်ရန်</string>
+    <string name="drive_backup_state_dialog_title">မိတ္တူကို ပိတ်၍ ဖျက်ပစ်မလား။</string>
+    <string name="durationDayHour">%1$d ရက် %2$d နာရီ</string>
+    <string name="durationDayHours">%1$d ရက် %2$d နာရီ</string>
+    <string name="durationDays">%1$d ရက်</string>
+    <string name="durationHourMinute">%1$d ရီ %2$d နစ်</string>
+    <string name="durationHourMinutes">%1$d ရီ %2$d နစ်</string>
+    <string name="durationHours">%1$d နာရီ</string>
+    <string name="durationMinute">%1$d မိနစ်</string>
+    <string name="durationMinuteSecond">%1$d နစ် %2$d ကန့်</string>
+    <string name="durationMinuteSeconds">%1$d နစ် %2$d ကန့်</string>
+    <string name="durationMinutes">%1$d မိနစ်</string>
+    <string name="durationSecond">%1$d စက္ကန့်</string>
+    <string name="durationSeconds">%1$d စက္ကန့်</string>
+    <string name="encryption_warning_fragment_description">"သင့် iPhone® စက်ပစ္စည်းအတွက် အသွင်ဝှက်ခြင်းကို မိတ္တူကူးခြင်းအား ဖွင့်ထားသည်။ ၎င်းကို သင်ကိုယ်တိုင် ဖွင့်ခဲ့ခြင်း မရှိလျှင် သင့်အိုင်တီစီမံခန့်ခွဲသူက ဖွင့်ခဲ့ခြင်း ဖြစ်နိုင်ပါသည်။
+
+ဓာတ်ပုံများ၊ သီချင်းနှင့် ဗီဒီယိုများကိုသာ ကူးယူနိုင်ပါသည်။ ထပ်မံသိရှိလိုပါက "<b>g.co/datatransferhelp</b> သို့ သွားပါ။</string>
+    <string name="encryption_warning_fragment_title">အသွင်ဝှက်ခြင်းကို မိတ္တူကူးထားရန်</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ဓာတ်အားသွင်းကိရိယာကို ရှာမတွေ့ပါ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"ဘူးထဲတွင် သင်၏ ^1 နှင့် အတူပါလာသော Quick Switch Adapter ကို ရှာပါ။
+
+ကေဘယ်ကို ဓာတ်အားသွင်းကိရိယာထဲသို့ ပလတ်ထိုးပါ။"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ဓာတ်အားသွင်းကိရိယာနှင့် ကေဘယ်ကို ချိတ်ပါ</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">သင့်ဖုန်းအဟောင်းကို လော့ခ်ဖွင့်ပြီး ဓာတ်အားသွင်းကိရိယာကို ဤဖုန်းသို့ ပလတ်ထိုးပါ။</string>
+    <string name="fragment_usb_connect_both_phones_title">ဖုန်းနှစ်ခုလုံးကို ချိတ်ဆက်ပါ</string>
+    <string name="fragment_usb_dialog_cancel_description">ကေဘယ်ကို အသုံးပြုလျှင် အကြောင်းအရာအများစုကို ရရှိပါမည်။ ဘူးထဲတွင်ပါသည့် ကေဘယ်သည် သင့်ဖုန်းဟောင်းနှင့် ကိုက်ညီမှုမရှိလျှင် သင့်ဖုန်းအဟောင်းနှင့် အသုံးပြု၍ရသည့် အားသွင်းကြိုး သို့မဟုတ် ဒေတာကေဘယ်ကို အသုံးပြုကြည့်ပါ။</string>
+    <string name="fragment_usb_dialog_cancel_title">အခြားနည်းလမ်းဖြင့် ဒေတာများကို ကူးယူလိုပါသလား။</string>
+    <string name="fragment_usb_dont_have_cable">ကျွန်ုပ်ထံတွင် ကေဘယ်မရှိပါ</string>
+    <string name="fragment_usb_dont_have_old_phone">ဖုန်းအဟောင်းသည် ကျွန်ုပ်ထံတွင် မရှိပါ</string>
+    <string name="fragment_usb_find_cable_description">သင့်ဒေတာ သို့မဟုတ် အားသွင်းကြိုးကဲ့သို့ သင့်ဖုန်းအဟောင်းနှင့် ကိုက်ညီသည့် ကေဘယ်ကို အသုံးပြုပါ။</string>
+    <string name="fragment_usb_find_cable_title">မှန်ကန်သည့် ကေဘယ်ကို ရှာပါ</string>
+    <string name="fragment_usb_initial_description">သင့်ဖုန်းအဟောင်းမှ ဒေတာများကို ဤ ^1 သို့ လွှဲပြောင်းပါ။</string>
+    <string name="fragment_usb_initial_title">သင့်ဒေတာများကို ကူးယူကြပါစို့</string>
+    <string name="fragment_usb_legacy_description">"ဤနည်းသည် ဒေတာများကို ရွှေ့ပြောင်းရန် အမြန်ဆုံးပင်ဖြစ်သည်။
+
+ဘူးထဲရှိ ဓာတ်အားသွင်းကိရိယာကို ရှာ၍ သင့်ဖုန်းအသစ်တွင် ပလတ်ထိုးပါ။ ဖုန်းများကို ကေဘယ်ကြိုးသုံး၍ ချိတ်ဆက်ပြီးလျှင် သင့်ဖုန်းအဟောင်းကို လော့ခ်ဖွင့်ပါ။"</string>
+    <string name="fragment_usb_other_ways">ကေဘယ်မပါဘဲ ကူးယူရန်</string>
+    <string name="fragment_usb_plug_cable">ကေဘယ်ကို သင့်ဖုန်းအဟောင်းသို့ ပလတ်ထိုးပါ</string>
+    <string name="fragment_waiting_title">ခေတ္တစောင့်ပါ…</string>
+    <string name="gigabyteShort">ဂစ်ဂါဘိုက်</string>
+    <string name="google_contacts_static_text">Google အဆက်အသွယ်များကို စင့်ခ်လုပ်မည်</string>
+    <string name="google_contacts_static_text_off">Google Contacts များကို စင့်ခ်ဆက်လုပ်ပါမည်</string>
+    <string name="header_set_backup_account">အရန်အကောင့်ထည့်ခြင်း</string>
+    <string name="i_message_dialog_message">"iPhone® စက်ပစ္စည်း အသုံးပြုသူများမှ SMS မက်ဆေ့ဂျ်များ ဆက်လက်ရယူနိုင်ရန် iMessage® ကို ပိတ်ထားရပါမည်။
+
+ညွှန်ကြားချက်များအတွက် "<b>g.co/iMessageHelp</b> တွင် ဝင်ကြည့်ပါ။</string>
+    <string name="instructions_fragment_title">သင့်အခြားဖုန်းပေါ်တွင် ဆက်လုပ်ပါ</string>
+    <string name="ios_connected_fragment_description">"နောက်လာမည့် မျက်နှာပြင်တွင် သင့် Google အကောင့်သို့ လက်မှတ်ထိုးဝင်နိုင်သည် သို့မဟုတ် အကောင့် အသစ်တစ်ခု ဖွင့်နိုင်သည်။
+
+သင့် Google အကောင့်ကို ထည့်မထားလျှင် iOS Calendar® အစီအစဉ်များအား လွှဲပြောင်းသွားမည် မဟုတ်ပါ။"</string>
+    <string name="ios_message_attachment_explanation">[သင်၏ မက်ဆေ့ဂျ် ပူးတွဲပါဖိုင်များသည် Google Photos > ကိရိယာဖိုင်တွဲများ > မက်ဆေ့ဂျ် ပူးတွဲပါဖိုင်များတွင် ရှိပါသည်]</string>
+    <string name="ios_message_attachment_failed_explanation">[အချို့သော ပူးတွဲပါဖိုင်များကို ကူးယူ၍မရနိုင်ပါ။ လွှဲပြောင်းထားသော ပူးတွဲပါဖိုင်များကို Google Photos > ကိရိယာဖိုင်တွဲများ > မက်ဆေ့ဂျ် ပူးတွဲပါဖိုင်များတွင် တွေ့ရှိနိုင်ပါသည်]</string>
+    <string name="ios_message_attachment_placeholder">[Google ဓာတ်ပုံများတွင် သိမ်းထားသော ပူးတွဲဖိုင် > စက်ပစ္စည်းဖိုင်တွဲများ > မက်ဆေ့ဂျ်ပူးတွဲဖိုင်များ]</string>
+    <string name="ios_message_attachments_placeholder">[Google ဓာတ်ပုံများတွင် သိမ်းထားသော ပူးတွဲဖိုင်များ > စက်ပစ္စည်းဖိုင်တွဲများ > မက်ဆေ့ဂျ်ပူးတွဲဖိုင်များ]</string>
+    <string name="ios_migration_default_calendar_title">ပြက္ခဒိန်</string>
+    <string name="ios_migration_other_contact_relation">အခြား</string>
+    <string name="ios_photos_dialog_message">"iCloud® တွင် သိမ်းဆည်းထားသည့် ပုံများကို ကူးယူ၍မရပါ။
+
+၎င်းဓာတ်ပုံများကို သင့် ^1 သို့ ထည့်သွင်းရန် iPhone® စက်ပစ္စည်းပေါ်တွင် Google Photos အက်ပ်ကို ထည့်သွင်းပြီး မိတ္တူကူးခြင်းနှင့် စင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။ နောက်ထပ် လမ်းညွှန်ချက်များအတွက် "<b>g.co/datatransferhelp</b> သို့ သွားပါ။</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">အကောင့်ထည့်ရန်</string>
+    <string name="lockscreen_smartdevice_action_next">ရှေ့သို့</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">သင့်စက်ပစ္စည်းကို စနစ်ဆက်လက်ထည့်သွင်းရန် လော့ခ်ဖွင့်ပါ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">လုံခြုံရေးကြောင့် စနစ်ထည့်သွင်းမှု ဆက်လက်ပြုလုပ်ရန် မျက်နှာပြင်လော့ခ်ကို အတည်ပြုရပါမည်</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">သင့်မျက်နှာပြင်လော့ခ်ကို အတည်ပြုပါ</string>
+    <string name="manage_data_label">Google အကောင့်</string>
+    <string name="master_clear_title">စက်ရုံထုတ်ဆက်တင်အတိုင်း ပြန်လည်သတ်မှတ်ခြင်း</string>
+    <string name="megabyteShort">မဂ္ဂါဘိုက်</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">အရန်အကောင့် ထည့်သွင်းရန် လိုအပ်သည်</string>
+    <string name="notification_content_title_set_backup_account">အရန်ကူးယူပါ</string>
+    <string name="notification_ticker_set_backup_account">အရန်သိမ်းဆည်းရန်အကောင့်လိုအပ်သည်</string>
+    <string name="permgrouplab_calendar">Calendar</string>
+    <string name="permgrouplab_camera">ကင်မရာ</string>
+    <string name="permgrouplab_contacts">အဆက်အသွယ်များ</string>
+    <string name="permgrouplab_location">တည်နေရာ</string>
+    <string name="permgrouplab_microphone">မိုက်ခရိုဖုန်း</string>
+    <string name="permgrouplab_phone">ဖုန်း</string>
+    <string name="permgrouplab_sensors">ခန္ဓာကိုယ် အာရုံခံကိရိယာများ</string>
+    <string name="permgrouplab_sms">စာတိုစနစ်</string>
+    <string name="permgrouplab_storage">သိုလှောင်ခန်း</string>
+    <string name="petabyteShort">ပက်တာဘိုက်</string>
+    <string name="photo_backup_configure_account_default_summary">လက်ရှိတွင် မည်သည့်အကောင့်ကမျှ ဓာတ်ပုံများကို မိတ္တူကူးသိမ်းဆည်းထားခြင်းမရှိပါ</string>
+    <string name="photos_backup_title">ဓာတ်ပုံများကို မိတ္တူကူးပါ</string>
+    <string name="photos_filtering_option_all">အားလုံး</string>
+    <string name="photos_filtering_option_none">မည်သည့်အရာမျှ မပါဝင်ပါ</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">မိတ္တူကူးထားသော အဆက်အသွယ်များကို သင့် Google အကောင့်သို့ သိမ်းပါမည်။</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">မိတ္တူကူးထားသော အဆက်အသွယ်များနှင့် ပြက္ခဒိန်များကို သင့် Google အကောင့်သို့ သိမ်းပါမည်။</string>
+    <string name="restore_choice_data_disclaimer_v2">အချို့ဒေတာများကို သင့် ^1 သို့ ကူးယူမည် မဟုတ်ပါ။ <annotation id="restore_choice_data_disclaimer_learn_more">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="restore_choice_deselect_some_content">ရှေ့ဆက်ရန် အချို့အကြောင်းအရာများကို ဖြုတ်ပါ</string>
+    <string name="restore_choice_learn_more_android">"သင့်ဖုန်းအဟောင်းမှ အချို့ဒေတာများကို အလိုအလျောက်မိတ္တူကူး၍ မရပါ -
+
+ ● ဒေါင်းလုဒ်များ (ပီဒီအက်ဖ် (PDF) ဖိုင်များကဲ့သို့)
+
+ ● ဖျောက်ထားသော ဖိုင်တွဲများတွင် သိမ်းဆည်းထားသော ဓာတ်ပုံများ၊ ဗီဒီယိုများနှင့် သီချင်းများ
+
+ ● မိုဘိုင်းမက်ဆေ့ဂျ်မှတစ်ဆင့် လက်ခံရရှိသော ဓာတ်ပုံများ၊ ဗီဒီယိုများနှင့် သီချင်းများ
+
+ ● Google Play စတိုးမှ မဟုတ်သော အက်ပ်များ
+
+ ● အက်ပ်ဒေတာ (အက်ပ်က Android မိတ္တူစနစ်ကို အသုံးမပြုပါက)
+
+ ● အချို့သော စက်ပစ္စည်းဆိုင်ရာ ဆက်တင်များ
+
+ ● Google အကောင့်မဟုတ်သည့် အကောင့်များ (နှင့်ဆက်စပ်လျက်ရှိသည့် ဒေတာမှန်သမျှ)
+
+ ● Google မဟုတ်သည့် ဝန်ဆောင်မှုများသို့ စင့်ခ်လုပ်ထားသည့် အဆက်အသွယ်များနှင့် ပြက္ခဒိန်များ
+
+ ● ဖုန်းမြည်သံများ
+
+ အသေးစိတ်အချက်များနှင့် ဤဒေတာအချို့ကို မိတ္တူကူးမှုအတွက် အကူအညီရယူရန် g.co/datatransferhelp တွင် ဝင်ကြည့်ပါ။"</string>
+    <string name="restore_choice_learn_more_ios">"သင့်ဖုန်းအဟောင်းမှ အချို့ဒေတာများကို အလိုအလျောက် မိတ္တူကူး၍ မရပါ -
+
+ ● အက်ပ်များနှင့် အက်ပ်ဒေတာ
+
+ ● မူလဓာတ်ပုံများကို သင့်ဖုန်းတွင် သိမ်းဆည်းမထားသော ဓာတ်ပုံများ (ဥပမာ - ပိုကောင်းသော သိုလှောင်ရာ ဆက်တင်ကို ဖွင့်ထားပါက မူလဓာတ်ပုံများကို iCloud® တွင် သိမ်းဆည်းပါသည်)
+
+ ● iCloud® တွင် သိမ်းထားသော ဖိုင်များနှင့် စာဖိုင်များ
+
+ ● စက်ပစ္စည်းဆက်တင်များ (Wi-Fi စကားဝှက်များနှင့် နောက်ခံများကဲ့သို့)
+
+ ● ဒစ်ဂျစ်တယ်မူပိုင်ခွင့်များစီမံခန့်ခွဲမှု (DRM) ကာကွယ်စနစ်နှင့် ကာကွယ်ပေးထားသည့် သီချင်းများ (ဥပမာ - ဧပြီ ၂၀၀၉ မတိုင်မီ ဝယ်ယူထားသော iTunes(R) သီချင်းများ သို့မဟုတ် သီချင်းတိုက်ရိုက်လွှင့်အက်ပ်ဖြင့် အော့ဖ်လိုင်းတွင် နားထောင်ရန်အတွက် ဒေါင်းလုဒ်လုပ်ထားသော သီချင်းများ)
+
+ ● Google အကောင့်မဟုတ်သည့် အကောင့်များ(နှင့်ဆက်စပ်လျက်ရှိသည့် ဒေတာများ)
+
+ ● Google သို့မဟုတ် iCloud® မဟုတ်သည့် ဝန်ဆောင်မှုများသို့ စင့်ခ်လုပ်ထားသည့် အဆက်အသွယ်များနှင့် ပြက္ခဒိန်များ
+
+ ● Safari® မှ လိပ်စာများ
+
+  iMessage® ပူးတွဲပါဖိုင်များကို Google Photos > ကိရိယာဖိုင်တွဲများ > မက်ဆေ့ဂျ်ပူးတွဲပါဖိုင်များတွင် ကြည့်ရှုနိုင်ပါသည်။
+
+ အသေးစိတ်အချက်များနှင့် ဤဒေတာအချို့ကို မိတ္တူကူးမှုအတွက် အကူအညီရယူရန် g.co/datatransferhelp တွင် ဝင်ကြည့်ပါ။"</string>
+    <string name="restore_choice_not_enough_space">နေရာအလုံအလောက် မရှိပါ</string>
+    <string name="restore_choice_total_text">သင်အသုံးပြုနိုင်သည့် နေရာလွတ် %1$s/ လွှဲပြောင်းချိန် %2$s အနက်</string>
+    <string name="restore_error_message">ပြန်လည်ရယူနေစဉ်တွင် မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ဝမ်းနည်းပါသည်။</string>
+    <string name="restore_item_appdata">အက်ပ်ဒေတာ</string>
+    <string name="restore_item_calendar">ပြက္ခဒိန်</string>
+    <string name="restore_item_calendar_ical_description">iOS® ပြက္ခဒိန်၊ Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google ပြက္ခဒိန်ကို စင့်ခ်ဆက်လုပ်ပါမည်</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar ကို စင့်ခ်လုပ်မည်</string>
+    <string name="restore_item_call_logs">ယခင်ခေါ်ဆိုမှုများ</string>
+    <string name="restore_item_contacts">အဆက်အသွယ်များ</string>
+    <string name="restore_item_device_settings_description">Wi-Fi စကားဝှက်များနှင့် အခြားအရာများ</string>
+    <string name="restore_item_downloads">ဒေါင်းလုဒ်များ</string>
+    <string name="restore_item_email">အီးမေးလ်</string>
+    <string name="restore_item_email_description">Gmail ကို စင့်ခ်လုပ်မည်</string>
+    <string name="restore_item_message_attachments">မက်ဆေ့ဂျ်ပါ ပူးတွဲဖိုင်များ</string>
+    <string name="restore_item_messages">မက်ဆေ့ဂျ်များ</string>
+    <string name="restore_item_music">သီချင်း</string>
+    <string name="restore_item_photos">ဓာတ်ပုံနှင့် ဗီဒီယိုများ</string>
+    <string name="restore_item_settings">စက်ပစ္စည်း ဆက်တင်များ</string>
+    <string name="restore_item_sms">SMS စာတိုများ</string>
+    <string name="restore_item_will_be_synced_text">ဤအရာသည် သင့်ဖုန်းသို့ ပြိုင်တူညှိထည့်ပေးပါမည်</string>
+    <string name="restore_progress_title">ပြန်လည်ရယူနေသည်…</string>
+    <string name="small_time_duration">၁ မိနစ်အောက်</string>
+    <string name="source_connected_description">ပြင်ဆင်နေပါသည်...</string>
+    <string name="source_connected_title">သင့် %1$s သို့ ချိတ်ဆက်ထားပါသည်</string>
+    <string name="source_copying_description">သင်ရွေးချယ်ထားသည့်ဒေတာများကို သင့်ဖုန်းအသစ်သို့ ကူးထည့်နေပါသည်</string>
+    <string name="source_copying_title">ကူးယူနေသည်...</string>
+    <string name="source_default_target_device_name">စက်ပစ္စည်းအသစ်</string>
+    <string name="source_notification_device_disconnected">သင့်ကေဘယ်ကြိုးကို ပြန်ချိတ်ဆက်ပါ</string>
+    <string name="source_notification_text">ဖုန်းအချင်းချင်းလွှဲပြောင်းနေဆဲ ဖြစ်သည်</string>
+    <string name="source_notification_title">ဒေတာလွှဲပြောင်းမှု</string>
+    <string name="source_success_description">သင့် %1$s တွင် စနစ်ထည့်သွင်းမှု ပြီးသွားပါပြီ</string>
+    <string name="source_success_screen_title">အားလုံးပြီးပါပြီ။</string>
+    <string name="source_unplugged_description">သင့် %1$s သို့ ပြန်လည်ချိတ်ဆက်နေသည်</string>
+    <string name="source_unplugged_title">ကေဘယ်ဖြုတ်ထားသည်</string>
+    <string name="source_waiting_title">သင့် %1$s တွင် စနစ်ဆက်လက်ထည့်သွင်းပါ</string>
+    <string name="stop_copying_dialog_continue_button">ပယ်ရန်</string>
+    <string name="stop_copying_dialog_message_before_transfer">သင့်ဒေတာများကို ဖုန်းအသစ်ထဲသို့ ကူးမထည့်ရသေးပါ</string>
+    <string name="stop_copying_dialog_message_during_transfer">သင့်ဒေတာအချို့ကို ဖုန်းအသစ်ထဲသို့ ကူးမထည့်ရသေးပါ</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">မကူးပါနှင့်</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ရပ်ရန်</string>
+    <string name="stop_copying_dialog_title_before_transfer">မကူးယူလိုဘူးလား။</string>
+    <string name="stop_copying_dialog_title_during_transfer">ကူးယူခြင်းကို ရပ်လိုပါသလား။</string>
+    <string name="storage_management_wear_descriptive_text">အက်ပ်များက ဒေတာကို ဝတ်ဆင်စရာဆီသို့ ပုံတူပွားပေးရန် သင့်ကိရိယာ သိုလှောင်ခန်းကို သုံးသည်။</string>
+    <string name="storage_management_wear_manage_size_label">ဝတ်ဆင်စရာ သိုလှောင်ခန်းကို စီမံခန့်ခွဲမှု</string>
+    <string name="storage_management_wear_size_label">ဝတ်ဆင်စရာ သိုလှောင်ခန်း</string>
+    <string name="storage_managment_all_storage_descriptive_text">Total data used by Google Play ဝန်ဆောင်မှုများက သုံးစွဲခဲ့ကြသည့် ဒေတာ စုစုပေါင်း၊ ရှာဖွေရေး အင်ဂျင် နှင့် အခြား ဒေတာ အပါအဝင်။</string>
+    <string name="storage_managment_clear_all_data">ဒေတာ အားလုံး ရှင်းရန်</string>
+    <string name="storage_managment_computing_size">တွက်ချက်နေ…</string>
+    <string name="storage_managment_icing_size_label">အချက်အလက် ရှာရန်</string>
+    <string name="storage_managment_manage_icing_button">အချက်အလက်ရှာဖွေရေး စီမံရန်</string>
+    <string name="storage_managment_search_index_descriptive_text">သင့်အက်ပ်များအသုံးပြုရန် ရှာဖွေရေးအင်ဂျင်ကို ပံ့ပိုးပေးခြင်းဖြင့် သင့်စက်ပစ္စည်းတွင် ရှာဖွေမှုကို ပိုမိုမြန်ဆန်စေပါသည်။</string>
+    <string name="storage_managment_title">Google Play ဝန်ဆောင်မှု သိုလှောင်ခန်း</string>
+    <string name="storage_managment_total_size_label">စုစုပေါင်း သိုလှောင်ခန်း</string>
+    <string name="suw_back_button_label">နောက်သို့</string>
+    <string name="suw_more_button_label">နောက်ထပ်</string>
+    <string name="suw_next_button_label">ရှေ့သို့</string>
+    <string name="target_default_source_device_model">စက်ပစ္စည်းအဟောင်း</string>
+    <string name="target_device_not_supported_cant_continue_description">ဒေတာများကိုကူးယူရန် အခြားနည်းလမ်းတစ်ခု ရှာပါ</string>
+    <string name="target_device_not_supported_cant_continue_title">အခြားဖုန်းကို ပံ့ပိုးမထားပါ</string>
+    <string name="target_device_not_supported_try_restarting_description">"ကြိုးဖြုတ်ပြီး သင့်ဖုန်းအဟောင်းကို ပြန်စပါ။ ထို့နောက် ကြိုးပြန်တပ်ပြီး သင့် Pixel ပေါ်ရှိ လမ်းညွှန်ချက်များအတိုင်း လုပ်ဆောင်ပါ။
+
+ဤမှားယွင်းမှုကို ဆက်လက်တွေ့ရှိနေရပါက အခြားနည်းလမ်းဖြင့် မိတ္တူကူးရန် လိုအပ်ပါလိမ့်မည်။"</string>
+    <string name="target_device_not_supported_try_restarting_title">ဖုန်းကို ပံ့ပိုးထားခြင်း မရှိနိုင်ပါ</string>
+    <string name="target_smart_device_timeout_add_account">အကောင့်ထည့်ရန်</string>
+    <string name="target_smart_device_timeout_description">ဆန္ဒရှိလျှင် သင့်အကောင့်ကို ကိုယ်တိုင်ကိုယ်ကျ ထည့်သွင်းကြည့်နိုင်ပါသည်</string>
+    <string name="target_smart_device_timeout_dismiss">ပယ်ရန်</string>
+    <string name="target_smart_device_timeout_title">အခက်အခဲ ရှိနေပါသလား။</string>
+    <string name="terabyteShort">တယ်ရာဘိုက်</string>
+    <string name="toast_phones_connected">ဖုန်းများကို ချိတ်ဆက်ထားသည်</string>
+    <string name="toast_reconnect_cable">သင့်ကေဘယ်ကြိုးကို ပြန်တပ်ပါ</string>
+    <string name="transfer_finished_fragment_title">အပြီးသတ်ပြင်ဆင်မှုများ လုပ်ဆောင်နေသည်…</string>
+    <string name="transfer_summary_copied">ဒေတာများကို ကူးပြီးပါပြီ</string>
+    <string name="transfer_summary_fragment_description">ကြိုးကို ဖြုတ်လိုက်နိုင်ပါပြီ။</string>
+    <string name="transfer_summary_fragment_finish">အဆုံးသတ်ရန်</string>
+    <string name="transfer_summary_fragment_title">သင့်ဖုန်းသည် အဆင်သင့်ဖြစ်ခါနီးပါပြီ</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">အချို့ပုံများကို ကူးယူခြင်း မရှိပါ။ <annotation id="transfer_summary_learn_more">ပိုမိုလေ့လာရန်</annotation></string>
+    <string name="transfer_summary_not_copied">ဒေတာများကို မကူးရသေးပါ</string>
+    <string name="transfer_summary_partial">%1$s/%2$s ကူးယူပြီးပြီ</string>
+    <string name="transfer_summary_will_sync">စနစ်ထည့်သွင်းမှု ပြုလုပ်ပြီးပါက ဒေတာများကို စင့်ခ်လုပ်သွားပါမည်</string>
+    <string name="transferring_fragment_calculating_remaining_time">ကျန်ရှိသည့် အချိန်ကို တွက်နေသည်…</string>
+    <string name="transferring_fragment_header">ကူးယူနေသည်...</string>
+    <string name="transferring_fragment_remaining_time">%1$s ကျန်သည်</string>
+    <string name="trust_instructions_description">"ရှေ့ဆက်ရန် သင့်  iPhone® စက်ပစ္စည်းကို စစ်ဆေးပြီး ချိတ်ဆက်မှုကို အတည်ပြုပါ"</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone၊ iPad၊  iOS၊ iMessage၊ iCloud၊ Safari နှင့် iTunes တို့သည် အမေရိကန်ပြည်ထောင်စုနှင့် အခြားနိုင်ငံများတွင် မှတ်ပုံတင်ထားသော Apple Inc., ၏အမှတ်တံဆိပ်များ ဖြစ်သည်။"</string>
+</resources>

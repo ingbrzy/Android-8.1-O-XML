@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM 卡 PIN 码不正确，您还有 %d 次尝试机会。</item>
+        <item quantity="one">SIM 卡 PIN 码不正确，您还有 %d 次尝试机会。如果仍不正确，则需要联系运营商帮您解锁设备。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM 卡 PUK 码不正确，您还有 %d 次尝试机会。如果仍不正确，SIM 卡将永远无法使用。</item>
+        <item quantity="one">SIM 卡 PUK 码不正确，您还有 %d 次尝试机会。如果仍不正确，SIM 卡将永远无法使用。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认密码。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认密码。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认解锁图案。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认解锁图案。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认 PIN 码。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认 PIN 码。</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s、%2$s以及另外 %3$d 项</item>
+        <item quantity="one">%1$s、%2$s以及另外 %3$d 项</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">此群组内还有 %s 条通知。</item>
+        <item quantity="one">此群组内还有 %s 条通知。</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">此应用指定的 1 个通知类别（共 %s 个）</item>
+        <item quantity="one">此应用指定的 1 个通知类别（共 %s 个）</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d 小时</item>
+        <item quantity="one">%d 小时</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">%d 分钟</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">概览中有 %d 个屏幕</item>
+        <item quantity="one">概览中有 1 个屏幕</item>
+    </plurals>
+</resources>

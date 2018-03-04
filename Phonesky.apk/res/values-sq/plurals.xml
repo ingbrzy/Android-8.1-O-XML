@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Vlerësimi yt: %1$s yje</item>
+        <item quantity="one">Vlerësimi yt: %1$s yll</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d komente</item>
+        <item quantity="one">%1$d koment</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d komente për vlerësimin me yll %2$d</item>
+        <item quantity="one">%1$d koment për vlerësimin me yll %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Instalimet u ndërprenë</item>
+        <item quantity="one">Instalimi u ndërpre</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Aplikacionet u skanuan %1$d ditë më parë</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d aplikacione të dëmshme u hoqën. %2$s.</item>
+        <item quantity="one">%1$d aplikacion i dëmshëm u hoq. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d përditësime kërkojnë miratim</item>
+        <item quantity="one">%1$d përditësim kërkon miratim</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d përditësime të reja</item>
+        <item quantity="one">%1$d përditësim i ri</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Ofrohen %1$d përditësime</item>
+        <item quantity="one">Ofrohet %1$d përditësim</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Përditëso të gjitha</item>
+        <item quantity="one">Përditëso</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d aplikacione u përditësuan</item>
+        <item quantity="one">%1$d aplikacion u përditësua</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yje</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yll</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yje - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yll - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yje - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yll - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d përdoruesve iu duk i dobishëm ky koment. Shënoje komentin si të dobishëm</item>
+        <item quantity="one">%1$d përdoruesi iu duk i dobishëm ky koment. Shënoje komentin si të dobishëm</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d përdoruesve iu duk i dobishëm ky koment. Hiqe shënimin e komentit si të dobishëm</item>
+        <item quantity="one">%1$d përdoruesi iu duk i dobishëm ky koment. Hiqe shënimin e komentit si të dobishëm</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">E vlerësoi me &lt;b>%1$s yje&lt;/b></item>
+        <item quantity="one">E vlerësoi me &lt;b>%1$s yll&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">në %1$s komente</item>
+        <item quantity="one">në %1$s koment</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s yje&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s yll&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Përdorur së fundi %1$d ditë më parë</item>
+        <item quantity="one">Përdorur së fundi %1$d ditë më parë</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Restauro aplikacionet e zgjedhura</item>
+        <item quantity="one">Restuaro aplikacionin e zgjedhur</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">yje</item>
+        <item quantity="one">yll</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Aplikacionet do të instalohen së shpejti.</item>
+        <item quantity="one">Aplikacioni do të instalohet së shpejti.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Përditësimet e aplikacioneve do të instalohen së shpejti.</item>
+        <item quantity="one">Përditësimi i aplikacionit do të instalohet së shpejti.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Përdorur së fundi %1$d ditë më parë</item>
+        <item quantity="one">Përdorur së fundi %1$d ditë më parë</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Përdorur së fundi %1$d muaj më parë</item>
+        <item quantity="one">Përdorur së fundi %1$d muaj më parë</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Për të instaluar aplikacionet ose përditësimet në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te \"Cilësimet e hapësirës ruajtëse\".</item>
+        <item quantity="one">Për të instaluar aplikacionin ose përditësimin në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te \"Cilësimet e hapësirës ruajtëse\".</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Për të instaluar aplikacionet ose përditësimet në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te &lt;a href=\"\">Cilësimet > Hapësira ruajtëse&lt;/a>.</item>
+        <item quantity="one">Për të instaluar aplikacionin ose përditësimin në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te &lt;a href=\"\">Cilësimet > Hapësira ruajtëse&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Për të instaluar aplikacionet ose përditësimet në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te Cilësimet > Hapësira ruajtëse.</item>
+        <item quantity="one">Për të instaluar aplikacionin ose përditësimin në këtë pajisje, fshi aplikacionet që nuk të duhen më. Mund të lirosh po ashtu hapësirë duke fshirë skedarët e medias te Cilësimet > Hapësira ruajtëse.</item>
+    </plurals>
+</resources>

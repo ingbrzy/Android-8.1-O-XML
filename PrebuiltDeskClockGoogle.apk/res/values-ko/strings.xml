@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">ㅇ=아비장|Africa/Abidjan</string>
+    <string name="C10">ㄷ=다카르|Africa/Dakar</string>
+    <string name="C100">ㅇ=암만|Asia/Amman</string>
+    <string name="C101">ㅇ=아나디리|Asia/Anadyr</string>
+    <string name="C102">ㅇ=악타우|Asia/Aqtau</string>
+    <string name="C103">ㅂ=바그다드|Asia/Baghdad</string>
+    <string name="C104">ㅂ=바레인|Asia/Bahrain</string>
+    <string name="C105">ㅂ=바쿠|Asia/Baku</string>
+    <string name="C106">ㅂ=방콕|Asia/Bangkok</string>
+    <string name="C107">ㅂ=베이루트|Asia/Beirut</string>
+    <string name="C108">ㅋ=콜카타|Asia/Calcutta</string>
+    <string name="C109">ㄷ=다마스쿠스|Asia/Damascus</string>
+    <string name="C11">ㄷ=다르에스살람|Africa/Dar_es_Salaam</string>
+    <string name="C110">ㄷ=다카|Asia/Dhaka</string>
+    <string name="C111">ㄷ=두바이|Asia/Dubai</string>
+    <string name="C112">ㄱ=가자|Asia/Gaza</string>
+    <string name="C113">ㅎ=헤브론|Asia/Hebron</string>
+    <string name="C114">ㅎ=호치민|Asia/Ho_Chi_Minh</string>
+    <string name="C115">ㅎ=홍콩:|Asia/Hong_Kong</string>
+    <string name="C117">ㅈ=자카르타|Asia/Jakarta</string>
+    <string name="C118">ㅇ=예루살렘|Asia/Jerusalem</string>
+    <string name="C119">ㅋ=카불|Asia/Kabul</string>
+    <string name="C12">ㅈ=지부티|Africa/Djibouti</string>
+    <string name="C120">ㅋ=카라치|Asia/Karachi</string>
+    <string name="C121">ㅋ=카트만두|Asia/Kathmandu</string>
+    <string name="C122">ㅋ=쿠알라룸푸르|Asia/Kuala_Lumpur</string>
+    <string name="C123">ㅋ=쿠웨이트|Asia/Kuwait</string>
+    <string name="C124">ㅁ=마카오|Asia/Macau</string>
+    <string name="C125">ㅁ=마닐라|Asia/Manila</string>
+    <string name="C126">ㅁ=무스카트|Asia/Muscat</string>
+    <string name="C127">ㅍ=프놈펜|Asia/Phnom_Penh</string>
+    <string name="C128">ㅍ=평양:|Asia/Pyongyang</string>
+    <string name="C13">ㅍ=프리타운|Africa/Freetown</string>
+    <string name="C130">ㄹ=랑군|Asia/Rangoon</string>
+    <string name="C131">ㄹ=리야드|Asia/Riyadh</string>
+    <string name="C133">ㅅ=서울|Asia/Seoul</string>
+    <string name="C134">ㅅ=상하이:|Asia/Shanghai</string>
+    <string name="C135">ㅅ=싱가포르|Asia/Singapore</string>
+    <string name="C136">ㅌ=타이페이:|Asia/Taipei</string>
+    <string name="C137">ㅌ=테헤란|Asia/Tehran</string>
+    <string name="C138">ㅌ=텔아비브|Asia/Tel_Aviv</string>
+    <string name="C139">ㄷ=도쿄:|Asia/Tokyo</string>
+    <string name="C14">ㄱ=가보로네|Africa/Gaborone</string>
+    <string name="C140">ㅇ=울란바토르|Asia/Ulaanbaatar</string>
+    <string name="C141">ㅂ=버뮤다|Atlantic/Bermuda</string>
+    <string name="C142">ㅋ=카나리아|Atlantic/Canary</string>
+    <string name="C143">ㅋ=카보베르데|Atlantic/Cape_Verde</string>
+    <string name="C144">ㄹ=레이캬비크|Atlantic/Reykjavik</string>
+    <string name="C145">ㅅ=스탠리|Atlantic/Stanley</string>
+    <string name="C146">ㅇ=애들레이드|Australia/Adelaide</string>
+    <string name="C147">ㅂ=브리즈번|Australia/Brisbane</string>
+    <string name="C148">ㅋ=캔버라|Australia/Canberra</string>
+    <string name="C149">ㄷ=다윈|Australia/Darwin</string>
+    <string name="C15">ㅎ=하라레|Africa/Harare</string>
+    <string name="C150">ㅁ=멜버른|Australia/Melbourne</string>
+    <string name="C151">ㄴ=뉴사우스웨일스|Australia/NSW</string>
+    <string name="C152">ㅍ=퍼스|Australia/Perth</string>
+    <string name="C153">ㅋ=퀸즐랜드|Australia/Queensland</string>
+    <string name="C154">ㅅ=시드니|Australia/Sydney</string>
+    <string name="C155">ㅂ=빅토리아|Australia/Victoria</string>
+    <string name="C156">ㄴ=뉴펀들랜드|Canada/Newfoundland</string>
+    <string name="C157">ㅅ=서스캐처원|Canada/Saskatchewan</string>
+    <string name="C158">ㅇ=이스터 섬|Chile/EasterIsland</string>
+    <string name="C159">ㅇ=암스테르담|Europe/Amsterdam</string>
+    <string name="C16">ㅇ=요하네스버그|Africa/Johannesburg</string>
+    <string name="C160">ㅇ=안도라|Europe/Andorra</string>
+    <string name="C161">ㅇ=아테네|Europe/Athens</string>
+    <string name="C162">ㅂ=벨파스트|Europe/Belfast</string>
+    <string name="C163">ㅂ=베오그라드|Europe/Belgrade</string>
+    <string name="C164">ㅂ=베를린|Europe/Berlin</string>
+    <string name="C165">ㅂ=브라티슬라바|Europe/Bratislava</string>
+    <string name="C166">ㅂ=브뤼셀|Europe/Brussels</string>
+    <string name="C167">ㅂ=부쿠레슈티|Europe/Bucharest</string>
+    <string name="C168">ㅂ=부다페스트|Europe/Budapest</string>
+    <string name="C169">ㅋ=키시너우|Europe/Chisinau</string>
+    <string name="C17">ㅋ=캄팔라|Africa/Kampala</string>
+    <string name="C170">ㅋ=코펜하겐|Europe/Copenhagen</string>
+    <string name="C171">ㄷ=더블린|Europe/Dublin</string>
+    <string name="C172">ㅈ=지브롤터|Europe/Gibraltar</string>
+    <string name="C173">ㅎ=헬싱키|Europe/Helsinki</string>
+    <string name="C174">ㅁ=맨 섬|Europe/Isle_of_Man</string>
+    <string name="C175">ㅇ=이스탄불|Europe/Istanbul</string>
+    <string name="C176">ㅋ=키예프|Europe/Kiev</string>
+    <string name="C177">ㄹ=리스본|Europe/Lisbon</string>
+    <string name="C178">ㄹ=런던|Europe/London</string>
+    <string name="C179">ㄹ=룩셈부르크|Europe/Luxembourg</string>
+    <string name="C18">ㅎ=하르툼|Africa/Khartoum</string>
+    <string name="C180">ㅁ=마드리드|Europe/Madrid</string>
+    <string name="C181">ㅁ=몰타|Europe/Malta</string>
+    <string name="C182">ㅁ=민스크|Europe/Minsk</string>
+    <string name="C183">ㅁ=모나코|Europe/Monaco</string>
+    <string name="C184">ㅁ=모스크바|Europe/Moscow</string>
+    <string name="C185">ㅇ=오슬로|Europe/Oslo</string>
+    <string name="C186">ㅍ=파리|Europe/Paris</string>
+    <string name="C187">ㅍ=프라하|Europe/Prague</string>
+    <string name="C188">ㄹ=리가|Europe/Riga</string>
+    <string name="C189">ㄹ=로마|Europe/Rome</string>
+    <string name="C19">ㅋ=키갈리|Africa/Kigali</string>
+    <string name="C190">ㅅ=산마리노|Europe/San_Marino</string>
+    <string name="C191">ㅅ=사라예보|Europe/Sarajevo</string>
+    <string name="C192">ㅅ=심페로폴|Europe/Simferopol</string>
+    <string name="C193">ㅅ=스코페|Europe/Skopje</string>
+    <string name="C194">ㅅ=소피아|Europe/Sofia</string>
+    <string name="C195">ㅅ=스톡홀름|Europe/Stockholm</string>
+    <string name="C196">ㅌ=탈린|Europe/Tallinn</string>
+    <string name="C197">ㅂ=바티칸|Europe/Vatican</string>
+    <string name="C198">ㅂ=비엔나|Europe/Vienna</string>
+    <string name="C199">ㅂ=빌뉴스|Europe/Vilnius</string>
+    <string name="C2">ㅇ=아크라|Africa/Accra</string>
+    <string name="C20">ㅋ=킨샤사|Africa/Kinshasa</string>
+    <string name="C200">ㅂ=바르샤바|Europe/Warsaw</string>
+    <string name="C201">ㅈ=자그레브|Europe/Zagreb</string>
+    <string name="C202">ㅊ=취리히|Europe/Zurich</string>
+    <string name="C203">ㅇ=안타나나리보|Indian/Antananarivo</string>
+    <string name="C204">ㅁ=몰디브|Indian/Maldives</string>
+    <string name="C205">ㅁ=모리셔스|Indian/Mauritius</string>
+    <string name="C206">ㅇ=오클랜드|Pacific/Auckland</string>
+    <string name="C207">ㅍ=피지|Pacific/Fiji</string>
+    <string name="C208">ㄱ=괌|Pacific/Guam</string>
+    <string name="C209">ㅎ=호놀룰루|Pacific/Honolulu</string>
+    <string name="C21">ㄹ=라고스|Africa/Lagos</string>
+    <string name="C210">ㅋ=키리티마티 섬|Pacific/Kiritimati</string>
+    <string name="C211">ㄴ=누메아|Pacific/Noumea</string>
+    <string name="C214">ㅇ=앤티가 섬|America/Antigua</string>
+    <string name="C215">ㅇ=오스틴|America/Chicago</string>
+    <string name="C216">ㅂ=보스턴|America/New_York</string>
+    <string name="C217">ㅋ=캘거리|America/Denver</string>
+    <string name="C218">ㅋ=콜롬버스|America/New_York</string>
+    <string name="C219">ㄷ=댈러스|America/Chicago</string>
+    <string name="C22">ㅁ=마세루|Africa/Maseru</string>
+    <string name="C220">ㄴ=녹스빌|America/New_York</string>
+    <string name="C221">ㅁ=멤피스|America/Chicago</string>
+    <string name="C222">ㅁ=마이애미|America/New_York</string>
+    <string name="C223">ㅁ=미니애폴리스|America/Chicago</string>
+    <string name="C224">ㅇ=오타와|America/New_York</string>
+    <string name="C225">ㅍ=필라델피아|America/New_York</string>
+    <string name="C226">ㅍ=포틀랜드|America/Los_Angeles</string>
+    <string name="C227">ㅅ=샌디에이고|America/Los_Angeles</string>
+    <string name="C228">ㅅ=샌프란시스코|America/Los_Angeles</string>
+    <string name="C229">ㅅ=솔트레이크시티|America/Denver</string>
+    <string name="C23">ㅁ=모가디슈|Africa/Mogadishu</string>
+    <string name="C230">ㅅ=산호세|America/Los_Angeles</string>
+    <string name="C231">ㅅ=산살바도르|America/Guatemala</string>
+    <string name="C232">ㅅ=시애틀|America/Los_Angeles</string>
+    <string name="C233">ㅅ=세인트루이스|America/Chicago</string>
+    <string name="C234">ㅇ=워싱턴 D.C.|America/New_York</string>
+    <string name="C235">ㅎ=휴스턴|America/Chicago</string>
+    <string name="C236">ㅅ=샌안토니오|America/Chicago</string>
+    <string name="C237">ㅈ=잭슨빌|America/New_York</string>
+    <string name="C238">ㅂ=볼티모어|America/New_York</string>
+    <string name="C239">ㄴ=내슈빌|America/Chicago</string>
+    <string name="C24">ㄴ=나이로비|Africa/Nairobi</string>
+    <string name="C240">ㅁ=밀워키|America/Chicago</string>
+    <string name="C241">ㅇ=오클라호마시티|America/Chicago</string>
+    <string name="C242">ㄹ=라스베이거스|America/Los_Angeles</string>
+    <string name="C243">ㅇ=앨버커키|America/Denver</string>
+    <string name="C244">ㅌ=투손|MST</string>
+    <string name="C245">ㅅ=새크라멘토|America/Los_Angeles</string>
+    <string name="C246">ㅇ=애틀랜타|America/New_York</string>
+    <string name="C247">ㅋ=클리블랜드|America/New_York</string>
+    <string name="C248">ㄴ=뉴올리언스|America/Chicago</string>
+    <string name="C249">ㅌ=탬파|America/New_York</string>
+    <string name="C25">ㅅ=상투메|Africa/Sao_Tome</string>
+    <string name="C250">ㅍ=피츠버그|America/New_York</string>
+    <string name="C251">ㅅ=신시내티|America/New_York</string>
+    <string name="C252">ㅁ=마운틴뷰|America/Los_Angeles</string>
+    <string name="C253">ㄹ=리노|America/Los_Angeles</string>
+    <string name="C254">ㅂ=블랙록시티|America/Los_Angeles</string>
+    <string name="C255">ㄷ=도하|Asia/Riyadh</string>
+    <string name="C256">ㅂ=베이징:|Asia/Shanghai</string>
+    <string name="C257">ㅁ=뭄바이|Asia/Kolkata</string>
+    <string name="C258">ㄷ=델리|Asia/Kolkata</string>
+    <string name="C259">ㅇ=오사카:|Asia/Tokyo</string>
+    <string name="C26">ㅌ=팀북투|Africa/Timbuktu</string>
+    <string name="C260">ㄹ=라호르|Asia/Karachi</string>
+    <string name="C261">ㅅ=사나|Asia/Riyadh</string>
+    <string name="C262">ㅂ=바르셀로나|Europe/Madrid</string>
+    <string name="C263">ㅁ=뮌헨|Europe/Berlin</string>
+    <string name="C264">ㅁ=밀라노|Europe/Rome</string>
+    <string name="C265">ㅍ=프랑크푸르트|Europe/Berlin</string>
+    <string name="C266">ㅎ=하노이|Asia/Bangkok</string>
+    <string name="C267">ㅇ=앙카라|Europe/Istanbul</string>
+    <string name="C268">ㅂ=벵갈루루|Asia/Kolkata</string>
+    <string name="C269">ㅂ=브라질리아|America/Sao_Paulo</string>
+    <string name="C27">ㅌ=트리폴리|Africa/Tripoli</string>
+    <string name="C270">ㅋ=케이프타운|Africa/Johannesburg</string>
+    <string name="C271">ㅇ=이슬라마바드|Asia/Karachi</string>
+    <string name="C272">ㄹ=리우데자네이루|America/Sao_Paulo</string>
+    <string name="C273">ㅇ=앤아버|America/Detroit</string>
+    <string name="C274">ㅂ=볼더|America/Denver</string>
+    <string name="C275">ㅋ=케임브리지|America/New_York</string>
+    <string name="C276">ㅋ=커클랜드|America/Los_Angeles</string>
+    <string name="C277">ㅁ=매디슨|America/Chicago</string>
+    <string name="C278">ㄱ=광저우:|Asia/Shanghai</string>
+    <string name="C279">ㅎ=하이데라바드|Asia/Kolkata</string>
+    <string name="C28">ㅌ=튀니스|Africa/Tunis</string>
+    <string name="C280">ㄹ=레스턴|America/New_York</string>
+    <string name="C281">ㅂ=벨루오리존치|America/Sao_Paulo</string>
+    <string name="C282">ㅅ=산티아고|America/Santiago</string>
+    <string name="C283">ㅁ=몬로비아|Africa/Monrovia</string>
+    <string name="C284">ㅋ=콜롬보|Asia/Colombo</string>
+    <string name="C285">ㅊ=치와와|America/Chihuahua</string>
+    <string name="C286">ㅅ=살바도르|America/Sao_Paulo</string>
+    <string name="C287">ㄱ=구르가온|Asia/Kolkata</string>
+    <string name="C288">ㅁ=맨체스터|Europe/London</string>
+    <string name="C29">ㅇ=앵커리지|America/Anchorage</string>
+    <string name="C290">ㅅ=상트페테르부르크|Europe/Moscow</string>
+    <string name="C291">ㅋ=크라쿠프|Europe/Warsaw</string>
+    <string name="C292">ㅂ=브로츠와프|Europe/Warsaw</string>
+    <string name="C293">ㅎ=함부르크|Europe/Berlin</string>
+    <string name="C294">ㅇ=오울루|Europe/Bucharest</string>
+    <string name="C295">ㅎ=하이파|Asia/Jerusalem</string>
+    <string name="C296">ㅅ=산후안|America/Puerto_Rico</string>
+    <string name="C297">ㅌ=테구시갈파|America/Tegucigalpa</string>
+    <string name="C298">ㅍ=파라마리보|America/Paramaribo</string>
+    <string name="C299">ㅋ=키토|America/Panama</string>
+    <string name="C3">ㅇ=아디스아바바|Africa/Addis_Ababa</string>
+    <string name="C300">ㄹ=류블랴나|Europe/Ljubljana</string>
+    <string name="C301">ㅇ=아시가바트|Asia/Ashgabat</string>
+    <string name="C302">ㅇ=아스마라|Africa/Asmara</string>
+    <string name="C303">ㅂ=반다르스리브가완|Asia/Brunei</string>
+    <string name="C304">ㅂ=방기|Africa/Bangui</string>
+    <string name="C305">ㅂ=반줄|Africa/Banjul</string>
+    <string name="C306">ㅂ=비슈케크|Asia/Bishkek</string>
+    <string name="C307">ㅂ=비사우|Africa/Bissau</string>
+    <string name="C308">ㅂ=부줌부라|Africa/Bujumbura</string>
+    <string name="C309">ㄷ=딜리|Asia/Dili</string>
+    <string name="C31">ㅇ=아루바|America/Aruba</string>
+    <string name="C310">ㄷ=두샨베|Asia/Dushanbe</string>
+    <string name="C311">ㅍ=푸나푸티|Pacific/Funafuti</string>
+    <string name="C312">ㅎ=호니아라|Pacific/Guadalcanal</string>
+    <string name="C313">ㅈ=주바|Africa/Juba</string>
+    <string name="C314">ㅋ=킹스타운|America/St_Vincent</string>
+    <string name="C315">ㄹ=리브르빌|Africa/Libreville</string>
+    <string name="C316">ㄹ=로메|Africa/Lome</string>
+    <string name="C317">ㄹ=루안다|Africa/Luanda</string>
+    <string name="C318">ㄹ=루사카|Africa/Lusaka</string>
+    <string name="C319">ㅁ=마주로|Pacific/Majuro</string>
+    <string name="C32">ㅇ=아순시온|America/Asuncion</string>
+    <string name="C320">ㅁ=말라보|Africa/Malabo</string>
+    <string name="C321">ㅁ=마푸토|Africa/Maputo</string>
+    <string name="C322">ㅇ=음바바네|Africa/Mbabane</string>
+    <string name="C323">ㅁ=모로니|Indian/Comoro</string>
+    <string name="C324">ㅇ=은자메나|Africa/Ndjamena</string>
+    <string name="C325">ㅇ=은게룰무드|Pacific/Palau</string>
+    <string name="C326">ㄴ=니아메|Africa/Niamey</string>
+    <string name="C327">ㄴ=니코시아|Europe/Nicosia</string>
+    <string name="C328">ㄴ=누악쇼트|Africa/Nouakchott</string>
+    <string name="C329">ㄴ=누쿠알로파|Pacific/Tongatapu</string>
+    <string name="C33">ㅂ=바베이도스|America/Barbados</string>
+    <string name="C330">ㅇ=와가두구|Africa/Ouagadougou</string>
+    <string name="C331">ㅍ=팔리키르|Pacific/Noumea</string>
+    <string name="C332">ㅍ=필립스부르크|America/Lower_Princes</string>
+    <string name="C333">ㅍ=포드고리차|Europe/Podgorica</string>
+    <string name="C334">ㅍ=포트모르즈비|Pacific/Palau</string>
+    <string name="C335">ㅍ=포트빌라|Pacific/Efate</string>
+    <string name="C336">ㅍ=포르토노보|Africa/Porto-Novo</string>
+    <string name="C337">ㅍ=프리슈티나|Europe/Belgrade</string>
+    <string name="C338">ㄹ=로조|America/Dominica</string>
+    <string name="C339">ㅌ=타슈켄트|Asia/Tashkent</string>
+    <string name="C34">ㅂ=벨리즈|America/Belize</string>
+    <string name="C340">ㅌ=트빌리시|Asia/Tbilisi</string>
+    <string name="C341">ㅌ=팀부|Asia/Thimphu</string>
+    <string name="C342">ㅌ=티라나|Europe/Tirane</string>
+    <string name="C343">ㅍ=파두츠|Europe/Vaduz</string>
+    <string name="C344">ㅂ=비엔티안|Asia/Vientiane</string>
+    <string name="C345">ㅂ=빈트후쿠|Africa/Windhoek</string>
+    <string name="C346">ㅇ=야운데|Africa/Douala</string>
+    <string name="C347">ㅇ=야렌 구|Pacific/Nauru</string>
+    <string name="C348">ㅇ=예레반|Asia/Yerevan</string>
+    <string name="C35">ㅂ=보고타|America/Bogota</string>
+    <string name="C36">ㅂ=부에노스아이레스|America/Buenos_Aires</string>
+    <string name="C37">ㅋ=칸쿤|America/Cancun</string>
+    <string name="C38">ㅋ=카라카스|America/Caracas</string>
+    <string name="C39">ㅋ=케이맨|America/Cayman</string>
+    <string name="C4">ㅇ=알제|Africa/Algiers</string>
+    <string name="C40">ㅅ=시카고|America/Chicago</string>
+    <string name="C42">ㅋ=퀴라소|America/Curacao</string>
+    <string name="C43">ㄷ=도슨크릭|America/Dawson_Creek</string>
+    <string name="C44">ㄷ=덴버|America/Denver</string>
+    <string name="C45">ㄷ=디트로이트|America/Detroit</string>
+    <string name="C46">ㄷ=도미니카|America/Dominica</string>
+    <string name="C47">ㅇ=에드먼턴|America/Edmonton</string>
+    <string name="C48">ㅇ=엘살바도르|America/El_Salvador</string>
+    <string name="C49">ㅍ=포르탈레자|America/Fortaleza</string>
+    <string name="C5">ㅂ=블랜타이어|Africa/Blantyre</string>
+    <string name="C50">ㄱ=그랜드터크|America/Grand_Turk</string>
+    <string name="C51">ㄱ=그라나다|America/Grenada</string>
+    <string name="C52">ㄱ=과테말라시티|America/Guatemala</string>
+    <string name="C53">ㄱ=가이아나|America/Guyana</string>
+    <string name="C54">ㅎ=핼리팩스|America/Halifax</string>
+    <string name="C55">ㅇ=아바나|America/Havana</string>
+    <string name="C56">ㅇ=인디애나폴리스|America/Indiana/Indianapolis</string>
+    <string name="C57">ㄴ=녹스|America/Indiana/Knox</string>
+    <string name="C58">ㅁ=마렝고|America/Indiana/Marengo</string>
+    <string name="C59">ㅍ=피터스버그|America/Indiana/Petersburg</string>
+    <string name="C6">ㅂ=브라자빌|Africa/Brazzaville</string>
+    <string name="C60">ㅌ=텔시티|America/Indiana/Tell_City</string>
+    <string name="C61">ㅂ=비비|America/Indiana/Vevay</string>
+    <string name="C62">ㅂ=뱅센|America/Indiana/Vincennes</string>
+    <string name="C63">ㅇ=위너맥|America/Indiana/Winamac</string>
+    <string name="C64">ㅋ=킹스턴|America/Jamaica</string>
+    <string name="C65">ㄴ=누에스트라 세뇨라 데 라 파스|America/La_Paz</string>
+    <string name="C66">ㄹ=리마|America/Lima</string>
+    <string name="C67">ㄹ=로스앤젤레스|America/Los_Angeles</string>
+    <string name="C68">ㄹ=루이빌|America/Louisville</string>
+    <string name="C69">ㅁ=마나과|America/Managua</string>
+    <string name="C7">ㅋ=카이로|Africa/Cairo</string>
+    <string name="C70">ㅁ=마르티니크|America/Martinique</string>
+    <string name="C71">ㅁ=멘도사|America/Mendoza</string>
+    <string name="C72">ㅁ=메틀라카틀라|America/Metlakatla</string>
+    <string name="C73">ㅁ=멕시코시티|America/Mexico_City</string>
+    <string name="C74">ㅁ=몬테레이|America/Monterrey</string>
+    <string name="C75">ㅁ=몬테비데오|America/Montevideo</string>
+    <string name="C76">ㅁ=몬트리올|America/Montreal</string>
+    <string name="C77">ㄴ=나소|America/Nassau</string>
+    <string name="C78">ㄴ=뉴욕|America/New_York</string>
+    <string name="C79">ㅂ=뷸라|America/North_Dakota/Beulah</string>
+    <string name="C8">ㅋ=카사블랑카|Africa/Casablanca</string>
+    <string name="C80">ㅅ=센터|America/North_Dakota/Center</string>
+    <string name="C81">ㄴ=뉴세일럼|America/North_Dakota/New_Salem</string>
+    <string name="C82">ㅍ=파나마|America/Panama</string>
+    <string name="C83">ㅍ=피닉스|America/Phoenix</string>
+    <string name="C84">ㅍ=포트오브스페인|America/Port_of_Spain</string>
+    <string name="C85">ㅍ=포르토프랭스|America/Port-au-Prince</string>
+    <string name="C86">ㅍ=푸에르토리코|America/Puerto_Rico</string>
+    <string name="C87">ㅅ=산토도밍고|America/Santo_Domingo</string>
+    <string name="C88">ㅅ=상파울루|America/Sao_Paulo</string>
+    <string name="C89">ㅅ=세인트존스|America/St_Johns</string>
+    <string name="C9">ㅋ=코나크리|Africa/Conakry</string>
+    <string name="C90">ㅅ=세인트키츠|America/St_Kitts</string>
+    <string name="C91">ㅅ=세인트루시아|America/St_Lucia</string>
+    <string name="C92">ㅅ=세인트토마스|America/St_Thomas</string>
+    <string name="C93">ㅌ=티후아나|America/Tijuana</string>
+    <string name="C94">ㅌ=토론토|America/Toronto</string>
+    <string name="C95">ㅂ=밴쿠버|America/Vancouver</string>
+    <string name="C96">ㅇ=위니펙|America/Winnipeg</string>
+    <string name="C97">ㄴ=남극:|Antarctica/South_Pole</string>
+    <string name="C98">ㄹ=롱위에아르뷔엔|Arctic/Longyearbyen</string>
+    <string name="C99">ㅇ=알마티|Asia/Almaty</string>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="add_new_sound">새로 추가</string>
+    <string name="alarm_alert_dismiss_text">알람 해제</string>
+    <string name="alarm_alert_off_text">알람 끄기</string>
+    <string name="alarm_alert_predismiss_title">예정된 알람</string>
+    <string name="alarm_alert_snooze_text">다시 울림</string>
+    <string name="alarm_alert_snooze_until">%s에 다시 울림</string>
+    <string name="alarm_alert_snoozed_text">일시 중지됨</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">알람 시간이 아직 24시간 이상 남아 있으므로 %s 알람을 아직 취소할 수 없습니다.</string>
+    <string name="alarm_deleted">알람이 삭제되었습니다.</string>
+    <string name="alarm_is_dismissed">%s 알람 제거됨</string>
+    <string name="alarm_is_set">알람 설정 시간: %s</string>
+    <string name="alarm_is_snoozed">%1$s 알람이 %2$s 동안 일시 중지됨</string>
+    <string name="alarm_missed_text">%1$s - %2$s</string>
+    <string name="alarm_missed_title">부재중 알람</string>
+    <string name="alarm_repeat">반복</string>
+    <string name="alarm_service_desc">알람 알림에서 생성된 작업을 처리합니다.</string>
+    <string name="alarm_settings">알람</string>
+    <string name="alarm_sound">알람 소리</string>
+    <string name="alarm_today">오늘</string>
+    <string name="alarm_tomorrow">내일</string>
+    <string name="alarm_undo">실행취소</string>
+    <string name="alarm_vibrate">진동</string>
+    <string name="alarm_volume_muted">알람 볼륨이 음소거되었습니다.</string>
+    <string name="alarm_volume_title">알람 볼륨</string>
+    <string name="alarms_blocked_by_dnd">기기가 모두 차단으로 설정됨</string>
+    <string name="all_timers_stopped_notif">타이머를 보려면 탭하세요.</string>
+    <string name="analog_gadget">아날로그 시계</string>
+    <string name="app_label">시계</string>
+    <string name="app_notifications_blocked">시계 알림이 차단되었습니다.</string>
+    <string name="auto_silence_never">사용 안함</string>
+    <string name="auto_silence_title">알람 해제 시간</string>
+    <string name="automatic_home_clock">자동 기본 시간대 시계</string>
+    <string name="automatic_home_clock_summary">시차가 있는 지역을 여행할 때 기본 시간대 시계 추가</string>
+    <string name="button_alarms">알람 추가</string>
+    <string name="button_cities">도시</string>
+    <string name="change_setting_action">변경</string>
+    <string name="cities_activity_title">도시</string>
+    <string name="city_checked">%s 선택됨</string>
+    <string name="city_unchecked">%s 선택 해제됨</string>
+    <string name="clock_settings">시계</string>
+    <string name="clock_style">종류</string>
+    <string name="collapse_alarm">알람 접기</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="confirm_remove_custom_ringtone">이 사운드를 사용하는 알람 및 타이머에서 대신 기본 사운드를 사용합니다.</string>
+    <string name="crescendo_duration_title">볼륨 점점 크게</string>
+    <string name="custom_ringtone_lost_permissions">소리 콘텐츠에 액세스할 수 없습니다.</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">기본 알람 소리</string>
+    <string name="default_label">알람</string>
+    <string name="default_timer_ringtone_title">타이머 만료됨</string>
+    <string name="delete">삭제</string>
+    <string name="description_direction_both">왼쪽으로 스와이프하여 일시 중지하거나 오른쪽으로 스와이프하여 해제</string>
+    <string name="description_direction_left">왼쪽으로 스와이프하여 일시 중지</string>
+    <string name="description_direction_right">오른쪽으로 스와이프하여 해제</string>
+    <string name="device_sounds">기기 벨소리</string>
+    <string name="digital_gadget">디지털 시계</string>
+    <string name="dismiss_alarm">알람 해제</string>
+    <string name="display_clock_seconds_pref">초 단위로 시간 표시</string>
+    <string name="every_day">매일</string>
+    <string name="expand_alarm">알람 펼치기</string>
+    <string name="home_label">기본</string>
+    <string name="home_time_zone">기본 시간대</string>
+    <string name="home_time_zone_title">기본 시간대</string>
+    <string name="hours_label">시</string>
+    <string name="hours_minutes_seconds">%1$d:%2$02d:%3$02d</string>
+    <string name="index_name">알람, 타이머, 스톱워치 데이터</string>
+    <string name="invalid_time">잘못된 시간입니다. %1$d:%2$d %3$s</string>
+    <string name="invalid_timer_length">타이머 기간이 잘못됨</string>
+    <string name="label">라벨</string>
+    <string name="label_description">라벨</string>
+    <string name="lap_number_double_digit">랩 %02d</string>
+    <string name="lap_number_single_digit">랩 %d</string>
+    <string name="loading_widget">로드 중…</string>
+    <string name="menu_alarm">알람</string>
+    <string name="menu_clock">시계</string>
+    <string name="menu_item_feedback">의견 보내기</string>
+    <string name="menu_item_help">도움말</string>
+    <string name="menu_item_night_mode">화면 보호기</string>
+    <string name="menu_item_settings">설정</string>
+    <string name="menu_item_sort_by_gmt_offset">시간순 정렬</string>
+    <string name="menu_item_sort_by_name">이름순 정렬</string>
+    <string name="menu_stopwatch">스톱워치</string>
+    <string name="menu_timer">타이머</string>
+    <string name="minutes_label">분</string>
+    <string name="minutes_seconds">%1$d:%2$02d</string>
+    <string name="missed_alarms_channel_name">부재중 알람</string>
+    <string name="missed_named_timer_notification_label">부재중 타이머: %s</string>
+    <string name="missed_timer_notification_label">확인하지 못한 타이머</string>
+    <string name="next_alarm_description">다음 알람: %s</string>
+    <string name="next_timer_notif">다음 타이머: %s</string>
+    <string name="night_mode_summary">디스플레이 아주 어둡게 하기(어두운 장소용)</string>
+    <string name="night_mode_title">야간 모드</string>
+    <string name="no_alarm_at">%1$d:%2$d에 지정된 알람 없음</string>
+    <string name="no_alarm_scheduled_for_this_time">이 시간에 예약된 알람 없음</string>
+    <string name="no_alarms">알람 없음</string>
+    <string name="no_alarms_with_label">라벨이 포함된 알람이 없습니다.</string>
+    <string name="no_firing_alarms">실행 중인 알람 없음</string>
+    <string name="no_label_specified">지정된 라벨이 없습니다.</string>
+    <string name="no_scheduled_alarms">예약된 알람 없음</string>
+    <string name="open_date_settings">날짜 및 시간 변경</string>
+    <string name="pick_alarm_to_dismiss">취소할 알람 선택</string>
+    <string name="remove_sound">삭제</string>
+    <string name="ringtone_description">벨소리</string>
+    <string name="screensaver_settings">스크린세이버 설정</string>
+    <string name="search_menu_title">검색</string>
+    <string name="seconds_label">초</string>
+    <string name="selected_cities_label">선택된 도시</string>
+    <string name="settings">설정</string>
+    <string name="shortcut_new_alarm_long">새 알람 설정</string>
+    <string name="shortcut_new_alarm_short">새 알람</string>
+    <string name="shortcut_new_timer_long">새 타이머 설정</string>
+    <string name="shortcut_new_timer_short">새 타이머</string>
+    <string name="shortcut_pause_stopwatch_long">스톱워치 일시중지</string>
+    <string name="shortcut_pause_stopwatch_short">일시중지</string>
+    <string name="shortcut_start_screensaver_long">화면 보호기 시작</string>
+    <string name="shortcut_start_screensaver_short">화면 보호기</string>
+    <string name="shortcut_start_stopwatch_long">스톱워치 시작</string>
+    <string name="shortcut_start_stopwatch_short">시작</string>
+    <string name="silent_default_alarm_ringtone">기본 알람 벨소리: 무음</string>
+    <string name="silent_ringtone_title">무음</string>
+    <string name="snooze_duration_title">다시 울림 간격</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stopwatch_channel_name">스톱워치</string>
+    <string name="stopwatch_service_desc">스톱워치 알림에서 작업 처리</string>
+    <string name="sw_lap_button">랩 타임</string>
+    <string name="sw_notification_lap_number">랩 타임 %d</string>
+    <string name="sw_pause_button">일시중지</string>
+    <string name="sw_reset_button">초기화</string>
+    <string name="sw_resume_button">다시 시작</string>
+    <string name="sw_share_button">공유</string>
+    <string name="sw_share_laps">랩 타임:</string>
+    <string name="sw_share_main">내 시간: %s</string>
+    <string name="sw_start_button">시작</string>
+    <string name="swn_paused">일시중지됨</string>
+    <string name="timer_accessibility_one_minute_added">타이머에 1분 추가됨, %1$s</string>
+    <string name="timer_accessibility_started">타이머 작동 중, %1$s</string>
+    <string name="timer_accessibility_stopped">타이머 일시중지됨, %1$s</string>
+    <string name="timer_add_minute">1분 추가</string>
+    <string name="timer_add_timer">타이머 추가</string>
+    <string name="timer_cancel">취소</string>
+    <string name="timer_canceled">타이머 취소됨</string>
+    <string name="timer_created">타이머가 생성됨</string>
+    <string name="timer_delete">삭제</string>
+    <string name="timer_deleted">타이머 삭제됨</string>
+    <string name="timer_descriptive_delete">%s 삭제</string>
+    <string name="timer_multi_missed">확인하지 못한 타이머 %d개</string>
+    <string name="timer_multi_times_up">%d개 타이머 만료</string>
+    <string name="timer_notification_label">타이머</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s %3$s</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">%1$s %4$s %3$s</string>
+    <string name="timer_notifications_less_min">1분 미만 남음</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">%2$s %4$s %3$s</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">일시중지</string>
+    <string name="timer_paused">타이머가 일시중지됨</string>
+    <string name="timer_plus_1_min">1분 추가</string>
+    <string name="timer_plus_one">1분 추가</string>
+    <string name="timer_remaining_multiple">남음</string>
+    <string name="timer_remaining_single">남음</string>
+    <string name="timer_reset">초기화</string>
+    <string name="timer_reset_all">모든 타이머 재설정</string>
+    <string name="timer_service_desc">타이머 알림에서 작업 처리</string>
+    <string name="timer_settings">타이머</string>
+    <string name="timer_setup_description">%1$s시간 %2$s분 %3$s초</string>
+    <string name="timer_sound">타이머 소리</string>
+    <string name="timer_start">시작</string>
+    <string name="timer_stop">중지</string>
+    <string name="timer_stop_all">모든 타이머 정지</string>
+    <string name="timer_times_up">시간이 다 되었습니다.</string>
+    <string name="timer_vibrate_title">타이머 진동</string>
+    <string name="timers_channel_name">타이머</string>
+    <string name="timers_in_use">타이머 %d개</string>
+    <string name="timers_stopped">타이머 %d개 일시중지됨</string>
+    <string name="unknown_ringtone_title">알 수 없음</string>
+    <string name="unmute_alarm_volume">음소거 해제</string>
+    <string name="upcoming_alarms_channel_name">예정된 알람</string>
+    <string name="volume_button_setting_title">볼륨 버튼</string>
+    <string name="week_start_title">1주일 시작일:</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="world_hours_minutes_ahead">%1$s %2$s 빠름</string>
+    <string name="world_hours_minutes_behind">%1$s %2$s 늦음</string>
+    <string name="world_hours_tomorrow">내일 %1$s</string>
+    <string name="world_hours_yesterday">어제 %1$s</string>
+    <string name="world_time_ahead">%1$s 빠름</string>
+    <string name="world_time_behind">%1$s 늦음</string>
+    <string name="world_tomorrow">내일</string>
+    <string name="world_yesterday">어제</string>
+    <string name="your_sounds">내 벨소리</string>
+</resources>

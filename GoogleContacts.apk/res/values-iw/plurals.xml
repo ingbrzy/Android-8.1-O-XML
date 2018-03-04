@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d אנשי קשר נוספו לתווית %2$s</item>
+        <item quantity="one">%1$d איש קשר נוסף לתווית %2$s</item>
+        <item quantity="two">%1$d אנשי קשר נוספו לתווית %2$s</item>
+        <item quantity="many">%1$d אנשי קשר נוספו לתווית %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">המערכת מוסיפה %1$d אנשי קשר לתווית %2$s</item>
+        <item quantity="one">המערכת מוסיפה %1$d איש קשר לתווית %2$s</item>
+        <item quantity="two">המערכת מוסיפה %1$d אנשי קשר לתווית %2$s</item>
+        <item quantity="many">המערכת מוסיפה %1$d אנשי קשר לתווית %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">מצאנו פרטים שמומלץ להוסיף ל-%d אנשי קשר</item>
+        <item quantity="one">מצאנו פרטים שמומלץ להוסיף ל-%d איש קשר</item>
+        <item quantity="two">מצאנו פרטים שמומלץ להוסיף ל-%d אנשי קשר</item>
+        <item quantity="many">מצאנו פרטים שמומלץ להוסיף ל-%d אנשי קשר</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d אנשי קשר שאפשר למחוק</item>
+        <item quantity="one">%d איש קשר שאפשר למחוק</item>
+        <item quantity="two">%d אנשי קשר שאפשר למחוק</item>
+        <item quantity="many">%d אנשי קשר שאפשר למחוק</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d אנשי קשר כפולים</item>
+        <item quantity="one">איש קשר כפול אחד</item>
+        <item quantity="two">%d אנשי קשר כפולים</item>
+        <item quantity="many">%d אנשי קשר כפולים</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d שיחות בוצעו לאחרונה • האחרונה הייתה בתאריך %2$s</item>
+        <item quantity="one">%1$d שיחה בוצעה לאחרונה • האחרונה הייתה בתאריך %2$s</item>
+        <item quantity="two">%1$d שיחות בוצעו לאחרונה • האחרונה הייתה בתאריך %2$s</item>
+        <item quantity="many">%1$d שיחות בוצעו לאחרונה • האחרונה הייתה בתאריך %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">אנשי הקשר כבר נוספו לתווית %1$s</item>
+        <item quantity="one">איש הקשר כבר נוסף לתווית %1$s</item>
+        <item quantity="two">אנשי הקשר כבר נוספו לתווית %1$s</item>
+        <item quantity="many">אנשי הקשר כבר נוספו לתווית %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">%d איש קשר</item>
+        <item quantity="two">%d אנשי קשר</item>
+        <item quantity="many">%d אנשי קשר</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d אנשי קשר · %2$s</item>
+        <item quantity="one">%1$d איש קשר · %2$s</item>
+        <item quantity="two">%1$d אנשי קשר · %2$s</item>
+        <item quantity="many">%1$d אנשי קשר · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d אנשי קשר נמחקו</item>
+        <item quantity="one">%1$d איש קשר נמחק</item>
+        <item quantity="two">%1$d אנשי קשר נמחקו</item>
+        <item quantity="many">%1$d אנשי קשר נמחקו</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">‏אנשי הקשר האלה יוסרו מהרשימה של אנשי הקשר בחשבון Google שלך ומכל המכשירים המסונכרנים</item>
+        <item quantity="one">‏איש הקשר הזה יוסר מהרשימה של אנשי הקשר בחשבון Google שלך ומכל המכשירים המסונכרנים</item>
+        <item quantity="two">‏אנשי הקשר האלה יוסרו מהרשימה של אנשי הקשר בחשבון Google שלך ומכל המכשירים המסונכרנים</item>
+        <item quantity="many">‏אנשי הקשר האלה יוסרו מהרשימה של אנשי הקשר בחשבון Google שלך ומכל המכשירים המסונכרנים</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">יש %1$d אנשי קשר בחשבונות האחרים שלך</item>
+        <item quantity="one">יש איש קשר אחד בחשבונות האחרים שלך</item>
+        <item quantity="two">יש %1$d אנשי קשר בחשבונות האחרים שלך</item>
+        <item quantity="many">יש %1$d אנשי קשר בחשבונות האחרים שלך</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d אנשי קשר</item>
+        <item quantity="one">איש קשר אחד</item>
+        <item quantity="two">%1$d אנשי קשר</item>
+        <item quantity="many">%1$d אנשי קשר</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 אנשי קשר • ^2</item>
+        <item quantity="one">^1 איש קשר • ^2</item>
+        <item quantity="two">^1 אנשי קשר • ^2</item>
+        <item quantity="many">^1 אנשי קשר • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">האם להעביר את %1$d אנשי הקשר האלה לחשבון %2$s?</item>
+        <item quantity="one">האם להעביר את איש הקשר הזה לחשבון %2$s?</item>
+        <item quantity="two">האם להעביר את %1$d אנשי הקשר האלה לחשבון %2$s?</item>
+        <item quantity="many">האם להעביר את %1$d אנשי הקשר האלה לחשבון %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d אנשי קשר הועברו</item>
+        <item quantity="one">%d איש קשר הועבר</item>
+        <item quantity="two">%d אנשי קשר הועברו</item>
+        <item quantity="many">%d אנשי קשר הועברו</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d אנשי קשר הועברו</item>
+        <item quantity="one">איש הקשר הועבר</item>
+        <item quantity="two">%d אנשי קשר הועברו</item>
+        <item quantity="many">%d אנשי קשר הועברו</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d אנשי קשר מועברים</item>
+        <item quantity="one">איש הקשר מועבר</item>
+        <item quantity="two">%d אנשי קשר מועברים</item>
+        <item quantity="many">%d אנשי קשר מועברים</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d אנשי קשר גובו בחשבון %2$s</item>
+        <item quantity="one">%1$d איש קשר גובה בחשבון %2$s</item>
+        <item quantity="two">%1$d אנשי קשר גובו בחשבון %2$s</item>
+        <item quantity="many">%1$d אנשי קשר גובו בחשבון %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">‏ייבא מכרטיסי SIM</item>
+        <item quantity="one">‏ייבא מכרטיס SIM</item>
+        <item quantity="two">‏ייבא מכרטיסי SIM</item>
+        <item quantity="many">‏ייבא מכרטיסי SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">איש קשר אחד</item>
+        <item quantity="two">%d אנשי קשר</item>
+        <item quantity="many">%d אנשי קשר</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">‏%d אנשי קשר יובאו מכרטיס ה-SIM</item>
+        <item quantity="one">‏איש קשר אחד יובא מכרטיס ה-SIM</item>
+        <item quantity="two">‏%d אנשי קשר יובאו מכרטיס ה-SIM</item>
+        <item quantity="many">‏%d אנשי קשר יובאו מכרטיס ה-SIM</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">שתף את אנשי הקשר באמצעות</item>
+        <item quantity="one">שתף את איש הקשר באמצעות</item>
+        <item quantity="two">שתף את אנשי הקשר באמצעות</item>
+        <item quantity="many">שתף את אנשי הקשר באמצעות</item>
+    </plurals>
+</resources>

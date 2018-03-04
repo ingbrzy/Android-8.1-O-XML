@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="app_has_in_app_purchases">Køb i appen</string>
+    <string name="app_has_permissions">Tilladelser: %s</string>
+    <string name="app_has_runtime_permissions">Appen beder dig om tilladelser</string>
+    <string name="app_picker_app_already_installed_toast">Denne app er allerede installeret</string>
+    <string name="app_picker_loading">Søger efter tilgængelige apps…</string>
+    <string name="app_picker_loading_toast">De tilgængelige apps vil snart være indlæst</string>
+    <string name="app_picker_no_apps">Ingen apps er valgt</string>
+    <string name="app_picker_no_apps_found">Der blev ikke fundet nogen apps</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Køb i apps overføres ikke til din ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Nogle køb i apps overføres muligvis ikke til din ^1.</string>
+    <string name="apps_permissions_described_v2">"Det er kun populære, gratis iOS®-apps, der kan matches med Android-apps. De fleste køb i apps kan ikke overføres. Du kan finde flere apps i Play Butik, når konfigurationen er gennemført.
+
+Du er muligvis nødt til at give nogle apps forudgående adgangstilladelse til bestemte funktioner eller oplysninger på din enhed. Tilladelser er opdelt i tilladelsesgrupper. Når du vælger at installere disse apps, accepterer du de tilladelser, der er en del af hver gruppe. Du kan se en beskrivelse af hver tilladelsesgruppe nedenfor.
+
+Nogle apps kræver muligvis ikke, at du accepterer tilladelser forud for installation. Når du bruger en af disse apps, kan du tillade eller afvise individuelle tilladelser, før appen anvender den pågældende type data.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Når du installerer en app, accepterer du dens tilladelser. <annotation id="apps_permissions_learn_more">Få flere oplysninger</annotation></string>
+    <string name="auto_restore_summary">Ved geninstallation af en app gendannes sikkerhedskopierede indstillinger og data</string>
+    <string name="auto_restore_title">Automatisk gendannelse</string>
+    <string name="backup_configure_account_default_summary">Der er i øjeblikket ingen konto, der gemmer sikkerhedskopierede data</string>
+    <string name="backup_configure_account_title">Konto til sikkerhedskopier</string>
+    <string name="backup_data_summary">Sikkerhedskopiér appdata, Wi-Fi-adgangskoder og andre indstillinger til Google Drev</string>
+    <string name="backup_data_summary_full">"Foretag automatisk ekstern sikkerhedskopiering af enhedsdata (f.eks. Wi-Fi-adgangskoder og opkaldshistorik) og appdata (f.eks. indstillinger og filer, der er gemt i apps).
+
+Når du slår automatisk sikkerhedskopiering til, gemmes enheds- og appdata med jævne mellemrum eksternt. Appdata kan være alle former for data, som en app har gemt (afhængigt af udviklerens indstillinger), herunder potentielt følsomme data såsom kontaktpersoner, beskeder og billeder."</string>
+    <string name="backup_data_title">Sikkerhedskopiér til Google Drev</string>
+    <string name="backup_erase_dialog_message">Vil du stoppe med at sikkerhedskopiere dine Wi-Fi-adgangskoder, bogmærker, andre indstillinger og appdata samt slette alle kopier i Google Drev?</string>
+    <string name="backup_erase_dialog_message_full">Vil du stoppe med at sikkerhedskopiere enhedsdata (f.eks. Wi-Fi-adgangskoder og opkaldshistorik) og appdata (f.eks. indstillinger og filer, der er gemt i apps) samt slette alle kopier i Google Drev?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Der opstod en fejl under åbningen af billedindstillinger</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Når du aktiverer automatisk sikkerhedskopiering:
+
+ ● Enhedsindstillinger og appdata gemmes regelmæssigt i din private mappe i Google Drev. Appdata kan være alle data, som en app har gemt (baseret på indstillinger for udviklere), herunder potentielt følsomme data, som f.eks. kontaktpersoner, beskeder og billeder.
+
+ Store filer eller filer, som udviklere har valgt at udelukke fra tjenesten, sikkerhedskopieres ikke.
+
+ ● Billeder og videooptagelser fra denne enhed synkroniseres med din Google Fotos-samling, så du kan søge efter dem, redigere dem og slette dem fra enhver af dine enheder.
+
+ Billeder og videoer i fuld opløsning uploades som standard. Disse tæller ikke med i din kvote for Google Drev-lagerplads.
+
+ ● Kontaktpersoner og tilhørende data fra denne enhed synkroniseres med Google Kontaktpersoner. Du kan bruge appen Google Kontaktpersoner til at søge efter, redigere, slette og dele kontaktpersoner fra enhver af dine enheder.
+
+ ● Kalenderposter og tilhørende data fra denne enhed synkroniseres med Google kalender. Du kan bruge appen Google Kalender til at søge efter, redigere, slette og dele kontaktpersoner fra enhver af dine enheder.
+
+ Sikkerhedskopierede data tæller ikke med i din kvote for Google Drev-lagerplads."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Når du aktiverer automatisk sikkerhedskopiering:
+
+ ● Enhedsindstillinger og appdata gemmes regelmæssigt i din private mappe i Google Drev. Appdata kan være alle data, som en app har gemt (baseret på indstillinger for udviklere), herunder potentielt følsomme data, som f.eks. kontaktpersoner, beskeder og billeder.
+
+ Store filer eller filer, som udviklere har valgt at udelukke fra tjenesten, sikkerhedskopieres ikke.
+
+ ● Kontaktpersoner og tilhørende data fra denne enhed synkroniseres med Google Kontaktpersoner. Du kan bruge appen Google Kontaktpersoner til at søge efter, redigere, slette og dele kontaktpersoner fra enhver af dine enheder.
+
+ ● Kalenderposter og tilhørende data fra denne enhed synkroniseres med Google kalender. Du kan bruge appen Google Kalender til at søge efter, redigere, slette og dele kontaktpersoner fra enhver af dine enheder.
+
+ Sikkerhedskopierede data tæller ikke med i din kvote for Google Drev-lagerplads."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalender, kontaktpersoner, billeder og videoer synkroniseres med din Google-konto og kan bruges i flere tjenester.</string>
+    <string name="backup_opt_in_backup_description_v2">Automatisk backup sikrer, at du til enhver tid nemt kan gendanne eller udskifte din telefon. <annotation id="backup_opt_in_learn_more">Få flere oplysninger</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Dette deaktiverer backup for:
+
+Apps og appdata
+Opkaldshistorik
+Enhedsindstillinger
+Billeder og videoer
+Sms-beskeder
+
+Kalender og kontaktpersoner synkroniseres fortsat med din Google-konto. Når konfigurationen er gennemført, kan du ændre dine synkroniseringsindstillinger under "<annotation id="backup_opt_in_settings_instructions">Indstillinger > Konti > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vil du slå sikkerhedskopiering fra?</string>
+    <string name="backup_opt_in_backup_list">"Apps og appdata
+Kalender
+Opkaldshistorik
+Kontaktpersoner
+Enhedsindstillinger (herunder Wi-Fi-adgangskoder)
+Billeder og videoer
+Sms-beskeder"</string>
+    <string name="backup_opt_in_backup_list_header">Sikkerhedskopiering omfatter:</string>
+    <string name="backup_opt_in_backup_title">Sikkerhedskopiér til Google Drev</string>
+    <string name="backup_opt_in_disable_backup">Slå sikkerhedskopiering fra</string>
+    <string name="backup_photos_update">Opdater Google Fotos</string>
+    <string name="backup_settings_activity_backup_title">Sikkerhedskopiering</string>
+    <string name="backup_settings_activity_title">Sikkerhedskopiering og nulstilling</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Undlad at kopiere</string>
+    <string name="close_button_label">Luk</string>
+    <string name="cloud_restore_app_picker_button">Gendan</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Din backup har ikke nogen apps</string>
+    <string name="cloud_restore_app_picker_title">Vælg apps, der skal gendannes</string>
+    <string name="common_accept">Acceptér</string>
+    <string name="common_add_account_label">Tilføj en konto</string>
+    <string name="common_ads_settings_title">Annoncer</string>
+    <string name="common_agree">Enig</string>
+    <string name="common_app_name">Google Play-tjenester</string>
+    <string name="common_asm_preferences_settings_title">Kontopræferencer</string>
+    <string name="common_asm_privacy_settings_title">Personlige oplysninger og privatliv</string>
+    <string name="common_asm_security_settings_title">Login og sikkerhed</string>
+    <string name="common_audience_edit_button_label">Rediger</string>
+    <string name="common_cancel">Annuller</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan ikke startes (tilladelsesfejl).</string>
+    <string name="common_car_permission_desc">Adgang til bilservice.</string>
+    <string name="common_car_permission_label">Bilsevice</string>
+    <string name="common_chips_label_empty_circles">Ingen cirkler</string>
+    <string name="common_chips_label_extended_circles">Udvidede cirkler</string>
+    <string name="common_chips_label_only_you">Kun dig</string>
+    <string name="common_chips_label_public">Offentlig</string>
+    <string name="common_chips_label_your_circles">Dine cirkler</string>
+    <string name="common_choose_account_label">Vælg en konto</string>
+    <string name="common_clear_app_data_menu_item">Ryd appdata</string>
+    <string name="common_connected">Tilsluttet</string>
+    <string name="common_connected_apps_settings_title">Tilknyttede apps</string>
+    <string name="common_connecting">Tilslutter…</string>
+    <string name="common_continue">Fortsæt</string>
+    <string name="common_disagree">Uenig</string>
+    <string name="common_disconnect">Afbryd forbindelsen</string>
+    <string name="common_done">Udfør</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Fra:</string>
+    <string name="common_games_settings_title">Play Spil</string>
+    <string name="common_get_started">Kom godt i gang</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_error_dialog_title">Fejl</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjenester opdateres</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play-tjenester er installeret med forkert arkitektur.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play-tjenester er installeret med en arkitektur (%1$s), som er forskellig fra din enheds arkitektur (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Forkert arkitektur</string>
+    <string name="common_google_settings">Google Indstillinger</string>
+    <string name="common_google_settings_account">Konto</string>
+    <string name="common_google_settings_credentials_title">Smart Lock til adgangskoder</string>
+    <string name="common_google_settings_developer">Udvikler</string>
+    <string name="common_google_settings_services">Tjenester</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Installer</string>
+    <string name="common_learn_more">Få flere oplysninger</string>
+    <string name="common_list_apps_menu_help">Hjælp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hjælp og feedback</string>
+    <string name="common_loading">Indlæser…</string>
+    <string name="common_location_settings_title">Placering</string>
+    <string name="common_magictether_settings_title">Øjeblikkelig netdeling</string>
+    <string name="common_maps_settings_title">Maps og Latitude</string>
+    <string name="common_mdm_feature_name">Android Enhedsadministrator</string>
+    <string name="common_missing_url_viewer">Der mangler en fremviser til den eksterne webadresse.</string>
+    <string name="common_more_options">Flere valgmuligheder</string>
+    <string name="common_networking_settings_title">Netværk</string>
+    <string name="common_no_browser_for_restricted_url">Begrænset adgang. Der blev ikke fundet nogen browser.</string>
+    <string name="common_no_devices_found">Der blev ikke fundet nogen enheder</string>
+    <string name="common_no_network">Ikke tilgængeligt, da enheden er offline</string>
+    <string name="common_no_thanks">Nej tak</string>
+    <string name="common_not_now">Ikke nu</string>
+    <string name="common_off">Fra</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Til</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_open_source_licenses">Open source-licenser</string>
+    <string name="common_people_settings_title">Kontaktpersoner</string>
+    <string name="common_permissions_enable_in_settings">Aktivér i Indstillinger</string>
+    <string name="common_permissions_missing_end">Åbn Indstillinger, derefter Tilladelser og tillad alle angivne elementer for at fortsætte.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Gå til
+Indstillinger >
+Tilladelser >
+Google Play-tjenester for at aktivere"</string>
+    <string name="common_permissions_missing_start">Denne app virker ikke korrekt, medmindre du tillader Google Play-tjenesters anmodning om adgang til følgende:</string>
+    <string name="common_permissions_open_settings">Åbn Indstillinger</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privatlivspolitik</string>
+    <string name="common_restore">Gendan</string>
+    <string name="common_retry">Prøv igen</string>
+    <string name="common_search_settings_title">Søgning</string>
+    <string name="common_security_ootp_setting_title">Sikkerhedskode</string>
+    <string name="common_security_settings_title">Sikkerhed</string>
+    <string name="common_send">Send</string>
+    <string name="common_sending">Sender…</string>
+    <string name="common_set_up_nearby_device_settings_title">Konfigurer enhed tæt på</string>
+    <string name="common_settings">Indstillinger</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="common_something_went_wrong">Der gik noget galt</string>
+    <string name="common_system_info">Systemoplysninger</string>
+    <string name="common_take_photo_label">Tag billede</string>
+    <string name="common_terms_of_service">Servicevilkår</string>
+    <string name="common_try_again">Prøv igen</string>
+    <string name="common_turn_on_bluetooth">Aktivér Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Slet</string>
+    <string name="common_ui_confirm_deleting_checkbox">Forstået – slet</string>
+    <string name="common_unknown">Ukendt</string>
+    <string name="common_update">Opdater</string>
+    <string name="common_url_load_unsuccessful_message">Din Android-enhed har ikke forbindelse til en datatjeneste. Se disse oplysninger nu ved at besøge %s i en webbrowser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Din Android-enhed har ikke forbindelse til et Wi-Fi-netværk. Hvis du vil se disse oplysninger nu, kan du gå til %s i en webbrowser.</string>
+    <string name="common_url_login_notice">Log ind som %1$s</string>
+    <string name="common_usage_and_diagnostics">Forbrug og diagnostik</string>
+    <string name="common_yesterday">I går</string>
+    <string name="confirm_copy_button_text">Kopiér</string>
+    <string name="contacts_number_device_and_icloud">%1$d i iCloud®, %2$d på enheden</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontaktpersoner, %1$d i iCloud®, %2$d på enheden</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontaktpersoner, %1$d på SIM-kortet, %2$d på enheden</string>
+    <string name="contacts_number_device_with_google">Google Kontaktpersoner, %1$d på enheden</string>
+    <string name="contacts_number_icloud_with_google">Google Kontaktpersoner, %1$d i iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Kontaktpersoner, %1$d på SIM-kort</string>
+    <string name="copy_confirmation_description">Du kopierer data som f.eks. din Google-konto og dine apps til din nye telefon</string>
+    <string name="copy_confirmation_title">Vil du kopiere til din nye telefon?</string>
+    <string name="d2d_app_picker_description_no_apps">Vi kunne ikke finde nogen apps</string>
+    <string name="d2d_app_picker_title">Apps</string>
+    <string name="d2d_migration_canceled_on_source">Kopieringen blev annulleret</string>
+    <string name="data_copied_fragment_description">Dine data er kopieret til din nye telefon. Du kan nu frakoble kablet.</string>
+    <string name="data_copied_fragment_description_cancel">Du valgte at afbryde kopieringen, så det er kun nogle af dine data, der er kopieret til din nye telefon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Du valgte at afbryde kopieringen, så der er ikke kopieret noget til din nye telefon.</string>
+    <string name="data_copied_fragment_description_error">Der opstod en fejl, som gjorde, at ikke alt indhold blev kopieret.</string>
+    <string name="data_copied_fragment_description_error_no_data">Der opstod en fejl, som forhindrede os i at kopiere dine data.</string>
+    <string name="data_copied_fragment_no_data_title">Kopieringen mislykkedes</string>
+    <string name="data_copied_fragment_some_data_title">Nogle data blev kopieret</string>
+    <string name="data_copied_fragment_title">Dataene er kopieret</string>
+    <string name="device_backup_title">Sikkerhedskopiering af enhed</string>
+    <string name="device_not_supported_fragment_new_device">Du er tilsluttet en ny telefon. Hvis du vil fortsætte, skal du tilslutte din tidligere telefon igen.</string>
+    <string name="device_not_supported_fragment_new_device_title">Tilslut den tidligere telefon igen</string>
+    <string name="device_not_supported_fragment_no_data_cable">Dette kabel kan ikke overføre data. Tilslut igen med et andet kabel, og prøv igen.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prøv et andet kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Sørg for, at din gamle telefon er låst op. Tag derefter kablet ud, og tilslut det igen.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Der gik noget galt</string>
+    <string name="device_not_supported_ios_supervised_description">Din iPhone® er en administreret enhed, så du skal vælge en anden måde at kopiere data på</string>
+    <string name="device_picker_description">Sikkerhedskopier gemmes i Google Drev</string>
+    <string name="device_picker_empty">Der er ikke knyttet nogen sikkerhedskopier til %1$s.</string>
+    <string name="device_picker_empty_title">Der blev ikke fundet nogen sikkerhedskopier</string>
+    <string name="device_picker_item">Backup af %1$s</string>
+    <string name="device_picker_last_used">Senest anvendt: ^1</string>
+    <string name="device_picker_skip">Undlad at gendanne</string>
+    <string name="device_picker_title">Vælg, hvilken backup der skal gendannes</string>
+    <string name="disabled_by_admin_summary_text">Kontrolleret af administratoren</string>
+    <string name="download_msg_error_invalid">Downloadet blev konfigureret forkert.</string>
+    <string name="download_msg_in_progress">Downloadet er i gang.</string>
+    <string name="download_msg_not_allowed_space">Der er ikke plads nok til at gennemføre downloadet.</string>
+    <string name="download_msg_pending">Downloadet venter.</string>
+    <string name="download_notification_description">%1$s har anmodet om dette.</string>
+    <string name="download_notification_title">Henter mere data</string>
+    <string name="drive_backup_account">Konto</string>
+    <string name="drive_backup_apps_in_backup">Sikkerhedskopierede appdata</string>
+    <string name="drive_backup_apps_last_backup">Seneste sikkerhedskopiering</string>
+    <string name="drive_backup_apps_loading">Indlæser…</string>
+    <string name="drive_backup_apps_screen_title">Appdata</string>
+    <string name="drive_backup_content_apps_title">Appdata</string>
+    <string name="drive_backup_content_calendar_dialog_message">Begivenheder, der er oprettet i Google Kalender, synkroniseres på alle enheder, hvor du er logget ind på din Google-konto.</string>
+    <string name="drive_backup_content_calendar_title">Kalender</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Sikkerhedskopieringen omfatter dato og modtager for udgående og indgående opkald.</string>
+    <string name="drive_backup_content_callhistory_title">Opkaldshistorik</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontaktpersoner, der er oprettet i Google Kontaktpersoner, synkroniseres på alle enheder, hvor du er logget ind på din Google-konto.</string>
+    <string name="drive_backup_content_contacts_title">Kontaktpersoner</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Sikkerhedskopiering omfatter enhedskonfiguration, som f.eks. baggrund, Wi-Fi-adgangskoder og standardapps.</string>
+    <string name="drive_backup_content_devicesettings_title">Enhedsindstillinger</string>
+    <string name="drive_backup_content_header">Indhold</string>
+    <string name="drive_backup_content_photos_dialog_message">Din primære backupkonto blev ændret. Du kan også ændre backupkontoen for Google Fotos til %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">AFVIS</string>
+    <string name="drive_backup_content_photos_dialog_title">Vil du også skifte konto for billeder og videoer?</string>
+    <string name="drive_backup_content_photos_dialog_yes">SKIFT</string>
+    <string name="drive_backup_content_photos_title">Billeder og videoer</string>
+    <string name="drive_backup_content_sms_dialog_message">Sikkerhedskopiering omfatter sendte og modtagne sms-beskeder. Den omfatter ikke mms-medier.</string>
+    <string name="drive_backup_content_sms_title">Sms-beskeder</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Den seneste dato for synkronisering kunne ikke hentes</string>
+    <string name="drive_backup_content_status_lastsaved">Sidst sikkerhedskopieret: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Sidst synkroniseret: %1$s</string>
+    <string name="drive_backup_content_status_never">Afventer sikkerhedskopiering</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synkroniseringsindstillinger</string>
+    <string name="drive_backup_content_status_sync_off">Synkronisering er slået FRA</string>
+    <string name="drive_backup_content_status_updating">Kontrollerer status…</string>
+    <string name="drive_backup_disabled_backuplist">"Backup omfatter:
+\u0009- Apps og appdata
+\u0009- Opkaldshistorik
+\u0009- Enhedsindstillinger (herunder Wi-Fi-adgangskoder)
+\u0009- Google Kalender
+\u0009- Google Kontaktpersoner
+\u0009- Billeder og videoer
+\u0009- Sms-beskeder"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Sikkerhedskopiering omfatter:
+\u0009- Apps og appdata
+\u0009- Opkaldshistorik
+\u0009- Enhedsindstillinger (herunder Wi-Fi-adgangskoder)
+\u0009- Google Kalender
+\u0009- Google Kontaktpersoner
+\u0009- Sms"</string>
+    <string name="drive_backup_disabled_by_device_owner">Deaktiveret af din administrator</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Kalender, Google Kontaktpersoner, billeder og videoer synkroniseres med din Google-konto og kan bruges i alle tjenesterne.
+
+Synkronisering kan aktiveres, selv om backup er deaktiveret. Du kan ændre synkroniseringsindstillingerne i Indstillinger > Konti > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Kalender og Google Kontaktpersoner synkroniseres med din Google-konto og kan bruges i alle tjenesterne.
+
+Synkronisering kan aktiveres, selvom sikkerhedskopiering er deaktiveret. Du kan ændre synkroniseringsindstillingerne i Indstillinger > Konti > Google."</string>
+    <string name="drive_backup_disabled_introduction">Med automatisk backup kan du nemt og til enhver tid gendanne din telefon eller skifte til en ny.</string>
+    <string name="drive_backup_settings_title">Sikkerhedskopiering</string>
+    <string name="drive_backup_state">Sikkerhedskopiér til Google Drev</string>
+    <string name="drive_backup_state_dialog_message">"Denne enheds backupdata i Google Drev slettes permanent.
+
+Billeder og videoer, som allerede er sikkerhedskopieret, vil fortsat være tilgængelige i Google Drev.
+
+Google Kalender og Google Kontaktpersoner synkroniseres fortsat med din Google-konto. Du kan ændre dine synkroniseringsindstillinger under Indstillinger > Konti > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Denne enheds sikkerhedskopierede data i Google Drev slettes permanent.
+
+Google Kalender og Google Kontaktpersoner synkroniseres fortsat med din Google-konto. Du kan ændre dine synkroniseringsindstillinger under Indstillinger > Konti > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Deaktiver og slet</string>
+    <string name="drive_backup_state_dialog_title">Vil du deaktivere backup og slette din backup?</string>
+    <string name="durationDayHour">%1$d dag %2$d t.</string>
+    <string name="durationDayHours">%1$d dag %2$d t.</string>
+    <string name="durationDays">%1$d dage</string>
+    <string name="durationHourMinute">%1$d t. %2$d min.</string>
+    <string name="durationHourMinutes">%1$d t. %2$d min.</string>
+    <string name="durationHours">%1$d t.</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinuteSecond">%1$d min. %2$d s.</string>
+    <string name="durationMinuteSeconds">%1$d min. %2$d s.</string>
+    <string name="durationMinutes">%1$d minutter</string>
+    <string name="durationSecond">%1$d sekund</string>
+    <string name="durationSeconds">%1$d sekunder</string>
+    <string name="encryption_warning_fragment_description">"Kryptering af backup er slået til for din iPhone®-enhed. Hvis du ikke selv slog det til, har din it-administrator muligvis gjort det.
+
+Det er kun billeder, musik og videoer, der kan kopieres. Du kan få flere oplysninger på "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Kryptering af backup</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Jeg kan ikke finde adapteren</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Find den Quick Switch Adapter, der fulgte med din ^1.
+
+Sæt kablet i adapteren."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Slut adapteren til kablet</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Lås din gamle telefon op, og slut adapteren til telefonen.</string>
+    <string name="fragment_usb_connect_both_phones_title">Slut telefonerne til hinanden</string>
+    <string name="fragment_usb_dialog_cancel_description">Du får mest indhold, hvis du bruger et kabel. Hvis kablet i æsken ikke passer, kan du prøve at bruge et oplader- eller datakabel, der fungerer sammen med din gamle telefon.</string>
+    <string name="fragment_usb_dialog_cancel_title">Vil du kopiere dine data på en anden måde?</string>
+    <string name="fragment_usb_dont_have_cable">Jeg har ikke noget kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Jeg har ikke min gamle telefon</string>
+    <string name="fragment_usb_find_cable_description">Brug et kabel, der passer til din gamle telefon, f.eks. dit data- eller opladerkabel.</string>
+    <string name="fragment_usb_find_cable_title">Find det rigtige kabel</string>
+    <string name="fragment_usb_initial_description">Overfør data fra din gamle telefon til denne ^1.</string>
+    <string name="fragment_usb_initial_title">Lad os kopiere dine data</string>
+    <string name="fragment_usb_legacy_description">"Dette er den hurtigste måde at hente flest data på.
+
+Find adapteren i æsken, og sæt den i din nye telefon. Forbind telefonerne med et kabel, og lås derefter din gamle telefon op."</string>
+    <string name="fragment_usb_other_ways">Kopiér uden et kabel</string>
+    <string name="fragment_usb_plug_cable">Sæt kablet i din gamle telefon</string>
+    <string name="fragment_waiting_title">Et øjeblik…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontaktpersoner synkroniseres</string>
+    <string name="google_contacts_static_text_off">Google Kontaktpersoner synkroniseres stadig</string>
+    <string name="header_set_backup_account">Konfigurer konto til sikkerhedskopiering</string>
+    <string name="i_message_dialog_message">"Hvis du vil fortsætte med at modtage sms-beskeder fra iPhone®-brugere, skal du deaktivere iMessage®.
+
+Du finder en vejledning på "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Fortsæt på din anden telefon</string>
+    <string name="ios_connected_fragment_description">"På næste skærm kan du logge ind på din Google-konto eller oprette en ny.
+
+Dine begivenheder fra iOS Calendar® overføres ikke, medmindre du tilføjer din Google-konto."</string>
+    <string name="ios_message_attachment_explanation">[Vedhæftede filer fra dine meddelelser kan findes i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachment_failed_explanation">[Nogle af de vedhæftede filer kunne ikke kopieres. De vedhæftede filer, som blev overført, kan findes i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachment_placeholder">[Vedhæftet fil gemt i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachments_placeholder">[Vedhæftede filer gemt i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Anden</string>
+    <string name="ios_photos_dialog_message">"Billeder, der er gemt i iCloud®, kan ikke kopieres.
+
+Hvis du vil have disse billeder over på din ^1, skal du installere Google Fotos-appen på din iPhone®-enhed og aktivere Backup og synkronisering. Du kan finde yderligere vejledning på "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Tilføj konto</string>
+    <string name="lockscreen_smartdevice_action_next">Næste</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Lås op for at fortsætte med at konfigurere din telefon</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Af sikkerhedsmæssige årsager skal du bekræfte din skærmlås for at fortsætte konfigurationen</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Bekræft din skærmlås</string>
+    <string name="manage_data_label">Google-konto</string>
+    <string name="master_clear_title">Gendannelse af fabriksdata</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Der skal konfigureres en konto til sikkerhedskopiering</string>
+    <string name="notification_content_title_set_backup_account">Sikkerhedskopiering</string>
+    <string name="notification_ticker_set_backup_account">Der skal konfigureres en konto til sikkerhedskopiering</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktpersoner</string>
+    <string name="permgrouplab_location">Placering</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Kropssensorer</string>
+    <string name="permgrouplab_sms">Sms</string>
+    <string name="permgrouplab_storage">Lagerplads</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Der er i øjeblikket ingen konto, der gemmer sikkerhedskopierede billeder</string>
+    <string name="photos_backup_title">Sikkerhedskopiering af billeder</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Ingen</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopierede kontaktpersoner gemmes på din Google-konto.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopierede kontaktpersoner og kalendere gemmes på din Google-konto.</string>
+    <string name="restore_choice_data_disclaimer_v2">Det er muligvis ikke alle dine data, der kopieres til din ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Få flere oplysninger</annotation></string>
+    <string name="restore_choice_deselect_some_content">Fravælg noget af indholdet for at fortsætte</string>
+    <string name="restore_choice_learn_more_android">"Nogle data fra din gamle telefon kan ikke kopieres automatisk:
+
+ ● Downloads (f.eks. PDF-filer)
+
+ ● Billeder, videoer og musik, der er gemt i skjulte mapper
+
+ ● Billeder, videoer og musik, der er modtaget via sms
+
+ ● Apps, der ikke er fra Google Play Butik
+
+ ● Appdata (hvis appen ikke benytter Android-backup)
+
+ ● Visse enhedsindstillinger
+
+ ● Andre konti end Google-konti (og eventuelle tilknyttede data)
+
+ ● Kontaktpersoner og kalendere, der er synkroniseret med andre tjenester end Google
+
+ ● Ringetoner
+
+ Du kan få flere oplysninger samt hjælp til at kopiere nogle af disse data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Nogle data fra din gamle telefon kan ikke kopieres automatisk:
+
+ ● Apps og appdata
+
+ ● Billeder, hvor originalen ikke er gemt på din telefon (hvis indstillingen Optimer lagerplads er aktiveret, gemmes de originale billeder f.eks. i iCloud®)
+
+ ● Filer og dokumenter, der er gemt i iCloud®
+
+ ● Enhedsindstillinger (f.eks. Wi-Fi-adgangskoder og baggrund)
+
+ ● Musik, der er beskyttet ved hjælp af administration af digitale rettigheder (DRM, Digital Rights Management) (f.eks. musik fra iTunes®, der er købt før april 2009, eller musik, der er downloadet til offlineafspilning i en app til musikstreaming)
+
+ ● Andre konti end Google-konti (og eventuelle tilknyttede data)
+
+ ● Kontaktpersoner og kalendere, der er synkroniseret med andre tjenester end Google eller iCloud®
+
+ ● Bogmærker fra Safari®
+
+ Vedhæftede filer i iMessage® bliver tilgængelige i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser.
+
+ Du kan få yderligere oplysninger samt hjælp til at kopiere nogle af disse data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Der er ikke nok plads</string>
+    <string name="restore_choice_total_text">af din ledige plads på %1$s med en overførselsvarighed på %2$s</string>
+    <string name="restore_error_message">Der opstod desværre en fejl under gendannelsen.</string>
+    <string name="restore_item_appdata">Appdata</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS® Kalender, Google Kalender</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalender synkroniseres stadig</string>
+    <string name="restore_item_calendar_sync_description">Google Kalender synkroniseres</string>
+    <string name="restore_item_call_logs">Opkaldshistorik</string>
+    <string name="restore_item_contacts">Kontaktpersoner</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-adgangskoder m.m.</string>
+    <string name="restore_item_downloads">Downloads</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">Gmail synkroniseres</string>
+    <string name="restore_item_message_attachments">Vedhæftede filer fra meddelelser</string>
+    <string name="restore_item_messages">Meddelelser</string>
+    <string name="restore_item_music">Musik</string>
+    <string name="restore_item_photos">Billeder og videoer</string>
+    <string name="restore_item_settings">Enhedsindstillinger</string>
+    <string name="restore_item_sms">Sms-beskeder</string>
+    <string name="restore_item_will_be_synced_text">Dette synkroniseres på din telefon</string>
+    <string name="restore_progress_title">Gendanner…</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="small_time_duration">Mindre end 1 minut</string>
+    <string name="source_connected_description">Forbereder...</string>
+    <string name="source_connected_title">Der er oprettet forbindelse til din %1$s</string>
+    <string name="source_copying_description">De valgte data kopieres til din nye telefon</string>
+    <string name="source_copying_title">Kopierer...</string>
+    <string name="source_default_target_device_name">ny enhed</string>
+    <string name="source_notification_device_disconnected">Tilslut kablet igen</string>
+    <string name="source_notification_text">Overførsel mellem telefonerne er i gang</string>
+    <string name="source_notification_title">Dataoverførsel</string>
+    <string name="source_success_description">Afslut konfigurationen på din %1$s.</string>
+    <string name="source_success_screen_title">Færdig</string>
+    <string name="source_unplugged_description">Sæt kablet i din %1$s igen</string>
+    <string name="source_unplugged_title">Kablet er frakoblet</string>
+    <string name="source_waiting_title">Fortsæt konfigurationen på din %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Afvis</string>
+    <string name="stop_copying_dialog_message_before_transfer">Dine data blev ikke kopieret til din nye telefon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Nogle af dine data blev ikke kopieret til din nye telefon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Undlad at kopiere</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stop</string>
+    <string name="stop_copying_dialog_title_before_transfer">Vil du ikke kopiere?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vil du afbryde kopieringen?</string>
+    <string name="storage_management_wear_descriptive_text">Apps bruger enhedens hukommelse til at kopiere data til en Wearable-app.</string>
+    <string name="storage_management_wear_manage_size_label">Administrer hukommelse, der bruges af Wearable-apps</string>
+    <string name="storage_management_wear_size_label">Lager på Wearable-apps</string>
+    <string name="storage_managment_all_storage_descriptive_text">Den samlede mængde data, der anvendes af Google Play-tjenester, f.eks. søgemaskinedata og andre data.</string>
+    <string name="storage_managment_clear_all_data">Ryd alle data</string>
+    <string name="storage_managment_computing_size">Beregner…</string>
+    <string name="storage_managment_icing_size_label">Søgedata</string>
+    <string name="storage_managment_manage_icing_button">Administrer søgedata</string>
+    <string name="storage_managment_search_index_descriptive_text">Vi gør søgningen hurtigere på din enhed ved at give dig en søgemaskine, som dine apps kan bruge.</string>
+    <string name="storage_managment_title">Lagerplads for Google Play-tjenester</string>
+    <string name="storage_managment_total_size_label">Samlet lagerplads</string>
+    <string name="suw_back_button_label">Tilbage</string>
+    <string name="suw_more_button_label">Mere</string>
+    <string name="suw_next_button_label">Næste</string>
+    <string name="target_default_source_device_model">gammel enhed</string>
+    <string name="target_device_not_supported_cant_continue_description">Du skal vælge en anden måde at kopiere data på</string>
+    <string name="target_device_not_supported_cant_continue_title">Den anden telefon understøttes ikke</string>
+    <string name="target_device_not_supported_try_restarting_description">"Tag kablet ud, og genstart din gamle telefon. Sæt derefter kablet i igen, og følg vejledningen på din Pixel.
+
+Hvis du fortsat får vist denne fejl, skal du muligvis forsøge at kopiere på en anden måde."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefonen understøttes muligvis ikke</string>
+    <string name="target_smart_device_timeout_add_account">TILFØJ KONTO</string>
+    <string name="target_smart_device_timeout_description">Hvis du vil, kan du prøve at tilføje din konto manuelt</string>
+    <string name="target_smart_device_timeout_dismiss">AFVIS</string>
+    <string name="target_smart_device_timeout_title">Oplever du problemer?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonerne er forbundet</string>
+    <string name="toast_reconnect_cable">Tilslut dit kabel igen</string>
+    <string name="transfer_finished_fragment_title">Forbereder de sidste detaljer…</string>
+    <string name="transfer_summary_copied">Dataene er kopieret</string>
+    <string name="transfer_summary_fragment_description">Du kan tage kablet ud.</string>
+    <string name="transfer_summary_fragment_finish">AFSLUT</string>
+    <string name="transfer_summary_fragment_title">Din telefon er næsten klar</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Nogle af dine billeder blev ikke kopieret. <annotation id="transfer_summary_learn_more">Få flere oplysninger</annotation></string>
+    <string name="transfer_summary_not_copied">Dataene blev ikke kopieret</string>
+    <string name="transfer_summary_partial">%1$s/%2$s er kopieret</string>
+    <string name="transfer_summary_will_sync">Dataene synkroniseres efter konfigurationen</string>
+    <string name="transferring_fragment_calculating_remaining_time">Beregner resterende tid…</string>
+    <string name="transferring_fragment_header">Kopierer...</string>
+    <string name="transferring_fragment_remaining_time">%1$s tilbage</string>
+    <string name="trust_instructions_description">Tjek din iPhone®-enhed, og godkend forbindelsen for at fortsætte</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes er varemærker tilhørende Apple Inc., som er registreret i USA og andre lande.</string>
+</resources>

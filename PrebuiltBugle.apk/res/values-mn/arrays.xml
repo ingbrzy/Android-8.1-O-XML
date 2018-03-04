@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>гарчиггүй</item>
+        <item>гарчиггүй</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Тийм</item>
+        <item>Үгүй</item>
+        <item>ЗА</item>
+        <item>Хэхэ</item>
+        <item>Баярлалаа</item>
+        <item>Би зөвшөөрч байна</item>
+        <item>Янзтай</item>
+        <item>Очиж байна</item>
+        <item>За, би эргээд холбогдьё</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>Холбоостой SMS</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Ямагт SMS байдлаар дахин илгээх</item>
+        <item>Роуминггүй үед SMS байдлаар дахин илгээх</item>
+        <item>Дахин илгээхийн өмнө асуух</item>
+        <item>SMS байдлаар дахин огт илгээхгүй</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Ямагт SMS/MMS байдлаар дахин илгээх</item>
+        <item>Роуминггүй үед SMS/MMS байдлаар дахин илгээх</item>
+        <item>Дахин илгээхийн өмнө асуух</item>
+        <item>SMS/MMS байдлаар дахин огт илгээхгүй</item>
+    </string-array>
+</resources>

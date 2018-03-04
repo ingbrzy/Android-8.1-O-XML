@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daysAgo">
+        <item quantity="other">for %1$d dager siden</item>
+        <item quantity="one">for %1$d dag siden</item>
+    </plurals>
+    <plurals name="episode_list_header_full">
+        <item quantity="other">%1$d episoder</item>
+        <item quantity="one">%1$d episode</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">%1$d podcaster valgt</item>
+        <item quantity="one">%1$d podcast valgt</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">for %1$d timer siden</item>
+        <item quantity="one">for %1$d time siden</item>
+    </plurals>
+    <plurals name="image_viewer_reviews_label">
+        <item quantity="other">%s anmeldelser</item>
+        <item quantity="one">%s anmeldelse</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">for %1$d min siden</item>
+        <item quantity="one">for %1$d min siden</item>
+    </plurals>
+    <plurals name="minutesRemaining">
+        <item quantity="other">%1$d min igjen</item>
+        <item quantity="one">%1$d min igjen</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+</resources>

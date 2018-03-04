@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Neste</string>
+    <string name="suw_back_button_label">Tilbake</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="vzw_wfc_activation_error">Kan ikke aktivere Wi-Fi-anrop. Prøv på nytt senere.</string>
+    <string name="vzw_address_update_error">Vi kan ikke oppdatere den nåværende adressen for nødssituasjoner på dette tidspunktet. Prøv igjen senere.</string>
+    <string name="emergency_address_app_label">Håndtering av adresse for nødssituasjoner</string>
+    <string name="progress_text">Vent litt</string>
+    <string name="vzw_tos_title">Aktiver Wi-Fi-anrop</string>
+    <string name="cancel">Avbryt</string>
+    <string name="vzw_tos_text">"Med Wi-Fi-anrop kan du utføre anrop over Wi-Fi når mobilnettverket er utilgjengelig.
+
+For å konfigurere Wi-Fi-anrop må du angi en amerikansk adresse. Denne adressen blir brukt av nødetatene på stedet du befinner deg, hvis du utfører et nødanrop (E911) over Wi-Fi fra denne telefonen i USA.
+
+Vi anbefaler at du endrer denne adressen når du utfører anrop med et annet Wi-Fi-nettverk, slik at informasjonen din er nøyaktig. Du kan når som helst endre stedet ditt ved å gå til innstillingsmenyen for Wi-Fi-anrop."</string>
+    <string name="vzw_tos_link">Vilkår</string>
+    <string name="tos_continue">Fortsett</string>
+    <string name="vzw_e911_title">Informasjon om sted for nødssituasjoner</string>
+    <string name="vzw_e911_description"><b>VIKTIG – ADRESSE FOR NØDSSITUASJONER, 911 KREVES</b>"
+For å slå på Wi-Fi-anrop, skriv inn den amerikanske adressen du ønsker at nødetatene skal sendes til hvis du ringer 911. Du kan når som helst endre denne adressen fra Innstillinger. Det er veldig viktig at du oppdaterer denne adressen hver gang du bytter sted."</string>
+    <string name="vzw_e911_warning"><b>ADVARSLER – BEGRENSNINGER FOR NØDANROP TIL 110, 112 og 113</b>"
+Når du ringer 110, 112 eller 113, må du alltid fortelle operatøren hvor du er. Nødanropet går bare over Wi-Fi hvis mobilnettverket er utilgjengelig. Nødanrop over Wi-Fi kan bli forsinkede eller mislykkede hvis nødaropssystemet for eksempel ikke gjenkjenner adressen, hvis det er strømbrudd, eller hvis Wi-Fi-tilkoblingen ikke fungerer. Nødetatene blir sendt til adressen du oppga ovenfor, så sørg for at du oppdaterer den når du endrer sted."</string>
+    <string name="house_number">Adressenummer</string>
+    <string name="street">Gate</string>
+    <string name="apt_suite_number">Leilighet, oppgang osv.</string>
+    <string name="city">By</string>
+    <string name="state">Fylke/delstat</string>
+    <string name="zip_code">Postnummer</string>
+    <string name="save">Lagre</string>
+    <string name="vzw_address_confirm_text_part1">Vi fant ikke adressen du oppga fordi gateadressen ikke ble funnet, eller fordi byen, poststedet eller postnummeret er feil.</string>
+    <string name="vzw_address_confirm_text_part2">Hvis byen, poststedet og postnummeret er feil, trykker du på %1$s. Ellers trykker du på %2$s.</string>
+    <string name="save_anyway">Lagre likevel</string>
+    <string name="edit_address">Endre adressen</string>
+    <string name="ok">Ok</string>
+    <string name="vzw_address_select_text">Vi fant ikke adressen du skrev inn:</string>
+    <string name="vzw_address_alternate_text">Mente du:</string>
+    <string name="vzw_partial_confirm_head">Nødetatene kunne ikke bekrefte adressen.</string>
+    <string name="vzw_partial_confirm_text">Er du sikker på at du vil bruke denne adressen i tilfelle en nødssituasjon?</string>
+    <string name="vzw_partial_failure_text_part1">Byen, poststedet eller postnummerer du oppga, er muligens feil.</string>
+    <string name="vzw_partial_failure_text_part2">Kontrollér adressen og prøv igjen.</string>
+    <string name="vzw_address_update_success_toast">Adressen for nødssituasjoner er oppdatert</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi er slått av</string>
+    <string name="connect_to_wifi_or_web_portal_message">Du kan konfigurere Wi-Fi-anrop ved å bruke mobilnettverket, men du må slå på Wi-Fi og koble til et nettverk for å bruke denne funksjonen.</string>
+    <string name="button_turn_on_wifi">Slå på Wi-Fi</string>
+    <string name="button_setup_web_portal">Fortsett konfigureringen</string>
+</resources>

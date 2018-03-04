@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Xếp hạng của bạn: %1$s sao</item>
+        <item quantity="one">Xếp hạng của bạn: %1$s sao</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d bài đánh giá</item>
+        <item quantity="one">%1$d bài đánh giá</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d bài đánh giá với xếp hạng %2$d sao</item>
+        <item quantity="one">%1$d bài đánh giá với xếp hạng %2$d sao</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Cài đặt đã tạm dừng</item>
+        <item quantity="one">Cài đặt đã tạm dừng</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Các ứng dụng được quét %1$d ngày trước</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d ứng dụng có hại đã bị xóa. %2$s.</item>
+        <item quantity="one">%1$d ứng dụng có hại đã bị xóa. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d bản cập nhật cần phê duyệt</item>
+        <item quantity="one">%1$d bản cập nhật cần phê duyệt</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d bản cập nhật mới</item>
+        <item quantity="one">%1$d bản cập nhật mới</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Hiện có %1$d bản cập nhật</item>
+        <item quantity="one">Hiện có %1$d bản cập nhật</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Cập nhật tất cả</item>
+        <item quantity="one">Cập nhật</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ứng dụng đã được cập nhật</item>
+        <item quantity="one">%1$d ứng dụng đã được cập nhật</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sao</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s sao</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sao - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s sao - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sao - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s sao - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d người dùng thấy bài đánh giá này hữu ích. Đánh dấu nhận xét là hữu ích</item>
+        <item quantity="one">%1$d người dùng thấy bài đánh giá này hữu ích. Đánh dấu nhận xét là hữu ích</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d người dùng thấy bài đánh giá này hữu ích. Bỏ đánh dấu nhận xét là hữu ích</item>
+        <item quantity="one">%1$d người dùng thấy bài đánh giá này hữu ích. Bỏ đánh dấu nhận xét là hữu ích</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Đã xếp hạng &lt;b>%1$s sao&lt;/b></item>
+        <item quantity="one">Đã xếp hạng &lt;b>%1$s sao&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">trong %1$s bài đánh giá</item>
+        <item quantity="one">trong %1$s bài đánh giá</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s sao&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s sao&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Sử dụng lần cuối %1$d ngày trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d ngày trước</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Khôi phục %1$d ứng dụng đã chọn</item>
+        <item quantity="one">Khôi phục ứng dụng đã chọn</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">sao</item>
+        <item quantity="one">sao</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Ứng dụng sẽ sớm được cài đặt.</item>
+        <item quantity="one">Ứng dụng sẽ sớm được cài đặt.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Bản cập nhật ứng dụng sẽ sớm được cài đặt.</item>
+        <item quantity="one">Bản cập nhật ứng dụng sẽ sớm được cài đặt.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Sử dụng lần cuối %1$d ngày trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d ngày trước</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Sử dụng lần cuối %1$d tháng trước</item>
+        <item quantity="one">Sử dụng lần cuối %1$d tháng trước</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, hãy xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa các tệp đa phương tiện trong Cài đặt bộ nhớ.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, hãy xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa các tệp đa phương tiện trong Cài đặt bộ nhớ.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa tệp đa phương tiện trong &lt;a href=\"\">Cài đặt > Bộ nhớ&lt;/a>.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa tệp đa phương tiện trong &lt;a href=\"\">Cài đặt > Bộ nhớ&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, hãy xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa tệp đa phương tiện trong Cài đặt > Bộ nhớ.</item>
+        <item quantity="one">Để cài đặt ứng dụng hoặc cập nhật trên thiết bị này, hãy xóa ứng dụng bạn không còn cần đến. Bạn cũng có thể giải phóng dung lượng bằng cách xóa tệp đa phương tiện trong Cài đặt > Bộ nhớ.</item>
+    </plurals>
+</resources>

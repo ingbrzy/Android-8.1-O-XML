@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d uygulamanın tümü</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d uygulama seçildi</item>
+        <item quantity="one">1 uygulama seçildi</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d uygulama zaten yüklü</item>
+        <item quantity="one">1 uygulama zaten yüklü</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Yedeklenmiş %1$d uygulamanız var. Birkaçını seçin veya tümünü alın.</item>
+        <item quantity="one">Yedeklenmiş %1$d uygulamanız var.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d cihaz kişisi</item>
+        <item quantity="one">1 cihaz kişisi</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">"SIM'de %1$d, cihazda %2$d"</item>
+        <item quantity="one">"SIM'de %1$d, cihazda %2$d"</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® kişisi</item>
+        <item quantity="one">1 iCloud® kişisi</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM kişisi</item>
+        <item quantity="one">1 SIM kişisi</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d uygulama bulundu. Birkaçını seçin veya tümünü alın.</item>
+        <item quantity="one">%1$d uygulama bulundu. Bu uygulamanın alınmasını ister misiniz?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">iOS® uygulamalarınızın %1$d tanesiyle eşleşme bulundu. Uygulamaların her birini yüklediğinizde ilgili izinleri kabul etmiş olursunuz. &lt;annotation id="apps_permissions_learn_more">Daha fazla bilgi&lt;/annotation></item>
+        <item quantity="one">iOS® uygulamalarınızın biriyle eşleşme bulundu. Bu uygulamayı yüklediğinizde ilgili izinleri kabul etmiş olursunuz. &lt;annotation id="apps_permissions_learn_more">Daha fazla bilgi&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d öğe kaldı…</item>
+        <item quantity="one">%1$d öğe kaldı…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Dikkat! Bu etkinlik artık şu katılımcıları içermeyecektir:</item>
+        <item quantity="one">Dikkat! Bu etkinlik artık şu katılımcıyı içermeyecektir:</item>
+    </plurals>
+</resources>

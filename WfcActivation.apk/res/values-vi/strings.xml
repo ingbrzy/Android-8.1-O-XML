@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Tiếp theo</string>
+    <string name="suw_back_button_label">Quay lại</string>
+    <string name="suw_more_button_label">Khác</string>
+    <string name="vzw_wfc_activation_error">Không thể kích hoạt gọi qua Wi-Fi. Vui lòng thử lại sau.</string>
+    <string name="vzw_address_update_error">Không thể cập nhật địa chỉ khẩn cấp hiện tại vào lúc này. Vui lòng thử lại sau.</string>
+    <string name="emergency_address_app_label">Quản lý địa chỉ khẩn cấp</string>
+    <string name="progress_text">Vui lòng đợi...</string>
+    <string name="vzw_tos_title">Kích hoạt Gọi qua Wi-Fi</string>
+    <string name="cancel">Hủy</string>
+    <string name="vzw_tos_text">"Gọi qua Wi-Fi cho phép bạn thực hiện cuộc gọi bằng cách sử dụng Wi-Fi khi mạng di động không khả dụng.
+
+Để thiết lập Gọi qua Wi-Fi, bạn sẽ cần nhập một địa chỉ ở Hoa Kỳ. Địa chỉ này sẽ được các dịch vụ khẩn cấp sử dụng ở vị trí của bạn nếu bạn thực hiện cuộc gọi khẩn cấp (E911) qua Wi-Fi từ điện thoại này trong phạm vi Hoa Kỳ.
+
+Để thông tin vị trí của bạn được chính xác, chúng tôi khuyên bạn nên thay đổi địa chỉ này khi thực hiện cuộc gọi bằng cách sử dụng một mạng Wi-Fi khác. Bạn có thể thay đổi vị trí của mình bất kỳ lúc nào bằng cách chuyển đến menu cài đặt Gọi qua Wi-Fi."</string>
+    <string name="vzw_tos_link">Ðiều khoản và điều kiện</string>
+    <string name="tos_continue">Tiếp tục</string>
+    <string name="vzw_e911_title">Thông tin vị trí khẩn cấp</string>
+    <string name="vzw_e911_description"><b>QUAN TRỌNG - YÊU CẦU ĐỊA CHỈ 911 KHẨN CẤP</b>"
+Để bật Gọi qua Wi-Fi, hãy nhập địa chỉ ở Hoa Kỳ nơi bạn muốn dịch vụ khẩn cấp được gửi đến nếu bạn gọi 911. Bạn có thể chuyển đến Cài đặt và thay đổi địa chỉ này bất kỳ lúc nào. Cập nhật địa chỉ này bất cứ khi nào bạn thay đổi vị trí có ý nghĩa rất quan trọng."</string>
+    <string name="vzw_e911_warning"><b>CẢNH BÁO - GIỚI HẠN CUỘC GỌI 911 KHẨN CẤP</b>"
+Khi gọi 911, hãy luôn nói cho nhà cung cấp dịch vụ biết vị trí của bạn. Cuộc gọi 911 của bạn sẽ chỉ truyền qua Wi-Fi nếu như không có mạng di động. Cuộc gọi 911 được thực hiện qua Wi-Fi có thể bị trễ hoặc không thành công. Ví dụ: nếu hệ thống 911 không nhận biết được địa chỉ, mất điện hoặc kết nối Wi-Fi của bạn không hoạt động. Dịch vụ khẩn cấp sẽ được gửi tới địa chỉ bạn đã cung cấp ở trên. Do đó, vui lòng cập nhật địa chỉ khi bạn thay đổi vị trí."</string>
+    <string name="house_number">Số địa chỉ</string>
+    <string name="street">Đường phố</string>
+    <string name="apt_suite_number">Căn hộ, dãy phòng, v.v.</string>
+    <string name="city">Thành phố</string>
+    <string name="state">Tiểu bang</string>
+    <string name="zip_code">Mã zip</string>
+    <string name="save">Lưu</string>
+    <string name="vzw_address_confirm_text_part1">Chúng tôi không thể tìm thấy địa chỉ bạn đã nhập do không thể tìm thấy địa chỉ đường phố hoặc có thể thành phố, tiểu bang và mã zip không chính xác.</string>
+    <string name="vzw_address_confirm_text_part2">Nếu thành phố, tiểu bang và mã zip không chính xác, nhấn %1$s. Nếu chính xác, nhấn %2$s.</string>
+    <string name="save_anyway">Vẫn lưu</string>
+    <string name="edit_address">Chỉnh sửa địa chỉ</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Chúng tôi không thể tìm thấy địa chỉ bạn đã nhập:</string>
+    <string name="vzw_address_alternate_text">Ý bạn là:</string>
+    <string name="vzw_partial_confirm_head">Nhà cung cấp dịch vụ khẩn cấp không thể xác thực địa chỉ đã nhập.</string>
+    <string name="vzw_partial_confirm_text">Bạn có chắc chắn muốn sử dụng địa chỉ này trong trường hợp khẩn cấp không?</string>
+    <string name="vzw_partial_failure_text_part1">Thành phố, tiểu bang hoặc mã zip bạn đã nhập có thể không đúng.</string>
+    <string name="vzw_partial_failure_text_part2">Vui lòng kiểm tra địa chỉ và thử lại.</string>
+    <string name="vzw_address_update_success_toast">Đã cập nhật địa chỉ khẩn cấp</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi bị tắt</string>
+    <string name="connect_to_wifi_or_web_portal_message">Bạn có thể thiết lập tính năng gọi qua Wi-Fi khi sử dụng mạng di động nhưng sẽ cần bật Wi-Fi và kết nối với mạng để sử dụng tính năng này.</string>
+    <string name="button_turn_on_wifi">Bật Wi-Fi</string>
+    <string name="button_setup_web_portal">Tiếp tục thiết lập</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Înainte</string>
+    <string name="suw_back_button_label">Înapoi</string>
+    <string name="suw_more_button_label">Mai mult</string>
+    <string name="vzw_wfc_activation_error">Nu se poate activa Apelarea prin Wi-Fi. Încercați din nou mai târziu.</string>
+    <string name="vzw_address_update_error">Momentan, nu se poate actualiza adresa de urgență actuală. Încercați din nou mai târziu.</string>
+    <string name="emergency_address_app_label">Gestionarea adresei de urgență</string>
+    <string name="progress_text">Așteptați…</string>
+    <string name="vzw_tos_title">Activați Apelarea prin Wi-Fi</string>
+    <string name="cancel">Anulați</string>
+    <string name="vzw_tos_text">"Apelarea prin Wi-Fi vă permite să apelați folosind conexiunea Wi-Fi când nu este disponibilă rețeaua mobilă.
+
+Pentru a configura Apelarea prin Wi-Fi, trebuie să introduceți o adresă din S.U.A.. Această adresă va fi folosită de serviciile de urgență de la locația dvs. dacă inițiați un apel de urgență prin Wi-Fi (E911) de pe acest telefon în S.U.A.
+
+Vă recomandăm să schimbați această adresă când inițiați apeluri folosind o altă rețea Wi-Fi, pentru ca informațiile privind locația dvs. să fie exacte. Puteți schimba oricând locația accesând meniul de setări privind Apelarea prin Wi-Fi."</string>
+    <string name="vzw_tos_link">Termeni și condiții</string>
+    <string name="tos_continue">Continuați</string>
+    <string name="vzw_e911_title">Informații privind locația de urgență</string>
+    <string name="vzw_e911_description"><b>IMPORTANT – ESTE NECESARĂ O ADRESĂ PENTRU URGENȚE SEMNALATE LA 911</b>"
+Pentru a activa Apelarea prin Wi-Fi, introduceți adresa din S.U.A. la care doriți să fie trimise serviciile de urgență dacă sunați la 911. Puteți să accesați Setările și să modificați oricând această adresă. Este foarte important să actualizați această adresă de fiecare dată când vă schimbați locația."</string>
+    <string name="vzw_e911_warning"><b>AVERTISMENTE – RESTRICȚII PRIVIND APELUL DE URGENȚĂ LA 911</b>"
+Când sunați la 911, spuneți întotdeauna operatorului unde vă aflați. Apelul dvs. la 911 va fi trimis prin Wi-Fi numai dacă nu este disponibilă rețeaua mobilă. Este posibil ca apelurile către 911 prin Wi-Fi să fie întârziate sau să nu fie trimise dacă, de exemplu, sistemul de urgență 911 nu recunoaște adresa, nu aveți curent sau conexiunea Wi-Fi nu funcționează. Serviciile de urgență vor fi trimise la adresa pe care ați specificat-o mai sus, așadar actualizați-o de fiecare dată când vă schimbați locația."</string>
+    <string name="house_number">Numărul străzii</string>
+    <string name="street">Stradă</string>
+    <string name="apt_suite_number">Apartament etc.</string>
+    <string name="city">Oraș</string>
+    <string name="state">Stat</string>
+    <string name="zip_code">Cod poștal</string>
+    <string name="save">Salvați</string>
+    <string name="vzw_address_confirm_text_part1">Nu am găsit adresa introdusă, deoarece nu s-a putut identifica adresa fizică sau este posibil ca orașul, statul și codul poștal să nu fie corecte.</string>
+    <string name="vzw_address_confirm_text_part2">Dacă numele orașului, al statului și codul poștal nu sunt corecte, atingeți %1$s. În caz contrar, atingeți %2$s.</string>
+    <string name="save_anyway">Salvați oricum</string>
+    <string name="edit_address">Editați adresa</string>
+    <string name="ok">Bine</string>
+    <string name="vzw_address_select_text">Nu s-a putut găsi adresa introdusă:</string>
+    <string name="vzw_address_alternate_text">Vă refereați la:</string>
+    <string name="vzw_partial_confirm_head">Adresa introdusă nu a putut fi validată de furnizorii de servicii de urgență.</string>
+    <string name="vzw_partial_confirm_text">Sigur doriți să folosiți această adresă în caz de urgență?</string>
+    <string name="vzw_partial_failure_text_part1">Este posibil ca orașul, statul sau codul poștal pe care le-ați introdus să nu fie corecte.</string>
+    <string name="vzw_partial_failure_text_part2">Verificați adresa și încercați din nou.</string>
+    <string name="vzw_address_update_success_toast">Adresa de urgență a fost actualizată</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi este dezactivat</string>
+    <string name="connect_to_wifi_or_web_portal_message">Puteți configura Apelarea prin Wi-Fi utilizând rețeaua mobilă, dar va trebui să activați Wi-Fi și să vă conectați la o rețea pentru a utiliza această funcție.</string>
+    <string name="button_turn_on_wifi">Activați Wi-Fi</string>
+    <string name="button_setup_web_portal">Continuați configurarea</string>
+</resources>

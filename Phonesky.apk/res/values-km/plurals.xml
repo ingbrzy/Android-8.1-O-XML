@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">ការវាយតម្លៃរបស់អ្នក៖ ផ្កាយ %1$s</item>
+        <item quantity="one">ការវាយតម្លៃរបស់អ្នក៖ ផ្កាយ %1$s</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">យោបល់ %1$d</item>
+        <item quantity="one">យោបល់ %1$d</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">យោបល់ %1$d សម្រាប់ការវាយតម្លៃផ្កាយ %2$d</item>
+        <item quantity="one">យោបល់ %1$d សម្រាប់ការវាយតម្លៃផ្កាយ %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">បានផ្អាកការដំឡើង</item>
+        <item quantity="one">បានផ្អាកការដំឡើង</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">បាន​ស្កេន​កម្មវិធី​កាល​ពី %1$d ថ្ងៃ​មុន</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">កម្មវិធី %1$d ដែលបង្កគ្រោះថ្នាក់ត្រូវបានលុប។ %2$s ។</item>
+        <item quantity="one">កម្មវិធី %1$d ដែលបង្កគ្រោះថ្នាក់ត្រូវបានលុប។ %2$s ។</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">ការអាប់ដេត %1$d តម្រូវឲ្យមានការយល់ព្រម</item>
+        <item quantity="one">ការអាប់ដេត %1$d តម្រូវឲ្យមានការយល់ព្រម</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">បច្ចុប្បន្នភាពថ្មី %1$d</item>
+        <item quantity="one">បច្ចុប្បន្នភាពថ្មី %1$d</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">មានការអាប់ដេត %1$d</item>
+        <item quantity="one">មានការអាប់ដេត %1$d</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">ការអាប់ដេតទាំងអស់</item>
+        <item quantity="one">ការអាប់ដេត</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">បានអាប់ដេតកម្មវិធី %1$d</item>
+        <item quantity="one">បានអាប់ដេតកម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ផ្កាយ %2$s - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍។ សម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+        <item quantity="one">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍ សម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍។ ដកសម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+        <item quantity="one">អ្នកប្រើ %1$d នាក់គិតថាយោបល់នេះមានប្រយោជន៍ ដកសម្គាល់មតិយោបល់ថាមានប្រយោជន៍</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">បានវាយតម្លៃ&lt;b>ផ្កាយ %1$s&lt;/b></item>
+        <item quantity="one">បានវាយតម្លៃ&lt;b>ផ្កាយ %1$s&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">ក្នុងយោបល់ %1$s</item>
+        <item quantity="one">ក្នុងយោបល់ %1$s</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>ផ្កាយ %1$s&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>ផ្កាយ %1$s&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">ប្រើចុងក្រោយ %1$d ថ្ងៃមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយ %1$d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">ស្តារកម្មវិធី %1$d ដែលបានជ្រើស</item>
+        <item quantity="one">ស្តារកម្មវិធីដែលបានជ្រើស</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ផ្កាយ</item>
+        <item quantity="one">ផ្កាយ</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">កម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+        <item quantity="one">កម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">ការអាប់ដេតកម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+        <item quantity="one">ការអាប់ដេតកម្មវិធីនឹងត្រូវបានដំឡើងក្នុងពេលឆាប់ៗ</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">ប្រើចុងក្រោយកាលពី %1$d ថ្ងៃមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយកាលពី %1$d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">ប្រើចុងក្រោយកាលពី %1$d ខែមុន</item>
+        <item quantity="one">ប្រើចុងក្រោយកាលពី %1$d ខែមុន</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀនៅក្នុងការកំណត់ទំហំផ្ទុកបានផងដែរ។</item>
+        <item quantity="one">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀនៅក្នុងការកំណត់ទំហំផ្ទុកបានផងដែរ។</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀបានផងដែរនៅក្នុង &lt;a href=\"\">ការកំណត់ > ទំហំផ្ទុក&lt;/a>។</item>
+        <item quantity="one">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀបានផងដែរនៅក្នុង &lt;a href=\"\">ការកំណត់ > ទំហំផ្ទុក&lt;/a>។</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀបានផងដែរនៅក្នុង ការកំណត់ > ទំហំផ្ទុក។</item>
+        <item quantity="one">ដើម្បីដំឡើងកម្មវិធី ឬការអាប់ដេតនៅលើឧបករណ៍នេះ សូមលុបកម្មវិធីដែលអ្នកលែងត្រូវការចេញ។ អ្នកក៏អាចបង្កើនទំហំផ្ទុកដោយលុបឯកសារមេឌៀបានផងដែរនៅក្នុង ការកំណត់ > ទំហំផ្ទុក។</item>
+    </plurals>
+</resources>

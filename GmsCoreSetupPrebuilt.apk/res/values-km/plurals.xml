@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">កម្មវិធីទាំង %1$d</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">បានជ្រើសកម្មវិធី %1$d</item>
+        <item quantity="one">បានជ្រើសកម្មវិធី 1</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">កម្មវិធីចំនួន %1$d ត្រូវបានដំឡើងរួចហើយ</item>
+        <item quantity="one">កម្មវិធីចំនួន 1 ត្រូវបានដំឡើងរួចហើយ</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">ការបម្រុងទុករបស់អ្នកមានកម្មវិធី %1$d។ ជ្រើសយកកម្មវិធីមួយចំនួន ឬទាំងអស់។</item>
+        <item quantity="one">ការបម្រុងទុករបស់អ្នកមានកម្មវិធី %1$d។</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">ទំនាក់ទំនងឧបករណ៍ %1$d</item>
+        <item quantity="one">ទំនាក់ទំនងឧបករណ៍ 1</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">ស៊ីម %1$d ឧបករណ៍ %2$d</item>
+        <item quantity="one">ស៊ីម %1$d ឧបករណ៍ %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">ទំនាក់ទំនង iCloud® %1$d</item>
+        <item quantity="one">ទំនាក់ទំនង iCloud® 1</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">ទំនាក់ទំនងក្នុងស៊ីម %1$d</item>
+        <item quantity="one">ទំនាក់ទំនងក្នុងស៊ីម 1</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">យើងបានរកឃើញកម្មវិធីចំនួន %1$d។ ជ្រើសយកកម្មវិធីមួយចំនួន ឬទាំងអស់។</item>
+        <item quantity="one">យើងបានរកឃើញកម្មវិធីចំនួន %1$d។ តើអ្នកចង់យកវាដែរទេ?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">យើងបានរកឃើញកម្មវិធីមួយ ដែលដូចនឹងកម្មវិធី %1$d ក្នុងចំណោមកម្មវិធី iOS® របស់អ្នក។ ប្រសិនបើអ្នកដំឡើងកម្មវិធីនីមួយៗ មានន័យថាអ្នកយល់ព្រមតាមគោលការណ៍អនុញ្ញាតរបស់វា។ &lt;annotation id="apps_permissions_learn_more">ស្វែងយល់បន្ថែម&lt;/annotation></item>
+        <item quantity="one">យើងបានរកឃើញកម្មវិធីមួយ ដែលដូចនឹងកម្មវិធីមួយក្នុងចំណោម​កម្មវិធី iOS® របស់អ្នក។ ប្រសិនបើអ្នកដំឡើងកម្មវិធីនេះ មានន័យថាអ្នកយល់ព្រមតាមគោលការណ៍អនុញ្ញាតរបស់វា។ &lt;annotation id="apps_permissions_learn_more">ស្វែងយល់បន្ថែម&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">នៅសល់ធាតុ %1$d…</item>
+        <item quantity="one">នៅសល់ធាតុ %1$d…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">ប្រុងប្រយ័ត្ន! ព្រឹត្តិការណ៍នេះមិនរួមបញ្ចូលអ្នកចូលរួមខាងក្រោមទៀតទេ៖</item>
+        <item quantity="one">ប្រុងប្រយ័ត្ន! ព្រឹត្តិការណ៍នេះមិនរួមបញ្ចូលអ្នកចូលរួមខាងក្រោមទៀតទេ៖</item>
+    </plurals>
+</resources>

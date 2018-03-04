@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d தொடர்புகள் \"%2$s\" லேபிளில் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%1$d தொடர்பு, \"%2$s\" லேபிளில் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">\"%2$s\" லேபிளில் %1$d தொடர்புகளைச் சேர்க்கிறது</item>
+        <item quantity="one">\"%2$s\" லேபிளில் %1$d தொடர்பைச் சேர்க்கிறது</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d தொடர்புகளுக்குப் பரிந்துரைக்கப்படும் தகவலைச் சரிபார்க்கவும்</item>
+        <item quantity="one">%d தொடர்புக்குப் பரிந்துரைக்கப்படும் தகவலைச் சரிபார்க்கவும்</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d தேவையற்ற தொடர்புகள்</item>
+        <item quantity="one">%d தேவையற்ற தொடர்பு</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d நகல் தொடர்புகள்</item>
+        <item quantity="one">ஒரு நகல் தொடர்பு</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d சமீபத்திய அழைப்புகள் • கடைசியாக அழைத்தது: %2$s</item>
+        <item quantity="one">%1$d சமீபத்திய அழைப்பு • கடைசியாக அழைத்தது: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">\"%1$s\" லேபிளில் ஏற்கனவே தொடர்புகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">\"%1$s\" லேபிளில் ஏற்கனவே தொடர்பு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d தொடர்புகள்</item>
+        <item quantity="one">%d தொடர்பு</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d தொடர்புகள் · %2$s</item>
+        <item quantity="one">%1$d தொடர்பு · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d தொடர்புகள் நீக்கப்பட்டன</item>
+        <item quantity="one">%1$d தொடர்பு நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Google தொடர்புகளிலிருந்தும் ஒத்திசைத்த எல்லாச் சாதனங்களிலிருந்தும் இந்தத் தொடர்புகள் அகற்றப்படும்</item>
+        <item quantity="one">Google தொடர்புகளிலிருந்தும் ஒத்திசைத்த எல்லாச் சாதனங்களிலிருந்தும் இந்தத் தொடர்பு அகற்றப்படும்</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">பிற கணக்குகளில் %1$d தொடர்புகள்</item>
+        <item quantity="one">பிற கணக்குகளில் ஒரு தொடர்பு</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d தொடர்புகள்</item>
+        <item quantity="one">1 தொடர்பு</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 தொடர்புகள் • ^2</item>
+        <item quantity="one">^1 தொடர்பு • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">%1$d தொடர்புகளையும், %2$sக்கு நகர்த்தவா?</item>
+        <item quantity="one">தொடர்பை, %2$sக்கு நகர்த்தவா?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d தொடர்புகள் நகர்த்தப்பட்டன</item>
+        <item quantity="one">%d தொடர்பு நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d தொடர்புகள் நகர்த்தப்பட்டன</item>
+        <item quantity="one">தொடர்பு நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d தொடர்புகளை நகர்த்துகிறது</item>
+        <item quantity="one">தொடர்பை நகர்த்துகிறது</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d தொடர்புகள் %2$sக்குக் காப்புப் பிரதி எடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தொடர்பு %2$sக்குக் காப்புப் பிரதி எடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Iசிம் கார்டுகளிலிருந்து இறக்கவும்</item>
+        <item quantity="one">சிம் கார்டிலிருந்து இறக்கவும்</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d தொடர்புகள்</item>
+        <item quantity="one">1 தொடர்பு</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d சிம் தொடர்புகள் இறக்கப்பட்டன</item>
+        <item quantity="one">1 சிம் தொடர்பு இறக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">தொடர்புகளை இதில் பகிர்:</item>
+        <item quantity="one">தொடர்பை இதில் பகிர்:</item>
+    </plurals>
+</resources>

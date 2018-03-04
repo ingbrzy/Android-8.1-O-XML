@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">您的評分：%1$s 粒星</item>
+        <item quantity="one">您的評分：%1$s 粒星</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d 則評論</item>
+        <item quantity="one">%1$d 則評論</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d 則 %2$d 粒星評論</item>
+        <item quantity="one">%1$d 則 %2$d 粒星評論</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">個應用程式已暫停安裝</item>
+        <item quantity="one">個應用程式已暫停安裝</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">上次掃瞄應用程式的時間：%1$d 天前</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d 個有害的應用程式已移除。%2$s。</item>
+        <item quantity="one">%1$d 個有害的應用程式已移除。%2$s。</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">有 %1$d 項更新需要核准</item>
+        <item quantity="one">有 %1$d 項更新需要核准</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d 項更新</item>
+        <item quantity="one">%1$d 項更新</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d 項可用的更新</item>
+        <item quantity="one">%1$d 項可用的更新</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">全部更新</item>
+        <item quantity="one">更新</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d 個應用程式已更新</item>
+        <item quantity="one">%1$d 個應用程式已更新</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s 粒星</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s 粒星</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s 粒星 - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s 粒星 - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s 粒星 - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s 粒星 - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d 位使用者認為這則評論有用。將評論標為有用</item>
+        <item quantity="one">%1$d 位使用者認為這則評論有用。將評論標為有用</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d 位使用者認為這則評論實用。取消將評論標為實用。</item>
+        <item quantity="one">%1$d 位使用者認為這則評論實用。取消將評論標為實用。</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">已評為 &lt;b>%1$s 粒星&lt;/b></item>
+        <item quantity="one">已評為 &lt;b>%1$s 粒星&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">在 %1$s 則評論中找到</item>
+        <item quantity="one">在 %1$s 則評論中找到</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s 粒星&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s 粒星&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">上次使用：%1$d 天前</item>
+        <item quantity="one">上次使用：%1$d 天前</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">還原 %1$d 個已選的應用程式</item>
+        <item quantity="one">還原已選的應用程式</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">粒星</item>
+        <item quantity="one">粒星</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">即將安裝應用程式。</item>
+        <item quantity="one">即將安裝應用程式。</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">即將安裝應用程式更新。</item>
+        <item quantity="one">即將安裝應用程式更新。</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">上次使用：%1$d 天前</item>
+        <item quantity="one">上次使用：%1$d 天前</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">上次使用：%1$d 個月前</item>
+        <item quantity="one">上次使用：%1$d 個月前</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以在「儲存設定」中刪除媒體檔案，藉此騰出空間。</item>
+        <item quantity="one">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以在「儲存設定」中刪除媒體檔案，藉此騰出空間。</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以前往 &lt;a href=\"\">[設定] > [儲存空間]&lt;/a> 刪除媒體檔案，藉此騰出空間。</item>
+        <item quantity="one">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以前往 &lt;a href=\"\">[設定] > [儲存空間]&lt;/a> 刪除媒體檔案，藉此騰出空間。</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以前往 [設定] > [儲存空間] 刪除媒體檔案，藉此騰出空間。</item>
+        <item quantity="one">如要在這部裝置上安裝應用程式或更新，請刪除不再需要的應用程式。您也可以前往 [設定] > [儲存空間] 刪除媒體檔案，藉此騰出空間。</item>
+    </plurals>
+</resources>

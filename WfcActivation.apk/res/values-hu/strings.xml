@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Következő</string>
+    <string name="suw_back_button_label">Vissza</string>
+    <string name="suw_more_button_label">Továbbiak</string>
+    <string name="vzw_wfc_activation_error">A Wi-Fi-hívást nem sikerült aktiválni. Próbálja újra később.</string>
+    <string name="vzw_address_update_error">Jelenleg nem lehet frissíteni a segélyhívási címet. Próbálkozzon újra később.</string>
+    <string name="emergency_address_app_label">Segélyhívási cím kezelése</string>
+    <string name="progress_text">Kérjük, várjon…</string>
+    <string name="vzw_tos_title">Wi-Fi-hívás aktiválása</string>
+    <string name="cancel">Mégse</string>
+    <string name="vzw_tos_text">"A Wi-Fi-hívással hívást indíthat, amikor nem áll rendelkezésre mobilhálózat.
+
+A Wi-Fi-hívás beállításához amerikai egyesült államokbeli címet kell megadnia. A készenléti szervek ezt a címet fogják használni, ha Wi-Fi-hálózaton keresztül hívja a segélyhívószámot (E911) az Amerikai Egyesült Államokon belül.
+
+Ajánlott módosítani ezt a címet, ha másik Wi-Fi-hálózatról indít hívást, hogy tartózkodási helyének adatai pontosak legyenek. A helyet bármikor módosíthatja a Wi-Fi-hívás beállításaiban."</string>
+    <string name="vzw_tos_link">Szerződési Feltételek</string>
+    <string name="tos_continue">Folytatás</string>
+    <string name="vzw_e911_title">Vészhelyzeti helyinformáció</string>
+    <string name="vzw_e911_description"><b>FONTOS – 911 SEGÉLYHÍVÁSI CÍM KÖTELEZŐ</b>"
+A Wi-Fi-hívás bekapcsolásához adja meg azt az amerikai egyesült államokbeli címet, ahová a készenléti szerveknek menniük kell, amikor a 911-et tárcsázza. A Beállításokban bármikor módosíthatja ezt a címet. Nagyon fontos, hogy mindig aktualizálja a címet, ha megváltoztatja a tartózkodási helyét."</string>
+    <string name="vzw_e911_warning"><b>FIGYELMEZTETÉSEK – A 911-ES SEGÉLYHÍVÁSOK KORLÁTOZÁSAI</b>"
+Mindig közölje az operátorral a tartózkodási helyét, ha a 911-et hívja. A segélyhívás csak akkor fut majd Wi-Fi-hálózaton keresztül, ha a mobilhálózat nem áll rendelkezésre. Előfordulhat, hogy a Wi-Fi-hálózaton keresztül intézett segélyhívások késnek, illetve sikertelenek lesznek (például a segélyhívórendszer nem ismeri fel a címet, nincs áram, vagy a Wi-Fi-kapcsolat nem működik). A készenléti szerveket az Ön által fentebb megadott helyre küldjük, ezért helyváltoztatás esetén mindig frissítse tartózkodási helyét."</string>
+    <string name="house_number">Házszám</string>
+    <string name="street">Utca</string>
+    <string name="apt_suite_number">Lakás, ajtó stb.</string>
+    <string name="city">Település</string>
+    <string name="state">Állam</string>
+    <string name="zip_code">Irányítószám</string>
+    <string name="save">Mentés</string>
+    <string name="vzw_address_confirm_text_part1">Nem sikerült megtalálnunk a megadott címet, mivel az utca és házszám nem található, vagy helytelenül adta meg a települést, az államot vagy az irányítószámot.</string>
+    <string name="vzw_address_confirm_text_part2">Ha a megadott település, állam vagy irányítószám hibás, koppintson a(z) %1$s gombra, egyéb esetben pedig a(z) %2$s lehetőségre.</string>
+    <string name="save_anyway">Mindenképpen mentsen</string>
+    <string name="edit_address">Cím szerkesztése</string>
+    <string name="ok">Rendben</string>
+    <string name="vzw_address_select_text">Nem sikerült megtalálnunk a megadott címet:</string>
+    <string name="vzw_address_alternate_text">Keresési javaslat:</string>
+    <string name="vzw_partial_confirm_head">A megadott címet nem tudták ellenőrizni a készenléti szervek.</string>
+    <string name="vzw_partial_confirm_text">Biztosan ezt a címet szeretné használni vészhelyzet esetén?</string>
+    <string name="vzw_partial_failure_text_part1">Lehetséges, hogy a megadott település, állam vagy irányítószám nem helyes.</string>
+    <string name="vzw_partial_failure_text_part2">Ellenőrizze a címet, majd próbálkozzon újra.</string>
+    <string name="vzw_address_update_success_toast">A segélyhívási cím sikeresen frissült</string>
+    <string name="connect_to_wifi_or_web_portal_title">A Wi-Fi ki van kapcsolva</string>
+    <string name="connect_to_wifi_or_web_portal_message">A Wi-Fi-hívást beállíthatja mobilhálózaton, azonban a funkció használatához be kell kapcsolnia a Wi-Fi-t, és csatlakoznia kell egy hálózathoz.</string>
+    <string name="button_turn_on_wifi">Wi-Fi bekapcsolása</string>
+    <string name="button_setup_web_portal">Beállítás folytatása</string>
+</resources>

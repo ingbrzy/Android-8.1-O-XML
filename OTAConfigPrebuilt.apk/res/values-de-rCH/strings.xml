@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geräteeinrichtung</string>
+    <string name="sim_locked_notification_content">Fragen Sie %1$s, ob das Gerät entsperrt werden kann. Für Kontaktdaten hier tippen.</string>
+    <string name="sim_locked_notification_content_no_contact">Fragen Sie Ihren Mobilfunkanbieter, ob das Gerät entsperrt werden kann</string>
+    <string name="sim_locked_notification_title">SIM-Karte nicht unterstützt</string>
+    <string name="sim_unlock_failure_notification_content">Bitte wenden Sie sich an %1$s. Für weitere Informationen tippen.</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">Bitte wenden Sie sich an Ihren Mobilfunkanbieter</string>
+    <string name="sim_unlock_failure_notification_title">SIM-Lock konnte nicht aufgehoben werden</string>
+    <string name="sim_unlocked_notification_content">Das Gerät kann jetzt in jedem Mobilfunknetz verwendet werden</string>
+    <string name="sim_unlocked_notification_title">SIM-Lock aufgehoben</string>
+    <string name="zero_touch_disclaimer_no_contact_info">Dieses Gerät wird von einem Administrator verwaltet. Sollte es sich dabei um einen Irrtum handeln, wenden Sie sich bitte an den Anbieter des Geräts.</string>
+    <string name="zero_touch_disclaimer_with_support_link">Dieses Gerät wurde über %1$s so eingerichtet, dass es von Ihrer Organisation verwaltet wird. Sollte es sich dabei um einen Irrtum handeln, &lt;a href=%2$s>wenden Sie sich bitte an den Anbieter des Geräts&lt;/a>.&lt;br>&lt;br>Das Gerät wird mit folgender App verwaltet:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"Dieses Gerät wurde über %s so eingerichtet, dass es von Ihrer Organisation verwaltet wird. Sollte es sich dabei um einen Irrtum handeln, wenden Sie sich bitte an den Anbieter des Geräts.
+
+Das Gerät wird mit folgender App verwaltet:"</string>
+    <string name="zero_touch_header">Ihr Gerät für die Arbeit</string>
+    <string name="zero_touch_notification_content">Gerät wird demnächst automatisch zurückgesetzt</string>
+    <string name="zero_touch_notification_title">Gerät wird von einem Administrator verwaltet</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">Dieses Gerät wurde über %1$s so eingerichtet, dass es von Ihrer Organisation verwaltet wird. Sollte es sich dabei um einen Irrtum handeln, &lt;a href=%2$s>wenden Sie sich bitte an den Anbieter des Geräts&lt;/a>.&lt;br>&lt;br>Damit die Einrichtung fortgesetzt werden kann, muss das Gerät zurückgesetzt werden. Sämtliche Daten auf dem Gerät werden gelöscht.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"Dieses Gerät wurde über %s so eingerichtet, dass es von Ihrer Organisation verwaltet wird. Sollte es sich dabei um einen Irrtum handeln, wenden Sie sich bitte an den Anbieter des Geräts.
+
+Damit die Einrichtung fortgesetzt werden kann, muss das Gerät zurückgesetzt werden. Sämtliche Daten auf dem Gerät werden gelöscht."</string>
+    <string name="zero_touch_reset_now">Jetzt zurücksetzen</string>
+    <string name="zero_touch_reset_soon">Das Gerät wird demnächst automatisch zurückgesetzt.</string>
+    <string name="zero_touch_reset_wait">OK</string>
+    <string name="zero_touch_retrieving_header">Geräteinformationen werden geprüft…</string>
+    <string name="zero_touch_retrieving_text">Es dauert nur einen Moment</string>
+    <string name="zero_touch_support_title">Support</string>
+    <string name="zero_touch_url_error">Linkanzeige nicht möglich.</string>
+</resources>

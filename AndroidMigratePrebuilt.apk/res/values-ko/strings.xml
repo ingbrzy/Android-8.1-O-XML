@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="app_has_in_app_purchases">인앱 구매</string>
+    <string name="app_has_permissions">권한: %s</string>
+    <string name="app_has_runtime_permissions">앱에서 권한을 요청함</string>
+    <string name="app_picker_loading">사용할 수 있는 앱 검색 중...</string>
+    <string name="app_picker_loading_toast">사용할 수 있는 앱이 곧 로드됩니다.</string>
+    <string name="app_picker_no_apps">선택한 앱 없음</string>
+    <string name="app_picker_no_apps_found">앱이 없습니다.</string>
+    <string name="apps_permissions_described_v2">"인기 있는 무료 iOS® 앱만을 Android 앱에 일치시킬 수 있습니다. 대부분의 인앱 구매는 전송되지 않습니다. 설정이 완료되면 Play 스토어에서 앱을 더 확인할 수 있습니다.
+
+일부 앱에는 기기에서 특정 기능 또는 정보에 액세스할 수 있는 권한을 사전에 부여해야 할 수도 있습니다. 권한은 권한 그룹으로 구분됩니다. 이 앱을 설치하도록 선택하면 각 그룹에 속하는 권한을 부여하는 데 동의하게 됩니다. 다음은 각 권한 그룹에 관한 설명입니다.
+
+일부 앱은 사전 권한 부여가 필요 없을 수도 있습니다. 이런 앱 중 하나를 사용할 때 앱이 해당 유형의 데이터를 사용하기 전에 개별적으로 권한을 허용 또는 거부할 수 있습니다.
+
+"</string>
+    <string name="backup_d2d_migration_tool_activity_name">데이터 전송 도구</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">복사 안함</string>
+    <string name="close_button_label">닫기</string>
+    <string name="cloud_restore_app_picker_button">복원</string>
+    <string name="cloud_restore_app_picker_description_no_apps">백업에 앱이 없습니다.</string>
+    <string name="cloud_restore_app_picker_title">복원할 앱 선택</string>
+    <string name="common_cancel">취소</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_ok">확인</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google 주소록, iCloud® %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_and_sim_with_google">Google 주소록, SIM %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_with_google">Google 주소록, 기기 %1$d개</string>
+    <string name="contacts_number_icloud_with_google">Google 주소록, iCloud® %1$d개</string>
+    <string name="contacts_number_sim_with_google">Google 주소록, SIM %1$d개</string>
+    <string name="copy_confirmation_description">Google 계정 및 앱과 같은 데이터를 새 휴대전화로 복사합니다.</string>
+    <string name="copy_confirmation_title">새 휴대전화로 복사하시겠습니까?</string>
+    <string name="d2d_app_picker_description_no_apps">앱을 찾을 수 없습니다.</string>
+    <string name="d2d_app_picker_title">앱</string>
+    <string name="d2d_migration_canceled_on_source">복사가 취소되었습니다.</string>
+    <string name="data_copied_fragment_description">데이터가 새로운 휴대전화로 복사되었습니다. 케이블을 분리해도 됩니다.</string>
+    <string name="data_copied_fragment_description_cancel">복사를 중지하기로 결정했기 때문에 데이터 중 일부만 새로운 휴대전화로 복사되었습니다.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">복사를 중지하기로 결정했기 때문에 데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="data_copied_fragment_description_error">문제가 발생하여 일부를 복사할 수 없습니다.</string>
+    <string name="data_copied_fragment_description_error_no_data">문제가 발생하여 데이터를 복사할 수 없습니다.</string>
+    <string name="data_copied_fragment_no_data_title">복사할 수 없음</string>
+    <string name="data_copied_fragment_some_data_title">일부 데이터 복사됨</string>
+    <string name="data_copied_fragment_title">데이터 복사됨</string>
+    <string name="device_not_supported_fragment_new_device">새 휴대전화에 연결되었습니다. 계속하려면 이전 휴대전화를 다시 연결하세요.</string>
+    <string name="device_not_supported_fragment_new_device_title">이전 휴대전화에 다시 연결</string>
+    <string name="device_not_supported_fragment_no_data_cable">이 케이블은 데이터 전송용이 아닙니다. 다른 케이블로 연결하고 다시 시도해 주세요.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">다른 케이블 사용</string>
+    <string name="device_not_supported_fragment_retry_description">이전 휴대전화가 잠금 해제되었는지 확인한 후 케이블을 연결 해제했다 다시 연결합니다.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">오류 발생</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® 기기가 관리 대상이기 때문에 데이터를 복사할 다른 방법을 선택해야 합니다.</string>
+    <string name="device_picker_skip">복원하지 않음</string>
+    <string name="durationDayHour">%1$d일 %2$d시간</string>
+    <string name="durationDayHours">%1$d일 %2$d시간</string>
+    <string name="durationDays">%1$d일</string>
+    <string name="durationHourMinute">%1$d시간 %2$d분</string>
+    <string name="durationHourMinutes">%1$d시간 %2$d분</string>
+    <string name="durationHours">%1$d시간</string>
+    <string name="durationMinute">%1$d분</string>
+    <string name="durationMinutes">%1$d분</string>
+    <string name="encryption_warning_fragment_description">"백업 암호화가 iPhone® 기기에 사용 설정되어 있습니다. 본인이 백업 암호화를 사용 설정하지 않은 경우 IT 관리자에 의해 사용 설정되었을 수도 있습니다.
+
+사진, 음악, 동영상만 복사할 수 있습니다. 자세히 알아보려면 "<b>g.co/datatransferhelp</b>를 방문하세요.</string>
+    <string name="encryption_warning_fragment_title">백업 암호화</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="fragment_usb_cant_find_adapter">어댑터를 찾을 수 없음</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"^1이(가) 들어 있던 상자 안에서 Quick Switch Adapter를 찾습니다.
+
+케이블을 어댑터에 연결합니다."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">어댑터와 케이블 연결</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">이전 휴대전화를 잠금 해제하고 어댑터를 새 휴대전화에 연결합니다.</string>
+    <string name="fragment_usb_connect_both_phones_title">두 휴대전화 연결</string>
+    <string name="fragment_usb_dialog_cancel_description">케이블을 사용하는 경우 대부분의 콘텐츠를 가져올 수 있습니다. 상자에 들어 있는 케이블이 맞지 않으면 이전 휴대전화에서 작동하는 충전 또는 데이터 케이블을 사용해 보세요.</string>
+    <string name="fragment_usb_dialog_cancel_title">데이터를 다른 방법으로 복사하시겠습니까?</string>
+    <string name="fragment_usb_dont_copy">복사 안함</string>
+    <string name="fragment_usb_dont_have_cable">케이블이 없음</string>
+    <string name="fragment_usb_dont_have_old_phone">이전 휴대전화를 사용할 수 없나요?</string>
+    <string name="fragment_usb_find_cable_description">데이터 또는 충전 케이블 등 이전 휴대전화에 맞는 케이블을 사용합니다.</string>
+    <string name="fragment_usb_find_cable_title">올바른 케이블 찾기</string>
+    <string name="fragment_usb_initial_description">이전에 사용하던 Android 또는 iPhone® 기기가 필요합니다. 기기를 켠 다음 잠금 해제된 상태로 두시기 바랍니다.</string>
+    <string name="fragment_usb_initial_title">이전 휴대전화에서 데이터 복사</string>
+    <string name="fragment_usb_legacy_description">"가장 빨리 최대한 많은 데이터를 가져오는 방법입니다.
+
+상자에서 어댑터를 찾아 새 휴대전화에 연결합니다. 케이블을 사용하여 휴대전화 두 대를 연결한 후 기존 휴대전화를 잠금 해제합니다."</string>
+    <string name="fragment_usb_missing_data_description">전송하는 동안 Pixel 설정을 계속할 수 있습니다.</string>
+    <string name="fragment_usb_missing_data_title">데이터 복사</string>
+    <string name="fragment_usb_other_ways">케이블 없이 복사하기</string>
+    <string name="fragment_usb_plug_cable">케이블을 이전 휴대전화에 연결</string>
+    <string name="fragment_waiting_title">기다려 주세요</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google 주소록이 동기화됩니다.</string>
+    <string name="google_contacts_static_text_off">Google 주소록이 계속 동기화됩니다.</string>
+    <string name="i_message_dialog_message">"iPhone® 기기 사용자가 보낸 SMS 메시지를 계속 받으려면 iMessage®를 사용 중지해야 합니다.
+
+자세한 내용은 "<b>g.co/iMessageHelp</b>를 참조하세요.</string>
+    <string name="instructions_fragment_title">다른 휴대전화에서 계속</string>
+    <string name="ios_connected_fragment_description">"다음 화면에서 Google 계정에 로그인하거나 새로운 계정을 만들 수 있습니다.
+
+Google 계정을 추가하지 않으면 iOS Calendar® 일정이 전송되지 않습니다."</string>
+    <string name="ios_message_attachment_explanation">[메시지 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에 있습니다.]</string>
+    <string name="ios_message_attachment_failed_explanation">[일부 첨부파일은 복사할 수 없습니다. 전송된 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에 있습니다.]</string>
+    <string name="ios_message_attachment_placeholder">[Google 포토 > 기기 폴더 > 메시지 첨부파일에 첨부파일이 저장됨]</string>
+    <string name="ios_message_attachments_placeholder">[Google 포토 > 기기 폴더 > 메시지 첨부파일에 첨부파일이 저장됨]</string>
+    <string name="ios_migration_default_calendar_title">캘린더</string>
+    <string name="ios_migration_other_contact_relation">기타</string>
+    <string name="ios_photos_dialog_message">"iCloud®에 저장된 사진은 복사할 수 없습니다.
+
+^1(으)로 사진을 가져오려면, iPhone® 기기에 Google 포토 앱을 설치하고 백업 및 동기화를 사용 설정하세요. 자세한 내용은 "<b>g.co/datatransferhelp</b>를 방문하세요.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">다음</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">전체</string>
+    <string name="photos_filtering_option_none">없음</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">복사된 연락처가 Google 계정에 저장됩니다.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">복사된 연락처와 캘린더가 Google 계정에 저장됩니다.</string>
+    <string name="restore_choice_data_disclaimer_v2">일부 데이터가 ^1에 복사되지 않았을 수 있습니다. <annotation id="restore_choice_data_disclaimer_learn_more">자세히 알아보기</annotation></string>
+    <string name="restore_choice_deselect_some_content">계속하려면 일부 콘텐츠를 선택 해제합니다.</string>
+    <string name="restore_choice_learn_more_android">"이전 휴대전화에 있는 다음과 같은 데이터는 자동으로 복사되지 않습니다.
+
+ ● 다운로드(예: PDF 파일)
+
+ ● 숨긴 폴더에 저장된 사진, 동영상 및 음악
+
+ ● 문자 메시지를 통해 받은 사진, 동영상 및 음악
+
+ ● Google Play 스토어에서 다운로드하지 않은 앱
+
+ ● 앱 데이터(앱이 Android 백업을 사용하지 않는 경우)
+
+ ● 특정 기기 설정
+
+ ● Google 계정 이외의 계정(및 모든 관련 데이터)
+
+ ● Google 이외의 서비스에 동기화된 주소록 및 캘린더
+
+ ● 벨소리
+
+ 이러한 데이터를 복사하기 위해 더 자세한 내용과 도움이 필요한 경우 g.co/datatransferhelp를 방문하세요."</string>
+    <string name="restore_choice_learn_more_ios">"이전 휴대전화의 데이터 중 다음 데이터는 자동으로 복사되지 않습니다.
+
+ ● 앱 및 앱 데이터
+
+ ● 원본이 휴대전화에 저장되어 있지 않은 사진(예를 들어, 저장용량 최적화 설정을 사용하도록 설정되어 있는 경우 원본 사진은 iCloud®에 저장됨)
+
+ ● iCloud®에 저장된 파일 및 문서
+
+ ● 기기 설정(Wi-Fi 비밀번호 및 배경화면 등)
+
+ ● 디지털 권한 관리(DRM) 보호로 보호되는 음악(예를 들어 2009년 4월 이전에 구매한 iTunes® 음악 또는 음악 스트리밍 앱으로 오프라인 감상을 위해 다운로드한 음악)
+
+ ● Google 계정이 아닌 계정(및 모든 관련 데이터)
+
+ ● Google이나 iCloud®가 아닌 서비스와 동기화된 연락처 및 캘린더
+
+ ● Safari® 북마크
+
+ iMessage® 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에서 사용할 수 있습니다.
+
+ 이 데이터 복사와 관련된 자세한 내용과 도움이 필요한 경우 g.co/datatransferhelp를 방문하세요."</string>
+    <string name="restore_choice_not_enough_space">저장 공간이 충분하지 않습니다.</string>
+    <string name="restore_choice_total_text">사용 가능한 공간: %1$s / 예상 전송 시간: %2$s</string>
+    <string name="restore_item_appdata">앱 데이터</string>
+    <string name="restore_item_calendar">캘린더</string>
+    <string name="restore_item_calendar_ical_description">iOS® 캘린더, Google 캘린더</string>
+    <string name="restore_item_calendar_ical_off_description">Google 캘린더가 여전히 동기화됩니다.</string>
+    <string name="restore_item_calendar_sync_description">Google 캘린더가 동기화됩니다.</string>
+    <string name="restore_item_call_logs">통화 기록</string>
+    <string name="restore_item_contacts">주소록</string>
+    <string name="restore_item_device_settings_description">Wi-Fi 비밀번호 및 기타</string>
+    <string name="restore_item_downloads">다운로드</string>
+    <string name="restore_item_email">이메일</string>
+    <string name="restore_item_email_description">Gmail이 동기화됩니다.</string>
+    <string name="restore_item_message_attachments">메시지 첨부파일</string>
+    <string name="restore_item_messages">메시지</string>
+    <string name="restore_item_music">음악</string>
+    <string name="restore_item_photos">사진 및 동영상</string>
+    <string name="restore_item_settings">기기 설정</string>
+    <string name="restore_item_sms">SMS 메시지</string>
+    <string name="restore_item_will_be_synced_text">휴대전화에 동기화됩니다.</string>
+    <string name="restore_progress_title">복원 중…</string>
+    <string name="search_menu_title">검색</string>
+    <string name="small_time_duration">1분 미만</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">닫기</string>
+    <string name="stop_copying_dialog_message_before_transfer">데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="stop_copying_dialog_message_during_transfer">일부 데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">복사 안함</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">중지</string>
+    <string name="stop_copying_dialog_title_before_transfer">복사하지 않으시겠습니까?</string>
+    <string name="stop_copying_dialog_title_during_transfer">복사를 중지하시겠습니까?</string>
+    <string name="suw_back_button_label">뒤로</string>
+    <string name="suw_more_button_label">더보기</string>
+    <string name="suw_next_button_label">다음</string>
+    <string name="target_default_source_device_model">이전 기기</string>
+    <string name="target_device_not_supported_cant_continue_description">데이터를 복사할 다른 방법을 선택해야 합니다.</string>
+    <string name="target_device_not_supported_cant_continue_title">다른 휴대전화는 지원되지 않음</string>
+    <string name="target_device_not_supported_try_restarting_description">"케이블을 연결 해제하고 이전 휴대전화를 다시 시작한 다음 케이블을 다시 연결하고 Pixel의 안내에 따르세요.
+
+오류가 계속 표시되는 경우 다른 방법으로 복사를 시도해야 할 수 있습니다."</string>
+    <string name="target_device_not_supported_try_restarting_title">휴대전화가 지원되지 않을 수 있음</string>
+    <string name="target_pixelmigrate_notification_description">사용 가능 또는 진행 중</string>
+    <string name="target_pixelmigrate_notification_title">데이터 전송</string>
+    <string name="target_smart_device_timeout_add_account">계정 추가</string>
+    <string name="target_smart_device_timeout_description">원하는 경우 계정을 수동으로 추가해볼 수도 있습니다.</string>
+    <string name="target_smart_device_timeout_dismiss">닫기</string>
+    <string name="target_smart_device_timeout_title">문제가 발생했나요?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">휴대전화가 연결되었습니다.</string>
+    <string name="toast_reconnect_cable">케이블 다시 연결</string>
+    <string name="transfer_finished_fragment_title">설정 마무리 중 ...</string>
+    <string name="transfer_summary_copied">데이터 복사됨</string>
+    <string name="transfer_summary_fragment_description">케이블을 분리하세요.</string>
+    <string name="transfer_summary_fragment_finish">완료</string>
+    <string name="transfer_summary_fragment_title">휴대전화가 거의 준비됨</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">일부 사진이 복사되지 않았습니다. <annotation id="transfer_summary_learn_more">자세히 알아보기</annotation></string>
+    <string name="transfer_summary_not_copied">데이터가 복사되지 않음</string>
+    <string name="transfer_summary_partial">%1$s/%2$s개 복사됨</string>
+    <string name="transfer_summary_will_sync">설치 후에 데이터가 동기화됩니다.</string>
+    <string name="transferring_fragment_calculating_remaining_time">남은 시간 계산 중...</string>
+    <string name="transferring_fragment_header">복사 중...</string>
+    <string name="transferring_fragment_remaining_time">%1$s 남음</string>
+    <string name="trust_instructions_description">계속하려면 iPhone® 기기를 확인하고 연결을 승인하세요.</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, iTunes는 미국과 기타 국가에 등록된 Apple Inc.의 상표입니다.</string>
+</resources>

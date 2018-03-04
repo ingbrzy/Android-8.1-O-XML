@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d জন ব্যক্তি %1$s তারা রেট দিয়েছেন</item>
+        <item quantity="one">%2$d জন ব্যক্তি %1$s তারা রেট দিয়েছেন</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d দিনের মধ্যে মেয়াদ শেষ হবে</item>
+        <item quantity="one">%1$d দিনের মধ্যে মেয়াদ শেষ হবে</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d ঘন্টার মধ্যে মেয়াদ শেষ হবে</item>
+        <item quantity="one">%1$d ঘন্টার মধ্যে মেয়াদ শেষ হবে</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">আরো %1$dটি</item>
+        <item quantity="one">আরো %1$dটি</item>
+    </plurals>
+    <plurals name="details_some_episodes_available">
+        <item quantity="other">%1$sটি এপিসোড দেখা যাবে</item>
+        <item quantity="one">%1$sটি এপিসোড দেখা যাবে</item>
+    </plurals>
+</resources>

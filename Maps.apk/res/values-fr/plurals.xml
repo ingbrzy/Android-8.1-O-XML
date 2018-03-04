@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="AAP_SUGGEST_LABEL">
+        <item quantity="other">Correspondances possibles à proximité</item>
+        <item quantity="one">Correspondance possible à proximité</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f étoiles</item>
+        <item quantity="one">%.1f étoile</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d étoiles</item>
+        <item quantity="one">%d étoile</item>
+    </plurals>
+    <plurals name="ADD_PHOTOS_MORE_PHOTOS_COUNT">
+        <item quantity="other">+ %d photos</item>
+        <item quantity="one">+ %d photo</item>
+    </plurals>
+    <plurals name="CAR_BUSINESS_ATTRIBUTION">
+        <item quantity="other">Sources : %s</item>
+        <item quantity="one">Source : %s</item>
+    </plurals>
+    <plurals name="CONTRIBUTIONS_SHARE_DESCRIPTION_LOCAL_GUIDE">
+        <item quantity="other">Local Guide de niveau %d</item>
+        <item quantity="one">Local Guide de niveau %d</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="DA_DAYS_ABBREVIATED">
+        <item quantity="other">%s j</item>
+        <item quantity="one">%s j</item>
+    </plurals>
+    <plurals name="DA_DAYS_SHORT">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="DA_HOURS_ABBREVIATED">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="DA_MINUTES_ABBREVIATED">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="DA_MINUTES_BARE_FOLLOWING_HOURS">
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Continuer sur %1$s pieds</item>
+        <item quantity="one">Continuer sur %1$s pied</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Continuer sur %1$s kilomètres</item>
+        <item quantity="one">Continuer sur %1$s kilomètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Continuer sur %1$s mètres</item>
+        <item quantity="one">Continuer sur %1$s mètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Continuer sur %1$s miles</item>
+        <item quantity="one">Continuer sur %1$s mile</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Continuer sur %1$s yards</item>
+        <item quantity="one">Continuer sur %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Continuer sur %2$s pendant %1$s pieds</item>
+        <item quantity="one">Continuer sur %2$s pendant %1$s pied</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Continuer sur %2$s pendant %1$s kilomètres</item>
+        <item quantity="one">Continuer sur %2$s pendant %1$s kilomètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Continuer sur %2$s pendant %1$s mètres</item>
+        <item quantity="one">Continuer sur %2$s pendant %1$s mètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Continuer sur %2$s pendant %1$s miles</item>
+        <item quantity="one">Continuer sur %2$s pendant %1$s mile</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Continuer sur %2$s pendant %1$s yards</item>
+        <item quantity="one">Continuer sur %2$s pendant %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Dans %1$s pieds</item>
+        <item quantity="one">Dans %1$s pied</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Dans %1$s kilomètres</item>
+        <item quantity="one">Dans %1$s kilomètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Dans %1$s mètres</item>
+        <item quantity="one">Dans %1$s mètre</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Dans %1$s miles</item>
+        <item quantity="one">Dans %1$s mile</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Dans %1$s yards</item>
+        <item quantity="one">Dans %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEED_FORMAT_KILOMETERS_PER_HOUR_EXTENDED">
+        <item quantity="other">%s kilomètres/heure</item>
+        <item quantity="one">%s kilomètre/heure</item>
+    </plurals>
+    <plurals name="DA_SPEED_FORMAT_MILES_PER_HOUR_EXTENDED">
+        <item quantity="other">%s miles/heure</item>
+        <item quantity="one">%s mile/heure</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_FEET_AHEAD">
+        <item quantity="other">Vous atteindrez votre destination dans %1$s pieds.</item>
+        <item quantity="one">Vous atteindrez votre destination dans %1$s pied.</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_KILOMETERS_AHEAD">
+        <item quantity="other">Vous atteindrez votre destination dans %1$s kilomètres.</item>
+        <item quantity="one">Vous atteindrez votre destination dans %1$s kilomètre.</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_METERS_AHEAD">
+        <item quantity="other">Vous atteindrez votre destination dans %1$s mètres.</item>
+        <item quantity="one">Vous atteindrez votre destination dans %1$s mètre.</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_MILES_AHEAD">
+        <item quantity="other">Vous atteindrez votre destination dans %1$s miles.</item>
+        <item quantity="one">Vous atteindrez votre destination dans %1$s mile.</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_YARDS_AHEAD">
+        <item quantity="other">Vous atteindrez votre destination dans %1$s yards.</item>
+        <item quantity="one">Vous atteindrez votre destination dans %1$s yard.</item>
+    </plurals>
+    <plurals name="DIRECTIONS_COUNT_STOPS">
+        <item quantity="other">%d étapes</item>
+        <item quantity="one">%d étape</item>
+    </plurals>
+    <plurals name="DIRECTIONS_MORE_TRAFFIC_DISRUPTIONS">
+        <item quantity="other">%1$s autres perturbations du trafic</item>
+        <item quantity="one">%1$s autre perturbation du trafic</item>
+    </plurals>
+    <plurals name="EDIT_PUBLISHED_NOTIFICATION_TITLE">
+        <item quantity="other">Nombre de modifications publiées : %d</item>
+        <item quantity="one">Nombre de modifications publiées : %d</item>
+    </plurals>
+    <plurals name="HOTEL_RESERVATION_NUMBER_OF_NIGHTS_TEXT">
+        <item quantity="other">%d nuits</item>
+        <item quantity="one">%d nuit</item>
+    </plurals>
+    <plurals name="HOTEL_STAR_CLASS">
+        <item quantity="other">Hôtel %d étoiles</item>
+        <item quantity="one">Hôtel %d étoile</item>
+    </plurals>
+    <plurals name="LAST_HERE_DAYS_AGO">
+        <item quantity="other">Vous avez visité ce lieu il y a %d jours</item>
+        <item quantity="one">Vous avez visité ce lieu il y a %d jour</item>
+    </plurals>
+    <plurals name="LAST_HERE_MONTHS_AGO">
+        <item quantity="other">Vous avez visité ce lieu il y a %d mois</item>
+        <item quantity="one">Vous avez visité ce lieu il y a %d mois</item>
+    </plurals>
+    <plurals name="LAST_HERE_WEEKS_AGO">
+        <item quantity="other">Vous avez visité ce lieu il y a %d semaines</item>
+        <item quantity="one">Vous avez visité ce lieu il y a %d semaine</item>
+    </plurals>
+    <plurals name="LAST_HERE_YEARS_AGO">
+        <item quantity="other">Vous avez visité ce lieu il y a %d ans</item>
+        <item quantity="one">Vous avez visité ce lieu il y a %d an</item>
+    </plurals>
+    <plurals name="LIST_COUNT_PLACES">
+        <item quantity="other">%d lieux</item>
+        <item quantity="one">%d lieu</item>
+    </plurals>
+    <plurals name="LOCAL_GUIDES_POINTS_TEXT">
+        <item quantity="other">%d points</item>
+        <item quantity="one">%d point</item>
+    </plurals>
+    <plurals name="LOCAL_GUIDE_CURRENT_LEVEL">
+        <item quantity="other">Niveau %d</item>
+        <item quantity="one">Niveau %d</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_DAYS_AGO">
+        <item quantity="other">Dernière mise à jour : il y a %d jours</item>
+        <item quantity="one">Dernière mise à jour : il y a %d jour</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_DAYS_AGO_SHORT">
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y a %d jour</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_HOURS_AGO">
+        <item quantity="other">Dernière mise à jour : il y a %d heures</item>
+        <item quantity="one">Dernière mise à jour : il y a %d heure</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_HOURS_AGO_SHORT">
+        <item quantity="other">il y a %d heures</item>
+        <item quantity="one">il y a %d heure</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_MINUTES_ABBREVIATED_AGO">
+        <item quantity="other">Dernière mise à jour : il y a %d min</item>
+        <item quantity="one">Dernière mise à jour : il y a %d min</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_MINUTES_ABBREVIATED_AGO_SHORT">
+        <item quantity="other">il y a %d min</item>
+        <item quantity="one">il y a %d min</item>
+    </plurals>
+    <plurals name="MAPS_ACTIVITY_PHOTOS_REMOVED">
+        <item quantity="other">Photos supprimées</item>
+        <item quantity="one">Photo supprimée</item>
+    </plurals>
+    <plurals name="MONTHS_AGO">
+        <item quantity="other">Il y a %d mois</item>
+        <item quantity="one">Il y a %d mois</item>
+    </plurals>
+    <plurals name="MY_MAPS_PHOTO_VIDEO_COUNT">
+        <item quantity="other">%d photos/vidéos</item>
+        <item quantity="one">%d photo/vidéo</item>
+    </plurals>
+    <plurals name="MY_MAPS_VIDEO_COUNT">
+        <item quantity="other">%d vidéos</item>
+        <item quantity="one">%d vidéo</item>
+    </plurals>
+    <plurals name="NUMBER_OF_CONTRIBUTIONS">
+        <item quantity="other">%d contributions</item>
+        <item quantity="one">%d contribution</item>
+    </plurals>
+    <plurals name="NUMBER_OF_LOCAL_GUIDE_POINTS">
+        <item quantity="other">%d points</item>
+        <item quantity="one">%d point</item>
+    </plurals>
+    <plurals name="NUMBER_OF_PLACES">
+        <item quantity="other">%d lieux</item>
+        <item quantity="one">%d lieu</item>
+    </plurals>
+    <plurals name="OFFLINE_MAPS_CARD_TITLE">
+        <item quantity="other">%d zones hors connexion</item>
+        <item quantity="one">%d zone hors connexion</item>
+    </plurals>
+    <plurals name="PERSONAL_CALENDAR_EVENTS_TITLE">
+        <item quantity="other">Événements ajoutés à partir de Google Agenda</item>
+        <item quantity="one">Événement ajouté à partir de Google Agenda</item>
+    </plurals>
+    <plurals name="PERSONAL_CALENDAR_OTHER_PARTICIPANTS_COUNT">
+        <item quantity="other">%d autres</item>
+        <item quantity="one">%d autre</item>
+    </plurals>
+    <plurals name="PERSONAL_GMAIL_RESERVATIONS_AND_CALENDAR_EVENTS_TITLE">
+        <item quantity="other">Événements ajoutés à partir de Gmail et Google Agenda</item>
+        <item quantity="one">Événement ajouté à partir de Gmail et Google Agenda</item>
+    </plurals>
+    <plurals name="PERSONAL_GMAIL_RESERVATIONS_TITLE">
+        <item quantity="other">Réservations ajoutées à partir de Gmail</item>
+        <item quantity="one">Réservation ajoutée à partir de Gmail</item>
+    </plurals>
+    <plurals name="PERSONAL_RESERVATIONS_SUBTITLE">
+        <item quantity="other">Visibles par vous uniquement</item>
+        <item quantity="one">Visible par vous uniquement</item>
+    </plurals>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="PHOTOS_UPLOADING_PHOTOS">
+        <item quantity="other">Importation de %d photos</item>
+        <item quantity="one">Importation de %d photo</item>
+    </plurals>
+    <plurals name="PHOTO_TAKEN_NOTIFICATION_TAP_TO_ADD_PHOTO_MULTIPLE">
+        <item quantity="other">Ajoutez %1$d photos à %2$s.</item>
+        <item quantity="one">Ajoutez %1$d photo à %2$s.</item>
+    </plurals>
+    <plurals name="PHOTO_TITLE">
+        <item quantity="other">Photos</item>
+        <item quantity="one">Photo</item>
+    </plurals>
+    <plurals name="PLACE_PAGE_EXPANDED_NUMBER_OF_REVIEWS">
+        <item quantity="other">%d avis</item>
+        <item quantity="one">%d avis</item>
+    </plurals>
+    <plurals name="PLACE_PENDING_EDIT_MORE_EDITS">
+        <item quantity="other">+ %d modifications</item>
+        <item quantity="one">+ %d modification</item>
+    </plurals>
+    <plurals name="PLUS_N_OTHER_SHARES">
+        <item quantity="other">+ %d autres partages</item>
+        <item quantity="one">+ %d autre partage</item>
+    </plurals>
+    <plurals name="POI_PROMPT_REPLACE_STOP">
+        <item quantity="other">Remplacer</item>
+        <item quantity="one">Remplacer</item>
+    </plurals>
+    <plurals name="POI_PROMPT_REPLACE_STOP_ACTION">
+        <item quantity="other">Remplacement des étapes</item>
+        <item quantity="one">"Remplacement de l'étape"</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_PHOTO_VIEWS">
+        <item quantity="other">%,d vues</item>
+        <item quantity="one">%,d vue</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_RATINGS">
+        <item quantity="other">%d notes</item>
+        <item quantity="one">%d note</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">%d avis</item>
+        <item quantity="one">%d avis</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_PHOTOS">
+        <item quantity="other">photos</item>
+        <item quantity="one">photo</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_REVIEWS">
+        <item quantity="other">avis</item>
+        <item quantity="one">avis</item>
+    </plurals>
+    <plurals name="QUESTIONS_REMAINING">
+        <item quantity="other">+ %d questions.</item>
+        <item quantity="one">+ %d question.</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_DAYS_AGO_NOTICE">
+        <item quantity="other">il y a %d jours</item>
+        <item quantity="one">il y a %d jour</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_HOURS_AGO_NOTICE">
+        <item quantity="other">mis à jour il y a %d h</item>
+        <item quantity="one">mis à jour il y a %d h</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_MINUTES_AGO_CONTENT_DESCRIPTION">
+        <item quantity="other">mis à jour il y a %d minutes</item>
+        <item quantity="one">mis à jour il y a %d minute</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_MINUTES_AGO_NOTICE">
+        <item quantity="other">mis à jour il y a %d min</item>
+        <item quantity="one">mis à jour il y a %d min</item>
+    </plurals>
+    <plurals name="RELATED_PLACES_MORE">
+        <item quantity="other">+ %d autres</item>
+        <item quantity="one">+ %d autre</item>
+    </plurals>
+    <plurals name="RESERVATION_PARTY_SIZE">
+        <item quantity="other">%d personnes</item>
+        <item quantity="one">%d personne</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s et %2$d modérateurs</item>
+        <item quantity="one">%1$s et %2$d modérateur</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d modérateurs</item>
+        <item quantity="one">%d modérateur</item>
+    </plurals>
+    <plurals name="REVIEW_THUMBS_UP_PEOPLE_COUNT">
+        <item quantity="other">%d personnes</item>
+        <item quantity="one">%d personne</item>
+    </plurals>
+    <plurals name="ROAD_CLOSURES_CARD_TITLE">
+        <item quantity="other">Routes fermées</item>
+        <item quantity="one">Route fermée</item>
+    </plurals>
+    <plurals name="SAVED_IN_MORE_LISTS_COUNT">
+        <item quantity="other">%d autres listes</item>
+        <item quantity="one">%d autre liste</item>
+    </plurals>
+    <plurals name="SAVE_VISIT_N_DAYS_AGO">
+        <item quantity="other">"Enregistrer votre visite d'il y a %d jours ?"</item>
+        <item quantity="one">"Enregistrer votre visite d'il y a %d jour ?"</item>
+    </plurals>
+    <plurals name="SEARCH_SUGGESTED_SET_SUBTITLE_MORE_COUNT">
+        <item quantity="other">et %d autres</item>
+        <item quantity="one">et %d autre</item>
+    </plurals>
+    <plurals name="SEAT_COUNT_LABEL">
+        <item quantity="other">%d passagers</item>
+        <item quantity="one">%d passager</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_DAYS">
+        <item quantity="other">pendant %d jours</item>
+        <item quantity="one">pendant %d jour</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_HOURS">
+        <item quantity="other">pendant %d heures</item>
+        <item quantity="one">pendant %d heure</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_MINUTES_ABBREVIATED">
+        <item quantity="other">pendant %d min</item>
+        <item quantity="one">pendant %d min</item>
+    </plurals>
+    <plurals name="STARTING_PHOTO_UPLOADS_TITLE">
+        <item quantity="other">"Début de l'ajout de %d photos à Maps"</item>
+        <item quantity="one">"Début de l'ajout de %d photo à Maps"</item>
+    </plurals>
+    <plurals name="TODO_PHOTO_MORE_PHOTOS">
+        <item quantity="other">+ %d autres</item>
+        <item quantity="one">+ %d autre</item>
+    </plurals>
+    <plurals name="TRANSIT_DETAILS_FREQUENT_DEPARTURE">
+        <item quantity="other">Départ dans %1$s min</item>
+        <item quantity="one">Départ dans %1$s min</item>
+    </plurals>
+    <plurals name="TRANSIT_DETAILS_FREQUENT_TWO_DEPARTURES">
+        <item quantity="other">Départ dans %1$s et %2$s min</item>
+        <item quantity="one">Départ dans %1$s et %2$s min</item>
+    </plurals>
+    <plurals name="TRANSIT_NUMBER_OF_ALERTS_TITLE">
+        <item quantity="other">%d alertes</item>
+        <item quantity="one">%d alerte</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d arrêts</item>
+        <item quantity="one">%d arrêt</item>
+    </plurals>
+    <plurals name="TRANSIT_RADAR_MORE_ALERTS_HIDDEN">
+        <item quantity="other">Et %d autres alertes</item>
+        <item quantity="one">Et %d autre alerte</item>
+    </plurals>
+    <plurals name="TRANSIT_SCHEMATIC_MAP_DEFAULT_BUTTON_TITLE">
+        <item quantity="other">Cartes des transports en commun</item>
+        <item quantity="one">Carte des transports en commun</item>
+    </plurals>
+    <plurals name="TRIP_LEVEL_NOTICES_MORE_BUTTON">
+        <item quantity="other">%1$s autres avertissements</item>
+        <item quantity="one">%1$s autre avertissement</item>
+    </plurals>
+    <plurals name="UGC_ATTRIBUTION_PHOTOS">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="UGC_ATTRIBUTION_REVIEWS">
+        <item quantity="other">%d avis</item>
+        <item quantity="one">%d avis</item>
+    </plurals>
+    <plurals name="UGC_TASKS_POST_SUBMIT_DIALOG_TITLE">
+        <item quantity="other">Vous avez fait %d découvertes</item>
+        <item quantity="one">Vous avez fait %d découverte</item>
+    </plurals>
+    <plurals name="UNIFIED_PHOTO_UPLOAD_FLOW_NUM_OF_PHOTOS_SELECTED">
+        <item quantity="other">%d photos sélectionnées</item>
+        <item quantity="one">%d photo sélectionnée</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TEXT">
+        <item quantity="other">%1$d sur %2$d</item>
+        <item quantity="one">%1$d sur %2$d</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TITLE">
+        <item quantity="other">Ajout de %d photos à Google Maps...</item>
+        <item quantity="one">Ajout de %d photo à Google Maps...</item>
+    </plurals>
+    <plurals name="UPLOAD_PENDING_TASK_TITLE">
+        <item quantity="other">"En attente de connexion Wi-Fi.
+ %d photos en attente."</item>
+        <item quantity="one">"En attente de connexion Wi-Fi.
+ %d photo en attente."</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_DISCLAIMER_TITLEBAR">
+        <item quantity="other">(%d) photos postées en mode public</item>
+        <item quantity="one">(%d) photo postée en mode public</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_DISCLAIMER_TITLEBAR_NO_COUNT">
+        <item quantity="other">Photos postées en mode public</item>
+        <item quantity="one">Photo postée en mode public</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_PHOTOS_SELECTED">
+        <item quantity="other">%d photos sélectionnées</item>
+        <item quantity="one">%d photo sélectionnée</item>
+    </plurals>
+    <plurals name="WEEKS_AGO">
+        <item quantity="other">Il y a %d semaines</item>
+        <item quantity="one">Il y a %d semaine</item>
+    </plurals>
+    <plurals name="YEARS_AGO">
+        <item quantity="other">Il y a %d ans</item>
+        <item quantity="one">Il y a %d an</item>
+    </plurals>
+</resources>

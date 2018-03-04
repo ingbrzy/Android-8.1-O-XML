@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Edasi</string>
+    <string name="suw_back_button_label">Tagasi</string>
+    <string name="suw_more_button_label">Rohkem</string>
+    <string name="vzw_wfc_activation_error">WiFi-kõnesid ei saa aktiveerida. Proovige hiljem uuesti.</string>
+    <string name="vzw_address_update_error">Praegust hädaabi aadressi ei saa hetkel värskendada. Proovige hiljem uuesti.</string>
+    <string name="emergency_address_app_label">Hädaabi aadressi haldamine</string>
+    <string name="progress_text">Oodake …</string>
+    <string name="vzw_tos_title">WiFi kaudu helistamise aktiveerimine</string>
+    <string name="cancel">Tühista</string>
+    <string name="vzw_tos_text">"WiFi kaudu helistamine võimaldab teil helistada, kui mobiilsidevõrk pole saadaval.
+
+WiFi kaudu helistamise seadistamiseks peate sisestama USA-s asuva aadressi. Seda aadressi kasutavad teie asukohas olevad hädaabiteenused, kui teete selle telefoniga USA-s WiFi kaudu hädaabikõne (E911).
+
+Soovitame teil aadressi muuta, kui teete kõnesid teise WiFi-võrgu kaudu, et teie asukohateave oleks täpne. Saate oma asukohta WiFi kaudu helistamise seadete menüüs alati muuta."</string>
+    <string name="vzw_tos_link">Nõuded ja tingimused</string>
+    <string name="tos_continue">Jätka</string>
+    <string name="vzw_e911_title">Hädaabi asukoha teave</string>
+    <string name="vzw_e911_description"><b>TÄHTIS – NÕUTAV ON 911 HÄDAABI AADRESS</b>"
+WiFi kaudu helistamise sisselülitamiseks sisestage USA-s asuv aadress, kuhu soovite lasta saata hädaabiteenused, kui helistate numbrile 911. Seda aadressi saate menüüs Seaded alati muuta. Väga oluline on seda aadressi värskendada, kui teie asukoht muutub."</string>
+    <string name="vzw_e911_warning"><b>HOIATUSED – 911 HÄDAABIKÕNE PIIRANGUD</b>"
+Kui helistate numbrile 911, öelge operaatorile alati oma asukoht. Teie 911 kõne tehakse WiFi kaudu ainult siis, kui mobiilsidevõrk pole saadaval. WiFi kaudu tehtud 911 kõne puhul võib esineda viivitusi või see võib ebaõnnestuda. Näiteks kui 911 süsteem ei tuvasta aadressi, esineb voolukatkestusi või WiFi-ühendus ei tööta. Hädaabiteenused saadetakse ülal esitatud aadressile, seetõttu värskendage aadressi, kui teie asukoht muutub."</string>
+    <string name="house_number">Aadressi number</string>
+    <string name="street">Tänav</string>
+    <string name="apt_suite_number">Korter, sviit jne.</string>
+    <string name="city">Linn</string>
+    <string name="state">Osariik</string>
+    <string name="zip_code">Sihtnumber</string>
+    <string name="save">Salvesta</string>
+    <string name="vzw_address_confirm_text_part1">Me ei leidnud teie sisestatud aadressi, kuna tänava aadressi ei leitud või linn, osariik või sihtnumber võib olla vale.</string>
+    <string name="vzw_address_confirm_text_part2">Kui linn, osariik või sihtnumber on vale, puudutage nuppu %1$s, muul juhul puudutage nuppu %2$s.</string>
+    <string name="save_anyway">Salvesta ikkagi</string>
+    <string name="edit_address">Muuda aadressi</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Me ei leidnud teie sisestatud aadressi:</string>
+    <string name="vzw_address_alternate_text">Kas mõtlesite:</string>
+    <string name="vzw_partial_confirm_head">Hädaabiteenuse pakkujad ei saanud sisestatud aadressi kinnitada.</string>
+    <string name="vzw_partial_confirm_text">Kas olete kindel, et soovite seda aadressi hädaolukorras kasutada?</string>
+    <string name="vzw_partial_failure_text_part1">Sisestatud linn, osariik või sihtnumber võib olla vale.</string>
+    <string name="vzw_partial_failure_text_part2">Kontrollige aadressi ja proovige uuesti.</string>
+    <string name="vzw_address_update_success_toast">Hädaolukorra aadressi värskendati</string>
+    <string name="connect_to_wifi_or_web_portal_title">WiFi on välja lülitatud</string>
+    <string name="connect_to_wifi_or_web_portal_message">WiFi-kõned saate seadistada mobiilsidevõrgu kaudu, ent funktsiooni kasutamiseks tuleb teil WiFi sisse lülitada ja võrguga ühendus luua.</string>
+    <string name="button_turn_on_wifi">Lülita WiFi sisse</string>
+    <string name="button_setup_web_portal">Jätka seadistamist</string>
+</resources>

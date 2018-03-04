@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>haina mada</item>
+        <item>haina mada</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ndiyo</item>
+        <item>Hapana</item>
+        <item>Sawa</item>
+        <item>Hehe</item>
+        <item>Asante</item>
+        <item>Nakubali</item>
+        <item>Shwari</item>
+        <item>Niko njiani</item>
+        <item>Sawa, nitawasiliana nawe baadaye</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS iliyo na kiungo</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Tumia SMS kutuma tena kila wakati</item>
+        <item>Tumia SMS kutuma tena wakati hautumii mitandao mingine</item>
+        <item>Niulize kabla ya kutuma tena</item>
+        <item>Usiwahi kutumia SMS kutuma tena</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Tumia SMS/MMS kutuma tena kila wakati</item>
+        <item>Tumia SMS/MMS kutuma tena wakati hautumii mitandao mingine</item>
+        <item>Niulize kabla ya kutuma tena</item>
+        <item>Usiwahi kutumia SMS/MMS kutuma tena</item>
+    </string-array>
+</resources>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_search_hint">חפש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חפש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="app_has_in_app_purchases">רכישות מתוך האפליקציה</string>
+    <string name="app_has_permissions">הרשאות: %s</string>
+    <string name="app_has_runtime_permissions">האפליקציה תבקש הרשאות</string>
+    <string name="app_picker_loading">מחפש אפליקציות זמינות…</string>
+    <string name="app_picker_loading_toast">האפליקציות הזמינות ייטענו בקרוב</string>
+    <string name="app_picker_no_apps">לא נבחרו אפליקציות</string>
+    <string name="app_picker_no_apps_found">לא נמצאו אפליקציות</string>
+    <string name="apps_permissions_described_v2">"רק אפליקציות ®iOS פופולריות הזמינות בחינם יכולות להתאים לאפליקציות של Android. רוב הרכישות מתוך האפליקציות לא יעברו. תוכל למצוא עוד אפליקציות בחנות Play לאחר השלמת ההגדרה.
+
+ייתכן שיהיה עליך להעניק הרשאה מראש לאפליקציות מסוימות כדי לקבל גישה ליכולות ולפרטי מידע מסוימים במכשיר. ההרשאות מאורגנות בקבוצות של הרשאות. באמצעות הבחירה להתקין את האפליקציות האלה, אתה מאשר את ההרשאות שהן חלק מכל קבוצה. למטה תראה תיאור של כל קבוצת הרשאות.
+
+ייתכן שאפליקציות מסוימות לא ידרשו אישור מראש של הרשאות. כשתשתמש באחת מהאפליקציות האלה, תוכל לאפשר או לדחות הרשאה יחידה לפני שהאפליקציה תשתמש בסוג הנתונים הזה.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">כלי להעברת נתונים</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">אל תעתיק</string>
+    <string name="close_button_label">סגור</string>
+    <string name="cloud_restore_app_picker_button">שחזר</string>
+    <string name="cloud_restore_app_picker_description_no_apps">בגיבוי אין אפליקציות</string>
+    <string name="cloud_restore_app_picker_title">בחירת אפליקציות לשחזור</string>
+    <string name="common_cancel">ביטול</string>
+    <string name="common_google_play_services_enable_button">הפעל</string>
+    <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_button">התקן</string>
+    <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_ok">אישור</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_signin_button_text">כניסה</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d ב-iCloud®‎, %2$d במכשיר</string>
+    <string name="contacts_number_device_and_icloud_with_google">אנשי קשר מחשבון Google, %1$d ב-iCloud®‎, %2$d במכשיר</string>
+    <string name="contacts_number_device_and_sim_with_google">אנשי קשר מחשבון Google‏, %1$d ב-SIM, %2$d במכשיר</string>
+    <string name="contacts_number_device_with_google">אנשי קשר מחשבון Google‏, %1$d במכשיר</string>
+    <string name="contacts_number_icloud_with_google">אנשי קשר מחשבון Google‏, %1$d ב-®iCloud</string>
+    <string name="contacts_number_sim_with_google">אנשי קשר מחשבון Google‏, %1$d בכרטיס SIM</string>
+    <string name="copy_confirmation_description">אתה עומד להעתיק נתונים, כמו חשבון Google והאפליקציות שלך, לטלפון החדש</string>
+    <string name="copy_confirmation_title">האם להעתק לטלפון החדש?</string>
+    <string name="d2d_app_picker_description_no_apps">לא הצלחנו למצוא אפליקציות</string>
+    <string name="d2d_app_picker_title">אפליקציות</string>
+    <string name="d2d_migration_canceled_on_source">ההעתקה בוטלה</string>
+    <string name="data_copied_fragment_description">הנתונים הועתקו לטלפון החדש. אתה יכול לנתק את הכבל.</string>
+    <string name="data_copied_fragment_description_cancel">בחרת להפסיק את ההעתקה, לכן רק חלק מהנתונים הועתקו לטלפון החדש.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">בחרת להפסיק את ההעתקה, לכן דבר לא הועתק לטלפון החדש.</string>
+    <string name="data_copied_fragment_description_error">משהו השתבש, כך שלא ניתן היה להעתיק הכל.</string>
+    <string name="data_copied_fragment_description_error_no_data">משהו השתבש, כך שלא ניתן היה להעתיק את הנתונים.</string>
+    <string name="data_copied_fragment_no_data_title">לא ניתן להעתיק</string>
+    <string name="data_copied_fragment_some_data_title">חלק מהנתונים הועתקו</string>
+    <string name="data_copied_fragment_title">הנתונים הועתקו</string>
+    <string name="device_not_supported_fragment_new_device">אתה מחובר לטלפון חדש. כדי להמשיך, חבר מחדש את הטלפון הקודם.</string>
+    <string name="device_not_supported_fragment_new_device_title">חבר מחדש לטלפון הקודם</string>
+    <string name="device_not_supported_fragment_no_data_cable">כבל זה אינו יכול להעביר נתונים. חבר מחדש עם כבל אחר ונסה שוב.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">נסה כבל אחר</string>
+    <string name="device_not_supported_fragment_retry_description">ודא שהטלפון הישן אינו נעול, ולאחר מכן נתק את הכבל וחבר אותו שוב</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">משהו השתבש</string>
+    <string name="device_not_supported_ios_supervised_description">מאחר שמכשיר ה-iPhone®‎ שלך בפיקוח, יהיה עליך לבחור דרך אחרת להעתקת נתונים</string>
+    <string name="device_picker_skip">אל תשחזר</string>
+    <string name="durationDayHour">%1$d יום %2$d שעה</string>
+    <string name="durationDayHours">%1$d יום %2$d שעות</string>
+    <string name="durationDays">%1$d ימים</string>
+    <string name="durationHourMinute">%1$d שעה %2$d דקה</string>
+    <string name="durationHourMinutes">%1$d שעה %2$d דקות</string>
+    <string name="durationHours">%1$d שעות</string>
+    <string name="durationMinute">%1$d דקה</string>
+    <string name="durationMinutes">%1$d דקות</string>
+    <string name="encryption_warning_fragment_description">"הצפנת גיבוי מופעלת למכשיר ה-®iPhone. אם לא הפעלת אותה בעצמך, ייתכן שמנהל ה-IT הפעיל אותה.
+
+ניתן להעתיק רק תמונות, מוזיקה וסרטונים. למידע נוסף, עבור לכתובת "<b>g.co/datatransferhelp‏</b>.</string>
+    <string name="encryption_warning_fragment_title">הצפנת גיבוי</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">איני מוצא את המתאם</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"מצא את מתאם Quick Switch Adapter שנכלל באריזה של ה-^1.
+
+חבר את הכבל למתאם."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">חיבור המתאם לכבל</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">בטל את נעילת הטלפון הישן ולאחר מכן חבר את המתאם אל הטלפון הזה.</string>
+    <string name="fragment_usb_connect_both_phones_title">חיבור שני הטלפונים</string>
+    <string name="fragment_usb_dialog_cancel_description">כמות התוכן הגדולה ביותר תועבר אם תשתמש בכבל. אם הכבלים שבאריזה לא מתאימים, נסה להשתמש בכבל הטעינה או בכבל הנתונים שעובדים עם הטלפון הישן.</string>
+    <string name="fragment_usb_dialog_cancel_title">האם להעתיק נתונים בדרך אחרת?</string>
+    <string name="fragment_usb_dont_copy">אל תעתיק</string>
+    <string name="fragment_usb_dont_have_cable">אין לי כבל</string>
+    <string name="fragment_usb_dont_have_old_phone">אין לך גישה לטלפון הישן?</string>
+    <string name="fragment_usb_find_cable_description">השתמש בכבל שמתאים לטלפון הישן, למשל כבל הנתונים או כבל הטעינה.</string>
+    <string name="fragment_usb_find_cable_title">מציאת הכבל המתאים</string>
+    <string name="fragment_usb_initial_description">עליך להפעיל את מכשיר ה-Android או ה-iPhone®‎ הישן שלך, לבטל את נעילת המסך ולדאוג שלא יינעל.</string>
+    <string name="fragment_usb_initial_title">חיבור הטלפון הישן</string>
+    <string name="fragment_usb_legacy_description">"זו הדרך המהירה ביותר להעברת כמה שיותר נתונים.
+
+מצא את המתאם באריזה וחבר אותו לטלפון החדש. חבר את הטלפונים באמצעות הכבל ולאחר מכן בטל את נעילת הטלפון הישן."</string>
+    <string name="fragment_usb_missing_data_description">אפשר להמשיך להגדיר את ה-Pixel בזמן ההעברה.</string>
+    <string name="fragment_usb_missing_data_title">רוצה להעתיק את הנתונים שלך?</string>
+    <string name="fragment_usb_other_ways">העתק ללא כבל</string>
+    <string name="fragment_usb_plug_cable">חיבור כבל לטלפון הישן שלך</string>
+    <string name="fragment_waiting_title">רק רגע…</string>
+    <string name="gigabyteShort">GB‏‏</string>
+    <string name="google_contacts_static_text">אנשי הקשר של Google יסתנכרנו</string>
+    <string name="google_contacts_static_text_off">סנכרון אנשי קשר מחשבון Google יתבצע</string>
+    <string name="i_message_dialog_message">"כדי להמשיך לקבל הודעות SMS ממשתמשי ®iPhone, יהיה עליך לכבות את ®iMessage.
+
+היכנס אל "<b>g.co/iMessageHelp</b> לקבלת הוראות.</string>
+    <string name="instructions_fragment_title">המשך בטלפון השני</string>
+    <string name="ios_connected_fragment_description">"במסך הבא תוכל להיכנס לחשבון Google או ליצור חשבון חדש.
+
+אם לא תוסיף את חשבון Google שלך, האירועים מיומן ®iOS שלך לא יעברו."</string>
+    <string name="ios_message_attachment_explanation">[הקבצים המצורפים להודעה נמצאים בתמונות Google > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachment_failed_explanation">[לא ניתן היה להעתיק חלק מהקבצים המצורפים. את הקבצים המצורפים שהועברו ניתן למצוא בתמונות Google > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachment_placeholder">[קובץ מצורף נשמר בתמונות Google‏ > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_message_attachments_placeholder">[קבצים מצורפים נשמרים בתמונות Google‏ > תיקיות מכשיר > קבצים מצורפים להודעה]</string>
+    <string name="ios_migration_default_calendar_title">יומן Google</string>
+    <string name="ios_migration_other_contact_relation">אחר</string>
+    <string name="ios_photos_dialog_message">"לא ניתן להעתיק תמונות שמאוחסנות ב-iCloud®‎.
+
+כדי להעביר תמונות אלה אל ה-^1, התקן את האפליקציה תמונות Google במכשיר ה-iPhone®‎ והפעל את האפשרות 'גיבוי וסנכרון'. היכנס אל "<b>g.co/datatransferhelp</b> כדי לקבל הוראות נוספות.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">הבא</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">הכל</string>
+    <string name="photos_filtering_option_none">כלום</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">אנשי קשר שהועתקו יישמרו בחשבון Google שלך.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">אנשי קשר ויומנים שהועתקו יישמרו בחשבון Google שלך.</string>
+    <string name="restore_choice_data_disclaimer_v2">ייתכן שחלק מהנתונים לא יועתקו אל ^1. <annotation id="restore_choice_data_disclaimer_learn_more">למידע נוסף</annotation></string>
+    <string name="restore_choice_deselect_some_content">בטל בחירה של חלק מהתוכן כדי להמשיך</string>
+    <string name="restore_choice_learn_more_android">"לא ניתן להעתיק אוטומטית חלק מהנתונים מהטלפון הישן שלך:
+
+ ● הורדות (כמו קובצי PDF)
+
+ ● תמונות, סרטונים ומוזיקה שמאוחסנים בתיקיות נסתרות
+
+ ● תמונות, סרטונים ומוזיקה שהתקבלו בהודעות טקסט
+
+ ● אפליקציות שמקורן אינו בחנות Google Play
+
+ ● נתוני אפליקציות (אם האפליקציה לא משתמשת בגיבוי Android)
+
+ ● הגדרות מסוימות במכשיר
+
+ ● חשבונות שאינם חשבונות Google (והנתונים המשויכים)
+
+ ● אנשי קשר ויומנים שמסונכרנים לשירותים שאינם שירותי Google
+
+ ● רינגטונים
+
+ לקבלת פרטים נוספים ועזרה בהעתקת חלק מהנתונים האלה, היכנס אל g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"לא ניתן להעתיק באופן אוטומטי חלק מהנתונים מהטלפון הישן שלך:
+
+ ● אפליקציות ונתוני אפליקציות
+
+ ● תמונות אם העותק המקורי לא מאוחסן בטלפון (לדוגמה, אם מופעלת ההגדרה 'אופטימיזציה לאחסון', תמונות מקוריות מאוחסנות ב-®iCloud)‏
+
+ ● קבצים ומסמכים שמאוחסנים ב-®‏iCloud‏
+
+ ● הגדרות מכשיר (כמו סיסמאות Wi-Fi וטפט)
+
+ ● מוזיקה המוגנת על ידי ניהול זכויות דיגיטליות (DRM) (לדוגמה, מוזיקה של ®iTunes שנרכשה לפני אפריל 2009 או מוזיקה שהורדה להאזנה במצב לא מקוון באפליקציית סטרימינג של מוזיקה)
+
+ ● חשבונות שאינם חשבונות Google (והנתונים המשויכים אליהם)
+
+ ● אנשי קשר ויומנים המסונכרנים לשירותים שאינם Google או ®iCloud‏
+
+ ● סימניות מ-®Safari‏
+
+ קבצים מצורפים מ-®iMessage‏ יהיו זמינים בתמונות Google  > תיקיות במכשיר > קבצים מצורפים להודעה.
+
+ לקבלת פרטים נוספים ועזרה בהעתקת חלק מהנתונים האלה, עבור לכתובת: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">אין מספיק מקום</string>
+    <string name="restore_choice_total_text">מתוך %1$s הזמינים / %2$s העברה</string>
+    <string name="restore_item_appdata">נתוני אפליקציה</string>
+    <string name="restore_item_calendar">יומן Google</string>
+    <string name="restore_item_calendar_ical_description">יומן ®iOS, יומן Google</string>
+    <string name="restore_item_calendar_ical_off_description">יומן Google יסתנכרן בכל זאת</string>
+    <string name="restore_item_calendar_sync_description">יומן Google יסתנכרן</string>
+    <string name="restore_item_call_logs">היסטוריית שיחות</string>
+    <string name="restore_item_contacts">אנשי קשר</string>
+    <string name="restore_item_device_settings_description">סיסמאות ל-Wi-Fi ועוד</string>
+    <string name="restore_item_downloads">הורדות</string>
+    <string name="restore_item_email">אימייל</string>
+    <string name="restore_item_email_description">Gmail יסתנכרן</string>
+    <string name="restore_item_message_attachments">קבצים מצורפים של הודעות</string>
+    <string name="restore_item_messages">הודעות</string>
+    <string name="restore_item_music">מוזיקה</string>
+    <string name="restore_item_photos">תמונות וסרטונים</string>
+    <string name="restore_item_settings">הגדרות מכשיר</string>
+    <string name="restore_item_sms">הודעות SMS</string>
+    <string name="restore_item_will_be_synced_text">הנתונים האלה יסתנכרנו לטלפון שלך</string>
+    <string name="restore_progress_title">השחזור מתבצע…</string>
+    <string name="search_menu_title">חפש</string>
+    <string name="small_time_duration">פחות מדקה</string>
+    <string name="status_bar_notification_info_overflow">‎999+‎</string>
+    <string name="stop_copying_dialog_continue_button">סגור</string>
+    <string name="stop_copying_dialog_message_before_transfer">הנתונים לא הועתקו לטלפון החדש</string>
+    <string name="stop_copying_dialog_message_during_transfer">חלק מהנתונים לא הועתק לטלפון החדש</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">אל תעתיק</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">עצור</string>
+    <string name="stop_copying_dialog_title_before_transfer">לא להעתיק?</string>
+    <string name="stop_copying_dialog_title_during_transfer">האם להפסיק את ההעתקה?</string>
+    <string name="suw_back_button_label">חזרה</string>
+    <string name="suw_more_button_label">עוד</string>
+    <string name="suw_next_button_label">הבא</string>
+    <string name="target_default_source_device_model">מכשיר ישן</string>
+    <string name="target_device_not_supported_cant_continue_description">יהיה עליך לבחור דרך אחרת להעתקת נתונים</string>
+    <string name="target_device_not_supported_cant_continue_title">אין תמיכה בטלפון אחר</string>
+    <string name="target_device_not_supported_try_restarting_description">"נתק את הכבל והפעל מחדש את הטלפון הישן שלך. לאחר מכן חבר מחדש את הכבל ופעל בהתאם להוראות ב-Pixel.
+
+ אם שגיאה זו תוצג שוב ושוב, ייתכן שיהיה עליך לנסות להעתיק בדרך אחרת."</string>
+    <string name="target_device_not_supported_try_restarting_title">ייתכן שאין תמיכה לטלפון</string>
+    <string name="target_pixelmigrate_notification_description">זמינה או מתבצעת עכשיו</string>
+    <string name="target_pixelmigrate_notification_title">העברת נתונים</string>
+    <string name="target_smart_device_timeout_add_account">הוסף חשבון</string>
+    <string name="target_smart_device_timeout_description">אם תרצה, תוכל לנסות להוסיף את חשבונך באופן ידני</string>
+    <string name="target_smart_device_timeout_dismiss">סגור</string>
+    <string name="target_smart_device_timeout_title">נתקלת בבעיה?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">הטלפונים מחוברים</string>
+    <string name="toast_reconnect_cable">חבר מחדש את הכבל</string>
+    <string name="transfer_finished_fragment_title">הוספת ליטושים אחרונים...</string>
+    <string name="transfer_summary_copied">הנתונים הועתקו</string>
+    <string name="transfer_summary_fragment_description">ניתן לנתק את הכבל.</string>
+    <string name="transfer_summary_fragment_finish">סיום</string>
+    <string name="transfer_summary_fragment_title">הטלפון כמעט מוכן</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">חלק מהתמונות לא הועתקו. <annotation id="transfer_summary_learn_more">למידע נוסף</annotation></string>
+    <string name="transfer_summary_not_copied">הנתונים לא הועתקו</string>
+    <string name="transfer_summary_partial">%1$s / %2$s הועתקו</string>
+    <string name="transfer_summary_will_sync">הנתונים יסונכרנו לאחר ההגדרה</string>
+    <string name="transferring_fragment_calculating_remaining_time">מחשב את הזמן שנותר…</string>
+    <string name="transferring_fragment_header">מעתיק...</string>
+    <string name="transferring_fragment_remaining_time">נשארו %1$s</string>
+    <string name="trust_instructions_description">כדי להמשיך, בדוק את מכשיר ה-®iPhone ואשר את החיבור</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone‏, iPad,‏ iOS,‏ iMessage,‏ iCloud,‏ Safari ו-iTunes הם סימנים מסחריים של .Apple Inc והם רשומים בארה\"ב ובמדינות אחרות.</string>
+</resources>

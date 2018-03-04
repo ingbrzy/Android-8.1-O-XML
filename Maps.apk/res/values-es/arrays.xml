@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Todos</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Todos los niveles de precios</item>
+        <item>De bajo costo</item>
+        <item>De costo moderado</item>
+        <item>De alto costo</item>
+        <item>De muy alto costo</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Todos</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Todas las calificaciones por estrellas</item>
+        <item>Dos o más estrellas</item>
+        <item>Tres o más estrellas</item>
+        <item>Cuatro o más estrellas</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Todos</item>
+        <item>3 estrellas</item>
+        <item>4 estrellas</item>
+        <item>5 estrellas</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Todos</item>
+        <item>Tres estrellas</item>
+        <item>Cuatro estrellas</item>
+        <item>Cinco estrellas</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>No me gustó en absoluto.</item>
+        <item>No me gustó.</item>
+        <item>Está bien.</item>
+        <item>Me gustó.</item>
+        <item>Me encantó.</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>Al acercar o alejar el mapa</item>
+        <item>Siempre</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Cuéntales a los demás por qué no te gustó este lugar en absoluto.</item>
+        <item>Cuéntales a los demás por qué no te gustó este lugar.</item>
+        <item>Cuéntales a los demás por qué este lugar te pareció aceptable.</item>
+        <item>Cuéntales a los demás por qué te gustó este lugar.</item>
+        <item>Cuéntales a los demás por qué te encantó este lugar.</item>
+    </string-array>
+</resources>

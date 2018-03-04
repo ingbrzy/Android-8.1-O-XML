@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Har fått %1$s stjärnor av %2$d personer</item>
+        <item quantity="one">Har fått %1$s stjärnor av en person</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Upphör att gälla om %1$d dagar</item>
+        <item quantity="one">Upphör att gälla om %1$d dag</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Upphör att gälla om %1$d timmar</item>
+        <item quantity="one">Upphör att gälla om %1$d timme</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d till</item>
+        <item quantity="one">%1$d till</item>
+    </plurals>
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Купувања во апликација</string>
+    <string name="app_has_permissions">Дозволи: %s</string>
+    <string name="app_has_runtime_permissions">Апликацијата ќе побара дозволи</string>
+    <string name="app_picker_app_already_installed_toast">Апликацијава веќе е инсталирана</string>
+    <string name="app_picker_loading">Се бараат достапни апликации…</string>
+    <string name="app_picker_loading_toast">Достапните апликации ќе се вчитаат наскоро</string>
+    <string name="app_picker_no_apps">Нема избрани апликации</string>
+    <string name="app_picker_no_apps_found">Не се најдени апликации</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Производите што сте ги купиле во апликациите нема да се пренесат на ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Можно е некои производи купени во апликациите да не се пренесат на ^1.</string>
+    <string name="apps_permissions_described_v2">"Само популарните, бесплатни апликации за iOS® може да се совпаѓаат со апликации за Android. Повеќето купувања во апликација нема да се пренесат. Откако ќе завршите со поставувањето, ќе може да најдете уште апликации во Play Store.
+
+На некои апликации можеби ќе треба да им дадете претходна дозвола за да пристапуваат до одредени функции или информации на уредот. Дозволите се организирани во групи. Ако изберете да ги инсталирате апликацииве, ќе ги прифат дозволите што се дел од секоја група. Подолу е даден опис на сите групи на дозволи.
+
+Некои апликации можеби нема да бараат дозволите да се прифатат однапред. Кога користите некоја од апликацииве, може да дозволите или да одбиете индивидуална дозвола пред апликацијата да го користи тој тип податоци.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Ако инсталирате апликации, се согласувате со дозволите на секоја од нив. <annotation id="apps_permissions_learn_more">Дознајте повеќе</annotation></string>
+    <string name="auto_restore_summary">При повторно инсталирање на апликацијата, вратете ги поставките и податоците од бекапот</string>
+    <string name="auto_restore_title">Автоматско враќање</string>
+    <string name="backup_configure_account_default_summary">Во моментов ниедна сметка не складира резервни копии на податоци</string>
+    <string name="backup_configure_account_title">Резервна сметка</string>
+    <string name="backup_data_summary">Направете резервна копија на податоците од апликации, лозинките за Wi-Fi и другите поставки на Google Drive</string>
+    <string name="backup_data_summary_full">"Автоматски правете бекап од податоците на уредот (како што се лозинките за Wi-Fi и историјата на повици) и податоците на апликациите (како што се поставките и датотеките што ги складирале апликациите) од далечина.
+
+Откако ќе вклучите автоматски бекап, податоците на уредот и апликациите повремено се зачувуваат далечински. Податоците на апликациите може да бидат сите податоци што ги зачувала апликацијата (според поставките на програмерот), вклучувајќи потенцијално чувствителни податоци како што се контакти, пораки и фотографии."</string>
+    <string name="backup_data_title">Направете резервна копија на Google Drive</string>
+    <string name="backup_erase_dialog_message">Да престанат да се прават резервни копии на лозинките за Wi-Fi, обележувачите, другите поставки и податоците за апликациите и да се избришат сите копии на Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Да престанат да се прават резервни копии од податоците на уредот (како што се лозинките за Wi-Fi и историјата на повици) и податоците на апликациите (како што се поставките и датотеките што ги складирале апликациите) и да се избришат сите копии на Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Грешка при отворањето на поставките за фотографиите</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Кога ќе вклучите автоматски бекап:
+
+ ● Поставките на уредот и податоците на апликациите повремено ќе се зачувуваат во приватна папка во Google Drive. Податоците на апликацијата може да бидат секакви податоци што ги зачувала апликацијата (според поставките на програмерот), вклучувајќи потенцијално чувствителни податоци, како што се контакти, пораки и фотографии.
+
+ Нема да се прави бекап на големите датотеки или датотеките што програмерите одлучиле да ги исклучат од услугата.
+
+ ● Фотографиите и видео записите од уредов се синхронизираат со збирката на „Фотографии на Google“ за да ги пребарувате, уредувате, бришете и споделувате од кој било уред.
+
+ Стандардно, се поставуваат фотографии и видеа со целосна резолуција. Тие не се сметаат во вашата квота за складирање на Drive.
+
+ ● Контактите и поврзаните податоци од уредов се синхронизирани со „Контакти на Google“. Може да ја користите апликацијата „Контакти на Google“ за да пребарувате, уредувате, бришете и споделувате контакти од кој било уред.
+
+ ● Записите во календарот и поврзаните податоци од уредов се синхронизираат со „Календар на Google“. Може да ја користите апликацијата „Календар на Google“ за да пребарувате, уредувате, бришете и споделувате контакти од кој било уред.
+
+ Податоците од бекапот нема да се сметаат во вашата квота за складирање на Drive."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Ако го вклучите автоматското правење бекап:
+
+ ● Поставките на уредот и податоците од апликациите повремено ќе се зачувуваат во приватна папка во Google Drive. Податоци од апликација може да бидат сите податоци што ги зачувала некоја апликација (според поставките на програмерот), вклучувајќи ги и потенцијално чувствителните податоци, како што се контактите, пораките и фотографиите.
+
+ Нема да се прави бекап на големите датотеки или датотеките што програмерите одлучиле да ги исклучат од услугата.
+
+ ● Контактите и поврзаните податоци од уредов ќе се синхронизираат со „Контакти на Google“. Апликацијата „Контакти на Google“ ќе може да ја користите за пребарување, уредување, бришење и споделување контакти од сите ваши уреди.
+
+ ● Записите во календарот и поврзаните податоци од уредов ќе се синхронизираат со „Календар на Google“. Апликацијата „Календар на Google“ ќе може да ја користите за пребарување, уредување, бришење и споделување контакти од сите ваши уреди.
+
+ Податоците од бекапот нема да се сметаат во квотата за складирање на Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">Календарот, контактите, фотографиите и видеата се синхронизирани со вашата сметка на Google и може да се користат низ услугите.</string>
+    <string name="backup_opt_in_backup_description_v2">Автоматската резервна копија обезбедува лесно враќање на податоците или менување на телефоните во секое време. <annotation id="backup_opt_in_learn_more">Дознајте повеќе</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Ова ќе го исклучи бекапот за:
+
+Апликации и податоци на апликациите
+Историја на повици
+Поставки за уредот
+Фотографии и видеа
+SMS
+
+Календарот и контактите ќе продолжат да се синхронизираат со вашата сметка на Google. Кога ќе заврши поставувањето, може да ги смените поставките за синхронизација во "<annotation id="backup_opt_in_settings_instructions">„Поставки“ > „Сметки“ > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Да се исклучи бекапот?</string>
+    <string name="backup_opt_in_backup_list">"Апликации и податоци од апликации
+Календар
+Историја на повици
+Контакти
+Поставки на уредот (заедно со лозинки за Wi-Fi)
+Фотографии и видеа
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Бекапот опфаќа:</string>
+    <string name="backup_opt_in_backup_title">Направете резервна копија на Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Исклучете го бекапот</string>
+    <string name="backup_photos_update">Ажурирајте ги Google Photos</string>
+    <string name="backup_settings_activity_backup_title">Бекап</string>
+    <string name="backup_settings_activity_title">Направи резервна копија и ресетирај</string>
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Не копирај</string>
+    <string name="close_button_label">Затвори</string>
+    <string name="cloud_restore_app_picker_button">Врати</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Бекапот не содржи апликации</string>
+    <string name="cloud_restore_app_picker_title">Одберете кои апликации да се вратат</string>
+    <string name="common_accept">Прифати</string>
+    <string name="common_add_account_label">Додај сметка</string>
+    <string name="common_ads_settings_title">Реклами</string>
+    <string name="common_agree">Се согласувам</string>
+    <string name="common_app_name">Услуги на Google Play</string>
+    <string name="common_asm_preferences_settings_title">Поставки за сметката</string>
+    <string name="common_asm_privacy_settings_title">Лични информации и приватност</string>
+    <string name="common_asm_security_settings_title">Најавување и безбедност</string>
+    <string name="common_audience_edit_button_label">Измени</string>
+    <string name="common_cancel">Откажи</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts не може да стартува (грешка во дозволата).</string>
+    <string name="common_car_permission_desc">Пристап до Автомеханичарска служба.</string>
+    <string name="common_car_permission_label">Автомеханичарска служба</string>
+    <string name="common_chips_label_empty_circles">Нема кругови</string>
+    <string name="common_chips_label_extended_circles">Проширени кругови</string>
+    <string name="common_chips_label_only_you">Само вие</string>
+    <string name="common_chips_label_public">Јавна</string>
+    <string name="common_chips_label_your_circles">Вашите кругови</string>
+    <string name="common_choose_account_label">Избери сметка</string>
+    <string name="common_clear_app_data_menu_item">Исчисти податоци на апликација</string>
+    <string name="common_connected">Поврзано</string>
+    <string name="common_connected_apps_settings_title">Поврзани апликации</string>
+    <string name="common_connecting">Се поврзува…</string>
+    <string name="common_continue">Продолжи</string>
+    <string name="common_disagree">Не се согласувам</string>
+    <string name="common_disconnect">Исклучи</string>
+    <string name="common_done">Готово</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Од:</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_started">Започни</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Овозможи</string>
+    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Грешка</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="common_google_play_services_updating_title">Услугите на Google Play се ажурираат</string>
+    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Инсталираните услуги на Google Play се со погрешна архитектура.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Услугите на Google Play се инсталирани со архитектура (%1$s) која се разликува од архитектурата на уредот (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Погрешна архитектура</string>
+    <string name="common_google_settings">Поставки за Google</string>
+    <string name="common_google_settings_account">Сметка</string>
+    <string name="common_google_settings_credentials_title">Smart Lock за лозинки</string>
+    <string name="common_google_settings_developer">Програмер</string>
+    <string name="common_google_settings_services">Услуги</string>
+    <string name="common_got_it">Сфатив</string>
+    <string name="common_install">Инсталирај</string>
+    <string name="common_learn_more">Дознајте повеќе</string>
+    <string name="common_list_apps_menu_help">Помош</string>
+    <string name="common_list_apps_menu_help_and_feedback">Помош и повратни информ.</string>
+    <string name="common_loading">Се вчитува…</string>
+    <string name="common_location_settings_title">Локација</string>
+    <string name="common_magictether_settings_title">Моментално врзување</string>
+    <string name="common_maps_settings_title">Карти и географска ширина</string>
+    <string name="common_mdm_feature_name">Управник на уреди со Android</string>
+    <string name="common_missing_url_viewer">Недостасува гледач за приказ на надворешна УРЛ-адреса.</string>
+    <string name="common_more_options">Повеќе опции</string>
+    <string name="common_networking_settings_title">Вмрежување</string>
+    <string name="common_no_browser_for_restricted_url">Ограничен пристап. Не е најден прелистувач.</string>
+    <string name="common_no_devices_found">Не се најдени уреди</string>
+    <string name="common_no_network">Недостапно бидејќи уредот е исклучен од мрежа</string>
+    <string name="common_no_thanks">Не, благодарам</string>
+    <string name="common_not_now">Не сега</string>
+    <string name="common_off">Исклучено</string>
+    <string name="common_ok">ВО РЕД</string>
+    <string name="common_on">Вклучено</string>
+    <string name="common_open_on_phone">Отвори на телефонот</string>
+    <string name="common_open_source_licenses">Лиценци со отворен код</string>
+    <string name="common_people_settings_title">Контакти</string>
+    <string name="common_permissions_enable_in_settings">Овозможи во Поставки</string>
+    <string name="common_permissions_missing_end">За да продолжите, отворете Поставки, потоа Дозволи и дозволете ги сите наведени ставки.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+За да овозможите, одете во
+Поставки >
+Дозволи >
+Услуги на Google Play"</string>
+    <string name="common_permissions_missing_start">Оваа апликација нема да работи правилно, освен ако не дозволите барањето на услугите на Google Play да пристапи до следново:</string>
+    <string name="common_permissions_open_settings">Отвори Поставки</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Политика за приватност</string>
+    <string name="common_restore">Врати</string>
+    <string name="common_retry">Обиди се повторно</string>
+    <string name="common_search_settings_title">Пребарување</string>
+    <string name="common_security_ootp_setting_title">Безбедносен код</string>
+    <string name="common_security_settings_title">Безбедност</string>
+    <string name="common_send">Испрати</string>
+    <string name="common_sending">Се испраќа…</string>
+    <string name="common_set_up_nearby_device_settings_title">Поставете уред во близина</string>
+    <string name="common_settings">Поставки</string>
+    <string name="common_signin_button_text">Најави се</string>
+    <string name="common_signin_button_text_long">Најави се со Google</string>
+    <string name="common_something_went_wrong">Нешто тргна наопаку</string>
+    <string name="common_system_info">Информации за системот</string>
+    <string name="common_take_photo_label">Фотографирај</string>
+    <string name="common_terms_of_service">Услови на користење</string>
+    <string name="common_try_again">Обиди се повторно</string>
+    <string name="common_turn_on_bluetooth">Вклучи Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Избриши</string>
+    <string name="common_ui_confirm_deleting_checkbox">Разбирам и сакам да избришам</string>
+    <string name="common_unknown">Непозната</string>
+    <string name="common_update">Ажурирај</string>
+    <string name="common_url_load_unsuccessful_message">Вашиот Android не е поврзан со услуга за податоци. За да ги видите овие информации сега, одете на %s во веб-прелистувач.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Вашиот Android не е поврзан со Wi-Fi мрежа. За да ги видите овие информации сега, одете на %s во веб-прелистувач.</string>
+    <string name="common_url_login_notice">Најави се како %1$s</string>
+    <string name="common_usage_and_diagnostics">Употреба и дијагностика</string>
+    <string name="common_yesterday">Вчера</string>
+    <string name="confirm_copy_button_text">Копирај</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d уред</string>
+    <string name="contacts_number_device_and_icloud_with_google">„Контакти на Google“, %1$d iCloud®, %2$d уред</string>
+    <string name="contacts_number_device_and_sim_with_google">„Контакти на Google“, %1$d SIM, %2$d уред</string>
+    <string name="contacts_number_device_with_google">„Контакти на Google“, %1$d уред</string>
+    <string name="contacts_number_icloud_with_google">„Контакти на Google“, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">„Контакти на Google“, %1$d SIM</string>
+    <string name="copy_confirmation_description">Ќе копирате податоци на новиот телефон, како на пр., сметката на Google и апликациите.</string>
+    <string name="copy_confirmation_title">Да се копира на новиот телефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Не можевме да најдеме ниедна апликација</string>
+    <string name="d2d_app_picker_title">Апликации</string>
+    <string name="d2d_migration_canceled_on_source">Копирањето е откажано</string>
+    <string name="data_copied_fragment_description">Вашите податоците се копирани на новиот телефон. Може да го исклучите кабелот.</string>
+    <string name="data_copied_fragment_description_cancel">Избравте да сопре копирањето, па само дел од податоците се копираа на новиот телефон.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Избравте да го стопирате копирањето. Ништо не е копирано на новиот телефон.</string>
+    <string name="data_copied_fragment_description_error">Нешто тргна наопаку, па не можевме да копираме сѐ.</string>
+    <string name="data_copied_fragment_description_error_no_data">Нешто тргна наопаку, па не можевме да ги копираме вашите податоци.</string>
+    <string name="data_copied_fragment_no_data_title">Не можеше да се копира</string>
+    <string name="data_copied_fragment_some_data_title">Некои од податоците се копирани</string>
+    <string name="data_copied_fragment_title">Податоците се копирани</string>
+    <string name="device_backup_title">Бекап на уредот</string>
+    <string name="device_not_supported_fragment_new_device">Се поврзавте со нов телефон. За да продолжите, поврзете се со претходниот.</string>
+    <string name="device_not_supported_fragment_new_device_title">Повторно поврзете се со претходниот телефон</string>
+    <string name="device_not_supported_fragment_no_data_cable">Овој кабел не е за пренос на податоци. Повторно поврзете со друг кабел и обидете се повторно.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Обидете се со друг кабел</string>
+    <string name="device_not_supported_fragment_retry_description">Проверете дали стариот телефон е отклучен, а потоа откачете го и повторно приклучете го кабелот</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Нешто тргна наопаку</string>
+    <string name="device_not_supported_ios_supervised_description">Бидејќи вашиот уред со iPhone® е надгледуван, ќе мора да изберете друг начин за копирање на податоците</string>
+    <string name="device_picker_description">Резервните копии се складирани во Google Drive</string>
+    <string name="device_picker_empty">Нема резервни копии поврзани со %1$s.</string>
+    <string name="device_picker_empty_title">Не се најдени резервни копии</string>
+    <string name="device_picker_item">Бекап на %1$s</string>
+    <string name="device_picker_last_used">Последно користено ^1</string>
+    <string name="device_picker_skip">Не враќај ги</string>
+    <string name="device_picker_title">Изберете резервна копија за враќање</string>
+    <string name="disabled_by_admin_summary_text">Контролирано од администраторот</string>
+    <string name="download_msg_error_invalid">Преземањето е неправилно конфигурирано.</string>
+    <string name="download_msg_in_progress">Преземањето е во тек.</string>
+    <string name="download_msg_not_allowed_space">Нема доволно простор за да се изврши преземањето.</string>
+    <string name="download_msg_pending">Преземањето чека на ред.</string>
+    <string name="download_notification_description">%1$s го побара ова.</string>
+    <string name="download_notification_title">Се земаат уште податоци</string>
+    <string name="drive_backup_account">Сметка</string>
+    <string name="drive_backup_apps_in_backup">Бекап на податоците на апликациите</string>
+    <string name="drive_backup_apps_last_backup">Последна резервна копија</string>
+    <string name="drive_backup_apps_loading">Се вчитува…</string>
+    <string name="drive_backup_apps_screen_title">Податоци на апликациите</string>
+    <string name="drive_backup_content_apps_title">Податоци на апликациите</string>
+    <string name="drive_backup_content_calendar_dialog_message">Настаните создадени во „Календарот на Google“ ќе се синхронизираат на сите уреди што се најавени на сметката на Google.</string>
+    <string name="drive_backup_content_calendar_title">Календар</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Бекапот ги опфаќа датумот и примачот на испратените и примените повици.</string>
+    <string name="drive_backup_content_callhistory_title">Историја на повици</string>
+    <string name="drive_backup_content_contacts_dialog_message">Контактите создадени во „Контактите на Google“ ќе се синхронизираат на сите уреди што се најавени на сметката на Google.</string>
+    <string name="drive_backup_content_contacts_title">Контакти</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Бекапот ја опфаќа конфигурацијата на уредот, како што се тапетот, лозинките за Wi-Fi и стандардните апликации.</string>
+    <string name="drive_backup_content_devicesettings_title">Поставки на уред</string>
+    <string name="drive_backup_content_header">Содржина</string>
+    <string name="drive_backup_content_photos_dialog_message">Примарната сметка за резервни копии е променета. Може да ја промените и сметката за резервни копии на „Фотографии на Google“ на %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ОТФРЛИ</string>
+    <string name="drive_backup_content_photos_dialog_title">Да се смени и сметката за фотографии и видеа?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ПРОМЕНИ</string>
+    <string name="drive_backup_content_photos_title">Фотографии и видеа</string>
+    <string name="drive_backup_content_sms_dialog_message">Бекапот ги опфаќа испратените и примените пораки. Тоа не ги вклучува аудио-визуелните содржини на MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS-пораки</string>
+    <string name="drive_backup_content_status_dolly_action">Разбрав</string>
+    <string name="drive_backup_content_status_error">Грешка при добивањето датум на последна синхронизација</string>
+    <string name="drive_backup_content_status_lastsaved">Последен бекап: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Последна синхронизација: %1$s</string>
+    <string name="drive_backup_content_status_never">Се чека да се направи резервна копија</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Поставки за синхронизација</string>
+    <string name="drive_backup_content_status_sync_off">Синхронизирањето е ИСКЛУЧЕНО</string>
+    <string name="drive_backup_content_status_updating">Се проверува статусот…</string>
+    <string name="drive_backup_disabled_backuplist">"Бекапот вклучува:
+\u0009- Апликации и податоци од апликации
+\u0009- Историја на повици
+\u0009- Поставки на уредот (заедно со лозинките за Wi-Fi)
+\u0009- Календар на Google
+\u0009- Контакти на Google
+\u0009- Фотографии и видеа
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Бекапот вклучува:
+\u0009- Апликации и податоци од апликации
+\u0009- Историја на повици
+\u0009- Поставки на уредот (тука спаѓаат и лозинките за Wi-Fi)
+\u0009- „Календар на Google“
+\u0009- „Контакти на Google“
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Оневозможено од администраторот</string>
+    <string name="drive_backup_disabled_detailedinfo">"„Календарот на Google“, „Контактите на Google“, фотографиите и видеата се синхронизираат со вашата сметка на Google и може да се користат низ услугите.
+
+Синхронизацијата може да биде овозможена дури и кога бекапот е исклучен. Поставките за синхронизирање може да се променат во Поставки > Сметки > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"„Календарот“ и „Контактите“ се синхронизираат со сметката на Google и може да се користат со сите услуги.
+
+Синхронизирањето може да се овозможи дури и кога правењето резервна копија е исклучено. Поставките за синхронизирање може да се променат во „Поставки“ > „Сметки’ > Google."</string>
+    <string name="drive_backup_disabled_introduction">Автоматската резервна копија обезбедува лесно враќање на содржините или менување на телефоните во секое време.</string>
+    <string name="drive_backup_settings_title">Направи резервна копија</string>
+    <string name="drive_backup_state">Направете резервна копија на Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Податоците од бекапот за уредов во Google Drive ќе се избришат трајно.
+
+Фотографиите и видеата од коишто веќе бил направен бекап сѐ уште ќе бидат достапни во Google Drive.
+
+„Календар на Google“ и „Контакти на Google“ ќе продолжат да се синхронизираат со сметката на Google. Поставките за синхронизирање може да се променат во Поставки > Сметки > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Податоците од бекапот на уредов што се во Google Drive ќе се избришат трајно.
+
+„Календарот“ и „Контактите“ ќе продолжат да се синхронизираат со сметката на Google. Поставките за синхронизирање може да се променат во „Поставки“ > „Сметки“ > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Исклучете и избришете</string>
+    <string name="drive_backup_state_dialog_title">Да се исклучи и да се избрише бекапот?</string>
+    <string name="durationDayHour">%1$d ден %2$d час</string>
+    <string name="durationDayHours">%1$d ден %2$d часа</string>
+    <string name="durationDays">%1$d дена</string>
+    <string name="durationHourMinute">%1$d час %2$d мин.</string>
+    <string name="durationHourMinutes">%1$d час %2$d мин.</string>
+    <string name="durationHours">%1$d часа</string>
+    <string name="durationMinute">%1$d минута</string>
+    <string name="durationMinuteSecond">%1$d мин. %2$d с.</string>
+    <string name="durationMinuteSeconds">%1$d мин. %2$d с.</string>
+    <string name="durationMinutes">%1$d минути</string>
+    <string name="durationSecond">%1$d секунда</string>
+    <string name="durationSeconds">%1$d секунди</string>
+    <string name="encryption_warning_fragment_description">"Вклучено е шифрирање на бекапот за вашиот iPhone® уред. Доколку не сте го вклучиле вие, може да го вклучил админстраторот за информатичка технологија.
+
+Може да се копираат само фотографии, музика и видеа. За повеќе информации, посетете ја "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифрирање на бекапот</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Не можам да го најдам адаптерот</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Најдете го Quick Switch Adapter што е дел од пакувањето на вашиот ^1.
+
+Приклучете го кабелот во адаптерот."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Поврзете ги адаптерот и кабелот</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Отклучете го стариот телефон, а потоа приклучете го адаптерот во овој телефон.</string>
+    <string name="fragment_usb_connect_both_phones_title">Поврзете ги двата телефони</string>
+    <string name="fragment_usb_dialog_cancel_description">Ако користите кабел, ќе преземете најмногу содржини. Ако каблите во кутијата не одговараат на стариот телефон, може да користите кабел за полнење или за префрлање податоци.</string>
+    <string name="fragment_usb_dialog_cancel_title">Сакате ли да ги копирате податоците на друг начин?</string>
+    <string name="fragment_usb_dont_have_cable">Немам кабел</string>
+    <string name="fragment_usb_dont_have_old_phone">Го немам стариот телефон</string>
+    <string name="fragment_usb_find_cable_description">Користете кабел што одговара на стариот телефон, како на пр., кабелот за префрлање податоци или за полнење.</string>
+    <string name="fragment_usb_find_cable_title">Најдете го вистинскиот кабел</string>
+    <string name="fragment_usb_initial_description">Пренесете ги податоците од стариот телефон на овој ^1.</string>
+    <string name="fragment_usb_initial_title">Ајде да ги копираме податоците</string>
+    <string name="fragment_usb_legacy_description">"Ова е најбрзиот начин да пренесете најмногу податоци.
+
+Најдете го адаптерот во кутијата и приклучете го во новиот телефон. Поврзете ги телефоните со помош на кабел, а потоа отклучете го стариот телефон."</string>
+    <string name="fragment_usb_other_ways">Копирај без кабел</string>
+    <string name="fragment_usb_plug_cable">Приклучете го кабелот во стариот телефон</string>
+    <string name="fragment_waiting_title">Само момент…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_contacts_static_text">„Контактите на Google“ ќе се синхронизираат</string>
+    <string name="google_contacts_static_text_off">„Контактите на Google“ и понатаму ќе се синхронизираат</string>
+    <string name="header_set_backup_account">Постави резервна сметка</string>
+    <string name="i_message_dialog_message">"За да продолжите да добивате SMS-пораки од корисници на iPhone®, треба да ја исклучите услугата iMessage®.
+
+Одете на "<b>g.co/iMessageHelp</b> за упатства.</string>
+    <string name="instructions_fragment_title">Продолжете на другиот телефон</string>
+    <string name="ios_connected_fragment_description">"На следниот екран може да се најавите на сметката на Google или да создадете нова.
+
+Ако не ја додадете сметката на Google, настаните од iOS Calendar® нема да се пренесат."</string>
+    <string name="ios_message_attachment_explanation">[Прилозите од пораката се наоѓаат во „Фотографии на Google“ > „Папки на уредот“ > „Прилози од пораки“]</string>
+    <string name="ios_message_attachment_failed_explanation">[Не можевме да копираме дел од прилозите. Пренесените прилози се наоѓаат во „Фотографии на Google“ > „Папки на уредот“ > „Прилози од пораки“]</string>
+    <string name="ios_message_attachment_placeholder">[Прилозите се зачувани во Google Photos > Папки на уредот > Прилози од пораки]</string>
+    <string name="ios_message_attachments_placeholder">[Прилогот е зачуван во Google Photos > Папки на уредот > Прилози од пораки]</string>
+    <string name="ios_migration_default_calendar_title">Календар</string>
+    <string name="ios_migration_other_contact_relation">Друго</string>
+    <string name="ios_photos_dialog_message">"Фотографиите складирани во iCloud® не може да се копираат.
+
+За да ги пренесете фотографииве на вашиот ^1, инсталирајте ја апликацијата „Фотографии на Google“ на вашиот iPhone® и вклучете „Бекап и синхронизација“. Одете на "<b>g.co/datatransferhelp</b> за повеќе упатства.</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="list_item_add_account">Додај сметка</string>
+    <string name="lockscreen_smartdevice_action_next">Следно</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Отклучете за да продолжи поставувањето на телефонот</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Од безбедносни причини, треба да го потврдите заклучувањето на екранот за да продолжи поставувањето</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Потврдете го заклучувањето на екранот</string>
+    <string name="manage_data_label">Сметка на Google</string>
+    <string name="master_clear_title">Ресетирање фабрички податоци</string>
+    <string name="megabyteShort">МБ</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Треба да поставите резервна сметка</string>
+    <string name="notification_content_title_set_backup_account">Бекап</string>
+    <string name="notification_ticker_set_backup_account">Потребна е резервна сметка</string>
+    <string name="permgrouplab_calendar">Календар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакти</string>
+    <string name="permgrouplab_location">Локација</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Телесни сензори</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Меморија</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photo_backup_configure_account_default_summary">Во моментов ниедна сметка не складира резервни копии на фотографии</string>
+    <string name="photos_backup_title">Бекап на фотографиите</string>
+    <string name="photos_filtering_option_all">Сите</string>
+    <string name="photos_filtering_option_none">Нема</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Копираните контакти ќе се зачуваат во вашата сметка на Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Копираните контакти и календари ќе се зачуваат во вашата сметка на Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Некои од податоците не може да се копираат на вашиот ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Дознајте повеќе</annotation></string>
+    <string name="restore_choice_deselect_some_content">Поништете го изборот на некои содржини за да продолжите</string>
+    <string name="restore_choice_learn_more_android">"Некои податоци од стариот телефон не може да се копираат автоматски:
+
+ ● Преземања (како PDF-датотеки)
+
+ ● Фотографии, видеа и музика зачувани во сокриени папки
+
+ ● Фотографии, видеа и музика примени преку текстуални пораки
+
+ ● Апликации што не се од Google Play Store
+
+ ● Податоци на апликациите (ако не користат резервна копија на Android)
+
+ ● Одредени поставки за уредот
+
+ ● Сметки, освен сметките на Google (и податоците поврзани со нив)
+
+ ● Контакти и календари синхронизирани со услуги што не се на Google
+
+ ● Мелодии
+
+ За повеќе детали и помош за копирање на податоциве, одете на g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Некои податоци од стариот телефон не може да се копираат автоматски:
+
+ ● Апликации и нивни податоци
+
+ ● Фотографии кога оригиналот не е складиран во телефонот (на пример, ако е вклучена поставката „Оптимизирај ја меморијата“, оригиналните фотографии се складираат во iCloud®)
+
+ ● Датотеки и документи складирани во iCloud®
+
+ ● Поставки за уредот (како на пример, лозинки за Wi-Fi и тапет)
+
+ ● Музика заштитена со „Управување со дигитални права“ (УДП) (на пример, музика на iTunes® купена пред април 2009 година или музика преземена од Интернет за слушање офлајн во апликација за пренос на музика)
+
+ ● Сметки, освен сметките на Google (и податоците поврзани со нив)
+
+ ● Контакти и календари синхронизирани со услуги што не се на Google или iCloud®
+
+ ● Обележувачи од Safari®
+
+ Прилозите од iMessage® ќе бидат достапни во Google Photos > Папки на уред > Прилози од пораки.
+
+ За повеќе детали и помош при копирањето на податоциве, одете на g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Нема доволно простор</string>
+    <string name="restore_choice_total_text">од достапните %1$s/%2$s пренос</string>
+    <string name="restore_error_message">За жал, нешто тргна наопаку со враќањето.</string>
+    <string name="restore_item_appdata">Податоци на апликации</string>
+    <string name="restore_item_calendar">Календар</string>
+    <string name="restore_item_calendar_ical_description">„Календарот на iOS®“, „Календарот на Google“</string>
+    <string name="restore_item_calendar_ical_off_description">„Календарот на Google“ сепак ќе се синхронизира</string>
+    <string name="restore_item_calendar_sync_description">„Календарот на Google“ ќе се синхронизира</string>
+    <string name="restore_item_call_logs">Историја на повици</string>
+    <string name="restore_item_contacts">Контакти</string>
+    <string name="restore_item_device_settings_description">Лозинки за Wi-Fi и друго</string>
+    <string name="restore_item_downloads">Преземања</string>
+    <string name="restore_item_email">E-пошта</string>
+    <string name="restore_item_email_description">Gmail ќе се синхронизира</string>
+    <string name="restore_item_message_attachments">Прилози во пораката</string>
+    <string name="restore_item_messages">Пораки</string>
+    <string name="restore_item_music">Музика</string>
+    <string name="restore_item_photos">Фотографии и видеа</string>
+    <string name="restore_item_settings">Поставки на уред</string>
+    <string name="restore_item_sms">SMS-пораки</string>
+    <string name="restore_item_will_be_synced_text">Ова ќе се синхронизира на вашиот телефон</string>
+    <string name="restore_progress_title">Се враќа…</string>
+    <string name="small_time_duration">Помалку од 1 минута</string>
+    <string name="source_connected_description">Се подготвува…</string>
+    <string name="source_connected_title">Поврзано со вашиот %1$s</string>
+    <string name="source_copying_description">Податоците што ги избравте се копираат во вашиот нов телефон</string>
+    <string name="source_copying_title">Се копира…</string>
+    <string name="source_default_target_device_name">нов уред</string>
+    <string name="source_notification_device_disconnected">Повторно поврзете го кабелот</string>
+    <string name="source_notification_text">Во тек е преносот од телефон на телефон</string>
+    <string name="source_notification_title">Пренос на податоци</string>
+    <string name="source_success_description">Завршете со поставувањето на %1$s.</string>
+    <string name="source_success_screen_title">Готово!</string>
+    <string name="source_unplugged_description">Повторно поврзете го со %1$s</string>
+    <string name="source_unplugged_title">Кабелот е исклучен</string>
+    <string name="source_waiting_title">Продолжете со поставувањето на %1$s</string>
+    <string name="stop_copying_dialog_continue_button">Отфрли</string>
+    <string name="stop_copying_dialog_message_before_transfer">Податоците не се копирани на новиот телефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Дел од податоците не се копирани на новиот телефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не копирај</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Сопри</string>
+    <string name="stop_copying_dialog_title_before_transfer">Да не се копира?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Да се сопре копирањето?</string>
+    <string name="storage_management_wear_descriptive_text">Апликациите ја користат меморијата на вашиот уред за да умножат податоци на уред погоден за носење.</string>
+    <string name="storage_management_wear_manage_size_label">Управување со меморија на уред за носење</string>
+    <string name="storage_management_wear_size_label">Меморија на уред за носење</string>
+    <string name="storage_managment_all_storage_descriptive_text">Целокупните податоци користени од услугите на Google Play, вклучувајќи го пребарувачот и други податоци.</string>
+    <string name="storage_managment_clear_all_data">Исчисти ги сите податоци</string>
+    <string name="storage_managment_computing_size">Пресметување…</string>
+    <string name="storage_managment_icing_size_label">Податоци од пребарувањето</string>
+    <string name="storage_managment_manage_icing_button">Управувај со податоци од преб.</string>
+    <string name="storage_managment_search_index_descriptive_text">Го забрзуваме пребарувањето на вашиот уред преку пребарувач што може да го користат вашите апликации.</string>
+    <string name="storage_managment_title">Складирање на услуги на Google Play</string>
+    <string name="storage_managment_total_size_label">Вкупна меморија</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Повеќе</string>
+    <string name="suw_next_button_label">Следно</string>
+    <string name="target_default_source_device_model">стариот уред</string>
+    <string name="target_device_not_supported_cant_continue_description">Ќе треба да изберете друг начин на копирање податоци</string>
+    <string name="target_device_not_supported_cant_continue_title">Другиот телефон не е поддржан</string>
+    <string name="target_device_not_supported_try_restarting_description">"Исклучете го кабелот и рестартирајте го стариот телефон, а потоа повторно поврзете го кабелот и следете ги упатствата на вашиот Pixel.
+
+Ако и понатаму ви се прикажува оваа грешка, може ќе треба да се обидете да копирате на друг начин."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефонот може да не е поддржан</string>
+    <string name="target_smart_device_timeout_add_account">ДОДАЈ СМЕТКА</string>
+    <string name="target_smart_device_timeout_description">Ако сакате, може да се обидете да ја додадете сметката рачно</string>
+    <string name="target_smart_device_timeout_dismiss">ОТФРЛИ</string>
+    <string name="target_smart_device_timeout_title">Наидовте на проблем?</string>
+    <string name="terabyteShort">ТБ</string>
+    <string name="toast_phones_connected">Телефоните се поврзани</string>
+    <string name="toast_reconnect_cable">Повторно поврзете го кабелот</string>
+    <string name="transfer_finished_fragment_title">Се додаваат крајни финеси…</string>
+    <string name="transfer_summary_copied">Податоците се копирани</string>
+    <string name="transfer_summary_fragment_description">Може да го исклучите кабелот.</string>
+    <string name="transfer_summary_fragment_finish">ЗАРШИ</string>
+    <string name="transfer_summary_fragment_title">Вашиот телефон е речиси подготвен</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Некои од вашите фотографии не беа копирани. <annotation id="transfer_summary_learn_more">Дознајте повеќе</annotation></string>
+    <string name="transfer_summary_not_copied">Податоците не се копирани</string>
+    <string name="transfer_summary_partial">Копирани се %1$s/%2$s</string>
+    <string name="transfer_summary_will_sync">Податоците ќе се синхронизираат по поставувањето</string>
+    <string name="transferring_fragment_calculating_remaining_time">Се пресметува преостанатото време…</string>
+    <string name="transferring_fragment_header">Се копира…</string>
+    <string name="transferring_fragment_remaining_time">Уште %1$s</string>
+    <string name="trust_instructions_description">За да продолжите, проверете го вашиот уред iPhone® и одобрете ја врската</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari и iTunes се заштитни знаци на компанијата Apple Inc., регистрирана во САД и други земји.</string>
+</resources>

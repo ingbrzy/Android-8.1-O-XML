@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d contacten toegevoegd aan label %2$s</item>
+        <item quantity="one">%1$d contact toegevoegd aan label %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d contacten toevoegen aan label %2$s</item>
+        <item quantity="one">%1$d contact toevoegen aan label %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Voorgestelde gegevens voor %d contacten bekijken</item>
+        <item quantity="one">Voorgestelde gegevens voor %d contact bekijken</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d ongewenste contacten</item>
+        <item quantity="one">%d ongewenst contact</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d dubbele contacten</item>
+        <item quantity="one">1 dubbel contact</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d recente oproepen • Laatst op %2$s</item>
+        <item quantity="one">%1$d recente oproep • Laatst op %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Contacten zijn al toegevoegd aan label %1$s</item>
+        <item quantity="one">Contact is al toegevoegd aan label %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d contacten</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d contacten · %2$s</item>
+        <item quantity="one">%1$d contact · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d contacten verwijderd</item>
+        <item quantity="one">%1$d contact verwijderd</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Deze contacten worden verwijderd uit Google Contacten en van al je gesynchroniseerde apparaten</item>
+        <item quantity="one">Dit contact wordt verwijderd uit Google Contacten en van al je gesynchroniseerde apparaten</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d contacten in je andere accounts</item>
+        <item quantity="one">1 contact in je andere accounts</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d contacten</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 contacten • ^2</item>
+        <item quantity="one">^1 contact • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Deze %1$d contacten verplaatsen naar %2$s?</item>
+        <item quantity="one">Dit contact verplaatsen naar %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d contacten verplaatst</item>
+        <item quantity="one">%d contact verplaatst</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d contacten zijn verplaatst</item>
+        <item quantity="one">Contact is verplaatst</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d contacten verplaatsen</item>
+        <item quantity="one">Contact verplaatsen</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Back-up van %1$d contacten gemaakt in %2$s</item>
+        <item quantity="one">Back-up van %1$d contact gemaakt in %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importeren van simkaarten</item>
+        <item quantity="one">Importeren van simkaart</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contacten</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d contacten op simkaart geïmporteerd</item>
+        <item quantity="one">1 contact op simkaart geïmporteerd</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Contacten delen via</item>
+        <item quantity="one">Contact delen via</item>
+    </plurals>
+</resources>

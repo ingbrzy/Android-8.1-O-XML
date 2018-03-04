@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Seuraava</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="vzw_wfc_activation_error">Wi-Fi-puheluita ei voitu aktivoida. Yritä myöhemmin uudelleen.</string>
+    <string name="vzw_address_update_error">Tämänhetkistä hätäosoitetta ei voitu päivittää. Yritä myöhemmin uudelleen.</string>
+    <string name="emergency_address_app_label">Hätäosoitteiden hallinnointi</string>
+    <string name="progress_text">Odota…</string>
+    <string name="vzw_tos_title">Aktivoi Wi-Fi-puhelut</string>
+    <string name="cancel">Peruuta</string>
+    <string name="vzw_tos_text">"Wi-Fi-puhelut-ominaisuudella voit soittaa puheluita Wi-Fin kautta, jos matkapuhelinverkkoa ei voi käyttää.
+
+Anna Yhdysvalloissa sijaitseva osoite, jotta Wi-Fi-puhelut voidaan määrittää. Paikalliset hätäkeskuspalvelut käyttävät tätä osoitetta, jos soitat hätänumeroon Wi-Fin kautta Yhdysvalloissa.
+
+Suosittelemme vaihtamaan tämän osoitteen, kun soitat toisen Wi-Fi-verkon kautta, jotta sijaintitietosi pysyvät ajan tasalla. Voit muuttaa sijaintia milloin tahansa Wi-Fi-puheluiden asetuksissa."</string>
+    <string name="vzw_tos_link">Käyttöehdot</string>
+    <string name="tos_continue">Jatka</string>
+    <string name="vzw_e911_title">Hätäosoitetiedot</string>
+    <string name="vzw_e911_description"><b>TÄRKEÄÄ – HÄTÄOSOITE PAKOLLINEN</b>"
+Jotta Wi-Fi-puhelut voidaan ottaa käyttöön, anna Yhdysvalloissa sijaitseva osoite, jonne hätäkeskuspalvelut ohjataan, kun soitat hätänumeroon. Voit muuttaa tätä asetusta milloin tahansa laitteen asetuksissa. Muista päivittää tämä osoite, kun sijaintisi vaihtuu."</string>
+    <string name="vzw_e911_warning"><b>VAROITUKSET – HÄTÄPUHELURAJOITUKSET</b>"
+Kun soitat hätänumeroon, kerro aina sijaintisi päivystäjälle. Hätäpuhelu soitetaan Wi-Fin kautta vain, jos mobiiliverkkoon ei saada yhteyttä. Wi-Fillä tehty hätäpuhelu voi viivästyä tai epäonnistua esimerkiksi silloin, jos hätäpuhelujärjestelmä ei tunnista osoitetta, meneillään on sähkökatko tai Wi-Fi-yhteys ei toimi. Hätäkeskuspalvelut ohjataan ylempänä antamaasi osoitteeseen, joten muista päivittää se, kun sijaintisi vaihtuu."</string>
+    <string name="house_number">Talon numero</string>
+    <string name="street">Katu</string>
+    <string name="apt_suite_number">Asunnon numero tai vastaava</string>
+    <string name="city">Kaupunki</string>
+    <string name="state">Osavaltio</string>
+    <string name="zip_code">Postinumero</string>
+    <string name="save">Tallenna</string>
+    <string name="vzw_address_confirm_text_part1">Antamaasi osoitetta ei löytynyt, koska katuosoitetta ei löytynyt tai kaupunkia, osavaltiota tai postinumeroa ei tunnistettu.</string>
+    <string name="vzw_address_confirm_text_part2">Jos kaupunki, osavaltio tai postinumero on virheellinen, valitse %1$s. Muussa tapauksessa valitse %2$s.</string>
+    <string name="save_anyway">Tallenna siitä huolimatta</string>
+    <string name="edit_address">Muokkaa osoitetta</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Antamaasi osoitetta ei löytynyt:</string>
+    <string name="vzw_address_alternate_text">Tarkoititko:</string>
+    <string name="vzw_partial_confirm_head">Hätäkeskuspalveluntarjoajat eivät voineet vahvistaa annettua osoitetta.</string>
+    <string name="vzw_partial_confirm_text">Haluatko varmasti käyttää tätä osoitetta hätätilanteessa?</string>
+    <string name="vzw_partial_failure_text_part1">Antamasi kaupunki, osavaltio tai postinumero saattaa olla virheellinen.</string>
+    <string name="vzw_partial_failure_text_part2">Tarkista osoite ja yritä uudelleen.</string>
+    <string name="vzw_address_update_success_toast">Hätäosoite päivitetty</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi on pois käytöstä</string>
+    <string name="connect_to_wifi_or_web_portal_message">Voit määrittää Wi-Fi-puhelut mobiiliverkon avulla, mutta ominaisuuden käyttäminen edellyttää Wi-Fin käyttöönottoa ja verkkoon yhdistämistä.</string>
+    <string name="button_turn_on_wifi">Ota Wi-Fi-yhteys käyttöön</string>
+    <string name="button_setup_web_portal">Jatka määrittämistä</string>
+</resources>

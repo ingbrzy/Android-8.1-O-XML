@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Η αξιολόγησή σας: %1$s αστέρια</item>
+        <item quantity="one">Η αξιολόγησή σας: %1$s αστέρι</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d κριτικές</item>
+        <item quantity="one">%1$d κριτική</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d κριτικές για αξιολόγηση με αστέρια %2$d</item>
+        <item quantity="one">%1$d κριτική για αξιολόγηση με αστέρια %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Οι εγκαταστάσεις τέθηκαν σε παύση</item>
+        <item quantity="one">Η εγκατάσταση τέθηκε σε παύση</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Οι εφαρμογές σαρώθηκαν πριν από %1$d ημέρες</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d επιβλαβείς εφαρμογές καταργήθηκαν. %2$s.</item>
+        <item quantity="one">%1$d επιβλαβής εφαρμογή καταργήθηκε. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ενημερώσεις απαιτούν έγκριση</item>
+        <item quantity="one">%1$d ενημέρωση απαιτεί έγκριση</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d νέες ενημερώσεις</item>
+        <item quantity="one">%1$d νέα ενημέρωση</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d διαθέσιμες ενημερώσεις</item>
+        <item quantity="one">%1$d διαθέσιμη ενημέρωση</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Ενημέρωση όλων</item>
+        <item quantity="one">Ενημέρωση</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Ενημερώθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Ενημερώθηκε %1$d εφαρμογή</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s αστέρια</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s αστέρι</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s αστέρια - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s αστέρι - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s αστέρια - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s αστέρι - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d χρήστες θεώρησαν χρήσιμη την κριτική. Επισήμανση σχολίου ως χρήσιμου</item>
+        <item quantity="one">%1$d χρήστης θεώρησε χρήσιμη την κριτική. Επισήμανση σχολίου ως χρήσιμου</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d χρήστες θεώρησαν χρήσιμη την κριτική. Κατάργηση επισήμανσης σχολίου ως χρήσιμου</item>
+        <item quantity="one">%1$d χρήστης θεώρησε χρήσιμη την κριτική. Κατάργηση επισήμανσης σχολίου ως χρήσιμου</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Βαθμολογία &lt;b>%1$s αστέρια&lt;/b></item>
+        <item quantity="one">Βαθμολογία &lt;b>%1$s αστέρι&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">σε %1$s αξιολογήσεις</item>
+        <item quantity="one">σε %1$s αξιολόγηση</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s αστέρια&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s αστέρι&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d ημέρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d ημέρα</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Επαναφορά %1$d επιλεγμένων εφαρμογών</item>
+        <item quantity="one">Επαναφορά επιλεγμένης εφαρμογής</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">αστέρια</item>
+        <item quantity="one">αστέρι</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Οι εφαρμογές θα εγκατασταθούν σύντομα</item>
+        <item quantity="one">Η εφαρμογή θα εγκατασταθεί σύντομα.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Οι ενημερώσεις των εφαρμογών θα εγκατασταθούν σύντομα.</item>
+        <item quantity="one">Η ενημέρωσης της εφαρμογής θα εγκατασταθεί σύντομα.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d ημέρες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d ημέρα</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Τελευταία χρήση πριν από %1$d μήνες</item>
+        <item quantity="one">Τελευταία χρήση πριν από %1$d μήνα</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από τις ρυθμίσεις αποθηκευτικού χώρου.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από τις ρυθμίσεις αποθηκευτικού χώρου.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από την επιλογή &lt;a href=\"\">Ρυθμίσεις > Αποθηκευτικός χώρος&lt;/a>.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από την επιλογή &lt;a href=\"\">Ρυθμίσεις > Αποθηκευτικός χώρος&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Για εγκατάσταση εφαρμογών ή ενημερώσεων σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από την επιλογή Ρυθμίσεις > Αποθηκευτικός χώρος.</item>
+        <item quantity="one">Για εγκατάσταση εφαρμογής ή ενημέρωσης σε αυτήν τη συσκευή, διαγράψτε εφαρμογές που δεν χρειάζεστε πια. Επίσης, μπορείτε να ελευθερώσετε χώρο διαγράφοντας αρχεία πολυμέσων από την επιλογή Ρυθμίσεις > Αποθηκευτικός χώρος.</item>
+    </plurals>
+</resources>

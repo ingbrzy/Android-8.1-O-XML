@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀረዎታል።</item>
+        <item quantity="one">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀረዎታል።</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">ልክ ያልሆነ የሲም ፒዩኬ ኮድ፣ ሲሙ እስከመጨረሻው የማይሰራ ከመሆኑ በፊት %d ሙከራዎች ይቀረዎታል።</item>
+        <item quantity="one">ልክ ያልሆነ የሲም ፒዩኬ ኮድ፣ ሲሙ እስከመጨረሻው የማይሰራ ከመሆኑ በፊት %d ሙከራዎች ይቀረዎታል።</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">መሣሪያው ለ%d ሰዓቶች አልተከፈተም ነበር። የይለፍ ቃል ያረጋግጡ።</item>
+        <item quantity="one">መሣሪያው ለ%d ሰዓቶች አልተከፈተም ነበር። የይለፍ ቃል ያረጋግጡ።</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">መሣሪያው ለ%d ሰዓቶች አልተከፈተም ነበር። ስርዓተ-ጥለት ያረጋግጡ።</item>
+        <item quantity="one">ው ለ%d ሰዓቶች አልተከፈተም ነበር። ስርዓተ-ጥለት ያረጋግጡ።</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">መሣሪያው ለ%d ሰዓቶች አልተከፈተም ነበር። ፒን ያረጋግጡ።</item>
+        <item quantity="one">መሣሪያው ለ%d ሰዓቶች አልተከፈተም ነበር። ፒን ያረጋግጡ።</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s፣ %2$s እና %3$d ሌሎች</item>
+        <item quantity="one">%1$s፣ %2$s እና %3$d ሌሎች</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">ከውስጥ ተጨማሪ %s ማሳወቂያዎች።</item>
+        <item quantity="one">ከውስጥ ተጨማሪ %s ማሳወቂያዎች።</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 %s የማሳወቂያ ምድቦች ከዚህ መተግበሪያ</item>
+        <item quantity="one">1 ከ%s የማሳወቂያ ምድቦች ከዚህ መተግበሪያ</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d ማያ ገጾች በአጠቃላይ እይታ ውስጥ</item>
+        <item quantity="one">%d ማያ ገጾች በአጠቃላይ እይታ ውስጥ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="app_has_in_app_purchases">Køb i appen</string>
+    <string name="app_has_permissions">Tilladelser: %s</string>
+    <string name="app_has_runtime_permissions">Appen beder dig om tilladelser</string>
+    <string name="app_picker_loading">Søger efter tilgængelige apps…</string>
+    <string name="app_picker_loading_toast">De tilgængelige apps vil snart være indlæst</string>
+    <string name="app_picker_no_apps">Ingen apps er valgt</string>
+    <string name="app_picker_no_apps_found">Der blev ikke fundet nogen apps</string>
+    <string name="apps_permissions_described_v2">"Det er kun populære, gratis iOS®-apps, der kan matches med Android-apps. De fleste køb i apps kan ikke overføres. Du kan finde flere apps i Play Butik, når konfigurationen er gennemført.
+
+Du er muligvis nødt til at give nogle apps forudgående adgangstilladelse til bestemte funktioner eller oplysninger på din enhed. Tilladelser er opdelt i tilladelsesgrupper. Når du vælger at installere disse apps, accepterer du de tilladelser, der er en del af hver gruppe. Du kan se en beskrivelse af hver tilladelsesgruppe nedenfor.
+
+Nogle apps kræver muligvis ikke, at du accepterer tilladelser forud for installation. Når du bruger en af disse apps, kan du tillade eller afvise individuelle tilladelser, før appen anvender den pågældende type data.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Værktøj til dataoverførsel</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Undlad at kopiere</string>
+    <string name="close_button_label">Luk</string>
+    <string name="cloud_restore_app_picker_button">Gendan</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Din backup har ikke nogen apps</string>
+    <string name="cloud_restore_app_picker_title">Vælg apps, der skal gendannes</string>
+    <string name="common_cancel">Annuller</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d i iCloud®, %2$d på enheden</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontaktpersoner, %1$d i iCloud®, %2$d på enheden</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontaktpersoner, %1$d på SIM-kortet, %2$d på enheden</string>
+    <string name="contacts_number_device_with_google">Google Kontaktpersoner, %1$d på enheden</string>
+    <string name="contacts_number_icloud_with_google">Google Kontaktpersoner, %1$d i iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Kontaktpersoner, %1$d på SIM-kort</string>
+    <string name="copy_confirmation_description">Du kopierer data som f.eks. din Google-konto og dine apps til din nye telefon</string>
+    <string name="copy_confirmation_title">Vil du kopiere til din nye telefon?</string>
+    <string name="d2d_app_picker_description_no_apps">Vi kunne ikke finde nogen apps</string>
+    <string name="d2d_app_picker_title">Apps</string>
+    <string name="d2d_migration_canceled_on_source">Kopieringen blev annulleret</string>
+    <string name="data_copied_fragment_description">Dine data er kopieret til din nye telefon. Du kan nu frakoble kablet.</string>
+    <string name="data_copied_fragment_description_cancel">Du valgte at afbryde kopieringen, så det er kun nogle af dine data, der er kopieret til din nye telefon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Du valgte at afbryde kopieringen, så der er ikke kopieret noget til din nye telefon.</string>
+    <string name="data_copied_fragment_description_error">Der opstod en fejl, som gjorde, at ikke alt indhold blev kopieret.</string>
+    <string name="data_copied_fragment_description_error_no_data">Der opstod en fejl, som forhindrede os i at kopiere dine data.</string>
+    <string name="data_copied_fragment_no_data_title">Kopieringen mislykkedes</string>
+    <string name="data_copied_fragment_some_data_title">Nogle data blev kopieret</string>
+    <string name="data_copied_fragment_title">Dataene er kopieret</string>
+    <string name="device_not_supported_fragment_new_device">Du er tilsluttet en ny telefon. Hvis du vil fortsætte, skal du tilslutte din tidligere telefon igen.</string>
+    <string name="device_not_supported_fragment_new_device_title">Tilslut den tidligere telefon igen</string>
+    <string name="device_not_supported_fragment_no_data_cable">Dette kabel kan ikke overføre data. Tilslut igen med et andet kabel, og prøv igen.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prøv et andet kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Sørg for, at din gamle telefon er låst op. Tag derefter kablet ud, og tilslut det igen.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Der gik noget galt</string>
+    <string name="device_not_supported_ios_supervised_description">Din iPhone® er en administreret enhed, så du skal vælge en anden måde at kopiere data på</string>
+    <string name="device_picker_skip">Undlad at gendanne</string>
+    <string name="durationDayHour">%1$d dag %2$d t.</string>
+    <string name="durationDayHours">%1$d dag %2$d t.</string>
+    <string name="durationDays">%1$d dage</string>
+    <string name="durationHourMinute">%1$d t. %2$d min.</string>
+    <string name="durationHourMinutes">%1$d t. %2$d min.</string>
+    <string name="durationHours">%1$d t.</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinutes">%1$d minutter</string>
+    <string name="encryption_warning_fragment_description">"Kryptering af backup er slået til for din iPhone®-enhed. Hvis du ikke selv slog det til, har din it-administrator muligvis gjort det.
+
+Det er kun billeder, musik og videoer, der kan kopieres. Du kan få flere oplysninger på "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Kryptering af backup</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Jeg kan ikke finde adapteren</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Find den Quick Switch Adapter, der fulgte med din ^1.
+
+Sæt kablet i adapteren."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Slut adapteren til kablet</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Lås din gamle telefon op, og slut adapteren til telefonen.</string>
+    <string name="fragment_usb_connect_both_phones_title">Slut telefonerne til hinanden</string>
+    <string name="fragment_usb_dialog_cancel_description">Du får mest indhold, hvis du bruger et kabel. Hvis kablet i æsken ikke passer, kan du prøve at bruge et oplader- eller datakabel, der fungerer sammen med din gamle telefon.</string>
+    <string name="fragment_usb_dialog_cancel_title">Vil du kopiere dine data på en anden måde?</string>
+    <string name="fragment_usb_dont_copy">Undlad at kopiere</string>
+    <string name="fragment_usb_dont_have_cable">Jeg har ikke noget kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Kan du ikke bruge din gamle telefon?</string>
+    <string name="fragment_usb_find_cable_description">Brug et kabel, der passer til din gamle telefon, f.eks. dit data- eller opladerkabel.</string>
+    <string name="fragment_usb_find_cable_title">Find det rigtige kabel</string>
+    <string name="fragment_usb_initial_description">Du skal bruge din gamle Android- eller iPhone®-enhed. Tænd enheden, og lad den være låst op.</string>
+    <string name="fragment_usb_initial_title">Hent din gamle telefon</string>
+    <string name="fragment_usb_legacy_description">"Dette er den hurtigste måde at hente flest data på.
+
+Find adapteren i æsken, og sæt den i din nye telefon. Forbind telefonerne med et kabel, og lås derefter din gamle telefon op."</string>
+    <string name="fragment_usb_missing_data_description">Du kan fortsætte konfigurationen af din Pixel under overførslen.</string>
+    <string name="fragment_usb_missing_data_title">Lad os kopiere dine data</string>
+    <string name="fragment_usb_other_ways">Kopiér uden et kabel</string>
+    <string name="fragment_usb_plug_cable">Sæt kablet i din gamle telefon</string>
+    <string name="fragment_waiting_title">Et øjeblik…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontaktpersoner synkroniseres</string>
+    <string name="google_contacts_static_text_off">Google Kontaktpersoner synkroniseres stadig</string>
+    <string name="i_message_dialog_message">"Hvis du vil fortsætte med at modtage sms-beskeder fra iPhone®-brugere, skal du deaktivere iMessage®.
+
+Du finder en vejledning på "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Fortsæt på din anden telefon</string>
+    <string name="ios_connected_fragment_description">"På næste skærm kan du logge ind på din Google-konto eller oprette en ny.
+
+Dine begivenheder fra iOS Calendar® overføres ikke, medmindre du tilføjer din Google-konto."</string>
+    <string name="ios_message_attachment_explanation">[Vedhæftede filer fra dine meddelelser kan findes i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachment_failed_explanation">[Nogle af de vedhæftede filer kunne ikke kopieres. De vedhæftede filer, som blev overført, kan findes i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachment_placeholder">[Vedhæftet fil gemt i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_message_attachments_placeholder">[Vedhæftede filer gemt i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser]</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Anden</string>
+    <string name="ios_photos_dialog_message">"Billeder, der er gemt i iCloud®, kan ikke kopieres.
+
+Hvis du vil have disse billeder over på din ^1, skal du installere Google Fotos-appen på din iPhone®-enhed og aktivere Backup og synkronisering. Du kan finde yderligere vejledning på "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="lockscreen_smartdevice_action_next">Næste</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Ingen</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopierede kontaktpersoner gemmes på din Google-konto.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopierede kontaktpersoner og kalendere gemmes på din Google-konto.</string>
+    <string name="restore_choice_data_disclaimer_v2">Det er muligvis ikke alle dine data, der kopieres til din ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Få flere oplysninger</annotation></string>
+    <string name="restore_choice_deselect_some_content">Fravælg noget af indholdet for at fortsætte</string>
+    <string name="restore_choice_learn_more_android">"Nogle data fra din gamle telefon kan ikke kopieres automatisk:
+
+ ● Downloads (f.eks. PDF-filer)
+
+ ● Billeder, videoer og musik, der er gemt i skjulte mapper
+
+ ● Billeder, videoer og musik, der er modtaget via sms
+
+ ● Apps, der ikke er fra Google Play Butik
+
+ ● Appdata (hvis appen ikke benytter Android-backup)
+
+ ● Visse enhedsindstillinger
+
+ ● Andre konti end Google-konti (og eventuelle tilknyttede data)
+
+ ● Kontaktpersoner og kalendere, der er synkroniseret med andre tjenester end Google
+
+ ● Ringetoner
+
+ Du kan få flere oplysninger samt hjælp til at kopiere nogle af disse data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Nogle data fra din gamle telefon kan ikke kopieres automatisk:
+
+ ● Apps og appdata
+
+ ● Billeder, hvor originalen ikke er gemt på din telefon (hvis indstillingen Optimer lagerplads er aktiveret, gemmes de originale billeder f.eks. i iCloud®)
+
+ ● Filer og dokumenter, der er gemt i iCloud®
+
+ ● Enhedsindstillinger (f.eks. Wi-Fi-adgangskoder og baggrund)
+
+ ● Musik, der er beskyttet ved hjælp af administration af digitale rettigheder (DRM, Digital Rights Management) (f.eks. musik fra iTunes®, der er købt før april 2009, eller musik, der er downloadet til offlineafspilning i en app til musikstreaming)
+
+ ● Andre konti end Google-konti (og eventuelle tilknyttede data)
+
+ ● Kontaktpersoner og kalendere, der er synkroniseret med andre tjenester end Google eller iCloud®
+
+ ● Bogmærker fra Safari®
+
+ Vedhæftede filer i iMessage® bliver tilgængelige i Google Fotos > Mapper på enheden > Vedhæftede filer fra meddelelser.
+
+ Du kan få yderligere oplysninger samt hjælp til at kopiere nogle af disse data på g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Der er ikke nok plads</string>
+    <string name="restore_choice_total_text">af din ledige plads på %1$s med en overførselsvarighed på %2$s</string>
+    <string name="restore_item_appdata">Appdata</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS® Kalender, Google Kalender</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalender synkroniseres stadig</string>
+    <string name="restore_item_calendar_sync_description">Google Kalender synkroniseres</string>
+    <string name="restore_item_call_logs">Opkaldshistorik</string>
+    <string name="restore_item_contacts">Kontaktpersoner</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-adgangskoder m.m.</string>
+    <string name="restore_item_downloads">Downloads</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">Gmail synkroniseres</string>
+    <string name="restore_item_message_attachments">Vedhæftede filer fra meddelelser</string>
+    <string name="restore_item_messages">Meddelelser</string>
+    <string name="restore_item_music">Musik</string>
+    <string name="restore_item_photos">Billeder og videoer</string>
+    <string name="restore_item_settings">Enhedsindstillinger</string>
+    <string name="restore_item_sms">Sms-beskeder</string>
+    <string name="restore_item_will_be_synced_text">Dette synkroniseres på din telefon</string>
+    <string name="restore_progress_title">Gendanner…</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="small_time_duration">Mindre end 1 minut</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Afvis</string>
+    <string name="stop_copying_dialog_message_before_transfer">Dine data blev ikke kopieret til din nye telefon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Nogle af dine data blev ikke kopieret til din nye telefon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Undlad at kopiere</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stop</string>
+    <string name="stop_copying_dialog_title_before_transfer">Vil du ikke kopiere?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vil du afbryde kopieringen?</string>
+    <string name="suw_back_button_label">Tilbage</string>
+    <string name="suw_more_button_label">Mere</string>
+    <string name="suw_next_button_label">Næste</string>
+    <string name="target_default_source_device_model">gammel enhed</string>
+    <string name="target_device_not_supported_cant_continue_description">Du skal vælge en anden måde at kopiere data på</string>
+    <string name="target_device_not_supported_cant_continue_title">Den anden telefon understøttes ikke</string>
+    <string name="target_device_not_supported_try_restarting_description">"Tag kablet ud, og genstart din gamle telefon. Sæt derefter kablet i igen, og følg vejledningen på din Pixel.
+
+Hvis du fortsat får vist denne fejl, skal du muligvis forsøge at kopiere på en anden måde."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefonen understøttes muligvis ikke</string>
+    <string name="target_pixelmigrate_notification_description">Tilgængelig eller i gang</string>
+    <string name="target_pixelmigrate_notification_title">Dataoverførsel</string>
+    <string name="target_smart_device_timeout_add_account">TILFØJ KONTO</string>
+    <string name="target_smart_device_timeout_description">Hvis du vil, kan du prøve at tilføje din konto manuelt</string>
+    <string name="target_smart_device_timeout_dismiss">AFVIS</string>
+    <string name="target_smart_device_timeout_title">Oplever du problemer?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonerne er forbundet</string>
+    <string name="toast_reconnect_cable">Tilslut dit kabel igen</string>
+    <string name="transfer_finished_fragment_title">Forbereder de sidste detaljer…</string>
+    <string name="transfer_summary_copied">Dataene er kopieret</string>
+    <string name="transfer_summary_fragment_description">Du kan tage kablet ud.</string>
+    <string name="transfer_summary_fragment_finish">AFSLUT</string>
+    <string name="transfer_summary_fragment_title">Din telefon er næsten klar</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Nogle af dine billeder blev ikke kopieret. <annotation id="transfer_summary_learn_more">Få flere oplysninger</annotation></string>
+    <string name="transfer_summary_not_copied">Dataene blev ikke kopieret</string>
+    <string name="transfer_summary_partial">%1$s/%2$s er kopieret</string>
+    <string name="transfer_summary_will_sync">Dataene synkroniseres efter konfigurationen</string>
+    <string name="transferring_fragment_calculating_remaining_time">Beregner resterende tid…</string>
+    <string name="transferring_fragment_header">Kopierer...</string>
+    <string name="transferring_fragment_remaining_time">%1$s tilbage</string>
+    <string name="trust_instructions_description">Tjek din iPhone®-enhed, og godkend forbindelsen for at fortsætte</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes er varemærker tilhørende Apple Inc., som er registreret i USA og andre lande.</string>
+</resources>

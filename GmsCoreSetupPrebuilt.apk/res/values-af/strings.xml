@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeer tuis</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigeer op</string>
+    <string name="abc_action_menu_overflow_description">Nog opsies</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Sien alles</string>
+    <string name="abc_activitychooserview_choose_application">"Kies 'n program"</string>
+    <string name="abc_capital_off">AF</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Soek …</string>
+    <string name="abc_searchview_description_clear">Vee navraag uit</string>
+    <string name="abc_searchview_description_query">Soeknavraag</string>
+    <string name="abc_searchview_description_search">Soek</string>
+    <string name="abc_searchview_description_submit">Dien navraag in</string>
+    <string name="abc_searchview_description_voice">Stemsoektog</string>
+    <string name="abc_shareactionprovider_share_with">Deel met</string>
+    <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
+    <string name="abc_toolbar_collapse_description">Vou in</string>
+    <string name="app_has_in_app_purchases">Inprogram-aankope</string>
+    <string name="app_has_permissions">Toestemmings: %s</string>
+    <string name="app_has_runtime_permissions">Program sal vir toestemmings vra</string>
+    <string name="app_picker_app_already_installed_toast">Hierdie program is reeds geïnstalleer</string>
+    <string name="app_picker_loading">Vind tans beskikbare programme …</string>
+    <string name="app_picker_loading_toast">Beskikbare programme sal binnekort laai</string>
+    <string name="app_picker_no_apps">Geen programme gekies nie</string>
+    <string name="app_picker_no_apps_found">Geen programme gevind nie</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Inprogram-aankope sal nie na jou ^1 oorgedra word nie.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Sommige inprogram-aankope sal dalk nie na jou ^1 oorgedra word nie.</string>
+    <string name="apps_permissions_described_v2">"Net gewilde, gratis iOS®-programme kan by Android-programme gepas word. Die meeste inprogram-aankope sal nie oorgedra word nie. Jy kan meer programme in die Play Winkel vind nadat die opstelling voltooi is.
+
+Jy sal sommige programme dalk vooraf toestemming moet gee om toegang tot spesifieke vermoëns of inligting op jou toestel te kry. Toestemmings is in toestemminggroepe gerangskik. Deur te kies om hierdie programme te installeer, aanvaar jy die toestemmings wat deel van elke groep is. 'n Beskrywing van elke toestemminggroep word hieronder verskaf.
+
+Sommige programme sal dalk nie vooraf toestemming vereis nie. Wanneer jy een van hierdie programme gebruik, kan jy enige individuele toestemming toelaat of weier voordat die program daardie soort data gebruik.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Deur elke program te installeer, stem jy in tot sy toestemmings. <annotation id="apps_permissions_learn_more">Kom meer te wete</annotation></string>
+    <string name="auto_restore_summary">"Wanneer 'n program weer geïnstalleer word, kan gerugsteunde instellings en data teruggelaai word"</string>
+    <string name="auto_restore_title">Outomatiese teruglaai</string>
+    <string name="backup_configure_account_default_summary">Geen rekening stoor tans gerugsteunde data nie</string>
+    <string name="backup_configure_account_title">Rugsteunrekening</string>
+    <string name="backup_data_summary">Rugsteun programdata, Wi-Fi-wagwoorde en ander instellings in Google Drive</string>
+    <string name="backup_data_summary_full">"Rugsteun toesteldata (soos Wi-Fi-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg is) outomaties oor 'n afstand.
+
+Wanneer jy outomatiese rugsteun aanskakel, word toestel- en programdata van tyd tot tyd oor 'n afstand gestoor. Programdata kan enige data wees wat 'n program gestoor het (op grond van ontwikkelaarinstellings), insluitend potensieel sensitiewe data soos kontakte, boodskappe en foto's."</string>
+    <string name="backup_data_title">Rugsteun in Google Drive</string>
+    <string name="backup_erase_dialog_message">Staak die rugsteun van jou Wi-Fi-wagwoorde, boekmerke, ander instellings en programdata te rugsteun en vee ook al die kopieë op Google Drive uit?</string>
+    <string name="backup_erase_dialog_message_full">Staak die rugsteun van toesteldata (soos Wi-Fi-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg is) en vee ook alle kopieë in Google Drive uit?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Kon nie foto-instellings oopmaak nie</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Wanneer jy outomatiese rugsteun aanskakel:
+
+ ● Toestelinstellings en programdata word van tyd tot tyd in 'n private vouer in Google Drive gestoor. Programdata kan enige data wees wat 'n program (op grond van ontwikkelaarinstellings) gestoor het, insluitend potensieel sensitiewe data, soos kontakte, boodskappe en foto's.
+
+ Groot lêers, of lêers wat ontwikkelaars gekies het om van die diens uit te sluit, sal nie gerugsteun word nie.
+
+ ● Foto's en video-opnames op hierdie toestel word met jou Google Foto's-biblioteek gesinkroniseer om op enige van jou toestelle te soek, te redigeer, uit te vee en te deel.
+
+ Volresolusie-foto's en video's word by verstek opgelaai. Hulle vorm nie deel van jou Drive-bergingkwota nie.
+
+ ● Kontakte en geassosieerde data op hierdie toestel word met Google Kontakte gesinkroniseer. Jy kan die Google Kontakte-program gebruik om kontakte op enige van jou toestelle te soek, te wysig, uit te vee en te deel.
+
+ ● Kalenderinskrywings en geassosieerde data op hierdie toestel word met Google Kalender gesinkroniseer. Jy kan die Google Kalender-program gebruik om kontakte op enige van jou toestelle te soek, te wysig, uit te vee en te deel.
+
+ Rugsteundata sal nie deel vorm van jou Drive-bergingkwota nie."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Wanneer jy outomatiese rugsteun aanskakel:
+
+ ● Word toestelinstellings en programdata van tyd tot tyd in 'n privaat vouer in Google Drive gestoor. Programdata kan enige data wees wat 'n program gestoor het (gegrond op ontwikkelaarinstellings), insluitend potensiaal sensitiewe data soos kontakte, boodskappe en foto's.
+
+ Groot lêers, of lêer wat ontwikkelaars kies om van hierdie diens uit te sluit, sal nie gerugsteun word nie.
+
+ ● Word kontakte en geassosieerde data van hierdie toestel af met Google Kontakte gesinkroniseer. Jy kan die Google Kontakte-program gebruik om kontakte van enige van jou toestelle af te deursoek, te wysig, uit te vee of te deel.
+
+ ● Word kalenderinskrywings en geassosieerde data van hierdie toestel af met Google Kalender gesinkroniseer. Jy kan die Google Kalender-program gebruik om kontakte van enige van jou toestelle af te deursoek, te wysig, uit te vee en te deel.
+
+ Rugsteundata sal nie deel vorm van jou Drive-bergingkwota nie."</string>
+    <string name="backup_opt_in_backup_description_extra">"Kalender, kontakte, foto's en video's word met jou Google-rekening gesinkroniseer en sal dalk deur verskillende dienste gebruik word."</string>
+    <string name="backup_opt_in_backup_description_v2">Outomatiese rugsteun verseker dat jy fone enige tyd maklik kan terugstel of wissel. <annotation id="backup_opt_in_learn_more">Kom meer te wete</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Dit sal rugsteun afskakel vir:
+
+Programme en programdata
+Oproepgeskiedenis
+Toestelinstellings
+Foto's en video's
+SMS
+
+Kalender en kontakte sal steeds met jou Google-rekening sinkroniseer. Wanneer die opstelling voltooi is, kan jy sinkroniseringinstellings verander deur na "<annotation id="backup_opt_in_settings_instructions">Instellings > Rekeninge > Google</annotation> te gaan.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Skakel rugsteun af?</string>
+    <string name="backup_opt_in_backup_list">"Programme en programdata
+Kalender
+Oproepgeskiedenis
+Kontakte
+Toestelinstellings (insluitend Wi-Fi-wagwoorde)
+Foto's en video's
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Rugsteun sluit in:</string>
+    <string name="backup_opt_in_backup_title">Rugsteun in Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Skakel rugsteun af</string>
+    <string name="backup_photos_update">"Dateer asseblief Google Foto's op"</string>
+    <string name="backup_settings_activity_backup_title">Rugsteun</string>
+    <string name="backup_settings_activity_title">Rugsteun en stel terug</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Moenie kopieer nie</string>
+    <string name="close_button_label">Maak toe</string>
+    <string name="cloud_restore_app_picker_button">Laai terug</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Jou rugsteun het nie enige programme nie</string>
+    <string name="cloud_restore_app_picker_title">Kies programme om terug te laai</string>
+    <string name="common_accept">Aanvaar</string>
+    <string name="common_add_account_label">"Voeg 'n rekening by"</string>
+    <string name="common_ads_settings_title">Advertensies</string>
+    <string name="common_agree">Stem in</string>
+    <string name="common_app_name">Google Play-dienste</string>
+    <string name="common_asm_preferences_settings_title">Rekeningvoorkeure</string>
+    <string name="common_asm_privacy_settings_title">Persoonlike inligting en privaatheid</string>
+    <string name="common_asm_security_settings_title">Aanmelding en sekuriteit</string>
+    <string name="common_audience_edit_button_label">Wysig</string>
+    <string name="common_cancel">Kanselleer</string>
+    <string name="common_cannot_start_hangouts_security_exception">Kon nie Hangouts begin nie (toestemmingfout).</string>
+    <string name="common_car_permission_desc">Toegang tot die motordiens.</string>
+    <string name="common_car_permission_label">Motordiens</string>
+    <string name="common_chips_label_empty_circles">Geen kringe nie</string>
+    <string name="common_chips_label_extended_circles">Uitgebreide kringe</string>
+    <string name="common_chips_label_only_you">Net jy</string>
+    <string name="common_chips_label_public">Publiek</string>
+    <string name="common_chips_label_your_circles">Jou kringe</string>
+    <string name="common_choose_account_label">"Kies 'n rekening"</string>
+    <string name="common_clear_app_data_menu_item">Maak programdata skoon</string>
+    <string name="common_connected">Gekoppel</string>
+    <string name="common_connected_apps_settings_title">Gekoppelde programme</string>
+    <string name="common_connecting">Koppel tans …</string>
+    <string name="common_continue">Gaan voort</string>
+    <string name="common_disagree">Stem nie in nie</string>
+    <string name="common_disconnect">Ontkoppel</string>
+    <string name="common_done">Klaar</string>
+    <string name="common_fitness_settings_title">Google Fiks</string>
+    <string name="common_from">Van:</string>
+    <string name="common_games_settings_title">Speel speletjies</string>
+    <string name="common_get_started">Begin hier</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Aktiveer</string>
+    <string name="common_google_play_services_enable_text">%1$s sal nie werk nie tensy jy Google Play-dienste aktiveer.</string>
+    <string name="common_google_play_services_enable_title">Aktiveer Google Play-dienste</string>
+    <string name="common_google_play_services_error_dialog_title">Fout</string>
+    <string name="common_google_play_services_install_button">Installeer</string>
+    <string name="common_google_play_services_install_text">%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.</string>
+    <string name="common_google_play_services_install_title">Kry Google Play-dienste</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-fout</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.</string>
+    <string name="common_google_play_services_update_button">Dateer op</string>
+    <string name="common_google_play_services_update_text">%1$s sal nie werk nie tensy jy Google Play Dienste opdateer.</string>
+    <string name="common_google_play_services_update_title">Dateer Google Play-dienste op</string>
+    <string name="common_google_play_services_updating_text">%1$s sal nie sonder Google Play-dienste werk nie, wat tans opdateer.</string>
+    <string name="common_google_play_services_updating_title">Google Play Dienste dateer tans op</string>
+    <string name="common_google_play_services_wear_update_text">Nuwe weergawe van Google Play-dienste is nodig. Dit sal binnekort self opdateer.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play Dienste is met die verkeerde argitektuur geïnstalleer.</string>
+    <string name="common_google_play_services_wrong_architecture_text">"Google Play Dienste is geïnstalleer met 'n argitektuur (%1$s) wat van jou toestelargitektuur (%2$s) verskil."</string>
+    <string name="common_google_play_services_wrong_architecture_title">Verkeerde argitektuur</string>
+    <string name="common_google_settings">Google-instellings</string>
+    <string name="common_google_settings_account">Rekening</string>
+    <string name="common_google_settings_credentials_title">Smart Lock vir wagwoorde</string>
+    <string name="common_google_settings_developer">Ontwikkelaar</string>
+    <string name="common_google_settings_services">Dienste</string>
+    <string name="common_got_it">Het dit</string>
+    <string name="common_install">Installeer</string>
+    <string name="common_learn_more">Kom meer te wete</string>
+    <string name="common_list_apps_menu_help">Hulp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hulp en terugvoer</string>
+    <string name="common_loading">Laai tans …</string>
+    <string name="common_location_settings_title">Ligging</string>
+    <string name="common_magictether_settings_title">Kitsverbinding</string>
+    <string name="common_maps_settings_title">Maps en Latitude</string>
+    <string name="common_mdm_feature_name">Android Toestelbestuurder</string>
+    <string name="common_missing_url_viewer">Kyker ontbreek om eksterne URL te wys.</string>
+    <string name="common_more_options">Meer opsies</string>
+    <string name="common_networking_settings_title">Inligtingruiling</string>
+    <string name="common_no_browser_for_restricted_url">Beperkte toegang. Geen blaaier is gevind nie.</string>
+    <string name="common_no_devices_found">Geen toestelle gevind nie</string>
+    <string name="common_no_network">Nie beskikbaar nie omdat die toestel vanlyn is</string>
+    <string name="common_no_thanks">Nee, dankie</string>
+    <string name="common_not_now">Nie nou nie</string>
+    <string name="common_off">Af</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Aan</string>
+    <string name="common_open_on_phone">Maak oop op foon</string>
+    <string name="common_open_source_licenses">Oopbronlisensies</string>
+    <string name="common_people_settings_title">Kontakte</string>
+    <string name="common_permissions_enable_in_settings">Aktiveer in Instellings</string>
+    <string name="common_permissions_missing_end">Maak Instellings oop, dan Toestemmings en laat alle gelyste items toe.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Gaan na 
+Instellings >
+Toestemmings >
+Google Play-dienste om te aktiveer"</string>
+    <string name="common_permissions_missing_start">Hierdie program sal nie behoorlik werk tensy jy Google Play-dienste se versoek om by die volgende in te gaan, toestaan nie:</string>
+    <string name="common_permissions_open_settings">Maak Instellings oop</string>
+    <string name="common_phone">Foon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privaatheidsbeleid</string>
+    <string name="common_restore">Laai terug</string>
+    <string name="common_retry">Herprobeer</string>
+    <string name="common_search_settings_title">Search</string>
+    <string name="common_security_ootp_setting_title">Sekuriteitkode</string>
+    <string name="common_security_settings_title">Sekuriteit</string>
+    <string name="common_send">Stuur</string>
+    <string name="common_sending">Stuur tans …</string>
+    <string name="common_set_up_nearby_device_settings_title">Stel nabygeleë toestel op</string>
+    <string name="common_settings">Instellings</string>
+    <string name="common_signin_button_text">Meld aan</string>
+    <string name="common_signin_button_text_long">Meld aan met Google</string>
+    <string name="common_something_went_wrong">Iets is fout</string>
+    <string name="common_system_info">Stelselinligting</string>
+    <string name="common_take_photo_label">Neem foto</string>
+    <string name="common_terms_of_service">Diensbepalings</string>
+    <string name="common_try_again">Probeer weer</string>
+    <string name="common_turn_on_bluetooth">Skakel Bluetooth aan</string>
+    <string name="common_ui_confirm_deleting_button">Vee uit</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ek verstaan en wil uitvee</string>
+    <string name="common_unknown">Onbekend</string>
+    <string name="common_update">Dateer op</string>
+    <string name="common_url_load_unsuccessful_message">"Jou Android-toestel is nie aan 'n datadiens gekoppel nie. Om hierdie inligting nou te bekyk, besoek %s met 'n webblaaier."</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"Jou Android-toestel is nie aan 'n Wi-Fi-netwerk gekoppel nie. Besoek %s met 'n webblaaier om hierdie inligting nou te bekyk."</string>
+    <string name="common_url_login_notice">Meld aan as %1$s</string>
+    <string name="common_usage_and_diagnostics">Gebruik en diagnostiek</string>
+    <string name="common_yesterday">Gister</string>
+    <string name="confirm_copy_button_text">Kopieer</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d toestel</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontakte, %1$d iCloud®, %2$d toestel</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontakte, %1$d SIM, %2$d toestel</string>
+    <string name="contacts_number_device_with_google">Google Kontakte, %1$d toestel</string>
+    <string name="contacts_number_icloud_with_google">Google Kontakte, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Kontakte, %1$d SIM</string>
+    <string name="copy_confirmation_description">Jy sal data, soos jou Google-rekening en -programme, na jou nuwe foon kopieer</string>
+    <string name="copy_confirmation_title">Kopieer na jou nuwe foon?</string>
+    <string name="d2d_app_picker_description_no_apps">Ons kon nie enige programme vind nie</string>
+    <string name="d2d_app_picker_title">Programme</string>
+    <string name="d2d_migration_canceled_on_source">Kopiëring is gekanselleer</string>
+    <string name="data_copied_fragment_description">Jou data is na jou nuwe foon gekopieer. Jy kan die kabel uittrek.</string>
+    <string name="data_copied_fragment_description_cancel">Jy het gekies om op te hou kopieer en daarom is net sommige data na jou nuwe foon gekopieer.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Jy het gekies om op te hou kopieer en daarom is niks na jou nuwe foon gekopieer nie.</string>
+    <string name="data_copied_fragment_description_error">Iets is fout en daarom kon ons nie alles kopieer nie.</string>
+    <string name="data_copied_fragment_description_error_no_data">Iets is fout en daarom kon ons nie jou data kopieer nie.</string>
+    <string name="data_copied_fragment_no_data_title">Kon nie kopieer nie</string>
+    <string name="data_copied_fragment_some_data_title">Van die data is gekopieer</string>
+    <string name="data_copied_fragment_title">Data is gekopieer</string>
+    <string name="device_backup_title">Toestelrugsteun</string>
+    <string name="device_not_supported_fragment_new_device">"Jy is aan 'n nuwe foon gekoppel. Herkoppel aan jou vorige een om voort te gaan."</string>
+    <string name="device_not_supported_fragment_new_device_title">Herkoppel aan vorige foon</string>
+    <string name="device_not_supported_fragment_no_data_cable">"Hierdie kabel kan nie data oordra nie. Herkoppel met 'n ander kabel en probeer weer."</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">"Probeer 'n ander kabel"</string>
+    <string name="device_not_supported_fragment_retry_description">Maak seker dat jou ou foon ontsluit is en ontkoppel en herkoppel die kabel dan</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Iets is fout</string>
+    <string name="device_not_supported_ios_supervised_description">"Aangesien jou iPhone®-toestel onder toesig is, sal jy 'n ander manier moet kies om data te kopieer"</string>
+    <string name="device_picker_description">Rugsteune word in Google Drive gestoor</string>
+    <string name="device_picker_empty">Geen rugsteune is aan %1$s gekoppel nie.</string>
+    <string name="device_picker_empty_title">Geen rugsteune is gevind nie</string>
+    <string name="device_picker_item">%1$s-rugsteun</string>
+    <string name="device_picker_last_used">^1 laas gebruik</string>
+    <string name="device_picker_skip">Moenie terugstel nie</string>
+    <string name="device_picker_title">"Kies 'n rugsteun om terug te laai"</string>
+    <string name="disabled_by_admin_summary_text">Beheer deur administrateur</string>
+    <string name="download_msg_error_invalid">Die aflaai is verkeerd opgestel.</string>
+    <string name="download_msg_in_progress">Tans besig om af te laai.</string>
+    <string name="download_msg_not_allowed_space">Daar is nie genoeg spasie om die aflaai te doen nie.</string>
+    <string name="download_msg_pending">Die aflaai is hangend.</string>
+    <string name="download_notification_description">%1$s het dit versoek.</string>
+    <string name="download_notification_title">Gaan haal tans meer data</string>
+    <string name="drive_backup_account">Rekening</string>
+    <string name="drive_backup_apps_in_backup">Gerugsteunde programdata</string>
+    <string name="drive_backup_apps_last_backup">Laas gerugsteun</string>
+    <string name="drive_backup_apps_loading">Laai tans …</string>
+    <string name="drive_backup_apps_screen_title">Programdata</string>
+    <string name="drive_backup_content_apps_title">Programdata</string>
+    <string name="drive_backup_content_calendar_dialog_message">Geleenthede wat in Google Kalender geskep is, sal gesinkroniseer word op al jou toestelle wat by jou Google-rekening aangemeld is.</string>
+    <string name="drive_backup_content_calendar_title">Kalender</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Rugsteun sluit in datum en ontvanger van oproepe wat gemaak en ontvang is.</string>
+    <string name="drive_backup_content_callhistory_title">Oproepgeskiedenis</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontakte wat in Google Kontakte geskep is, sal gesinkroniseer word op al jou toestelle wat by jou Google-rekening aangemeld is.</string>
+    <string name="drive_backup_content_contacts_title">Kontakte</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Rugsteun sluit toestelopstelling, soos muurpapier, Wi-Fi-wagwoorde en verstekprogramme, in.</string>
+    <string name="drive_backup_content_devicesettings_title">Toestelinstellings</string>
+    <string name="drive_backup_content_header">Inhoud</string>
+    <string name="drive_backup_content_photos_dialog_message">"Jou primêre rugsteunrekening is verander. Jy kan die Google Foto's-rugsteunrekening ook na %s verander."</string>
+    <string name="drive_backup_content_photos_dialog_no">MAAK TOE</string>
+    <string name="drive_backup_content_photos_dialog_title">Verander foto-en-videorekening ook?</string>
+    <string name="drive_backup_content_photos_dialog_yes">VERANDER</string>
+    <string name="drive_backup_content_photos_title">"Foto's en video's"</string>
+    <string name="drive_backup_content_sms_dialog_message">Rugsteun sluit in boodskappe wat gestuur en ontvang is. Dit sluit nie MMS-media in nie.</string>
+    <string name="drive_backup_content_sms_title">"SMS'e"</string>
+    <string name="drive_backup_content_status_dolly_action">Het dit</string>
+    <string name="drive_backup_content_status_error">Kon nie datum van laaste sinkronisering kry nie</string>
+    <string name="drive_backup_content_status_lastsaved">Laas gerugsteun: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Laas gesinkroniseer: %1$s</string>
+    <string name="drive_backup_content_status_never">Wag tans om te rugsteun</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Sinkroniseringinstellings</string>
+    <string name="drive_backup_content_status_sync_off">Sinkronisering is AF</string>
+    <string name="drive_backup_content_status_updating">Gaan tans status na …</string>
+    <string name="drive_backup_disabled_backuplist">"Rugsteun sluit in:
+\u0009– Programme en programdata
+\u0009– Oproepgeskiedenis
+\u0009– Toestelinstellings (insluitend Wi-Fi-wagwoorde)
+\u0009– Google Kalender
+\u0009– Google Kontakte
+\u0009– Foto's en video's
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Rugsteun sluit in:
+\u0009- Programme en programdata
+\u0009- Oproepgeskiedenis
+\u0009- Toestelinstellings (insluitend Wi-Fi-wagwoorde)
+\u0009- Google Kalender
+\u0009- Google Kontakte
+\u0009 SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Gedeaktiveer deur jou administrateur</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Kalender, Google Kontakte, foto's en video's word met jou Google-rekening gesinkroniseer en kan in verskillende dienste gebruik word.
+
+Sinkronisering kan geaktiveer wees selfs as rugsteun afgeskakel is. Sinkroniseringinstellings kan in Instellings > Rekeninge > Google verander word."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Kalender en Google Kontakte word met jou Google-rekening gesinkroniseer en kan oor dienste heen gebruik word.
+
+Sinkronisering kan geaktiveer wees selfs wanneer rugsteun afgeskakel is. Sinkroniseringinstellings kan in Instellings > Rekeninge > Google verander word."</string>
+    <string name="drive_backup_disabled_introduction">Outomatiese rugsteun verseker dat jy fone maklik enige tyd kan terugstel of omruil.</string>
+    <string name="drive_backup_settings_title">Rugsteun</string>
+    <string name="drive_backup_state">Rugsteun in Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Hierdie toestel se rugsteundata in Google Drive sal permanent uitgevee word.
+
+Foto's en video's wat reeds gerugsteun is, sal steeds in Google Drive beskikbaar wees.
+
+Google Kalender en Google Kontakte sal aanhou om met jou Google-rekening te sinkroniseer. Sinkroniseringinstellings kan in Instellings > Rekeninge > Google verander word."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Hierdie toestel se rugsteundata in Google Drive sal permanent uitgevee word.
+
+Google Kalender en Google Kontakte sal aanhou om met jou Google-rekening te sinkroniseer. Sinkroniseringinstellings kan in Instellings > Rekeninge > Google verander word."</string>
+    <string name="drive_backup_state_dialog_okaction">Skakel af en vee uit</string>
+    <string name="drive_backup_state_dialog_title">Skakel rugsteun af en vee dit uit?</string>
+    <string name="durationDayHour">%1$d dag %2$d uur</string>
+    <string name="durationDayHours">%1$d dag %2$d uur</string>
+    <string name="durationDays">%1$d dae</string>
+    <string name="durationHourMinute">%1$d uur %2$d min.</string>
+    <string name="durationHourMinutes">%1$d uur %2$d min.</string>
+    <string name="durationHours">%1$d uur</string>
+    <string name="durationMinute">%1$d minuut</string>
+    <string name="durationMinuteSecond">%1$d min. %2$d sek.</string>
+    <string name="durationMinuteSeconds">%1$d min. %2$d sek.</string>
+    <string name="durationMinutes">%1$d minute</string>
+    <string name="durationSecond">%1$d sekonde</string>
+    <string name="durationSeconds">%1$d sekondes</string>
+    <string name="encryption_warning_fragment_description">"Rugsteunenkripsie is vir jou iPhone®-toestel aangeskakel. As jy dit nie self aangeskakel het nie, is dit dalk deur jou IT-administrateur aangeskakel.
+
+Net foto's, musiek en video's kan oorgekopieer word. Besoek "<b>g.co/datatransferhelp</b> vir meer inligting.</string>
+    <string name="encryption_warning_fragment_title">Rugsteunenkripsie</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ek kan nie die aansluitprop kry nie</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Vind die Quick Switch Adapter wat jy in dieselfde boks as jou ^1 gekry het.
+
+Prop die kabel by die aansluitprop in."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Koppel die passtuk en kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Ontsluit jou ou foon en prop dan die passtuk by hierdie foon in.</string>
+    <string name="fragment_usb_connect_both_phones_title">Koppel albei fone</string>
+    <string name="fragment_usb_dialog_cancel_description">"Jy sal die meeste inhoud kry as jy 'n kabel gebruik. As die kabels in die boks nie pas nie, kan jy probeer om 'n laai- of datakabel te gebruik wat op jou ou foon pas."</string>
+    <string name="fragment_usb_dialog_cancel_title">"Kopieer data op 'n ander manier?"</string>
+    <string name="fragment_usb_dont_have_cable">"Ek het nie 'n kabel nie"</string>
+    <string name="fragment_usb_dont_have_old_phone">Ek het nie my ou foon nie</string>
+    <string name="fragment_usb_find_cable_description">"Gebruik 'n kabel wat op jou ou foon pas, soos jou data- of laaikabel."</string>
+    <string name="fragment_usb_find_cable_title">Vind die regte kabel</string>
+    <string name="fragment_usb_initial_description">Dra data van jou ou foon af na hierdie ^1 toe oor.</string>
+    <string name="fragment_usb_initial_title">Kom ons kopieer jou data</string>
+    <string name="fragment_usb_legacy_description">"Dit is die vinnigste manier om die meeste data oor te dra.
+
+Kry die aansluitprop in die boks en prop dit by jou nuwe foon in. Koppel die fone met 'n kabel en ontsluit dan jou ou foon."</string>
+    <string name="fragment_usb_other_ways">"Kopieer sonder 'n kabel"</string>
+    <string name="fragment_usb_plug_cable">Prop die kabel by jou ou foon in</string>
+    <string name="fragment_waiting_title">"Net 'n oomblik …"</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontakte sal sinkroniseer</string>
+    <string name="google_contacts_static_text_off">Google Kontakte sal steeds sinkroniseer</string>
+    <string name="header_set_backup_account">Stel rugsteun-rekening</string>
+    <string name="i_message_dialog_message">"Jy sal iMessage® moet afskakel om aan te hou om SMS'e van iPhone®-toestelgebruikers af te ontvang.
+
+Besoek "<b>g.co/iMessageHelp</b> vir instruksies.</string>
+    <string name="instructions_fragment_title">Gaan voort op jou ander foon</string>
+    <string name="ios_connected_fragment_description">"Jy kan op die volgende skerm by jou Google-rekening aanmeld, of 'n nuwe een skep.
+
+As jy nie jou Google-rekening byvoeg nie, sal jou iOS Calendar®-geleenthede nie oorgedra word nie."</string>
+    <string name="ios_message_attachment_explanation">"[Jou boodskapaanhegsels is in Google Foto's > Toestelvouers > Boodskapaanhegsels]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Sommige aanhegsels kon nie oorgekopieer word nie. Aanhegsels wat oorgedra is, kan in Google Foto's > Toestelvouers > Boodskapaanhegsels gevind word]"</string>
+    <string name="ios_message_attachment_placeholder">"[Aanhegsel is gestoor in Google Foto's > Toestelvouers > Boodskapaanhegsels]"</string>
+    <string name="ios_message_attachments_placeholder">"[Aanhegsels is gestoor in Google Foto's > Toestelvouers > Boodskapaanhegsels]"</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Ander</string>
+    <string name="ios_photos_dialog_message">"Foto's wat in iCloud® geberg is, kan nie gekopieer word nie.
+
+Om hierdie foto's na jou ^1 te bring, installeer die Google Foto's-program op jou iPhone®-toestel en skakel Rugsteun en sinkroniseer aan. Besoek "<b>g.co/datatransferhelp</b> vir meer instruksies.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Voeg rekening by</string>
+    <string name="lockscreen_smartdevice_action_next">Volgende</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Ontsluit om met die opstelling van jou toestel voort te gaan</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Vir sekuriteitsredes sal jy jou skermslot moet bevestig om voort te gaan met opstelling</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Bevestig jou skermslot</string>
+    <string name="manage_data_label">Google-rekening</string>
+    <string name="master_clear_title">Fabrieksterugstelling</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Jy moet die rugsteunrekening stel</string>
+    <string name="notification_content_title_set_backup_account">Rugsteun</string>
+    <string name="notification_ticker_set_backup_account">Rugsteun-rekening nodig</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontakte</string>
+    <string name="permgrouplab_location">Ligging</string>
+    <string name="permgrouplab_microphone">Mikrofoon</string>
+    <string name="permgrouplab_phone">Foon</string>
+    <string name="permgrouplab_sensors">Liggaamsensors</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Berging</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">"Geen rekening stoor tans gerugsteunde foto's nie"</string>
+    <string name="photos_backup_title">"Foto's-rugsteun"</string>
+    <string name="photos_filtering_option_all">Alles</string>
+    <string name="photos_filtering_option_none">Geen</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Gekopieerde kontakte sal in jou Google-rekening gestoor word.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Gekopieerde kontakte en kalenders sal in jou Google-rekening gestoor word.</string>
+    <string name="restore_choice_data_disclaimer_v2">Van jou data sal dalk nie na jou ^1 gekopieer word nie. <annotation id="restore_choice_data_disclaimer_learn_more">Kom meer te wete</annotation></string>
+    <string name="restore_choice_deselect_some_content">Ontkies sommige inhoud om voort te gaan</string>
+    <string name="restore_choice_learn_more_android">"Sommige data van jou ou foon af kan nie outomaties gekopieer word nie:
+
+ ● Aflaaie (soos PDF-lêers)
+
+ ● Foto's, video's en musiek wat in versteekte vouers geberg is
+
+ ● Foto's, video's en musiek wat deur teksboodskappe ontvang is
+
+ ● Programme wat nie uit die Google Play Winkel kom nie
+
+ ● Programdata (as die program nie Android-rugsteun gebruik nie)
+
+ ● Sekere toestelinstellings
+
+ ● Ander rekeninge as Google-rekeninge (en enige geassosieerde data)
+
+ ● Kontakte en kalenders wat met ander dienste as Google gesinkroniseer is
+
+ ● Luitone
+
+ Besoek g.co/datatransferhelp vir meer besonderhede en hulp met die kopiëring van sommige van hierdie data."</string>
+    <string name="restore_choice_learn_more_ios">"Sommige data van jou ou foon af kan nie outomaties gekopieer word nie:
+
+ ● Programme en programdata
+
+ ● Foto's waar die oorspronklike nie op jou foon geberg is nie (byvoorbeeld, as die Optimiseer berging-instelling aan is, word oorspronklike foto's in iCloud® geberg)
+
+ ● Lêers en dokumente wat in iCloud® geberg is
+
+ ● Toestelinstellings (soos Wi-Fi-wagwoorde en muurpapier)
+
+ ● Musiek wat met digitale regtebestuur (DRM) beskerm word (byvoorbeeld, iTunes®-musiek wat voor April 2009 gekoop is of musiek wat in 'n musiekstroomprogram afgelaai is om vanlyn te luister)
+
+ ● Ander rekeninge as Google-rekeninge (en enige geassosieerde data)
+
+ ● Kontakte en kalenders wat met ander dienste as Google of iCloud® gesinkroniseer is
+
+ ● Boekmerke in Safari®
+
+ iMessage®-aanhegsels sal beskikbaar wees in Google Foto's > Toestelvouers > Boodskapaanhegsels.
+
+ Besoek g.co/datatransferhelp vir meer besonderhede en hulp met die kopiëring van sommige van hierdie data."</string>
+    <string name="restore_choice_not_enough_space">Te min spasie</string>
+    <string name="restore_choice_total_text">van jou beskikbare %1$s / %2$s-oordrag</string>
+    <string name="restore_error_message">Kon nie teruglaai nie. Jammer.</string>
+    <string name="restore_item_appdata">Programdata</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS® Kalender, Google Kalender</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalender sal steeds sinkroniseer</string>
+    <string name="restore_item_calendar_sync_description">Google Kalender sal sinkroniseer</string>
+    <string name="restore_item_call_logs">Oproepgeskiedenis</string>
+    <string name="restore_item_contacts">Kontakte</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-wagwoorde en meer</string>
+    <string name="restore_item_downloads">Aflaaie</string>
+    <string name="restore_item_email">E-pos</string>
+    <string name="restore_item_email_description">Gmail sal sinkroniseer</string>
+    <string name="restore_item_message_attachments">Boodskapaanhegsels</string>
+    <string name="restore_item_messages">Boodskappe</string>
+    <string name="restore_item_music">Musiek</string>
+    <string name="restore_item_photos">"Foto's en video's"</string>
+    <string name="restore_item_settings">Toestelinstellings</string>
+    <string name="restore_item_sms">SMS-boodskappe</string>
+    <string name="restore_item_will_be_synced_text">Dit sal met jou foon sinkroniseer</string>
+    <string name="restore_progress_title">Laai tans terug …</string>
+    <string name="search_menu_title">Soek</string>
+    <string name="small_time_duration">Minder as 1 minuut</string>
+    <string name="source_connected_description">Berei tans voor …</string>
+    <string name="source_connected_title">Gekoppel aan jou %1$s</string>
+    <string name="source_copying_description">Die data wat jy gekies het, word na jou nuwe foon gekopieer</string>
+    <string name="source_copying_title">Kopieer tans …</string>
+    <string name="source_default_target_device_name">nuwe toestel</string>
+    <string name="source_notification_device_disconnected">Herkoppel jou kabel</string>
+    <string name="source_notification_text">Oordrag tussen fone vind tans plaas</string>
+    <string name="source_notification_title">Data-oordrag</string>
+    <string name="source_success_description">Voltooi opstelling op jou %1$s.</string>
+    <string name="source_success_screen_title">"Jy's klaar!"</string>
+    <string name="source_unplugged_description">Herkoppel aan jou %1$s</string>
+    <string name="source_unplugged_title">Kabel is ontkoppel</string>
+    <string name="source_waiting_title">Gaan op jou %1$s met opstelling voort</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Maak toe</string>
+    <string name="stop_copying_dialog_message_before_transfer">Jou data is nie na jou nuwe foon gekopieer nie</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sommige van jou data is nie na jou nuwe foon gekopieer nie</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Moenie kopieer nie</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Hou op</string>
+    <string name="stop_copying_dialog_title_before_transfer">Moenie kopieer nie?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Hou op kopieer?</string>
+    <string name="storage_management_wear_descriptive_text">"Programme gebruik jou toestelberging om data op 'n drabare toestel te kopieer."</string>
+    <string name="storage_management_wear_manage_size_label">Bestuur drabare berging</string>
+    <string name="storage_management_wear_size_label">Drabare berging</string>
+    <string name="storage_managment_all_storage_descriptive_text">Die totale hoeveelheid data wat deur Google Play-dienste gebruik is, insluitend die soekenjin en ander data.</string>
+    <string name="storage_managment_clear_all_data">Vee alle data uit</string>
+    <string name="storage_managment_computing_size">Bereken tans...</string>
+    <string name="storage_managment_icing_size_label">Soekdata</string>
+    <string name="storage_managment_manage_icing_button">Bestuur soekdata</string>
+    <string name="storage_managment_search_index_descriptive_text">"Ons versnel soektogte op jou toestel deur 'n soekenjin te verskaf wat jou programme kan gebruik."</string>
+    <string name="storage_managment_title">Google Play-diensteberging</string>
+    <string name="storage_managment_total_size_label">Totale berging</string>
+    <string name="suw_back_button_label">Terug</string>
+    <string name="suw_more_button_label">Meer</string>
+    <string name="suw_next_button_label">Volgende</string>
+    <string name="target_default_source_device_model">ou toestel</string>
+    <string name="target_device_not_supported_cant_continue_description">"Jy sal 'n ander manier moet kies om data te kopieer"</string>
+    <string name="target_device_not_supported_cant_continue_title">Ander foon word nie gesteun nie</string>
+    <string name="target_device_not_supported_try_restarting_description">"Ontkoppel die kabel en herbegin jou ou foon. Herkoppel dan die kabel en volg die instruksies op jou Pixel.
+
+As jy aanhou om hierdie fout te sien, sal jy dalk 'n ander manier moet probeer om te kopieer."</string>
+    <string name="target_device_not_supported_try_restarting_title">Foon word dalk nie gesteun nie</string>
+    <string name="target_smart_device_timeout_add_account">VOEG REKENING BY</string>
+    <string name="target_smart_device_timeout_description">As jy wil, kan jy probeer om jou rekening self by te voeg</string>
+    <string name="target_smart_device_timeout_dismiss">MAAK TOE</string>
+    <string name="target_smart_device_timeout_title">Sukkel jy?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Fone is gekoppel</string>
+    <string name="toast_reconnect_cable">Herkoppel jou kabel</string>
+    <string name="transfer_finished_fragment_title">Doen tans afrondingswerk …</string>
+    <string name="transfer_summary_copied">Data is gekopieer</string>
+    <string name="transfer_summary_fragment_description">Jy kan die kabel ontkoppel.</string>
+    <string name="transfer_summary_fragment_finish">MAAK KLAAR</string>
+    <string name="transfer_summary_fragment_title">Jou foon is amper gereed</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Van jou foto's is nie gekopieer nie. "<annotation id="transfer_summary_learn_more">Kom meer te wete</annotation></string>
+    <string name="transfer_summary_not_copied">Data is nie gekopieer nie</string>
+    <string name="transfer_summary_partial">%1$s / %2$s is gekopieer</string>
+    <string name="transfer_summary_will_sync">Data sal ná opstelling sinkroniseer</string>
+    <string name="transferring_fragment_calculating_remaining_time">Bereken tans oorblywende tyd …</string>
+    <string name="transferring_fragment_header">Kopieer tans …</string>
+    <string name="transferring_fragment_remaining_time">%1$s oor</string>
+    <string name="trust_instructions_description">Om voort te gaan, gaan jou iPhone®-toestel na en keur die verbinding goed</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari en iTunes is handelsmerke van Apple Inc. en is in die VSA en ander lande geregistreer.</string>
+</resources>

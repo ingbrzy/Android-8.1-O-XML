@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d контакта позначено міткою \"%2$s\"</item>
+        <item quantity="one">%1$d контакт позначено міткою \"%2$s\"</item>
+        <item quantity="few">%1$d контакти позначено міткою \"%2$s\"</item>
+        <item quantity="many">%1$d контактів позначено міткою \"%2$s\"</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Додається %1$d контакта до мітки \"%2$s\"</item>
+        <item quantity="one">Додається %1$d контакт до мітки \"%2$s\"</item>
+        <item quantity="few">Додаються %1$d контакти до мітки \"%2$s\"</item>
+        <item quantity="many">Додаються %1$d контактів до мітки \"%2$s\"</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Перегляньте запропоновану інформацію для %d контакта</item>
+        <item quantity="one">Перегляньте запропоновану інформацію для %d контакта</item>
+        <item quantity="few">Перегляньте запропоновану інформацію для %d контактів</item>
+        <item quantity="many">Перегляньте запропоновану інформацію для %d контактів</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d небажаного контакта</item>
+        <item quantity="one">%d небажаний контакт</item>
+        <item quantity="few">%d небажаних контакти</item>
+        <item quantity="many">%d небажаних контактів</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d копії контактів</item>
+        <item quantity="one">%d копія контактів</item>
+        <item quantity="few">%d копії контактів</item>
+        <item quantity="many">%d копій контактів</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d останнього дзвінка • Дата: %2$s</item>
+        <item quantity="one">%1$d останній дзвінок • Дата: %2$s</item>
+        <item quantity="few">%1$d останніх дзвінка • Дата: %2$s</item>
+        <item quantity="many">%1$d останніх дзвінків • Дата: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Контакти позначено міткою \"%1$s\"</item>
+        <item quantity="one">Контакти позначено міткою \"%1$s\"</item>
+        <item quantity="few">Контакти позначено міткою \"%1$s\"</item>
+        <item quantity="many">Контакти позначено міткою \"%1$s\"</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакти</item>
+        <item quantity="many">%d контактів</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d контакта (%2$s)</item>
+        <item quantity="one">%1$d контакт (%2$s)</item>
+        <item quantity="few">%1$d контакти (%2$s)</item>
+        <item quantity="many">%1$d контактів (%2$s)</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Видалено %1$d контакту</item>
+        <item quantity="one">Видалено %1$d контакт</item>
+        <item quantity="few">Видалено %1$d контакти</item>
+        <item quantity="many">Видалено %1$d контактів</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Ці контакти буде вилучено з Контактів Google і всіх синхронізованих пристроїв</item>
+        <item quantity="one">Ці контакти буде вилучено з Контактів Google і всіх синхронізованих пристроїв</item>
+        <item quantity="few">Ці контакти буде вилучено з Контактів Google і всіх синхронізованих пристроїв</item>
+        <item quantity="many">Ці контакти буде вилучено з Контактів Google і всіх синхронізованих пристроїв</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d контакту в інших облікових записах</item>
+        <item quantity="one">%1$d контакт в інших облікових записах</item>
+        <item quantity="few">%1$d контакти в інших облікових записах</item>
+        <item quantity="many">%1$d контактів в інших облікових записах</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d контакту</item>
+        <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакти</item>
+        <item quantity="many">%1$d контактів</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 контакта • ^2</item>
+        <item quantity="one">^1 контакт • ^2</item>
+        <item quantity="few">^1 контакти • ^2</item>
+        <item quantity="many">^1 контактів • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Перемістити %1$d контакта в обліковий запис %2$s?</item>
+        <item quantity="one">Перемістити %1$d контакт в обліковий запис %2$s?</item>
+        <item quantity="few">Перемістити %1$d контакти в обліковий запис %2$s?</item>
+        <item quantity="many">Перемістити %1$d контактів в обліковий запис %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Переміщено %d контакта</item>
+        <item quantity="one">Переміщено %d контакт</item>
+        <item quantity="few">Переміщено %d контакти</item>
+        <item quantity="many">Переміщено %d контактів</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d контакта переміщено</item>
+        <item quantity="one">%d контакт переміщено</item>
+        <item quantity="few">%d контакти переміщено</item>
+        <item quantity="many">%d контактів переміщено</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Переміщення %d контакта</item>
+        <item quantity="one">Переміщення %d контакта</item>
+        <item quantity="few">Переміщення %d контактів</item>
+        <item quantity="many">Переміщення %d контактів</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d контакта скопійовано в обліковий запис %2$s</item>
+        <item quantity="one">%1$d контакт скопійовано в обліковий запис %2$s</item>
+        <item quantity="few">%1$d контакти скопійовано в обліковий запис %2$s</item>
+        <item quantity="many">%1$d контактів скопійовано в обліковий запис %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Імпортувати із SIM-карт</item>
+        <item quantity="one">Імпортувати із SIM-карт</item>
+        <item quantity="few">Імпортувати із SIM-карт</item>
+        <item quantity="many">Імпортувати із SIM-карт</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакти</item>
+        <item quantity="many">%d контактів</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Імпортовано %d контакта із SIM-карти</item>
+        <item quantity="one">Імпортовано %d контакт із SIM-карти</item>
+        <item quantity="few">Імпортовано %d контакти із SIM-карти</item>
+        <item quantity="many">Імпортовано %d контактів із SIM-карти</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Надіслати контакти через</item>
+        <item quantity="one">Надіслати контакти через</item>
+        <item quantity="few">Надіслати контакти через</item>
+        <item quantity="many">Надіслати контакти через</item>
+    </plurals>
+</resources>

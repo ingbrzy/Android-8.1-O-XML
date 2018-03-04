@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">পরবর্তী</string>
+    <string name="suw_back_button_label">ফিরুন</string>
+    <string name="suw_more_button_label">আরও</string>
+    <string name="vzw_wfc_activation_error">ওয়াই-ফাই কলিং সক্রিয় করা গেল না৷ অনুগ্রহ করে পরে আবার চেষ্টা করুন৷</string>
+    <string name="vzw_address_update_error">এই সময়ে বর্তমান জরুরী ঠিকানা আপডেট করতে পারিনি৷ অনুগ্রহ করে পরে আবার চেষ্টা করুন৷</string>
+    <string name="emergency_address_app_label">জরুরী ঠিকানা পরিচালনা</string>
+    <string name="progress_text">অনুগ্রহ করে অপেক্ষা করুন...</string>
+    <string name="vzw_tos_title">ওয়াই ফাই কলিং সক্রিয় করুন</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="vzw_tos_text">"যখন মোবাইল নেটওয়ার্ক উপলব্ধ থাকে না তখন Wi-Fi কলিং Wi-Fi ব্যবহার করে আপনাকে কল করতে দেয়৷
+
+Wi-Fi কলিং সেট আপ করতে আপনাকে মার্কিন যুক্তরাষ্ট্রের কোনো ঠিকানা লিখতে হবে৷ আপনি যদি মার্কিন যুক্তরাষ্ট্র থেকে এই ফোনের মাধ্যমে Wi-Fi এর মাধ্যেমে একটি জরুরী (E৯১১) কল করেন তাহলে এই আপনার অবস্থানে জরুরী পরিষেবাগুলির দ্বারা এই ঠিকানাটি ব্যবহার করা হবে৷
+
+আপনি যখন আলাদা Wi-Fi নেটওয়ার্ক ব্যবহার করে কল করেন তখন আমরা এই ঠিকানটিকে পরিবর্তন করার পরামর্শ দিই যাতে আপনার অবস্থানের তথ্য সঠিক হয়৷ আপনি Wi-Fi কলিং সেটিংস মেনুতে গিয়ে যে কোনো সময় আপনার অবস্থান পরিবর্তন করতে পারবেন৷"</string>
+    <string name="vzw_tos_link">নিবন্ধন এবং শর্তাদি</string>
+    <string name="tos_continue">চালিয়ে যান</string>
+    <string name="vzw_e911_title">জরুরী অবস্থানের তথ্য</string>
+    <string name="vzw_e911_description"><b>গুরুত্বপূর্ণ - জরুরী ৯১১ ঠিকানা প্রয়োজন</b>"
+Wi-Fi কলিং চালু করুন এবং আপনি ৯১১ এ কল করে থাকলে, যেখানে আপনি জরুরি পরিষেবা পাঠানোর জন্য কল করেছেন মার্কিন যুক্তরাষ্ট্রের সেই জায়গার ঠিকানা লিখুন৷ আপনি যে কোনো সময় সেটিংসে গিয়ে এই ঠিকানাটি পরিবর্তন করতে পারেন৷ আপনি আপনার অবস্থান পরিবর্তন করার সাথে সাথে এই ঠিকানাটি আপডেট করা গুরুত্বপূর্ণ৷"</string>
+    <string name="vzw_e911_warning"><b>সতর্কতা - জরুরী ৯১১ কল সীমাবদ্ধতা</b>"
+যখনই ৯১১ এ কল করবেন, তখনই অপারেটরকে জানাবেন আপনি কোথায় রয়েছেন। মোবাইলের নেটওয়ার্ক অনুপলব্ধ হলে একমাত্র তাহলেই ওয়াই-ফাই এর মাধ্যমে আপনার ৯১১ কল সংযুক্ত হবে। ওয়াই ফাই এর মাধ্যমে ৯১১ এ কল করা হলে তা বিলম্বিত বা অসফল হতে পারে, যদি ৯১১ সিস্টেম আপনার ঠিকানাটি শনাক্ত করতে না পারে, বা বৈদ্যুতিক শক্তি না থাকে বা আপনার ওয়াই ফাই সংযোগ কাজ না করে। উপরে আপনার দেওয়া ঠিকানাতেই জরুরী পরিষেবা পাঠানো হবে, সুতরাং আপনার অবস্থান পরিবর্তন করার সাথে সাথে অনুগ্রহ করে সেটি আপডেট করুন।"</string>
+    <string name="house_number">ঠিকানার নম্বর</string>
+    <string name="street">রাস্তা</string>
+    <string name="apt_suite_number">অ্যাপার্টমেন্ট, সুইট, ইত্যাদি</string>
+    <string name="city">শহর</string>
+    <string name="state">রাজ্য</string>
+    <string name="zip_code">পিন কোড</string>
+    <string name="save">সেভ করুন</string>
+    <string name="vzw_address_confirm_text_part1">আমরা আপনার লেখা ঠিকানাটি খুঁজে পাওয়া যায়নি কারণ রাস্তার ঠিকানা খুঁজে পাওয়া গেল না বা শহর, রাজ্য অথবা পিন কোডটি সঠিক নাও হতে পারে৷</string>
+    <string name="vzw_address_confirm_text_part2">আপনার শহর, রাজ্য বা পিন কোডটি সঠিক না হলে %1$s এ আলতো চাপুন, অন্যথায় %2$s এ আলতো চাপুন৷</string>
+    <string name="save_anyway">যাই হোক সেভ করুন</string>
+    <string name="edit_address">ঠিকানা সম্পাদনা করুন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="vzw_address_select_text">আমরা আপনার লেখা ঠিকানা খুঁজে পাইনি:</string>
+    <string name="vzw_address_alternate_text">আপনি কি বোঝাতে চেয়েছেন:</string>
+    <string name="vzw_partial_confirm_head">আপনার লেখা ঠিকানাটি জরুরী পরিষেবা প্রদানকারীদের দ্বারা যাচাই করা গেল না৷</string>
+    <string name="vzw_partial_confirm_text">আপনি কি কোনো জরুরী পরিস্থিতিতে এই ঠিকানাটি ব্যবহার করার বিষয়ে নিশ্চিত?</string>
+    <string name="vzw_partial_failure_text_part1">আপনার লেখা শহর, রাজ্য বা পিন কোডটি সঠিক নাও হতে পারে৷</string>
+    <string name="vzw_partial_failure_text_part2">অনুগ্রহ করে ঠিকানাটি চেক করে আবার চেষ্টা করুন।</string>
+    <string name="vzw_address_update_success_toast">জরুরী ঠিকানা আপডেট করা হয়েছে</string>
+    <string name="connect_to_wifi_or_web_portal_title">ওয়াই ফাই বন্ধ আছে</string>
+    <string name="connect_to_wifi_or_web_portal_message">আপনি মোবাইল নেটওয়ার্ক ব্যবহার করে ওয়াই ফাই কলিং সেট আপ করতে পারেন, তবে এই বৈশিষ্ট্যটি ব্যবহার করতে হলে আপনাকে ওয়াই ফাই চালু করে একটি নেটওয়ার্কে সংযোগ করতে হবে৷</string>
+    <string name="button_turn_on_wifi">ওয়াই-ফাই চালু করুন</string>
+    <string name="button_setup_web_portal">সেট আপ চালিয়ে যান</string>
+</resources>

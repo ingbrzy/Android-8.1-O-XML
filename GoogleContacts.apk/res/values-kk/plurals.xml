@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d контакт %2$s тобына қосылды</item>
+        <item quantity="one">%1$d контакт %2$s тобына қосылды</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d контакт %2$s қалтасына қосылуда</item>
+        <item quantity="one">%1$d контакт %2$s қалтасына қосылуда</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d контактіге қатысты ұсынылған деректерді шолу</item>
+        <item quantity="one">%d контактіге қатысты ұсынылған деректерді шолу</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d спам контакт</item>
+        <item quantity="one">%d спам контакт</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d көшірме контакт</item>
+        <item quantity="one">1 көшірме контакт</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d жақында шалынған қоңырау • Соңғы рет: %2$s</item>
+        <item quantity="one">%1$d жақында шалынған қоңырау • Соңғы рет: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Контактілер %1$s белгісін әлдеқашан қосты</item>
+        <item quantity="one">Контакт %1$s белгісін әлдеқашан қосты</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d контакт</item>
+        <item quantity="one">%d контакт</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d контакт· %2$s</item>
+        <item quantity="one">%1$d контакт· %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d контакт жойылды</item>
+        <item quantity="one">%1$d контакт жойылды</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Контактілер Google Contacts тізімінен және барлық синхрондалған құрылғылардан жойылады</item>
+        <item quantity="one">Контакт Google Contacts тізімінен және барлық синхрондалған құрылғылардан жойылады</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d контакт басқа есептік жазбаларда</item>
+        <item quantity="one">1 контакт басқа есептік жазбаларда</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d контакт</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 контакт • ^2</item>
+        <item quantity="one">^1 контакт • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Осы %1$d контактіні %2$s ішіне тасымалдау керек пе?</item>
+        <item quantity="one">Бұл контактіні %2$s ішіне тасымалдау керек пе?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Тасымалданған %d контакт</item>
+        <item quantity="one">Тасымалданған %d контакт</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d контактіні тасымалдау аяқталды</item>
+        <item quantity="one">Контактіні тасымалдау аяқталды</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d контактіні тасымалдау</item>
+        <item quantity="one">Контактіні тасымалдау</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d контакт %2$s есептік жазбаға көшірілді</item>
+        <item quantity="one">%1$d контакт %2$s есептік жазбаға көшірілді</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">SIM карталарынан импорттау</item>
+        <item quantity="one">SIM картасынан импорттау</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d контакт</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM контактісі импортталды</item>
+        <item quantity="one">1 SIM контактісі импортталды</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Контактілерді бөлісу</item>
+        <item quantity="one">Контактіні бөлісу</item>
+    </plurals>
+</resources>

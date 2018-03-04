@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultvalues_japanese_fullscreen">
+        <item>\@bool/pref_def_value_japanese_fullscreen_portrait</item>
+        <item>\@bool/pref_def_value_japanese_fullscreen_landscape</item>
+    </string-array>
+    <string-array name="entries_japanese_dictionary_personalization">
+        <item>@string/pref_dictionary_personalization_entry_enabled</item>
+        <item>@string/pref_dictionary_personalization_entry_readonly</item>
+        <item>@string/pref_dictionary_personalization_entry_disabled</item>
+    </string-array>
+    <string-array name="entries_japanese_emoji_provider_type">
+        <item>@string/pref_emoji_provider_type_unicode</item>
+        <item>@string/pref_emoji_provider_type_docomo</item>
+        <item>@string/pref_emoji_provider_type_kddi</item>
+        <item>@string/pref_emoji_provider_type_softbank</item>
+    </string-array>
+    <string-array name="entries_japanese_fullscreen">
+        <item>@string/pref_fullscreen_portrait</item>
+        <item>@string/pref_fullscreen_landscape</item>
+    </string-array>
+    <string-array name="entries_japanese_input_style">
+        <item>@string/pref_input_style_setting_entry_toggle</item>
+        <item>@string/pref_input_style_setting_entry_flick</item>
+        <item>@string/pref_input_style_setting_entry_toggle_and_flick</item>
+    </string-array>
+    <string-array name="entries_japanese_physical_keyboard_layout">
+        <item>@string/pref_hardware_keymap_default</item>
+        <item>@string/pref_hardware_keymap_japanese109A</item>
+    </string-array>
+    <string-array name="entryvalues_japanese_dictionary_personalization">
+        <item>@string/pref_entry_japanese_dictionary_personalization_enabled</item>
+        <item>@string/pref_entry_japanese_dictionary_personalization_readonly</item>
+        <item>@string/pref_entry_japanese_dictionary_personalization_disabled</item>
+    </string-array>
+    <string-array name="entryvalues_japanese_emoji_provider_type">
+        <item>@string/pref_entry_japanese_emoji_provider_type_unicode</item>
+        <item>@string/pref_entry_japanese_emoji_provider_type_docomo</item>
+        <item>@string/pref_entry_japanese_emoji_provider_type_kddi</item>
+        <item>@string/pref_entry_japanese_emoji_provider_type_softbank</item>
+    </string-array>
+    <string-array name="entryvalues_japanese_input_style">
+        <item>@string/pref_entry_japanese_input_style_toggle</item>
+        <item>@string/pref_entry_japanese_input_style_flick</item>
+        <item>@string/pref_entry_japanese_input_style_toggleflick</item>
+    </string-array>
+    <string-array name="entryvalues_japanese_physical_keyboard_layout">
+        <item>@string/pref_entry_japanese_physical_keyboard_layout_default</item>
+        <item>@string/pref_entry_japanese_physical_keyboard_layout_japanese109A</item>
+    </string-array>
+    <string-array name="keys_japanese_fullscreen">
+        <item>@string/pref_key_japanese_fullscreen_portrait</item>
+        <item>@string/pref_key_japanese_fullscreen_landscape</item>
+    </string-array>
+</resources>

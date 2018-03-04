@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="japanese_bordered_material_dark_theme">
+        <item>@style/TVTheme</item>
+    </array>
+    <array name="japanese_material_dark_theme">
+        <item>@style/TVTheme</item>
+        <item>@style/JapaneseMaterialDarkTheme</item>
+        <item>@style/JapaneseImeSpecificMaterialDarkTheme</item>
+    </array>
+    <array name="tv_focus_area_id_list">
+        <item>@id/more_candidates_area</item>
+        <item>@id/tv_focus_area_input</item>
+        <item>@id/tv_focus_area_switch_keyboard</item>
+        <item>@id/tv_focus_area_switch_language</item>
+    </array>
+</resources>

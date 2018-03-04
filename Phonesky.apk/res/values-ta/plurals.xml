@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">உங்கள் மதிப்பீடு: %1$s நட்சத்திரங்கள்</item>
+        <item quantity="one">உங்கள் மதிப்பீடு: %1$s நட்சத்திரம்</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d மதிப்புரைகள்</item>
+        <item quantity="one">%1$d மதிப்புரை</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d நட்சத்திர மதிப்பீட்டிற்கு %1$d மதிப்புரைகள்</item>
+        <item quantity="one">%2$d நட்சத்திர மதிப்பீட்டிற்கு %1$d மதிப்புரை</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">நிறுவல்கள் இடைநிறுத்தப்பட்டன</item>
+        <item quantity="one">நிறுவல் இடைநிறுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">%1$d நாட்களுக்கு முன், பயன்பாடுகள் ஸ்கேன் செய்யப்பட்டன</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d தீங்கிழைக்கும் பயன்பாடுகள் அகற்றப்பட்டன. %2$s.</item>
+        <item quantity="one">%1$d தீங்கிழைக்கும் பயன்பாடு அகற்றப்பட்டது. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d புதுப்பிப்புகளுக்கு அனுமதி தேவை</item>
+        <item quantity="one">%1$d புதுப்பிப்பிற்கு அனுமதி தேவை</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d புதிய புதுப்பிப்புகள்</item>
+        <item quantity="one">%1$d புதிய புதுப்பிப்பு</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d புதுப்பிப்புகள் உள்ளன</item>
+        <item quantity="one">%1$d புதுப்பிப்பு உள்ளது</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">எல்லாம் புதுப்பி</item>
+        <item quantity="one">புதுப்பி</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d பயன்பாடுகள் புதுப்பிக்கப்பட்டன</item>
+        <item quantity="one">%1$d பயன்பாடு புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரங்கள்</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரம்</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரங்கள் - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரம் - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரங்கள் - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s நட்சத்திரம் - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d பயனர்கள் இதை உதவிகரமானதாகக் குறித்துள்ளனர். கருத்தை உதவிகரமானதாகக் குறி</item>
+        <item quantity="one">%1$d பயனர் இதை உதவிகரமானதாகக் குறித்துள்ளார். கருத்தை உதவிகரமானதாகக் குறி</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d பயனர்கள் இதை உதவிகரமானதாகக் குறித்துள்ளனர். அதைக் குறி நீக்கவும்</item>
+        <item quantity="one">%1$d பயனர் இதை உதவிகரமானதாகக் குறித்துள்ளார். அதைக் குறி நீக்கவும்</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>%1$s நட்சத்திரங்கள்&lt;/b> என மதிப்பிடப்பட்டது</item>
+        <item quantity="one">&lt;b>%1$s நட்சத்திரம்&lt;/b> என மதிப்பிடப்பட்டது</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s மதிப்புரைகளில்</item>
+        <item quantity="one">%1$s மதிப்புரையில்</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s நட்சத்திரங்கள்&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s நட்சத்திரம்&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">கடைசியாகப் பயன்படுத்தியது: %1$d நாட்களுக்கு முன்பு</item>
+        <item quantity="one">கடைசியாகப் பயன்படுத்தியது: %1$d நாள் முன்பு</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">தேர்ந்தெடுத்த %1$d பயன்பாடுகளை மீட்டமை</item>
+        <item quantity="one">தேர்ந்தெடுத்த பயன்பாட்டை மீட்டமை</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">நட்சத்திரங்கள்</item>
+        <item quantity="one">நட்சத்திரம்</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">பயன்பாடுகள் விரைவில் நிறுவப்படும்.</item>
+        <item quantity="one">பயன்பாடு விரைவில் நிறுவப்படும்.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">பயன்பாட்டுப் புதுப்பிப்புகள் விரைவில் நிறுவப்படும்.</item>
+        <item quantity="one">பயன்பாட்டுப் புதுப்பிப்பு விரைவில் நிறுவப்படும்.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">கடைசியாகப் பயன்படுத்தியது: %1$d நாட்களுக்கு முன்பு</item>
+        <item quantity="one">கடைசியாகப் பயன்படுத்தியது: %1$d நாள் முன்பு</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">கடைசியாகப் பயன்படுத்தியது: %1$d மாதங்களுக்கு முன்பு</item>
+        <item quantity="one">கடைசியாகப் பயன்படுத்தியது: %1$d மாதத்திற்கு முன்பு</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">பயன்பாடுகள் அல்லது புதுப்பிப்புகளை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். சேமிப்பக அமைப்புகளுக்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+        <item quantity="one">பயன்பாட்டை அல்லது புதுப்பிப்பை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். சேமிப்பக அமைப்புகளுக்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">பயன்பாடுகள் அல்லது புதுப்பிப்புகளை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். &lt;a href=\"\">அமைப்புகள் > சேமிப்பகம்&lt;/a> என்பதற்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+        <item quantity="one">பயன்பாட்டை அல்லது புதுப்பிப்பை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். &lt;a href=\"\">அமைப்புகள் > சேமிப்பகம்&lt;/a> என்பதற்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">பயன்பாடுகள் அல்லது புதுப்பிப்புகளை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். அமைப்புகள் > சேமிப்பகம் என்பதற்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+        <item quantity="one">பயன்பாட்டை அல்லது புதுப்பிப்பை இந்தச் சாதனத்தில் நிறுவ, தேவையற்ற பயன்பாடுகளை நீக்கவும். அமைப்புகள் > சேமிப்பகம் என்பதற்குச் சென்று, மீடியா கோப்புகளை நீக்குவதன் மூலமாகவும் இடத்தைக் காலியாக்கலாம்.</item>
+    </plurals>
+</resources>

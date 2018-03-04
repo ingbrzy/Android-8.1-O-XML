@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Twoja ocena: %1$s gwiazdki</item>
+        <item quantity="one">Twoja ocena: %1$s gwiazdka</item>
+        <item quantity="few">Twoja ocena: %1$s gwiazdki</item>
+        <item quantity="many">Twoja ocena: %1$s gwiazdek</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d opinii</item>
+        <item quantity="one">%1$d opinia</item>
+        <item quantity="few">%1$d opinie</item>
+        <item quantity="many">%1$d opinii</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">Ocena %2$d na podstawie %1$d opinii</item>
+        <item quantity="one">Ocena %2$d na podstawie %1$d opinii</item>
+        <item quantity="few">Ocena %2$d na podstawie %1$d opinii</item>
+        <item quantity="many">Ocena %2$d na podstawie %1$d opinii</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Instalacje wstrzymane</item>
+        <item quantity="one">Instalacja wstrzymana</item>
+        <item quantity="few">Instalacje wstrzymane</item>
+        <item quantity="many">Instalacje wstrzymane</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Aplikacje przeskanowano %1$d dnia temu</item>
+        <item quantity="one"></item>
+        <item quantity="few">Aplikacje przeskanowano %1$d dni temu</item>
+        <item quantity="many">Aplikacje przeskanowano %1$d dni temu</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Usunięto %1$d szkodliwej aplikacji. %2$s.</item>
+        <item quantity="one">Usunięto %1$d szkodliwą aplikację. %2$s.</item>
+        <item quantity="few">Usunięto %1$d szkodliwe aplikacje. %2$s.</item>
+        <item quantity="many">Usunięto %1$d szkodliwych aplikacji. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d aktualizacji wymaga zaakceptowania</item>
+        <item quantity="one">%1$d aktualizacja wymaga zaakceptowania</item>
+        <item quantity="few">%1$d aktualizacje wymagają zaakceptowania</item>
+        <item quantity="many">%1$d aktualizacji wymaga zaakceptowania</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nowej aktualizacji</item>
+        <item quantity="one">%1$d nowa aktualizacja</item>
+        <item quantity="few">%1$d nowe aktualizacje</item>
+        <item quantity="many">%1$d nowych aktualizacji</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Dostępne jest %1$d aktualizacji</item>
+        <item quantity="one">Dostępna jest %1$d aktualizacja</item>
+        <item quantity="few">Dostępne są %1$d aktualizacje</item>
+        <item quantity="many">Dostępnych jest %1$d aktualizacji</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Zaktualizuj wszystkie</item>
+        <item quantity="one">Zaktualizuj</item>
+        <item quantity="few">Zaktualizuj wszystkie</item>
+        <item quantity="many">Zaktualizuj wszystkie</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Zaktualizowano %1$d aplikacji</item>
+        <item quantity="one">Zaktualizowano %1$d aplikację</item>
+        <item quantity="few">Zaktualizowano %1$d aplikacje</item>
+        <item quantity="many">Zaktualizowano %1$d aplikacji</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s gwiazdki</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s gwiazdka</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s gwiazdki</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s gwiazdek</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s gwiazdki – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s gwiazdka – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s gwiazdki – %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s gwiazdek – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s gwiazdki – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s gwiazdka – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s gwiazdki – %3$s – %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s gwiazdek – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d użytkownika uznało tę opinię za pomocną. Oznacz komentarz jako pomocny</item>
+        <item quantity="one">%1$d użytkownik uznał tę opinię za pomocną. Oznacz komentarz jako pomocny</item>
+        <item quantity="few">%1$d użytkowników uznało tę opinię za pomocną. Oznacz komentarz jako pomocny</item>
+        <item quantity="many">%1$d użytkowników uznało tę opinię za pomocną. Oznacz komentarz jako pomocny</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d użytkownika uznało tę opinię za pomocną. Anuluj oznaczenie, że komentarz jako pomocny</item>
+        <item quantity="one">%1$d użytkownik uznał tę opinię za pomocną. Anuluj oznaczenie, że komentarz jako pomocny</item>
+        <item quantity="few">%1$d użytkowników uznało tę opinię za pomocną. Anuluj oznaczenie, że komentarz jako pomocny</item>
+        <item quantity="many">%1$d użytkowników uznało tę opinię za pomocną. Anuluj oznaczenie, że komentarz jako pomocny</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Ocena: &lt;b>%1$s gwiazdki&lt;/b></item>
+        <item quantity="one">Ocena: &lt;b>%1$s gwiazdka&lt;/b></item>
+        <item quantity="few">Ocena: &lt;b>%1$s gwiazdki&lt;/b></item>
+        <item quantity="many">Ocena: &lt;b>%1$s gwiazdek&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">w %1$s opinii</item>
+        <item quantity="one">w %1$s opinii</item>
+        <item quantity="few">w %1$s opiniach</item>
+        <item quantity="many">w %1$s opiniach</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s gwiazdki&lt;/b> – %2$s</item>
+        <item quantity="one">&lt;b>%1$s gwiazdka&lt;/b> – %2$s</item>
+        <item quantity="few">&lt;b>%1$s gwiazdki&lt;/b> – %2$s</item>
+        <item quantity="many">&lt;b>%1$s gwiazdek&lt;/b> – %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Ostatnio używane %1$d dnia temu</item>
+        <item quantity="one">Ostatnio używane %1$d dzień temu</item>
+        <item quantity="few">Ostatnio używane %1$d dni temu</item>
+        <item quantity="many">Ostatnio używane %1$d dni temu</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Przywróć %1$d wybranej aplikacji</item>
+        <item quantity="one">Przywróć wybraną aplikację</item>
+        <item quantity="few">Przywróć %1$d wybrane aplikacje</item>
+        <item quantity="many">Przywróć %1$d wybranych aplikacji</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">gwiazdki</item>
+        <item quantity="one">gwiazdka</item>
+        <item quantity="few">gwiazdki</item>
+        <item quantity="many">gwiazdek</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Aplikacje zostaną wkrótce zainstalowane.</item>
+        <item quantity="one">Aplikacja zostanie wkrótce zainstalowana.</item>
+        <item quantity="few">Aplikacje zostaną wkrótce zainstalowane.</item>
+        <item quantity="many">Aplikacje zostaną wkrótce zainstalowane.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Aktualizacje aplikacji zostaną wkrótce zainstalowane.</item>
+        <item quantity="one">Aktualizacja aplikacji zostanie wkrótce zainstalowana.</item>
+        <item quantity="few">Aktualizacje aplikacji zostaną wkrótce zainstalowane.</item>
+        <item quantity="many">Aktualizacje aplikacji zostaną wkrótce zainstalowane.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Ostatnio używane %1$d dnia temu</item>
+        <item quantity="one">Ostatnio używane %1$d dzień temu</item>
+        <item quantity="few">Ostatnio używane %1$d dni temu</item>
+        <item quantity="many">Ostatnio używane %1$d dni temu</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Ostatnio używane %1$d miesiąca temu</item>
+        <item quantity="one">Ostatnio używane %1$d miesiąc temu</item>
+        <item quantity="few">Ostatnio używane %1$d miesiące temu</item>
+        <item quantity="many">Ostatnio używane %1$d miesięcy temu</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Możesz też zwolnić miejsce, usuwając pliki multimedialne w ustawieniach pamięci.</item>
+        <item quantity="one">Aby zainstalować aplikację lub aktualizację, usuń aplikacje, których już nie potrzebujesz. Możesz też zwolnić miejsce, usuwając pliki multimedialne w ustawieniach pamięci.</item>
+        <item quantity="few">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Możesz też zwolnić miejsce, usuwając pliki multimedialne w ustawieniach pamięci.</item>
+        <item quantity="many">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Możesz też zwolnić miejsce, usuwając pliki multimedialne w ustawieniach pamięci.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć &lt;a href=\"\">Ustawienia > Pamięć&lt;/a> i usunąć pliki multimedialne.</item>
+        <item quantity="one">Aby zainstalować aplikację lub aktualizację, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć &lt;a href=\"\">Ustawienia > Pamięć&lt;/a> i usunąć pliki multimedialne.</item>
+        <item quantity="few">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć &lt;a href=\"\">Ustawienia > Pamięć&lt;/a> i usunąć pliki multimedialne.</item>
+        <item quantity="many">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć &lt;a href=\"\">Ustawienia > Pamięć&lt;/a> i usunąć pliki multimedialne.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć Ustawienia > Pamięć i usunąć pliki multimedialne.</item>
+        <item quantity="one">Aby zainstalować aplikację lub aktualizację, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć Ustawienia > Pamięć i usunąć pliki multimedialne.</item>
+        <item quantity="few">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć Ustawienia > Pamięć i usunąć pliki multimedialne.</item>
+        <item quantity="many">Aby zainstalować aplikacje lub aktualizacje, usuń aplikacje, których już nie potrzebujesz. Aby zwolnić miejsce, możesz też otworzyć Ustawienia > Pamięć i usunąć pliki multimedialne.</item>
+    </plurals>
+</resources>

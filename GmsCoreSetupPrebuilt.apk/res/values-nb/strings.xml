@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Gå til startsiden</string>
+    <string name="abc_action_bar_home_description_format">%1$s – %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s – %2$s – %3$s</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_search_hint">Søk …</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="app_has_in_app_purchases">Kjøp i app</string>
+    <string name="app_has_permissions">Tillatelser: %s</string>
+    <string name="app_has_runtime_permissions">Appen kommer til å be om tillatelser</string>
+    <string name="app_picker_app_already_installed_toast">Denne appen er allerede installert</string>
+    <string name="app_picker_loading">Finner tilgjengelige apper …</string>
+    <string name="app_picker_loading_toast">Tilgjengelige apper lastes inn snart</string>
+    <string name="app_picker_no_apps">Ingen apper er valgt</string>
+    <string name="app_picker_no_apps_found">Fant ingen apper</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Kjøp i apper blir ikke overført til ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Enkelte kjøp i apper blir muligens ikke overført til ^1.</string>
+    <string name="apps_permissions_described_v2">"Bare populære gratisapper for iOS® kan synkroniseres med Android-apper. De fleste kjøp i apper kan ikke overføres. Du finner flere apper i Play-butikken når konfigurasjonen er fullført.
+
+Det kan hende du må gi noen apper forhåndstillatelse til å bruke spesifikk funksjonalitet eller informasjon på enheten din. Tillatelser er organisert i tillatelsesgrupper. Ved å velge å installere disse appene godtar du tillatelsene som er en del av hver gruppe. En beskrivelse av hver enkelt tillatelsesgruppe er tilgjengelig nedenfor.
+
+For enkelte apper kreves det kanskje ikke at du godtar tillatelser på forhånd. Når du bruker en slik app, kan du tillate eller avslå individuelle tillatelser før appen bruker den datatypen.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Ved å installere hver enkelt app godtar du appens tillatelser. <annotation id="apps_permissions_learn_more">Finn ut mer</annotation></string>
+    <string name="auto_restore_summary">Gjenopprett sikkerhetskopierte innstillinger og data når apper installeres på nytt</string>
+    <string name="auto_restore_title">Automatisk gjenoppretting</string>
+    <string name="backup_configure_account_default_summary">Ingen konto lagrer for øyeblikket sikkerhetskopierte data</string>
+    <string name="backup_configure_account_title">Sikkerhetskopikonto</string>
+    <string name="backup_data_summary">Sikkerhetskopiér appdata, Wi-Fi-passord og andre innstillinger til Google Disk</string>
+    <string name="backup_data_summary_full">"Sikkerhetskopiér enhetsdata (for eksempel Wi-Fi-passord og anropslogg) og appdata (for eksempel innstillinger og filer lagret av apper) automatisk eksternt.
+
+Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata eksternt regelmessig. Appdata kan være alle slags data apper har lagret (basert på utviklerinnstillingene), inkludert potensielt sensitive data, for eksempel kontakter, meldinger og bilder."</string>
+    <string name="backup_data_title">Sikkerhetskopiér til Google Disk</string>
+    <string name="backup_erase_dialog_message">Vil du stoppe sikkerhetskopiering av Wi-Fi-passord, bokmerker, andre innstillinger og appdata og slette alle kopier på Google Disk?</string>
+    <string name="backup_erase_dialog_message_full">Vil du stoppe automatisk sikkerhetskopiering av enhetsdata (for eksempel Wi-Fi-passord og anropslogg) og appdata (for eksempel innstillinger og filer lagret av apper) og slette alle kopier på Google Disk?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Det oppsto en feil under åpningen av bildeinnstillingene</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Når du slår på automatisk sikkerhetskopiering, skjer følgende:
+
+ ● Enhetsinnstillingene og appdata blir regelmessig lagret til en privat mappe i Google Disk. Appdata kan være alt av data en app har lagret (basert på utviklerinnstillingene), blant annet potensielt sensitive opplysninger, slik som kontakter, meldinger og bilder.
+
+ Store filer, eller filer som utviklere har valgt å ekskludere fra tjenesten, blir ikke sikkerhetskopiert.
+
+ ● Bilder og videoopptak fra denne enheten blir synkronisert med Google Foto-biblioteket ditt for å la deg søke, endre, slette og dele fra alle enhetene dine.
+
+ Som standard blir bilder og videoer lastet opp i full oppløsning. Disse teller ikke mot Disk-lagringskvoten din.
+
+ ● Kontakter og tilknyttede data fra denne enheten blir synkronisert med Google-kontakter. Du kan bruke Google-kontakter-appen til å søke, endre, slette og dele kontaktene dine fra alle enhetene dine.
+
+ ● Kalenderoppføringer og tilknyttede data fra denne enheten blir synkronisert til Google Kalender. Du kan bruke Google Kalender-appen til å søke, endre, slette og dele kontakter fra alle enhetene dine.
+
+ De sikkerhetskopierte dataene telles ikke mot Disk-lagringskvoten din."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Dette skjer når du slår på automatisk sikkerhetskopiering:
+
+ ● Enhetsinnstillingene og appdataene blir regelmessig lagret i en privat mappe i Google Disk. Appdata kan være alle slags data som en app har lagret (basert på utviklerinnstillingene), inkludert potensielt sensitive data, slik som kontakter, meldinger og bilder.
+
+ Store filer, eller filer utviklere har valgt å ekskludere fra tjenesten, blir ikke sikkerhetskopiert.
+
+ ● Kontakter og tilknyttede data fra denne enheten blir synkronisert med Google-kontakter. Du kan bruke Google-kontakter-appen til å søke, endre, slette og dele kontakter fra alle enhetene dine.
+
+ ● Kalenderoppføringer og tilknyttede data fra denne enheten blir synkronisert til Google Kalender. Du kan bruke Google Kalender-appen til å søke, endre, slette og dele kontakter fra alle enhetene dine.
+
+ De sikkerhetskopierte dataene telles ikke mot Disk-lagringskvoten din."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalender, kontakter, bilder og videoer blir synkronisert med Google-kontoen din og kan brukes mellom tjenester.</string>
+    <string name="backup_opt_in_backup_description_v2">Automatisk sikkerhetskopiering sikrer at du enkelt kan gjenopprette eller bytte telefon når som helst. <annotation id="backup_opt_in_learn_more">Finn ut mer</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Dette slår av sikkerhetskopiering for:
+
+Apper og appdata
+Anropslogg
+Enhetsinnstillinger
+Bilder og videoer
+SMS
+
+Kalender og Kontakter blir fremdeles synkronisert med Google-kontoen din. Når konfigureringen er fullført, kan du endre synkroniseringsinnstillingene ved å gå til "<annotation id="backup_opt_in_settings_instructions">Innstillinger > Kontoer > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vil du slå av sikkerhetskopiering?</string>
+    <string name="backup_opt_in_backup_list">"Apper og appdata
+Kalender
+Anropslogg
+Kontakter
+Enhetsinnstillinger (inkludert Wi-Fi-passord)
+Bilder og videoer
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Sikkerhetskopiering inkluderer:</string>
+    <string name="backup_opt_in_backup_title">Sikkerhetskopiér til Google Disk</string>
+    <string name="backup_opt_in_disable_backup">Slå av sikkerhetskopiering</string>
+    <string name="backup_photos_update">Oppdater Google Foto</string>
+    <string name="backup_settings_activity_backup_title">Sikkerhetskopiér</string>
+    <string name="backup_settings_activity_title">Sikkerhetskopier/tilbakestilling</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ikke kopiér</string>
+    <string name="close_button_label">Lukk</string>
+    <string name="cloud_restore_app_picker_button">Gjenopprett</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Sikkerhetskopien din inneholder ingen apper</string>
+    <string name="cloud_restore_app_picker_title">Velg appene du vil gjenopprette</string>
+    <string name="common_accept">Godta</string>
+    <string name="common_add_account_label">Legg til en konto</string>
+    <string name="common_ads_settings_title">Annonser</string>
+    <string name="common_agree">Godta</string>
+    <string name="common_app_name">Google Play Tjenester</string>
+    <string name="common_asm_preferences_settings_title">Kontoinnstillinger</string>
+    <string name="common_asm_privacy_settings_title">Personlig info og personvern</string>
+    <string name="common_asm_security_settings_title">Pålogging og sikkerhet</string>
+    <string name="common_audience_edit_button_label">Endre</string>
+    <string name="common_cancel">Avbryt</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan ikke startes (tillatelsesfeil).</string>
+    <string name="common_car_permission_desc">Tilgang til biltjenesten.</string>
+    <string name="common_car_permission_label">Biltjeneste</string>
+    <string name="common_chips_label_empty_circles">Ingen kretser</string>
+    <string name="common_chips_label_extended_circles">Utvidede kretser</string>
+    <string name="common_chips_label_only_you">Bare deg</string>
+    <string name="common_chips_label_public">Offentlig</string>
+    <string name="common_chips_label_your_circles">Kretsene dine</string>
+    <string name="common_choose_account_label">Velg en konto</string>
+    <string name="common_clear_app_data_menu_item">Slett appdata</string>
+    <string name="common_connected">Tilkoblet</string>
+    <string name="common_connected_apps_settings_title">Tilkoblede apper</string>
+    <string name="common_connecting">Kobler til …</string>
+    <string name="common_continue">Fortsett</string>
+    <string name="common_disagree">Avslå</string>
+    <string name="common_disconnect">Koble fra</string>
+    <string name="common_done">Ferdig</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Fra:</string>
+    <string name="common_games_settings_title">Play Spill</string>
+    <string name="common_get_started">Kom i gang</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Slå på</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string name="common_google_play_services_error_dialog_title">Feil</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="common_google_play_services_updating_title">Google Play Tjenester oppdateres</string>
+    <string name="common_google_play_services_wear_update_text">Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play Tjenester ble installert med feil arkitektur.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play Tjenester er installert med en arkitektur (%1$s) som er forskjellig fra enhetsarkitekturen din (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Feil arkitektur</string>
+    <string name="common_google_settings">Google Innstillinger</string>
+    <string name="common_google_settings_account">Konto</string>
+    <string name="common_google_settings_credentials_title">Smart Lock for passord</string>
+    <string name="common_google_settings_developer">Utvikler</string>
+    <string name="common_google_settings_services">Tjenester</string>
+    <string name="common_got_it">Greit</string>
+    <string name="common_install">Installer</string>
+    <string name="common_learn_more">Finn ut mer</string>
+    <string name="common_list_apps_menu_help">Hjelp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hjelp og tilbakemelding</string>
+    <string name="common_loading">Laster inn …</string>
+    <string name="common_location_settings_title">Posisjon</string>
+    <string name="common_magictether_settings_title">Umiddelbar internettdeling</string>
+    <string name="common_maps_settings_title">Maps og Latitude</string>
+    <string name="common_mdm_feature_name">Android Enhetsbehandling</string>
+    <string name="common_missing_url_viewer">Du mangler et visningsprogram for å vise eksterne nettadresser.</string>
+    <string name="common_more_options">Flere alternativer</string>
+    <string name="common_networking_settings_title">Nettverk</string>
+    <string name="common_no_browser_for_restricted_url">Begrenset tilgang. Fant ingen nettleser.</string>
+    <string name="common_no_devices_found">Fant ingen enheter</string>
+    <string name="common_no_network">Utilgjengelig fordi enheten ikke har Internett-tilkobling</string>
+    <string name="common_no_thanks">Nei takk</string>
+    <string name="common_not_now">Ikke nå</string>
+    <string name="common_off">Av</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">På</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="common_open_source_licenses">Lisenser for åpen kildekode</string>
+    <string name="common_people_settings_title">Google-kontakter</string>
+    <string name="common_permissions_enable_in_settings">Slå på i Innstillinger</string>
+    <string name="common_permissions_missing_end">For å fortsette, åpne Innstillinger og Tillatelser, og gi tillatelse til alle de oppførte elementene.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+For å slå på, gå til 
+Innstillinger >
+Tillatelser >
+Google Play Tjenester"</string>
+    <string name="common_permissions_missing_start">Denne appen kommer ikke til å fungere som den skal, med mindre du lar Google Play Tjenester be om tilgang til følgende:</string>
+    <string name="common_permissions_open_settings">Åpne Innstillinger</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Personvernregler</string>
+    <string name="common_restore">Gjenopprett</string>
+    <string name="common_retry">Prøv på nytt</string>
+    <string name="common_search_settings_title">Søk</string>
+    <string name="common_security_ootp_setting_title">Sikkerhetskode</string>
+    <string name="common_security_settings_title">Sikkerhet</string>
+    <string name="common_send">Send</string>
+    <string name="common_sending">Sender …</string>
+    <string name="common_set_up_nearby_device_settings_title">Konfigurer en enhet i nærheten</string>
+    <string name="common_settings">Innstillinger</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg på med Google</string>
+    <string name="common_something_went_wrong">Noe gikk galt</string>
+    <string name="common_system_info">Systeminformasjon</string>
+    <string name="common_take_photo_label">Ta et bilde</string>
+    <string name="common_terms_of_service">Vilkår for bruk</string>
+    <string name="common_try_again">Prøv på nytt</string>
+    <string name="common_turn_on_bluetooth">Slå på Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Slett</string>
+    <string name="common_ui_confirm_deleting_checkbox">Jeg forstår og ønsker å slette</string>
+    <string name="common_unknown">Ukjent</string>
+    <string name="common_update">Oppdater</string>
+    <string name="common_url_load_unsuccessful_message">Android-enheten er ikke koblet til noen datatjeneste. Hvis du vil se denne informasjonen nå, kan du åpne %s i en nettleser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android-enheten din er ikke tilkoblet noe Wi-Fi-nettverk. For å se informasjon om dette, gå til %s i en nettleser.</string>
+    <string name="common_url_login_notice">Logg på som %1$s</string>
+    <string name="common_usage_and_diagnostics">Bruk og diagnostikk</string>
+    <string name="common_yesterday">I går</string>
+    <string name="confirm_copy_button_text">Kopiér</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d på enheten</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google-kontakter, %1$d iCloud®, %2$d på enheten</string>
+    <string name="contacts_number_device_and_sim_with_google">Google-kontakter, %1$d på SIM-kortet, %2$d på enheten</string>
+    <string name="contacts_number_device_with_google">Google-kontakter, %1$d på enheten</string>
+    <string name="contacts_number_icloud_with_google">Google-kontakter, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google-kontakter, %1$d på SIM-kortet</string>
+    <string name="copy_confirmation_description">Data, blant annet Google-kontoen din og appene dine, kopieres til den nye telefonen din</string>
+    <string name="copy_confirmation_title">Vil du kopiere til den nye telefonen din?</string>
+    <string name="d2d_app_picker_description_no_apps">Vi fant ingen apper</string>
+    <string name="d2d_app_picker_title">Apper</string>
+    <string name="d2d_migration_canceled_on_source">Kopieringen er avbrutt</string>
+    <string name="data_copied_fragment_description">Dataene dine er kopiert til den nye telefonen din. Du kan koble fra kabelen.</string>
+    <string name="data_copied_fragment_description_cancel">Du valgte å stoppe kopieringen, så bare enkelte data er kopiert til den nye telefonen din.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Du valgte å stoppe kopieringen, så ingenting er kopiert til den nye telefonen din.</string>
+    <string name="data_copied_fragment_description_error">Noe gikk galt, så vi kunne ikke kopiere alt.</string>
+    <string name="data_copied_fragment_description_error_no_data">Noe gikk galt, så vi kunne ikke kopiere dataene dine.</string>
+    <string name="data_copied_fragment_no_data_title">Kunne ikke kopiere</string>
+    <string name="data_copied_fragment_some_data_title">Noen data er kopiert</string>
+    <string name="data_copied_fragment_title">Dataene er kopiert</string>
+    <string name="device_backup_title">Sikkerhetskopiering av enheten</string>
+    <string name="device_not_supported_fragment_new_device">Du er koblet til en ny telefon. For å fortsette, koble til den forrige telefonen på nytt.</string>
+    <string name="device_not_supported_fragment_new_device_title">Koble til forrige telefon på nytt</string>
+    <string name="device_not_supported_fragment_no_data_cable">Denne kabelen kan ikke overføre data. Koble til på nytt med en annen kabel og prøv på nytt.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prøv en annen kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Sørg for at den gamle telefonen din er låst opp, deretter kobler du kabelen fra og til igjen</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Noe gikk galt</string>
+    <string name="device_not_supported_ios_supervised_description">Ettersom iPhone®-enheten din er administrert, må du velge en annen måte å kopiere data på.</string>
+    <string name="device_picker_description">Sikkerhetskopier lagres i Google Disk</string>
+    <string name="device_picker_empty">Ingen sikkerhetskopier er knyttet til %1$s.</string>
+    <string name="device_picker_empty_title">Fant ingen sikkerhetskopier</string>
+    <string name="device_picker_item">Sikkerhetskopi av %1$s</string>
+    <string name="device_picker_last_used">Sist brukt ^1</string>
+    <string name="device_picker_skip">Ikke gjenopprett</string>
+    <string name="device_picker_title">Velg en sikkerhetskopi som skal gjenopprettes</string>
+    <string name="disabled_by_admin_summary_text">Kontrollert av administratoren</string>
+    <string name="download_msg_error_invalid">Nedlastingen ble konfigurert feil.</string>
+    <string name="download_msg_in_progress">Nedlastingen pågår.</string>
+    <string name="download_msg_not_allowed_space">Det er ikke nok plass til å laste ned.</string>
+    <string name="download_msg_pending">Nedlastingen venter.</string>
+    <string name="download_notification_description">Dette er en forespørsel fra %1$s.</string>
+    <string name="download_notification_title">Henter mer data</string>
+    <string name="drive_backup_account">Konto</string>
+    <string name="drive_backup_apps_in_backup">Sikkerhetskopierte appdata</string>
+    <string name="drive_backup_apps_last_backup">Siste sikkerhetskopi</string>
+    <string name="drive_backup_apps_loading">Laster inn ...</string>
+    <string name="drive_backup_apps_screen_title">Appdata</string>
+    <string name="drive_backup_content_apps_title">Appdata</string>
+    <string name="drive_backup_content_calendar_dialog_message">Aktiviteter som er opprettet i Google-kalenderen, synkroniseres på alle enhetene som er logget på Google-kontoen din.</string>
+    <string name="drive_backup_content_calendar_title">Kalender</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Sikkerhetskopien inneholder dato og mottaker for sendte og mottatte anrop.</string>
+    <string name="drive_backup_content_callhistory_title">Anropslogg</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontakter som er opprettet i Google-kontakter, synkroniseres på alle enhetene som er logget på Google-kontoen din.</string>
+    <string name="drive_backup_content_contacts_title">Kontakter</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Sikkerhetskopien inneholder enhetskonfigurasjonen, for eksempel bakgrunner, Wi-Fi-passord og standardapper.</string>
+    <string name="drive_backup_content_devicesettings_title">Enhetsinnstillinger</string>
+    <string name="drive_backup_content_header">Innhold</string>
+    <string name="drive_backup_content_photos_dialog_message">Den primære sikkerhetskopikontoen din er endret. Du kan også endre sikkerhetskopikontoen for Google Foto til %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">AVVIS</string>
+    <string name="drive_backup_content_photos_dialog_title">Vil du endre kontoen for bilder og videoer også?</string>
+    <string name="drive_backup_content_photos_dialog_yes">BYTT</string>
+    <string name="drive_backup_content_photos_title">Bilder og videoer</string>
+    <string name="drive_backup_content_sms_dialog_message">Sikkerhetskopien inneholder meldingene som er sendt og mottatt. Dette inkluderer ikke MMS-innhold.</string>
+    <string name="drive_backup_content_sms_title">SMS-tekstmeldinger</string>
+    <string name="drive_backup_content_status_dolly_action">Greit</string>
+    <string name="drive_backup_content_status_error">Det oppsto en feil ved henting av forrige synkroniseringsdato</string>
+    <string name="drive_backup_content_status_lastsaved">Siste sikkerhetskopi: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Siste synkronisering: %1$s</string>
+    <string name="drive_backup_content_status_never">Venter på å sikkerhetskopiere</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synkroniseringsinnstillinger</string>
+    <string name="drive_backup_content_status_sync_off">Synkronisering er av</string>
+    <string name="drive_backup_content_status_updating">Sjekker statusen …</string>
+    <string name="drive_backup_disabled_backuplist">"Sikkerhetskopien omfatter:
+\u0009– Apper og appdata
+\u0009– Anropslogg
+\u0009– Enhetsinnstillinger (inkludert Wi-Fi-passord)
+\u0009– Google Kalender
+\u0009– Google-kontakter
+\u0009– Bilder og videoer
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Sikkerhetskopien omfatter:
+\u0009– Apper og appdata
+\u0009– Anropslogg
+\u0009– Enhetsinnstillinger (inkludert Wi-Fi-passord)
+\u0009– Google Kalender
+\u0009– Google-kontakter
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Administratoren har slått av funksjonen</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Kalender, Google-kontakter, bilder og videoer blir synkronisert til Google-kontoen din og kan brukes på flere tjenester.
+
+Synkronisering kan slås på selv om sikkerhetskopiering er slått av. Synkroniseringsinnstillingene kan endres i Innstillinger > Kontoer > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Kalender og Google-kontakter synkroniseres til Google-kontoen din, og kan bruke på alle enhetene dine.
+
+Synkronisering kan slås på selv om sikkerhetskopiering slås av. Synkroniseringsinnstillingene kan endres i Innstillinger > Kontoer > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automatisk sikkerhetskopiering sikrer at du lett kan gjenopprette eller bytte telefonen når som helst.</string>
+    <string name="drive_backup_settings_title">Sikkerhetskopi</string>
+    <string name="drive_backup_state">Sikkerhetskopiér til Google Disk</string>
+    <string name="drive_backup_state_dialog_message">"Denne enhetens sikkerhetskopierte data i Google Disk blir permanent slettet.
+
+Bilder og videoer som allerede er sikkerhetskopiert, er fremdeles tilgjengelige i Google Disk.
+
+Google Kalender og Google-kontaktene blir fremdeles synkronisert til Google-kontoen din. Synkroniseringsinnstillingene kan endres i Innstillinger > Kontoer > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Denne enhetens sikkerhetskopierte data i Google Disk blir permanent slettet.
+
+Google Kalender og Google-kontakter blir fremdeles synkronisert til Google-kontoen din. Synkroniseringsinnstillinger kan endres i Innstillinger > Kontoer > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Slå av og slett</string>
+    <string name="drive_backup_state_dialog_title">Vil du slå av og slette sikkerhetskopien?</string>
+    <string name="durationDayHour">%1$d dag %2$d t</string>
+    <string name="durationDayHours">%1$d dag %2$d t</string>
+    <string name="durationDays">%1$d dager</string>
+    <string name="durationHourMinute">%1$d time %2$d min</string>
+    <string name="durationHourMinutes">%1$d time %2$d min</string>
+    <string name="durationHours">%1$d timer</string>
+    <string name="durationMinute">%1$d minutt</string>
+    <string name="durationMinuteSecond">%1$d min %2$d sek</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d sek</string>
+    <string name="durationMinutes">%1$d minutter</string>
+    <string name="durationSecond">%1$d sekund</string>
+    <string name="durationSeconds">%1$d sekunder</string>
+    <string name="encryption_warning_fragment_description">"Kryptering av sikkerhetskopi er slått på for iPhone®-enheten din. Hvis du ikke slo dette på selv, slo muligens ID-administratoren din det på.
+
+Bare bilder, musikk og videoer kan kopieres. For mer informasjon, gå til "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Kryptering av sikkerhetskopi</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Jeg finner ikke adapteren</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Finn Quick Switch Adapter som kom i samme eske som ^1.
+
+Koble kabelen til adapteren."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Koble til adapteren og kabelen</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Lås opp den gamle telefonen din, og koble deretter adapteren inn i denne telefonen.</string>
+    <string name="fragment_usb_connect_both_phones_title">Koble til begge telefonene</string>
+    <string name="fragment_usb_dialog_cancel_description">Du får mest mulig innhold hvis du bruker en kabel. Hvis kablene i esken ikke passer, kan prøve å bruke en lade- eller datakabel som fungerer med den gamle telefonen din.</string>
+    <string name="fragment_usb_dialog_cancel_title">Vil du kopiere data på en annen måte?</string>
+    <string name="fragment_usb_dont_have_cable">Jeg har ikke noen kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Jeg har ikke den gamle telefonen min</string>
+    <string name="fragment_usb_find_cable_description">Bruk en kabel som passer til den gamle telefonen din, for eksempel data- eller ladekabelen.</string>
+    <string name="fragment_usb_find_cable_title">Finn riktig kabel</string>
+    <string name="fragment_usb_initial_description">Overfør data fra den gamle telefonen din til ^1.</string>
+    <string name="fragment_usb_initial_title">La oss kopiere dataene dine</string>
+    <string name="fragment_usb_legacy_description">"Dette er den raskeste metoden for å overføre mest mulig data.
+
+Finn adapteren i boksen og koble den til den nye telefonen din. Koble sammen telefonene med en kabel, og lås deretter opp den gamle telefonen din."</string>
+    <string name="fragment_usb_other_ways">Kopiér uten kabel</string>
+    <string name="fragment_usb_plug_cable">Koble kabelen til den gamle telefonen din</string>
+    <string name="fragment_waiting_title">Vent litt</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google-kontakter blir synkronisert</string>
+    <string name="google_contacts_static_text_off">Google-kontakter synkroniseres fortsatt</string>
+    <string name="header_set_backup_account">Velg konto for sikkerhetskopi</string>
+    <string name="i_message_dialog_message">"For å fortsette å motta SMS-meldinger fra iPhone®-brukere må du slå av iMessage®.
+
+Besøk "<b>g.co/iMessageHelp</b> for instruksjoner.</string>
+    <string name="instructions_fragment_title">Fortsett på den andre telefonen din</string>
+    <string name="ios_connected_fragment_description">"I neste skjermbilde kan du logge på Google-kontoen din, eller du kan opprette en ny konto.
+
+iOS Calendar®-hendelser overføres ikke hvis du ikke legger til Google-kontoen din."</string>
+    <string name="ios_message_attachment_explanation">[Meldingsvedleggene dine ligger i Google Foto > Enhetsmapper > Meldingsvedlegg]</string>
+    <string name="ios_message_attachment_failed_explanation">[Enkelte vedlegg kunne ikke bli kopiert. Vedlegg som ble overført, ligger i Google Foto > Enhetsmapper > Meldingsvedlegg]</string>
+    <string name="ios_message_attachment_placeholder">[Vedlegg lagret i Google Foto > Enhetsmapper > Meldingsvedlegg]</string>
+    <string name="ios_message_attachments_placeholder">[Vedlegg lagret i Google Foto > Enhetsmapper > Meldingsvedlegg]</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Annet</string>
+    <string name="ios_photos_dialog_message">"Bilder som er lagret i iCloud®, kan ikke kopieres.
+
+For å overføre disse bildene til ^1, installer Google Foto-appen på iPhone®-enheten din og slå på sikkerhetskopiering og synkronisering. Besøk "<b>g.co/datatransferhelp</b> for å få flere instruksjoner.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Legg til konto</string>
+    <string name="lockscreen_smartdevice_action_next">Neste</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Lås opp for å fortsette å konfigurere telefonen din</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Av sikkerhetsårsaker må du bekrefte skjermlåsen din for å fortsette konfigureringen</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Bekreft skjermlåsen din</string>
+    <string name="manage_data_label">Google-konto</string>
+    <string name="master_clear_title">Tilbakestill til fabrikkstandard</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Reservekonto må konfigureres</string>
+    <string name="notification_content_title_set_backup_account">Sikkerhetskopiér</string>
+    <string name="notification_ticker_set_backup_account">Reservekonto er påkrevd</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Google-kontakter</string>
+    <string name="permgrouplab_location">Posisjon</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Kroppssensorer</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Lagring</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ingen konto lagrer for øyeblikket sikkerhetskopierte bilder</string>
+    <string name="photos_backup_title">Sikkerhetskopiering av bilder</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Ingen</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopierte kontakter blir lagret til Google-kontoen din.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopierte kontakter og kalendere blir lagret til Google-kontoen din.</string>
+    <string name="restore_choice_data_disclaimer_v2">Noen av dataene dine blir muligens ikke kopiert til ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Finn ut mer</annotation></string>
+    <string name="restore_choice_deselect_some_content">Velg bort noe innhold for å fortsette</string>
+    <string name="restore_choice_learn_more_android">"Noen av dataene fra den gamle telefonen din kan ikke kopieres automatisk:
+
+ ● Nedlastinger (for eksempel PDF-filer)
+
+ ● Bilder, videoer og musikk som er lagret i skjulte mapper
+
+ ● Bilder, videoer og musikk som er mottatt via tekstmelding
+
+ ● Apper som ikke kommer fra Google Play-butikken
+
+ ● Appdata (hvis appen ikke bruker Android-sikkerhetskopiering)
+
+ ● Visse enhetsinnstillinger
+
+ ● Andre kontoer enn Google-kontoer (og tilhørende data)
+
+ ● Kontakter og kalendere som er synkronisert til andre tjenester enn Google
+
+ ● Ringelyder
+
+ Hvis du vil ha mer informasjon og hjelp til å kopiere noen av disse dataene, besøk g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Noen av dataene fra den gamle telefonen din kan ikke kopieres automatisk:
+
+ ● Apper og appdata
+
+ ● Bilder der en original ikke er lagret på telefonen din (hvis for eksempel Optimaliser lagring-innstillingen er slått på, lagres originalbildene i iCloud®)
+
+ ● Filer og dokumenter som er lagret i iCloud®
+
+ ● Enhetsinnstillinger (for eksempel Wi-Fi-passord og bakgrunner)
+
+ ● Musikk som er beskyttet med DRM-beskyttelse (Digital Rights Management) (for eksempel iTunes®-musikk som er kjøpt før april 2009, eller musikk som er lastet ned fra en app for musikkstrømming for bruk uten nett)
+
+ ● Andre kontoer enn Google-kontoer (og tilhørende data)
+
+ ● Kontakter og kalendere som er synkronisert til andre tjenester enn Google eller iCloud®
+
+ ● Bokmerker fra Safari®
+
+ iMessage®-vedlegg blir tilgjengelige i Google Foto > Enhetsmapper > Meldingsvedlegg.
+
+ Hvis du vil ha mer informasjon og hjelp med å kopiere noen av disse dataene, besøk g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Det er ikke nok plass</string>
+    <string name="restore_choice_total_text">av den tilgjengelige plassen på %1$s. Overføringen tar %2$s.</string>
+    <string name="restore_error_message">Noe gikk galt med gjenopprettingen. Beklager.</string>
+    <string name="restore_item_appdata">Appdata</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS®-kalender, Google Kalender</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalender blir fremdeles synkronisert</string>
+    <string name="restore_item_calendar_sync_description">Google Kalender blir synkronisert</string>
+    <string name="restore_item_call_logs">Anropslogg</string>
+    <string name="restore_item_contacts">Kontakter</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-passord med mer</string>
+    <string name="restore_item_downloads">Nedlastinger</string>
+    <string name="restore_item_email">E-post</string>
+    <string name="restore_item_email_description">Gmail blir synkronisert</string>
+    <string name="restore_item_message_attachments">Meldingsvedlegg</string>
+    <string name="restore_item_messages">Meldinger</string>
+    <string name="restore_item_music">Musikk</string>
+    <string name="restore_item_photos">Bilder og videoer</string>
+    <string name="restore_item_settings">Enhetsinnstillinger</string>
+    <string name="restore_item_sms">SMS-meldinger</string>
+    <string name="restore_item_will_be_synced_text">Dette kommer til å synkronisere telefonen din</string>
+    <string name="restore_progress_title">Gjenoppretter …</string>
+    <string name="search_menu_title">Søk</string>
+    <string name="small_time_duration">Mindre enn 1 minutt</string>
+    <string name="source_connected_description">Forbereder …</string>
+    <string name="source_connected_title">Koblet til %1$s</string>
+    <string name="source_copying_description">Dataene du valgte, blir kopiert til den nye telefonen din</string>
+    <string name="source_copying_title">Kopierer …</string>
+    <string name="source_default_target_device_name">ny enhet</string>
+    <string name="source_notification_device_disconnected">Koble til kabelen på nytt</string>
+    <string name="source_notification_text">Overføring fra telefon til telefon pågår</string>
+    <string name="source_notification_title">Dataoverføring</string>
+    <string name="source_success_description">Fullfør konfigureringen på %1$s.</string>
+    <string name="source_success_screen_title">Ferdig!</string>
+    <string name="source_unplugged_description">Koble til %1$s på nytt</string>
+    <string name="source_unplugged_title">Kabelen er frakoblet</string>
+    <string name="source_waiting_title">Fortsett konfigureringen på %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Avvis</string>
+    <string name="stop_copying_dialog_message_before_transfer">Dataene dine er ikke kopiert til den nye telefonen din</string>
+    <string name="stop_copying_dialog_message_during_transfer">Enkelte data er ikke kopiert til den nye telefonen din</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ikke kopiér</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stopp</string>
+    <string name="stop_copying_dialog_title_before_transfer">Vil du ikke kopiere?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vil du stoppe kopieringen?</string>
+    <string name="storage_management_wear_descriptive_text">Apper bruker enhetenslagringen din til å kopiere data til en kroppsnær enhet.</string>
+    <string name="storage_management_wear_manage_size_label">Administrer kroppsnær lagring</string>
+    <string name="storage_management_wear_size_label">Kroppsnær lagring</string>
+    <string name="storage_managment_all_storage_descriptive_text">Total datamengde brukt av Google Play Tjenester, inkludert søkemotoren og andre data.</string>
+    <string name="storage_managment_clear_all_data">Fjern alle data</string>
+    <string name="storage_managment_computing_size">Beregner …</string>
+    <string name="storage_managment_icing_size_label">Søk-data</string>
+    <string name="storage_managment_manage_icing_button">Administrer søk-dataene</string>
+    <string name="storage_managment_search_index_descriptive_text">Vi akselererer søk på enheten din ved å levere en søkemotor som appene dine kan bruke.</string>
+    <string name="storage_managment_title">Lagring av Google Play Tjenester</string>
+    <string name="storage_managment_total_size_label">Total lagringsplass</string>
+    <string name="suw_back_button_label">Tilbake</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="suw_next_button_label">Neste</string>
+    <string name="target_default_source_device_model">gammel enhet</string>
+    <string name="target_device_not_supported_cant_continue_description">Du må velge en annen måte å kopiere data på</string>
+    <string name="target_device_not_supported_cant_continue_title">Den andre telefonen støttes ikke</string>
+    <string name="target_device_not_supported_try_restarting_description">"Koble fra kabelen og start den gamle telefonen din på nytt. Deretter kobler du til kabelen igjen og følger instruksjonene på Pixel-telefonen.
+
+Hvis du fortsetter å se denne feilen, må du kanskje prøve å kopiere på en annen måte."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefonen støttes kanskje ikke</string>
+    <string name="target_smart_device_timeout_add_account">LEGG TIL KONTO</string>
+    <string name="target_smart_device_timeout_description">Du kan prøve å legge til kontoen din manuelt hvis du vil</string>
+    <string name="target_smart_device_timeout_dismiss">AVVIS</string>
+    <string name="target_smart_device_timeout_title">Har du problemer?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonene er tilkoblet</string>
+    <string name="toast_reconnect_cable">Koble til kabelen på nytt</string>
+    <string name="transfer_finished_fragment_title">Vi er nesten i mål …</string>
+    <string name="transfer_summary_copied">Dataene er kopiert</string>
+    <string name="transfer_summary_fragment_description">Du kan koble fra kabelen.</string>
+    <string name="transfer_summary_fragment_finish">FULLFØR</string>
+    <string name="transfer_summary_fragment_title">Telefonen din er nesten klar</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Noen av bildene dine ble ikke kopiert. <annotation id="transfer_summary_learn_more">Finn ut mer</annotation></string>
+    <string name="transfer_summary_not_copied">Dataene er ikke kopiert</string>
+    <string name="transfer_summary_partial">%1$s / %2$s er kopiert</string>
+    <string name="transfer_summary_will_sync">Dataene synkroniseres etter konfigurering</string>
+    <string name="transferring_fragment_calculating_remaining_time">Beregner gjenstående tid …</string>
+    <string name="transferring_fragment_header">Kopierer …</string>
+    <string name="transferring_fragment_remaining_time">%1$s igjen</string>
+    <string name="trust_instructions_description">For å fortsette, gå inn på iPhone®-enheten din og godkjenn tilkoblingen</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes er varemerker som tilhører Apple Inc., registrert i USA og andre land.</string>
+</resources>

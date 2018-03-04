@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d-ვე აპი</item>
+        <item quantity="one">1 აპი</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">არჩეულია %1$d აპი</item>
+        <item quantity="one">არჩეულია 1 აპი</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d აპი უკვე დაინსტალირებულია</item>
+        <item quantity="one">1 აპი უკვე დაინსტალირებულია</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">თქვენი სარეზერვო ასლი %1$d აპს შეიცავს. აირჩიეთ რამდენიმე ან გადმოიტანეთ ყველა.</item>
+        <item quantity="one">თქვენი სარეზერვო ასლი %1$d აპს შეიცავს.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">მოწყობილობის %1$d კონტაქტი</item>
+        <item quantity="one">მოწყობილობის 1 კონტაქტი</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d მოწყობილობის</item>
+        <item quantity="one">%1$d SIM, %2$d მოწყობილობის</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® კონტაქტი</item>
+        <item quantity="one">1 iCloud® კონტაქტი</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM კონტაქტი</item>
+        <item quantity="one">1 SIM კონტაქტი</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">მოიძებნა %1$d აპი. აირჩიეთ რამდენიმე ან გადმოიტანეთ ყველა.</item>
+        <item quantity="one">მოიძებნა %1$d აპი. გსურთ მისი გადმოტანა?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">მოიძებნა თქვენი %1$d iOS® აპის შესატყვისი. თითოეული აპის დაინსტალირებით თქვენ მის ნებართვებს ეთანხმებით. &lt;annotation id="apps_permissions_learn_more">შეიტყვეთ მეტი&lt;/annotation></item>
+        <item quantity="one">მოიძებნა თქვენი ერთ-ერთი iOS® აპის შესატყვისი. ამ აპის დაინსტალირებით თქვენ მის ნებართვებს ეთანხმებით. &lt;annotation id="apps_permissions_learn_more">შეიტყვეთ მეტი&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">დარჩენილია %1$d ერთეული…</item>
+        <item quantity="one">დარჩენილია %1$d ერთეული…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">ყურადღება! ამ მოვლენას აღარ ესწრებიან შემდეგი მონაწილეები:</item>
+        <item quantity="one">ყურადღება! ამ მოვლენას აღარ ესწრება შემდეგი მონაწილე:</item>
+    </plurals>
+</resources>

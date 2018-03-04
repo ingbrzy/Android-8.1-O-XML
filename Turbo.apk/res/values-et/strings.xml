@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Otsingu kustutamine</string>
+    <string name="place_autocomplete_search_hint">Otsing</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_enable_button">Luba</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_wear_update_text">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">"Logi sisse Google'i kontoga"</string>
+    <string name="anomaly_entry_system">Android-süsteem</string>
+    <string name="background_battery_usage_description">Taustal tuvastati suur akukasutus</string>
+    <string name="battery_history_days">%1$dp %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$d min %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d p %2$d h %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Tühjeneva aku märguanne</string>
+    <string name="time_remaining_warning_subtext">Teie kasutuse alusel on jäänud ligikaudu %1$s</string>
+    <string name="time_remaining_warning_text">Aku võib peagi tühjaks saada</string>
+    <string name="usage_alerts_empty_state">Pärast aku viimast täislaadimist pole teateid</string>
+    <string name="usage_alerts_title">Teated kasutuse kohta</string>
+</resources>

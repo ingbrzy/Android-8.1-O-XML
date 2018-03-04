@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontak ditambahkan ke label %2$s</item>
+        <item quantity="one">%1$d kontak ditambahkan ke label %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Menambahkan %1$d kontak ke label %2$s</item>
+        <item quantity="one">Menambahkan %1$d kontak ke label %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Tinjau informasi yang disarankan untuk %d kontak</item>
+        <item quantity="one">Tinjau informasi yang disarankan untuk %d kontak</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d kontak sampah</item>
+        <item quantity="one">%d kontak sampah</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontak duplikasi</item>
+        <item quantity="one">1 kontak duplikasi</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d panggilan terbaru • Terakhir pada %2$s</item>
+        <item quantity="one">%1$d panggilan terbaru • Terakhir pada %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontak telah ditambahkan ke label %1$s</item>
+        <item quantity="one">Kontak telah ditambahkan ke label %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontak</item>
+        <item quantity="one">%d kontak</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontak · %2$s</item>
+        <item quantity="one">%1$d kontak · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontak dihapus</item>
+        <item quantity="one">%1$d kontak dihapus</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Kontak ini akan dihapus dari Google Kontak dan semua perangkat yang disinkronkan</item>
+        <item quantity="one">Kontak ini akan dihapus dari Google Kontak dan semua perangkat yang disinkronkan</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontak di akun Anda yang lain</item>
+        <item quantity="one">1 kontak di akun Anda yang lain</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontak</item>
+        <item quantity="one">1 kontak</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontak • ^2</item>
+        <item quantity="one">^1 kontak • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Pindahkan %1$d kontak ini ke %2$s?</item>
+        <item quantity="one">Pindahkan kontak ini ke %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d kontak dipindahkan</item>
+        <item quantity="one">%d kontak dipindahkan</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Selesai memindahkan %d kontak</item>
+        <item quantity="one">Selesai memindahkan kontak</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Memindahkan %d kontak</item>
+        <item quantity="one">Memindahkan kontak</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontak di-backup ke %2$s</item>
+        <item quantity="one">%1$d kontak di-backup ke %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Impor dari kartu SIM</item>
+        <item quantity="one">Impor dari kartu SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontak</item>
+        <item quantity="one">1 kontak</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d kontak SIM yang diimpor</item>
+        <item quantity="one">1 kontak SIM yang diimpor</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Bagikan kontak melalui</item>
+        <item quantity="one">Bagikan kontak melalui</item>
+    </plurals>
+</resources>

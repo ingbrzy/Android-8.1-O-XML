@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cbs_channels_strings">
+        <item>0xA800:type=earthquake, emergency=true</item>
+        <item>0xAFEE:type=tsunami, emergency=true</item>
+        <item>0xAC00-0xAFED:type=other, emergency=true</item>
+        <item>0xA802:type=etws_default, emergency=true</item>
+        <item>0xA804:type=etws_default, emergency=true</item>
+    </string-array>
+</resources>

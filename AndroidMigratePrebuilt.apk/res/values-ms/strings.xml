@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi skrin utama</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="app_has_in_app_purchases">Pembelian dalam apl</string>
+    <string name="app_has_permissions">Kebenaran: %s</string>
+    <string name="app_has_runtime_permissions">Apl akan meminta kebenaran</string>
+    <string name="app_picker_loading">Mencari apl yang tersedia…</string>
+    <string name="app_picker_loading_toast">Apl yang tersedia akan dimuatkan sebentar lagi</string>
+    <string name="app_picker_no_apps">Tiada apl yang dipilih</string>
+    <string name="app_picker_no_apps_found">Tiada apl yang ditemui</string>
+    <string name="apps_permissions_described_v2">"Hanya apl iOS® yang popular dan percuma boleh dipadankan dengan apl Android. Kebanyakan pembelian dalam apl tidak dapat dipindahkan. Anda dapat menemui lebih banyak apl dalam Gedung Play setelah persediaan selesai.
+
+Anda mungkin perlu memberi kebenaran awal kepada sesetengah apl untuk mengakses keupayaan atau maklumat khusus pada peranti anda. Kebenaran disusun dalam kumpulan kebenaran. Dengan memilih untuk memasang apl ini, anda menerima kebenaran yang merupakan sebahagian daripada setiap kumpulan. Perihalan setiap kumpulan kebenaran diberikan di bawah.
+
+Sesetengah apl mungkin tidak perlu menerima kebenaran awal. Apabila anda menggunakan salah satu apl ini, anda boleh membenarkan atau menolak kebenaran individu sebelum apl itu menggunakan jenis data tersebut.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Alat Pemindahan Data</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Jangan salin</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="cloud_restore_app_picker_button">Pulihkan</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Sandaran anda tiada sebarang aplikasi</string>
+    <string name="cloud_restore_app_picker_title">Pilih apl untuk dipulihkan</string>
+    <string name="common_cancel">Batal</string>
+    <string name="common_google_play_services_enable_button">Dayakan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="common_google_play_services_wear_update_text">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_signin_button_text">Log masuk</string>
+    <string name="common_signin_button_text_long">Log masuk dengan Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d peranti</string>
+    <string name="contacts_number_device_and_icloud_with_google">Kenalan Google, %1$d iCloud®, %2$d peranti</string>
+    <string name="contacts_number_device_and_sim_with_google">Kenalan Google, %1$d SIM, %2$d peranti</string>
+    <string name="contacts_number_device_with_google">Kenalan Google, %1$d peranti</string>
+    <string name="contacts_number_icloud_with_google">Kenalan Google, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Kenalan Google, %1$d SIM</string>
+    <string name="copy_confirmation_description">Anda akan menyalin data seperti Akaun Google dan apl anda ke telefon baharu anda</string>
+    <string name="copy_confirmation_title">Salin ke telefon baharu anda?</string>
+    <string name="d2d_app_picker_description_no_apps">Kami tidak menemui sebarang apl</string>
+    <string name="d2d_app_picker_title">Apl</string>
+    <string name="d2d_migration_canceled_on_source">Penyalinan dibatalkan</string>
+    <string name="data_copied_fragment_description">Data anda sudah disalin ke telefon baharu. Anda boleh mencabut kabel.</string>
+    <string name="data_copied_fragment_description_cancel">Anda memilih untuk menghentikan penyalinan, jadi sebahagian data sahaja yang sudah disalin ke telefon baharu anda.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Anda memilih untuk menghentikan penyalinan, jadi tiada apa-apa yang telah disalin ke telefon baharu anda.</string>
+    <string name="data_copied_fragment_description_error">Berlaku kesilapan, jadi kami tidak dapat menyalin kesemuanya.</string>
+    <string name="data_copied_fragment_description_error_no_data">Berlaku kesilapan, jadi kami tidak dapat menyalin data anda.</string>
+    <string name="data_copied_fragment_no_data_title">Tidak dapat menyalin</string>
+    <string name="data_copied_fragment_some_data_title">Sebahagian data disalin</string>
+    <string name="data_copied_fragment_title">Data disalin</string>
+    <string name="device_not_supported_fragment_new_device">Anda telah disambungkan ke telefon baharu. Untuk meneruskan, sambung semula ke telefon sebelumnya.</string>
+    <string name="device_not_supported_fragment_new_device_title">Sambung semula ke telefon sebelumnya</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kabel ini tidak boleh memindahkan data. Sambung semula menggunakan kabel lain, kemudian cuba lagi.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Cuba kabel lain</string>
+    <string name="device_not_supported_fragment_retry_description">Pastikan telefon lama anda tidak dikunci, kemudian cabut dan pasang semula kabel</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Kesilapan telah berlaku</string>
+    <string name="device_not_supported_ios_supervised_description">Memandangkan peranti iPhone® anda diselia, anda perlu memilih cara lain untuk menyalin data</string>
+    <string name="device_picker_skip">Jangan pulihkan</string>
+    <string name="durationDayHour">%1$d hari %2$d jam</string>
+    <string name="durationDayHours">%1$d hari %2$d jam</string>
+    <string name="durationDays">%1$d hari</string>
+    <string name="durationHourMinute">%1$d jam %2$d min</string>
+    <string name="durationHourMinutes">%1$d jam %2$d min</string>
+    <string name="durationHours">%1$d jam</string>
+    <string name="durationMinute">%1$d minit</string>
+    <string name="durationMinutes">%1$d minit</string>
+    <string name="encryption_warning_fragment_description">"Penyulitan sandaran dihidupkan untuk peranti iPhone® anda. Jika anda tidak menghidupkan penyulitan ini, penyulitan mungkin telah dihidupkan oleh pentadbir IT anda.
+
+Hanya foto, muzik dan video yang boleh disalin. Untuk mendapatkan maklumat lanjut, lawati "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Penyulitan sandaran</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Saya tidak menemui penyesuai</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Cari Quick Switch Adapter yang disertakan dalam kotak ^1 anda.
+
+Palamkan kabel pada penyesuai."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Sambungkan penyesuai &amp; kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Buka kunci telefon lama anda, kemudian palamkan penyesuai pada telefon ini.</string>
+    <string name="fragment_usb_connect_both_phones_title">Sambungkan kedua-dua telefon</string>
+    <string name="fragment_usb_dialog_cancel_description">Anda akan mendapat kandungan yang paling banyak jika menggunakan kabel. Jika kabel di dalam kotak tidak sesuai, cuba gunakan kabel pengecasan atau kabel data yang berfungsi dengan telefon lama anda.</string>
+    <string name="fragment_usb_dialog_cancel_title">Salin data dengan cara lain?</string>
+    <string name="fragment_usb_dont_copy">Jangan salin</string>
+    <string name="fragment_usb_dont_have_cable">Saya tiada kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">tidak dapat menggunakan telefon lama?</string>
+    <string name="fragment_usb_find_cable_description">Gunakan kabel yang sesuai dengan telefon lama anda, seperti kabel data atau pengecasan anda.</string>
+    <string name="fragment_usb_find_cable_title">Cari kabel yang sesuai</string>
+    <string name="fragment_usb_initial_description">Anda memerlukan peranti Android atau iPhone® lama anda. Hidupkan peranti itu dan pastikan peranti tersebut tidak berkunci.</string>
+    <string name="fragment_usb_initial_title">Dapatkan telefon lama anda</string>
+    <string name="fragment_usb_legacy_description">"Inilah cara terpantas untuk menyalin paling banyak data.
+
+Cari penyesuai di dalam kotak dan palamkannya pada telefon baharu anda. Sambungkan telefon menggunakan kabel, kemudian buka kunci telefon lama anda."</string>
+    <string name="fragment_usb_missing_data_description">Anda boleh meneruskan penyediaan Pixel semasa pemindahan.</string>
+    <string name="fragment_usb_missing_data_title">Mari salin data anda</string>
+    <string name="fragment_usb_other_ways">Salin tanpa kabel</string>
+    <string name="fragment_usb_plug_cable">Palamkan kabel pada telefon lama anda</string>
+    <string name="fragment_waiting_title">Tunggu sebentar…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Kenalan Google akan menyegerak</string>
+    <string name="google_contacts_static_text_off">Kenalan Google masih akan disegerak</string>
+    <string name="i_message_dialog_message">"Untuk terus menerima mesej SMS daripada pengguna peranti iPhone®, anda perlu mematikan iMessage®.
+
+Lawati "<b>g.co/iMessageHelp</b> untuk mendapatkan arahan.</string>
+    <string name="instructions_fragment_title">Teruskan pada telefon anda yang lain</string>
+    <string name="ios_connected_fragment_description">"Pada skrin seterusnya, anda boleh log masuk ke Akaun Google atau membuat akaun baharu.
+
+Jika anda tidak menambah Akaun Google, acara iOS Calendar® tidak akan dipindahkan."</string>
+    <string name="ios_message_attachment_explanation">[Lampiran mesej anda terdapat dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachment_failed_explanation">[Sesetengah lampiran tidak dapat disalin. Lampiran yang dipindahkan dapat ditemui dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachment_placeholder">[Lampiran disimpan dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachments_placeholder">[Lampiran disimpan dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_migration_default_calendar_title">Kalendar</string>
+    <string name="ios_migration_other_contact_relation">Lain-lain</string>
+    <string name="ios_photos_dialog_message">"Foto yang disimpan di iCloud® tidak boleh disalin.
+
+Untuk membawa foto ini ke ^1 anda, pasang apl Foto Google pada peranti iPhone® dan hidupkan Sandarkan &amp; segerakkan. Lawati "<b>g.co/datatransferhelp</b> untuk mendapatkan arahan lanjut.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">Seterusnya</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Semua</string>
+    <string name="photos_filtering_option_none">Tiada</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kenalan yang disalin akan disimpan ke Akaun Google anda.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kenalan dan kalendar yang disalin akan disimpan ke Akaun Google anda.</string>
+    <string name="restore_choice_data_disclaimer_v2">Sesetengah data anda mungkin tidak disalin ke ^1 anda. <annotation id="restore_choice_data_disclaimer_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="restore_choice_deselect_some_content">Nyahpilih beberapa kandungan untuk meneruskan</string>
+    <string name="restore_choice_learn_more_android">"Sesetengah data daripada telefon lama anda tidak boleh disalin secara automatik:
+
+ ● Muat turun (seperti fail PDF)
+
+ ● Foto, video &amp; muzik yang disimpan dalam folder tersembunyi
+
+ ● Foto, video &amp; muzik yang diterima melalui mesej teks
+
+ ● Apl yang bukan daripada Gedung Google Play
+
+ ● Data apl (jika apl itu tidak menggunakan sandaran Android)
+
+ ● Tetapan peranti tertentu
+
+ ● Akaun selain Akaun Google (dan sebarang data yang berkaitan)
+
+ ● Kenalan &amp; kalendar yang disegerak ke perkhidmatan selain Google
+
+ ● Nada dering
+
+ Untuk mendapatkan butiran lanjut dan bantuan menyalin sesetengah data ini, lawati g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Sesetengah data daripada telefon lama anda tidak boleh disalin secara automatik:
+
+ ● Apl &amp; data apl
+
+ ● Foto yang tidak disimpan salinan asalnya pada telefon anda (contohnya, jika tetapan Optimumkan Storan dihidupkan, foto asal disimpan di iCloud®)
+
+ ● Fail &amp; dokumen yang disimpan di iCloud®
+
+ ● Tetapan peranti (seperti kata laluan Wi-Fi &amp; kertas dinding)
+
+ ● Muzik yang dilindungi oleh perlindungan Pengurusan Hak Digital (DRM) (contohnya, muzik iTunes® yang dibeli sebelum April 2009 atau muzik yang dimuat turun untuk didengar di luar talian dalam apl penstriman muzik)
+
+ ● Akaun selain Akaun Google (dan sebarang data yang berkaitan)
+
+ ● Kenalan &amp; kalendar disegerakkan ke perkhidmatan selain Google atau iCloud®
+
+ ● Penanda halaman daripada Safari®
+
+ Lampiran iMessage® akan tersedia di Foto Google > Folder peranti > Lampiran mesej.
+
+ Untuk mendapatkan butiran lanjut dan membantu menyalin sesetengah data ini, lawati g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Tidak cukup ruang</string>
+    <string name="restore_choice_total_text">daripada %1$s anda yang tersedia / pemindahan %2$s</string>
+    <string name="restore_item_appdata">Data apl</string>
+    <string name="restore_item_calendar">Kalendar</string>
+    <string name="restore_item_calendar_ical_description">Kalendar iOS®, Kalendar Google</string>
+    <string name="restore_item_calendar_ical_off_description">Kalendar Google masih akan menyegerak</string>
+    <string name="restore_item_calendar_sync_description">Kalendar Google akan menyegerak</string>
+    <string name="restore_item_call_logs">Sejarah panggilan</string>
+    <string name="restore_item_contacts">Kenalan</string>
+    <string name="restore_item_device_settings_description">Kata laluan Wi-Fi &amp; banyak lagi</string>
+    <string name="restore_item_downloads">Muat turun</string>
+    <string name="restore_item_email">E-mel</string>
+    <string name="restore_item_email_description">Gmail akan menyegerak</string>
+    <string name="restore_item_message_attachments">Lampiran mesej</string>
+    <string name="restore_item_messages">Mesej</string>
+    <string name="restore_item_music">Muzik</string>
+    <string name="restore_item_photos">Foto &amp; video</string>
+    <string name="restore_item_settings">Tetapan peranti</string>
+    <string name="restore_item_sms">Mesej SMS</string>
+    <string name="restore_item_will_be_synced_text">Pilihan ini akan disegerakkan ke telefon anda</string>
+    <string name="restore_progress_title">Memulihkan…</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="small_time_duration">Kurang daripada seminit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Ketepikan</string>
+    <string name="stop_copying_dialog_message_before_transfer">Data anda tidak disalin ke telefon baharu anda</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sesetengah data anda tidak disalin ke telefon baharu anda</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Jangan Salin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Berhenti</string>
+    <string name="stop_copying_dialog_title_before_transfer">Jangan salin?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Berhenti menyalin?</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="suw_next_button_label">Seterusnya</string>
+    <string name="target_default_source_device_model">peranti lama</string>
+    <string name="target_device_not_supported_cant_continue_description">Anda perlu memilih cara lain untuk menyalin data</string>
+    <string name="target_device_not_supported_cant_continue_title">Telefon lain tidak disokong</string>
+    <string name="target_device_not_supported_try_restarting_description">"Cabut kabel dan mulakan semula telefon lama anda, kemudian sambung semula kabel itu dan ikut arahan pada Pixel anda.
+
+Jika anda asyik melihat ralat ini, anda mungkin perlu menyalin menggunakan cara lain."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon mungkin tidak disokong</string>
+    <string name="target_pixelmigrate_notification_description">Tersedia atau sedang berlangsung</string>
+    <string name="target_pixelmigrate_notification_title">Pemindahan data</string>
+    <string name="target_smart_device_timeout_add_account">TAMBAH AKAUN</string>
+    <string name="target_smart_device_timeout_description">Jika mahu, anda boleh cuba menambah akaun secara manual</string>
+    <string name="target_smart_device_timeout_dismiss">TOLAK</string>
+    <string name="target_smart_device_timeout_title">Ada masalah?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefon disambungkan</string>
+    <string name="toast_reconnect_cable">Sambung semula kabel anda</string>
+    <string name="transfer_finished_fragment_title">Menambah kemasan akhir…</string>
+    <string name="transfer_summary_copied">Data disalin</string>
+    <string name="transfer_summary_fragment_description">Anda boleh mencabut kabel.</string>
+    <string name="transfer_summary_fragment_finish">SELESAI</string>
+    <string name="transfer_summary_fragment_title">Telefon anda hampir siap</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Sesetengah foto anda tidak disalin. <annotation id="transfer_summary_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="transfer_summary_not_copied">Data tidak disalin</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Disalin</string>
+    <string name="transfer_summary_will_sync">Data akan disegerakkan selepas persediaan</string>
+    <string name="transferring_fragment_calculating_remaining_time">Mengira baki masa…</string>
+    <string name="transferring_fragment_header">Menyalin…</string>
+    <string name="transferring_fragment_remaining_time">%1$s lagi</string>
+    <string name="trust_instructions_description">Untuk meneruskan, semak peranti iPhone® anda dan luluskan sambungan</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari dan iTunes ialah tanda dagangan Apple Inc. yang berdaftar di A.S. dan negara-negara lain.</string>
+</resources>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="zero">Inkinobho yokungathandi</item>
+        <item quantity="one">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="two">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="few">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="many">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="zero">Inkinobho yokuthanda</item>
+        <item quantity="one">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="two">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="few">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="many">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Yeqa isikhangiso kumasekhondi angu-%1$d</item>
+        <item quantity="zero">Yeqa isikhangiso kusekhondi elingu-0</item>
+        <item quantity="one">Yeqa isikhangiso kusekhondi elingu-1</item>
+        <item quantity="two">Yeqa isikhangiso kumasekhondi angu-2</item>
+        <item quantity="few">Yeqa isikhangiso kumasekhondi angu-%1$d</item>
+        <item quantity="many">Yeqa isikhangiso kumasekhondi angu-%1$d</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">Susa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="zero">Hlehlisa inkinobho yokungathandi</item>
+        <item quantity="one">Susa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="two">Susa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="few">Susa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="many">Susa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">Susa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="zero">Hlehlisa inkinobho yokuthanda</item>
+        <item quantity="one">Susa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="two">Susa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="few">Susa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="many">Susa inkinobho yokuthanda, abanye abangu-%1d bayithandile le vidiyo</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d ukubukwa</item>
+        <item quantity="zero">%1$s · %2$,d ukubukwa</item>
+        <item quantity="one">%1$s · %2$,d ukubukwa</item>
+        <item quantity="two">%1$s · %2$,d ukubukwa</item>
+        <item quantity="few">%1$s · %2$,d ukubukwa</item>
+        <item quantity="many">%1$s · %2$,d ukubukwa</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Vumelanisa amavidiyo amasha angu-%1$d</item>
+        <item quantity="zero">Vumelanisa amavidiyo amasha angu-%1$d</item>
+        <item quantity="one">Vumelanisa ividiyo entsha engu-%1$d</item>
+        <item quantity="two">Vumelanisa amavidiyo amasha angu-%1$d</item>
+        <item quantity="few">Vumelanisa amavidiyo amasha angu-%1$d</item>
+        <item quantity="many">Vumelanisa amavidiyo amasha angu-%1$d</item>
+    </plurals>
+    <plurals name="auto_offline_video_duration_minutes">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="zero">%1$d amaminithi</item>
+        <item quantity="one">%1$d iminithi</item>
+        <item quantity="two">%1$d amaminithi</item>
+        <item quantity="few">%1$d amaminithi</item>
+        <item quantity="many">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d izinsuku ezisele</item>
+        <item quantity="one">1 usuku olusele</item>
+        <item quantity="two">2 izinsuku ezisele</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="zero">0 amaminithi</item>
+        <item quantity="one">1 iminithi</item>
+        <item quantity="two">2 amaminithi</item>
+        <item quantity="few">%1$d amaminithi</item>
+        <item quantity="many">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d amasekhondi</item>
+        <item quantity="zero">0 amasekhondi</item>
+        <item quantity="one">1 isekhondi</item>
+        <item quantity="two">2 amasekhondi</item>
+        <item quantity="few">%1$d amasekhondi</item>
+        <item quantity="many">%1$d amasekhondi</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d amahora asele</item>
+        <item quantity="one">1 ihora elisele</item>
+        <item quantity="two">2 amahora asele</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d amaminithi asele</item>
+        <item quantity="one">1 iminithi elisele</item>
+        <item quantity="two">2 amaminithi asele</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d kwangu-%2$d amavidiyo</item>
+        <item quantity="zero">Amavidiyo angu-0 kwangu-0</item>
+        <item quantity="one">%1$d kwengu-1 ividiyo</item>
+        <item quantity="two">%1$d kwangu-%2$d amavidiyo</item>
+        <item quantity="few">%1$d kwangu-%2$d amavidiyo</item>
+        <item quantity="many">%1$d kwangu-%2$d amavidiyo</item>
+    </plurals>
+    <plurals name="notification_video_list_completed">
+        <item quantity="other">%1$d amavidiyo amasha alondoloziwe</item>
+        <item quantity="zero">0 amavidiyo amasha alondoloziwe</item>
+        <item quantity="one">%1$d ividiyo entsha elondoloziwe</item>
+        <item quantity="two">%1$d amavidiyo amasha alondoloziwe</item>
+        <item quantity="few">%1$d amavidiyo amasha alondoloziwe</item>
+        <item quantity="many">%1$d amavidiyo amasha alondoloziwe</item>
+    </plurals>
+    <plurals name="offline_pending_time_window_plural">
+        <item quantity="other">%1$d inani lamavidiyo. Sethela ukulondoloza: %2$s ku-%3$s.</item>
+        <item quantity="zero"></item>
+        <item quantity="one">Ihlelelwe ukulondoloza: %2$s ukuya ku-%3$s.</item>
+        <item quantity="two">%1$d inani lamavidiyo. Sethela ukulondoloza: %2$s ku-%3$s.</item>
+        <item quantity="few">%1$d inani lamavidiyo. Sethela ukulondolozela: %2$s ku-%3$s.</item>
+        <item quantity="many">%1$d inani lamavidiyo. Sethela ukulondoloza: %2$s ku-%3$s.</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d amavidiyo</item>
+        <item quantity="one">1 ividiyo</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d amasekhondi</item>
+        <item quantity="one">%d isekhondi</item>
+        <item quantity="many">%d amasekhondi</item>
+    </plurals>
+    <plurals name="transcoding_progress">
+        <item quantity="other">Ilungiselela i-%1$,d%%</item>
+        <item quantity="zero">Ilungiselela i-%1$,d%%</item>
+        <item quantity="one">Ilungiselela i-%1$,d%%</item>
+        <item quantity="two">Ilungiselela i-%1$,d%%</item>
+        <item quantity="few">Ilungiselela i-%1$,d%%</item>
+        <item quantity="many">Ilungiselela i-%1$,d%%</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Cishe kusele amahora angu-%1$,d</item>
+        <item quantity="zero">Cishe kusele amahora angu-%1$,d</item>
+        <item quantity="one">Cishe kusele ihora elingu-%1$,d</item>
+        <item quantity="two">Cishe kusele amahora angu-%1$,d</item>
+        <item quantity="few">Cishe kusele amahora angu-%1$,d</item>
+        <item quantity="many">Cishe kusele amahora angu-%1$,d</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Cishe kusele amaminithi angu-%1$,d</item>
+        <item quantity="zero">Cishe kusele amaminithi angu-%1$,d</item>
+        <item quantity="one">Cishe kusele iminithi elingu-%1$,d</item>
+        <item quantity="two">Cishe kusele amaminithi angu-%1$,d</item>
+        <item quantity="few">Cishe kusele amaminithi angu-%1$,d</item>
+        <item quantity="many">Cishe kusele amaminithi angu-%1$,d</item>
+    </plurals>
+    <plurals name="upload_notification_active_progress">
+        <item quantity="other">Ilayisha amavidiyo angu-%1$d kwangu-%2$d</item>
+        <item quantity="one">Ilayisha ividiyo engu-1</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% olayishiwe</item>
+        <item quantity="zero">%1$,d%% olayishiwe</item>
+        <item quantity="one">%1$,d%% olayishiwe</item>
+        <item quantity="two">%1$,d%% olayishiwe</item>
+        <item quantity="few">%1$,d%% olayishiwe</item>
+        <item quantity="many">%1$,d%% olayishiwe</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Cishe kusele amasekhondi angu-%1$,d</item>
+        <item quantity="zero">Cishe kusele amasekhondi angu-%1$,d</item>
+        <item quantity="one">Cishe kusele isekhondi elingu-%1$,d</item>
+        <item quantity="two">Cishe kusele amasekhondi angu-%1$,d</item>
+        <item quantity="few">Cishe kusele amasekhondi angu-%1$,d</item>
+        <item quantity="many">Cishe kusele amasekhondi angu-%1$,d</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Thepha kabili kwesokunxele noma kwesokudla ukweqa amasekhondi angu-%d</item>
+        <item quantity="one">Thepha kabili kwesokunxele noma kwesokudla ukweqa amasekhondi angu-%d</item>
+        <item quantity="many">Thepha kabili kwesokunxele noma kwesokudla ukweqa amasekhondi angu-%d</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d amavidiyo</item>
+        <item quantity="zero">0 amavidiyo</item>
+        <item quantity="one">1 ividiyo</item>
+        <item quantity="two">2 amavidiyo</item>
+        <item quantity="few">%1$d amavidiyo</item>
+        <item quantity="many">%1$d amavidiyo</item>
+    </plurals>
+</resources>

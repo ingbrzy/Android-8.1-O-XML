@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Прагледзець усё</string>
+    <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_search_hint">Пошук...</string>
+    <string name="abc_searchview_description_clear">Выдалiць запыт</string>
+    <string name="abc_searchview_description_query">Запыт на пошук</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць з</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць з %s</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
+    <string name="app_has_in_app_purchases">Куплі з праграмы</string>
+    <string name="app_has_permissions">Дазволы: %s</string>
+    <string name="app_has_runtime_permissions">Праграма будзе запытваць дазволы</string>
+    <string name="app_picker_loading">Ідзе пошук даступных праграм…</string>
+    <string name="app_picker_loading_toast">Даступныя праграмы хутка загрузяцца</string>
+    <string name="app_picker_no_apps">Праграмы не выбраны</string>
+    <string name="app_picker_no_apps_found">Праграмы не знойдзены</string>
+    <string name="apps_permissions_described_v2">"Толькі для папулярных, бясплатных праграм iOS® можна знайсці адпаведнікі сярод праграм Android. Большасць пакупак з праграм нельга перанесці. Пасля завяршэння наладжвання вы зможаце знайсці іншыя праграмы ў Краме Play.
+
+Вам, магчыма, спатрэбіцца даць некаторым праграмам папярэдні дазвол на доступ да пэўных функцый ці даных на вашай прыладзе. Дазволы арганізуюцца ў групы дазволаў. Выбіраючы ўсталёўку гэтых праграм, вы прымаеце дазволы, якія ўваходзяць у кожную групу. Апісанне кожнай групы дазволаў прыведзена ніжэй.
+
+Для некаторых праграм можа не патрабавацца прыняцце папярэдніх дазволаў. Падчас вашага карыстання адной з такіх праграм вы можаце даваць ці не даваць індывідуальныя дазволы перад тым, як праграма выкарыстае такі тып даных.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Інструмент перадачы даных</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Не капіраваць</string>
+    <string name="close_button_label">Закрыць</string>
+    <string name="cloud_restore_app_picker_button">Аднавіць</string>
+    <string name="cloud_restore_app_picker_description_no_apps">У вашай рэзервовай копіі няма праграм</string>
+    <string name="cloud_restore_app_picker_title">Выберыце праграмы для аднаўлення</string>
+    <string name="common_cancel">Скасаваць</string>
+    <string name="common_google_play_services_enable_button">Уключыць</string>
+    <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_install_button">Усталяваць</string>
+    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string name="common_google_play_services_update_button">Абнавіць</string>
+    <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+    <string name="common_signin_button_text">Увайсцi</string>
+    <string name="common_signin_button_text_long">Увайсці праз Google</string>
+    <string name="contacts_number_device_and_icloud">Кантактаў у iCloud®: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Кантакты Google, кантактаў у iCloud®: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Кантакты Google, кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_with_google">Кантакты Google, лакальных кантактаў: %1$d</string>
+    <string name="contacts_number_icloud_with_google">Кантакты Google, кантактаў у iCloud®: %1$d</string>
+    <string name="contacts_number_sim_with_google">Кантакты Google, кантактаў на SIM-карце: %1$d</string>
+    <string name="copy_confirmation_description">Вы будзеце капіраваць даныя, такія як ваш уліковы запіс Google і праграмы, на ваш новы тэлефон</string>
+    <string name="copy_confirmation_title">Скапіраваць на ваш новы тэлефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Мы не змаглі знайсці ніводнай праграмы</string>
+    <string name="d2d_app_picker_title">Праграмы</string>
+    <string name="d2d_migration_canceled_on_source">Капіраванне скасавана</string>
+    <string name="data_copied_fragment_description">Вашы даныя скапіраваны на ваш новы тэлефон. Вы можаце адключыць кабель.</string>
+    <string name="data_copied_fragment_description_cancel">Вы вырашылі спыніць капіраванне, таму толькі некаторыя даныя былі скапіраваны на ваш новы тэлефон.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Вы вырашылі спыніць капіраванне, таму нічога не было скапіравана на ваш новы тэлефон.</string>
+    <string name="data_copied_fragment_description_error">Нешта пайшло не так, таму мы не змаглі скапіраваць усё.</string>
+    <string name="data_copied_fragment_description_error_no_data">Нешта пайшло не так, таму мы не змаглі скапіраваць вашы даныя.</string>
+    <string name="data_copied_fragment_no_data_title">Не атрымалася скапіраваць</string>
+    <string name="data_copied_fragment_some_data_title">Некаторыя даныя скапіраваны</string>
+    <string name="data_copied_fragment_title">Даныя скапіраваны</string>
+    <string name="device_not_supported_fragment_new_device">Вы падключаны да новага тэлефона. Каб працягваць, падключыцеся зноў да папярэдняга.</string>
+    <string name="device_not_supported_fragment_new_device_title">Падключыцеся зноў да папярэдняга тэлефона</string>
+    <string name="device_not_supported_fragment_no_data_cable">Па гэтым кабелі нельга перадаваць даныя. Падключыцеся зноў, выкарыстаўшы іншы кабель, і паўтарыце спробу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Паспрабуйце выкарыстаць іншы кабель</string>
+    <string name="device_not_supported_fragment_retry_description">Пераканайцеся, што ваш стары тэлефон разблакіраваны, а затым адключыце кабель і падключыце яго зноў</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Нешта пайшло не так</string>
+    <string name="device_not_supported_ios_supervised_description">Ваша прылада iPhone® знаходзіцца пад наглядам, таму вам прыйдзецца выбраць іншы спосаб капіравання даных</string>
+    <string name="device_picker_skip">Не аднаўляць</string>
+    <string name="durationDayHour">%1$d сут %2$d гадз</string>
+    <string name="durationDayHours">%1$d сут %2$d гадз</string>
+    <string name="durationDays">%1$d сут</string>
+    <string name="durationHourMinute">%1$d гадз %2$d хв</string>
+    <string name="durationHourMinutes">%1$d гадз %2$d хв</string>
+    <string name="durationHours">%1$d гадз</string>
+    <string name="durationMinute">%1$d хвіліна</string>
+    <string name="durationMinutes">%1$d хв</string>
+    <string name="encryption_warning_fragment_description">"На вашай прыладзе iPhone® уключана шыфраванне рэзервовых копій. Калі вы самі не ўключалі гэту функцыю, магчыма, яе ўключыў ваш IT-адміністратар.
+
+Скапіраваць можна толькі фота, музыку і відэа. Для атрымання дадатковай інфармацыі наведайце "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шыфраванне рэзервовых копій</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Я не магу знайсці адаптар</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Знайдзіце Quick Switch Adapter у каробцы ^1.
+
+Устаўце кабель у адаптар."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Злучыце кабель з адаптарам</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Разблакіруйце свой стары тэлефон, потым устаўце адаптар у гэты тэлефон.</string>
+    <string name="fragment_usb_connect_both_phones_title">Злучыце абодва тэлефона</string>
+    <string name="fragment_usb_dialog_cancel_description">Калі вы выкарыстаеце кабель, вы атрымаеце большасць змесціва. Калі кабелі, якія пастаўляліся ў камплекце, не падыходзяць, паспрабуйце выкарыстаць кабель для зарадкі і перадачы даных, які працуе з вашым старым тэлефонам.</string>
+    <string name="fragment_usb_dialog_cancel_title">Скапіраваць даныя іншым спосабам?</string>
+    <string name="fragment_usb_dont_copy">Не капіраваць</string>
+    <string name="fragment_usb_dont_have_cable">У мяне няма кабелю</string>
+    <string name="fragment_usb_dont_have_old_phone">выкарыстанне старога тэлефона немагчыма?</string>
+    <string name="fragment_usb_find_cable_description">Выкарыстоўвайце кабель, які падыдзе да вашага старога тэлефона, напрыклад ваш кабель для перадачы даных і зарадкі.</string>
+    <string name="fragment_usb_find_cable_title">Знайдзіце правільны кабель</string>
+    <string name="fragment_usb_initial_description">Вам патрэбна старая Android-прылада ці iPhone®. Уключыце і трымайце яго разблакіраваным.</string>
+    <string name="fragment_usb_initial_title">Вазьміце свой стары тэлефон</string>
+    <string name="fragment_usb_legacy_description">"Гэта самы хуткі спосаб перанесці большасць даных.
+
+Знайдзіце адаптар, які пастаўляўся ў камплекце, і ўстаўце яго ў новы тэлефон. Злучыце тэлефоны з дапамогай кабелю, а затым разблакіруйце свой стары тэлефон."</string>
+    <string name="fragment_usb_missing_data_description">Вы можаце працягваць наладжваць ваш Pixel у час перадачы.</string>
+    <string name="fragment_usb_missing_data_title">Давайце скапіруем вашы даныя</string>
+    <string name="fragment_usb_other_ways">Скапіраваць без кабелю</string>
+    <string name="fragment_usb_plug_cable">Устаўце кабель у стары тэлефон</string>
+    <string name="fragment_waiting_title">Секунду…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_contacts_static_text">Кантакты Google будуць сінхранізаваны</string>
+    <string name="google_contacts_static_text_off">Кантакты Google усё роўна будуць сінхранізаваны</string>
+    <string name="i_message_dialog_message">"Каб працягваць атрымліваць SMS-паведамленні ад карыстальнікаў iPhone®, вам трэба выключыць iMessage®.
+
+Наведайце "<b>g.co/iMessageHelp</b> для атрымання інструкцый.</string>
+    <string name="instructions_fragment_title">Працягвайце на сваім іншым тэлефоне</string>
+    <string name="ios_connected_fragment_description">"На наступным экране вы можаце ўвайсці ў свой уліковы запіс Google або стварыць новы ўліковы запіс.
+
+Калі вы не дадасце свой уліковы запіс Google, падзеі iOS Calendar® не будуць перададзены."</string>
+    <string name="ios_message_attachment_explanation">[Далучэнні да паведамленняў знаходзяцца ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachment_failed_explanation">[Некаторыя далучэнні не атрымалася скапіраваць. Далучэнні, якія былі перададзены, можна знайсці ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachment_placeholder">[Далучэнне захавана ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachments_placeholder">[Далучэнні захаваны ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_migration_default_calendar_title">Каляндар</string>
+    <string name="ios_migration_other_contact_relation">Іншае</string>
+    <string name="ios_photos_dialog_message">"Фатаграфіі, якія захоўваюцца ў iCloud®, нельга скапіраваць.
+
+Каб перанесці гэтыя фота на ваш ^1, усталюйце праграму Google Фота на сваёй прыладзе iPhone® і ўключыце параметр \"Рэзервовае капіраванне і сінхранізацыя\". Наведайце "<b>g.co/datatransferhelp</b> для атрымання дадатковых інструкцый.</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="lockscreen_smartdevice_action_next">Далей</string>
+    <string name="megabyteShort">МБ</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photos_filtering_option_all">Усе</string>
+    <string name="photos_filtering_option_none">Ніякія</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Скапіраваныя кантакты будуць захаваны ў вашым уліковым запісе Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Скапіраваныя кантакты і календары будуць захаваны ў вашым уліковым запісе Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Некаторыя з вашых даных нельга скапіраваць на вашу прыладу ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Даведацца больш</annotation></string>
+    <string name="restore_choice_deselect_some_content">Для працягу скасуйце выбар некаторага змесціва</string>
+    <string name="restore_choice_learn_more_android">"Некаторыя даныя з вашага старога тэлефона нельга скапіраваць аўтаматычна:
+
+ ● Спампоўкі (напрыклад, PDF-файлы)
+
+ ● Фота, відэа і музыка, якія захоўваюцца ў схаваных папках
+
+ ● Фота, відэа і музыка, атрыманыя з дапамогай тэкставых паведамленняў
+
+ ● Праграмы не з Крамы Google Play
+
+ ● Даныя праграм (калі праграма не выкарыстоўвае рэзервовае капіраванне для Android)
+
+ ● Некаторыя налады прылады
+
+ ● Уліковыя запісы, акрамя ўліковых запісаў Google (і любыя звязаныя з імі даныя)
+
+ ● Кантакты і календары, сінхранізаваныя з сэрвісамі не ад Google
+
+ ● Рынгтоны
+
+ Для атрымання больш падрабязнай інфармацыі і дапамогі па капіраванні некаторых з гэтых даных, наведайце g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Некаторыя даныя з вашага старога тэлефона нельга скапіраваць аўтаматычна:
+
+ ● Праграмы і даныя праграм
+
+ ● Фота, арыгіналы якіх не захоўваюцца на вашым тэлефоне (напрыклад, калі ўключаны параметр \"Аптымізацыя сховішча\", арыгіналы фатаграфій захоўваюцца ў iCloud®)
+
+ ● Файлы і дакументы, якія захоўваюцца ў iCloud®
+
+ ● Налады прылады (такія як паролі Wi-Fi і шпалеры)
+
+ ● Музыка, абароненая тэхналогіяй Digital Rights Management (DRM) (напрыклад, музыка iTunes®, купленая да красавіка 2009 года, або музыка, спампаваная для пазасеткавага праслухоўвання ў праграме прайгравання музыкі плынню)
+
+ ● Уліковыя запісы, акрамя ўліковых запісаў Google (і любыя звязаныя з імі даныя)
+
+ ● Кантакты і календары, сінхранізаваныя з сэрвісамі не ад Google або iCloud®
+
+ ● Закладкі з Safari®
+
+ Далучэнні iMessage® будуць даступныя ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\".
+
+ Для атрымання больш падрабязнай інфармацыі і дапамогі па капіраванні некаторых з гэтых даных, наведайце g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Не хапае месца</string>
+    <string name="restore_choice_total_text">усяго даступна: %1$s / перадача зойме %2$s</string>
+    <string name="restore_item_appdata">Даныя праграм</string>
+    <string name="restore_item_calendar">Каляндар</string>
+    <string name="restore_item_calendar_ical_description">Каляндар iOS®, Каляндар Google</string>
+    <string name="restore_item_calendar_ical_off_description">Каляндар Google усё роўна будзе сінхранізаваны</string>
+    <string name="restore_item_calendar_sync_description">Каляндар Google будзе сінхранізаваны</string>
+    <string name="restore_item_call_logs">Гісторыя выклікаў</string>
+    <string name="restore_item_contacts">Кантакты</string>
+    <string name="restore_item_device_settings_description">Паролі Wi-Fi і іншае</string>
+    <string name="restore_item_downloads">Спампоўкі</string>
+    <string name="restore_item_email">Электронная пошта</string>
+    <string name="restore_item_email_description">Gmail будзе сінхранізаваны</string>
+    <string name="restore_item_message_attachments">Далучэнні да паведамленняў</string>
+    <string name="restore_item_messages">Паведамленні</string>
+    <string name="restore_item_music">Музыка</string>
+    <string name="restore_item_photos">Фота і відэа</string>
+    <string name="restore_item_settings">Налады прылады</string>
+    <string name="restore_item_sms">SMS-паведамленні</string>
+    <string name="restore_item_will_be_synced_text">Гэта будзе сінхранізавана з вашым тэлефонам</string>
+    <string name="restore_progress_title">Ідзе аднаўленне…</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="small_time_duration">Менш за 1 хвіліну</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="stop_copying_dialog_continue_button">Адхіліць</string>
+    <string name="stop_copying_dialog_message_before_transfer">Вашы даныя не былі скапіраваны на ваш новы тэлефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Некаторыя вашы даныя не былі скапіраваны на ваш новы тэлефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не капіраваць</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Спыніць</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не капіраваць?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Спыніць капіраванне?</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Яшчэ</string>
+    <string name="suw_next_button_label">Далей</string>
+    <string name="target_default_source_device_model">старая прылада</string>
+    <string name="target_device_not_supported_cant_continue_description">Вам неабходна выбраць іншы спосаб капіравання даных</string>
+    <string name="target_device_not_supported_cant_continue_title">Іншы тэлефон не падтрымліваецца</string>
+    <string name="target_device_not_supported_try_restarting_description">"Адключыце кабель і перазагрузіце ваш стары тэлефон, а затым зноў падключыце кабель і выконвайце інструкцыі на вашым Pixel.
+
+Калі вы будзеце працягваць бачыць гэту памылку, вам, магчыма, трэба будзе паспрабаваць скапіраваць даныя іншым шляхам."</string>
+    <string name="target_device_not_supported_try_restarting_title">Тэлефон можа не падтрымлівацца</string>
+    <string name="target_pixelmigrate_notification_description">Даступна або выконваецца</string>
+    <string name="target_pixelmigrate_notification_title">Перадача даных</string>
+    <string name="target_smart_device_timeout_add_account">ДАДАЦЬ УЛІКОВЫ ЗАПІС</string>
+    <string name="target_smart_device_timeout_description">Калі хочаце, вы можаце паспрабаваць дадаць свой уліковы запіс уручную</string>
+    <string name="target_smart_device_timeout_dismiss">АДХІЛІЦЬ</string>
+    <string name="target_smart_device_timeout_title">Узнікла праблема?</string>
+    <string name="terabyteShort">ТБ</string>
+    <string name="toast_phones_connected">Тэлефоны падключаны</string>
+    <string name="toast_reconnect_cable">Падключыце кабель паўторна</string>
+    <string name="transfer_finished_fragment_title">Дадаюцца апошнія штрыхі...</string>
+    <string name="transfer_summary_copied">Даныя скапіраваны</string>
+    <string name="transfer_summary_fragment_description">Можна адключыць кабель.</string>
+    <string name="transfer_summary_fragment_finish">ЗАВЯРШЫЦЬ</string>
+    <string name="transfer_summary_fragment_title">Ваш тэлефон амаль гатовы</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Некаторыя з вашых фота не былі скапіраваны. <annotation id="transfer_summary_learn_more">Даведацца больш</annotation></string>
+    <string name="transfer_summary_not_copied">Даныя не скапіраваны</string>
+    <string name="transfer_summary_partial">%1$s / %2$s скапіравана</string>
+    <string name="transfer_summary_will_sync">Даныя будуць сінхранізаваны пасля ўсталёўкі</string>
+    <string name="transferring_fragment_calculating_remaining_time">Разлічваецца час, які застаўся...</string>
+    <string name="transferring_fragment_header">Ідзе капіраванне…</string>
+    <string name="transferring_fragment_remaining_time">Засталося %1$s</string>
+    <string name="trust_instructions_description">Каб працягнуць, праверце сваю прыладу iPhone® і ўхваліце падключэнне</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari і iTunes з'яўляюцца гандлёвымі маркамі кампаніі Apple Inc., зарэгістраванымі ў ЗША і іншых краінах."</string>
+</resources>

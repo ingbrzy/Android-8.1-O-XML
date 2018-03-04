@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">Terminé</string>
+    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="app_has_in_app_purchases">"Achats dans l'application"</string>
+    <string name="app_has_permissions">Autorisations : %s</string>
+    <string name="app_has_runtime_permissions">"L'application demandera l'autorisation"</string>
+    <string name="app_picker_loading">Recherche des applications compatibles en cours…</string>
+    <string name="app_picker_loading_toast">"Les applications compatibles vont bientôt s'afficher"</string>
+    <string name="app_picker_no_apps">Aucune application sélectionnée</string>
+    <string name="app_picker_no_apps_found">Aucune application trouvée</string>
+    <string name="apps_permissions_described_v2">"Seules les données de certaines applications iOSMD gratuites et populaires peuvent être transférées sur Android. La plupart des achats intégrés aux applications ne pourront pas être transférés. Vous trouverez davantage d'applications dans la boutique Google Play Store une fois la configuration terminée.
+
+Vous devrez peut-être autoriser immédiatement certaines applications à accéder à des fonctionnalités ou des données précises sur votre appareil. Les autorisations sont organisées par groupes. En choisissant d'installer ces applications, vous acceptez les autorisations qui font partie de chaque groupe. Vous trouverez ci-dessous la description de chacun d'eux.
+
+Certaines applications n'exigent pas l'acceptation immédiate d'autorisations. Lorsque vous utilisez l'une d'elles, vous pouvez accorder ou refuser des autorisations une par une avant que l'application utilise les données concernées.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Outil de transfert de données</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">O</string>
+    <string name="cancel_copy_button_text">Ne pas copier</string>
+    <string name="close_button_label">Fermer</string>
+    <string name="cloud_restore_app_picker_button">Restaurer</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Votre sauvegarde ne contient aucune application</string>
+    <string name="cloud_restore_app_picker_title">Choisissez les applications à restaurer</string>
+    <string name="common_cancel">Annuler</string>
+    <string name="common_google_play_services_enable_button">Activer</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s éprouve un problème avec les services Google Play. Veuillez réessayer."</string>
+    <string name="common_google_play_services_unsupported_text">"L'application %1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil."</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis à jour.</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="contacts_number_device_and_icloud">"%1$d sur iCloudMD, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_and_icloud_with_google">"Contacts Google, %1$d sur iCloudMD, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_and_sim_with_google">"Contacts Google, %1$d sur la carte SIM, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_with_google">"Contacts Google, %1$d sur l'appareil"</string>
+    <string name="contacts_number_icloud_with_google">Contacts Google, %1$d sur iCloudMD</string>
+    <string name="contacts_number_sim_with_google">Contacts Google, %1$d sur la carte SIM</string>
+    <string name="copy_confirmation_description">Des données, telles que votre compte Google et vos applications, seront copiées sur votre nouveau téléphone</string>
+    <string name="copy_confirmation_title">Copier les données sur votre nouveau téléphone?</string>
+    <string name="d2d_app_picker_description_no_apps">"Nous n'avons trouvé aucune application"</string>
+    <string name="d2d_app_picker_title">Applications</string>
+    <string name="d2d_migration_canceled_on_source">Copie annulée</string>
+    <string name="data_copied_fragment_description">Vos données ont été copiées sur votre nouveau téléphone. Vous pouvez débrancher le câble.</string>
+    <string name="data_copied_fragment_description_cancel">"Vous avez choisi d'arrêter la copie, alors seulement une partie des données a été copiée sur votre nouveau téléphone."</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"Vous avez choisi d'arrêter la copie. Aucune donnée n'a été transférée sur votre nouveau téléphone."</string>
+    <string name="data_copied_fragment_description_error">"Une erreur s'est produite, nous n'avons pas pu copier toutes les données."</string>
+    <string name="data_copied_fragment_description_error_no_data">"Une erreur s'est produite, nous n'avons pas pu copier vos données."</string>
+    <string name="data_copied_fragment_no_data_title">Impossible de copier</string>
+    <string name="data_copied_fragment_some_data_title">Certaines données ont été copiées</string>
+    <string name="data_copied_fragment_title">Données copiées</string>
+    <string name="device_not_supported_fragment_new_device">Vous êtes connecté à un nouveau téléphone. Pour continuer, reconnectez le téléphone précédent.</string>
+    <string name="device_not_supported_fragment_new_device_title">Rebranchez le téléphone précédent</string>
+    <string name="device_not_supported_fragment_no_data_cable">"Ce câble ne peut pas transférer de données. Rebranchez les appareil à l'aide d'un câble différent, puis réessayez."</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Essayez un autre câble</string>
+    <string name="device_not_supported_fragment_retry_description">Assurez-vous que votre ancien téléphone est déverrouillé, puis débranchez et rebranchez le câble</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">"Une erreur s'est produite"</string>
+    <string name="device_not_supported_ios_supervised_description">Étant donné que votre iPhoneMD est un appareil supervisé, vous devez sélectionner une autre façon de copier les données</string>
+    <string name="device_picker_skip">Ne pas restaurer</string>
+    <string name="durationDayHour">%1$d j et %2$d h</string>
+    <string name="durationDayHours">%1$d j et %2$d h</string>
+    <string name="durationDays">%1$d jours</string>
+    <string name="durationHourMinute">%1$d h, %2$d min</string>
+    <string name="durationHourMinutes">%1$d h, %2$d min</string>
+    <string name="durationHours">%1$d heures</string>
+    <string name="durationMinute">%1$d minute</string>
+    <string name="durationMinutes">%1$d minutes</string>
+    <string name="encryption_warning_fragment_description">"Le chiffrement des sauvegardes est activé sur votre iPhoneMD. Si vous n'avez pas activé cette option, votre administrateur informatique l'a peut-être fait.
+
+Seules les photos, la musique et les vidéos peuvent être transférées. Pour en savoir plus, consultez la page "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Chiffrement de sauvegarde</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">"Je ne trouve pas l'adaptateur"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Localisez l'adaptateur Quick Switch Adapter fourni avec votre ^1.
+
+Branchez le câble sur l'adaptateur."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">"Brancher l'adaptateur et le câble"</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">"Déverrouillez votre ancien téléphone, puis branchez l'adaptateur sur ce téléphone."</string>
+    <string name="fragment_usb_connect_both_phones_title">Connecter les deux téléphones</string>
+    <string name="fragment_usb_dialog_cancel_description">"Vous pourrez transférer plus de contenus si vous utilisez un câble. Si celui fourni dans la boîte ne correspond pas à votre ancien téléphone, essayez d'utiliser un câble de charge ou de données compatible avec votre ancien téléphone."</string>
+    <string name="fragment_usb_dialog_cancel_title">"Copier les données d'une autre manière?"</string>
+    <string name="fragment_usb_dont_copy">Ne pas copier</string>
+    <string name="fragment_usb_dont_have_cable">"Je n'ai pas de câble"</string>
+    <string name="fragment_usb_dont_have_old_phone">Vous ne pouvez pas utiliser votre ancien téléphone?</string>
+    <string name="fragment_usb_find_cable_description">Utilisez un câble compatible avec votre ancien téléphone, comme votre câble de données ou de charge.</string>
+    <string name="fragment_usb_find_cable_title">Trouver le bon câble</string>
+    <string name="fragment_usb_initial_description">Vous avez besoin de votre ancien appareil Android ou iPhoneMD. Allumez-le et gardez-le déverrouillé.</string>
+    <string name="fragment_usb_initial_title">Prendre votre ancien téléphone</string>
+    <string name="fragment_usb_legacy_description">"Il s'agit du meilleur moyen pour transférer un maximum de données. 
+
+Trouvez l'adaptateur dans la boîte et branchez-le sur votre nouveau téléphone. Connectez les deux téléphones à l'aide du câble, puis déverrouillez votre ancien téléphone."</string>
+    <string name="fragment_usb_missing_data_description">Vous pouvez continuer à configurer votre Pixel pendant le transfert.</string>
+    <string name="fragment_usb_missing_data_title">Copions vos données</string>
+    <string name="fragment_usb_other_ways">Copier sans câble</string>
+    <string name="fragment_usb_plug_cable">Brancher le câble sur votre ancien téléphone</string>
+    <string name="fragment_waiting_title">Une seconde…</string>
+    <string name="gigabyteShort">Go</string>
+    <string name="google_contacts_static_text">Les données de Google Contacts seront synchronisées</string>
+    <string name="google_contacts_static_text_off">Les données Google Contacts seront toujours synchronisées</string>
+    <string name="i_message_dialog_message">"Pour continuer à recevoir des messages texte des utilisateurs d'iPhoneMD, vous devez désactiver le service iMessageMD. 
+
+Vous trouverez les instructions sur la page "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Continuez sur votre autre téléphone</string>
+    <string name="ios_connected_fragment_description">"Sur l'écran suivant, vous pouvez vous connecter à votre compte Google ou en créer un.
+
+Si vous n'ajoutez pas votre compte Google, les événements de votre calendrier iOS ne seront pas transférés."</string>
+    <string name="ios_message_attachment_explanation">"[Les pièces jointes de vos messages sont enregistrées dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Certaines pièces jointes n'ont pas pu être copiées. Les pièces jointes qui ont été transférés se trouvent dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachment_placeholder">"[Pièce jointe enregistrée dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachments_placeholder">"[Pièces jointes enregistrée dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_migration_default_calendar_title">Agenda</string>
+    <string name="ios_migration_other_contact_relation">Autre</string>
+    <string name="ios_photos_dialog_message">"Les photos stockées sur iCloudMD ne peuvent pas être copiées.
+
+Pour importer ces photos sur votre ^1, installez l'application Google Photos sur votre appareil iPhoneMD, puis activez la fonction Sauvegarder et synchroniser. Vous trouverez des instructions plus détaillées sur la page "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">ko</string>
+    <string name="lockscreen_smartdevice_action_next">Suivant</string>
+    <string name="megabyteShort">Mo</string>
+    <string name="petabyteShort">Po</string>
+    <string name="photos_filtering_option_all">Tous</string>
+    <string name="photos_filtering_option_none">Aucun</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Les contacts copiés seront enregistrés dans votre compte Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Les contacts et les agendas copiés seront enregistrés dans votre compte Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Il se peut que certaines données ne soient pas copiées sur votre ^1. <annotation id="restore_choice_data_disclaimer_learn_more">En savoir plus</annotation></string>
+    <string name="restore_choice_deselect_some_content">Désélectionnez certains éléments pour continue</string>
+    <string name="restore_choice_learn_more_android">"Certaines données de votre ancien téléphone ne peuvent pas être copiées automatiquement :
+
+● Les téléchargements (comme les fichiers PDF)
+
+● Les photos, les vidéos et la musique stockées dans des dossiers cachés
+
+● Les photos, les vidéos et la musique reçues par message texte
+
+● Les applications qui ne proviennent pas de la boutique Google Play Store
+
+● Les données des applications (si les applications en questions n'utilisent pas la fonction de sauvegarde Android)
+
+● Certains paramètres de l'appareil
+
+● Les comptes autres que les comptes Google (et toutes les données associées)
+
+● Les contacts et les agendas synchronisés à des services autres que Google
+
+● Les sonneries
+
+Pour obtenir plus de détails et d'assistance concernant la copie de certaines de ces données, visitez la page g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Certaines données de votre ancien téléphone ne peuvent pas être copiées automatiquement :
+
+ Applications et données des applications
+
+● Photos dont l'original n'est pas stocké sur votre téléphone (par exemple, si le paramètre d'optimisation du stockage est activé, les photos originales sont stockées dans iCloudMD)
+
+● Fichiers et documents stockés dans iCloudMD
+
+● Paramètres de l'appareil (comme les mots de passe Wi-Fi et le fond d'écran)
+
+● Musique protégée par gestion des droits numériques (GDN), par exemple de la musique achetée dans iTunesMD avant avril 2009 ou de la musique téléchargée pour une écoute hors ligne à l'aide d'une application de diffusion
+
+● Comptes autres que Google (et les données associées à ces comptes)
+
+● Contacts et agendas synchronisés avec des services autres que Google ou iCloudMD
+
+● Favoris de SafariMD
+
+Les pièces jointes d'iMessageMD sont accessibles dans Google Photos > Dossiers de l'appareil > Pièces jointes aux messages.
+
+Pour plus de détails et pour obtenir de l'aide avec la copie de ces données, accédez au site visit g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Espace insuffisant</string>
+    <string name="restore_choice_total_text">de votre espace total de %1$s. Durée du transfert : %2$s.</string>
+    <string name="restore_item_appdata">Données des applications</string>
+    <string name="restore_item_calendar">Agenda</string>
+    <string name="restore_item_calendar_ical_description">Calendrier iOSMD, Google Agenda</string>
+    <string name="restore_item_calendar_ical_off_description">Les données de Google Agenda seront quand même synchronisées</string>
+    <string name="restore_item_calendar_sync_description">Les données de Google Agenda seront synchronisées</string>
+    <string name="restore_item_call_logs">Historique des appels</string>
+    <string name="restore_item_contacts">Contacts</string>
+    <string name="restore_item_device_settings_description">Mots de passe Wi-Fi et plus</string>
+    <string name="restore_item_downloads">Téléchargements</string>
+    <string name="restore_item_email">Envoyer un courriel</string>
+    <string name="restore_item_email_description">Les données de Gmail seront synchronisées</string>
+    <string name="restore_item_message_attachments">Pièces jointes des messages</string>
+    <string name="restore_item_messages">Messages</string>
+    <string name="restore_item_music">Musique</string>
+    <string name="restore_item_photos">Photos et vidéos</string>
+    <string name="restore_item_settings">"Paramètres de l'appareil"</string>
+    <string name="restore_item_sms">Messages texte</string>
+    <string name="restore_item_will_be_synced_text">Ces données seront synchronisées sur votre téléphone</string>
+    <string name="restore_progress_title">Restauration en cours…</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="small_time_duration">"Moins d'une minute"</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_copying_dialog_continue_button">Fermer</string>
+    <string name="stop_copying_dialog_message_before_transfer">"Vos données n'ont pas été copiées sur votre nouveau téléphone"</string>
+    <string name="stop_copying_dialog_message_during_transfer">"Certains de vos données n'ont pas été copiées sur votre nouveau téléphone"</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ne pas copier</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Arrêter</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ne pas copier?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Arrêter la copie?</string>
+    <string name="suw_back_button_label">Précédent</string>
+    <string name="suw_more_button_label">Plus</string>
+    <string name="suw_next_button_label">Suivant</string>
+    <string name="target_default_source_device_model">ancien appareil</string>
+    <string name="target_device_not_supported_cant_continue_description">Vous devez sélectionner une autre façon de copier des données</string>
+    <string name="target_device_not_supported_cant_continue_title">"L'autre téléphone n'est pas pris en charge"</string>
+    <string name="target_device_not_supported_try_restarting_description">"Débranchez le câble et redémarrez votre ancien téléphone, puis rebranchez le câble et suivez les instructions affichées sur votre Pixel.
+
+Si ce message d'erreur s'affiche à nouveau, vous devrez peut-être utiliser une autre méthode de copie."</string>
+    <string name="target_device_not_supported_try_restarting_title">Il se peut que le téléphone ne soit pas compatible</string>
+    <string name="target_pixelmigrate_notification_description">Disponible ou en cours</string>
+    <string name="target_pixelmigrate_notification_title">Transfert de données</string>
+    <string name="target_smart_device_timeout_add_account">AJOUTER UN COMPTE</string>
+    <string name="target_smart_device_timeout_description">"Si vous le souhaitez, vous pouvez essayer d'ajouter votre compte manuellement"</string>
+    <string name="target_smart_device_timeout_dismiss">IGNORER</string>
+    <string name="target_smart_device_timeout_title">Vous éprouvez des problèmes?</string>
+    <string name="terabyteShort">To</string>
+    <string name="toast_phones_connected">Les téléphones sont connectés</string>
+    <string name="toast_reconnect_cable">Reconnectez le câble</string>
+    <string name="transfer_finished_fragment_title">Ajout de la touche finale…</string>
+    <string name="transfer_summary_copied">Données copiées</string>
+    <string name="transfer_summary_fragment_description">Vous pouvez débrancher le câble.</string>
+    <string name="transfer_summary_fragment_finish">TERMINER</string>
+    <string name="transfer_summary_fragment_title">Votre téléphone est presque prêt</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Certaines de vos photos n'ont pas pu être copiées. "<annotation id="transfer_summary_learn_more">En savoir plus</annotation></string>
+    <string name="transfer_summary_not_copied">Données non copiées</string>
+    <string name="transfer_summary_partial">%1$s articles sur %2$s ont été copiés</string>
+    <string name="transfer_summary_will_sync">Synchronisation des données après la configuration</string>
+    <string name="transferring_fragment_calculating_remaining_time">Calcul de la durée restante en cours…</string>
+    <string name="transferring_fragment_header">Copie en cours…</string>
+    <string name="transferring_fragment_remaining_time">Il reste %1$s</string>
+    <string name="trust_instructions_description">Pour continuer, allez sur votre iPhoneMD et approuvez la connexion</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari et iTunes sont des marques de commerce d'Apple Inc., déposées aux États-Unis et dans d'autres pays."</string>
+</resources>

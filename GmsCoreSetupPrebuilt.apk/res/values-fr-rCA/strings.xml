@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">Terminé</string>
+    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="app_has_in_app_purchases">"Achats dans l'application"</string>
+    <string name="app_has_permissions">Autorisations : %s</string>
+    <string name="app_has_runtime_permissions">"L'application demandera l'autorisation"</string>
+    <string name="app_picker_app_already_installed_toast">Cette application est déjà installée</string>
+    <string name="app_picker_loading">Recherche des applications compatibles en cours…</string>
+    <string name="app_picker_loading_toast">"Les applications compatibles vont bientôt s'afficher"</string>
+    <string name="app_picker_no_apps">Aucune application sélectionnée</string>
+    <string name="app_picker_no_apps_found">Aucune application trouvée</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Les achats effectués dans les applications ne seront pas transférés sur votre ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Il se peut que certains achats effectués dans les applications ne soient pas transférés sur votre ^1.</string>
+    <string name="apps_permissions_described_v2">"Seules les données de certaines applications iOSMD gratuites et populaires peuvent être transférées sur Android. La plupart des achats intégrés aux applications ne pourront pas être transférés. Vous trouverez davantage d'applications dans la boutique Google Play Store une fois la configuration terminée.
+
+Vous devrez peut-être autoriser immédiatement certaines applications à accéder à des fonctionnalités ou des données précises sur votre appareil. Les autorisations sont organisées par groupes. En choisissant d'installer ces applications, vous acceptez les autorisations qui font partie de chaque groupe. Vous trouverez ci-dessous la description de chacun d'eux.
+
+Certaines applications n'exigent pas l'acceptation immédiate d'autorisations. Lorsque vous utilisez l'une d'elles, vous pouvez accorder ou refuser des autorisations une par une avant que l'application utilise les données concernées.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">En installant des applications, vous acceptez leurs autorisations respectives. <annotation id="apps_permissions_learn_more">En savoir plus</annotation></string>
+    <string name="auto_restore_summary">"Lors de la réinstallation d'une application, restaurer les paramètres et les données sauvegardées"</string>
+    <string name="auto_restore_title">Restauration automatique</string>
+    <string name="backup_configure_account_default_summary">"Pour le moment, le stockage de données sauvegardées n'est activé pour aucun compte"</string>
+    <string name="backup_configure_account_title">Compte de sauvegarde</string>
+    <string name="backup_data_summary">"Sauvegarder les données des applications, les mots de passe Wi-Fi et d'autres paramètres sur Google Disque"</string>
+    <string name="backup_data_summary_full">"Sauvegardez automatiquement les données de l'appareil (comme les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications) à distance.
+
+Lorsque vous activez la sauvegarde automatique, les données de l'appareil et des applications sont enregistrées régulièrement à distance. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le concepteur définit), y compris les données potentiellement confidentielles comme les contacts, les messages et les photos."</string>
+    <string name="backup_data_title">Sauvegarder sur Google Disque</string>
+    <string name="backup_erase_dialog_message">"Arrêter de sauvegarder vos mots de passe Wi-Fi, vos favoris, ainsi que d'autres paramètres et données d'applications, et en effacer toutes les copies de Google Disque?"</string>
+    <string name="backup_erase_dialog_message_full">"Voulez-vous vraiment arrêter de sauvegarder les données de l'appareil (comme les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications), et en effacer toutes les copies sur Google Disque?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">"Une erreur s'est produite lors de l'ouverture des paramètres des photos"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Voila ce qui se produit lorsque vous activez la sauvegarde automatique :
+
+ ● Les paramètres de l'appareil et les données des applications sont enregistrées régulièrement dans un dossier privé sur Google Disque. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le concepteur définit), y compris les données potentiellement confidentielles telles que les contacts, les messages et les photos.
+
+ Les fichiers volumineux ou ceux que les concepteurs ont choisi d'exclure du service ne sont pas sauvegardés.
+
+ ● Les photos et les enregistrements vidéo issus de cet appareil sont synchronisés avec votre bibliothèque Google Photos afin que vous puissiez les rechercher, les modifier, les supprimer et les partager à partir de tous vos appareils.
+
+ Par défaut, les photos et les vidéos sont téléversées au format haute résolution. Elles ne sont pas prises en compte dans le quota de stockage de Google Disque.
+
+ ● Les contacts et les données associées sur cet appareil sont synchronisés avec Google Contacts. Vous pouvez utiliser cette application pour rechercher, modifier, supprimer et partager des contacts à partir de tous vos appareils.
+
+ ● Les entrées d'agenda et les données associées sur cet appareil sont synchronisés avec Google Agenda. Vous pouvez utiliser cette application pour rechercher, modifier, supprimer et partager des contacts à partir de tous vos appareils.
+
+ Les données sauvegardées ne sont pas prises en compte dans le quota de stockage de Google Disque."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Voilà ce qui se produit lorsque vous activez la sauvegarde automatique :
+
+ ● Les paramètres de l'appareil et les données des applications sont enregistrées régulièrement dans un dossier privé sur Google Disque. Les données d'applications correspondent à toutes les données enregistrées par une application (en fonction des paramètres que le concepteur définit), y compris les données potentiellement confidentielles telles que les contacts, les messages et les photos.
+
+ Les fichiers volumineux ou ceux que les concepteurs ont choisi d'exclure du service ne sont pas sauvegardés.
+
+ ● Les contacts et les données associées sur cet appareil sont synchronisés avec Google Contacts. Vous pouvez utiliser cette application pour rechercher, modifier, supprimer et partager des contacts sur tous vos appareils.
+
+ ● Les entrées d'agenda et les données associées sur cet appareil sont synchronisées avec Google Agenda. Vous pouvez utiliser cette application pour rechercher, modifier, supprimer et partager des contacts sur tous vos appareils.
+
+ Les données sauvegardées ne sont pas prises en compte dans le quota de stockage de Google Disque."</string>
+    <string name="backup_opt_in_backup_description_extra">"L'agenda, les contacts, les photos et les vidéos sont synchronisés avec votre compte Google et peuvent être utilisés dans tous les services."</string>
+    <string name="backup_opt_in_backup_description_v2">La sauvegarde automatique vous permet de restaurer facilement des données ou de changer de téléphone à tout moment.<annotation id="backup_opt_in_learn_more">En savoir plus</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"La sauvegarde sera désactivée pour les éléments suivants :
+
+Applications et données connexes
+Historique des appels
+Paramètres de l'appareil
+Photos et vidéos
+Messages texte
+
+L'agenda et les contacts continueront d'être synchronisés avec votre compte Google. Une fois la configuration terminée, vous pourrez modifier les paramètres de synchronisation en accédant à "<annotation id="backup_opt_in_settings_instructions">Paramètres > Comptes > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Désactiver la sauvegarde?</string>
+    <string name="backup_opt_in_backup_list">"Applications et données connexes
+Agenda
+Historique des appels
+Contacts
+Paramètres de l'appareil (y compris les mots de passe Wi-Fi)
+Photos et vidéos
+Messages texte"</string>
+    <string name="backup_opt_in_backup_list_header">La sauvegarde comprend :</string>
+    <string name="backup_opt_in_backup_title">Sauvegarder sur Google Disque</string>
+    <string name="backup_opt_in_disable_backup">Désactiver la sauvegarde</string>
+    <string name="backup_photos_update">"Veuillez mettre à jour l'application Google Photos"</string>
+    <string name="backup_settings_activity_backup_title">Sauvegarde</string>
+    <string name="backup_settings_activity_title">Sauvegarder et réinitialiser</string>
+    <string name="byteShort">O</string>
+    <string name="cancel_copy_button_text">Ne pas copier</string>
+    <string name="close_button_label">Fermer</string>
+    <string name="cloud_restore_app_picker_button">Restaurer</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Votre sauvegarde ne contient aucune application</string>
+    <string name="cloud_restore_app_picker_title">Choisissez les applications à restaurer</string>
+    <string name="common_accept">Accepter</string>
+    <string name="common_add_account_label">Ajouter un compte</string>
+    <string name="common_ads_settings_title">Annonces</string>
+    <string name="common_agree">"D'accord"</string>
+    <string name="common_app_name">Services Google Play</string>
+    <string name="common_asm_preferences_settings_title">Préférences du compte</string>
+    <string name="common_asm_privacy_settings_title">Donn. personnelles et confid.</string>
+    <string name="common_asm_security_settings_title">Connexion et sécurité</string>
+    <string name="common_audience_edit_button_label">Modifier</string>
+    <string name="common_cancel">Annuler</string>
+    <string name="common_cannot_start_hangouts_security_exception">Impossible de démarrer Hangouts (erreur d’autorisation).</string>
+    <string name="common_car_permission_desc">Accéder au service de voiture.</string>
+    <string name="common_car_permission_label">Service de voiture</string>
+    <string name="common_chips_label_empty_circles">Aucun cercle</string>
+    <string name="common_chips_label_extended_circles">Cercles étendus</string>
+    <string name="common_chips_label_only_you">Vous seulement</string>
+    <string name="common_chips_label_public">Public</string>
+    <string name="common_chips_label_your_circles">Vos cercles</string>
+    <string name="common_choose_account_label">Sélectionner un compte</string>
+    <string name="common_clear_app_data_menu_item">Effacer les données des applis</string>
+    <string name="common_connected">Connecté</string>
+    <string name="common_connected_apps_settings_title">Applications connectées</string>
+    <string name="common_connecting">Connexion en cours…</string>
+    <string name="common_continue">Continuer</string>
+    <string name="common_disagree">"Pas d'accord"</string>
+    <string name="common_disconnect">Déconnecter</string>
+    <string name="common_done">Terminé</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">De :</string>
+    <string name="common_games_settings_title">Google Play Jeux</string>
+    <string name="common_get_started">Premiers pas</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Activer</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Erreur</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s éprouve un problème avec les services Google Play. Veuillez réessayer."</string>
+    <string name="common_google_play_services_unsupported_text">"L'application %1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil."</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis à jour.</string>
+    <string name="common_google_play_services_updating_title">Mise à jour des services Google Play…</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Les services Google Play ont été installés avec une architecture incorrecte.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Les services Google Play ont été installés avec une architecture (%1$s) autre que celle de votre appareil (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Architecture incorrecte</string>
+    <string name="common_google_settings">Paramètres Google</string>
+    <string name="common_google_settings_account">Compte</string>
+    <string name="common_google_settings_credentials_title">Smart Lock pour les mots de passe</string>
+    <string name="common_google_settings_developer">Concepteur</string>
+    <string name="common_google_settings_services">Services</string>
+    <string name="common_got_it">"J'ai compris"</string>
+    <string name="common_install">Installer</string>
+    <string name="common_learn_more">En savoir plus</string>
+    <string name="common_list_apps_menu_help">Aide</string>
+    <string name="common_list_apps_menu_help_and_feedback">Aide et commentaires</string>
+    <string name="common_loading">Chargement en cours…</string>
+    <string name="common_location_settings_title">Position</string>
+    <string name="common_magictether_settings_title">Partage de connexion instantané</string>
+    <string name="common_maps_settings_title">Google Maps et Latitude</string>
+    <string name="common_mdm_feature_name">"Gestionnaire d'appareils Android"</string>
+    <string name="common_missing_url_viewer">Visionneur manquant pour afficher une URL externe.</string>
+    <string name="common_more_options">"Plus d'options"</string>
+    <string name="common_networking_settings_title">Réseautage</string>
+    <string name="common_no_browser_for_restricted_url">"Accès restreint. Aucun navigateur n'a été trouvé."</string>
+    <string name="common_no_devices_found">"Aucun appareil n'a été trouvé"</string>
+    <string name="common_no_network">"Indisponible, car l'appareil n'est pas connecté."</string>
+    <string name="common_no_thanks">Non, merci</string>
+    <string name="common_not_now">Pas maintenant</string>
+    <string name="common_off">Désactivé</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Activé</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_open_source_licenses">Licences de logiciels libres</string>
+    <string name="common_people_settings_title">Contacts</string>
+    <string name="common_permissions_enable_in_settings">Act. dans Paramètres</string>
+    <string name="common_permissions_missing_end">Pour continuer, ouvrez Paramètres, Autorisations, puis autorisez les éléments indiqués.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Pour les activer, sélectionnez
+Paramètres >
+Autorisations >
+Services Google Play"</string>
+    <string name="common_permissions_missing_start">"Cette application ne fonctionnera pas correctement si vous n'autorisez pas les services Google Play à accéder à ce qui suit :"</string>
+    <string name="common_permissions_open_settings">Ouvrez Réglages</string>
+    <string name="common_phone">Téléphone</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Politique de confidentialité</string>
+    <string name="common_restore">Restaurer</string>
+    <string name="common_retry">Réessayer</string>
+    <string name="common_search_settings_title">Rechercher</string>
+    <string name="common_security_ootp_setting_title">Code de sécurité</string>
+    <string name="common_security_settings_title">Sécurité</string>
+    <string name="common_send">Envoyer</string>
+    <string name="common_sending">Envoi en cours…</string>
+    <string name="common_set_up_nearby_device_settings_title">Configurer un appareil à proximité</string>
+    <string name="common_settings">Paramètres</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="common_something_went_wrong">"Une erreur s'est produite"</string>
+    <string name="common_system_info">Données système</string>
+    <string name="common_take_photo_label">Prendre une photo</string>
+    <string name="common_terms_of_service">"Conditions d'utilisation"</string>
+    <string name="common_try_again">Réessayer</string>
+    <string name="common_turn_on_bluetooth">Activer le Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Supprimer</string>
+    <string name="common_ui_confirm_deleting_checkbox">Je comprends et je souhaite effectuer la suppression.</string>
+    <string name="common_unknown">Inconnu</string>
+    <string name="common_update">Mettre à jour</string>
+    <string name="common_url_load_unsuccessful_message">"Votre appareil Android n'est connecté à aucun service de données. Pour afficher ces données maintenant, consultez la page %s dans un navigateur Web."</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"Votre appareil Android n'est connecté à aucun réseau Wi-Fi. Pour afficher ces données maintenant, consultez la page %s dans un navigateur Web."</string>
+    <string name="common_url_login_notice">Connexion en tant que %1$s</string>
+    <string name="common_usage_and_diagnostics">Utilisation et diagnostics</string>
+    <string name="common_yesterday">Hier</string>
+    <string name="confirm_copy_button_text">Copier</string>
+    <string name="contacts_number_device_and_icloud">"%1$d sur iCloudMD, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_and_icloud_with_google">"Contacts Google, %1$d sur iCloudMD, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_and_sim_with_google">"Contacts Google, %1$d sur la carte SIM, %2$d sur l'appareil"</string>
+    <string name="contacts_number_device_with_google">"Contacts Google, %1$d sur l'appareil"</string>
+    <string name="contacts_number_icloud_with_google">Contacts Google, %1$d sur iCloudMD</string>
+    <string name="contacts_number_sim_with_google">Contacts Google, %1$d sur la carte SIM</string>
+    <string name="copy_confirmation_description">Des données, telles que votre compte Google et vos applications, seront copiées sur votre nouveau téléphone</string>
+    <string name="copy_confirmation_title">Copier les données sur votre nouveau téléphone?</string>
+    <string name="d2d_app_picker_description_no_apps">"Nous n'avons trouvé aucune application"</string>
+    <string name="d2d_app_picker_title">Applications</string>
+    <string name="d2d_migration_canceled_on_source">Copie annulée</string>
+    <string name="data_copied_fragment_description">Vos données ont été copiées sur votre nouveau téléphone. Vous pouvez débrancher le câble.</string>
+    <string name="data_copied_fragment_description_cancel">"Vous avez choisi d'arrêter la copie, alors seulement une partie des données a été copiée sur votre nouveau téléphone."</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"Vous avez choisi d'arrêter la copie. Aucune donnée n'a été transférée sur votre nouveau téléphone."</string>
+    <string name="data_copied_fragment_description_error">"Une erreur s'est produite, nous n'avons pas pu copier toutes les données."</string>
+    <string name="data_copied_fragment_description_error_no_data">"Une erreur s'est produite, nous n'avons pas pu copier vos données."</string>
+    <string name="data_copied_fragment_no_data_title">Impossible de copier</string>
+    <string name="data_copied_fragment_some_data_title">Certaines données ont été copiées</string>
+    <string name="data_copied_fragment_title">Données copiées</string>
+    <string name="device_backup_title">"Sauvegarde de l'appareil"</string>
+    <string name="device_not_supported_fragment_new_device">Vous êtes connecté à un nouveau téléphone. Pour continuer, reconnectez le téléphone précédent.</string>
+    <string name="device_not_supported_fragment_new_device_title">Rebranchez le téléphone précédent</string>
+    <string name="device_not_supported_fragment_no_data_cable">"Ce câble ne peut pas transférer de données. Rebranchez les appareil à l'aide d'un câble différent, puis réessayez."</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Essayez un autre câble</string>
+    <string name="device_not_supported_fragment_retry_description">Assurez-vous que votre ancien téléphone est déverrouillé, puis débranchez et rebranchez le câble</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">"Une erreur s'est produite"</string>
+    <string name="device_not_supported_ios_supervised_description">Étant donné que votre iPhoneMD est un appareil supervisé, vous devez sélectionner une autre façon de copier les données</string>
+    <string name="device_picker_description">Les sauvegardes sont stockées sur Google Disque</string>
+    <string name="device_picker_empty">Aucune sauvegarde liées à %1$s.</string>
+    <string name="device_picker_empty_title">Aucune sauvegarde trouvée</string>
+    <string name="device_picker_item">Sauvegarde du %1$s</string>
+    <string name="device_picker_last_used">Dernière utilisation : ^1</string>
+    <string name="device_picker_skip">Ne pas restaurer</string>
+    <string name="device_picker_title">Choisissez une sauvegarde à restaurer</string>
+    <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
+    <string name="download_msg_error_invalid">Le téléchargement a été incorrectement configuré.</string>
+    <string name="download_msg_in_progress">Le téléchargement est en cours.</string>
+    <string name="download_msg_not_allowed_space">Espace insuffisant pour effectuer le téléchargement.</string>
+    <string name="download_msg_pending">Le téléchargement est en attente.</string>
+    <string name="download_notification_description">"La demande a été effectuée par l'application %1$s."</string>
+    <string name="download_notification_title">Télécharg. données supplément.</string>
+    <string name="drive_backup_account">Compte</string>
+    <string name="drive_backup_apps_in_backup">Données des applications sauvegardées</string>
+    <string name="drive_backup_apps_last_backup">Dernière sauvegarde</string>
+    <string name="drive_backup_apps_loading">Chargement en cours…</string>
+    <string name="drive_backup_apps_screen_title">Données des applications</string>
+    <string name="drive_backup_content_apps_title">Données des applications</string>
+    <string name="drive_backup_content_calendar_dialog_message">Les événements créés dans Google Agenda seront synchronisés avec tous les appareils sur lesquels vous êtes connecté à votre compte Google.</string>
+    <string name="drive_backup_content_calendar_title">Agenda</string>
+    <string name="drive_backup_content_callhistory_dialog_message">La sauvegarde inclut la date et le destinataire des appels effectués et reçus.</string>
+    <string name="drive_backup_content_callhistory_title">Historique des appels</string>
+    <string name="drive_backup_content_contacts_dialog_message">Les contacts créés dans Contacts Google seront synchronisés avec tous les appareils sur lesquels vous êtes connecté à votre compte Google.</string>
+    <string name="drive_backup_content_contacts_title">Contacts</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">"La sauvegarde inclut la configuration de l'appareil, notamment le fond d'écran, les mots de passe Wi-Fi et les applications par défaut."</string>
+    <string name="drive_backup_content_devicesettings_title">"Paramètres de l'appareil"</string>
+    <string name="drive_backup_content_header">Contenu</string>
+    <string name="drive_backup_content_photos_dialog_message">Votre compte de sauvegarde principal a été modifié. Vous pouvez également modifier le compte de sauvegarde pour Google Photos à %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">IGNORER</string>
+    <string name="drive_backup_content_photos_dialog_title">Modifier aussi le compte des photos et des vidéos?</string>
+    <string name="drive_backup_content_photos_dialog_yes">MODIFIER</string>
+    <string name="drive_backup_content_photos_title">Photos et vidéos</string>
+    <string name="drive_backup_content_sms_dialog_message">La sauvegarde inclut les messages texte envoyés et reçus. Elle ne comprend pas les messages multimédias.</string>
+    <string name="drive_backup_content_sms_title">Messages texte</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Une erreur est survenue lors de la récupération de la date de la dernière synchronisation</string>
+    <string name="drive_backup_content_status_lastsaved">Dernière sauvegarde : %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Dernière synchronisation : %1$s</string>
+    <string name="drive_backup_content_status_never">En attente de sauvegarde</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Paramètres de synchronisation</string>
+    <string name="drive_backup_content_status_sync_off">Synchronisation désactivée</string>
+    <string name="drive_backup_content_status_updating">"Vérification de l'état en cours…"</string>
+    <string name="drive_backup_disabled_backuplist">"La sauvegarde comprend :
+\u0009- Applications et données des applications
+\u0009- Historique des appels
+\u0009- Paramètres de l'appareil (y compris les mots de passe Wi-Fi)
+\u0009- Google Agenda
+\u0009- Google Contacts
+\u0009- Photos et vidéos
+\u0009- Messages texte"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"La sauvegarde comprend :
+ - Applications et données des applications
+\u0009- Historique des appels
+\u0009- Paramètres de l'appareil (y compris les mots de passe Wi-Fi)
+\u0009- Google Agenda
+\u0009- Google Contacts
+ - Messages texte"</string>
+    <string name="drive_backup_disabled_by_device_owner">Cette fonction est désactivée par votre administrateur</string>
+    <string name="drive_backup_disabled_detailedinfo">"Les données de Google Agenda et de Google Contacts ainsi que les photos et les vidéos sont synchronisées avec votre compte Google et peuvent être utilisées au sein de divers services.
+
+La synchronisation peut être activée même si la sauvegarde est désactivée. Vous pouvez modifier les paramètres de synchronisation dans le menu Paramètres > Comptes > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Agenda et Google Contacts sont synchronisés avec votre compte Google et peuvent être utilisés dans tous les services.
+
+La synchronisation peut être activée même si la sauvegarde est désactivée. Vous pouvez modifier les paramètres de synchronisation en accédant à Paramètres > Comptes > Google."</string>
+    <string name="drive_backup_disabled_introduction">La sauvegarde automatique vous permet de restaurer facilement des données ou de changer de téléphone à tout moment.</string>
+    <string name="drive_backup_settings_title">Sauvegarder</string>
+    <string name="drive_backup_state">Sauvegarder sur Google Disque</string>
+    <string name="drive_backup_state_dialog_message">"Les données de sauvegarde de cet appareil dans Google Disque seront supprimées définitivement.
+
+Les photos et les vidéos déjà sauvegardées seront toujours accessibles dans Google Disque.
+
+Les données de Google Agenda et de Google Contacts continueront de se synchroniser avec votre compte Google. Vous pouvez modifier les paramètres de synchronisation en accédant à Paramètres > Comptes > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Les données de sauvegarde de cet appareil seront définitivement supprimées de Google Disque.
+
+Google Agenda et Google Contacts continueront d'être synchronisés avec votre compte Google. Vous pouvez modifier les paramètres de synchronisation en accédant à Paramètres > Comptes > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Désactiver et supprimer</string>
+    <string name="drive_backup_state_dialog_title">Désactiver et supprimer la sauvegarde?</string>
+    <string name="durationDayHour">%1$d j et %2$d h</string>
+    <string name="durationDayHours">%1$d j et %2$d h</string>
+    <string name="durationDays">%1$d jours</string>
+    <string name="durationHourMinute">%1$d h, %2$d min</string>
+    <string name="durationHourMinutes">%1$d h, %2$d min</string>
+    <string name="durationHours">%1$d heures</string>
+    <string name="durationMinute">%1$d minute</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d minutes</string>
+    <string name="durationSecond">%1$d seconde</string>
+    <string name="durationSeconds">%1$d secondes</string>
+    <string name="encryption_warning_fragment_description">"Le chiffrement des sauvegardes est activé sur votre iPhoneMD. Si vous n'avez pas activé cette option, votre administrateur informatique l'a peut-être fait.
+
+Seules les photos, la musique et les vidéos peuvent être transférées. Pour en savoir plus, consultez la page "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Chiffrement de sauvegarde</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">"Je ne trouve pas l'adaptateur"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Localisez l'adaptateur Quick Switch Adapter fourni avec votre ^1.
+
+Branchez le câble sur l'adaptateur."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">"Branchez l'adaptateur et le câble"</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">"Déverrouillez votre ancien téléphone, puis branchez l'adaptateur sur ce téléphone."</string>
+    <string name="fragment_usb_connect_both_phones_title">Connectez deux téléphones</string>
+    <string name="fragment_usb_dialog_cancel_description">"Vous pourrez transférer plus de contenus si vous utilisez un câble. Si celui fourni dans la boîte ne correspond pas à votre ancien téléphone, essayez d'utiliser un câble de charge ou de données compatible avec votre ancien téléphone."</string>
+    <string name="fragment_usb_dialog_cancel_title">"Copier les données d'une autre manière?"</string>
+    <string name="fragment_usb_dont_have_cable">"Je n'ai pas de câble"</string>
+    <string name="fragment_usb_dont_have_old_phone">"Je n'ai pas mon ancien téléphone"</string>
+    <string name="fragment_usb_find_cable_description">Utilisez un câble compatible avec votre ancien téléphone, comme votre câble de données ou de charge.</string>
+    <string name="fragment_usb_find_cable_title">Trouvez le bon câble</string>
+    <string name="fragment_usb_initial_description">Transfert des données de votre ancien téléphone à ce ^1.</string>
+    <string name="fragment_usb_initial_title">Copions vos données</string>
+    <string name="fragment_usb_legacy_description">"Il s'agit du meilleur moyen pour transférer un maximum de données. 
+
+Trouvez l'adaptateur dans la boîte et branchez-le sur votre nouveau téléphone. Connectez les deux téléphones à l'aide du câble, puis déverrouillez votre ancien téléphone."</string>
+    <string name="fragment_usb_other_ways">Copier sans câble</string>
+    <string name="fragment_usb_plug_cable">Branchez le câble à votre ancien téléphone</string>
+    <string name="fragment_waiting_title">Une seconde…</string>
+    <string name="gigabyteShort">Go</string>
+    <string name="google_contacts_static_text">Les données de Google Contacts seront synchronisées</string>
+    <string name="google_contacts_static_text_off">Les données Google Contacts seront toujours synchronisées</string>
+    <string name="header_set_backup_account">Définir le compte</string>
+    <string name="i_message_dialog_message">"Pour continuer à recevoir des messages texte des utilisateurs d'iPhoneMD, vous devez désactiver le service iMessageMD. 
+
+Vous trouverez les instructions sur la page "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Continuez sur votre autre téléphone</string>
+    <string name="ios_connected_fragment_description">"Sur l'écran suivant, vous pouvez vous connecter à votre compte Google ou en créer un.
+
+Si vous n'ajoutez pas votre compte Google, les événements de votre calendrier iOS ne seront pas transférés."</string>
+    <string name="ios_message_attachment_explanation">"[Les pièces jointes de vos messages sont enregistrées dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Certaines pièces jointes n'ont pas pu être copiées. Les pièces jointes qui ont été transférés se trouvent dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachment_placeholder">"[Pièce jointe enregistrée dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_message_attachments_placeholder">"[Pièces jointes enregistrée dans Google Photos > Dossiers sur l'appareil > Pièces jointes de messages]"</string>
+    <string name="ios_migration_default_calendar_title">Agenda</string>
+    <string name="ios_migration_other_contact_relation">Autre</string>
+    <string name="ios_photos_dialog_message">"Les photos stockées sur iCloudMD ne peuvent pas être copiées.
+
+Pour importer ces photos sur votre ^1, installez l'application Google Photos sur votre appareil iPhoneMD, puis activez la fonction Sauvegarder et synchroniser. Vous trouverez des instructions plus détaillées sur la page "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">ko</string>
+    <string name="list_item_add_account">Ajouter un compte</string>
+    <string name="lockscreen_smartdevice_action_next">Suivant</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Déverrouillez le téléphone pour poursuivre la configuration</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">"Pour des raisons de sécurité, vous devez confirmer le verrouillage de l'écran pour continuer l'installation"</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">"Confirmez le verrouillage de l'écran"</string>
+    <string name="manage_data_label">Compte Google</string>
+    <string name="master_clear_title">"Réinitialiser aux paramètres d'usine"</string>
+    <string name="megabyteShort">Mo</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Vous devez configurer un compte de sauvegarde</string>
+    <string name="notification_content_title_set_backup_account">Sauvegarde</string>
+    <string name="notification_ticker_set_backup_account">Compte de sauvegarde requis</string>
+    <string name="permgrouplab_calendar">Agenda</string>
+    <string name="permgrouplab_camera">Appareil photo</string>
+    <string name="permgrouplab_contacts">Contacts</string>
+    <string name="permgrouplab_location">Position</string>
+    <string name="permgrouplab_microphone">Microphone</string>
+    <string name="permgrouplab_phone">Téléphone</string>
+    <string name="permgrouplab_sensors">Capteurs corporels</string>
+    <string name="permgrouplab_sms">Message texte</string>
+    <string name="permgrouplab_storage">Stockage</string>
+    <string name="petabyteShort">Po</string>
+    <string name="photo_backup_configure_account_default_summary">"Pour le moment, le stockage de photos sauvegardées n'est activé pour aucun compte"</string>
+    <string name="photos_backup_title">Sauvegarde des photos</string>
+    <string name="photos_filtering_option_all">Tous</string>
+    <string name="photos_filtering_option_none">Aucun</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Les contacts copiés seront enregistrés dans votre compte Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Les contacts et les agendas copiés seront enregistrés dans votre compte Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Il se peut que certaines données ne soient pas copiées sur votre ^1. <annotation id="restore_choice_data_disclaimer_learn_more">En savoir plus</annotation></string>
+    <string name="restore_choice_deselect_some_content">Désélectionnez certains éléments pour continue</string>
+    <string name="restore_choice_learn_more_android">"Certaines données de votre ancien téléphone ne peuvent pas être copiées automatiquement :
+
+● Les téléchargements (comme les fichiers PDF)
+
+● Les photos, les vidéos et la musique stockées dans des dossiers cachés
+
+● Les photos, les vidéos et la musique reçues par message texte
+
+● Les applications qui ne proviennent pas de la boutique Google Play Store
+
+● Les données des applications (si les applications en questions n'utilisent pas la fonction de sauvegarde Android)
+
+● Certains paramètres de l'appareil
+
+● Les comptes autres que les comptes Google (et toutes les données associées)
+
+● Les contacts et les agendas synchronisés à des services autres que Google
+
+● Les sonneries
+
+Pour obtenir plus de détails et d'assistance concernant la copie de certaines de ces données, visitez la page g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Certaines données de votre ancien téléphone ne peuvent pas être copiées automatiquement :
+
+ Applications et données des applications
+
+● Photos dont l'original n'est pas stocké sur votre téléphone (par exemple, si le paramètre d'optimisation du stockage est activé, les photos originales sont stockées dans iCloudMD)
+
+● Fichiers et documents stockés dans iCloudMD
+
+● Paramètres de l'appareil (comme les mots de passe Wi-Fi et le fond d'écran)
+
+● Musique protégée par gestion des droits numériques (GDN), par exemple de la musique achetée dans iTunesMD avant avril 2009 ou de la musique téléchargée pour une écoute hors ligne à l'aide d'une application de diffusion
+
+● Comptes autres que Google (et les données associées à ces comptes)
+
+● Contacts et agendas synchronisés avec des services autres que Google ou iCloudMD
+
+● Favoris de SafariMD
+
+Les pièces jointes d'iMessageMD sont accessibles dans Google Photos > Dossiers de l'appareil > Pièces jointes aux messages.
+
+Pour plus de détails et pour obtenir de l'aide avec la copie de ces données, accédez au site visit g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Espace insuffisant</string>
+    <string name="restore_choice_total_text">de votre espace total de %1$s. Durée du transfert : %2$s.</string>
+    <string name="restore_error_message">"Une erreur s'est produite durant la restauration. Désolés."</string>
+    <string name="restore_item_appdata">Données des applications</string>
+    <string name="restore_item_calendar">Agenda</string>
+    <string name="restore_item_calendar_ical_description">Calendrier iOSMD, Google Agenda</string>
+    <string name="restore_item_calendar_ical_off_description">Les données de Google Agenda seront quand même synchronisées</string>
+    <string name="restore_item_calendar_sync_description">Les données de Google Agenda seront synchronisées</string>
+    <string name="restore_item_call_logs">Historique des appels</string>
+    <string name="restore_item_contacts">Contacts</string>
+    <string name="restore_item_device_settings_description">Mots de passe Wi-Fi et plus</string>
+    <string name="restore_item_downloads">Téléchargements</string>
+    <string name="restore_item_email">Envoyer un courriel</string>
+    <string name="restore_item_email_description">Les données de Gmail seront synchronisées</string>
+    <string name="restore_item_message_attachments">Pièces jointes des messages</string>
+    <string name="restore_item_messages">Messages</string>
+    <string name="restore_item_music">Musique</string>
+    <string name="restore_item_photos">Photos et vidéos</string>
+    <string name="restore_item_settings">"Paramètres de l'appareil"</string>
+    <string name="restore_item_sms">Messages texte</string>
+    <string name="restore_item_will_be_synced_text">Ces données seront synchronisées sur votre téléphone</string>
+    <string name="restore_progress_title">Restauration en cours…</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="small_time_duration">"Moins d'une minute"</string>
+    <string name="source_connected_description">Préparation en cours...</string>
+    <string name="source_connected_title">Connecté à votre %1$s</string>
+    <string name="source_copying_description">Les données sélectionnées sont en cours de copie sur votre nouv. tél.</string>
+    <string name="source_copying_title">Copie en cours…</string>
+    <string name="source_default_target_device_name">nouvel appareil</string>
+    <string name="source_notification_device_disconnected">Reconnectez le câble</string>
+    <string name="source_notification_text">"Transfert de données d'un téléphone à l'autre en cours…"</string>
+    <string name="source_notification_title">Transfert de données</string>
+    <string name="source_success_description">Terminez la configuration sur votre %1$s.</string>
+    <string name="source_success_screen_title">Terminé!</string>
+    <string name="source_unplugged_description">Reconnectez-le à votre %1$s</string>
+    <string name="source_unplugged_title">Câble déconnecté</string>
+    <string name="source_waiting_title">Poursuivre la configuration sur votre %1$s</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_copying_dialog_continue_button">Fermer</string>
+    <string name="stop_copying_dialog_message_before_transfer">"Vos données n'ont pas été copiées sur votre nouveau téléphone"</string>
+    <string name="stop_copying_dialog_message_during_transfer">"Certains de vos données n'ont pas été copiées sur votre nouveau téléphone"</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ne pas copier</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Arrêter</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ne pas copier?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Arrêter la copie?</string>
+    <string name="storage_management_wear_descriptive_text">Les applications utilisent le stockage de votre appareil pour dupliquer les données sur un appareil informatique portatif.</string>
+    <string name="storage_management_wear_manage_size_label">"Gérer le stockage de l'appareil portatif"</string>
+    <string name="storage_management_wear_size_label">Stockage appareil portatif</string>
+    <string name="storage_managment_all_storage_descriptive_text">"Quantité totale de données utilisées par les services Google Play, y compris les données utilisées par le moteur de recherche et d'autres fonctionnalités."</string>
+    <string name="storage_managment_clear_all_data">Effacer toutes les données</string>
+    <string name="storage_managment_computing_size">Traitement en cours...</string>
+    <string name="storage_managment_icing_size_label">Données de recherche</string>
+    <string name="storage_managment_manage_icing_button">Gérer les données de recherche</string>
+    <string name="storage_managment_search_index_descriptive_text">La fonction de recherche est accélérée sur votre appareil grâce à un moteur de recherche pouvant être utilisé par vos applications.</string>
+    <string name="storage_managment_title">Espace occupé par services Google Play</string>
+    <string name="storage_managment_total_size_label">Espace de stockage total</string>
+    <string name="suw_back_button_label">Précédent</string>
+    <string name="suw_more_button_label">Plus</string>
+    <string name="suw_next_button_label">Suivant</string>
+    <string name="target_default_source_device_model">ancien appareil</string>
+    <string name="target_device_not_supported_cant_continue_description">Vous devez sélectionner une autre façon de copier des données</string>
+    <string name="target_device_not_supported_cant_continue_title">"L'autre téléphone n'est pas pris en charge"</string>
+    <string name="target_device_not_supported_try_restarting_description">"Débranchez le câble et redémarrez votre ancien téléphone, puis rebranchez le câble et suivez les instructions affichées sur votre Pixel.
+
+Si ce message d'erreur s'affiche à nouveau, vous devrez peut-être utiliser une autre méthode de copie."</string>
+    <string name="target_device_not_supported_try_restarting_title">Il se peut que le téléphone ne soit pas compatible</string>
+    <string name="target_smart_device_timeout_add_account">AJOUTER UN COMPTE</string>
+    <string name="target_smart_device_timeout_description">"Si vous le souhaitez, vous pouvez essayer d'ajouter votre compte manuellement"</string>
+    <string name="target_smart_device_timeout_dismiss">IGNORER</string>
+    <string name="target_smart_device_timeout_title">Vous éprouvez des problèmes?</string>
+    <string name="terabyteShort">To</string>
+    <string name="toast_phones_connected">Les téléphones sont connectés</string>
+    <string name="toast_reconnect_cable">Reconnectez le câble</string>
+    <string name="transfer_finished_fragment_title">Ajout de la touche finale…</string>
+    <string name="transfer_summary_copied">Données copiées</string>
+    <string name="transfer_summary_fragment_description">Vous pouvez débrancher le câble.</string>
+    <string name="transfer_summary_fragment_finish">TERMINER</string>
+    <string name="transfer_summary_fragment_title">Votre téléphone est presque prêt</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Certaines de vos photos n'ont pas pu être copiées. "<annotation id="transfer_summary_learn_more">En savoir plus</annotation></string>
+    <string name="transfer_summary_not_copied">Données non copiées</string>
+    <string name="transfer_summary_partial">%1$s articles sur %2$s ont été copiés</string>
+    <string name="transfer_summary_will_sync">Synchronisation des données après la configuration</string>
+    <string name="transferring_fragment_calculating_remaining_time">Calcul de la durée restante en cours…</string>
+    <string name="transferring_fragment_header">Copie en cours…</string>
+    <string name="transferring_fragment_remaining_time">Il reste %1$s</string>
+    <string name="trust_instructions_description">Pour continuer, allez sur votre iPhoneMD et approuvez la connexion</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari et iTunes sont des marques de commerce d'Apple Inc., déposées aux États-Unis et dans d'autres pays."</string>
+</resources>

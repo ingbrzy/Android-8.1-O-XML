@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Tālāk</string>
+    <string name="suw_back_button_label">Atpakaļ</string>
+    <string name="suw_more_button_label">Vairāk</string>
+    <string name="vzw_wfc_activation_error">Nevar aktivizēt Wi-Fi zvanus. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="vzw_address_update_error">Pašlaik nevar atjaunināt esošo adresi ārkārtas gadījumiem. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="emergency_address_app_label">Adrese ārkārtas gadījumiem: pārvaldība</string>
+    <string name="progress_text">Lūdzu, uzgaidiet…</string>
+    <string name="vzw_tos_title">Wi-Fi zvanu aktivizēšana</string>
+    <string name="cancel">Atcelt</string>
+    <string name="vzw_tos_text">"Izmantojot Wi-Fi zvanus, zvanīšanai varat izmantot Wi-Fi savienojumu, ja mobilais tīkls nav pieejams.
+
+Lai iestatītu Wi-Fi zvanus, ir jāievada adrese ASV. Šo adresi izmantos vietējie ārkārtas palīdzības dienesti, ja veiksiet ārkārtas (E911) zvanu Wi-Fi tīklā no ASV esoša tālruņa.
+
+Ieteicams nomainīt šo adresi, ja veicat zvanus, izmantojot citu Wi-Fi tīklu; tādējādi jūsu informācija būs precīza. Jebkurā laikā varat mainīt savu atrašanās vietu, atverot Wi-Fi zvanu iestatījumu izvēlni."</string>
+    <string name="vzw_tos_link">Pakalpojumu sniegšanas noteikumi</string>
+    <string name="tos_continue">Turpināt</string>
+    <string name="vzw_e911_title">Vietas dati ārkārtas gadījumiem</string>
+    <string name="vzw_e911_description"><b>SVARĪGI! NEPIECIEŠAMA ĀRKĀRTAS 911 ADRESE</b>"
+Lai ieslēgtu Wi-Fi zvanus, ievadiet ASV adresi, uz kuru dosies ārkārtas palīdzības dienesti, ja zvanīsiet uz numuru 911. Jebkurā laikā varat atvērt sadaļu Iestatījumi un mainīt šo adresi. Noteikti atjauniniet šo adresi ikreiz, kad maināt dzīvesvietu."</string>
+    <string name="vzw_e911_warning"><b>BBRĪDINĀJUMI — ĀRKĀRTAS 911 ZVANU IEROBEŽOJUMI</b>"
+Zvanot uz numuru 911, vienmēr nosauciet operatoram savu atrašanās vietu. 911 zvana veikšanai Wi-Fi savienojums tiks izmantots tikai tad, ja nebūs pieejams mobilais tīkls. 911 zvans, kas veikts, izmantojot Wi-Fi savienojumu, var aizkavēties vai var nebūt sekmīgs, piemēram, ja 911 sistēma neatpazīst adresi, nav elektrības vai Wi-Fi savienojums nedarbojas. Ārkārtas palīdzības dienesti dosies uz adresi, ko norādījāt iepriekš, tāpēc, lūdzu, atjauniniet to, ja maināt atrašanās vietu."</string>
+    <string name="house_number">Ēkas numurs</string>
+    <string name="street">Iela</string>
+    <string name="apt_suite_number">Dzīvokļa numurs u.c.</string>
+    <string name="city">Pilsēta</string>
+    <string name="state">Štats</string>
+    <string name="zip_code">Pasta indekss</string>
+    <string name="save">Saglabāt</string>
+    <string name="vzw_address_confirm_text_part1">Nevarēja atrast ievadīto adresi, jo nevarēja atrast norādīto ielu, vai arī nav norādīta pareizā pilsēta, štats vai pasta indekss.</string>
+    <string name="vzw_address_confirm_text_part2">Ja norādījāt nepareizu pilsētu, štatu vai pasta indeksu, pieskarieties pogai %1$s; ja dati ir pareizi, pieskarieties pogai %2$s.</string>
+    <string name="save_anyway">Tomēr saglabāt</string>
+    <string name="edit_address">Rediģēt adresi</string>
+    <string name="ok">LABI</string>
+    <string name="vzw_address_select_text">Nevarēja atrast ievadīto adresi:</string>
+    <string name="vzw_address_alternate_text">Vai domājāt:</string>
+    <string name="vzw_partial_confirm_head">Ārkārtas palīdzības dienesti nevarēja apstiprināt ievadīto adresi.</string>
+    <string name="vzw_partial_confirm_text">Vai tiešām vēlaties izmantot šo adresi ārkārtas gadījumā?</string>
+    <string name="vzw_partial_failure_text_part1">Ievadītā pilsēta, štats vai pasta indekss, iespējams, nav pareizi.</string>
+    <string name="vzw_partial_failure_text_part2">Lūdzu, pārbaudiet adresi un mēģiniet vēlreiz.</string>
+    <string name="vzw_address_update_success_toast">Adrese ārkārtas gadījumiem atjaunināta</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi ir izslēgts</string>
+    <string name="connect_to_wifi_or_web_portal_message">Wi-Fi zvanus varat iestatīt, izmantojot mobilo tīklu, taču ir jāieslēdz Wi-Fi un jāizveido savienojums ar tīklu, lai lietotu šo funkciju.</string>
+    <string name="button_turn_on_wifi">Ieslēgt Wi-Fi</string>
+    <string name="button_setup_web_portal">Turpināt iestatīšanu</string>
+</resources>

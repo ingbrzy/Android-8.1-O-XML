@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הגדרת המכשיר</string>
+    <string name="sim_locked_notification_content">בדוק אצל %1$s אם ניתן לבטל את נעילת המכשיר. הקש כאן להצגת פרטים ליצירת קשר.</string>
+    <string name="sim_locked_notification_content_no_contact">בדוק אצל הספק אם ניתן לבטל את נעילת המכשיר</string>
+    <string name="sim_locked_notification_title">כרטיס ה-SIM אינו נתמך</string>
+    <string name="sim_unlock_failure_notification_content">עליך לפנות אל %1$s. לפרטים, הקש כאן.</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">עליך לפנות אל הספק שלך</string>
+    <string name="sim_unlock_failure_notification_title">לא ניתן להסיר את נעילת הספק</string>
+    <string name="sim_unlocked_notification_content">מעכשיו ניתן להשתמש במכשיר הזה בכל רשת</string>
+    <string name="sim_unlocked_notification_title">נעילת הספק הוסרה</string>
+    <string name="zero_touch_disclaimer_no_contact_info">מכשיר זה הוגדר לניהול. אם חלה טעות בהגדרה זו, פנה אל ספק המכשיר</string>
+    <string name="zero_touch_disclaimer_with_support_link">%1$s הגדיר מכשיר זה כך שינוהל על ידי הארגון שלך. אם חלה טעות בהגדרה זו, &lt;a href=%2$s>פנה אל ספק המכשיר‎&lt;/a>‎.‏&lt;br>&lt;br>‏המכשיר שלך ינוהל באמצעות האפליקציה הבאה:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"%s הגדיר מכשיר זה כך שינוהל על ידי הארגון שלך. אם חלה טעות בהגדרה זו, פנה אל ספק המכשיר.
+
+המכשיר שלך ינוהל באמצעות האפליקציה הבאה:"</string>
+    <string name="zero_touch_header">המכשיר שלך בעבודה</string>
+    <string name="zero_touch_notification_content">איפוס אוטומטי יתבצע בקרוב</string>
+    <string name="zero_touch_notification_title">המכשיר מנוהל על ידי מנהל מערכת</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">%1$s הגדיר מכשיר זה כך שינוהל על ידי הארגון שלך. אם חלה טעות בהגדרה זו, &lt;a href=%2$s>פנה אל ספק המכשיר‎&lt;/a>‎.‏&lt;br>&lt;br>‏כדי להמשיך בהגדרה, עליך לאפס את המכשיר. כל הנתונים שבו יימחקו.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"%s הגדיר מכשיר זה כך שינוהל על ידי הארגון שלך. אם חלה טעות בהגדרה זו, עליך לפנות אל ספק המכשיר.
+
+כדי להמשיך בהגדרה, עליך לאפס את המכשיר. כל הנתונים שבו יימחקו."</string>
+    <string name="zero_touch_reset_now">אפס עכשיו</string>
+    <string name="zero_touch_reset_soon">המכשיר שלך יאופס אוטומטית בקרוב.</string>
+    <string name="zero_touch_reset_wait">אישור</string>
+    <string name="zero_touch_retrieving_header">פרטי המכשיר נבדקים...</string>
+    <string name="zero_touch_retrieving_text">עוד מעט נסיים</string>
+    <string name="zero_touch_support_title">תמיכה</string>
+    <string name="zero_touch_url_error">לא ניתן להציג את הקישור.</string>
+</resources>

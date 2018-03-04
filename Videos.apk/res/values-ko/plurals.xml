@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">별점 %1$s개인 평가 %2$d개</item>
+        <item quantity="one">별점 %1$s개인 평가 1개</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d일 후 만료됨</item>
+        <item quantity="one">%1$d일 후 만료됨</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d시간 후 만료됨</item>
+        <item quantity="one">%1$d시간 후 만료됨</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d개 더보기</item>
+        <item quantity="one">%1$d개 더보기</item>
+    </plurals>
+</resources>

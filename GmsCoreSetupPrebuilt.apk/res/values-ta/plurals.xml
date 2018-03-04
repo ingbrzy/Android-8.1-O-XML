@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">எல்லா %1$d பயன்பாடுகளும்</item>
+        <item quantity="one">1 பயன்பாடு</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d பயன்பாடுகள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">1 பயன்பாடு தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">ஏற்கனவே %1$d பயன்பாடுகள் நிறுவப்பட்டுள்ளன</item>
+        <item quantity="one">ஏற்கனவே ஒரு பயன்பாடு நிறுவப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">காப்புப் பிரதியில் %1$d பயன்பாடுகள் உள்ளன. அவற்றில் சிலவற்றைத் தேர்வுசெய்யவும் அல்லது எல்லாவற்றையும் தேர்வுசெய்யவும்.</item>
+        <item quantity="one">காப்புப் பிரதியில் %1$d பயன்பாடு உள்ளது.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d சாதனத் தொடர்புகள்</item>
+        <item quantity="one">ஒரு சாதனத் தொடர்பு</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d சிம், %2$d சாதனம்</item>
+        <item quantity="one">%1$d சிம், %2$d சாதனம்</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® தொடர்புகள்</item>
+        <item quantity="one">ஒரு iCloud® தொடர்பு</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d சிம் தொடர்புகள்</item>
+        <item quantity="one">1 சிம் தொடர்பு</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d பயன்பாடுகள் உள்ளன. அவற்றில் சிலவற்றைத் தேர்வுசெய்யவும் அல்லது எல்லாவற்றையும் தேர்வுசெய்யவும்.</item>
+        <item quantity="one">%1$d பயன்பாடு உள்ளது. அதை மீட்டமைக்க விரும்புகிறீர்களா?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">உங்கள் iOS® பயன்பாடுகளில் %1$d உடன் பொருந்தும் பயன்பாடுகள் உள்ளன. ஒவ்வொரு பயன்பாட்டையும் நிறுவுவதன் மூலம், அதன் அனுமதிகளை ஏற்கிறீர்கள். &lt;annotation id="apps_permissions_learn_more">மேலும் அறிக&lt;/annotation></item>
+        <item quantity="one">உங்கள் iOS® பயன்பாடுகளில் ஒன்றுடன் பொருந்தும் பயன்பாடு உள்ளது. இந்தப் பயன்பாட்டை நிறுவுவதன் மூலம், அதன் அனுமதிகளை ஏற்கிறீர்கள். &lt;annotation id="apps_permissions_learn_more">மேலும் அறிக&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d படங்கள் உள்ளன…</item>
+        <item quantity="one">%1$d படம் உள்ளது…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">உங்கள் கவனத்திற்கு! பின்வரும் பங்கேற்பாளர்கள் இனி இந்த நிகழ்வில் இடம்பெற மாட்டார்கள்:</item>
+        <item quantity="one">உங்கள் கவனத்திற்கு! பின்வரும் பங்கேற்பாளர் இனி இந்த நிகழ்வில் இடம்பெற மாட்டார்:</item>
+    </plurals>
+</resources>

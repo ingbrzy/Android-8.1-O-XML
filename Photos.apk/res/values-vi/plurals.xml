@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">+%d người khác</item>
+        <item quantity="one">+1 người khác</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Chuyển các mục này vào thùng rác cũng sẽ xóa các mục này đi</item>
+        <item quantity="one">Chuyển mục này vào thùng rác cũng sẽ xóa mục này đi</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d phút</item>
+        <item quantity="zero">0 phút</item>
+        <item quantity="one">1 phút</item>
+        <item quantity="two">2 phút</item>
+        <item quantity="few">%1$d phút</item>
+        <item quantity="many">%1$d phút</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d giây</item>
+        <item quantity="zero">0 giây</item>
+        <item quantity="one">1 giây</item>
+        <item quantity="two">2 giây</item>
+        <item quantity="few">%1$d giây</item>
+        <item quantity="many">%1$d giây</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Các mục này quá lớn đối với thùng rác trên thiết bị của bạn. Nếu bạn xóa, các mục này sẽ bị xóa vĩnh viễn khỏi thiết bị và tài khoản của bạn.</item>
+        <item quantity="one">Mục này quá lớn đối với thùng rác trên thiết bị của bạn. Nếu bạn xóa, mục này sẽ bị xóa vĩnh viễn khỏi thiết bị và tài khoản của bạn.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d mục được quét</item>
+        <item quantity="one">%1$d mục được quét</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d mục được chọn</item>
+        <item quantity="one">%1$d mục được chọn</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">Không thể quét %1$d video.</item>
+        <item quantity="zero">Không thể quét %1$d video.</item>
+        <item quantity="one">Không thể quét %1$d video.</item>
+        <item quantity="two">Không thể quét %1$d video.</item>
+        <item quantity="few">Không thể quét %1$d video.</item>
+        <item quantity="many">Không thể quét %1$d video.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d phút</item>
+        <item quantity="zero">%1$d phút</item>
+        <item quantity="one">%1$d phút</item>
+        <item quantity="two">%1$d phút</item>
+        <item quantity="few">%1$d phút</item>
+        <item quantity="many">%1$d phút</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d được chọn</item>
+        <item quantity="zero">%1$d được chọn</item>
+        <item quantity="one">%1$d được chọn</item>
+        <item quantity="two">%1$d được chọn</item>
+        <item quantity="few">%1$d được chọn</item>
+        <item quantity="many">%1$d được chọn</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d giây</item>
+        <item quantity="zero">%1$d giây</item>
+        <item quantity="one">%1$d giây</item>
+        <item quantity="two">%1$d giây</item>
+        <item quantity="few">%1$d giây</item>
+        <item quantity="many">%1$d giây</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">Không thể sử dụng bất kỳ video nào trong những video đó. Chúng quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+        <item quantity="zero">Không thể sử dụng bất kỳ video nào trong những video đó. Chúng quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+        <item quantity="one">Không thể sử dụng video đó. Video đó quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+        <item quantity="two">Không thể sử dụng bất kỳ video nào trong những video đó. Chúng quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+        <item quantity="few">Không thể sử dụng bất kỳ video nào trong những video đó. Chúng quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+        <item quantity="many">Không thể sử dụng bất kỳ video nào trong những video đó. Chúng quá ngắn hoặc có định dạng không được hỗ trợ.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d nhận xét</item>
+        <item quantity="one">%d nhận xét</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Kích thước album mới sẽ lớn hơn giới hạn %1$d mục hiện tại.</item>
+        <item quantity="one">Kích thước album mới sẽ lớn hơn giới hạn %1$d mục hiện tại.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Album sẽ có %1$d mục.</item>
+        <item quantity="one">Album sẽ có %1$d mục.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">Xóa %1$d mục khỏi album?</item>
+        <item quantity="one">Xóa %1$d mục khỏi album?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">Đang xóa %d mục khỏi album...</item>
+        <item quantity="one">Đang xóa %d mục khỏi album…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d địa điểm đã được thêm</item>
+        <item quantity="one">%d địa điểm đã được thêm</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d địa điểm</item>
+        <item quantity="one">%d địa điểm</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d bản đồ</item>
+        <item quantity="one">%d bản đồ</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d bản đồ đã được thêm</item>
+        <item quantity="one">%d bản đồ đã được thêm</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Đang xóa các mục khỏi album này…</item>
+        <item quantity="one">Đang xóa mục khỏi album này…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d mục đã bị xóa</item>
+        <item quantity="one">%d mục đã bị xóa</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Đang xóa các ảnh khỏi album này…</item>
+        <item quantity="one">Đang xóa ảnh khỏi album này…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Đang xóa các video khỏi album này…</item>
+        <item quantity="one">Đang xóa video khỏi album này…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Xóa khỏi thiết bị (%d)</item>
+        <item quantity="one">Xóa khỏi thiết bị (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Xóa tất cả khỏi thiết bị (%d)</item>
+        <item quantity="one">Xóa tất cả khỏi thiết bị (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">Xóa bản sao trên thiết bị?</item>
+        <item quantity="one">Xóa bản sao trên thiết bị?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">Những mục này không được sao lưu vào Thư viện ảnh của bạn và xóa những mục này ngay bây giờ sẽ xóa vĩnh viễn những mục này khỏi Ảnh</item>
+        <item quantity="one">Mục này không được sao lưu vào Thư viện ảnh của bạn và xóa mục này ngay bây giờ sẽ xóa vĩnh viễn mục này khỏi Ảnh</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Chuyển vào thùng rác (%d)</item>
+        <item quantity="one">Chuyển vào thùng rác (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d được lưu trữ</item>
+        <item quantity="one">%d mục được lưu trữ</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d được hủy lưu trữ</item>
+        <item quantity="one">%d mục được hủy lưu trữ</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d được chọn</item>
+        <item quantity="one">%d được chọn</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">%1$s người khác</item>
+        <item quantity="one">%1$s người khác</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">đã thêm %1$d ảnh</item>
+        <item quantity="one">đã thêm %1$d ảnh</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Đang tải lên %d mục</item>
+        <item quantity="one">Đang tải lên %d mục</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">Đang xóa %d mục…</item>
+        <item quantity="one">Đang xóa %d mục…</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Còn %d ảnh</item>
+        <item quantity="one">Còn %d ảnh</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Còn %d ảnh để sao lưu</item>
+        <item quantity="one">Còn %d ảnh để sao lưu</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%d ảnh có thể bị mất</item>
+        <item quantity="one">%d ảnh có thể bị mất</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d ảnh chưa được sao lưu</item>
+        <item quantity="one">%1$d ảnh chưa được sao lưu</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Giữ an toàn cho %1$d ảnh</item>
+        <item quantity="one">Giữ an toàn cho %1$d ảnh</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Đang tải lên %d ảnh</item>
+        <item quantity="one">Đang tải lên %d ảnh</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Đang tải lên %d video</item>
+        <item quantity="one">Đang tải lên %d video</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d mục cần tải lên</item>
+        <item quantity="one">%d mục cần tải lên</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d video cần tải lên</item>
+        <item quantity="one">%d video cần tải lên</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Tất cả %d ảnh</item>
+        <item quantity="one">Tất cả %d ảnh</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d ảnh không được sao lưu</item>
+        <item quantity="one">%d ảnh không được sao lưu</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">Kích thước album mới sẽ lớn hơn giới hạn %1$d ảnh hiện tại.</item>
+        <item quantity="one">Kích thước album mới sẽ lớn hơn giới hạn %1$d ảnh hiện tại.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Album sẽ có %1$d ảnh.</item>
+        <item quantity="one">Album sẽ có %1$d ảnh.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d ảnh được thêm</item>
+        <item quantity="one">%1$d ảnh được thêm</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">%d mục là số lượng tối đa mà một album có thể chứa.</item>
+        <item quantity="one">%d mục là số lượng tối đa mà một album có thể chứa.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Chọn tối đa %d ảnh.</item>
+        <item quantity="one">Chọn tối đa %d ảnh.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Chọn ít nhất %d ảnh.</item>
+        <item quantity="one">Chọn ít nhất %d ảnh.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Vui lòng chọn các ảnh trong phạm vi %d ngày.</item>
+        <item quantity="one">Vui lòng chọn các ảnh trong phạm vi %d ngày.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">Đang thêm %d mục vào…</item>
+        <item quantity="one">Đang thêm %d mục vào…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d mục đã được thêm</item>
+        <item quantity="one">%d mục đã được thêm</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d tuần</item>
+        <item quantity="one">%d tuần</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d tuần trước</item>
+        <item quantity="one">%d tuần trước</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Xóa %1$d mục?</item>
+        <item quantity="one">Xóa %1$d mục?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Xóa %1$d ảnh và video gốc</item>
+        <item quantity="one">Xóa %1$d ảnh hoặc video gốc</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d thẻ mới</item>
+        <item quantity="one">1 thẻ mới</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d bản cập nhật</item>
+        <item quantity="one">%1$d bản cập nhật</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d nhận xét</item>
+        <item quantity="one">%1$d nhận xét</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Đang lưu các mục vào thư viện…</item>
+        <item quantity="one">Đang lưu mục vào thư viện…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d mục đã được thêm</item>
+        <item quantity="one">%d mục đã được thêm</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Bạn chỉ có thể thêm %d mục khác.</item>
+        <item quantity="one">Bạn chỉ có thể thêm %d mục khác.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Xóa thư mục và %d mục trong đó</item>
+        <item quantity="one">Xóa thư mục và %d mục trong đó</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Xóa khỏi thiết bị (%d)</item>
+        <item quantity="one">Xóa khỏi thiết bị (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Xảy ra sự cố khi sao chép %d mục</item>
+        <item quantity="one">Xảy ra sự cố khi sao chép %d mục</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">Đã sao chép %d mục</item>
+        <item quantity="one">Đã sao chép %d mục</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Xảy ra sự cố khi di chuyển %d mục</item>
+        <item quantity="one">Xảy ra sự cố khi di chuyển %d mục</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">Đã di chuyển %d mục</item>
+        <item quantity="one">Đã di chuyển %d mục</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Thêm vào album được chia sẻ với %1$d người?</item>
+        <item quantity="one">Thêm vào album được chia sẻ với %1$d người?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Thêm vào album được chia sẻ với %1$s và %2$d người khác?</item>
+        <item quantity="one">Thêm vào album được chia sẻ với %1$s và %2$d người khác?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Thêm vào album được chia sẻ với %1$s, %2$s và %3$d người khác?</item>
+        <item quantity="one">Thêm vào album được chia sẻ với %1$s, %2$s và %3$d người khác?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Gửi tới %1$s và %2$d người khác?</item>
+        <item quantity="one">Gửi tới %1$s và %2$d người khác?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Gửi tới %1$s, %2$s và %3$d người khác?</item>
+        <item quantity="one">Gửi tới %1$s, %2$s và %3$d người khác?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">Ảnh của %d người</item>
+        <item quantity="one">Ảnh của %d người</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Ảnh của %d người được chọn</item>
+        <item quantity="one">Ảnh của %d người được chọn</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Đã chọn %d người</item>
+        <item quantity="one">Đã chọn %d người</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Ảnh của %1$d người được chọn, kể từ %2$s</item>
+        <item quantity="one">Ảnh của %1$d người được chọn, kể từ %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Ảnh của %d người được chọn</item>
+        <item quantity="one">Ảnh của %d người được chọn</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Đã xóa %1$d ảnh</item>
+        <item quantity="one">Đã xóa %1$d ảnh</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d trang phụ</item>
+        <item quantity="one">%d trang phụ</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">%d trang</item>
+        <item quantity="one">%d trang</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">%d sách bìa cứng</item>
+        <item quantity="one">%d sách bìa cứng</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">%d sách bìa mềm</item>
+        <item quantity="one">%d sách bìa mềm</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Thêm %d ảnh nữa để đặt hàng sách ảnh này</item>
+        <item quantity="one">Thêm %d ảnh nữa để đặt hàng sách ảnh này</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d ảnh được thêm</item>
+        <item quantity="one">%d ảnh được thêm</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Ảnh có thể đã bị xóa hoặc thôi chia sẻ</item>
+        <item quantity="one">Ảnh có thể đã bị xóa hoặc thôi chia sẻ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d ảnh không có sẵn nữa</item>
+        <item quantity="one">%d ảnh không có sẵn nữa</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Đã xóa %d ảnh</item>
+        <item quantity="one">Đã xóa %d ảnh</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">Sách của bạn cần có %d trang để hiển thị văn bản gáy sách. Hãy thử thêm nhiều ảnh hơn hoặc nâng cấp lên sách bìa cứng.</item>
+        <item quantity="one">Sách của bạn cần có %d trang để hiển thị văn bản gáy sách. Hãy thử thêm nhiều ảnh hơn hoặc nâng cấp lên sách bìa cứng.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d trang bổ sung</item>
+        <item quantity="one">%d trang bổ sung</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d trang</item>
+        <item quantity="one">%d trang</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Chỉ có thể in %d ảnh, </item>
+        <item quantity="one">Chỉ có thể in %d ảnh, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Đã đề xuất %d ảnh cho bạn</item>
+        <item quantity="one">Đã đề xuất %d ảnh cho bạn</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">Đã đề xuất %d ảnh</item>
+        <item quantity="one">Đã đề xuất %d ảnh</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">ảnh hoặc video</item>
+        <item quantity="one">ảnh hoặc video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">ảnh</item>
+        <item quantity="one">ảnh</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">video</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Cùng với %1$d địa điểm trong ảnh của bạn</item>
+        <item quantity="one">Cùng với %1$d địa điểm trong ảnh của bạn</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Cùng với %1$d sự vật trong ảnh của bạn</item>
+        <item quantity="one">Cùng với %1$d sự vật trong ảnh của bạn</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Cộng %1$d địa điểm và sự vật trong ảnh của bạn</item>
+        <item quantity="one">Cộng %1$d địa điểm và sự vật trong ảnh của bạn</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Đã tìm thấy %1$d người</item>
+        <item quantity="one">Đã tìm thấy %1$d người</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Đã tìm thấy %1$d địa điểm</item>
+        <item quantity="one">Đã tìm thấy %1$d địa điểm</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Đã tìm thấy %1$d sự vật</item>
+        <item quantity="one">Đã tìm thấy %1$d sự vật</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d ảnh</item>
+        <item quantity="one">%d ảnh</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Đã chọn %1$d ảnh</item>
+        <item quantity="one">Đã chọn %1$d ảnh</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">Không thể xóa %d ảnh và video</item>
+        <item quantity="one">Không thể xóa %d ảnh hoặc video</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">Đang xóa %d mục…</item>
+        <item quantity="one">Đang xóa %d mục…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">Đã thêm %d mục vào album</item>
+        <item quantity="one">Đã thêm %d mục vào album</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Đang tải lên %d mục</item>
+        <item quantity="one">Đang tải lên %d mục</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d mục sẽ tải lên khi được kết nối</item>
+        <item quantity="one">%d mục sẽ tải lên khi được kết nối</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s và %2$d người khác</item>
+        <item quantity="one">%1$s và %2$d người khác</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ảnh</item>
+        <item quantity="one">%d ảnh</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Thêm %d ảnh có liên quan?</item>
+        <item quantity="one">Thêm %d ảnh có liên quan?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d ảnh mới</item>
+        <item quantity="one">%1$d ảnh mới</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s đã thêm %2$d ảnh mới</item>
+        <item quantity="one">%1$s đã thêm %2$d ảnh mới</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">%1$d người</item>
+        <item quantity="one">%1$d người</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">%1$s và %2$d người khác</item>
+        <item quantity="one">%1$s và %2$d người khác</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Không thể xóa ảnh</item>
+        <item quantity="one">Không thể xóa ảnh</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">Không thể xóa bản sao trên thiết bị</item>
+        <item quantity="one">Không thể xóa bản sao trên thiết bị</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">Đã xóa bản sao trên thiết bị</item>
+        <item quantity="one">Đã xóa bản sao trên thiết bị</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Không thể xóa %d ảnh</item>
+        <item quantity="one">Không thể xóa %d ảnh</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Không thể xóa vĩnh viễn %d ảnh</item>
+        <item quantity="one">Không thể xóa vĩnh viễn %d ảnh</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Đang xóa vĩnh viễn mục…</item>
+        <item quantity="one">Đang xóa vĩnh viễn mục…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">Đã xóa vĩnh viễn %d mục</item>
+        <item quantity="one">Đã xóa vĩnh viễn %d mục</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d đã bị xóa khỏi thiết bị</item>
+        <item quantity="one">%d đã bị xóa khỏi thiết bị</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Đang khôi phục mục…</item>
+        <item quantity="one">Đang khôi phục mục…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Không thể khôi phục %d ảnh</item>
+        <item quantity="one">Không thể khôi phục %d ảnh</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">Đã khôi phục %d mục từ thùng rác</item>
+        <item quantity="one">Đã khôi phục %d mục từ thùng rác</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Xóa vĩnh viễn các mục?</item>
+        <item quantity="one">Xóa vĩnh viễn mục?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Xóa các mục khỏi thùng rác là xóa vĩnh viễn</item>
+        <item quantity="one">Xóa mục khỏi thùng rác là xóa vĩnh viễn</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Xóa các mục?</item>
+        <item quantity="one">Xóa mục?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Xóa vĩnh viễn %d mục</item>
+        <item quantity="one">Xóa vĩnh viễn 1 mục</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Còn %d ngày cho tới khi phiên bản này hết hạn. Để tiếp tục sử dụng Google Ảnh, hãy cập nhật ngay.</item>
+        <item quantity="one">Còn 1 ngày cho tới khi phiên bản này hết hạn. Để tiếp tục sử dụng Google Ảnh, hãy cập nhật ngay.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Bạn hiện sẽ sử dụng khoảng %s dữ liệu để sao lưu các mục này. Hãy kết nối với Wi-Fi để tránh sử dụng dữ liệu.</item>
+        <item quantity="one">Bạn hiện sẽ sử dụng khoảng %s dữ liệu để sao lưu mục này. Hãy kết nối với Wi-Fi để tránh sử dụng dữ liệu.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Sao lưu các mục này sẽ sử dụng một số dữ liệu của bạn. Hãy kết nối với Wi-Fi để tránh sử dụng dữ liệu.</item>
+        <item quantity="one">Sao lưu mục này sẽ sử dụng một số dữ liệu của bạn. Hãy kết nối với Wi-Fi để tránh sử dụng dữ liệu.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Đang tải lên…Còn %d</item>
+        <item quantity="one">Đang tải lên…Còn %d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d tệp</item>
+        <item quantity="one">%d tệp</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s ảnh</item>
+        <item quantity="one">%s ảnh</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s mục</item>
+        <item quantity="one">%s mục</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s video</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Chọn ảnh</item>
+        <item quantity="one">Chọn ảnh</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Chọn mục</item>
+        <item quantity="one">Chọn mục</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Chọn video</item>
+        <item quantity="one">Chọn video</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">và %d người khác</item>
+        <item quantity="one">và %d người khác</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d phương thức liên hệ</item>
+        <item quantity="one">%1$s. %2$d phương thức liên hệ</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d thành viên</item>
+        <item quantity="one">%d thành viên</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Đã chọn %1$d / %2$d thành viên</item>
+        <item quantity="one">Đã chọn %1$d / %2$d thành viên</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Đã chọn %d thành viên</item>
+        <item quantity="one">Đã chọn %d thành viên</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Thùng rác trên thiết bị của bạn đã đầy. Nếu bạn xóa các mục này, các mục này sẽ bị xóa vĩnh viễn khỏi thiết bị và tài khoản của bạn.</item>
+        <item quantity="one">Thùng rác trên thiết bị của bạn đã đầy. Nếu bạn xóa mục này, mục này sẽ bị xóa vĩnh viễn khỏi thiết bị và tài khoản của bạn.</item>
+    </plurals>
+</resources>

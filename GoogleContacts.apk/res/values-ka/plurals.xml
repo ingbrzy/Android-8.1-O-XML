@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d კონტაქტი დაემატა ლეიბლს %2$s</item>
+        <item quantity="one">%1$d კონტაქტი დაემატა ლეიბლს %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d კონტაქტი ემატება ლეიბლს %2$s</item>
+        <item quantity="one">%1$d კონტაქტი ემატება ლეიბლს %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">შემოთავაზებული ინფორმაციის მიმოხილვა %d კონტაქტისთვის</item>
+        <item quantity="one">შემოთავაზებული ინფორმაციის მიმოხილვა %d კონტაქტისთვის</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d არასასურველი კონტაქტი</item>
+        <item quantity="one">%d არასასურველი კონტაქტი</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d დუბლიკატი კონტაქტი</item>
+        <item quantity="one">1 დუბლიკატი კონტაქტი</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d უახლესი ზარი • ბოლოს: %2$s</item>
+        <item quantity="one">%1$d უახლესი ზარი • ბოლოს: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">კონტაქტები უკვე დაემატა ლეიბლს %1$s</item>
+        <item quantity="one">კონტაქტი უკვე დაემატა ლეიბლს %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d კონტაქტი</item>
+        <item quantity="one">%d კონტაქტი</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d კონტაქტი · %2$s</item>
+        <item quantity="one">%1$d კონტაქტი · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">წაიშალა %1$d კონტაქტი</item>
+        <item quantity="one">წაიშალა %1$d კონტაქტი</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">ეს კონტაქტები ამოიშლება Google Contacts-იდან და თქვენი ყველა დასინქრონებული მოწყობილობიდან.</item>
+        <item quantity="one">ეს კონტაქტი ამოიშლება Google Contacts-იდან და თქვენი ყველა დასინქრონებული მოწყობილობიდან.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d კონტაქტი თქვენს სხვა ანგარიშებში</item>
+        <item quantity="one">1 კონტაქტი თქვენს სხვა ანგარიშებში</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d კონტაქტი</item>
+        <item quantity="one">1 კონტაქტი</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 კონტაქტი • ^2</item>
+        <item quantity="one">^1 კონტაქტი • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">გსურთ ამ %1$d კონტაქტის გადატანა %2$s-ში?</item>
+        <item quantity="one">გსურთ ამ კონტაქტის გადატანა %2$s-ში?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">გადატანილია %d კონტაქტი</item>
+        <item quantity="one">გადატანილია %d კონტაქტი</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d კონტაქტის გადატანა დასრულდა</item>
+        <item quantity="one">კონტაქტის გადატანა დასრულდა</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">მიმდინარეობს %d კონტაქტის გადატანა</item>
+        <item quantity="one">მიმდინარეობს კონტაქტის გადატანა</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d კონტაქტის სარეზერვო ასლები შეიქმნა %2$s-ში</item>
+        <item quantity="one">%1$d კონტაქტის სარეზერვო ასლი შეიქმნა %2$s-ში</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">SIM ბარათებიდან იმპორტი</item>
+        <item quantity="one">SIM ბარათიდან იმპორტი</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d კონტაქტი</item>
+        <item quantity="one">1 კონტაქტი</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">იმპორტირებულია %d SIM კონტაქტი</item>
+        <item quantity="one">იმპორტირებულია 1 SIM კონტაქტი</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">კონტაქტების გაზიარება აპით</item>
+        <item quantity="one">კონტაქტის გაზიარება აპით</item>
+    </plurals>
+</resources>

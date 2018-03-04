@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Naprijed</string>
+    <string name="suw_back_button_label">Nazad</string>
+    <string name="suw_more_button_label">Još</string>
+    <string name="vzw_wfc_activation_error">Nije moguće aktivirati opciju pozivanja putem Wi-Fi mreže. Pokušajte ponovo kasnije.</string>
+    <string name="vzw_address_update_error">U ovom trenutku nije moguće ažurirati trenutnu adresu za hitne slučajeve. Pokušajte ponovo kasnije.</string>
+    <string name="emergency_address_app_label">Upravljanje adresom za hitne slučajeve</string>
+    <string name="progress_text">Pričekajte...</string>
+    <string name="vzw_tos_title">Aktivirajte opciju pozivanje putem Wi-Fi mreže</string>
+    <string name="cancel">Otkaži</string>
+    <string name="vzw_tos_text">"Pozivanje putem Wi-Fi mreže vam omogućava uspostavljanje poziva putem Wi-Fi veze kada mobilna mreža nije dostupna.
+
+Da postavite opciju pozivanje putem Wi-Fi mreže, morate upisati adresu u SAD. Tu adresu će koristiti službe hitne pomoći na vašoj lokaciji ukoliko unutar SAD uspostavite hitni poziv (tj. 911) putem ovog telefona preko Wi-Fi veze.
+
+Savjetujemo da promijenite adresu kada obavljate pozive putem različite Wi-Fi mreže kako bi podaci o vašoj lokaciji bili tačni. Lokaciju možete uvijek promijeniti u meniju za postavke pozivanja putem Wi-Fi mreže."</string>
+    <string name="vzw_tos_link">Uslovi i odredbe</string>
+    <string name="tos_continue">Nastavi</string>
+    <string name="vzw_e911_title">Informacija o lokaciji za hitne slučajeve</string>
+    <string name="vzw_e911_description"><b>VAŽNO - POTREBNA JE ADRESA HITNE SLUŽBE 911</b>"
+Da uključite pozivanje putem Wi-Fi mreže, unesite adresu u SAD na koju treba poslati hitnu službu kada pozovete 911. Možete otići u Postavke i u svako doba promijeniti adresu. Veoma je važno ažurirati tu adresu kad god promijenite svoju lokaciju."</string>
+    <string name="vzw_e911_warning"><b>BUPOZORENJA - OGRANIČENJA ZA POZIVANJE HITNE SLUŽBE</b>"
+Kada pozivate 911, uvijek recite operateru gdje se nalazite. Vaš poziv na broj 911 ići će preko Wi-Fi mreže samo ukoliko mobilna mreža nije dostupna. Poziv na broj 911 putem Wi-Fi mreže može kasniti ili ne uspjeti ukoliko, naprimjer, sistem 911 ne prepozna adresu, ako nestane struje ili ako vaša Wi-Fi veza ne radi. Hitna služba će se poslati na adresu koju ste gore naveli, zato je uvijek ažurirajte kad god mijenjate lokaciju."</string>
+    <string name="house_number">Broj adrese</string>
+    <string name="street">Ulica</string>
+    <string name="apt_suite_number">Stan, apartman itd.</string>
+    <string name="city">Grad</string>
+    <string name="state">Država</string>
+    <string name="zip_code">Poštanski broj</string>
+    <string name="save">Sačuvaj</string>
+    <string name="vzw_address_confirm_text_part1">Nismo uspjeli pronaći adresu koju ste unijeli jer adresa ulice nije mogla biti pronađena, ili su grad, država i poštanski broj netačni.</string>
+    <string name="vzw_address_confirm_text_part2">Ako su grad, država i poštanski broj netačni, dodirnite dugme %1$s. U suprotnom, dodirnite dugme %2$s.</string>
+    <string name="save_anyway">Ipak sačuvaj</string>
+    <string name="edit_address">Uredi adresu</string>
+    <string name="ok">UREDU</string>
+    <string name="vzw_address_select_text">Ne možemo pronaći adresu koju ste unijeli:</string>
+    <string name="vzw_address_alternate_text">Možda ste mislili:</string>
+    <string name="vzw_partial_confirm_head">Hitne službe nisu mogle potvrditi vašu adresu.</string>
+    <string name="vzw_partial_confirm_text">Želite li zaista koristiti ovu adresu u hitnom slučaju?</string>
+    <string name="vzw_partial_failure_text_part1">Možda niste tačno upisali grad, državu ili poštanski broj.</string>
+    <string name="vzw_partial_failure_text_part2">Provjerite adresu i pokušajte ponovo.</string>
+    <string name="vzw_address_update_success_toast">Ažurirana je adresa za hitne slučajeve</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi veza je isključena</string>
+    <string name="connect_to_wifi_or_web_portal_message">Wi-Fi pozivanje možete postaviti koristeći mobilnu mrežu, ali ćete morati uključiti Wi-Fi vezu i povezati se na mrežu da koristite tu funkciju.</string>
+    <string name="button_turn_on_wifi">Uključi Wi-Fi</string>
+    <string name="button_setup_web_portal">Nastavi postavljanje</string>
+</resources>

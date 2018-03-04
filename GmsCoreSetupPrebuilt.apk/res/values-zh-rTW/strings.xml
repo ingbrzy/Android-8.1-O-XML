@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="app_has_in_app_purchases">應用程式內購</string>
+    <string name="app_has_permissions">權限：%s</string>
+    <string name="app_has_runtime_permissions">應用程式會要求你授權</string>
+    <string name="app_picker_app_already_installed_toast">已安裝這個應用程式</string>
+    <string name="app_picker_loading">正在尋找可安裝的應用程式…</string>
+    <string name="app_picker_loading_toast">系統隨即會載入可安裝的應用程式清單</string>
+    <string name="app_picker_no_apps">未選取任何應用程式</string>
+    <string name="app_picker_no_apps_found">找不到應用程式</string>
+    <string name="apps_in_app_purchases_disclaimer_all">應用程式內購項目不會轉移到你的 ^1。</string>
+    <string name="apps_in_app_purchases_disclaimer_some">部分應用程式內購項目可能不會轉移到你的 ^1。</string>
+    <string name="apps_permissions_described_v2">"只有熱門的免費 iOS® 應用程式有相對應的 Android 應用程式。大部分的應用程式內購項目皆無法轉移。你可以在設定完成後，前往 Play 商店尋找更多應用程式。
+
+你可能需要預先允許某些應用程式存取特定功能或裝置上的資訊。權限會以群組形式分門別類。如果選擇安裝這些應用程式，即表示你同意將每個群組所包含的權限授予應用程式。如要瞭解各個權限群組，請參閱下方說明。
+
+部分應用程式不會要求你預先授予特定權限。執行這類應用程式時，你可以在應用程式使用相關資料前再允許或拒絕授予個別權限。
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">安裝個別應用程式，即表示你同意授予其所要求的權限。<annotation id="apps_permissions_learn_more">瞭解詳情</annotation></string>
+    <string name="auto_restore_summary">重新安裝應用程式時，還原備份的設定和資料</string>
+    <string name="auto_restore_title">自動還原</string>
+    <string name="backup_configure_account_default_summary">目前沒有任何帳戶儲存備份資料</string>
+    <string name="backup_configure_account_title">備份帳戶</string>
+    <string name="backup_data_summary">將應用程式資料、Wi-Fi 密碼及其他設定備份到 Google 雲端硬碟</string>
+    <string name="backup_data_summary_full">"在遠端自動備份裝置資料 (例如 Wi-Fi 密碼和通話紀錄) 以及應用程式資料 (例如應用程式所儲存的設定和檔案)。
+
+啟用自動備份功能後，系統會定期從遠端儲存裝置和應用程式資料。應用程式資料泛指應用程式依據開發人員設定所儲存的任何資料，包括聯絡人、訊息和相片等可能具敏感性的資料。"</string>
+    <string name="backup_data_title">備份到 Google 雲端硬碟</string>
+    <string name="backup_erase_dialog_message">要停止備份你的 Wi-Fi 密碼、書籤、其他設定以及應用程式資料，並清除 Google 雲端硬碟中的所有備份內容嗎？</string>
+    <string name="backup_erase_dialog_message_full">要停止備份裝置資料 (例如 Wi-Fi 密碼和通話紀錄) 以及應用程式資料 (例如應用程式所儲存的設定和檔案)，並清除 Google 雲端硬碟中的所有備份內容嗎？</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">開啟相片設定時發生錯誤</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"開啟自動備份功能後：
+
+ ● 系統會將裝置設定和應用程式資料定期儲存到 Google 雲端硬碟的私人資料夾中。應用程式資料泛指應用程式依據開發人員設定所儲存的資料，包括聯絡人、訊息和相片等可能具敏感性的資料。
+
+ 系統不會為大型檔案或開發人員設定排除在服務外的檔案建立備份。
+
+ ● 利用這個裝置拍攝的相片和影片會與你的 Google 相簿檔案庫保持同步，方便你透過任何裝置搜尋、編輯、刪除及分享。
+
+ 根據預設，系統會以完整解析度上傳相片和影片，且這類內容不會計入你的雲端硬碟儲存空間配額。
+
+ ● 這個裝置的聯絡人和相關資料會與 Google 聯絡人保持同步。你可以透過任何裝置的「Google 聯絡人」應用程式搜尋、編輯、刪除及分享聯絡人資料。
+
+ ● 這個裝置的日曆項目和相關資料會與 Google 日曆保持同步。你可以透過任何裝置的「Google 日曆」應用程式搜尋、編輯、刪除及分享聯絡人資料。
+
+ 備份資料不會計入你的雲端硬碟儲存空間配額。"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"開啟自動備份功能後：
+
+ ● 系統會定期將裝置設定和應用程式資料儲存到 Google 雲端硬碟中的私人資料夾。應用程式資料泛指應用程式依據開發人員設定所儲存的任何資料，可能包括聯絡人、訊息和相片這類機密資料。
+
+系統不會備份大型檔案或開發人員選擇排除在服務外的檔案。
+
+ ● 這個裝置的聯絡人和相關聯的資料會與 Google 聯絡人保持同步。你可以在任何裝置上使用 Google 聯絡人應用程式來搜尋、編輯、刪除及分享聯絡人資料。
+
+ ● 這個裝置的日曆項目和相關聯的資料會與 Google 日曆保持同步。你可以在任何裝置上使用 Google 日曆應用程式來搜尋、編輯、刪除及分享聯絡人資料。
+
+備份資料不會計入雲端硬碟儲存空間配額。"</string>
+    <string name="backup_opt_in_backup_description_extra">日曆、聯絡人、相片和影片會與你的 Google 帳戶保持同步，並可在各項服務中使用。</string>
+    <string name="backup_opt_in_backup_description_v2">只要使用自動備份功能，隨時都可輕鬆還原資料或切換手機。<annotation id="backup_opt_in_learn_more">瞭解詳情</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"這項操作會關閉下列項目的備份功能：
+
+應用程式和應用程式資料
+通話紀錄
+裝置設定
+相片和影片
+簡訊
+
+系統會繼續將日曆和聯絡人資料同步到你的 Google 帳戶。如要在設定程序結束後變更這項同步設定，請依序前往 "<annotation id="backup_opt_in_settings_instructions">[設定] > [帳戶] > [Google]</annotation>。</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">要關閉備份功能嗎？</string>
+    <string name="backup_opt_in_backup_list">"應用程式和應用程式資料
+日曆
+通話紀錄
+聯絡人
+裝置設定 (包含 Wi-Fi 密碼)
+相片和影片
+簡訊"</string>
+    <string name="backup_opt_in_backup_list_header">備份內容包括：</string>
+    <string name="backup_opt_in_backup_title">備份到 Google 雲端硬碟</string>
+    <string name="backup_opt_in_disable_backup">關閉備份功能</string>
+    <string name="backup_photos_update">請更新 Google 相簿</string>
+    <string name="backup_settings_activity_backup_title">備份</string>
+    <string name="backup_settings_activity_title">備份與重設</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">不要複製</string>
+    <string name="close_button_label">關閉</string>
+    <string name="cloud_restore_app_picker_button">還原</string>
+    <string name="cloud_restore_app_picker_description_no_apps">你的備份檔案中沒有任何應用程式</string>
+    <string name="cloud_restore_app_picker_title">選擇要還原的應用程式</string>
+    <string name="common_accept">接受</string>
+    <string name="common_add_account_label">新增帳戶</string>
+    <string name="common_ads_settings_title">廣告</string>
+    <string name="common_agree">同意</string>
+    <string name="common_app_name">Google Play 服務</string>
+    <string name="common_asm_preferences_settings_title">帳戶偏好設定</string>
+    <string name="common_asm_privacy_settings_title">個人資訊和隱私權</string>
+    <string name="common_asm_security_settings_title">登入和安全性</string>
+    <string name="common_audience_edit_button_label">編輯</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_cannot_start_hangouts_security_exception">無法發起 Hangouts (權限錯誤)。</string>
+    <string name="common_car_permission_desc">使用車用服務。</string>
+    <string name="common_car_permission_label">車用服務</string>
+    <string name="common_chips_label_empty_circles">沒有任何社交圈</string>
+    <string name="common_chips_label_extended_circles">延伸社交圈</string>
+    <string name="common_chips_label_only_you">只有你</string>
+    <string name="common_chips_label_public">公開</string>
+    <string name="common_chips_label_your_circles">你的社交圈</string>
+    <string name="common_choose_account_label">選擇帳戶</string>
+    <string name="common_clear_app_data_menu_item">清除應用程式資料</string>
+    <string name="common_connected">已連線</string>
+    <string name="common_connected_apps_settings_title">已連結的應用程式</string>
+    <string name="common_connecting">連線中…</string>
+    <string name="common_continue">繼續</string>
+    <string name="common_disagree">不同意</string>
+    <string name="common_disconnect">中斷連線</string>
+    <string name="common_done">完成</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">寄件者：</string>
+    <string name="common_games_settings_title">Play 遊戲</string>
+    <string name="common_get_started">開始使用</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">你必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_error_dialog_title">錯誤</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">你的裝置並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務發生錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務，請再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">你的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">你必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_updating_title">Google Play 服務更新中</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">安裝 Google Play 服務時所採用的架構不正確。</string>
+    <string name="common_google_play_services_wrong_architecture_text">安裝 Google Play 服務時所採用的架構 (%1$s) 與裝置架構 (%2$s) 不同。</string>
+    <string name="common_google_play_services_wrong_architecture_title">錯誤的架構</string>
+    <string name="common_google_settings">Google 設定</string>
+    <string name="common_google_settings_account">帳戶</string>
+    <string name="common_google_settings_credentials_title">Smart Lock 密碼</string>
+    <string name="common_google_settings_developer">開發人員</string>
+    <string name="common_google_settings_services">服務</string>
+    <string name="common_got_it">我知道了</string>
+    <string name="common_install">安裝</string>
+    <string name="common_learn_more">瞭解詳情</string>
+    <string name="common_list_apps_menu_help">說明</string>
+    <string name="common_list_apps_menu_help_and_feedback">說明與意見回饋</string>
+    <string name="common_loading">載入中…</string>
+    <string name="common_location_settings_title">位置資訊</string>
+    <string name="common_magictether_settings_title">即時網路共用</string>
+    <string name="common_maps_settings_title">地圖與定位</string>
+    <string name="common_mdm_feature_name">Android 裝置管理員</string>
+    <string name="common_missing_url_viewer">沒有可顯示外部網址的檢視器。</string>
+    <string name="common_more_options">更多選項</string>
+    <string name="common_networking_settings_title">網路連線</string>
+    <string name="common_no_browser_for_restricted_url">這個網址設有存取限制。找不到瀏覽器。</string>
+    <string name="common_no_devices_found">找不到任何裝置</string>
+    <string name="common_no_network">裝置處於離線狀態，因此無法載入內容</string>
+    <string name="common_no_thanks">不用了，謝謝</string>
+    <string name="common_not_now">暫時不要</string>
+    <string name="common_off">關閉</string>
+    <string name="common_ok">確定</string>
+    <string name="common_on">開啟</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_open_source_licenses">開放原始碼授權</string>
+    <string name="common_people_settings_title">聯絡人</string>
+    <string name="common_permissions_enable_in_settings">在設定中啟用</string>
+    <string name="common_permissions_missing_end">如要繼續，請開啟 [設定]，然後前往 [權限]，並允許當中列出的所有項目。</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+如要啟用，請前往
+[設定] >
+[權限] >
+[Google Play 服務]"</string>
+    <string name="common_permissions_missing_start">你必須允許 Google Play 服務存取以下內容，這個應用程式才能正常運作：</string>
+    <string name="common_permissions_open_settings">開啟設定</string>
+    <string name="common_phone">電話號碼</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">隱私權政策</string>
+    <string name="common_restore">還原</string>
+    <string name="common_retry">重試</string>
+    <string name="common_search_settings_title">搜尋</string>
+    <string name="common_security_ootp_setting_title">安全碼</string>
+    <string name="common_security_settings_title">安全性</string>
+    <string name="common_send">傳送</string>
+    <string name="common_sending">傳送中…</string>
+    <string name="common_set_up_nearby_device_settings_title">設定附近的裝置</string>
+    <string name="common_settings">設定</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="common_something_went_wrong">發生錯誤</string>
+    <string name="common_system_info">系統資訊</string>
+    <string name="common_take_photo_label">拍攝相片</string>
+    <string name="common_terms_of_service">服務條款</string>
+    <string name="common_try_again">再試一次</string>
+    <string name="common_turn_on_bluetooth">開啟藍牙</string>
+    <string name="common_ui_confirm_deleting_button">刪除</string>
+    <string name="common_ui_confirm_deleting_checkbox">我瞭解上述情形並決定刪除</string>
+    <string name="common_unknown">不明</string>
+    <string name="common_update">更新</string>
+    <string name="common_url_load_unsuccessful_message">Android 裝置尚未連線至行動數據服務，如要立即查看這項資訊，請透過網路瀏覽器造訪 %s。</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">你的 Android 裝置並未連上 Wi-Fi 網路。如要立即查看這項資訊，請透過網路瀏覽器造訪 %s。</string>
+    <string name="common_url_login_notice">使用 %1$s 登入</string>
+    <string name="common_usage_and_diagnostics">使用情形與診斷</string>
+    <string name="common_yesterday">昨天</string>
+    <string name="confirm_copy_button_text">複製</string>
+    <string name="contacts_number_device_and_icloud">%1$d 位 iCloud® 聯絡人，以及 %2$d 位裝置聯絡人</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google 聯絡人、%1$d 位 iCloud® 聯絡人，以及 %2$d 位裝置聯絡人</string>
+    <string name="contacts_number_device_and_sim_with_google">Google 聯絡人、%1$d 位 SIM 卡聯絡人，以及 %2$d 位裝置聯絡人</string>
+    <string name="contacts_number_device_with_google">Google 聯絡人，以及 %1$d 位裝置聯絡人</string>
+    <string name="contacts_number_icloud_with_google">Google 聯絡人，以及 %1$d 位 iCloud® 聯絡人</string>
+    <string name="contacts_number_sim_with_google">Google 聯絡人，以及 %1$d 位 SIM 卡聯絡人</string>
+    <string name="copy_confirmation_description">你即將開始複製 Google 帳戶和應用程式等資料到新手機上</string>
+    <string name="copy_confirmation_title">要複製到新手機嗎？</string>
+    <string name="d2d_app_picker_description_no_apps">系統找不到任何應用程式</string>
+    <string name="d2d_app_picker_title">應用程式</string>
+    <string name="d2d_migration_canceled_on_source">已取消複製</string>
+    <string name="data_copied_fragment_description">已將你的資料複製到新手機。現在可以拔除傳輸線了。</string>
+    <string name="data_copied_fragment_description_cancel">你已選擇停止複製作業，因此只有部分資料複製到你的新手機上。</string>
+    <string name="data_copied_fragment_description_cancel_no_data">你已選擇停止複製，因此系統並未複製任何資料到你的新手機上。</string>
+    <string name="data_copied_fragment_description_error">發生錯誤，因此系統無法複製所有資料。</string>
+    <string name="data_copied_fragment_description_error_no_data">發生錯誤，因此系統無法複製資料。</string>
+    <string name="data_copied_fragment_no_data_title">無法複製</string>
+    <string name="data_copied_fragment_some_data_title">已複製部分資料</string>
+    <string name="data_copied_fragment_title">資料已複製</string>
+    <string name="device_backup_title">備份裝置</string>
+    <string name="device_not_supported_fragment_new_device">你已連接至新手機。如要繼續，請重新連接至先前使用的手機。</string>
+    <string name="device_not_supported_fragment_new_device_title">重新連接至先前使用的手機</string>
+    <string name="device_not_supported_fragment_no_data_cable">這條傳輸線無法轉移資料。請使用其他傳輸線重新連接，然後再試一次。</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">改用其他傳輸線</string>
+    <string name="device_not_supported_fragment_retry_description">確認舊手機已解鎖，然後拔除傳輸線再重新連接</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">發生錯誤</string>
+    <string name="device_not_supported_ios_supervised_description">你使用的是受監管的 iPhone® 裝置，因此必須選用其他資料複製方式</string>
+    <string name="device_picker_description">備份資料會儲存在 Google 雲端硬碟中</string>
+    <string name="device_picker_empty">沒有與 %1$s 連結的備份裝置。</string>
+    <string name="device_picker_empty_title">找不到任何備份裝置</string>
+    <string name="device_picker_item">%1$s 備份資料</string>
+    <string name="device_picker_last_used">上次使用時間：^1</string>
+    <string name="device_picker_skip">不還原</string>
+    <string name="device_picker_title">選擇要還原的備份資料</string>
+    <string name="disabled_by_admin_summary_text">已由管理員停用</string>
+    <string name="download_msg_error_invalid">下載作業設定有誤。</string>
+    <string name="download_msg_in_progress">下載作業正在進行中。</string>
+    <string name="download_msg_not_allowed_space">空間不足，無法執行下載作業。</string>
+    <string name="download_msg_pending">下載作業等待執行中。</string>
+    <string name="download_notification_description">%1$s 要求提供這項資料。</string>
+    <string name="download_notification_title">正在擷取更多資料</string>
+    <string name="drive_backup_account">帳戶</string>
+    <string name="drive_backup_apps_in_backup">已備份的應用程式資料</string>
+    <string name="drive_backup_apps_last_backup">上次備份日期</string>
+    <string name="drive_backup_apps_loading">載入中…</string>
+    <string name="drive_backup_apps_screen_title">應用程式資料</string>
+    <string name="drive_backup_content_apps_title">應用程式資料</string>
+    <string name="drive_backup_content_calendar_dialog_message">透過 Google 日曆建立的活動會在你已登入 Google 帳戶的所有裝置上保持同步。</string>
+    <string name="drive_backup_content_calendar_title">日曆</string>
+    <string name="drive_backup_content_callhistory_dialog_message">備份內容包括撥打/接聽電話的日期和通話對象。</string>
+    <string name="drive_backup_content_callhistory_title">通話紀錄</string>
+    <string name="drive_backup_content_contacts_dialog_message">透過 Google 聯絡人建立的聯絡人資料會在你已登入 Google 帳戶的所有裝置上保持同步。</string>
+    <string name="drive_backup_content_contacts_title">聯絡人</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">備份內容包括桌布、Wi-Fi 密碼和預設應用程式等裝置設定。</string>
+    <string name="drive_backup_content_devicesettings_title">裝置設定</string>
+    <string name="drive_backup_content_header">內容</string>
+    <string name="drive_backup_content_photos_dialog_message">你的主要備份帳戶已變更。你也可以將 Google 相簿備份帳戶變更為 %s。</string>
+    <string name="drive_backup_content_photos_dialog_no">關閉</string>
+    <string name="drive_backup_content_photos_dialog_title">要一併變更相片和影片帳戶嗎？</string>
+    <string name="drive_backup_content_photos_dialog_yes">變更</string>
+    <string name="drive_backup_content_photos_title">相片和影片</string>
+    <string name="drive_backup_content_sms_dialog_message">備份內容包括發出和收到的簡訊，但不包含多媒體訊息。</string>
+    <string name="drive_backup_content_sms_title">簡訊</string>
+    <string name="drive_backup_content_status_dolly_action">我知道了</string>
+    <string name="drive_backup_content_status_error">取得上次同步處理日期時發生錯誤</string>
+    <string name="drive_backup_content_status_lastsaved">上次備份時間：%1$s</string>
+    <string name="drive_backup_content_status_lastsync">上次同步處理時間：%1$s</string>
+    <string name="drive_backup_content_status_never">正在等待備份</string>
+    <string name="drive_backup_content_status_sync_adapter_action">同步處理設定</string>
+    <string name="drive_backup_content_status_sync_off">已關閉同步處理功能</string>
+    <string name="drive_backup_content_status_updating">正在檢查狀態...</string>
+    <string name="drive_backup_disabled_backuplist">"備份內容包括以下項目：
+\u0009- 應用程式和應用程式資料
+\u0009- 通話紀錄
+\u0009- 裝置設定 (包含 Wi-Fi 密碼)
+\u0009- Google 日曆
+\u0009- Google 聯絡人
+\u0009- 相片和影片
+\u0009- 簡訊"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"備份內容包括以下項目：
+\u0009- 應用程式和應用程式資料
+\u0009- 通話紀錄
+\u0009- 裝置設定 (包含 Wi-Fi 密碼)
+\u0009- Google 日曆
+\u0009- Google 聯絡人
+\u0009- 簡訊"</string>
+    <string name="drive_backup_disabled_by_device_owner">你的管理員已停用這項功能</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google 日曆、Google 聯絡人、相片和影片會與你的 Google 帳戶保持同步，而且可透過各項服務使用。
+
+即使你已關閉備份功能，仍可啟用同步功能。如要變更同步處理設定，請依序前往 [設定] > [帳戶] > [Google]。"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google 日曆和 Google 聯絡人會與你的 Google 帳戶保持同步，而且可透過各項服務使用。
+
+即使你已關閉備份功能，仍可啟用同步功能。如要變更同步處理設定，請依序前往 [設定] > [帳戶] > [Google]。"</string>
+    <string name="drive_backup_disabled_introduction">自動備份功能可讓你隨時輕鬆還原資料或切換手機。</string>
+    <string name="drive_backup_settings_title">備份</string>
+    <string name="drive_backup_state">備份到 Google 雲端硬碟</string>
+    <string name="drive_backup_state_dialog_message">"系統將永久刪除為這個裝置儲存在 Google 雲端硬碟中的備份資料。
+
+已備份的相片和影片仍會保存在 Google 雲端硬碟中。
+
+Google 日曆和 Google 聯絡人資料會繼續與你的 Google 帳戶保持同步。如要變更同步處理設定，請依序前往 [設定] > [帳戶] > [Google]。"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"系統將永久刪除為這個裝置儲存在 Google 雲端硬碟中的備份資料。
+
+Google 日曆和 Google 聯絡人資料會繼續與你的 Google 帳戶保持同步。如要變更同步處理設定，請依序前往 [設定] > [帳戶] > [Google]。"</string>
+    <string name="drive_backup_state_dialog_okaction">關閉並刪除</string>
+    <string name="drive_backup_state_dialog_title">要關閉備份功能並刪除已備份的內容嗎？</string>
+    <string name="durationDayHour">%1$d 天 %2$d 小時</string>
+    <string name="durationDayHours">%1$d 天 %2$d 小時</string>
+    <string name="durationDays">%1$d 天</string>
+    <string name="durationHourMinute">%1$d 小時 %2$d 分</string>
+    <string name="durationHourMinutes">%1$d 小時 %2$d 分</string>
+    <string name="durationHours">%1$d 小時</string>
+    <string name="durationMinute">%1$d 分鐘</string>
+    <string name="durationMinuteSecond">%1$d 分 %2$d 秒</string>
+    <string name="durationMinuteSeconds">%1$d 分 %2$d 秒</string>
+    <string name="durationMinutes">%1$d 分鐘</string>
+    <string name="durationSecond">%1$d 秒</string>
+    <string name="durationSeconds">%1$d 秒</string>
+    <string name="encryption_warning_fragment_description">"你的 iPhone® 裝置已啟用加密備份功能。如果你並未啟用這項功能，可能是你的 IT 管理員變更了這項設定。
+
+系統只會複製相片、音樂和影片。如需詳情，請造訪 "<b>g.co/datatransferhelp</b>。</string>
+    <string name="encryption_warning_fragment_title">加密備份</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">我找不到轉接器</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"找出 ^1 包裝盒內隨附的 Quick Switch Adapter，
+
+然後將傳輸線插入這個轉接器中。"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">連接轉接器和傳輸線</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">請將舊手機解鎖，然後將轉接器插入這支手機。</string>
+    <string name="fragment_usb_connect_both_phones_title">連接舊手機和新手機</string>
+    <string name="fragment_usb_dialog_cancel_description">使用傳輸線將能轉移大多數的資料。如果包裝盒中隨附的傳輸線不適用於你的舊手機，請嘗試改用適合的資料傳輸線或充電線。</string>
+    <string name="fragment_usb_dialog_cancel_title">要改用其他方式複製資料嗎？</string>
+    <string name="fragment_usb_dont_have_cable">我沒有傳輸線</string>
+    <string name="fragment_usb_dont_have_old_phone">我無法使用舊手機</string>
+    <string name="fragment_usb_find_cable_description">請使用舊手機適用的傳輸線，例如資料傳輸線或充電線。</string>
+    <string name="fragment_usb_find_cable_title">找出適用的傳輸線</string>
+    <string name="fragment_usb_initial_description">將舊手機中的資料轉移到這個 ^1。</string>
+    <string name="fragment_usb_initial_title">來複製你的資料吧！</string>
+    <string name="fragment_usb_legacy_description">"這是能在最短時間內傳輸最多資料的方法。
+
+請在包裝盒中找出轉接器並將它插入新手機，接著使用傳輸線連接兩支手機，然後將舊手機解鎖。"</string>
+    <string name="fragment_usb_other_ways">在不使用傳輸線的情況下複製資料</string>
+    <string name="fragment_usb_plug_cable">將傳輸線插入舊手機</string>
+    <string name="fragment_waiting_title">請稍候…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google 聯絡人將會保持同步</string>
+    <string name="google_contacts_static_text_off">Google 聯絡人仍會保持同步</string>
+    <string name="header_set_backup_account">設定備用帳戶</string>
+    <string name="i_message_dialog_message">"如要繼續接收來自 iPhone® 裝置使用者的簡訊，必須關閉 iMessage®。
+
+請前往 "<b>g.co/iMessageHelp</b> 參閱相關操作說明。</string>
+    <string name="instructions_fragment_title">繼續透過其他手機操作</string>
+    <string name="ios_connected_fragment_description">"在下一個畫面中，你可以登入現有的 Google 帳戶或建立新帳戶。
+
+如果你選擇不新增 Google 帳戶，系統就不會轉移你的 iOS 行事曆® 活動。"</string>
+    <string name="ios_message_attachment_explanation">[如要查看訊息附件，請依序前往 [Google 相簿] > [裝置資料夾] > [訊息附件]]</string>
+    <string name="ios_message_attachment_failed_explanation">[無法複製部分附件。如要查看已轉移的附件，請依序前往 [Google 相簿] > [裝置資料夾] > [訊息附件]]</string>
+    <string name="ios_message_attachment_placeholder">[儲存在 Google 相簿中的附件 > 裝置資料夾 > 訊息附件]</string>
+    <string name="ios_message_attachments_placeholder">[儲存在 Google 相簿中的附件 > 裝置資料夾 > 訊息附件]</string>
+    <string name="ios_migration_default_calendar_title">日曆</string>
+    <string name="ios_migration_other_contact_relation">其他</string>
+    <string name="ios_photos_dialog_message">"系統無法複製儲存在 iCloud® 上的相片。
+
+如要將這些相片轉移到你的 ^1，請在你的 iPhone® 裝置上安裝 Google 相簿應用程式，然後啟用「備份與同步處理」功能。如需詳細的操作說明，請造訪 "<b>g.co/datatransferhelp</b>。</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">新增帳戶</string>
+    <string name="lockscreen_smartdevice_action_next">繼續</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">請先將手機解除鎖定，才能繼續進行設定</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">為了安全起見，請確認你的螢幕鎖定圖案以繼續進行設定</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">將螢幕解鎖</string>
+    <string name="manage_data_label">Google 帳戶</string>
+    <string name="master_clear_title">恢復原廠設定</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">請設定備用帳戶</string>
+    <string name="notification_content_title_set_backup_account">備用</string>
+    <string name="notification_ticker_set_backup_account">需要備用帳戶</string>
+    <string name="permgrouplab_calendar">日曆</string>
+    <string name="permgrouplab_camera">相機</string>
+    <string name="permgrouplab_contacts">聯絡人</string>
+    <string name="permgrouplab_location">位置資訊</string>
+    <string name="permgrouplab_microphone">麥克風</string>
+    <string name="permgrouplab_phone">電話</string>
+    <string name="permgrouplab_sensors">人體感測器</string>
+    <string name="permgrouplab_sms">簡訊</string>
+    <string name="permgrouplab_storage">儲存空間</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">目前沒有任何帳戶儲存備份相片</string>
+    <string name="photos_backup_title">備份相片</string>
+    <string name="photos_filtering_option_all">全部</string>
+    <string name="photos_filtering_option_none">無</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">已複製的聯絡人將儲存到你的 Google 帳戶中。</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">已複製的聯絡人和日曆將儲存到你的 Google 帳戶中。</string>
+    <string name="restore_choice_data_disclaimer_v2">系統可能不會將部分資料複製到 ^1。<annotation id="restore_choice_data_disclaimer_learn_more">瞭解詳情</annotation></string>
+    <string name="restore_choice_deselect_some_content">取消選取部分內容即可繼續</string>
+    <string name="restore_choice_learn_more_android">"系統無法自動複製你舊手機上的部分資料：
+
+ ● 下載內容 (例如 PDF 檔案)
+
+ ● 儲存在隱藏資料夾中的相片、影片和音樂
+
+ ● 透過簡訊接收的相片、影片和音樂
+
+ ● 透過 Google Play 商店以外的服務安裝的應用程式
+
+ ● 應用程式資料 (如果應用程式未使用 Android 備份功能)
+
+ ● 某些裝置設定
+
+ ● Google 以外的帳戶 (以及所有相關聯的資料)
+
+ ● 同步到 Google 以外服務的聯絡人和日曆
+
+ ● 鈴聲
+
+ 如果想查看更多資訊，並瞭解如何複製上方所列的部分資料，請前往 g.co/datatransferhelp。"</string>
+    <string name="restore_choice_learn_more_ios">"系統無法自動複製你舊手機上的部分資料：
+
+ ● 應用程式和應用程式資料
+
+ ● 原始檔案未儲存在手機上的照片 (舉例來說，如果你啟用「最佳化儲存空間」設定，照片的原始檔案會儲存在 iCloud® 中)
+
+ ● 儲存在 iCloud® 中的檔案與文件
+
+ ● 裝置設定 (例如 Wi-Fi 密碼和桌布)
+
+ ● 受到數位權利管理 (DRM) 技術保護的音樂 (舉例來說，在 2009 年 4 月前所購買的 iTunes® 音樂，或是從音樂串流應用程式下載用於離線播放的音樂)
+
+ ● Google 以外的帳戶 (以及所有相關聯的資料)
+
+ ● 同步到 Google 或 iCloud® 以外服務的聯絡人和日曆
+
+ ● Safari® 上的書籤
+
+ iMessage® 附件可透過以下位置查看：[Google 相簿] > [裝置資料夾] > [訊息附件]。
+
+ 如果想查看更多資訊，並瞭解如何複製上方所列的部分資料，請前往 g.co/datatransferhelp。"</string>
+    <string name="restore_choice_not_enough_space">空間不足</string>
+    <string name="restore_choice_total_text">，可用空間為 %1$s/傳輸所需時間：%2$s</string>
+    <string name="restore_error_message">抱歉，還原時發生錯誤。</string>
+    <string name="restore_item_appdata">應用程式資料</string>
+    <string name="restore_item_calendar">日曆</string>
+    <string name="restore_item_calendar_ical_description">iOS® 行事曆、Google 日曆</string>
+    <string name="restore_item_calendar_ical_off_description">Google 日曆仍會保持同步</string>
+    <string name="restore_item_calendar_sync_description">Google 日曆將會保持同步</string>
+    <string name="restore_item_call_logs">通話紀錄</string>
+    <string name="restore_item_contacts">聯絡人</string>
+    <string name="restore_item_device_settings_description">Wi-Fi 密碼和其他設定</string>
+    <string name="restore_item_downloads">下載內容</string>
+    <string name="restore_item_email">電子郵件</string>
+    <string name="restore_item_email_description">Gmail 將會保持同步</string>
+    <string name="restore_item_message_attachments">訊息附件</string>
+    <string name="restore_item_messages">訊息</string>
+    <string name="restore_item_music">音樂</string>
+    <string name="restore_item_photos">相片和影片</string>
+    <string name="restore_item_settings">裝置設定</string>
+    <string name="restore_item_sms">簡訊</string>
+    <string name="restore_item_will_be_synced_text">這項資料會同步到你的手機</string>
+    <string name="restore_progress_title">還原中…</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="small_time_duration">不到 1 分鐘</string>
+    <string name="source_connected_description">準備中...</string>
+    <string name="source_connected_title">已連接到你的 %1$s</string>
+    <string name="source_copying_description">系統正在將你選擇的資料複製到新手機上</string>
+    <string name="source_copying_title">複製中...</string>
+    <string name="source_default_target_device_name">新裝置</string>
+    <string name="source_notification_device_disconnected">請重新連接傳輸線</string>
+    <string name="source_notification_text">手機對手機轉移作業進行中</string>
+    <string name="source_notification_title">資料轉移</string>
+    <string name="source_success_description">請在 %1$s 上完成設定。</string>
+    <string name="source_success_screen_title">大功告成！</string>
+    <string name="source_unplugged_description">請重新連線到你的 %1$s</string>
+    <string name="source_unplugged_title">傳輸線已中斷連線</string>
+    <string name="source_waiting_title">繼續進行 %1$s 設定</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">關閉</string>
+    <string name="stop_copying_dialog_message_before_transfer">你的資料尚未複製到新手機上</string>
+    <string name="stop_copying_dialog_message_during_transfer">你的部分資料尚未複製到新手機上</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">不要複製</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">停止</string>
+    <string name="stop_copying_dialog_title_before_transfer">不要複製嗎？</string>
+    <string name="stop_copying_dialog_title_during_transfer">要停止複製嗎？</string>
+    <string name="storage_management_wear_descriptive_text">應用程式會使用你的裝置儲存空間將資料複製到穿戴式裝置。</string>
+    <string name="storage_management_wear_manage_size_label">管理穿戴式裝置儲存空間</string>
+    <string name="storage_management_wear_size_label">穿戴式裝置儲存空間</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play 服務 (包括搜尋引擎和其他資料) 使用的總資料量。</string>
+    <string name="storage_managment_clear_all_data">清除所有資料</string>
+    <string name="storage_managment_computing_size">計算中…</string>
+    <string name="storage_managment_icing_size_label">搜尋資料</string>
+    <string name="storage_managment_manage_icing_button">管理搜尋資料</string>
+    <string name="storage_managment_search_index_descriptive_text">我們會為你的應用程式提供專屬的搜尋引擎，藉此加快你在裝置上的搜尋速度。</string>
+    <string name="storage_managment_title">Google Play 服務儲存空間</string>
+    <string name="storage_managment_total_size_label">總儲存空間</string>
+    <string name="suw_back_button_label">返回</string>
+    <string name="suw_more_button_label">更多</string>
+    <string name="suw_next_button_label">繼續</string>
+    <string name="target_default_source_device_model">舊裝置</string>
+    <string name="target_device_not_supported_cant_continue_description">你必須選擇其他資料複製方式</string>
+    <string name="target_device_not_supported_cant_continue_title">不支援其他手機</string>
+    <string name="target_device_not_supported_try_restarting_description">"請拔除傳輸線並重新啟動舊手機，接著重新接上傳輸線，然後按照 Pixel 手機上的指示操作。
+
+如果系統還是持續顯示這則錯誤訊息，你可能需要嘗試其他複製方式。"</string>
+    <string name="target_device_not_supported_try_restarting_title">手機可能不受支援</string>
+    <string name="target_smart_device_timeout_add_account">新增帳戶</string>
+    <string name="target_smart_device_timeout_description">你可以嘗試手動新增帳戶</string>
+    <string name="target_smart_device_timeout_dismiss">關閉</string>
+    <string name="target_smart_device_timeout_title">遇到問題了嗎？</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">已連接手機</string>
+    <string name="toast_reconnect_cable">請重新連接傳輸線</string>
+    <string name="transfer_finished_fragment_title">正在進行最後的幾項設定…</string>
+    <string name="transfer_summary_copied">資料已複製</string>
+    <string name="transfer_summary_fragment_description">現在可以拔除傳輸線了。</string>
+    <string name="transfer_summary_fragment_finish">完成</string>
+    <string name="transfer_summary_fragment_title">你的手機即將準備就緒</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">系統無法複製部分相片。<annotation id="transfer_summary_learn_more">瞭解詳情</annotation></string>
+    <string name="transfer_summary_not_copied">資料未複製</string>
+    <string name="transfer_summary_partial">已複製 %1$s 個項目 (共 %2$s 個)</string>
+    <string name="transfer_summary_will_sync">資料在設定完成後便會開始同步處理</string>
+    <string name="transferring_fragment_calculating_remaining_time">正在計算剩餘時間...</string>
+    <string name="transferring_fragment_header">複製中...</string>
+    <string name="transferring_fragment_remaining_time">還剩 %1$s</string>
+    <string name="trust_instructions_description">如要繼續，請查看你的 iPhone® 裝置並允許連線</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone、iPad、iOS、iMessage、iCloud、Safari 和 iTunes 是 Apple Inc. 在美國和其他國家/地區的註冊商標。</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a11y_minutes">
+        <item quantity="other">minutes</item>
+        <item quantity="one">minute</item>
+    </plurals>
+    <plurals name="a11y_seconds">
+        <item quantity="other">seconds</item>
+        <item quantity="one">second</item>
+    </plurals>
+    <plurals name="delete_voicemails_confirmation_dialog_title">
+        <item quantity="other">&lt;b>Delete these voicemails? &lt;/b></item>
+        <item quantity="one">&lt;b>Delete this voicemail? &lt;/b></item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s tab. %2$d unread items.</item>
+        <item quantity="one">%1$s tab. %2$d unread item.</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_5">false</item>
+</resources>

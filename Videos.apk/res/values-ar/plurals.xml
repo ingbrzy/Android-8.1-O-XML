@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">تم التقييم بعدد %1$s من النجوم بواسطة %2$d شخص</item>
+        <item quantity="zero">تم التقييم بعدد %1$s من النجوم بواسطة %2$d شخص</item>
+        <item quantity="one">تم التقييم بعدد %1$s من النجوم بواسطة شخص واحد</item>
+        <item quantity="two">تم التقييم بعدد %1$s من النجوم بواسطة شخصين (%2$d)</item>
+        <item quantity="few">تم التقييم بعدد %1$s من النجوم بواسطة %2$d أشخاص</item>
+        <item quantity="many">تم التقييم بعدد %1$s من النجوم بواسطة %2$d شخصًا</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">تنتهي الصلاحية خلال %1$d من الأيام</item>
+        <item quantity="zero">تنتهي الصلاحية خلال أقل من يوم (%1$d)</item>
+        <item quantity="one">تنتهي الصلاحية خلال %1$d يوم واحد</item>
+        <item quantity="two">تنتهي الصلاحية خلال يومين (%1$d)</item>
+        <item quantity="few">تنتهي الصلاحية خلال %1$d أيام</item>
+        <item quantity="many">تنتهي الصلاحية خلال %1$d يومًا</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">تنتهي الصلاحية خلال %1$d من الساعات</item>
+        <item quantity="zero">تنتهي الصلاحية خلال أقل من ساعة (%1$d)</item>
+        <item quantity="one">تنتهي الصلاحية خلال %1$d ساعة واحدة</item>
+        <item quantity="two">تنتهي الصلاحية خلال ساعتين (%1$d)</item>
+        <item quantity="few">تنتهي الصلاحية خلال %1$d ساعات</item>
+        <item quantity="many">تنتهي الصلاحية خلال %1$d ساعة</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d من مقاطع الفيديو الأخرى</item>
+        <item quantity="zero">%1$dلا مقاطع فيديو أخرى</item>
+        <item quantity="one">%1$dمقطع فيديو واحد آخر</item>
+        <item quantity="two">مقطعا فيديو آخران (%1$d)</item>
+        <item quantity="few">%1$d مقاطع فيديو أخرى</item>
+        <item quantity="many">%1$d مقطع فيديو آخر</item>
+    </plurals>
+</resources>

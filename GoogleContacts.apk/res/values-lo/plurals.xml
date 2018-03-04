@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">ເພີ່ມ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %2$s ແລ້ວ</item>
+        <item quantity="one">ເພີ່ມ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %2$s ແລ້ວ</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">ກຳລັງເພີ່ມ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %2$s</item>
+        <item quantity="one">ກຳລັງເພີ່ມ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">ກວດສອບຂໍ້ມູນທີ່ແນະນຳສຳລັບ %d ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item quantity="one">ກວດສອບຂໍ້ມູນທີ່ແນະນຳສຳລັບ %d ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d ລາຍຊື່ຜູ້ຕິດຕໍ່ຂີ້ເຫຍື້ອ</item>
+        <item quantity="one">%d ລາຍຊື່ຜູ້ຕິດຕໍ່ຂີ້ເຫຍື້ອ</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d ລາຍຊື່ຜູ້ຕິດຕໍ່ທີ່ຊໍ້າກັນ</item>
+        <item quantity="one">1 ລາຍຊື່ຜູ້ຕິດຕໍ່ທີ່ຊໍ້າກັນ</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d recent calls • Last on %2$s</item>
+        <item quantity="one">%1$d recent call • Last on %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">ເພີ່ມລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %1$s ຢູ່ກ່ອນແລ້ວ</item>
+        <item quantity="one">ເພີ່ມລາຍຊື່ຜູ້ຕິດຕໍ່ໃສ່ປ້າຍກຳກັບ %1$s ຢູ່ກ່ອນແລ້ວ</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d ລາຍ​ຊື່ຜູ້ຕິດຕໍ່</item>
+        <item quantity="one">%d ລາຍ​ຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ · %2$s</item>
+        <item quantity="one">%1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">ລຶບລາຍຊື່ຜູ້ຕິດຕໍ່ %1$d ລາຍການອອກແລ້ວ</item>
+        <item quantity="one">ລຶບລາຍຊື່ຜູ້ຕິດຕໍ່ %1$d ລາຍການອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">ລາຍຊື່ຜູ້ຕິດຕໍ່ເຫຼົ່ານີ້ຈະຖືກລຶບອອກຈາກລາຍຊື່ຜູ້ຕິດຕໍ່ Google ແລະ ອຸປະກອນທີ່ທ່ານຊິ້ງຂໍ້ມູນໄວ້ທັງໝົດ.</item>
+        <item quantity="one">ລາຍຊື່ຜູ້ຕິດຕໍ່ນີ້ຈະຖືກລຶບອອກຈາກລາຍຊື່ຜູ້ຕິດຕໍ່ Google ແລະ ອຸປະກອນທີ່ທ່ານຊິ້ງຂໍ້ມູນໄວ້ທັງໝົດ.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໃນບັນຊີອື່ນຂອງທ່ານ</item>
+        <item quantity="one">1 ລາຍຊື່ຜູ້ຕິດຕໍ່ໃນບັນຊີອື່ນຂອງທ່ານ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item quantity="one">1 ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 ລາຍຊື່ຜູ້ຕິດຕໍ່ • ^2</item>
+        <item quantity="one">^1 ລາຍຊື່ຜູ້ຕິດຕໍ່ • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">ຍ້າຍ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ເຫຼົ່ານີ້ໄປໃສ່ %2$s ບໍ?</item>
+        <item quantity="one">ຍ້າຍລາຍຊື່ຜູ້ຕິດຕໍ່ນີ້ໄປໃສ່ %2$s ບໍ?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">ຍ້າຍ %d ລາຍຊື່ຜູ້ຕິດຕໍ່ແລ້ວ</item>
+        <item quantity="one">ຍ້າຍ %d ລາຍຊື່ຜູ້ຕິດຕໍ່ແລ້ວ</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">ຍ້າຍ %d ລາຍຊື່ຜູ້ຕິດຕໍ່ແລ້ວໆ</item>
+        <item quantity="one">ຍ້າຍລາຍຊື່ຜູ້ຕິດຕໍ່ແລ້ວໆ</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">ກຳລັງຍ້າຍ %d ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item quantity="one">ກຳລັງຍ້າຍລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">ສຳເນົາ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໄປໃສ່ %2$s ແລ້ວ</item>
+        <item quantity="one">ສຳເນົາ %1$d ລາຍຊື່ຜູ້ຕິດຕໍ່ໄປໃສ່ %2$s ແລ້ວ</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Import from SIM cards</item>
+        <item quantity="one">Import from SIM card</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">ນຳເຂົ້າ %d ລາຍຊື່ຜູ້ຕິດຕໍ່ຊິມແລ້ວ</item>
+        <item quantity="one">ນຳເຂົ້າ 1 ລາຍຊື່ຜູ້ຕິດຕໍ່ຊິມແລ້ວ</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">ແບ່ງປັນລາຍຊື່ຜູ້ຕິດຕໍ່ຜ່ານ</item>
+        <item quantity="one">ແບ່ງປັນລາຍຊື່ຜູ້ຕິດຕໍ່ຜ່ານ</item>
+    </plurals>
+</resources>

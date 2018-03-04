@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Pembelian dalam apl</string>
+    <string name="app_has_permissions">Kebenaran: %s</string>
+    <string name="app_has_runtime_permissions">Apl akan meminta kebenaran</string>
+    <string name="app_picker_app_already_installed_toast">Apl ini sudah dipasang</string>
+    <string name="app_picker_loading">Mencari apl yang tersedia…</string>
+    <string name="app_picker_loading_toast">Apl yang tersedia akan dimuatkan sebentar lagi</string>
+    <string name="app_picker_no_apps">Tiada apl yang dipilih</string>
+    <string name="app_picker_no_apps_found">Tiada apl yang ditemui</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Pembelian dalam apl tidak akan dipindahkan ke ^1 anda.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Sesetengah pembelian dalam apl mungkin tidak dipindahkan ke ^1 anda.</string>
+    <string name="apps_permissions_described_v2">"Hanya apl iOS® yang popular dan percuma boleh dipadankan dengan apl Android. Kebanyakan pembelian dalam apl tidak dapat dipindahkan. Anda dapat menemui lebih banyak apl dalam Gedung Play setelah persediaan selesai.
+
+Anda mungkin perlu memberi kebenaran awal kepada sesetengah apl untuk mengakses keupayaan atau maklumat khusus pada peranti anda. Kebenaran disusun dalam kumpulan kebenaran. Dengan memilih untuk memasang apl ini, anda menerima kebenaran yang merupakan sebahagian daripada setiap kumpulan. Perihalan setiap kumpulan kebenaran diberikan di bawah.
+
+Sesetengah apl mungkin tidak perlu menerima kebenaran awal. Apabila anda menggunakan salah satu apl ini, anda boleh membenarkan atau menolak kebenaran individu sebelum apl itu menggunakan jenis data tersebut.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Dengan memasang setiap apl, anda bersetuju menerima kebenarannya. <annotation id="apps_permissions_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="auto_restore_summary">Apabila memasang semula apl, pulihkan tetapan dan data yang disandarkan</string>
+    <string name="auto_restore_title">Pemulihan automatik</string>
+    <string name="backup_configure_account_default_summary">Tiada akaun yang menyimpan data sandaran buat masa ini</string>
+    <string name="backup_configure_account_title">Akaun sandaran</string>
+    <string name="backup_data_summary">Sandarkan data apl, kata laluan Wi-Fi dan tetapan lain ke Google Drive</string>
+    <string name="backup_data_summary_full">"Sandarkan data peranti (seperti kata laluan Wi-Fi dan sejarah panggilan) dan data apl (seperti tetapan dan fail yang disimpan oleh apl) dari jauh secara automatik.
+
+Apabila anda menghidupkan sandaran automatik, data peranti dan apl disimpan secara berkala dari jauh. Data apl boleh terdiri daripada sebarang data yang telah disimpan oleh apl (berdasarkan tetapan pembangun), termasuk data yang berkemungkinan sensitif, seperti kenalan, mesej dan foto."</string>
+    <string name="backup_data_title">Sandarkan ke Google Drive</string>
+    <string name="backup_erase_dialog_message">Berhenti menyandarkan kata laluan Wi-Fi anda, penanda halaman, tetapan lain dan data apl serta padamkan semua salinan di Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Berhenti menyandarkan data peranti (seperti kata laluan Wi-Fi dan sejarah panggilan) dan data apl (seperti tetapan dan fail yang disimpan oleh apl), serta padamkan semua salinan di Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Berlaku ralat semasa membuka tetapan foto</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Apabila anda menghidupkan sandaran automatik:
+
+ ● Tetapan peranti dan data apl disimpan ke folder peribadi di Google Drive secara berkala. Data apl boleh jadi sebarang data yang telah disimpan oleh apl (berdasarkan tetapan pembangun), termasuk data yang berkemungkinan sensitif, seperti kenalan, mesej dan foto.
+
+ Fail besar atau fail yang telah dipilih oleh pembangun untuk dikecualikan daripada perkhidmatan tidak akan disandarkan.
+
+ ● Foto dan rakaman video daripada peranti ini disegerakkan dengan pustaka Foto Google anda untuk mencari, mengedit, memadam serta berkongsi daripada sebarang peranti anda.
+
+ Secara lalainya, foto dan video yang dimuat naik adalah berpeleraian tinggi. Ini tidak dikira dalam kuota storan Drive anda.
+
+ ● Kenalan dan data yang dikaitkan daripada peranti ini disegerakkan ke Kenalan Google. Anda boleh menggunakan apl Kenalan Google untuk mencari, mengedit, memadam dan berkongsi kenalan daripada sebarang peranti anda.
+
+ ● Masukan Kalendar dan data yang dikaitkan daripada peranti ini disegerakkan ke Kalendar Google. Anda boleh menggunakan apl Kalendar Google untuk mencari, mengedit, memadam dan berkongsi kenalan daripada sebarang peranti anda.
+
+ Data sandaran tidak akan dikira dalam kuota storan Drive anda."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Apabila anda menghidupkan sandaran automatik:
+
+ ● Tetapan peranti dan data apl disimpan ke folder peribadi di Google Drive secara berkala. Data apl boleh jadi sebarang data yang telah disimpan oleh apl (berdasarkan tetapan pembangun), termasuk data yang berkemungkinan sensitif, seperti kenalan, mesej dan foto.
+
+ Fail besar atau fail yang telah dipilih oleh pembangun untuk dikecualikan daripada perkhidmatan, tidak akan disandarkan.
+
+ ● Kenalan dan data yang berkaitan daripada peranti ini disegerakkan ke Kenalan Google. Anda boleh menggunakan apl Kenalan Google untuk mencari, mengedit, memadam dan berkongsi kenalan daripada mana-mana peranti anda.
+
+ ● Entri kalendar dan data yang berkaitan daripada peranti ini disegerakkan ke Kalendar Google. Anda boleh menggunakan apl Kalendar Google untuk mencari, mengedit, memadam dan berkongsi kenalan daripada mana-mana peranti anda.
+
+ Data sandaran tidak akan dikira dalam kuota storan Drive anda."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalendar, kenalan, foto dan video disegerakkan ke Akaun Google anda dan boleh digunakan pada seluruh perkhidmatan.</string>
+    <string name="backup_opt_in_backup_description_v2">Sandaran automatik memastikan anda dapat memulihkan atau menukar telefon pada bila-bila masa dengan mudah. <annotation id="backup_opt_in_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Tindakan ini akan mematikan sandaran untuk:
+
+Apl dan data apl
+Sejarah panggilan
+Tetapan peranti
+Foto dan video
+SMS
+
+Kalendar dan kenalan akan terus disegerakkan ke Akaun Google anda. Apabila persediaan selesai, anda boleh menukar tetapan penyegerakan dengan melawati "<annotation id="backup_opt_in_settings_instructions">Tetapan > Akaun > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Matikan sandaran?</string>
+    <string name="backup_opt_in_backup_list">"Apl dan data apl
+Kalendar
+Sejarah panggilan
+Kenalan
+Tetapan peranti (termasuk kata laluan Wi-Fi)
+Foto dan video
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Sandaran termasuk:</string>
+    <string name="backup_opt_in_backup_title">Sandarkan ke Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Matikan sandaran</string>
+    <string name="backup_photos_update">Sila kemas kini Foto Google</string>
+    <string name="backup_settings_activity_backup_title">Sandaran</string>
+    <string name="backup_settings_activity_title">Sandaran &amp; tetapan semula</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Jangan salin</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="cloud_restore_app_picker_button">Pulihkan</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Sandaran anda tiada sebarang aplikasi</string>
+    <string name="cloud_restore_app_picker_title">Pilih apl untuk dipulihkan</string>
+    <string name="common_accept">Terima</string>
+    <string name="common_add_account_label">Tambahkan akaun</string>
+    <string name="common_ads_settings_title">Iklan</string>
+    <string name="common_agree">Setuju</string>
+    <string name="common_app_name">Perkhidmatan Google Play</string>
+    <string name="common_asm_preferences_settings_title">Pilihan akaun</string>
+    <string name="common_asm_privacy_settings_title">Maklumat peribadi &amp; privasi</string>
+    <string name="common_asm_security_settings_title">Log masuk &amp; keselamatan</string>
+    <string name="common_audience_edit_button_label">Edit</string>
+    <string name="common_cancel">Batal</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts tidak dapat dimulakan (ralat kebenaran).</string>
+    <string name="common_car_permission_desc">Akses kepada perkhidmatan kereta.</string>
+    <string name="common_car_permission_label">Perkhidmatan Kereta</string>
+    <string name="common_chips_label_empty_circles">Tiada kalangan</string>
+    <string name="common_chips_label_extended_circles">Kalangan lanjutan</string>
+    <string name="common_chips_label_only_you">Anda sahaja</string>
+    <string name="common_chips_label_public">Awam</string>
+    <string name="common_chips_label_your_circles">Kalangan anda</string>
+    <string name="common_choose_account_label">Pilih akaun</string>
+    <string name="common_clear_app_data_menu_item">Padam bersih data apl</string>
+    <string name="common_connected">Disambungkan</string>
+    <string name="common_connected_apps_settings_title">Apl yang disambungkan</string>
+    <string name="common_connecting">Menyambung…</string>
+    <string name="common_continue">Teruskan</string>
+    <string name="common_disagree">Tidak setuju</string>
+    <string name="common_disconnect">Putuskan sambungan</string>
+    <string name="common_done">Selesai</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Daripada:</string>
+    <string name="common_games_settings_title">Permainan Play</string>
+    <string name="common_get_started">Mulakan</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Dayakan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Ralat</string>
+    <string name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="common_google_play_services_updating_title">Perkhidmatan Google Play sdg dikms kini</string>
+    <string name="common_google_play_services_wear_update_text">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Perkhidmatan Google Play dipasang dengan seni bina yang salah.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Perkhidmatan Google Play telah dipasang dengan seni bina (%1$s) yang berbeza daripada seni bina peranti anda (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Seni bina salah</string>
+    <string name="common_google_settings">Tetapan Google</string>
+    <string name="common_google_settings_account">Akaun</string>
+    <string name="common_google_settings_credentials_title">Smart Lock untuk Kata Laluan</string>
+    <string name="common_google_settings_developer">Pembangun</string>
+    <string name="common_google_settings_services">Perkhidmatan</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Pasang</string>
+    <string name="common_learn_more">Ketahui lebih lanjut</string>
+    <string name="common_list_apps_menu_help">Bantuan</string>
+    <string name="common_list_apps_menu_help_and_feedback">Bantuan &amp; maklum balas</string>
+    <string name="common_loading">Memuatkan…</string>
+    <string name="common_location_settings_title">Lokasi</string>
+    <string name="common_magictether_settings_title">Penambatan Segera</string>
+    <string name="common_maps_settings_title">Peta &amp; Latitud</string>
+    <string name="common_mdm_feature_name">Pengurus Peranti Android</string>
+    <string name="common_missing_url_viewer">Pemapar tiada untuk menunjukkan url luaran.</string>
+    <string name="common_more_options">Lagi pilihan</string>
+    <string name="common_networking_settings_title">Perangkaian</string>
+    <string name="common_no_browser_for_restricted_url">Akses terhad. Tiada penyemak imbas ditemui.</string>
+    <string name="common_no_devices_found">Tiada peranti ditemui</string>
+    <string name="common_no_network">Tidak tersedia kerana peranti di luar talian</string>
+    <string name="common_no_thanks">Tidak, terima kasih</string>
+    <string name="common_not_now">Bukan sekarang</string>
+    <string name="common_off">Mati</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Hidup</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_open_source_licenses">Lesen sumber terbuka</string>
+    <string name="common_people_settings_title">Kenalan</string>
+    <string name="common_permissions_enable_in_settings">Dayakan dalam Tetapan</string>
+    <string name="common_permissions_missing_end">Untuk meneruskan, buka Tetapan, kemudian Kebenaran dan benarkan semua item yang disenaraikan.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Untuk mendayakan, pergi ke
+Tetapan >
+Kebenaran >
+Perkhidmatan Google Play"</string>
+    <string name="common_permissions_missing_start">Apl ini tidak akan berfungsi dengan betul melainkan anda membenarkan permintaan perkhidmatan Google Play mengakses item berikut:</string>
+    <string name="common_permissions_open_settings">Buka Tetapan</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Dasar privasi</string>
+    <string name="common_restore">Pulihkan</string>
+    <string name="common_retry">Cuba semula</string>
+    <string name="common_search_settings_title">Carian</string>
+    <string name="common_security_ootp_setting_title">Kod keselamatan</string>
+    <string name="common_security_settings_title">Keselamatan</string>
+    <string name="common_send">Hantar</string>
+    <string name="common_sending">Menghantar…</string>
+    <string name="common_set_up_nearby_device_settings_title">Sediakan peranti berdekatan</string>
+    <string name="common_settings">Tetapan</string>
+    <string name="common_signin_button_text">Log masuk</string>
+    <string name="common_signin_button_text_long">Log masuk dengan Google</string>
+    <string name="common_something_went_wrong">Berlaku kesilapan</string>
+    <string name="common_system_info">Maklumat sistem</string>
+    <string name="common_take_photo_label">Ambil foto</string>
+    <string name="common_terms_of_service">Syarat perkhidmatan</string>
+    <string name="common_try_again">Cuba lagi</string>
+    <string name="common_turn_on_bluetooth">Hidupkan Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Padam</string>
+    <string name="common_ui_confirm_deleting_checkbox">Saya faham dan mahu memadam</string>
+    <string name="common_unknown">Tidak diketahui</string>
+    <string name="common_update">Kemas kini</string>
+    <string name="common_url_load_unsuccessful_message">Peranti Android anda tidak disambungkan kepada perkhidmatan data. Untuk melihat maklumat ini sekarang, lawati %s dengan penyemak imbas web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Peranti Android anda tidak disambungkan ke rangkaian Wi-Fi. Untuk melihat maklumat ini sekarang, lawati %s menggunakan penyemak imbas web.</string>
+    <string name="common_url_login_notice">Log masuk sebagai %1$s</string>
+    <string name="common_usage_and_diagnostics">Penggunaan &amp; diagnostik</string>
+    <string name="common_yesterday">Semalam</string>
+    <string name="confirm_copy_button_text">Salin</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d peranti</string>
+    <string name="contacts_number_device_and_icloud_with_google">Kenalan Google, %1$d iCloud®, %2$d peranti</string>
+    <string name="contacts_number_device_and_sim_with_google">Kenalan Google, %1$d SIM, %2$d peranti</string>
+    <string name="contacts_number_device_with_google">Kenalan Google, %1$d peranti</string>
+    <string name="contacts_number_icloud_with_google">Kenalan Google, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Kenalan Google, %1$d SIM</string>
+    <string name="copy_confirmation_description">Anda akan menyalin data seperti Akaun Google dan apl anda ke telefon baharu anda</string>
+    <string name="copy_confirmation_title">Salin ke telefon baharu anda?</string>
+    <string name="d2d_app_picker_description_no_apps">Kami tidak menemui sebarang apl</string>
+    <string name="d2d_app_picker_title">Apl</string>
+    <string name="d2d_migration_canceled_on_source">Penyalinan dibatalkan</string>
+    <string name="data_copied_fragment_description">Data anda sudah disalin ke telefon baharu. Anda boleh mencabut kabel.</string>
+    <string name="data_copied_fragment_description_cancel">Anda memilih untuk menghentikan penyalinan, jadi sebahagian data sahaja yang sudah disalin ke telefon baharu anda.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Anda memilih untuk menghentikan penyalinan, jadi tiada apa-apa yang telah disalin ke telefon baharu anda.</string>
+    <string name="data_copied_fragment_description_error">Berlaku kesilapan, jadi kami tidak dapat menyalin kesemuanya.</string>
+    <string name="data_copied_fragment_description_error_no_data">Berlaku kesilapan, jadi kami tidak dapat menyalin data anda.</string>
+    <string name="data_copied_fragment_no_data_title">Tidak dapat menyalin</string>
+    <string name="data_copied_fragment_some_data_title">Sebahagian data disalin</string>
+    <string name="data_copied_fragment_title">Data disalin</string>
+    <string name="device_backup_title">Sandaran peranti</string>
+    <string name="device_not_supported_fragment_new_device">Anda telah disambungkan ke telefon baharu. Untuk meneruskan, sambung semula ke telefon sebelumnya.</string>
+    <string name="device_not_supported_fragment_new_device_title">Sambung semula ke telefon sebelumnya</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kabel ini tidak boleh memindahkan data. Sambung semula menggunakan kabel lain, kemudian cuba lagi.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Cuba kabel lain</string>
+    <string name="device_not_supported_fragment_retry_description">Pastikan telefon lama anda tidak dikunci, kemudian cabut dan pasang semula kabel</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Kesilapan telah berlaku</string>
+    <string name="device_not_supported_ios_supervised_description">Memandangkan peranti iPhone® anda diselia, anda perlu memilih cara lain untuk menyalin data</string>
+    <string name="device_picker_description">Sandaran disimpan di Google Drive</string>
+    <string name="device_picker_empty">Tiada sandaran yang dipaut ke %1$s.</string>
+    <string name="device_picker_empty_title">Tiada sandaran yang ditemui</string>
+    <string name="device_picker_item">Sandaran %1$s</string>
+    <string name="device_picker_last_used">Kali terakhir digunakan: ^1</string>
+    <string name="device_picker_skip">Jangan pulihkan</string>
+    <string name="device_picker_title">Pilih sandaran untuk dipulihkan</string>
+    <string name="disabled_by_admin_summary_text">Dikawal oleh pentadbir</string>
+    <string name="download_msg_error_invalid">Muat turun dikonfigurasikan secara tidak betul.</string>
+    <string name="download_msg_in_progress">Muat turun sedang berjalan.</string>
+    <string name="download_msg_not_allowed_space">Tiada ruang yang mencukupi untuk melakukan muat turun.</string>
+    <string name="download_msg_pending">Muat turun belum selesai.</string>
+    <string name="download_notification_description">%1$s telah meminta ini.</string>
+    <string name="download_notification_title">Mengambil data lagi</string>
+    <string name="drive_backup_account">Akaun</string>
+    <string name="drive_backup_apps_in_backup">Data apl yang disandarkan</string>
+    <string name="drive_backup_apps_last_backup">Sandaran terakhir</string>
+    <string name="drive_backup_apps_loading">Memuatkan…</string>
+    <string name="drive_backup_apps_screen_title">Data apl</string>
+    <string name="drive_backup_content_apps_title">Data apl</string>
+    <string name="drive_backup_content_calendar_dialog_message">Acara yang dibuat dalam Kalendar Google akan disegerakkan merentas semua peranti yang dilog masuk ke Akaun Google anda.</string>
+    <string name="drive_backup_content_calendar_title">Kalendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Sandaran termasuk tarikh dan penerima panggilan yang dibuat dan diterima.</string>
+    <string name="drive_backup_content_callhistory_title">Sejarah panggilan</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kenalan yang dibuat dalam Kenalan Google akan disegerakkan merentas semua peranti yang dilog masuk ke Akaun Google anda.</string>
+    <string name="drive_backup_content_contacts_title">Kenalan</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Sandaran termasuk konfigurasi peranti, seperti kertas dinding, kata laluan Wi-Fi dan apl lalai.</string>
+    <string name="drive_backup_content_devicesettings_title">Tetapan peranti</string>
+    <string name="drive_backup_content_header">Kandungan</string>
+    <string name="drive_backup_content_photos_dialog_message">Akaun sandaran utama anda telah ditukar. Anda juga boleh menukar akaun sandaran Foto Google kepada %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">TOLAK</string>
+    <string name="drive_backup_content_photos_dialog_title">Tukar akaun foto &amp; video juga?</string>
+    <string name="drive_backup_content_photos_dialog_yes">TUKAR</string>
+    <string name="drive_backup_content_photos_title">Foto &amp; video</string>
+    <string name="drive_backup_content_sms_dialog_message">Sandaran termasuk mesej yang dihantar dan diterima. Ini tidak termasuk media MMS.</string>
+    <string name="drive_backup_content_sms_title">Mesej teks SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Ralat semasa mendapatkan tarikh sandaran terakhir</string>
+    <string name="drive_backup_content_status_lastsaved">Sandaran terakhir: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Penyegerakan terakhir: %1$s</string>
+    <string name="drive_backup_content_status_never">Menunggu untuk menyandarkan kandungan</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Tetapan penyegerakan</string>
+    <string name="drive_backup_content_status_sync_off">Segerak DIMATIKAN</string>
+    <string name="drive_backup_content_status_updating">Menyemak status…</string>
+    <string name="drive_backup_disabled_backuplist">"Sandaran termasuk:
+\u0009- Apl dan data apl
+\u0009- Sejarah panggilan
+\u0009- Tetapan peranti (termasuk kata laluan Wi-Fi)
+\u0009- Kalendar Google
+\u0009- Kenalan Google
+\u0009- Foto dan video
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Sandaran termasuk:
+\u0009- Apl dan data apl
+\u0009- Sejarah panggilan
+\u0009- Tetapan peranti (termasuk kata laluan Wi-Fi)
+\u0009- Kalendar Google
+\u0009- Kenalan Google
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Dilumpuhkan oleh pentadbir anda</string>
+    <string name="drive_backup_disabled_detailedinfo">"Kalendar Google, Kenalan Google, foto dan video disegerakkan ke Akaun Google anda dan boleh digunakan merentas perkhidmatan.
+
+Penyegerakan boleh didayakan meskipun sandaran dimatikan. Tetapan penyegerakan boleh ditukar dalam Tetapan > Akaun > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Kalendar Google dan Kenalan Google disegerakkan ke Akaun Google anda dan boleh digunakan merentas perkhidmatan.
+
+Penyegerakan boleh didayakan meskipun sandaran dimatikan. Tetapan penyegerakan boleh ditukar dalam Tetapan > Akaun > Google."</string>
+    <string name="drive_backup_disabled_introduction">Sandaran automatik memastikan anda dapat memulihkan atau beralih telefon dengan mudah pada bila-bila masa.</string>
+    <string name="drive_backup_settings_title">Sandaran</string>
+    <string name="drive_backup_state">Sandarkan ke Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Data sandaran peranti ini di Google Drive akan dipadamkan secara kekal.
+
+Foto dan video yang telah disandarkan masih tersedia di Google Drive.
+
+Kalendar Google dan Kenalan Google akan terus menyegerak ke Akaun Google anda. Tetapan penyegerakan boleh ditukar dalam Tetapan > Akaun > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Data sandaran peranti ini di Google Drive akan dipadamkan secara kekal.
+
+Kalendar Google dan Kenalan Google akan terus disegerakkan ke Akaun Google anda. Tetapan penyegerakan boleh ditukar dalam Tetapan > Akaun > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Matikan &amp; padamkan</string>
+    <string name="drive_backup_state_dialog_title">Matikan dan padamkan sandaran?</string>
+    <string name="durationDayHour">%1$d hari %2$d jam</string>
+    <string name="durationDayHours">%1$d hari %2$d jam</string>
+    <string name="durationDays">%1$d hari</string>
+    <string name="durationHourMinute">%1$d jam %2$d min</string>
+    <string name="durationHourMinutes">%1$d jam %2$d min</string>
+    <string name="durationHours">%1$d jam</string>
+    <string name="durationMinute">%1$d minit</string>
+    <string name="durationMinuteSecond">%1$d min %2$d saat</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d saat</string>
+    <string name="durationMinutes">%1$d minit</string>
+    <string name="durationSecond">%1$d saat</string>
+    <string name="durationSeconds">%1$d saat</string>
+    <string name="encryption_warning_fragment_description">"Penyulitan sandaran dihidupkan untuk peranti iPhone® anda. Jika anda tidak menghidupkan penyulitan ini, penyulitan mungkin telah dihidupkan oleh pentadbir IT anda.
+
+Hanya foto, muzik dan video yang boleh disalin. Untuk mendapatkan maklumat lanjut, lawati "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Penyulitan sandaran</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Saya tidak menemui penyesuai</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Cari Quick Switch Adapter yang disertakan dalam kotak ^1 anda.
+
+Palamkan kabel pada penyesuai."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Sambungkan penyesuai &amp; kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Buka kunci telefon lama anda, kemudian palamkan penyesuai pada telefon ini.</string>
+    <string name="fragment_usb_connect_both_phones_title">Sambungkan kedua-dua telefon</string>
+    <string name="fragment_usb_dialog_cancel_description">Anda akan mendapat kandungan yang paling banyak jika menggunakan kabel. Jika kabel di dalam kotak tidak sesuai, cuba gunakan kabel pengecasan atau kabel data yang berfungsi dengan telefon lama anda.</string>
+    <string name="fragment_usb_dialog_cancel_title">Salin data dengan cara lain?</string>
+    <string name="fragment_usb_dont_have_cable">Saya tiada kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Telefon lama tiada pada saya</string>
+    <string name="fragment_usb_find_cable_description">Gunakan kabel yang sesuai dengan telefon lama anda, seperti kabel data atau pengecasan anda.</string>
+    <string name="fragment_usb_find_cable_title">Cari kabel yang sesuai</string>
+    <string name="fragment_usb_initial_description">Pindahkan data daripada telefon lama anda ke ^1 ini.</string>
+    <string name="fragment_usb_initial_title">Mari salin data anda</string>
+    <string name="fragment_usb_legacy_description">"Inilah cara terpantas untuk menyalin paling banyak data.
+
+Cari penyesuai di dalam kotak dan palamkannya pada telefon baharu anda. Sambungkan telefon menggunakan kabel, kemudian buka kunci telefon lama anda."</string>
+    <string name="fragment_usb_other_ways">Salin tanpa kabel</string>
+    <string name="fragment_usb_plug_cable">Palamkan kabel pada telefon lama anda</string>
+    <string name="fragment_waiting_title">Tunggu sebentar…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Kenalan Google akan menyegerak</string>
+    <string name="google_contacts_static_text_off">Kenalan Google masih akan disegerak</string>
+    <string name="header_set_backup_account">Sediakan akaun sandaran</string>
+    <string name="i_message_dialog_message">"Untuk terus menerima mesej SMS daripada pengguna peranti iPhone®, anda perlu mematikan iMessage®.
+
+Lawati "<b>g.co/iMessageHelp</b> untuk mendapatkan arahan.</string>
+    <string name="instructions_fragment_title">Teruskan pada telefon anda yang lain</string>
+    <string name="ios_connected_fragment_description">"Pada skrin seterusnya, anda boleh log masuk ke Akaun Google atau membuat akaun baharu.
+
+Jika anda tidak menambah Akaun Google, acara iOS Calendar® tidak akan dipindahkan."</string>
+    <string name="ios_message_attachment_explanation">[Lampiran mesej anda terdapat dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachment_failed_explanation">[Sesetengah lampiran tidak dapat disalin. Lampiran yang dipindahkan dapat ditemui dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachment_placeholder">[Lampiran disimpan dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_message_attachments_placeholder">[Lampiran disimpan dalam Foto Google > Folder peranti > Lampiran mesej]</string>
+    <string name="ios_migration_default_calendar_title">Kalendar</string>
+    <string name="ios_migration_other_contact_relation">Lain-lain</string>
+    <string name="ios_photos_dialog_message">"Foto yang disimpan di iCloud® tidak boleh disalin.
+
+Untuk membawa foto ini ke ^1 anda, pasang apl Foto Google pada peranti iPhone® dan hidupkan Sandarkan &amp; segerakkan. Lawati "<b>g.co/datatransferhelp</b> untuk mendapatkan arahan lanjut.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Tambah akaun</string>
+    <string name="lockscreen_smartdevice_action_next">Seterusnya</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Buka kunci untuk terus menyediakan telefon anda</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Atas sebab-sebab keselamatan, anda perlu mengesahkan kunci skrin untuk meneruskan persediaan</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Sahkan kunci skrin anda</string>
+    <string name="manage_data_label">Akaun Google</string>
+    <string name="master_clear_title">Tetapan semula data kilang</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Perlu menetapkan akaun sandaran</string>
+    <string name="notification_content_title_set_backup_account">Sandaran</string>
+    <string name="notification_ticker_set_backup_account">Akaun sandaran diperlukan</string>
+    <string name="permgrouplab_calendar">Kalendar</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kenalan</string>
+    <string name="permgrouplab_location">Lokasi</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Penderia Badan</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Storan</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Tiada akaun yang menyimpan foto sandaran buat masa ini</string>
+    <string name="photos_backup_title">Sandaran foto</string>
+    <string name="photos_filtering_option_all">Semua</string>
+    <string name="photos_filtering_option_none">Tiada</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kenalan yang disalin akan disimpan ke Akaun Google anda.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kenalan dan kalendar yang disalin akan disimpan ke Akaun Google anda.</string>
+    <string name="restore_choice_data_disclaimer_v2">Sesetengah data anda mungkin tidak disalin ke ^1 anda. <annotation id="restore_choice_data_disclaimer_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="restore_choice_deselect_some_content">Nyahpilih beberapa kandungan untuk meneruskan</string>
+    <string name="restore_choice_learn_more_android">"Sesetengah data daripada telefon lama anda tidak boleh disalin secara automatik:
+
+ ● Muat turun (seperti fail PDF)
+
+ ● Foto, video &amp; muzik yang disimpan dalam folder tersembunyi
+
+ ● Foto, video &amp; muzik yang diterima melalui mesej teks
+
+ ● Apl yang bukan daripada Gedung Google Play
+
+ ● Data apl (jika apl itu tidak menggunakan sandaran Android)
+
+ ● Tetapan peranti tertentu
+
+ ● Akaun selain Akaun Google (dan sebarang data yang berkaitan)
+
+ ● Kenalan &amp; kalendar yang disegerak ke perkhidmatan selain Google
+
+ ● Nada dering
+
+ Untuk mendapatkan butiran lanjut dan bantuan menyalin sesetengah data ini, lawati g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Sesetengah data daripada telefon lama anda tidak boleh disalin secara automatik:
+
+ ● Apl &amp; data apl
+
+ ● Foto yang tidak disimpan salinan asalnya pada telefon anda (contohnya, jika tetapan Optimumkan Storan dihidupkan, foto asal disimpan di iCloud®)
+
+ ● Fail &amp; dokumen yang disimpan di iCloud®
+
+ ● Tetapan peranti (seperti kata laluan Wi-Fi &amp; kertas dinding)
+
+ ● Muzik yang dilindungi oleh perlindungan Pengurusan Hak Digital (DRM) (contohnya, muzik iTunes® yang dibeli sebelum April 2009 atau muzik yang dimuat turun untuk didengar di luar talian dalam apl penstriman muzik)
+
+ ● Akaun selain Akaun Google (dan sebarang data yang berkaitan)
+
+ ● Kenalan &amp; kalendar disegerakkan ke perkhidmatan selain Google atau iCloud®
+
+ ● Penanda halaman daripada Safari®
+
+ Lampiran iMessage® akan tersedia di Foto Google > Folder peranti > Lampiran mesej.
+
+ Untuk mendapatkan butiran lanjut dan membantu menyalin sesetengah data ini, lawati g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Tidak cukup ruang</string>
+    <string name="restore_choice_total_text">daripada %1$s anda yang tersedia / pemindahan %2$s</string>
+    <string name="restore_error_message">Kesilapan telah berlaku dengan pemulihan. Harap maaf.</string>
+    <string name="restore_item_appdata">Data apl</string>
+    <string name="restore_item_calendar">Kalendar</string>
+    <string name="restore_item_calendar_ical_description">Kalendar iOS®, Kalendar Google</string>
+    <string name="restore_item_calendar_ical_off_description">Kalendar Google masih akan menyegerak</string>
+    <string name="restore_item_calendar_sync_description">Kalendar Google akan menyegerak</string>
+    <string name="restore_item_call_logs">Sejarah panggilan</string>
+    <string name="restore_item_contacts">Kenalan</string>
+    <string name="restore_item_device_settings_description">Kata laluan Wi-Fi &amp; banyak lagi</string>
+    <string name="restore_item_downloads">Muat turun</string>
+    <string name="restore_item_email">E-mel</string>
+    <string name="restore_item_email_description">Gmail akan menyegerak</string>
+    <string name="restore_item_message_attachments">Lampiran mesej</string>
+    <string name="restore_item_messages">Mesej</string>
+    <string name="restore_item_music">Muzik</string>
+    <string name="restore_item_photos">Foto &amp; video</string>
+    <string name="restore_item_settings">Tetapan peranti</string>
+    <string name="restore_item_sms">Mesej SMS</string>
+    <string name="restore_item_will_be_synced_text">Pilihan ini akan disegerakkan ke telefon anda</string>
+    <string name="restore_progress_title">Memulihkan…</string>
+    <string name="small_time_duration">Kurang daripada seminit</string>
+    <string name="source_connected_description">Menyediakan…</string>
+    <string name="source_connected_title">Disambungkan ke %1$s anda</string>
+    <string name="source_copying_description">Data yang anda pilih sedang disalin ke telefon baharu anda</string>
+    <string name="source_copying_title">Menyalin…</string>
+    <string name="source_default_target_device_name">peranti baharu</string>
+    <string name="source_notification_device_disconnected">Sambung semula kabel anda</string>
+    <string name="source_notification_text">Pemindahan telefon ke telefon sedang berjalan</string>
+    <string name="source_notification_title">Pemindahan Data</string>
+    <string name="source_success_description">Selesaikan persediaan pada %1$s anda.</string>
+    <string name="source_success_screen_title">Selesai!</string>
+    <string name="source_unplugged_description">Sambung semula ke %1$s anda</string>
+    <string name="source_unplugged_title">Kabel dicabut</string>
+    <string name="source_waiting_title">Teruskan presediaan pada %1$s anda</string>
+    <string name="stop_copying_dialog_continue_button">Ketepikan</string>
+    <string name="stop_copying_dialog_message_before_transfer">Data anda tidak disalin ke telefon baharu anda</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sesetengah data anda tidak disalin ke telefon baharu anda</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Jangan Salin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Berhenti</string>
+    <string name="stop_copying_dialog_title_before_transfer">Jangan salin?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Berhenti menyalin?</string>
+    <string name="storage_management_wear_descriptive_text">Apl menggunakan storan peranti anda untuk meniru data ke storan sesuai dipakai.</string>
+    <string name="storage_management_wear_manage_size_label">Urus storan sesuai dipakai</string>
+    <string name="storage_management_wear_size_label">Storan sesuai dipakai</string>
+    <string name="storage_managment_all_storage_descriptive_text">Jumlah data yang digunakan oleh perkhidmatan Google Play, termasuk enjin carian dan data lain.</string>
+    <string name="storage_managment_clear_all_data">Padam semua data</string>
+    <string name="storage_managment_computing_size">Mengira...</string>
+    <string name="storage_managment_icing_size_label">Data Carian</string>
+    <string name="storage_managment_manage_icing_button">Urus data carian</string>
+    <string name="storage_managment_search_index_descriptive_text">Kami mempercepat carian pada peranti anda dengan menyediakan enjin carian untuk digunakan oleh Apl anda.</string>
+    <string name="storage_managment_title">Storan perkhidmatan Google Play</string>
+    <string name="storage_managment_total_size_label">Jumlah storan</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="suw_next_button_label">Seterusnya</string>
+    <string name="target_default_source_device_model">peranti lama</string>
+    <string name="target_device_not_supported_cant_continue_description">Anda perlu memilih cara lain untuk menyalin data</string>
+    <string name="target_device_not_supported_cant_continue_title">Telefon lain tidak disokong</string>
+    <string name="target_device_not_supported_try_restarting_description">"Cabut kabel dan mulakan semula telefon lama anda, kemudian sambung semula kabel itu dan ikut arahan pada Pixel anda.
+
+Jika anda asyik melihat ralat ini, anda mungkin perlu menyalin menggunakan cara lain."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon mungkin tidak disokong</string>
+    <string name="target_smart_device_timeout_add_account">TAMBAH AKAUN</string>
+    <string name="target_smart_device_timeout_description">Jika mahu, anda boleh cuba menambah akaun secara manual</string>
+    <string name="target_smart_device_timeout_dismiss">TOLAK</string>
+    <string name="target_smart_device_timeout_title">Ada masalah?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefon disambungkan</string>
+    <string name="toast_reconnect_cable">Sambung semula kabel anda</string>
+    <string name="transfer_finished_fragment_title">Menambah kemasan akhir…</string>
+    <string name="transfer_summary_copied">Data disalin</string>
+    <string name="transfer_summary_fragment_description">Anda boleh mencabut kabel.</string>
+    <string name="transfer_summary_fragment_finish">SELESAI</string>
+    <string name="transfer_summary_fragment_title">Telefon anda hampir siap</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Sesetengah foto anda tidak disalin. <annotation id="transfer_summary_learn_more">Ketahui lebih lanjut</annotation></string>
+    <string name="transfer_summary_not_copied">Data tidak disalin</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Disalin</string>
+    <string name="transfer_summary_will_sync">Data akan disegerakkan selepas persediaan</string>
+    <string name="transferring_fragment_calculating_remaining_time">Mengira baki masa…</string>
+    <string name="transferring_fragment_header">Menyalin…</string>
+    <string name="transferring_fragment_remaining_time">%1$s lagi</string>
+    <string name="trust_instructions_description">Untuk meneruskan, semak peranti iPhone® anda dan luluskan sambungan</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari dan iTunes ialah tanda dagangan Apple Inc. yang berdaftar di A.S. dan negara-negara lain.</string>
+</resources>

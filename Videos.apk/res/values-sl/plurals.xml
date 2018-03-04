@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d oseb je to ocenilo s toliko zvezdicami: %1$s</item>
+        <item quantity="one">%2$d oseba je to ocenila s toliko zvezdicami: %1$s</item>
+        <item quantity="two">%2$d osebi sta to ocenili s toliko zvezdicami: %1$s</item>
+        <item quantity="few">%2$d osebe so to ocenile s toliko zvezdicami: %1$s</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Poteče čez %1$d dni</item>
+        <item quantity="one">Poteče čez %1$d dan</item>
+        <item quantity="two">Poteče čez %1$d dneva</item>
+        <item quantity="few">Poteče čez %1$d dni</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Poteče čez %1$d ur</item>
+        <item quantity="one">Poteče čez %1$d uro</item>
+        <item quantity="two">Poteče čez %1$d uri</item>
+        <item quantity="few">Poteče čez %1$d ure</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Še %1$d</item>
+        <item quantity="one">Še %1$d</item>
+        <item quantity="two">Še %1$d</item>
+        <item quantity="few">Še %1$d</item>
+    </plurals>
+</resources>

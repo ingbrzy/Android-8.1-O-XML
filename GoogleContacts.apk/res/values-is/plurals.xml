@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d tengiliðum bætt við flokkinn %2$s</item>
+        <item quantity="one">%1$d tengilið bætt við flokkinn %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Bætir %1$d tengiliðum við flokkinn %2$s</item>
+        <item quantity="one">Bætir %1$d tengilið við flokkinn %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Fara yfir tillögur að upplýsingum fyrir %d tengiliði</item>
+        <item quantity="one">Fara yfir tillögur að upplýsingum fyrir %d tengilið</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d rusltengiliðir</item>
+        <item quantity="one">%d rusltengiliður</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d tvíteknir tengiliðir</item>
+        <item quantity="one">%d tvítekinn tengiliður</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nýleg símtöl • Síðast %2$s</item>
+        <item quantity="one">%1$d nýlegt símtal • Síðast %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Tengiliðum hefur þegar verið bætt við flokk %1$s</item>
+        <item quantity="one">Tengiliðum hefur þegar verið bætt við flokk %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d tengiliðir</item>
+        <item quantity="one">%d tengiliður</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d tengiliðir · %2$s</item>
+        <item quantity="one">%1$d tengiliður · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d tengiliðum eytt</item>
+        <item quantity="one">%1$d tengilið eytt</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Þessir tengiliðir verða fjarlægðir úr Google tengiliðum og öllum samstilltum tækjum</item>
+        <item quantity="one">Þessir tengiliðir verða fjarlægðir úr Google tengiliðum og öllum samstilltum tækjum</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d tengiliðir í öðrum reikningum</item>
+        <item quantity="one">%1$d tengiliður í öðrum reikningum</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d tengiliðir</item>
+        <item quantity="one">%1$d tengiliður</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 tengiliðir • ^2</item>
+        <item quantity="one">^1 tengiliður • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Flytja %1$d tengiliði í %2$s?</item>
+        <item quantity="one">Flytja %1$d tengilið í %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d tengiliðir voru fluttir</item>
+        <item quantity="one">%d tengiliður var fluttur</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Flutningi á %d tengiliðum er lokið</item>
+        <item quantity="one">Flutningi á %d tengilið er lokið</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Flytur %d tengiliði</item>
+        <item quantity="one">Flytur %d tengilið</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d tengiliðir afritaðir á %2$s</item>
+        <item quantity="one">%1$d tengiliður afritaður á %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Flytja inn af SIM-kortum</item>
+        <item quantity="one">Flytja inn af SIM-kortum</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d tengiliðir</item>
+        <item quantity="one">%d tengiliður</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-tengiliðir fluttir inn</item>
+        <item quantity="one">%d SIM-tengiliður fluttur inn</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Deila tengiliðum í gegnum</item>
+        <item quantity="one">Deila tengiliðum í gegnum</item>
+    </plurals>
+</resources>

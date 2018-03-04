@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Següent</string>
+    <string name="suw_back_button_label">Enrere</string>
+    <string name="suw_more_button_label">Més</string>
+    <string name="vzw_wfc_activation_error">"No s'han pogut activar les trucades per Wi-Fi. Torna-ho a provar més tard."</string>
+    <string name="vzw_address_update_error">"En aquests moments no es pot actualitzar l'adreça d'emergències actual. Torna-ho a provar més tard."</string>
+    <string name="emergency_address_app_label">"Gestió de l'adreça d'emergències"</string>
+    <string name="progress_text">Espera…</string>
+    <string name="vzw_tos_title">Activa les Trucades per Wi-Fi</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="vzw_tos_text">"Les Trucades per Wi-Fi permeten fer trucades utilitzant la Wi-Fi quan no hi ha cap xarxa mòbil disponible.
+
+Per configurar aquesta funció, cal introduir una adreça dels EUA, que serà la que faran servir els serveis d'emergència de la teva ubicació si fas una trucada d'emergència (E911) per Wi-Fi des d'aquest telèfon en territori dels EUA.
+
+Et recomanem que canviïs aquesta adreça quan facis trucades des d'una altra xarxa Wi-Fi perquè la informació sobre la teva ubicació sigui correcta. Pots canviar la ubicació en qualsevol moment des del menú de configuració de Trucades per Wi-Fi."</string>
+    <string name="vzw_tos_link">Termes i condicions</string>
+    <string name="tos_continue">Continua</string>
+    <string name="vzw_e911_title">"Informació de la ubicació d'emergència"</string>
+    <string name="vzw_e911_description"><b>"IMPORTANT: CAL UNA ADREÇA D'EMERGÈNCIES PER AL 911"</b>"
+Per activar Trucades per Wi-Fi, introdueix l'adreça dels EUA on vols que es dirigeixin els serveis d'emergència si truques al 911. Pots canviar aquesta adreça en qualsevol moment des de Configuració. És molt important que l'actualitzis si canvies d'ubicació."</string>
+    <string name="vzw_e911_warning"><b>"ADVERTIMENT: LIMITACIONS DE LES TRUCADES AL NÚMERO D'EMERGÈNCIA 911"</b>"
+Quan truquis al 911, digues sempre a l'operador on ets. La trucada al 911 només es farà per Wi-Fi si la xarxa mòbil no està disponible. És possible que les trucades al 911 fetes per Wi-Fi vagin amb retard o no s'estableixin correctament, per exemple, si el sistema d'emergències no reconeix l'adreça, si no hi ha corrent elèctric o si la connexió Wi-Fi no funciona. Els serveis d'emergència es dirigiran a l'adreça que has indicat abans, de manera que l'has d'actualitzar si canvies d'ubicació."</string>
+    <string name="house_number">"Número de l'adreça"</string>
+    <string name="street">Carrer</string>
+    <string name="apt_suite_number">Apartament, local, etc.</string>
+    <string name="city">Ciutat</string>
+    <string name="state">Estat</string>
+    <string name="zip_code">Codi postal</string>
+    <string name="save">Desa</string>
+    <string name="vzw_address_confirm_text_part1">"No hem trobat l'adreça que has introduït perquè no hem localitzat l'adreça postal o perquè la ciutat, l'estat o el codi postal no són correctes."</string>
+    <string name="vzw_address_confirm_text_part2">"Si la ciutat, l'estat o el codi postal no són correctes, toca %1$s; si ho són, toca %2$s."</string>
+    <string name="save_anyway">Desa igualment</string>
+    <string name="edit_address">"Edita l'adreça"</string>
+    <string name="ok">"D'acord"</string>
+    <string name="vzw_address_select_text">"No hem trobat l'adreça que has introduït:"</string>
+    <string name="vzw_address_alternate_text">Potser volies dir:</string>
+    <string name="vzw_partial_confirm_head">"Els proveïdors de serveis d'emergència no han pogut verificar l'adreça que has introduït."</string>
+    <string name="vzw_partial_confirm_text">"Confirmes que vols utilitzar aquesta adreça en cas d'emergència?"</string>
+    <string name="vzw_partial_failure_text_part1">"És possible que la ciutat, l'estat o el codi postal que has introduït no siguin correctes."</string>
+    <string name="vzw_partial_failure_text_part2">Comprova l’adreça i torna-ho a provar.</string>
+    <string name="vzw_address_update_success_toast">"S'ha actualitzat l'adreça per a emergències"</string>
+    <string name="connect_to_wifi_or_web_portal_title">La Wi-Fi està desactivada</string>
+    <string name="connect_to_wifi_or_web_portal_message">"Pots configurar la funció Trucades per Wi-Fi perquè utilitzi la xarxa mòbil, però hauràs d'activar la Wi-Fi i connectar-te a una xarxa per utilitzar-la."</string>
+    <string name="button_turn_on_wifi">Activa la Wi-fi</string>
+    <string name="button_setup_web_portal">Continua amb la configuració</string>
+</resources>

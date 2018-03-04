@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Удалить поисковый запрос</string>
+    <string name="place_autocomplete_search_hint">Поиск</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="anomaly_entry_system">Система Android</string>
+    <string name="background_battery_usage_description">Зафиксировано высокое энергопотребление в фоновом режиме.</string>
+    <string name="battery_history_days">%1$d дн. %2$d ч. %3$d мин. %4$d сек.</string>
+    <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d сек.</string>
+    <string name="battery_history_minutes">%1$d мин. %2$d сек.</string>
+    <string name="battery_history_seconds">%1$d сек.</string>
+    <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч. %3$d мин.</string>
+    <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
+    <string name="notification_channel_name">Уведомление о низком заряде батареи</string>
+    <string name="time_remaining_warning_subtext">Осталось примерно %1$s при текущем уровне использования</string>
+    <string name="time_remaining_warning_text">Батарея скоро разрядится</string>
+    <string name="usage_alerts_empty_state">Нет предупреждений с момента последней полной зарядки</string>
+    <string name="usage_alerts_title">Предупреждения</string>
+</resources>

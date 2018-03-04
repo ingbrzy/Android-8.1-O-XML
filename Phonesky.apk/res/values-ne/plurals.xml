@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">तपाईँको मूल्याङ्कन: %1$s तारा</item>
+        <item quantity="one">तपाईँको मूल्याङ्कन: %1$s तारा</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d समीक्षाहरू</item>
+        <item quantity="one">%1$d समीक्षा</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d तारा मूल्याङ्कनको लागि समीक्षाहरू %2$d</item>
+        <item quantity="one">%1$d तारा मूल्याङ्कनको लागि समीक्षा %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">स्थापनाका प्रक्रियाहरू रोकिए</item>
+        <item quantity="one">स्थापनाको प्रक्रिया रोकियो</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">अनुप्रयोगहरूलाई %1$d दिन अघि स्क्यान गरिएको थियो</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d हानिकारक अनुप्रयोगहरू हटाइए। %2$s।</item>
+        <item quantity="one">%1$d हानिकारक अनुप्रयोग हटाइयो। %2$s।</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d अद्यावधिकहरू अनुमोदन चाहिन्छ</item>
+        <item quantity="one">%1$d अद्यावधिकलाई अनुमोदन चाहिन्छ</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d नयाँ अद्यावधिकहरू</item>
+        <item quantity="one">%1$d नयाँ अद्यावधिक</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d अद्यावधिकहरू उपलब्ध</item>
+        <item quantity="one">%1$d अद्यावधिक उपलब्ध</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">सबै अद्यावधिक गर्नुहोस्</item>
+        <item quantity="one">अद्यावधिक</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d अनुप्रयोगहरू अद्यावधिक गरियो</item>
+        <item quantity="one">%1$d अनुप्रयोग अद्यावधिक गरियो</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ताराहरू</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s तारा</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b> %1$s &lt;/b> %2$s तारा - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s तारा - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b>%2$s ताराहरू - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>%2$s तारा - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d प्रयोगकर्ताहरूले यो समीक्षा सहयोगी भएको पाए। टिप्पणीलाई उपयोगी रूपमा चिन्ह लगाउनुहोस्</item>
+        <item quantity="one">%1$d प्रयोगकर्ताले यो समीक्षा सहयोगी भएको पाए। टिप्पणीलाई उपयोगी रूपमा चिन्ह लगाउनुहोस्</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d प्रयोगकर्ताहरूले यो समीक्षा सहयोगी भएको पाए। उपयोगीको रूपमा टिप्पणीबाट चिन्ह हटाउनुहोस्।</item>
+        <item quantity="one">%1$d प्रयोगकर्ताले यो समीक्षा सहयोगी भएको पाए। उपयोगीको रूपमा टिप्पणीबाट चिन्ह हटाउनुहोस्।</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">यसलाई मूल्याङ्न गरियो &lt;b>%1$s ताराहरू&lt;/b></item>
+        <item quantity="one">यसलाई मूल्याङ्कन गरियो &lt;b>%1$s तारा&lt;b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s समीक्षाहरूमा</item>
+        <item quantity="one">%1$s समीक्षामा</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s ताराहरू&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s तारा&lt;/b>%2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">अन्तिम प्रयोग गरिएको %1$d दिन अघि</item>
+        <item quantity="one">अन्तिम प्रयोग गरिएको %1$d दिन अघि</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">चयन गरिएका %1$d अनुप्रयोगहरू पुनर्स्थापना गर्नुहोस्</item>
+        <item quantity="one">चयन गरिएको अनुप्रयोग पुनर्स्थापना गर्नुहोस्</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ताराहरू</item>
+        <item quantity="one">तारा</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">अनुप्रयोगहरूलाई चाँडै नै स्थापना गरिनेछ।</item>
+        <item quantity="one">अनुप्रयोगलाई चाँडै नै स्थापना गरिनेछ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">अनुप्रयोगका अद्यावधिकहरूलाई चाँडै नै स्थापना गरिनेछ।</item>
+        <item quantity="one">अनुप्रयोगको अद्यावधिकलाई चाँडै नै स्थापना गरिनेछ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">को अन्तिम प्रयोग %1$d दिन अघि</item>
+        <item quantity="one">को अन्तिम प्रयोग %1$d दिन अघि</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">को अन्तिम प्रयोग %1$d महिना अघि</item>
+        <item quantity="one">को अन्तिम प्रयोग %1$d महिना अघि</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकहरूलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं भण्डारण सम्बन्धी सेटिङहरूमा गई मिडिया फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+        <item quantity="one">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं भण्डारण सम्बन्धी सेटिङहरूमा गई मिडिया फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकहरूलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं &lt;a href=\"\">सेटिङहरू > भण्डारण&lt;/a> मा गई मिडिया सम्बन्धी फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+        <item quantity="one">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं &lt;a href=\"\">सेटिङहरू > भण्डारण&lt;/a> मा गई मिडिया सम्बन्धी फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकहरूलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं सेटिङहरू > भण्डारणमा गई मिडिया सम्बन्धी फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+        <item quantity="one">यस यन्त्रमा अनुप्रयोग वा अद्यावधिकलाई स्थापना गर्न तपाईंलाई अब नचाहिने अनुप्रयोगहरू मेट्नुहोस्। तपाईं सेटिङहरू > भण्डारणमा गई मिडिया सम्बन्धी फाइलहरूलाई मेटाएर पनि ठाउँ खाली गर्न सक्नुहुन्छ।</item>
+    </plurals>
+</resources>

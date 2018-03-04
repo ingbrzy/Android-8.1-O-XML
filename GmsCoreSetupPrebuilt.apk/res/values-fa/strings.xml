@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="app_has_in_app_purchases">خریدهای درون‌برنامه</string>
+    <string name="app_has_permissions">‏مجوزها: %s</string>
+    <string name="app_has_runtime_permissions">برنامه مجوز درخواست خواهد کرد</string>
+    <string name="app_picker_app_already_installed_toast">این برنامه از قبل نصب شده است</string>
+    <string name="app_picker_loading">درحال پیدا کردن برنامه‌های دردسترس…</string>
+    <string name="app_picker_loading_toast">برنامه‌های دردسترس به‌زودی بار می‌شوند</string>
+    <string name="app_picker_no_apps">برنامه‌ای انتخاب نشده است</string>
+    <string name="app_picker_no_apps_found">برنامه‌ای پیدا نشد</string>
+    <string name="apps_in_app_purchases_disclaimer_all">خریدهای درون‌برنامه به ^1 شما منتقل نخواهند شد.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">برخی خریدهای درون‌برنامه ممکن است به ^1 شما منتقل نشوند.</string>
+    <string name="apps_permissions_described_v2">"‏فقط برنامه‌های پرطرفدار و رایگان iOS®‎ می‌توانند با برنامه‌های Android مطابقت داده شوند. اکثر خریدهای درون‌برنامه منتقل نخواهند شد. بعد از پایان راه‌اندازی، می‌توانید در «فروشگاه Play» برنامه‌های بیشتری پیدا کنید.
+
+شاید نیاز باشد از ابتدا به بعضی از برنامه‌ها اجازه دهید به قابلیت‌ها یا اطلاعات خاصی در دستگاهتان دسترسی داشته باشند. مجوزها در گروه‌های مجوز سازمان‌دهی می‌شوند. با انتخاب نصب این برنامه‌ها، با مجوزهایی که بخشی از هر گروه هستند موافقت می‌کنید. توضیحی درباره هر گروه مجوزها در زیر آمده است.
+
+شاید بعضی از برنامه‌ها به موافقت با مجوزهای اولیه نیاز نداشته باشند. وقتی از یکی از این برنامه‌ها استفاده می‌کنید، می‌توانید قبل از اینکه برنامه بتواند از نوع داده خاصی استفاده کند، مجوز مربوط به آن را بپذیرید یا آن را رد کنید.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">با نصب هر برنامه، با مجوزهای آن موافقت می‌کنید. <annotation id="apps_permissions_learn_more">بیشتر بدانید</annotation></string>
+    <string name="auto_restore_summary">هنگام نصب مجدد یک برنامه، تنظیمات و داده‌های پشتیبان‌گیری شده بازیابی شود</string>
+    <string name="auto_restore_title">بازیابی خودکار</string>
+    <string name="backup_configure_account_default_summary">هیچ حسابی درحال حاضر داده‌های پشتیبان‌گیری‌شده را ذخیره نمی‌کند</string>
+    <string name="backup_configure_account_title">حساب پشتیبان</string>
+    <string name="backup_data_summary">‏پشتیبان‌گیری از داده‌های برنامه، گذرواژه‌های Wi-Fi و سایر تنظیمات در Google Drive</string>
+    <string name="backup_data_summary_full">"‏پشتیبان‌گیری خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) از راه دور.
+
+وقتی پشتیبان‌گیری خودکار را روشن می‌کنید، داده‌های دستگاه و برنامه به‌صورت دوره‌ای از راه دور ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (براساس تنظیمات تولیدکننده) ذخیره کرده است، از جمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها."</string>
+    <string name="backup_data_title">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="backup_erase_dialog_message">‏پشتیبان‌گیری از گذرواژه‌های Wi-Fi، نشانک‌ها، سایر تنظیمات و داده‌های برنامه متوقف شود و همچنین همه نسخه‌های موجود در Google Drive پاک شود؟</string>
+    <string name="backup_erase_dialog_message_full">‏پشتیبان‌گیری از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) متوقف شود و همچنین همه رونوشت‌ها در Google Drive پاک شوند؟</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">هنگام باز کردن تنظیمات عکس خطایی روی داد</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏اگر پشتیبان‌گیری خودکار را روشن کنید:
+
+ ● تنظیمات دستگاه و داده‌های برنامه‌ها به‌صورت دوره‌ای در یک پوشه خصوصی در Google Drive ذخیره می‌شوند. داده‌های برنامه می‌تواند شامل هر نوع داده‌ای که آن برنامه (براساس تنظیمات تولیدکننده) ذخیره کرده است باشد، ازجمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها.
+
+ فایل‌های بزرگ یا فایل‌هایی که طبق انتخاب تولیدکنندگان در سرویس وارد نمی‌شوند، پشتیبان‌گیری نخواهند شد.
+
+ ● عکس‌ها و ویدئوهای ضبط‌شده توسط این دستگاه با کتابخانه Google Photos همگام‌سازی می‌شوند تا بتوانند در همه دستگاه‌های شما جستجو، ویرایش، حذف و به اشتراک گذاشته شوند.
+
+ به‌طور پیش‌فرض، عکس‌ها و ویدئوها با وضوح کامل بارگذاری می‌شوند. این موارد در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند.
+
+ ● مخاطبین و داده‌های مرتبط از این دستگاه با Google Contacts همگام‌سازی می‌شود. می‌توانید از برنامه Google Contacts برای جستجو، ویرایش، حذف و به اشتراک گذاشتن مخاطبین در همه دستگاه‌هایتان استفاده کنید.
+
+ ● ورودی‌های تقویم و داده‌های مرتبط از این دستگاه با «تقویم Google» همگام‌سازی می‌شود. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و به اشتراک گذاتشن مخاطبین در همه دستگاه‌هایتان استفاده کنید.
+
+ داده‌های پشتیبان‌گیری‌شده در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"‏وقتی پشتیبان‌گیری خودکار را روشن می‌کنید:
+
+ ● تنظیمات دستگاه و داده‌های برنامه به‌صورت منظم در یک پوشه خصوصی در Google Drive ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (بسته به تنظیمات برنامه‌نویس) ذخیره کرده است، ازجمله داده‌های بالقوه حساس مثل مخاطبین، پیام‌ها و عکس‌ها.
+
+ از فایل‌های بزرگ یا فایل‌هایی که طبق انتخاب برنامه‌نویسان از این سرویس مستثنی شدند، پشتیبان‌گیری نمی‌شود.
+
+ ● مخاطبین و داده‌های مرتبط این دستگاه در «تقویم‌های Google» همگام‌سازی می‌شوند. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و اشتراک‌گذاری مخاطبین از هر یک از دستگاه‌هایتان استفاده کنید.
+
+ ● ورودی‌های تقویم و داده‌های مرتبط این دستگاه در «تقویم Google»‌ همگام‌سازی می‌شوند. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و اشتراک‌گذاری مخاطبین از هر یک از دستگاه‌هایتان استفاده کنید.
+
+ داده‌های پشتیبان‌گیری‌شده در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند."</string>
+    <string name="backup_opt_in_backup_description_extra">‏تقویم، مخاطبین، عکس‌ها و ویدئوها با حساب Google شما همگام‌سازی می‌شوند و می‌توانند در تمام خدمات استفاده شوند.</string>
+    <string name="backup_opt_in_backup_description_v2">پشتیبان‌گیری خودکار، این اطمینان را به‌وجود می‌آورد که می‌توانید به‌آسانی در هرزمانی تلفن‌هایتان را بازیابی کنید یا تغییر دهید. <annotation id="backup_opt_in_learn_more">بیشتر بدانید</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"‏با این انتخاب، پشتیبان‌گیری برای این موارد خاموش می‌شود:
+
+برنامه‌ها و داده‌های برنامه
+سابقه تماس
+تنظیمات دستگاه
+عکس‌ها و ویدیوها
+پیامک
+
+تقویم و مخاطبین همچنان در حساب Google شما همگام‌سازی می‌شوند. بعد از پایان راه‌اندازی، می‌توانید تنظیمات همگام‌سازی را در "<annotation id="backup_opt_in_settings_instructions">تنظیمات > حساب‌ها > Google</annotation> تغییر دهید.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">پشتیبان‌گیری خاموش شود؟</string>
+    <string name="backup_opt_in_backup_list">"‏برنامه‌ها و داده‌های برنامه
+تقویم
+سابقه تماس
+مخاطبین
+تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi‏)
+عکس‌ها و ویدیوها
+پیامک"</string>
+    <string name="backup_opt_in_backup_list_header">پشتیبان‌گیری شامل این موارد است:</string>
+    <string name="backup_opt_in_backup_title">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="backup_opt_in_disable_backup">خاموش کردن پشتیبان‌گیری</string>
+    <string name="backup_photos_update">‏لطفاً Google Photos را به‌روز کنید</string>
+    <string name="backup_settings_activity_backup_title">پشتیبان‌گیری</string>
+    <string name="backup_settings_activity_title">پشتیبان‌گیری و بازنشانی</string>
+    <string name="byteShort">بایت</string>
+    <string name="cancel_copy_button_text">کپی نشود</string>
+    <string name="close_button_label">بستن</string>
+    <string name="cloud_restore_app_picker_button">بازیابی</string>
+    <string name="cloud_restore_app_picker_description_no_apps">پشتیبان شما برنامه‌ای ندارد</string>
+    <string name="cloud_restore_app_picker_title">برنامه‌ها را برای بازیابی انتخاب کنید</string>
+    <string name="common_accept">پذیرفتن</string>
+    <string name="common_add_account_label">افزودن حساب</string>
+    <string name="common_ads_settings_title">تبلیغات</string>
+    <string name="common_agree">موافق</string>
+    <string name="common_app_name">‏خدمات Google Play</string>
+    <string name="common_asm_preferences_settings_title">تنظیمات برگزیده حساب</string>
+    <string name="common_asm_privacy_settings_title">اطلاعات شخصی و حریم خصوصی</string>
+    <string name="common_asm_security_settings_title">ورود به سیستم و امنیت</string>
+    <string name="common_audience_edit_button_label">ویرایش</string>
+    <string name="common_cancel">لغو</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏Hangouts راه‌اندازی نمی‌شود (خطای مجوز).</string>
+    <string name="common_car_permission_desc">دسترسی به سرویس خودرو.</string>
+    <string name="common_car_permission_label">سرویس خودرو</string>
+    <string name="common_chips_label_empty_circles">بدون حلقه</string>
+    <string name="common_chips_label_extended_circles">حلقه‌های گسترده</string>
+    <string name="common_chips_label_only_you">فقط شما</string>
+    <string name="common_chips_label_public">عمومی</string>
+    <string name="common_chips_label_your_circles">حلقه‌های شما</string>
+    <string name="common_choose_account_label">یک حساب انتخاب کنید</string>
+    <string name="common_clear_app_data_menu_item">پاک کردن داده‌های برنامه</string>
+    <string name="common_connected">متصل</string>
+    <string name="common_connected_apps_settings_title">برنامه‌های متصل</string>
+    <string name="common_connecting">درحال اتصال…</string>
+    <string name="common_continue">ادامه</string>
+    <string name="common_disagree">مخالف</string>
+    <string name="common_disconnect">قطع ارتباط</string>
+    <string name="common_done">تمام</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">از:</string>
+    <string name="common_games_settings_title">‏بازی‌های Play</string>
+    <string name="common_get_started">شروع</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">فعال کردن</string>
+    <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">خطا</string>
+    <string name="common_google_play_services_install_button">نصب</string>
+    <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+    <string name="common_google_play_services_update_text">‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="common_google_play_services_updating_title">‏خدمات Google Play درحال به‌روزرسانی</string>
+    <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏سرویس‌های Google Play با معماری اشتباه نصب شده است.</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏سرویس‌های Google Play با معماری (%1$s) نصب شده است که متفاوت از معماری دستگاه شما (%2$s) است.</string>
+    <string name="common_google_play_services_wrong_architecture_title">معماری اشتباه</string>
+    <string name="common_google_settings">‏تنظیمات Google‎</string>
+    <string name="common_google_settings_account">حساب</string>
+    <string name="common_google_settings_credentials_title">‏Smart Lock برای گذرواژه‌ها</string>
+    <string name="common_google_settings_developer">برنامه‌نویس</string>
+    <string name="common_google_settings_services">سرویس‌ها</string>
+    <string name="common_got_it">متوجه شدم</string>
+    <string name="common_install">نصب</string>
+    <string name="common_learn_more">بیشتر بدانید</string>
+    <string name="common_list_apps_menu_help">راهنما</string>
+    <string name="common_list_apps_menu_help_and_feedback">راهنما و بازخورد</string>
+    <string name="common_loading">در حال بارکردن…</string>
+    <string name="common_location_settings_title">مکان</string>
+    <string name="common_magictether_settings_title">اتصال فوری به اینترنت با تلفن همراه</string>
+    <string name="common_maps_settings_title">‏Maps و Latitude</string>
+    <string name="common_mdm_feature_name">‏مدیریت دستگاه Android</string>
+    <string name="common_missing_url_viewer">برای نمایش نشانی وب خارجی، بیننده وجود ندارد.</string>
+    <string name="common_more_options">گزینه‌های بیشتر</string>
+    <string name="common_networking_settings_title">ایجاد شبکه</string>
+    <string name="common_no_browser_for_restricted_url">دسترسی محدودشده. مرورگری پیدا نشد.</string>
+    <string name="common_no_devices_found">دستگاهی پیدا نشد</string>
+    <string name="common_no_network">در دسترس نیست زیرا دستگاه آفلاین است</string>
+    <string name="common_no_thanks">نه متشكرم</string>
+    <string name="common_not_now">اکنون نه</string>
+    <string name="common_off">خاموش</string>
+    <string name="common_ok">تأیید</string>
+    <string name="common_on">روشن</string>
+    <string name="common_open_on_phone">باز کردن در تلفن</string>
+    <string name="common_open_source_licenses">مجوزهای منبع آزاد</string>
+    <string name="common_people_settings_title">مخاطبین</string>
+    <string name="common_permissions_enable_in_settings">فعال‌سازی در تنظیمات</string>
+    <string name="common_permissions_missing_end">برای ادامه، تنظیمات را باز کنید، سپس به مجوزها بروید و همه موارد فهرست شده را مجاز کنید.</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+برای فعال کردن، به
+تنظیمات >
+مجوزها >
+خدمات Google Play بروید"</string>
+    <string name="common_permissions_missing_start">‏تا زمانی‌ که به درخواست خدمات Google Play برای دسترسی به موارد زیر اجازه ندهید این برنامه کار نمی‌کند:</string>
+    <string name="common_permissions_open_settings">باز کردن تنظیمات</string>
+    <string name="common_phone">تلفن</string>
+    <string name="common_plus_settings_title">‫Google+‎‬</string>
+    <string name="common_privacy_policy">خط‌مشی رازداری</string>
+    <string name="common_restore">بازیابی</string>
+    <string name="common_retry">امتحان مجدد</string>
+    <string name="common_search_settings_title">جستجو</string>
+    <string name="common_security_ootp_setting_title">کد امنیتی</string>
+    <string name="common_security_settings_title">امنیت</string>
+    <string name="common_send">ارسال</string>
+    <string name="common_sending">درحال ارسال…</string>
+    <string name="common_set_up_nearby_device_settings_title">تنظیم دستگاه اطراف</string>
+    <string name="common_settings">تنظیمات</string>
+    <string name="common_signin_button_text">ورود به سیستم</string>
+    <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
+    <string name="common_something_went_wrong">مشکلی پیش آمد</string>
+    <string name="common_system_info">اطلاعات سیستم</string>
+    <string name="common_take_photo_label">عکس گرفتن</string>
+    <string name="common_terms_of_service">شرایط و ضوابط</string>
+    <string name="common_try_again">دوباره امتحان کنید</string>
+    <string name="common_turn_on_bluetooth">روشن کردن بلوتوث</string>
+    <string name="common_ui_confirm_deleting_button">حذف</string>
+    <string name="common_ui_confirm_deleting_checkbox">متوجه هستم و می‌خواهم حذف شود</string>
+    <string name="common_unknown">نامشخص</string>
+    <string name="common_update">به‌روزرسانی</string>
+    <string name="common_url_load_unsuccessful_message">‏دستگاه Android شما به سرویس اطلاعات متصل نیست. برای اینکه هم اکنون این اطلاعات را مشاهده کنید، با مرورگری در وب به %s مراجعه کنید.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏دستگاه Android شما به شبکه Wi-Fi متصل نیست. برای اینکه هم اکنون این اطلاعات را مشاهده کنید، با مرورگری در وب به %s مراجعه کنید.</string>
+    <string name="common_url_login_notice">ورود به سیستم به عنوان %1$s</string>
+    <string name="common_usage_and_diagnostics">استفاده و عیب‌یابی</string>
+    <string name="common_yesterday">دیروز</string>
+    <string name="confirm_copy_button_text">کپی</string>
+    <string name="contacts_number_device_and_icloud">‏%1$d iCloud®‎،‏ %2$d دستگاه</string>
+    <string name="contacts_number_device_and_icloud_with_google">‏Google Contacts،‏ %1$d iCloud®‎،‏ %2$d دستگاه</string>
+    <string name="contacts_number_device_and_sim_with_google">‏Google Contacts،‏ %1$d سیم‌کارت، %2$d دستگاه</string>
+    <string name="contacts_number_device_with_google">‏Google Contacts،‏ %1$d دستگاه</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d iCloud®‎</string>
+    <string name="contacts_number_sim_with_google">‏Google Contacts‏، %1$d سیم‌کارت</string>
+    <string name="copy_confirmation_description">‏داده‌هایی مانند حساب Google و برنامه‌هایتان را در تلفن جدیدتان کپی خواهید کرد</string>
+    <string name="copy_confirmation_title">در تلفن جدیدتان کپی شود؟</string>
+    <string name="d2d_app_picker_description_no_apps">برنامه‌ای پیدا نکردیم</string>
+    <string name="d2d_app_picker_title">برنامه‌ها</string>
+    <string name="d2d_migration_canceled_on_source">کپی لغو شد</string>
+    <string name="data_copied_fragment_description">داده‌های شما در تلفن جدیدتان کپی شد. می‌توانید کابل را جدا کنید.</string>
+    <string name="data_copied_fragment_description_cancel">توقف کپی کردن را انتخاب کردید، بنابراین فقط بعضی از داده‌ها در تلفن جدیدتان کپی شدند.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">توقف کپی کردن را انتخاب کردید، بنابراین هیچ داده‌ای در تلفن جدیدتان کپی نشده است.</string>
+    <string name="data_copied_fragment_description_error">مشکلی پیش آمد و نتوانستیم همه‌چیز را کپی کنیم.</string>
+    <string name="data_copied_fragment_description_error_no_data">مشکلی پیش آمد، بنابراین نتوانستیم داده‌هایتان را کپی کنیم.</string>
+    <string name="data_copied_fragment_no_data_title">کپی نشد</string>
+    <string name="data_copied_fragment_some_data_title">بعضی از داده‌ها کپی شدند</string>
+    <string name="data_copied_fragment_title">داده‌ها کپی شد</string>
+    <string name="device_backup_title">پشتیبان‌گیری دستگاه</string>
+    <string name="device_not_supported_fragment_new_device">به تلفن جدیدی متصل شدید. برای ادامه، دوباره به تلفن قبلی متصل شوید.</string>
+    <string name="device_not_supported_fragment_new_device_title">به تلفن قبلی دوباره وصل شوید</string>
+    <string name="device_not_supported_fragment_no_data_cable">این کابل نمی‌تواند داده منتقل کند. با‌ استفاده از کابل دیگری مجدداً متصل شوید و دوباره امتحان کنید.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">کابل دیگری امتحان کنید</string>
+    <string name="device_not_supported_fragment_retry_description">مطمئن شوید که تلفن قدیمی‌تان قفل نیست سپس کابل را جدا کرده و دوباره وصل کنید</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">مشکلی وجود دارد</string>
+    <string name="device_not_supported_ios_supervised_description">‏چون دستگاه iPhone®‎ شما تحت نظارت است، برای کپی کردن داده‌ها باید راه دیگری پیدا کنید</string>
+    <string name="device_picker_description">‏نسخه‌های پشتیبان در Google Drive ذخیره شده‌اند</string>
+    <string name="device_picker_empty">هیچ پشتیبانی با %1$s پیوند ندارد.</string>
+    <string name="device_picker_empty_title">هیچ پشتیبانی پیدا نشد</string>
+    <string name="device_picker_item">پشتیبان %1$s</string>
+    <string name="device_picker_last_used">آخرین استفاده: ^1</string>
+    <string name="device_picker_skip">بازیابی نشود</string>
+    <string name="device_picker_title">پشتیبانی را برای بازیابی انتخاب کنید</string>
+    <string name="disabled_by_admin_summary_text">توسط سرپرست سیستم کنترل می‌شود</string>
+    <string name="download_msg_error_invalid">بارگیری پیکربندی درستی نداشت.</string>
+    <string name="download_msg_in_progress">بارگیری در حال انجام است.</string>
+    <string name="download_msg_not_allowed_space">فضای کافی برای انجام بارگیری وجود ندارد.</string>
+    <string name="download_msg_pending">بارگیری در انتظار است.</string>
+    <string name="download_notification_description">%1$s این مورد را درخواست کرده است.</string>
+    <string name="download_notification_title">واکشی اطلاعات بیشتر</string>
+    <string name="drive_backup_account">حساب</string>
+    <string name="drive_backup_apps_in_backup">داده‌های پشتیبان‌گیری‌شده برنامه</string>
+    <string name="drive_backup_apps_last_backup">آخرین پشتیبان‌گیری</string>
+    <string name="drive_backup_apps_loading">درحال بارکردن…‏</string>
+    <string name="drive_backup_apps_screen_title">داده‌های برنامه</string>
+    <string name="drive_backup_content_apps_title">داده‌های برنامه</string>
+    <string name="drive_backup_content_calendar_dialog_message">‏رویدادهای ایجادشده در «تقویم Google» در همه دستگاه‌هایی که به سیستم حساب Google شما وارد شده‌اند، همگام‌سازی خواهد شد.</string>
+    <string name="drive_backup_content_calendar_title">تقویم</string>
+    <string name="drive_backup_content_callhistory_dialog_message">پشتیبان‌گیری شامل تاریخ و گیرنده تماس‌های ارسالی و دریافتی می‌شود.</string>
+    <string name="drive_backup_content_callhistory_title">سابقه تماس</string>
+    <string name="drive_backup_content_contacts_dialog_message">‏مخاطبین ایجادشده در Google Contacts در همه دستگاه‌هایی که به سیستم حساب Google شما وارد شده‌اند، همگام‌سازی خواهد شد.</string>
+    <string name="drive_backup_content_contacts_title">مخاطبین</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">‏پشتیبان‌گیری، شامل پیکربندی دستگاه مانند کاغذ‌دیواری، گذرواژه‌های WiFi و برنامه‌های پیش‌فرض می‌شود.</string>
+    <string name="drive_backup_content_devicesettings_title">تنظیمات دستگاه</string>
+    <string name="drive_backup_content_header">محتوا</string>
+    <string name="drive_backup_content_photos_dialog_message">‏حساب پشتیبان‌گیری اصلی شما تغییر کرد. می‌توانید حساب «پشتیبان‌گیری Google Photos» را نیز به %s تغییر دهید.</string>
+    <string name="drive_backup_content_photos_dialog_no">نپذیرفتن</string>
+    <string name="drive_backup_content_photos_dialog_title">حساب عکس و ویدیو هم تغییر کند؟</string>
+    <string name="drive_backup_content_photos_dialog_yes">تغییر</string>
+    <string name="drive_backup_content_photos_title">عکس‌ها و ویدئوها</string>
+    <string name="drive_backup_content_sms_dialog_message">پشتیبان‌گیری شامل پیام‌های ارسالی و دریافتی می‌شود اما رسانه فراپیام را شامل نمی‌شود.</string>
+    <string name="drive_backup_content_sms_title">پیام‌‌های نوشتاری (پیامک‌)</string>
+    <string name="drive_backup_content_status_dolly_action">متوجه شدم</string>
+    <string name="drive_backup_content_status_error">خطا در دریافت داده‌های آخرین همگام‌سازی</string>
+    <string name="drive_backup_content_status_lastsaved">‏آخرین پشتیبان‌گیری: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">‏آخرین همگام‌سازی: %1$s</string>
+    <string name="drive_backup_content_status_never">درانتظار پشتیبان</string>
+    <string name="drive_backup_content_status_sync_adapter_action">همگام‌سازی تنظیمات</string>
+    <string name="drive_backup_content_status_sync_off">همگام‌سازی خاموش است</string>
+    <string name="drive_backup_content_status_updating">درحال بررسی وضعیت…‏</string>
+    <string name="drive_backup_disabled_backuplist">"‏پشتیبان‌گیری شامل این موارد است:
+\u0009- داده‌های برنامه‌ها و بازی‌ها
+\u0009- سابقه تماس
+\u0009- تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi)
+\u0009- «تقویم Google»‏
+\u0009- ‏Google Contacts‏
+\u0009- ویدیوها و عکس‌ها
+\u0009- پیامک"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"‏پشتیبان‌گیری شامل این موارد می‌شود:
+\u0009- برنامه‌ها و داده‌های برنامه
+\u0009- سابقه تماس
+\u0009- تنظیمات دستگاه (شامل گذرواژه‌های Wi-Fi)
+\u0009- تقویم Google‏
+\u0009- Google Contacts
+\u0009- پیامک"</string>
+    <string name="drive_backup_disabled_by_device_owner">توسط سرپرست سیستم غیرفعال شده است</string>
+    <string name="drive_backup_disabled_detailedinfo">"‏«تقویم Google»‏، Google Contacts، عکس‌ها و ویدیوها با حساب Google شما همگام‌سازی می‌شوند و می‌توانند در همه سرویس‌ها استفاده شوند.
+
+حتی اگر پشتیبان‌گیری خاموش باشد، همگام‌سازی می‌تواند فعال شود. می‌توانید تنظیمات همگام‌سازی را در «تنظیمات > حساب‌ها > Google» تغییر دهید."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"‏«تقویم Google» و Google Contacts در «حساب Google» شما همگام‌سازی می‌شوند و ممکن است در سرویس‌های مختلف از آن‌ها استفاده شود.
+
+حتی اگر پشتیبان‌گیری خاموش باشد، می‌توان همگام‌سازی را فعال کرد. تنظیمات همگام‌سازی را می‌توان در «تنظیمات» > «حساب‌ها» > Google تغییر داد."</string>
+    <string name="drive_backup_disabled_introduction">با پشتیبان‌گیری خودکار مطمئن می‌شوید که درهر زمانی می‌توانید به‌آسانی تلفنتان را عوض یا بازیابی کنید.</string>
+    <string name="drive_backup_settings_title">پشتیبان‌گیری</string>
+    <string name="drive_backup_state">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"‏داده‌های پشتیبان‌گیری‌شده این دستگاه در Google Drive برای همیشه حذف خواهد شد.
+
+عکس‌ها و ویدیوهایی که قبلاً پشتیبان‌گیری شده‌اند همچنان در Google Drive دردسترس خواهند بود.
+
+«تقویم Google» و Google Contacts همچنان در حساب Google شما پشتیبان‌گیری خواهند شد. می‌توانید تنظیمات همگام‌سازی را در «تنظیمات > حساب‌ها > Google» تغییر دهید."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"‏داده‌های پشتیبان‌گیری‌شده این دستگاه در Google Drive برای همیشه حذف می‌شوند.
+
+«تقویم Google» و Google Contacts همچنان در «حساب Google» شما همگام‌سازی می‌شوند. تنظیمات همگام‌سازی را می‌توان در «تنظیمات» > «حساب‌ها» > Google تغییر داد."</string>
+    <string name="drive_backup_state_dialog_okaction">خاموش کردن و حذف</string>
+    <string name="drive_backup_state_dialog_title">تنظیم خاموش شود و پشتیبان پاک شود؟</string>
+    <string name="durationDayHour">%1$d روز و %2$d ساعت</string>
+    <string name="durationDayHours">%1$d روز و %2$d ساعت</string>
+    <string name="durationDays">%1$d روز</string>
+    <string name="durationHourMinute">%1$d ساعت و %2$d دقیقه</string>
+    <string name="durationHourMinutes">%1$d ساعت و %2$d دقیقه</string>
+    <string name="durationHours">%1$d ساعت</string>
+    <string name="durationMinute">%1$d دقیقه</string>
+    <string name="durationMinuteSecond">%1$d دقیقه %2$d ثانیه</string>
+    <string name="durationMinuteSeconds">%1$d دقیقه %2$d ثانیه</string>
+    <string name="durationMinutes">%1$d دقیقه</string>
+    <string name="durationSecond">%1$d ثانیه</string>
+    <string name="durationSeconds">%1$d ثانیه</string>
+    <string name="encryption_warning_fragment_description">"‏رمزگذاری پشتیبان‌گیری برای دستگاه iPhone®‎ روشن شده است. اگر خودتان آن را روشن نکردید احتمالاً سرپرست فناوری اطلاعات شما آن را روشن کرده است.
+
+تنها عکس‌، موسیقی و ویدیو را می‌توان کپی کرد. برای اطلاعات بیشتر به "<b>g.co/datatransferhelp</b> سربزنید.</string>
+    <string name="encryption_warning_fragment_title">رمزگذاری پشتیبان‌گیری</string>
+    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
+    <string name="fragment_usb_cant_find_adapter">آداپتور را پیدا نکردم</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"‏Quick Switch Adapter را که در همان جعبه ^1 شما ارائه شده است پیدا کنید.
+
+کابل را به آداپتور وصل کنید."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">آداپتور و کابل را وصل کنید</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">قفل تلفن قدیمی‌تان را باز کنید، سپس آداپتور را به این تلفن وصل کنید.</string>
+    <string name="fragment_usb_connect_both_phones_title">تلفن‌ها را به هم وصل کنید</string>
+    <string name="fragment_usb_dialog_cancel_description">اگر از کابل استفاده کنید، بیشتر محتوا را می‌توانید منتقل کنید. اگر کابل داخل جعبه، مناسب تلفن قدیمی‌تان نیست، از کابل شارژ یا داده‌ای که با تلفن قدیمی‌تان کار می‌کند استفاده کنید.</string>
+    <string name="fragment_usb_dialog_cancel_title">می‌توان داده‌ها را به‌روش دیگری کپی کرد؟</string>
+    <string name="fragment_usb_dont_have_cable">کابل ندارم</string>
+    <string name="fragment_usb_dont_have_old_phone">تلفن قدیمی‌ام را ندارم</string>
+    <string name="fragment_usb_find_cable_description">از کابل مناسب تلفن قدیمی‌تان (مثل کابل داده یا شارژ) استفاده کنید.</string>
+    <string name="fragment_usb_find_cable_title">کابل مناسب را پیدا کنید</string>
+    <string name="fragment_usb_initial_description">داده‌های تلفن قدیمی‌تان را به این ^1 منتقل کنید.</string>
+    <string name="fragment_usb_initial_title">بیایید داده‌هایتان را کپی کنیم</string>
+    <string name="fragment_usb_legacy_description">"این سریع‌ترین روش برای انتقال اکثر داده‌هاست.
+
+آداپتور را در جعبه پیدا کنید، آن را به تلفن جدید وصل کنید. تلفن‌ها را با استفاده از کابل به هم وصل کنید، سپس قفل تلفن قدیمی را باز کنید."</string>
+    <string name="fragment_usb_other_ways">کپی کردن بدون کابل</string>
+    <string name="fragment_usb_plug_cable">کابل را به تلفن قدیمی‌تان وصل کنید</string>
+    <string name="fragment_waiting_title">یک لحظه صبر کنید…</string>
+    <string name="gigabyteShort">گیگابایت</string>
+    <string name="google_contacts_static_text">‏Google Contacts همگام‌سازی می‌شود</string>
+    <string name="google_contacts_static_text_off">‏Google Contacts همچنان همگام‌سازی خواهد شد</string>
+    <string name="header_set_backup_account">تنظیم حساب پشتیبان</string>
+    <string name="i_message_dialog_message">"‏برای اینکه دریافت پیامک از کاربران iPhone®‎ ادامه داشته باشد، باید iMessage®‎ را خاموش کنید. دستورالعمل‌ها را در 
+
+"<b>g.co/iMessageHelp</b> ببینید.</string>
+    <string name="instructions_fragment_title">در تلفن دیگرتان ادامه دهید</string>
+    <string name="ios_connected_fragment_description">"‏در صفحه بعد می‌توانید به سیستم حساب Google خود وارد شوید یا حساب جدیدی ایجاد کنید.
+
+اگر حساب Google خود را اضافه نکنید، رویدادهای iOS Calendar®‎ شما منتقل نخواهند شد."</string>
+    <string name="ios_message_attachment_explanation">‏[پیوست‌های پیام شما در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام هستند]</string>
+    <string name="ios_message_attachment_failed_explanation">‏[برخی از پیوست‌ها را نمی‌توان کپی کرد. پیوست‌های منتقل‌شده را می‌توان در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام پیدا کرد]</string>
+    <string name="ios_message_attachment_placeholder">‏[پیوست در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام ذخیره شد]</string>
+    <string name="ios_message_attachments_placeholder">‏[پیوست‌ها در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام ذخیره شدند]</string>
+    <string name="ios_migration_default_calendar_title">تقویم</string>
+    <string name="ios_migration_other_contact_relation">سایر موارد</string>
+    <string name="ios_photos_dialog_message">"‏عکس‌های ذخیره‌شده در iCloud®‎ کپی نمی‌شوند.
+
+برای آوردن این عکس‌ها به ^1 خود، برنامه Google Photos را در دستگاه iPhone®‎ خود نصب کنید. برای اطلاع از دستورالعمل‌های بیشتر، به "<b>g.co/datatransferhelp</b> سر بزنید.</string>
+    <string name="kilobyteShort">کیلوبایت</string>
+    <string name="list_item_add_account">افزودن حساب</string>
+    <string name="lockscreen_smartdevice_action_next">بعدی</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">برای ادامه راه‌اندازی تلفنتان، قفل آن را باز کنید</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">به دلایل امنیتی، باید قفل صفحه‌تان را تأیید کنید تا راه‌اندازی ادامه یابد</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">قفل صفحه‌تان را تأیید کنید</string>
+    <string name="manage_data_label">‏حساب Google</string>
+    <string name="master_clear_title">بازنشانی داده‌های کارخانه</string>
+    <string name="megabyteShort">مگابایت</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">باید حساب پشتیبان تنظیم شود</string>
+    <string name="notification_content_title_set_backup_account">پشتیبان‌گیری</string>
+    <string name="notification_ticker_set_backup_account">حساب پشتیبان مورد نیاز است</string>
+    <string name="permgrouplab_calendar">تقویم</string>
+    <string name="permgrouplab_camera">دوربین</string>
+    <string name="permgrouplab_contacts">مخاطبین</string>
+    <string name="permgrouplab_location">مکان</string>
+    <string name="permgrouplab_microphone">میکروفون</string>
+    <string name="permgrouplab_phone">تلفن</string>
+    <string name="permgrouplab_sensors">حسگرهای بدن</string>
+    <string name="permgrouplab_sms">پیامک</string>
+    <string name="permgrouplab_storage">فضای ذخیره‌سازی</string>
+    <string name="petabyteShort">پتابایت</string>
+    <string name="photo_backup_configure_account_default_summary">هیچ حسابی در حال حاضر عکس‌های پشتیبان‌گیری‌شده را ذخیره نمی‌کند</string>
+    <string name="photos_backup_title">پشتیبان‌گیری عکس‌ها</string>
+    <string name="photos_filtering_option_all">همه موارد</string>
+    <string name="photos_filtering_option_none">هیچ‌کدام</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏مخاطبین کپی‌شده در «حساب Google» شما ذخیره خواهند شد.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏مخاطبین و تقویم‌های کپی‌شده در «حساب Google» شما ذخیره خواهند شد.</string>
+    <string name="restore_choice_data_disclaimer_v2">شاید بعضی از داده‌هایتان در ^1 کپی نشود. <annotation id="restore_choice_data_disclaimer_learn_more">بیشتر بدانید</annotation></string>
+    <string name="restore_choice_deselect_some_content">برای ادامه دادن بعضی از محتوا را لغو انتخاب کنید</string>
+    <string name="restore_choice_learn_more_android">"‏بعضی از داده‌های تلفن قدیمی‌تان به‌طور خودکار کپی نمی‌شوند:
+
+ ● بارگیری‌ها (مانند فایل‌های PDF)‏
+
+ ● عکس‌ها، ویدیوها و موسیقی ذخیره‌شده در پوشه‌های مخفی
+
+ ● عکس‌ها، ویدیوها و موسیقی دریافت‌شده ازطریق پیامک
+
+ ● برنامه‌هایی که از «فروشگاه Google Play» نیستند
+
+ ● داده‌های برنامه (درصورتی‌که برنامه از پشتیبان‌گیری Android استفاده نمی‌کند)
+
+ ● تنظیمات مشخص دستگاه
+
+ ● حساب‌هایی به‌جز «حساب‌های Google» (و داده‌های مرتبط)
+
+ ● مخاطبین و تقویم‌های همگام‌سازی‌شده با سرویس‌هایی به‌جز Google‏
+
+ ● آهنگ‌های زنگ
+
+ برای دریافت جزئیات و راهنمایی بیشتر درباره کپی کردن بعضی از این داده‌ها، به g.co/datatransferhelp بروید."</string>
+    <string name="restore_choice_learn_more_ios">"‏بعضی از داده‌های تلفن قدیمی‌تان نمی‌توانند به‌طور خودکار کپی شوند:
+
+ ● برنامه‌ها و داده‌های برنامه
+
+ ● عکس‌هایی که اصل آن‌ها در تلفنتان ذخیره نشده است (برای مثال، اگر تنظیم Optimize Storage (بهینه‌سازی فضای ذخیره‌سازی) روشن باشد، عکس‌های اصلی در iCloud®‎ ذخیره می‌شوند)
+
+ ● فایل‌ها و اسناد ذخیره‌شده در iCloud®‎‏
+
+ ● تنظیمات دستگاه (مانند گذرواژه Wi-Fi و کاغذدیواری)
+
+ ● موسیقی محافظت‌شده با محافظ «مدیریت حقوق دیجیتال» (DRM) (برای مثال، موسیقی iTunes®‎ که قبل از آوریل ۲۰۰۹ خریداری شده‌اند یا موسیقی بارگیری‌شده برای گوش دادن آفلاین در یک برنامه پخش موسیقی)‏
+
+ ● حساب‌هایی به‌جز حساب‌های Google (و داده‌های مرتبط)
+
+ ● مخاطبین و تقویم‌های همگام‌سازی‌شده با سرویس‌هایی به‌جز Google یا iCloud®‎‏
+
+ ● نشانک‌های Safari®‎‏
+
+ پیوست‌های iMessage®‎ در «Google Photos > ‏Device folders (پوشه‌های دستگاه) > ‏Message attachments (پیوست‌های پیام)» دردسترس خواهند بود.
+
+ برای دریافت جزئیات و راهنمایی بیشتر درباره کپی کردن بعضی از این داده‌ها، به g.co/datatransferhelp بروید."</string>
+    <string name="restore_choice_not_enough_space">فضای کافی وجود ندارد</string>
+    <string name="restore_choice_total_text">از %1$s موجود شما / %2$s انتقال</string>
+    <string name="restore_error_message">در بازیابی مشکلی رخ داد. متأسفیم.</string>
+    <string name="restore_item_appdata">داده‌های برنامه</string>
+    <string name="restore_item_calendar">تقویم</string>
+    <string name="restore_item_calendar_ical_description">‏iOS® Calendar‎، تقویم Google</string>
+    <string name="restore_item_calendar_ical_off_description">‏«تقویم Google» همچنان همگام‌سازی می‌شود</string>
+    <string name="restore_item_calendar_sync_description">‏«تقویم Google» همگام‌سازی می‌شود</string>
+    <string name="restore_item_call_logs">سابقه تماس</string>
+    <string name="restore_item_contacts">مخاطبین</string>
+    <string name="restore_item_device_settings_description">‏گذرواژه‌های Wi-Fi و موارد دیگر</string>
+    <string name="restore_item_downloads">بارگیری‌ها</string>
+    <string name="restore_item_email">رایانامه</string>
+    <string name="restore_item_email_description">‏Gmail همگام‌سازی می‌شود</string>
+    <string name="restore_item_message_attachments">پیوست‌های پیام</string>
+    <string name="restore_item_messages">پیام‌ها</string>
+    <string name="restore_item_music">موسیقی</string>
+    <string name="restore_item_photos">عکس‌ها و ویدئوها</string>
+    <string name="restore_item_settings">تنظیمات دستگاه</string>
+    <string name="restore_item_sms">پیامک‌ها</string>
+    <string name="restore_item_will_be_synced_text">این در تلفن شما همگام‌سازی می‌شود</string>
+    <string name="restore_progress_title">درحال بازیابی...</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="small_time_duration">کمتر از ۱ دقیقه</string>
+    <string name="source_connected_description">در حال آماده‌سازی...</string>
+    <string name="source_connected_title">به %1$s شما متصل شد</string>
+    <string name="source_copying_description">داده‌هایی که انتخاب کرده‌اید در تلفن جدیدتان کپی می‌شوند</string>
+    <string name="source_copying_title">درحال کپی کردن…</string>
+    <string name="source_default_target_device_name">دستگاه جدید</string>
+    <string name="source_notification_device_disconnected">کابلتان را دوباره متصل کنید</string>
+    <string name="source_notification_text">انتقال تلفن به تلفن درحال انجام است</string>
+    <string name="source_notification_title">انتقال داده‌ها</string>
+    <string name="source_success_description">راه‌اندازی %1$s شما تمام شد.</string>
+    <string name="source_success_screen_title">تمام شد!</string>
+    <string name="source_unplugged_description">دوباره آن را به %1$s خود وصل کنید</string>
+    <string name="source_unplugged_title">کابل جدا شد</string>
+    <string name="source_waiting_title">ادامه راه‌اندازی در %1$s</string>
+    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
+    <string name="stop_copying_dialog_continue_button">رد کردن</string>
+    <string name="stop_copying_dialog_message_before_transfer">داده‌هایتان در تلفن جدید کپی نشده‌اند</string>
+    <string name="stop_copying_dialog_message_during_transfer">بعضی از داده‌هایتان در تلفن جدید کپی نشده‌اند</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">کپی نشود</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">توقف</string>
+    <string name="stop_copying_dialog_title_before_transfer">کپی نشود؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">کپی کردن متوقف شود؟</string>
+    <string name="storage_management_wear_descriptive_text">برنامه‌هایی که از فضای ذخیره‌سازی دستگاه\u009d‌تان برای تکرار داده‌ها در فناوری‌های پوشیدنی استفاده می‌کنند.</string>
+    <string name="storage_management_wear_manage_size_label">مدیریت فضای ذخیره‌سازی فناوری پوشیدنی</string>
+    <string name="storage_management_wear_size_label">فضای ذخیره‌سازی فناوری پوشیدنی</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏کل داده‌های استفاده شده توسط خدمات Google Play، از جمله داده‌های موتور جستجو و داده‌های دیگر.</string>
+    <string name="storage_managment_clear_all_data">پاک کردن همه داده‌ها</string>
+    <string name="storage_managment_computing_size">در حال محاسبه...</string>
+    <string name="storage_managment_icing_size_label">جستجوی اطلاعات</string>
+    <string name="storage_managment_manage_icing_button">مدیریت اطلاعات جستجو</string>
+    <string name="storage_managment_search_index_descriptive_text">ما با فراهم کردن موتور جستجویی برای استفاده برنامه‌های شما، جستجو را در دستگاهتان سرعت می‌بخشیم.</string>
+    <string name="storage_managment_title">‏فضای ذخیره‌سازی خدمات Google Play</string>
+    <string name="storage_managment_total_size_label">کل فضای ذخیره‌سازی</string>
+    <string name="suw_back_button_label">برگشت</string>
+    <string name="suw_more_button_label">بیشتر</string>
+    <string name="suw_next_button_label">بعدی</string>
+    <string name="target_default_source_device_model">دستگاه قدیمی</string>
+    <string name="target_device_not_supported_cant_continue_description">باید روش دیگری را برای کپی کردن داده‌ها انتخاب کنید</string>
+    <string name="target_device_not_supported_cant_continue_title">تلفنِ دیگر پشتیبانی نمی‌شود</string>
+    <string name="target_device_not_supported_try_restarting_description">"‏کابل را جدا کنید و تلفن قدیمی‌تان را راه‌اندازی مجدد کنید، سپس دوباره کابل را وصل کنید و دستورالعمل‌های روی Pixel را دنبال کنید.
+
+اگر مرتب این خطا را می‌بینید، شاید لازم باشد روش کپی کردن دیگری را امتحان کنید."</string>
+    <string name="target_device_not_supported_try_restarting_title">ممکن است تلفن پشتیبانی نشود</string>
+    <string name="target_smart_device_timeout_add_account">افزودن حساب</string>
+    <string name="target_smart_device_timeout_description">درصورت تمایل می‌توانید به‌صورت دستی حساب را اضافه کنید</string>
+    <string name="target_smart_device_timeout_dismiss">نپذیرفتن</string>
+    <string name="target_smart_device_timeout_title">با مشکل مواجه هستید؟</string>
+    <string name="terabyteShort">ترابایت</string>
+    <string name="toast_phones_connected">تلفن‌ها مرتبط شدند</string>
+    <string name="toast_reconnect_cable">کابل را دوباره متصل کنید</string>
+    <string name="transfer_finished_fragment_title">درحال افزودن نکات تکمیلی…‏</string>
+    <string name="transfer_summary_copied">داده‌ها کپی شد</string>
+    <string name="transfer_summary_fragment_description">می‌توانید کابل را جدا کنید.</string>
+    <string name="transfer_summary_fragment_finish">پایان</string>
+    <string name="transfer_summary_fragment_title">تلفتنان تقریباً آماده است</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">بعضی از عکس‌هایتان کپی نشدند. <annotation id="transfer_summary_learn_more">بیشتر بدانید</annotation></string>
+    <string name="transfer_summary_not_copied">داده‌ها کپی نشد</string>
+    <string name="transfer_summary_partial">%1$s / %2$s کپی شد</string>
+    <string name="transfer_summary_will_sync">داده‌ها پس از راه‌اندازی همگام‌سازی می‌شوند</string>
+    <string name="transferring_fragment_calculating_remaining_time">درحال محاسبه زمان باقی‌مانده…</string>
+    <string name="transferring_fragment_header">درحال کپی کردن…</string>
+    <string name="transferring_fragment_remaining_time">%1$s باقی است</string>
+    <string name="trust_instructions_description">‏برای ادامه دادن، دستگاه iPhone®‎ خود را بررسی و اتصال را تأیید کنید</string>
+    <string name="trust_instructions_trademark_disclaimer">‏iPhone،‏ iPad،‏ iOS،‏ iMessage،‏ iCloud،‏ Safari و iTunes علامت‌های تجاری ثبت‌شده Apple Inc.‎ در ایالات متحده و سایر کشورها هستند.</string>
+</resources>

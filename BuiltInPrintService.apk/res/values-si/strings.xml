@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">පෙරනිමි මුද්‍රණ සේවාව</string>
+    <string name="printer_busy">කාර්යබහුල</string>
+    <string name="printer_out_of_paper">කඩදාසි නැත</string>
+    <string name="printer_out_of_ink">තීන්ත නැත</string>
+    <string name="printer_out_of_toner">ටෝනර් නැත</string>
+    <string name="printer_low_on_ink">තීන්ත අඩුය</string>
+    <string name="printer_low_on_toner">ටෝනර් අඩුය</string>
+    <string name="printer_door_open">දොර විවෘතයි</string>
+    <string name="printer_jammed">තදබදය</string>
+    <string name="printer_offline">නොබැඳි</string>
+    <string name="printer_check">මුද්‍රණ යන්ත්‍රය පරීක්ෂා කරන්න</string>
+    <string name="waiting_to_send">යැවීමට රැඳී සිටිමින්</string>
+    <string name="wifi_not_connected">Wi-Fi සම්බන්ධ නොවීය</string>
+    <string name="unreadable_input">ලේඛනය කියවීමට නොහැකිය</string>
+    <string name="media_size_l">L</string>
+    <string name="media_size_5x7in">5x7 in</string>
+    <string name="media_size_89x119mm">89x119 mm</string>
+    <string name="media_size_54x86mm">54x86 mm</string>
+    <string name="media_size_8x10in">8x10 in</string>
+    <string name="media_size_4x6in">4x6 in</string>
+    <string name="printer_description">%1$s – %2$s</string>
+    <string name="title_activity_add_printer">හස්තීයව එක් කළ මුද්‍රණ යන්ත්‍ර</string>
+    <string name="add_manual_printer">හස්තීය මුද්‍රණ යන්ත්‍රය එක් කරන්න</string>
+    <string name="hostname_or_ip">සත්කාරක නම හෝ IP ලිපිනය</string>
+    <string name="ip_hint">192.168.0.4</string>
+    <string name="add">එක් කරන්න</string>
+    <string name="no_printer_found">මෙම ලිපිනය සඳහා මුද්‍රණ යන්ත්‍රයක් සොයා නොගන්නා ලදී</string>
+    <string name="printer_not_supported">මුද්‍රණ යන්ත්‍රය සහාය නොදක්වයි</string>
+    <string name="forget_printer">මුද්‍රණ යන්ත්‍රය අමතක කරන්න</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d osoby oceniło to na tyle gwiazdek: %1$s</item>
+        <item quantity="one">Jedna osoba oceniła to na tyle gwiazdek: %1$s</item>
+        <item quantity="few">%2$d osoby oceniły to na tyle gwiazdek: %1$s</item>
+        <item quantity="many">%2$d osób oceniło to na tyle gwiazdek: %1$s</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Wygasa za %1$d dnia</item>
+        <item quantity="one">Wygasa za %1$d dzień</item>
+        <item quantity="few">Wygasa za %1$d dni</item>
+        <item quantity="many">Wygasa za %1$d dni</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Wygasa za %1$d godziny</item>
+        <item quantity="one">Wygasa za %1$d godzinę</item>
+        <item quantity="few">Wygasa za %1$d godziny</item>
+        <item quantity="many">Wygasa za %1$d godzin</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Jeszcze %1$d</item>
+        <item quantity="one">Jeszcze %1$d</item>
+        <item quantity="few">Jeszcze %1$d</item>
+        <item quantity="many">Jeszcze %1$d</item>
+    </plurals>
+</resources>

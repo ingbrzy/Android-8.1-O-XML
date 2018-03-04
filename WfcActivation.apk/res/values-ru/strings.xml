@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Далее</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Ещё</string>
+    <string name="vzw_wfc_activation_error">Не удалось включить звонки по Wi-Fi. Повторите попытку позже.</string>
+    <string name="vzw_address_update_error">Не удалось обновить адрес для экстренных вызовов. Повторите попытку позже.</string>
+    <string name="emergency_address_app_label">Управление экстренным адресом</string>
+    <string name="progress_text">Подождите…</string>
+    <string name="vzw_tos_title">Звонки по Wi-Fi</string>
+    <string name="cancel">Отмена</string>
+    <string name="vzw_tos_text">"Функция звонков по Wi-Fi позволяет вам воспользоваться сетью Wi-Fi, если мобильная сеть недоступна.
+
+Чтобы настроить звонки по Wi-Fi, вам понадобится указать свой адрес в США. Он будет использоваться в том случае, если от вас поступит экстренный вызов (E911) по Wi-Fi с этого телефона в пределах США.
+
+Рекомендуем обновить этот адрес, если вы собираетесь звонить по Wi-Fi из другой сети, чтобы информация о вашем местонахождении всегда была максимально точной. Вы всегда можете изменить информацию о своем адресе в настройках звонков по Wi-Fi."</string>
+    <string name="vzw_tos_link">Условия использования</string>
+    <string name="tos_continue">Далее</string>
+    <string name="vzw_e911_title">Адрес для экстренных вызовов</string>
+    <string name="vzw_e911_description"><b>ВНИМАНИЕ! УКАЖИТЕ АДРЕС ДЛЯ ВЫЗОВА СЛУЖБЫ 911</b>"
+Чтобы совершать звонки по Wi-Fi, укажите свой адрес в США для вызова экстренных служб. Вы сможете изменить его в настройках в любой момент. Обязательно обновите этот адрес, если переедете."</string>
+    <string name="vzw_e911_warning"><b>ОГРАНИЧЕНИЯ ПРИ ЗВОНКЕ В ЭКСТРЕННУЮ СЛУЖБУ</b>"
+При звонке в службу спасения всегда сообщайте оператору, где находитесь. Экстренные вызовы выполняются по Wi-Fi, только если мобильная сеть недоступна. При этом могут возникать задержки и сбои (например, если экстренная служба не распознала адрес, отключено электричество или нет подключения к Wi-Fi). Спасатели прибудут по указанному выше адресу, поэтому не забывайте своевременно его обновлять."</string>
+    <string name="house_number">Номер дома</string>
+    <string name="street">Улица</string>
+    <string name="apt_suite_number">Номер, квартира и пр.</string>
+    <string name="city">Город</string>
+    <string name="state">Штат</string>
+    <string name="zip_code">Почтовый индекс</string>
+    <string name="save">Сохранить</string>
+    <string name="vzw_address_confirm_text_part1">Не найден адрес либо неверно указан город, штат или почтовый индекс.</string>
+    <string name="vzw_address_confirm_text_part2">Если вы неверно ввели почтовый индекс, название города или штата, нажмите \"%1$s\", а если данные указаны правильно – \"%2$s\".</string>
+    <string name="save_anyway">Все равно сохранить</string>
+    <string name="edit_address">Изменить адрес</string>
+    <string name="ok">ОК</string>
+    <string name="vzw_address_select_text">Указанный адрес не найден:</string>
+    <string name="vzw_address_alternate_text">Возможно, вы имели в виду:</string>
+    <string name="vzw_partial_confirm_head">Экстренная служба не может проверить этот адрес.</string>
+    <string name="vzw_partial_confirm_text">Указать этот адрес как экстренный?</string>
+    <string name="vzw_partial_failure_text_part1">Возможно, вы неверно указали город, штат или индекс.</string>
+    <string name="vzw_partial_failure_text_part2">Проверьте адрес и повторите попытку.</string>
+    <string name="vzw_address_update_success_toast">Экстренный адрес изменен</string>
+    <string name="connect_to_wifi_or_web_portal_title">Отсутствует подключение к Wi-Fi</string>
+    <string name="connect_to_wifi_or_web_portal_message">Звонки по Wi-Fi можно настроить с помощью мобильной сети. Однако, чтобы воспользоваться этой функцией, необходимо подключиться к сети Wi-Fi.</string>
+    <string name="button_turn_on_wifi">Включить Wi-Fi</string>
+    <string name="button_setup_web_portal">Продолжить настройку</string>
+</resources>

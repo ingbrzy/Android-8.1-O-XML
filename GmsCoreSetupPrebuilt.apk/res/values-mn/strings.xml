@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Апп доторх худалдан авалт</string>
+    <string name="app_has_permissions">Зөвшөөрөл: %s</string>
+    <string name="app_has_runtime_permissions">Апп-д зөвшөөрөл шаардлагатай</string>
+    <string name="app_picker_app_already_installed_toast">Энэ аппыг өмнө нь суулгасан байна</string>
+    <string name="app_picker_loading">Боломжтой апп-г хайж байна…</string>
+    <string name="app_picker_loading_toast">Боломжтой апп-г удахгүй ачаалах болно</string>
+    <string name="app_picker_no_apps">Сонгосон апп байхгүй байна</string>
+    <string name="app_picker_no_apps_found">Апп олдсонгүй</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Апп-н худалдан авалтыг таны ^1-д дажуулахгүй.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Апп-н зарим худалдан авалтыг таны ^1-д дамжуулах боломжгүй.</string>
+    <string name="apps_permissions_described_v2">"Зөвхөн түгээмэл, үнэгүй iOS® апп нь Андройд апп-д тохирно. Аппын ихэнх худалдан авалтыг дамжуулахгүй. Та тохируулж дууссаны дараагаар бусад аппыг Play Store-с хайх боломжтой.
+
+Та зарим апп-д таны төхөөрөмжийн зарим чадамж, мэдээлэлд хандах зөвшөөрлийг урьдчилан олгох шаардлагатай. Зөвшөөрлийг зөвшөөрлийн бүлэг болгож ангилна. Та эдгээр аппыг суулгахаар сонгосноор бүлэг бүрийн зөвшөөрлийг зөвшөөрөх шаардлагатай. Зөвшөөрлийн бүлэг тус бүрийн тайлбарыг доор агуулсан болно.
+
+Зарим апп-д урьдчилан зөвшөөрөл олгох шаардлагагүй. Та эдгээр аппын аль нэгийг нь ашиглахад тухайн аппыг таны өгөгдлийг ашиглахаас өмнө зөвшөөрөл олгох, эсвэл татгалзах боломжтой.
+
+"</string>
+    <string name="apps_permissions_disclaimer_v2">Ta aпп-г суулгаснаар тус бүрийнх нь зөвшөөрлийг зөвшөөрч байна. <annotation id="apps_permissions_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="auto_restore_summary">Апп-г дахин суулгах үед нөөцөлсөн тохиргоо болон өгөгдлийг сэргээх</string>
+    <string name="auto_restore_title">Автоматаар сэргээх</string>
+    <string name="backup_configure_account_default_summary">Одоогоор ямар ч бүртгэлд нөөцөлсөн өгөгдлийг хадгалаагүй байна</string>
+    <string name="backup_configure_account_title">Нөөцлөх бүртгэл</string>
+    <string name="backup_data_summary">Апп-н өгөгдөл, Wi-Fi-н нууц үг болон бусад тохиргоог Google Драйвт нөөцөлнө үү</string>
+    <string name="backup_data_summary_full">"Төхөөрөмжийн өгөгдөл (Wi-Fi-н нууц үг болон дуудлагын түүх гэх мэт) болон апп-н өгөгдлийг (тохиргоо болон апп-н хадгалсан файл гэх мэт) автоматаар, алсаас нөөцөлнө үү.
+
+Таныг автомат нөөцлөлтийг асаасны дараа төхөөрөмжийн болон апп-н өгөгдлийг алсаас тогтмол хадгалах болно. Апп-н өгөгдөл нь апп-н хадгалсан дурын өгөгдөл (хөгжүүлэгчийн тохиргоонд үндэслэн) байх бөгөөд үүнд харилцагч, зурвас, зураг зэрэг хувийн өгөгдөл багтана."</string>
+    <string name="backup_data_title">Google Драйвт нөөцлөх</string>
+    <string name="backup_erase_dialog_message">Wi‑Fi нууц үг, хавчуурга, бусад тохиргоо болон апп-н өгөгдлийг нөөцлөхөө зогсоож, Google Драйвт байгаа бүх хуулбарыг устгах уу?</string>
+    <string name="backup_erase_dialog_message_full">Төхөөрөмжийн өгөгдөл (Wi-Fi-н нууц үг, дуудлагын түүх гэх мэт) болон апп-н өгөгдлийг (тохиргоо болон апп-н хадгалсан файл гэх мэт) нөөцлөхөө зогсоож, Google Драйвт байгаа бүх хуулбарыг устгах уу?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Зургийн тохиргоог нээхэд алдаа гарлаа</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Та автоматаар нөөцлөлтийг асааснаар:
+
+ ● Төхөөрөмжийн тохиргоо, апп-н өгөгдлийг Google Драйвын хувийн фолдерт тодорхой хугацааны дараа хадгална. Апп-н өгөгдөл нь апп-н хадгалсан (хөгжүүлэгчийн тохиргоонд үндэслэсэн) харилцагч, зурвас, зураг зэрэг хувийн өгөгдөл байна. 
+
+ Үйлчилгээнээс хасахаар сонгосон том файл, файл хөгжүүлэгчийг нөөцлөхгүй.
+
+ ● Таны дурын төхөөрөмжөөс хайх, засах, устгах, хуваалцахын тулд зураг, видео бичлэгийг энэ төхөөрөмжтэй Google зургийн сангаас синк хийсэн.
+
+Өндөр нягтаршилтай зураг, видеог өгөгдмөлөөр байршуулсан. Эдгээр нь таны Драйвын сангийн багтаамжид нөлөөлөхгүй.
+
+ ● Харилцагч, шаардлагатай өгөгдлийг энэ төхөөрөмжөөс Google харилцагчид синк хийсэн. Харилцагчийг хүссэн төхөөрөмжөөсөө хайх, засах, устгах, хуваалцахын тулд Google харилцагч апп-г ашиглах боломжтой.
+
+ ● Энэ төхөөрөмжөөс Хуанлийн тэмдэглэл, шаардлагатай өгөгдлийг Google Хуанлид синк хийсэн. Та Google хуанли апп-р хүссэн төхөөрөмжөөсөө харилцагч хайх, засах, устгах, хуваалцах боломжтой.
+
+ Нөөцөлсөн өгөгдөл нь таны Драйвын сангийн багтаамжид нөлөөлөхгүй."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Автомат нөөцлөлтийг асааснаар:
+
+ ● Төхөөрөмжийн тохиргоо, аппын өгөгдлийг Google Драйвын хувийн фолдерт тухай бүрт нь хадгалах болно. Аппын өгөгдөл нь аппын хадгалсан (хөгжүүлэгчийн тохиргоонд үндэслэн) дурын өгөгдөл байх бөгөөд үүнд харилцагч, зурвас, зураг зэрэг хувийн өгөгдөл мөн багтана.
+
+ Том файл, эсвэл үйлчилгээнээс устгахаар сонгосон файл хөгжүүлэгчийг нөөцлөхгүй.
+
+ ● Харилцагч, энэ төхөөрөмжийн холбоотой өгөгдлийг Google Харилцагчид синк хийнэ. Та хүссэн төхөөрөмжөөсөө агуулга хайх, засах, устгах, хуваалцахын тулд Google харилцагчийг ашиглах боломжтой.
+
+ ●  Хуанлийн тэмдэглэгээ болон энэ төхөөрөмжийн холбоотой өгөгдлийг Google Хуанлид синк хийнэ. Та хүссэн төхөөрөмжөөсөө агуулга хайх, засах, устгах, хуваалцахын тулд  Google Хуанлиг ашиглах боломжтой.
+
+ Нөөцөлсөн өгөгдөл нь Драйвын багтаамжид нөлөөлөхгүй."</string>
+    <string name="backup_opt_in_backup_description_extra">Хуанли, харилцагч, зураг, видеог таны Google бүртгэлд синк хийсэн бөгөөд үйлчилгээнд ашиглах боломжтой.</string>
+    <string name="backup_opt_in_backup_description_v2">Та автомат нөөцлөлтийн тусламжтайгаар утсаа дурын үед сэргээх, шилжүүлэх боломжтой. <annotation id="backup_opt_in_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Энэ нь нөөцлөлтийг дараахад унтраана:
+
+Апп, апп-н өгөгдөл
+Дуудлагын түүх
+Төхөөрөмжийн тохиргоо
+Зураг, видео
+SMS
+
+Хуанли, харилцагчийг таны Google бүртгэлд үргэлжлүүлэн хуулах болно. Та тохируулж дууссаны дараагаар "<annotation id="backup_opt_in_settings_instructions">Тохиргоо > Бүртгэл > Google</annotation> хэсэгт синк хийх тохиргоог өөрчлөх боломжтой.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Нөөцлөлтийг унтраах уу?</string>
+    <string name="backup_opt_in_backup_list">"Апп, апп-н өгөгдөл
+Хуанли
+Дуудлагын түүх
+Харилцагч
+Төхөөрөмжийн тохиргоо (үүнд WiFi-н нууц үг багтана)
+Зураг, видео
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Нөөцлөлтөд:</string>
+    <string name="backup_opt_in_backup_title">Google Драйвт нөөцлөх</string>
+    <string name="backup_opt_in_disable_backup">Нөөцлөлтийг унтраах</string>
+    <string name="backup_photos_update">Google Зургийг шинэчилнэ үү</string>
+    <string name="backup_settings_activity_backup_title">Нөөцлөлт</string>
+    <string name="backup_settings_activity_title">Нөөцлөх, шинэчлэх</string>
+    <string name="byteShort">Байт</string>
+    <string name="cancel_copy_button_text">Хуулахгүй</string>
+    <string name="close_button_label">Хаах</string>
+    <string name="cloud_restore_app_picker_button">Дахин сэргээх</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Таны нөөцлөлтөд ямар ч апп алга</string>
+    <string name="cloud_restore_app_picker_title">Сэргээх апп сонгоно уу</string>
+    <string name="common_accept">Зөвшөөрөх</string>
+    <string name="common_add_account_label">Бүртгэл нэмэх</string>
+    <string name="common_ads_settings_title">Зарууд</string>
+    <string name="common_agree">Зөвшөөрөх</string>
+    <string name="common_app_name">Google Play үйлчилгээ</string>
+    <string name="common_asm_preferences_settings_title">Бүртгэлийн тохируулга</string>
+    <string name="common_asm_privacy_settings_title">Хувийн мэдээлэл, нууцлал</string>
+    <string name="common_asm_security_settings_title">Нэвтрэлт, аюулгүй байдал</string>
+    <string name="common_audience_edit_button_label">Засах</string>
+    <string name="common_cancel">Цуцлах</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts (зөвшөөрлийн алдаа) эхлэхүүлэх боломжгүй.</string>
+    <string name="common_car_permission_desc">Машины үйлчилгээнд хандах.</string>
+    <string name="common_car_permission_label">Машины үйлчилгээ</string>
+    <string name="common_chips_label_empty_circles">Хүрээлэл байхгүй</string>
+    <string name="common_chips_label_extended_circles">Өргөтгөсөн хүрээллүүд</string>
+    <string name="common_chips_label_only_you">Зөвхөн та</string>
+    <string name="common_chips_label_public">Нийтийн</string>
+    <string name="common_chips_label_your_circles">Таны хүрээллүүд</string>
+    <string name="common_choose_account_label">Бүртгэл сонгоно уу</string>
+    <string name="common_clear_app_data_menu_item">Апп өгөгдөл арилгах</string>
+    <string name="common_connected">Холбогдсон</string>
+    <string name="common_connected_apps_settings_title">Холбогдсон апп</string>
+    <string name="common_connecting">Холбогдож байна...</string>
+    <string name="common_continue">Үргэлжлүүлэх</string>
+    <string name="common_disagree">Зөвшөөрөхгүй</string>
+    <string name="common_disconnect">Салгах</string>
+    <string name="common_done">Дууссан</string>
+    <string name="common_fitness_settings_title">Google Фит</string>
+    <string name="common_from">Хэнээс:</string>
+    <string name="common_games_settings_title">Тоглоом Тоглох</string>
+    <string name="common_get_started">Эхлүүлэх</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_error_dialog_title">Алдаа</string>
+    <string name="common_google_play_services_install_button">Суулгах</string>
+    <string name="common_google_play_services_install_text">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээг авах</string>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="common_google_play_services_unsupported_text">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_google_play_services_update_text">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_google_play_services_updating_text">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="common_google_play_services_updating_title">Google Play үйлчилгээг шинэчилж байна</string>
+    <string name="common_google_play_services_wear_update_text">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play үйлчилгээнүүдийг зөв бүтэцтэйгээр суулгаагүй байна.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play үйлчилгээнүүдийг (%1$s) бүтэцтэй суулгасан байгаа бөгөөд энэ нь таны төхөөрөмжийн бүтцээс (%2$s) өөр байна.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Буруу бүтэц</string>
+    <string name="common_google_settings">Google Тохиргоо</string>
+    <string name="common_google_settings_account">Бүртгэл</string>
+    <string name="common_google_settings_credentials_title">Нууц үгийн Smart Lock</string>
+    <string name="common_google_settings_developer">Хөгжүүлэгч</string>
+    <string name="common_google_settings_services">Үйлчилгээнүүд</string>
+    <string name="common_got_it">Ойлголоо</string>
+    <string name="common_install">Суулгах</string>
+    <string name="common_learn_more">Дэлгэрэнгүй үзэх</string>
+    <string name="common_list_apps_menu_help">Тусламж</string>
+    <string name="common_list_apps_menu_help_and_feedback">Тусламж, санал хүсэлт</string>
+    <string name="common_loading">Ачааллаж байна...</string>
+    <string name="common_location_settings_title">Байршил</string>
+    <string name="common_magictether_settings_title">Шуурхай модем болгох</string>
+    <string name="common_maps_settings_title">Газрын зураг, өргөрөг</string>
+    <string name="common_mdm_feature_name">Андройд Төхөөрөмжийн Менежер</string>
+    <string name="common_missing_url_viewer">Гадны url-г үзүүлэх этгээд байхгүй байна.</string>
+    <string name="common_more_options">Бусад сонголт</string>
+    <string name="common_networking_settings_title">Сүлжээ</string>
+    <string name="common_no_browser_for_restricted_url">Хандалтыг хязгаарласан байна. Хөтөч олдсонгүй.</string>
+    <string name="common_no_devices_found">Төхөөрөмж олдсонгүй</string>
+    <string name="common_no_network">Төхөөрөмж оффлайн байгаа учир ашиглах боломжгүй</string>
+    <string name="common_no_thanks">Үгүй, баярлалаа</string>
+    <string name="common_not_now">Одоо биш</string>
+    <string name="common_off">Идэвхгүй</string>
+    <string name="common_ok">ЗА</string>
+    <string name="common_on">Идэвхтэй</string>
+    <string name="common_open_on_phone">Утсаар нээх</string>
+    <string name="common_open_source_licenses">Нээлттэй эхийн лиценз</string>
+    <string name="common_people_settings_title">Харилцагчийн хаяг</string>
+    <string name="common_permissions_enable_in_settings">Тохиргоонд идэвхжүүлэх</string>
+    <string name="common_permissions_missing_end">Үргэлжлүүлэхийн тулд Тохиргоо, Зөвшөөрөл хэсгийг нээгээд жагсаасан бүх зүйлсийг зөвшөөрнө үү.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Идэвхжүүлэхийн тулд
+Тохиргоо >
+Зөвшөөрөл >
+Google Play үйлчилгээ хэсэгт очно уу"</string>
+    <string name="common_permissions_missing_start">Ta Google Play үйлчилгээний дараахад хандах хүсэлтийг зөвшөөрөөгүй тохиолдолд энэ апп зөв ажиллахгүй:</string>
+    <string name="common_permissions_open_settings">Тохиргоог нээх</string>
+    <string name="common_phone">Утас</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Нууцлалын бодлого</string>
+    <string name="common_restore">Сэргээх</string>
+    <string name="common_retry">Дахин оролдох</string>
+    <string name="common_search_settings_title">Хайх</string>
+    <string name="common_security_ootp_setting_title">Аюулгүй байдлын код</string>
+    <string name="common_security_settings_title">Аюулгүй байдал</string>
+    <string name="common_send">Илгээх</string>
+    <string name="common_sending">Илгээж байна...</string>
+    <string name="common_set_up_nearby_device_settings_title">Ойролцоох төхөөрөмжийг тохируулах</string>
+    <string name="common_settings">Тохиргоо</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="common_something_went_wrong">Алдаа гарлаа</string>
+    <string name="common_system_info">Системийн мэдээлэл</string>
+    <string name="common_take_photo_label">Зураг авах</string>
+    <string name="common_terms_of_service">Үйлчилгээний нөхцөл</string>
+    <string name="common_try_again">Дахин оролдох</string>
+    <string name="common_turn_on_bluetooth">Bluetooth-г асаах</string>
+    <string name="common_ui_confirm_deleting_button">Устгах</string>
+    <string name="common_ui_confirm_deleting_checkbox">Би ойлгож байгаа бөгөөд устгахыг хүсэж байна</string>
+    <string name="common_unknown">Тодорхойгүй</string>
+    <string name="common_update">Шинэчлэх</string>
+    <string name="common_url_load_unsuccessful_message">Таны Андройд төхөөрөмж дата үйлчилгээнд холбогдоогүй байна. Энэ мэдээллийг одоо үзэх бол вэб хөтчөөрөө %s хуудсанд очно уу.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Таны Андройд төхөөрөмж Wi-Fi сүлжээнд холбогдоогүй байна. Энэ мэдээллийг харах бол вэб хөтчөөрөө %s хуудаст очно уу.</string>
+    <string name="common_url_login_notice">%1$s-р нэвтрэх</string>
+    <string name="common_usage_and_diagnostics">Хэрэглээ, оношлогоо</string>
+    <string name="common_yesterday">Өчигдөр</string>
+    <string name="confirm_copy_button_text">Хуулах</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google харилцагч, %1$d iCloud®, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_and_sim_with_google">Google харилцагч, %1$d SIM, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_with_google">Google Харилцагч, %1$d төхөөрөмж</string>
+    <string name="contacts_number_icloud_with_google">Google Харилцагчид, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Харилцагчид, %1$d SIM</string>
+    <string name="copy_confirmation_description">Та шинэ утсандаа Google бүртгэл, апп зэрэг өгөгдлийг хуулах болно</string>
+    <string name="copy_confirmation_title">Таны шинэ утас руу хуулах уу?</string>
+    <string name="d2d_app_picker_description_no_apps">Ямар ч апп олдсонгүй</string>
+    <string name="d2d_app_picker_title">Апп</string>
+    <string name="d2d_migration_canceled_on_source">Хуулахыг цуцалсан</string>
+    <string name="data_copied_fragment_description">Таны өгөгдлийг таны шинэ утсанд хуулсан. Та кабелиа салгаж болно.</string>
+    <string name="data_copied_fragment_description_cancel">Та хуулахаа зогсоосон тул таны шинэ утсанд зөвхөн зарим өгөгдлийг хуулсан.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Та хуулахыг зогсоосон тул таны шинэ утсанд ямар ч өгөгдөл хуулаагүй болно.</string>
+    <string name="data_copied_fragment_description_error">Алдаа гарсан тул бүгдийг хуулж чадсангүй.</string>
+    <string name="data_copied_fragment_description_error_no_data">Алдаа гарсан тул таны өгөгдлийг хуулж чадсангүй.</string>
+    <string name="data_copied_fragment_no_data_title">Хуулж чадсангүй</string>
+    <string name="data_copied_fragment_some_data_title">Зарим өгөгдлийг хуулсан</string>
+    <string name="data_copied_fragment_title">Өгөгдлийг хуулсан</string>
+    <string name="device_backup_title">Төхөөрөмжийн нөөцлөлт</string>
+    <string name="device_not_supported_fragment_new_device">Та шинэ утсандаа холбогдсон байна. Үргэлжлүүлэхийн тулд өмнөх утсандаа дахин холбогдоно уу.</string>
+    <string name="device_not_supported_fragment_new_device_title">Өмнөх утсанд дахин холбогдоно уу</string>
+    <string name="device_not_supported_fragment_no_data_cable">Энэ кабелиар өгөгдөл дамжуулах боломжгүй. Өөр кабелиар дахин холбогдож, дахин оролдоно уу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Өөр кабель ашиглана уу</string>
+    <string name="device_not_supported_fragment_retry_description">Хуучин утсаа түгжээтэй байгаа эсэхийг шалгасны дараагаар кабелиа салгаад, дахин холбоно уу</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Алдаа гарлаа</string>
+    <string name="device_not_supported_ios_supervised_description">Таны iPhone® төхөөрөмж хяналттай тул өгөгдөл хуулах өөр арга сонгох шаардлагатай</string>
+    <string name="device_picker_description">Нөөцлөлтийг Google Драйвт хадгалсан</string>
+    <string name="device_picker_empty">%1$s-тай холбосон нөөцлөлт алга.</string>
+    <string name="device_picker_empty_title">Нөөцлөлт олсонгүй</string>
+    <string name="device_picker_item">%1$s нөөцлөлт</string>
+    <string name="device_picker_last_used">^1-д сүүлд ашигласан</string>
+    <string name="device_picker_skip">Сэргээхгүй</string>
+    <string name="device_picker_title">Сэргээх нөөцлөлтийг сонгоно уу</string>
+    <string name="disabled_by_admin_summary_text">Админ удирдсан</string>
+    <string name="download_msg_error_invalid">Татан авалтыг буруу тохируулсан.</string>
+    <string name="download_msg_in_progress">Татаж авч байна.</string>
+    <string name="download_msg_not_allowed_space">Татаж авахад хангалттай зай байхгүй байна.</string>
+    <string name="download_msg_pending">Татан авалтыг хүлээлгэсэн.</string>
+    <string name="download_notification_description">%1$s үүнийг хүссэн.</string>
+    <string name="download_notification_title">Өөр датаг дуудаж байна</string>
+    <string name="drive_backup_account">Бүртгэл</string>
+    <string name="drive_backup_apps_in_backup">Нөөцөлсөн аппын өгөгдөл</string>
+    <string name="drive_backup_apps_last_backup">Сүүлийн нөөцлөлт</string>
+    <string name="drive_backup_apps_loading">Ачааллаж байна...</string>
+    <string name="drive_backup_apps_screen_title">Aппын өгөгдөл</string>
+    <string name="drive_backup_content_apps_title">Aппын өгөгдөл</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Хуанлид үүсгэсэн үйл явдлыг таны Google бүртгэлд нэвтэрсэн бүх төхөөрөмжид синк хийнэ.</string>
+    <string name="drive_backup_content_calendar_title">Хуанли</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Илгээсэн болон ирсэн дуудлагын огноо, хүлээн авагчийг нөөцөлдөг.</string>
+    <string name="drive_backup_content_callhistory_title">Дуудлагын түүх</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Харилцагчид үүсгэсэн харилцагчдыг таны Google бүртгэлд нэвтэрсэн бүх төхөөрөмжид синк хийнэ.</string>
+    <string name="drive_backup_content_contacts_title">Харилцагчид</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Ханын зураг, Wi-Fi нууц үг, өгөгдмөл апп зэрэг төхөөрөмжийн тохируулгыг нөөцөлдөг.</string>
+    <string name="drive_backup_content_devicesettings_title">Төхөөрөмжийн тохиргоо</string>
+    <string name="drive_backup_content_header">Агуулга</string>
+    <string name="drive_backup_content_photos_dialog_message">Таны нөөцлөлтийн үндсэн бүртгэл өөрчлөгдсөн байна. Та Google Зургийн нөөцлөлтийн бүртгэлийг %s-р солих боломжтой.</string>
+    <string name="drive_backup_content_photos_dialog_no">ХААХ</string>
+    <string name="drive_backup_content_photos_dialog_title">Зураг, видеоны бүртгэлийг мөн өөрчлөх үү?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ӨӨРЧЛӨХ</string>
+    <string name="drive_backup_content_photos_title">Зураг, видео</string>
+    <string name="drive_backup_content_sms_dialog_message">Илгээсэн болон ирсэн зурвасыг нөөцлөх бөгөөд мультимедиа зурвасыг нөөцлөхгүй.</string>
+    <string name="drive_backup_content_sms_title">SMS текст зурвас</string>
+    <string name="drive_backup_content_status_dolly_action">Ойлголоо</string>
+    <string name="drive_backup_content_status_error">Сүүлд синк хийсэн огноог гаргах боломжгүй байна</string>
+    <string name="drive_backup_content_status_lastsaved">Сүүлд нөөцөлсөн: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Сүүлд синк хийсэн: %1$s</string>
+    <string name="drive_backup_content_status_never">Нөөцлөлтийг хүлээж байна</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Синк тохиргоо</string>
+    <string name="drive_backup_content_status_sync_off">Синк УНТРААЛТТАЙ</string>
+    <string name="drive_backup_content_status_updating">Төлөвийг шалгаж байна…</string>
+    <string name="drive_backup_disabled_backuplist">"Нөөцлөлтөд:
+\u0009- Апп, апп-н өгөгдөл
+\u0009- Дуудлагын түүх
+\u0009- Төхөөрөмжийн тохиргоо (Wi-Fi нууц үгийг оруулаад)
+\u0009- Google Хуанли
+\u0009- Google Харилцагчид
+\u0009- Зураг, видео
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Нөөцлөлт нь дараахыг агуулдаг:
+\u0009- Апп, аппын өгөгдөл
+\u0009- Дуудлагын түүх
+\u0009- Төхөөрөмжийн тохиргоо (Wi-Fi нууц үг зэрэг)
+\u0009- Google Хуанли
+\u0009- Google Харилцагч
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Таны админ идэвхгүй болгосон</string>
+    <string name="drive_backup_disabled_detailedinfo">"Хуанли, харилцагч, зураг, видеог таны Google бүртгэлд синк хийсэн бөгөөд үйлчилгээнд ашиглах боломжтой.
+
+Синк нь нөөцлөлтийг унтраасан үед ч идэвхтэй байдаг. Синкийн тохиргоог Тохиргоо > Бүртгэл > Google хэсэгт өөрчлөх боломжтой."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Таны Google Бүртгэлд Google Хуанли, Google Харилцагчийг синк хийх бөгөөд бусад үйлчилгээнд ашиглаж болзошгүй.
+
+Нөөцлөлт унтраалттай үед синк идэвхтэй байна. Синкийн тохиргоог Тохиргоо > Бүртгэл > Google хэсэгт өөрчлөх боломжтой."</string>
+    <string name="drive_backup_disabled_introduction">Автомат нөөцлөлтөөр утсаа дурын үед сэргээх, солих боломжтой.</string>
+    <string name="drive_backup_settings_title">Нөөцлөх</string>
+    <string name="drive_backup_state">Google Драйвт нөөцлөх</string>
+    <string name="drive_backup_state_dialog_message">"Энэ төхөөрөмжийн Google Драйв дахь нөөцлөлтийн өгөгдлийг бүрмөсөн устгана.
+
+Өмнө нь нөөцөлсөн зураг, видео нь Google Драйвт хэвээр үлдэнэ.
+
+Google Хуанли, Google Харилцагчийг таны Google бүртгэлд үргэлжлүүлэн синк хийнэ. Синкийн тохиргоог Тохиргоо > Бүртгэл > Google хэсэгт өөрчлөх боломжтой."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Энэ төхөөрөмжийн Google Драйвт нөөцөлсөн өгөгдлийг бүрмөсөн устгана.
+
+Google Хуанли, Google Харилцагчийг таны Google Бүртгэлд үргэлжлүүлэн синк хийнэ. Синкийн тохиргоог Тохиргоо > Бүртгэл > Google хэсэгт өөрчлөх боломжтой."</string>
+    <string name="drive_backup_state_dialog_okaction">Унтраагаад устгах</string>
+    <string name="drive_backup_state_dialog_title">Нөөцлөлтийг унтрааж, устгах уу?</string>
+    <string name="durationDayHour">%1$d өдөр %2$d цаг</string>
+    <string name="durationDayHours">%1$d өдөр %2$d цаг</string>
+    <string name="durationDays">%1$d өдөр</string>
+    <string name="durationHourMinute">%1$d цаг %2$d минут</string>
+    <string name="durationHourMinutes">%1$d цаг %2$d минут</string>
+    <string name="durationHours">%1$d цаг</string>
+    <string name="durationMinute">%1$d минут</string>
+    <string name="durationMinuteSecond">%1$d минут %2$d секунд</string>
+    <string name="durationMinuteSeconds">%1$d минут %2$d секунд</string>
+    <string name="durationMinutes">%1$d минут</string>
+    <string name="durationSecond">%1$d секунд</string>
+    <string name="durationSeconds">%1$d секунд</string>
+    <string name="encryption_warning_fragment_description">"Таны iPhone® төхөөрөмжид нөөцлөх шифрийг асаасан байна. Хэрэв та үүнийг асаагаагүй бол таны IT админ асаасан байж болзошгүй.
+
+Зөвхөн зураг, дуу, видеог хуулах боломжтой. Дэлгэрэнгүй үзэх бол "<b>g.co/datatransferhelp</b>-д зочилно уу.</string>
+    <string name="encryption_warning_fragment_title">Нөөцлөх шифр</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Би тохируулагчийг олж чадахгүй байна</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Таны ^1 ирсэн хайрцагт хавсаргасан хурдан шилжүүлэгчийн тохируулагчийг олно уу.
+
+Кабелийг тохируулагчид холбох."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Тохируулагч, кабелийг холбоно уу</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Хуучин утасныхаа түгжээг тайлаад, тохируулагчийг энэ утсанд залгана уу.</string>
+    <string name="fragment_usb_connect_both_phones_title">2 утсаа холбоно уу</string>
+    <string name="fragment_usb_dialog_cancel_description">Та кабелиар ихэнх агуулгыг авах боломжтой. Хэрэв хайрцагт байгаа кабель таны хуучин утастай тохирохгүй байвал хуучин утастайгаа тохирдог цэнэглэгч, эсвэл дата кабелийг ашиглана уу.</string>
+    <string name="fragment_usb_dialog_cancel_title">Өгөгдлийг өөр аргаар хуулах уу?</string>
+    <string name="fragment_usb_dont_have_cable">Надад кабель байхгүй</string>
+    <string name="fragment_usb_dont_have_old_phone">Миний хуучин утас байхгүй</string>
+    <string name="fragment_usb_find_cable_description">Хуучин утсандаа таарах дата, эсвэл цэнэглэгч кабелийг ашиглана уу.</string>
+    <string name="fragment_usb_find_cable_title">Зөв кабелийг олно уу</string>
+    <string name="fragment_usb_initial_description">Хуучин утаснаасаа энэ ^1-д өгөгдөл дамжуулна уу.</string>
+    <string name="fragment_usb_initial_title">Өгөгдлийг хуулцгаая</string>
+    <string name="fragment_usb_legacy_description">"Энэ нь өгөгдлийг хуулах хамгийн хурдан арга юм.
+
+Хайрцагт байгаа тохируулагчийг шинэ утсандаа залгана уу. 2 утсыг кабелиар холбож, хуучин утасныхаа түгжээг тайлна уу."</string>
+    <string name="fragment_usb_other_ways">Кабельгүйгээр хуулах</string>
+    <string name="fragment_usb_plug_cable">Кабелийг хуучин утсандаа залгана уу</string>
+    <string name="fragment_waiting_title">Түр хүлээнэ үү…</string>
+    <string name="gigabyteShort">Гигабайт</string>
+    <string name="google_contacts_static_text">Google харилцагч синк хийх болно</string>
+    <string name="google_contacts_static_text_off">Google харилцагчийг синк хийсээр байх болно</string>
+    <string name="header_set_backup_account">Нөөшлөх бүртгэл тохируулах</string>
+    <string name="i_message_dialog_message">"iPhone® төхөөрөмжийн хэрэглэгчээс SMS зурвас авсан хэвээр байхын тулд та iMessage®-г унтраах хэрэгтэй болно.
+
+Зааварчилгаа авах бол "<b>g.co/iMessageHelp</b>-д зочилно уу.</string>
+    <string name="instructions_fragment_title">Өөр утсандаа үргэлжлүүлнэ үү</string>
+    <string name="ios_connected_fragment_description">"Та дараагийн дэлгэцэд Google бүртгэлдээ нэвтрэх, эсвэл шинийг үүсгэх боломжтой.
+
+Хэрэв та Google бүртгэл нэмэхгүй бол таны iOS Хуанли®-ны арга хэмжээг шилжүүлэхгүй."</string>
+    <string name="ios_message_attachment_explanation">[Таны зурвасын хавсралтыг Google Зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгална]</string>
+    <string name="ios_message_attachment_failed_explanation">[Зарим хавсралтыг хуулах боломжгүй. Шилжүүлсэн хавсралтыг Google Зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгална]</string>
+    <string name="ios_message_attachment_placeholder">[Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгалсан хавсралт]</string>
+    <string name="ios_message_attachments_placeholder">[Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгалсан хавсралт]</string>
+    <string name="ios_migration_default_calendar_title">Хуанли</string>
+    <string name="ios_migration_other_contact_relation">Бусад</string>
+    <string name="ios_photos_dialog_message">"iCloud®-д хадгалсан зургийг хуулах боломжгүй.
+
+Эдгээр зургийг ^1-д хуулахын тулд Google Photos апп-г iPhone® төхөөрөмждөө суулгаж, нөөцлөлт, синкийг асаана уу. Дэлгэрэнгүй зааварчилгаа авахын тулд "<b>g.co/datatransferhelp</b>-д зочилно уу.</string>
+    <string name="kilobyteShort">Килобайт</string>
+    <string name="list_item_add_account">Бүртгэл нэмэх</string>
+    <string name="lockscreen_smartdevice_action_next">Дараах</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Утасны тохируулгыг үргэлжлүүлэхийн тулд түгжээг тайлна уу</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Аюулгүй байдлын үүднээс тохируулгыг үргэлжлүүлэхийн тулд дэлгэцийн түгжээгээ баталгаажуулна уу</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Дэлгэцийн түгжээгээ баталгаажуулна уу</string>
+    <string name="manage_data_label">Google бүртгэл</string>
+    <string name="master_clear_title">Үйлдвэрийн төлөвт дахин тохируулах</string>
+    <string name="megabyteShort">Мегабайт</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Нөөцлөх бүртгэлийг тохируулах шаардлагатай</string>
+    <string name="notification_content_title_set_backup_account">Нөөцлөлт</string>
+    <string name="notification_ticker_set_backup_account">Нөөшлөх бүртгэл хэрэгтэй</string>
+    <string name="permgrouplab_calendar">Хуанли</string>
+    <string name="permgrouplab_camera">Камер</string>
+    <string name="permgrouplab_contacts">Харилцагчийн хаяг</string>
+    <string name="permgrouplab_location">Байршил</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Утас</string>
+    <string name="permgrouplab_sensors">Биеийн мэдрэгч</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Сан</string>
+    <string name="petabyteShort">Петабайт</string>
+    <string name="photo_backup_configure_account_default_summary">Одоогоор ямар ч бүртгэл нөөцөлсөн зургийг хадгалаагүй байна</string>
+    <string name="photos_backup_title">Зургийн нөөцлөлт</string>
+    <string name="photos_filtering_option_all">Бүгд</string>
+    <string name="photos_filtering_option_none">Байхгүй</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Хуулсан харилцагчийг таны Google бүртгэлд хадгалах болно.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Хуулсан харилцагч, хуанлиг таны Google бүртгэлд хадгалах болно.</string>
+    <string name="restore_choice_data_disclaimer_v2">Таны зарим өгөгдлийг ^1-д хуулахгүй. <annotation id="restore_choice_data_disclaimer_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="restore_choice_deselect_some_content">Үргэлжлүүлэхийн тулд зарим агуулгын сонголтыг болиулна уу</string>
+    <string name="restore_choice_learn_more_android">"Таны хуучин утаснаас зарим мэдээллийг автоматаар хуулах боломжгүй. Үүнд: 
+
+ ● Таталт (жишээ нь PDF файл зэрэг)
+
+ ● Нуусан фолдерт хадгалсан зураг, видео, хөгжим
+
+ ● Текст зурвасаар ирсэн зураг, видео, хөгжим
+
+ ● Google Play Store-н бус апп
+
+ ● Апп өгөгдөл (хэрэв апп Андройд нөөцлөлтийг ашигладаггүй бол)
+
+ ● Зарим төхөөрөмжийн тохиргоо
+
+ ● Google бүртгэлээс өөр бүртгэл (бусад холбоотой өгөгдөл)
+
+ ● Харилцагч, хуанлийг Google-с өөр үйлчилгээнд синк хийсэн
+
+ ● Дуудлагын ая
+
+ Илүү дэлгэрэнгүй мэдээлэл авах, эдгээр өгөгдлийн заримыг хуулахад туслахын тулд g.co/datatransferhelp-д зочилно уу."</string>
+    <string name="restore_choice_learn_more_ios">"Таны хуучин утасны зарим өгөгдлийг автоматаар хуулах боломжгүй байна:
+
+ ● Апп, апп-н өгөгдөл
+
+ ● Таны утсанд хадгалаагүй эх зураг (жишээ нь: хэрэв Optimize сангийн тохиргоо асаалттай бол эх зургийг iCloud®-д хадгална)
+
+ ● iCloud®-д хадгалсан файл, документ
+
+ ● Төхөөрөмжийн тохиргоо (Wi-Fi нууц үг болон ханын зураг гэх мэт)
+
+ ● Digital Rights Management (DRM) хамгаалалтын хамгаалдаг хөгжим (жишээ нь: 2009 оны дөрөвдүгээр сараас өмнө худалдаж авсан iTunes® хөгжим, эсвэл хөгжим цацдаг апп-д татаж авсан офлайн үед сонсох хөгжим)
+
+ ● Google Бүртгэлээс бусад бүртгэл (бусад холбоотой өгөгдөл)
+
+ ● Google, эсвэл iCloud®-с бусад үйлчилгээнд синк хийсэн харилцагч, хуанли
+
+ ● Safari®-н номын хавчуурга
+
+ Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралт хэсэгт iMessage®-н хавсралт боломжтой.
+
+ Дэлгэрэнгүй мэдээлэл авах болон энэ өгөгдлийг хуулах бол g.co/datatransferhelp-д зочилно уу."</string>
+    <string name="restore_choice_not_enough_space">Хангалттай зай алга</string>
+    <string name="restore_choice_total_text">боломжит %1$s / %2$s шилжүүлэг</string>
+    <string name="restore_error_message">Уучлаарай, сэргээж чадсангүй.</string>
+    <string name="restore_item_appdata">Aпп-н өгөгдөл</string>
+    <string name="restore_item_calendar">Хуанли</string>
+    <string name="restore_item_calendar_ical_description">iOS® Хуанли, Google Хуанли</string>
+    <string name="restore_item_calendar_ical_off_description">Google Хуанли синк хийсээр байх болно</string>
+    <string name="restore_item_calendar_sync_description">Google Хуанли синк хийх болно</string>
+    <string name="restore_item_call_logs">Дуудлагын түүх</string>
+    <string name="restore_item_contacts">Харилцагчид</string>
+    <string name="restore_item_device_settings_description">Wi-Fi нууц үг, бусад</string>
+    <string name="restore_item_downloads">Таталт</string>
+    <string name="restore_item_email">Имэйл</string>
+    <string name="restore_item_email_description">Gmail синк хийх болно</string>
+    <string name="restore_item_message_attachments">Зурвасны хавсралт</string>
+    <string name="restore_item_messages">Зурвас</string>
+    <string name="restore_item_music">Хөгжим</string>
+    <string name="restore_item_photos">Зураг, видео</string>
+    <string name="restore_item_settings">Төхөөрөмжийн тохиргоо</string>
+    <string name="restore_item_sms">SMS зурвас</string>
+    <string name="restore_item_will_be_synced_text">Үүнийг таны утсанд синк хийнэ</string>
+    <string name="restore_progress_title">Сэргээж байна…</string>
+    <string name="small_time_duration">1 минутаас бага</string>
+    <string name="source_connected_description">Бэлдэж байна...</string>
+    <string name="source_connected_title">Таны %1$s-тай холбогдсон</string>
+    <string name="source_copying_description">Таны сонгосон өгөгдлийг таны шинэ утас руу хуулж байна</string>
+    <string name="source_copying_title">Хуулж байна...</string>
+    <string name="source_default_target_device_name">шинэ төхөөрөмж</string>
+    <string name="source_notification_device_disconnected">Кабелиа дахин холбоно уу</string>
+    <string name="source_notification_text">Утаснаас утас руу дамжуулж байна</string>
+    <string name="source_notification_title">Өгөгдөл дамжуулалт</string>
+    <string name="source_success_description">%1$s-д тохируулж дуусна уу.</string>
+    <string name="source_success_screen_title">Бүгд боллоо!</string>
+    <string name="source_unplugged_description">%1$s-г дахин холбоно уу</string>
+    <string name="source_unplugged_title">Кабель салсан</string>
+    <string name="source_waiting_title">%1$s-д үргэлжлүүлэн тохируулна уу</string>
+    <string name="stop_copying_dialog_continue_button">Хаах</string>
+    <string name="stop_copying_dialog_message_before_transfer">Таны шинэ утсанд өгөгдөл хуулаагүй байна</string>
+    <string name="stop_copying_dialog_message_during_transfer">Таны шинэ утсанд зарим өгөгдлийг хуулж чадсангүй</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Хуулахгүй</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Зогсоох</string>
+    <string name="stop_copying_dialog_title_before_transfer">Хуулахгүй юу?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Хуулахыг зогсоох уу?</string>
+    <string name="storage_management_wear_descriptive_text">Апп нь датаг зүүсгэлд хуулбарлахын тулд таны төхөөрөмжийн санг ашиглана.</string>
+    <string name="storage_management_wear_manage_size_label">Зүүсгэлийн санг удирдах</string>
+    <string name="storage_management_wear_size_label">Зүүсгэлийн сан</string>
+    <string name="storage_managment_all_storage_descriptive_text">Хайлтын систем болон бусад датаг оруулан, Google Наадаан үйлчилгээнд ашиглагдсан нийт дата.</string>
+    <string name="storage_managment_clear_all_data">Бүх датаг арилгах</string>
+    <string name="storage_managment_computing_size">Тооцоолж байна…</string>
+    <string name="storage_managment_icing_size_label">Хайлтын Дата</string>
+    <string name="storage_managment_manage_icing_button">Хайлтын датаг удирдах</string>
+    <string name="storage_managment_search_index_descriptive_text">Бид таны аппуудад хайлтын систем олгосноор таны утасны хайлтыг хурдасгах болгоно.</string>
+    <string name="storage_managment_title">Google Наадаан үйлчилгээний сан</string>
+    <string name="storage_managment_total_size_label">Нийт сан</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="suw_next_button_label">Дараах</string>
+    <string name="target_default_source_device_model">хуучин төхөөрөмж</string>
+    <string name="target_device_not_supported_cant_continue_description">Та өгөгдөл хуулах өөр арга сонгох шаардлагатай</string>
+    <string name="target_device_not_supported_cant_continue_title">Нөгөө утсыг дэмжээгүй байна</string>
+    <string name="target_device_not_supported_try_restarting_description">"Кабелиа салгаад, хуучин утсаа сэргээнэ үү. Дараа нь кабелиа залгаж, Pixel-н зааварчилгааг дагана уу.
+
+Хэрэв та энэ алдааг харсаар байвал өөр аргаар хуулах шаардлагатай."</string>
+    <string name="target_device_not_supported_try_restarting_title">Утсыг дэмжээгүй байж болзошгүй</string>
+    <string name="target_smart_device_timeout_add_account">БҮРТГЭЛ НЭМЭХ</string>
+    <string name="target_smart_device_timeout_description">Та бүртгэлээ гараар нэмэх боломжтой</string>
+    <string name="target_smart_device_timeout_dismiss">ХААХ</string>
+    <string name="target_smart_device_timeout_title">Асуудал тулгарсан уу?</string>
+    <string name="terabyteShort">Tерабайт</string>
+    <string name="toast_phones_connected">Утсыг холбосон байна</string>
+    <string name="toast_reconnect_cable">Кабелиа дахин холбоно уу</string>
+    <string name="transfer_finished_fragment_title">Дуусгах хүрэлтийг нэмж байна...</string>
+    <string name="transfer_summary_copied">Өгөгдлийг хуулсан</string>
+    <string name="transfer_summary_fragment_description">Та кабелийг салгаж болно.</string>
+    <string name="transfer_summary_fragment_finish">ДУУСАХ</string>
+    <string name="transfer_summary_fragment_title">Таны утас бараг л бэлэн боллоо</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Таны зарим зургийг хуулж чадсангүй. <annotation id="transfer_summary_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="transfer_summary_not_copied">Өгөгдлийг хуулж чадсангүй</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Хуулсан</string>
+    <string name="transfer_summary_will_sync">Өгөгдлийг тохируулсны дараа синк хийнэ</string>
+    <string name="transferring_fragment_calculating_remaining_time">Үлдсэн хугацааг тооцоолж байна...</string>
+    <string name="transferring_fragment_header">Хуулж байна...</string>
+    <string name="transferring_fragment_remaining_time">%1$s үлдсэн</string>
+    <string name="trust_instructions_description">Үргэлжлүүлэхийн тулд iPhone® төхөөрөмжөө шалгаад, холболтыг зөвшөөрнө үү</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, болон iTunes нь Apple Inc., корпорацийн худалдааны тэмдэг бөгөөд АНУ болон бусад оронд бүртгэлтэй байдаг.</string>
+</resources>

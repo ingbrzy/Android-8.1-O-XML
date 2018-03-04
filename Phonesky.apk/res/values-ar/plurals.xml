@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">تقييمك: %1$s من النجوم</item>
+        <item quantity="zero">تقييمك: %1$s نجمة</item>
+        <item quantity="one">تقييمك: نجمة واحدة (%1$s)</item>
+        <item quantity="two">تقييمك: نجمتان (%1$s)</item>
+        <item quantity="few">تقييمك: %1$s نجوم</item>
+        <item quantity="many">تقييمك: %1$s نجمة</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d من المراجعات</item>
+        <item quantity="zero">ليست هناك مراجعات (%1$d)</item>
+        <item quantity="one">مراجعة واحدة (%1$d)</item>
+        <item quantity="two">مراجعتان (%1$d)</item>
+        <item quantity="few">%1$d مراجعات</item>
+        <item quantity="many">%1$d مراجعة</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d من المراجعات للتقييم بالنجوم %2$d</item>
+        <item quantity="zero">ليست هناك أية مراجعة (%1$d) للتقييم بالنجوم %2$d</item>
+        <item quantity="one">مراجعة واحدة (%1$d) للتقييم بالنجوم %2$d</item>
+        <item quantity="two">مراجعتان (%1$d) للتقييم بالنجوم %2$d</item>
+        <item quantity="few">%1$d مراجعات للتقييم بالنجوم %2$d</item>
+        <item quantity="many">%1$d مراجعة للتقييم بالنجوم %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">تم إيقاف عمليات التثبيت مؤقتًا</item>
+        <item quantity="zero">تم إيقاف عمليات التثبيت مؤقتًا</item>
+        <item quantity="one">تم إيقاف عملية التثبيت مؤقتًا</item>
+        <item quantity="two">تم إيقاف عمليتي التثبيت مؤقتًا</item>
+        <item quantity="few">تم إيقاف عمليات التثبيت مؤقتًا</item>
+        <item quantity="many">تم إيقاف عمليات التثبيت مؤقتًا</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">تم فحص التطبيقات قبل %1$d يوم</item>
+        <item quantity="zero">تم فحص التطبيقات قبل %1$d يوم</item>
+        <item quantity="one"></item>
+        <item quantity="two">تم فحص التطبيقات قبل يومين (%1$d)</item>
+        <item quantity="few">تم فحص التطبيقات قبل %1$d أيام</item>
+        <item quantity="many">تم فحص التطبيقات قبل %1$d يومًا</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">تمت إزالة %1$d تطبيق ضار. %2$s.</item>
+        <item quantity="zero">تمت إزالة %1$d تطبيق ضار. %2$s.</item>
+        <item quantity="one">تمت إزالة تطبيق ضار (%1$d). %2$s.</item>
+        <item quantity="two">تمت إزالة تطبيقين (%1$d) ضاريْن. %2$s.</item>
+        <item quantity="few">تمت إزالة %1$d تطبيقات ضارة. %2$s.</item>
+        <item quantity="many">تمت إزالة %1$d تطبيقًا ضارًا. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d من التحديثات تحتاج الى موافقة</item>
+        <item quantity="zero">%1$d لا توجد تحديثات تحتاج إلى موافقة</item>
+        <item quantity="one">تحديث %1$d يحتاج إلى موافقة</item>
+        <item quantity="two">تحديثان (%1$d) يحتاجان إلى موافقة</item>
+        <item quantity="few">%1$d تحديثات تحتاج الى موافقة</item>
+        <item quantity="many">%1$d تحديثًا يحتاج الى موافقة</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d من التحديثات الجديدة</item>
+        <item quantity="zero">ليست هناك أية تحديثات جديدة (%1$d)</item>
+        <item quantity="one">تحديث جديد (%1$d)</item>
+        <item quantity="two">تحديثان جديدان (%1$d)</item>
+        <item quantity="few">%1$d تحديثات جديدة</item>
+        <item quantity="many">%1$d تحديثًا جديدًا</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d من التحديثات متاحة</item>
+        <item quantity="zero">%1$d لا توجد تحديثات متاحة</item>
+        <item quantity="one">تحديث %1$d متاح</item>
+        <item quantity="two">تحديثان (%1$d) متاحان</item>
+        <item quantity="few">%1$d تحديثات متاحة</item>
+        <item quantity="many">%1$d تحديثًا متاحًا</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">تحديث الكل</item>
+        <item quantity="zero">لا تحديثات</item>
+        <item quantity="one">تحديث واحد</item>
+        <item quantity="two">تحديث الكل</item>
+        <item quantity="few">تحديث الكل</item>
+        <item quantity="many">تحديث الكل</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">تم تحديث %1$d من التطبيقات</item>
+        <item quantity="zero">%1$d لم يتم تحديث أية تطبيقات</item>
+        <item quantity="one">تم تحديث تطبيق %1$d</item>
+        <item quantity="two">تم تحديث تطبيقين (%1$d)</item>
+        <item quantity="few">تم تحديث %1$d تطبيقات</item>
+        <item quantity="many">تم تحديث %1$d تطبيقًا</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+        <item quantity="zero">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s من النجوم</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s</item>
+        <item quantity="zero">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s من النجوم - %3$s</item>
+        <item quantity="two">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s</item>
+        <item quantity="few">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s</item>
+        <item quantity="many">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+        <item quantity="zero">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+        <item quantity="two">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+        <item quantity="few">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+        <item quantity="many">&lt;b> %1$s &lt;/b> %2$s من النجوم - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">استفاد %1$d من المستخدمين من هذه المراجعة. وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+        <item quantity="zero">لم يستفد أي مستخدم (%1$d) من هذه المراجعة. وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+        <item quantity="one">استفاد مستخدم واحد (%1$d) من هذه المراجعة. وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+        <item quantity="two">استفاد مستخدمان (%1$d) من هذه المراجعة وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+        <item quantity="few">استفاد %1$d مستخدمين من هذه المراجعة. وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+        <item quantity="many">استفاد %1$d مستخدمًا من هذه المراجعة. وضع علامة تشير إلى أن هذه المراجعة مفيدة</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">استفاد %1$d من المستخدمين من هذه المراجعة. إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+        <item quantity="zero">لم يستفد أي مستخدم (%1$d) من هذه المراجعة. إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+        <item quantity="one">استفاد مستخدم واحد (%1$d) من هذه المراجعة. إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+        <item quantity="two">استفاد مستخدمان (%1$d) من هذه المراجعة إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+        <item quantity="few">استفاد %1$d مستخدمين من هذه المراجعة. إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+        <item quantity="many">استفاد %1$d مستخدمًا من هذه المراجعة. إزالة العلامة التي تشير إلى أن التعليق مفيد</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">تم تقييمه بعدد &lt;b> %1$s من النجوم&lt;/b></item>
+        <item quantity="zero">تم تقييمه بعدد &lt;b> %1$s من النجوم&lt;/b></item>
+        <item quantity="one">تم تقييمه بعدد &lt;b>%1$s من النجوم&lt;/b></item>
+        <item quantity="two">تم تقييمه بعدد &lt;b> %1$s من النجوم&lt;/b></item>
+        <item quantity="few">تم تقييمه بعدد &lt;b> %1$s من النجوم&lt;/b></item>
+        <item quantity="many">تم تقييمه بعدد &lt;b> %1$s من النجوم&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">في %1$s تعليق</item>
+        <item quantity="zero">في %1$s تعليق</item>
+        <item quantity="one">في %1$s تعليق</item>
+        <item quantity="two">في تعليقين (%1$s)</item>
+        <item quantity="few">في %1$s تعليقات</item>
+        <item quantity="many">في %1$s تعليقًا</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b> %1$s من النجوم&lt;/b> %2$s</item>
+        <item quantity="zero">&lt;b> %1$s من النجوم&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s من النجوم&lt;/b> %2$s</item>
+        <item quantity="two">&lt;b> %1$s من النجوم&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b> %1$s من النجوم&lt;/b> %2$s</item>
+        <item quantity="many">&lt;b> %1$s من النجوم&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">تم الاستخدام آخر مرة قبل %1$d من الأيام</item>
+        <item quantity="zero">تم الاستخدام آخر مرة قبل أقل من يوم (%1$d)</item>
+        <item quantity="one">تم الاستخدام آخر مرة قبل %1$d من الأيام</item>
+        <item quantity="two">تم الاستخدام آخر مرة قبل يومين (%1$d)</item>
+        <item quantity="few">تم الاستخدام آخر مرة قبل %1$d أيام</item>
+        <item quantity="many">تم الاستخدام آخر مرة قبل %1$d يومًا</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">استرداد التطبيقات المحددة (%1$d)</item>
+        <item quantity="zero">استرداد التطبيقات المحددة (%1$d)</item>
+        <item quantity="one">استرداد التطبيق المحدد</item>
+        <item quantity="two">استرداد التطبيقين المحددين (%1$d)</item>
+        <item quantity="few">استرداد التطبيقات المحددة (%1$d)</item>
+        <item quantity="many">استرداد التطبيقات المحددة (%1$d)</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">من النجوم</item>
+        <item quantity="zero">بدون نجوم</item>
+        <item quantity="one">نجمة</item>
+        <item quantity="two">نجمتان</item>
+        <item quantity="few">نجوم</item>
+        <item quantity="many">نجمة</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">سيتم تثبيت التطبيقات قريبًا.</item>
+        <item quantity="zero">سيتم تثبيت التطبيقات قريبًا.</item>
+        <item quantity="one">سيتم تثبيت التطبيق قريبًا.</item>
+        <item quantity="two">سيتم تثبيت التطبيقين قريبًا.</item>
+        <item quantity="few">سيتم تثبيت التطبيقات قريبًا.</item>
+        <item quantity="many">سيتم تثبيت التطبيقات قريبًا.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">سيتم تثبيت تحديثات التطبيقات قريبًا.</item>
+        <item quantity="zero">سيتم تثبيت تحديثات التطبيقات قريبًا.</item>
+        <item quantity="one">سيتم تثبيت تحديث التطبيق قريبًا.</item>
+        <item quantity="two">سيتم تثبيت تحديثين التطبيقين قريبًا.</item>
+        <item quantity="few">سيتم تثبيت تحديثات التطبيقات قريبًا.</item>
+        <item quantity="many">سيتم تثبيت تحديثات التطبيقات قريبًا.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">تم الاستخدام آخر مرة قبل %1$d يوم</item>
+        <item quantity="zero">تم الاستخدام آخر مرة قبل %1$d يوم</item>
+        <item quantity="one">تم الاستخدام آخر مرة قبل %1$d يوم</item>
+        <item quantity="two">تم الاستخدام آخر مرة قبل يومين (%1$d)</item>
+        <item quantity="few">تم الاستخدام آخر مرة قبل %1$d أيام</item>
+        <item quantity="many">تم الاستخدام آخر مرة قبل %1$d يومًا</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">تم الاستخدام آخر مرة قبل %1$d شهر</item>
+        <item quantity="zero">تم الاستخدام آخر مرة قبل %1$d شهر</item>
+        <item quantity="one">تم الاستخدام آخر مرة قبل %1$d شهر</item>
+        <item quantity="two">تم الاستخدام آخر مرة قبل شهرين (%1$d)</item>
+        <item quantity="few">تم الاستخدام آخر مرة قبل %1$d أشهر</item>
+        <item quantity="many">تم الاستخدام آخر مرة قبل %1$d شهرًا</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+        <item quantity="zero">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+        <item quantity="one">لتثبيت التطبيق أو التحديث على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+        <item quantity="two">لتثبيت التطبيقين أو التحديثين على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+        <item quantity="few">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+        <item quantity="many">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في إعدادات سعة التخزين.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+        <item quantity="zero">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+        <item quantity="one">لتثبيت التطبيق أو التحديث على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+        <item quantity="two">لتثبيت التطبيقين أو التحديثين على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+        <item quantity="few">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+        <item quantity="many">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط &lt;a href=\"\">الإعدادات > سعة التخزين&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+        <item quantity="zero">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+        <item quantity="one">لتثبيت التطبيق أو التحديث على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+        <item quantity="two">لتثبيت التطبيقين أو التحديثين على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+        <item quantity="few">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+        <item quantity="many">لتثبيت التطبيقات أو التحديثات على هذا الجهاز، احذف التطبيقات التي لم تعد تحتاج إليها، كما يمكنك إخلاء مساحة من خلال حذف ملفات الوسائط في الإعدادات > سعة التخزين.</item>
+    </plurals>
+</resources>

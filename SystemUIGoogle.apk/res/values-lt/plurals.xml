@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Netinkamas SIM kortelės PIN kodas. Liko %d bandymų.</item>
+        <item quantity="one">Netinkamas SIM kortelės PIN kodas. Liko %d bandymas.</item>
+        <item quantity="few">Netinkamas SIM kortelės PIN kodas. Liko %d bandymai.</item>
+        <item quantity="many">Netinkamas SIM kortelės PIN kodas. Liko %d bandymo.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Netinkamas SIM kortelės PUK kodas. Liko %d bandymų. Paskui visiškai nebegalėsite naudoti SIM kortelės.</item>
+        <item quantity="one">Netinkamas SIM kortelės PUK kodas. Liko %d bandymas. Paskui visiškai nebegalėsite naudoti SIM kortelės.</item>
+        <item quantity="few">Netinkamas SIM kortelės PUK kodas. Liko %d bandymai. Paskui visiškai nebegalėsite naudoti SIM kortelės.</item>
+        <item quantity="many">Netinkamas SIM kortelės PUK kodas. Liko %d bandymo. Paskui visiškai nebegalėsite naudoti SIM kortelės.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Įrenginys nebuvo atrakintas %d valandų. Patvirtinkite slaptažodį.</item>
+        <item quantity="one">Įrenginys nebuvo atrakintas %d valandą. Patvirtinkite slaptažodį.</item>
+        <item quantity="few">Įrenginys nebuvo atrakintas %d valandas. Patvirtinkite slaptažodį.</item>
+        <item quantity="many">Įrenginys nebuvo atrakintas %d valandos. Patvirtinkite slaptažodį.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Įrenginys nebuvo atrakintas %d valandų. Patvirtinkite atrakinimo piešinį.</item>
+        <item quantity="one">Įrenginys nebuvo atrakintas %d valandą. Patvirtinkite atrakinimo piešinį.</item>
+        <item quantity="few">Įrenginys nebuvo atrakintas %d valandas. Patvirtinkite atrakinimo piešinį.</item>
+        <item quantity="many">Įrenginys nebuvo atrakintas %d valandos. Patvirtinkite atrakinimo piešinį.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Įrenginys nebuvo atrakintas %d valandų. Patvirtinkite PIN kodą.</item>
+        <item quantity="one">Įrenginys nebuvo atrakintas %d valandą. Patvirtinkite PIN kodą.</item>
+        <item quantity="few">Įrenginys nebuvo atrakintas %d valandas. Patvirtinkite PIN kodą.</item>
+        <item quantity="many">Įrenginys nebuvo atrakintas %d valandos. Patvirtinkite PIN kodą.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">„%1$s“, „%2$s“ ir dar %3$d kanalų</item>
+        <item quantity="one">„%1$s“, „%2$s“ ir dar %3$d kanalas</item>
+        <item quantity="few">„%1$s“, „%2$s“ ir dar %3$d kanalai</item>
+        <item quantity="many">„%1$s“, „%2$s“ ir dar %3$d kanalo</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Grupėje yra dar %s pranešimų.</item>
+        <item quantity="one">Grupėje yra dar %s pranešimas.</item>
+        <item quantity="few">Grupėje yra dar %s pranešimai.</item>
+        <item quantity="many">Grupėje yra dar %s pranešimo.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 iš %s šios programos pranešimų kategorijų</item>
+        <item quantity="one">1 iš %s šios programos pranešimų kategorijos</item>
+        <item quantity="few">1 iš %s šios programos pranešimų kategorijų</item>
+        <item quantity="many">1 iš %s šios programos pranešimų kategorijos</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d valandų</item>
+        <item quantity="one">%d valanda</item>
+        <item quantity="few">%d valandos</item>
+        <item quantity="many">%d valandos</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minučių</item>
+        <item quantity="one">%d minutė</item>
+        <item quantity="few">%d minutės</item>
+        <item quantity="many">%d minutės</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d ekranų apžvalga</item>
+        <item quantity="one">%d ekrano apžvalga</item>
+        <item quantity="few">%d ekranų apžvalga</item>
+        <item quantity="many">%d ekrano apžvalga</item>
+    </plurals>
+</resources>

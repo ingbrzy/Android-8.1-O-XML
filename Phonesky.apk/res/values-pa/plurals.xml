@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">ਤੁਹਾਡੀ ਰੇਟਿੰਗ: %1$s ਸਟਾਰ</item>
+        <item quantity="one">ਤੁਹਾਡੀ ਰੇਟਿੰਗ: %1$s ਸਟਾਰ</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d ਸਮੀਖਿਆਵਾਂ</item>
+        <item quantity="one">%1$d ਸਮੀਖਿਆਵਾਂ</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">ਸਟਾਰ ਰੇਟਿੰਗ %2$d ਲਈ %1$d ਸਮੀਖਿਆਵਾਂ</item>
+        <item quantity="one">ਸਟਾਰ ਰੇਟਿੰਗ %2$d ਲਈ %1$d ਸਮੀਖਿਆਵਾਂ</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">ਸਥਾਪਨਾਵਾਂ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ ਗਿਆ</item>
+        <item quantity="one">ਸਥਾਪਨਾਵਾਂ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">ਐਪਾਂ %1$d ਦਿਨ ਪਹਿਲਾਂ ਸਕੈਨ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">ਐਪਾਂ %1$d ਦਿਨ ਪਹਿਲਾਂ ਸਕੈਨ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d ਹਾਨੀਕਾਰਕ ਐਪਾਂ ਹਟਾਈਆਂ ਗਈਆਂ। %2$s।</item>
+        <item quantity="one">%1$d ਹਾਨੀਕਾਰਕ ਐਪ ਹਟਾਈ ਗਈ। %2$s।</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ਅਪਡੇਟਾਂ ਲਈ ਮਨਜ਼ੂਰੀ ਦੀ ਲੋੜ ਹੈ</item>
+        <item quantity="one">%1$d ਅਪਡੇਟਾਂ ਲਈ ਮਨਜ਼ੂਰੀ ਦੀ ਲੋੜ ਹੈ</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d ਨਵੀਆਂ ਅਪਡੇਟਾਂ</item>
+        <item quantity="one">%1$d ਨਵੀਆਂ ਅਪਡੇਟਾਂ</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d ਅਪਡੇਟਾਂ ਉਪਲਬਧ</item>
+        <item quantity="one">%1$d ਅਪਡੇਟਾਂ ਉਪਲਬਧ</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">ਸਾਰਿਆਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ</item>
+        <item quantity="one">ਸਾਰਿਆਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ਐਪਲੀਕੇਸ਼ਨਾਂ ਅਪਡੇਟ ਕੀਤੀਆਂ</item>
+        <item quantity="one">%1$d ਐਪਲੀਕੇਸ਼ਨਾਂ ਅਪਡੇਟ ਕੀਤੀਆਂ</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ਸਟਾਰ - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d ਉਪਭੋਗਤਾਵਾਂ ਨੇ ਇਸ ਸਮੀਖਿਆ ਨੂੰ ਉਪਯੋਗੀ ਪਾਇਆ। ਟਿੱਪਣੀ ਨੂੰ ਉਪਯੋਗੀ ਦੇ ਤੌਰ ਤੇ ਚਿੰਨ੍ਹਿਤ ਕਰੋ</item>
+        <item quantity="one">%1$d ਉਪਭੋਗਤਾਵਾਂ ਨੇ ਇਸ ਸਮੀਖਿਆ ਨੂੰ ਉਪਯੋਗੀ ਪਾਇਆ। ਟਿੱਪਣੀ ਨੂੰ ਉਪਯੋਗੀ ਦੇ ਤੌਰ ਤੇ ਚਿੰਨ੍ਹਿਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d ਉਪਭੋਗਤਾਵਾਂ ਨੇ ਇਸ ਸਮੀਖਿਆ ਨੂੰ ਉਪਯੋਗੀ ਪਾਇਆ। ਟਿੱਪਣੀ ਨੂੰ ਉਪਯੋਗੀ ਦੇ ਤੌਰ ਤੇ ਅਚਿੰਨ੍ਹਿਤ ਕਰੋ</item>
+        <item quantity="one">%1$d ਉਪਭੋਗਤਾਵਾਂ ਨੇ ਇਸ ਸਮੀਖਿਆ ਨੂੰ ਉਪਯੋਗੀ ਪਾਇਆ। ਟਿੱਪਣੀ ਨੂੰ ਉਪਯੋਗੀ ਦੇ ਤੌਰ ਤੇ ਅਚਿੰਨ੍ਹਿਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">ਇਸਨੂੰ ਦਰਜਾ ਦਿੱਤਾ &lt;b>%1$s ਸਟਾਰ&lt;/b></item>
+        <item quantity="one">ਇਸਨੂੰ ਦਰਜਾ ਦਿੱਤਾ &lt;b>%1$s ਸਟਾਰ&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s ਸਮੀਖਿਆਵਾਂ ਵਿੱਚ</item>
+        <item quantity="one">%1$s ਸਮੀਖਿਆਵਾਂ ਵਿੱਚ</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s ਸਟਾਰ&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s ਸਟਾਰ&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">ਪਿਛਲੀ ਵਾਰ %1$d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤਿਆ</item>
+        <item quantity="one">ਪਿਛਲੀ ਵਾਰ %1$d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤਿਆ</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">ਚੁਣੀਆਂ ਗਈਆਂ %1$d ਐਪਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ</item>
+        <item quantity="one">ਚੁਣੀਆਂ ਗਈਆਂ %1$d ਐਪਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ਸਟਾਰ</item>
+        <item quantity="one">ਸਟਾਰ</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">ਐਪਾਂ ਨੂੰ ਜਲਦ ਹੀ ਸਥਾਪਤ ਕੀਤਾ ਜਾਵੇਗਾ।</item>
+        <item quantity="one">ਐਪਾਂ ਨੂੰ ਜਲਦ ਹੀ ਸਥਾਪਤ ਕੀਤਾ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">ਐਪ ਅੱਪਡੇਟ ਜਲਦ ਹੀ ਸਥਾਪਤ ਕੀਤੇ ਜਾਣਗੇ।</item>
+        <item quantity="one">ਐਪ ਅੱਪਡੇਟ ਜਲਦ ਹੀ ਸਥਾਪਤ ਕੀਤੇ ਜਾਣਗੇ।</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">ਆਖਰੀ ਵਾਰ %1$d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤੀ ਗਈ</item>
+        <item quantity="one">ਆਖਰੀ ਵਾਰ %1$d ਦਿਨ ਪਹਿਲਾਂ ਵਰਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">ਆਖਰੀ ਵਾਰ %1$d ਮਹੀਨੇ ਪਹਿਲਾਂ ਵਰਤੀ ਗਈ</item>
+        <item quantity="one">ਆਖਰੀ ਵਾਰ %1$d ਮਹੀਨੇ ਪਹਿਲਾਂ ਵਰਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਸਟੋਰੇਜ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+        <item quantity="one">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਸਟੋਰੇਜ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ &lt;a href=\"\">ਸੈਟਿੰਗਾਂ > ਸਟੋਰੇਜ&lt;/a> ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਨੂੰ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+        <item quantity="one">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ &lt;a href=\"\">ਸੈਟਿੰਗਾਂ > ਸਟੋਰੇਜ&lt;/a> ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਨੂੰ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ > ਸਟੋਰੇਜ ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਨੂੰ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+        <item quantity="one">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਐਪਾਂ ਜਾਂ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ, ਉਹਨਾਂ ਐਪਾਂ ਨੂੰ ਮਿਟਾਓ ਜਿੰਨ੍ਹਾਂ ਦੀ ਹੁਣ ਤੁਹਾਨੂੰ ਲੋੜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ > ਸਟੋਰੇਜ ਵਿੱਚ ਮੀਡੀਆ ਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੁਆਰਾ ਵੀ ਜਗ੍ਹਾ ਨੂੰ ਖਾਲੀ ਕਰ ਸਕਦੇ ਹੋ।"</item>
+    </plurals>
+</resources>

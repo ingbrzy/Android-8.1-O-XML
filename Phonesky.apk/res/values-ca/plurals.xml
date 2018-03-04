@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">La teva puntuació: %1$s estrelles</item>
+        <item quantity="one">La teva puntuació: %1$s estrella</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d ressenyes</item>
+        <item quantity="one">%1$d ressenya</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d ressenyes amb una puntuació en estrelles de %2$d</item>
+        <item quantity="one">%1$d ressenya amb una puntuació en estrelles de %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Instal·lacions posades en pausa</item>
+        <item quantity="one">Instal·lació posada en pausa</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Les aplicacions es van analitzar fa %1$d dies</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">"S'han suprimit %1$d aplicacions perjudicials. %2$s."</item>
+        <item quantity="one">"S'ha suprimit %1$d aplicació perjudicial. %2$s."</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d actualitzacions per aprovar</item>
+        <item quantity="one">%1$d actualització per aprovar</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d noves actualitzacions</item>
+        <item quantity="one">%1$d nova actualització</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d actualitzacions disponibles</item>
+        <item quantity="one">%1$d actualització disponible</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Actualitza-ho tot</item>
+        <item quantity="one">Actualitza</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d aplicacions actualitzades</item>
+        <item quantity="one">%1$d aplicació actualitzada</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelles</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrella</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelles: %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrella: %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s estrelles: %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s estrella: %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d usuaris han trobat útil aquesta ressenya. Marca la ressenya com a útil</item>
+        <item quantity="one">%1$d usuari ha trobat útil aquesta ressenya. Marca la ressenya com a útil</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d usuaris han trobat útil aquesta ressenya. No marquis la ressenya com a útil</item>
+        <item quantity="one">%1$d usuari ha trobat útil aquesta ressenya. No marquis la ressenya com a útil</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Puntuat amb &lt;b>%1$s estrelles&lt;/b></item>
+        <item quantity="one">Puntuat amb &lt;b>%1$s estrella&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">en %1$s ressenyes</item>
+        <item quantity="one">en %1$s ressenya</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s estrelles&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s estrella&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Últim ús: fa %1$d dies</item>
+        <item quantity="one">Últim ús: fa %1$d dia</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Restaura les %1$d aplicacions seleccionades</item>
+        <item quantity="one">"Restaura l'aplicació seleccionada"</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">estrelles</item>
+        <item quantity="one">estrella</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">"Les aplicacions s'instal·laran aviat."</item>
+        <item quantity="one">"L'aplicació s'instal·larà aviat."</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">"Les actualitzacions de les aplicacions s'instal·laran aviat."</item>
+        <item quantity="one">"L'actualització de l'aplicació s'instal·larà aviat."</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Últim ús: fa %1$d dies</item>
+        <item quantity="one">Últim ús: fa %1$d dia</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Últim ús: fa %1$d mesos</item>
+        <item quantity="one">Últim ús: fa %1$d mes</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Per instal·lar aplicacions o actualitzacions en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a Configuració > Emmagatzematge.</item>
+        <item quantity="one">"Per instal·lar l'aplicació o actualitzar-la en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a Configuració > Emmagatzematge."</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Per instal·lar aplicacions o actualitzacions en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a &lt;a href=\"\">Configuració > Emmagatzematge&lt;/a>.</item>
+        <item quantity="one">"Per instal·lar l'aplicació o actualitzar-la en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a &lt;a href=\"\">Configuració > Emmagatzematge&lt;/a>."</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Per instal·lar aplicacions o actualitzacions en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a Configuració > Emmagatzematge.</item>
+        <item quantity="one">"Per instal·lar l'aplicació o actualitzar-la en aquest dispositiu, suprimeix les aplicacions que ja no necessitis. També pots alliberar espai suprimint fitxers multimèdia a Configuració > Emmagatzematge."</item>
+    </plurals>
+</resources>

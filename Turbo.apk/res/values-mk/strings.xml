@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Исчисти го пребарувањето</string>
+    <string name="place_autocomplete_search_hint">Пребарај</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
+    <string name="common_google_play_services_enable_button">Овозможи</string>
+    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
+    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+    <string name="common_open_on_phone">Отвори на телефонот</string>
+    <string name="common_signin_button_text">Најави се</string>
+    <string name="common_signin_button_text_long">Најави се со Google</string>
+    <string name="anomaly_entry_system">Систем Android</string>
+    <string name="background_battery_usage_description">Откриено е значително користење на батеријата во заднина</string>
+    <string name="battery_history_days">%1$d д. %2$d ч. %3$d м. %4$d с.</string>
+    <string name="battery_history_hours">%1$d ч. %2$d м. %3$d с.</string>
+    <string name="battery_history_minutes">%1$d м. %2$d с.</string>
+    <string name="battery_history_seconds">%1$d сек.</string>
+    <string name="battery_history_days_no_seconds">%1$d дена %2$d часа %3$d минути</string>
+    <string name="battery_history_hours_no_seconds">%1$d часа %2$d минути</string>
+    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
+    <string name="notification_channel_name">Известување за слаба батерија</string>
+    <string name="time_remaining_warning_subtext">Уште околу %1$s според користењето</string>
+    <string name="time_remaining_warning_text">Батеријата може да се истроши наскоро</string>
+    <string name="usage_alerts_empty_state">Нема предупредувања од последното целосно полнење на батеријата</string>
+    <string name="usage_alerts_title">Предупредувања за батеријата</string>
+</resources>

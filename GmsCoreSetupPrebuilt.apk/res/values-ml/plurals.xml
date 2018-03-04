@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">എല്ലാ %1$d ആപ്‌സും</item>
+        <item quantity="one">ഒരു ആപ്പ്</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d ആപ്‌സ് തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">ഒരു ആപ്പ് തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d ആപ്‌സ് ഇതിനകം തന്നെ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ട്</item>
+        <item quantity="one">ഒരു ആപ്പ് ഇതിനകം തന്നെ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ട്</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">നിങ്ങളുടെ ബാക്കപ്പിൽ %1$d ആപ്‌സുണ്ട്. അവയിൽ കുറച്ച് തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ അവയെല്ലാം തന്നെ കൊണ്ടുവരിക.</item>
+        <item quantity="one">നിങ്ങളുടെ ബാക്കപ്പിൽ %1$d ആപ്പുണ്ട്.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d ഉപകരണ കോൺടാക്റ്റുകൾ</item>
+        <item quantity="one">ഒരു ഉപകരണ കോൺടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d സിം, %2$d ഉപകരണം</item>
+        <item quantity="one">%1$d സിം, %2$d ഉപകരണം</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® കോൺടാക്റ്റുകൾ</item>
+        <item quantity="one">1 iCloud® കോൺടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d സിം കോണ്‍‌ടാക്റ്റുകള്‍‌</item>
+        <item quantity="one">ഒരു സിം കോൺടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">ഞങ്ങൾ %1$d ആപ്‌സ് കണ്ടെത്തി. അവയിൽ കുറച്ച് തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ അവയെല്ലാം തന്നെ കൊണ്ടുവരിക.</item>
+        <item quantity="one">ഞങ്ങൾ %1$d ആപ്പ് കണ്ടെത്തി. അത് കൊണ്ടുവരാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">നിങ്ങളുടെ %1$d iOS® ആപ്‌സിനോട് പൊരുത്തപ്പെടുന്ന ഒരു ആപ്പ് ഞങ്ങൾ കണ്ടെത്തി. ഓരോ ആപ്പും ഇൻസ്റ്റാൾ ചെയ്യുക വഴി, അവയുടെ അനുമതികൾ നിങ്ങൾ അംഗീകരിക്കുകയാണ്. &lt;annotation id="apps_permissions_learn_more">കൂടുതലറിയുക&lt;/annotation></item>
+        <item quantity="one">നിങ്ങളുടെ ഒരു iOS® ആപ്പിനോട് പൊരുത്തപ്പെടുന്ന ഒരു ആപ്പ് ഞങ്ങൾ കണ്ടെത്തി. ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക വഴി, അതിന്റെ അനുമതികൾ നിങ്ങൾ അംഗീകരിക്കുകയാണ്. &lt;annotation id="apps_permissions_learn_more">കൂടുതലറിയുക&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d ഇനങ്ങൾ ശേഷിക്കുന്നു…</item>
+        <item quantity="one">%1$d ഇനം ശേഷിക്കുന്നു…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">ശ്രദ്ധിക്കൂ! ഈ ഇവന്റിൽ ഇനിയങ്ങോട്ട് ഇനിപ്പറയുന്ന പങ്കെടുക്കുന്നവർ ഉൾപ്പെടില്ല:</item>
+        <item quantity="one">ശ്രദ്ധിക്കൂ! ഈ ഇവന്റിൽ ഇനിയങ്ങോട്ട് ഇനിപ്പറയുന്ന പങ്കെടുക്കുന്നയാൾ ഉൾപ്പെടില്ല:</item>
+    </plurals>
+</resources>

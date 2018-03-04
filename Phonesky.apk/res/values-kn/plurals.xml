@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">ನಿಮ್ಮ ರೇಟಿಂಗ್: %1$s ನಕ್ಷತ್ರಗಳು</item>
+        <item quantity="one">ನಿಮ್ಮ ರೇಟಿಂಗ್: %1$s ನಕ್ಷತ್ರಗಳು</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d ಅಭಿಪ್ರಾಯಗಳು</item>
+        <item quantity="one">%1$d ಅಭಿಪ್ರಾಯಗಳು</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d ನಕ್ಷತ್ರ ರೇಟಿಂಗ್ ಮಾಡಿರುವುದಕ್ಕೆ %1$d ಅಭಿಪ್ರಾಯಗಳು</item>
+        <item quantity="one">%2$d ನಕ್ಷತ್ರ ರೇಟಿಂಗ್ ಮಾಡಿರುವುದಕ್ಕೆ %1$d ಅಭಿಪ್ರಾಯಗಳು</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">ಸ್ಥಾಪನೆಗಳನ್ನು ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಸ್ಥಾಪನೆಗಳನ್ನು ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು %1$d ದಿನಗಳ ಹಿಂದೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು %1$d ದಿನಗಳ ಹಿಂದೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d ಅಪಾಯಕಾರಿ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. %2$s.</item>
+        <item quantity="one">%1$d ಅಪಾಯಕಾರಿ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳಿಗೆ ಅನುಮೋದನೆ ಅಗತ್ಯವಿದೆ</item>
+        <item quantity="one">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳಿಗೆ ಅನುಮೋದನೆ ಅಗತ್ಯವಿದೆ</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d ಹೊಸ ಅಪ್‌ಡೇಟ್‌‌ಗಳು</item>
+        <item quantity="one">%1$d ಹೊಸ ಅಪ್‌ಡೇಟ್‌‌ಗಳು</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳು ಲಭ್ಯವಿದೆ</item>
+        <item quantity="one">%1$d ಅಪ್‌ಡೇಟ್‌ಗಳು ಲಭ್ಯವಿದೆ</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">ಎಲ್ಲವನ್ನೂ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</item>
+        <item quantity="one">ಎಲ್ಲವನ್ನೂ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ನಕ್ಷತ್ರಗಳು - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d ಬಳಕೆದಾರರು ಈ ಅಭಿಪ್ರಾಯವು ಉಪಯುಕ್ತವಾಗಿದೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ. ಕಾಮೆಂಟ್‌ ಸಹಾಯಕವಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ</item>
+        <item quantity="one">%1$d ಬಳಕೆದಾರರು ಈ ಅಭಿಪ್ರಾಯವು ಉಪಯುಕ್ತವಾಗಿದೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ. ಕಾಮೆಂಟ್‌ ಸಹಾಯಕವಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d ಬಳಕೆದಾರರು ಈ ಅಭಿಪ್ರಾಯವು ಉಪಯುಕ್ತವಾಗಿದೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ. ಸಹಾಯಕವಾಗಿದೆ ಎಂಬ ಕಾಮೆಂಟ್‌ ಗುರುತು ರದ್ದುಮಾಡಿ</item>
+        <item quantity="one">%1$d ಬಳಕೆದಾರರು ಈ ಅಭಿಪ್ರಾಯವು ಉಪಯುಕ್ತವಾಗಿದೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ. ಸಹಾಯಕವಾಗಿದೆ ಎಂಬ ಕಾಮೆಂಟ್‌ ಗುರುತು ರದ್ದುಮಾಡಿ</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>%1$s ನಕ್ಷತ್ರಗಳು&lt;/b> ರೇಟ್</item>
+        <item quantity="one">&lt;b>%1$s ನಕ್ಷತ್ರಗಳು&lt;/b> ರೇಟ್</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ</item>
+        <item quantity="one">%1$s ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s ನಕ್ಷತ್ರಗಳು&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s ನಕ್ಷತ್ರಗಳು&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">ಕೊನೆಯದಾಗಿ %1$d ದಿನಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಕೊನೆಯದಾಗಿ %1$d ದಿನಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">ಆಯ್ಕೆಮಾಡಿದ %1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</item>
+        <item quantity="one">ಆಯ್ಕೆಮಾಡಿದ %1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ನಕ್ಷತ್ರಗಳು</item>
+        <item quantity="one">ನಕ್ಷತ್ರಗಳು</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="one">ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">ಅಪ್ಲಿಕೇಶನ್‌ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="one">ಅಪ್ಲಿಕೇಶನ್‌ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">ಕೊನೆಯದಾಗಿ %1$d ದಿನಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಕೊನೆಯದಾಗಿ %1$d ದಿನಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">ಕೊನೆಯದಾಗಿ %1$d ತಿಂಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಕೊನೆಯದಾಗಿ %1$d ತಿಂಗಳ ಹಿಂದೆ ಬಳಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. ಸಂಗ್ರಹಣೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿನ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕವೂ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+        <item quantity="one">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. ಸಂಗ್ರಹಣೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿನ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕವೂ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. a href=\"\">ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸಂಗ್ರಹಣೆ&lt;/a> ರಲ್ಲಿ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕವೂ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+        <item quantity="one">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. a href=\"\">ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸಂಗ್ರಹಣೆ&lt;/a> ರಲ್ಲಿ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕವೂ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸಂಗ್ರಹಣೆಯಲ್ಲಿನ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕ ಸಹ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+        <item quantity="one">ಈ ಸಾಧನದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು, ನಿಮಗೆ ಇನ್ನು ಮುಂದೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಅಳಿಸಿ. ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸಂಗ್ರಹಣೆಯಲ್ಲಿನ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸುವ ಮೂಲಕ ಸಹ ನೀವು ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಬಹುದು.</item>
+    </plurals>
+</resources>

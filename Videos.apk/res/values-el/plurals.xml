@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Αξιολογήθηκε με %1$s αστέρια από %2$d άτομα</item>
+        <item quantity="one">Αξιολογήθηκε με %1$s αστέρια από έναν χρήστη</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Λήγει σε %1$d ώρες</item>
+        <item quantity="one">Λήγει σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Ακόμα %1$d</item>
+        <item quantity="one">Ακόμα %1$d</item>
+    </plurals>
+</resources>

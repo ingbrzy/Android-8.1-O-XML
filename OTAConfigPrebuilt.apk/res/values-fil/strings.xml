@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setup ng device</string>
+    <string name="sim_locked_notification_content">Tanungin ang %1$s kung maa-unlock ang device. Mag-tap para sa detalye ng contact.</string>
+    <string name="sim_locked_notification_content_no_contact">Tanungin ang iyong carrier kung maa-unlock ang device na ito</string>
+    <string name="sim_locked_notification_title">Hindi sinusuportahan ang SIM card</string>
+    <string name="sim_unlock_failure_notification_content">Kakailanganin mong makipag-ugnayan sa %1$s. Mag-tap para sa mga detalye.</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">Kakailanganin mong makipag-ugnayan sa iyong carrier</string>
+    <string name="sim_unlock_failure_notification_title">Hindi maalis ang lock ng carrier</string>
+    <string name="sim_unlocked_notification_content">Magagamit na ngayon ang device sa anumang network</string>
+    <string name="sim_unlocked_notification_title">Naalis na ang lock ng carrier</string>
+    <string name="zero_touch_disclaimer_no_contact_info">Na-configure ang device na ito para sa pamamahala. Kung isa itong error, makipag-ugnayan sa provider ng iyong device</string>
+    <string name="zero_touch_disclaimer_with_support_link">Na-set up ng %1$s ang device na ito upang pamahalaan ng iyong organisasyon. Kung isa itong error, &lt;a href=%2$s>makipag-ugnayan sa provider ng iyong device&lt;/a>.&lt;br>&lt;br>Pamamahalaan ng sumusunod na app ang iyong device:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"Na-set up ng %s ang device na ito upang pamahalaan ng iyong organisasyon. Kung isa itong error, makipag-ugnayan sa provider ng iyong device.
+
+Pamamahalaan ng sumusunod na app ang iyong device:"</string>
+    <string name="zero_touch_header">Ang iyong device sa trabaho</string>
+    <string name="zero_touch_notification_content">Malapit nang awtomatikong mag-reset</string>
+    <string name="zero_touch_notification_title">Pinamamahalaan ng admin ang device</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">Na-set up ng %1$s ang device na ito upang pamahalaan ng iyong organisasyon. Kung isa itong error, &lt;a href=%2$s>makipag-ugnayan sa provider ng iyong device&lt;/a>.&lt;br>&lt;br>Upang ipagpatuloy ang pag-set up, kailangang ma-reset ang device na ito. Made-delete ang lahat ng data sa device.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"Na-set up ng %s ang device na ito upang pamahalaan ng iyong organisasyon. Kung isa ito error, makipag-ugnayan sa provider ng iyong device.
+
+Upang ipagpatuloy ang pag-set up, kailangang ma-reset ang device na ito. Made-delete ang lahat ng data sa device."</string>
+    <string name="zero_touch_reset_now">i-reset na</string>
+    <string name="zero_touch_reset_soon">Malapit nang awtomatikong mag-reset ang iyong device.</string>
+    <string name="zero_touch_reset_wait">ok</string>
+    <string name="zero_touch_retrieving_header">Sinusuri ang impormasyon ng device…</string>
+    <string name="zero_touch_retrieving_text">Hindi ito magtatagal</string>
+    <string name="zero_touch_support_title">Suporta</string>
+    <string name="zero_touch_url_error">Hindi maipakita ang link.</string>
+</resources>

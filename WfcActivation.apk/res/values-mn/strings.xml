@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Дараах</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="vzw_wfc_activation_error">WiFi дуудлагыг идэвхжүүлэх боломжгүй байна. Дахин оролдоно уу.</string>
+    <string name="vzw_address_update_error">Одоогийн яаралтай тусламжийн хаягийг шинэчлэх боломжгүй байна. Дахин оролдоно уу.</string>
+    <string name="emergency_address_app_label">Яаралтай тусламжийн хаягийн удирдлага</string>
+    <string name="progress_text">Түр хүлээнэ үү...</string>
+    <string name="vzw_tos_title">Wi-Fi Дуудлагыг идэвхжүүлэх</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="vzw_tos_text">"Wi-Fi Дуудлага нь мобайл сүлжээ идэвхгүй үед Wi-Fi ашиглан дуудлага хийх боломжийг олгодог. 
+
+Wi-Fi Дуудлагыг тохируулахын тулд та АНУ-н хаягаа оруулах шаардлагатай. Хэрэв та АНУ-д энэ утаснаас Wi-Fi ашиглан яаралтай дуудлага (E911) хийвэл энэ хаягийг таны байршилд яаралтай дуудлагын үйлчилгээний үед ашиглана. 
+
+Байршлын мэдээллээ зөв байлгахын тулд өөр Wi-Fi сүлжээ ашиглан дуудлага хийхдээ энэ хаягийг өөрчилнө үү. Та Wi-Fi Дуудлагын тохиргооны цэс хэсэгт байршлаа хүссэн үедээ өөрчлөх боломжтой."</string>
+    <string name="vzw_tos_link">Ерөнхий нөхцөл</string>
+    <string name="tos_continue">Үргэлжлүүлэх</string>
+    <string name="vzw_e911_title">Яаралтай дуудлагын байршлын мэдээлэл</string>
+    <string name="vzw_e911_description"><b>ЧУХАЛ - ЯАРАЛТАЙ ДУУДЛАГЫН 911 ХАЯГ ШААРДЛАГАТАЙ</b>"
+Wi-Fi Дуудлагыг асаахын тулд 911 руу залган, яаралтай тусламж авах АНУ-н хаягаа оруулна уу. Та хаягаа Тохиргоо хэсэгт хүссэн үедээ өөрчлөх боломжтой. Та байршлаа өөрчлөх бүртээ хаягаа шинэчлэх хэрэгтэй."</string>
+    <string name="vzw_e911_warning"><b>АНХААРУУЛГА - ЯАРАЛТАЙ ДУУДЛАГЫН 911 ХЯЗГААР</b>"
+911 рүү залгахдаа операторт хаана байгаагаа тогтмол хэлнэ үү. Таны мобайл сүлжээ боломжгүй үед Wi-Fi-р 911 рүү залгана. 911-н систем хаягийг танихгүй байх, цахилгаан тасрах, эсвэл таны Wi-Fi холболт ажиллахгүй байх зэрэг тохиолдолд Wi-Fi-р хийсэн дуудлага гацах, эсвэл амжилтгүй болж болзошгүй. Яаралтай тусламжийн үйлчилгээ таны дээр өгсөн хаягийн дагуу очих тул байршлаа өөрчилсөн тохиолдолд шинэчилнэ үү."</string>
+    <string name="house_number">Хаягийн дугаар</string>
+    <string name="street">Гудамж</string>
+    <string name="apt_suite_number">Байр, байшин гэх мэт.</string>
+    <string name="city">Хот</string>
+    <string name="state">Улс</string>
+    <string name="zip_code">Зип код</string>
+    <string name="save">Хадгалах</string>
+    <string name="vzw_address_confirm_text_part1">Гудамжны хаяг олдоогүй эсвэл хот, улс, зип код буруу байснаас бид таны оруулсан хаягийг олсонгүй.</string>
+    <string name="vzw_address_confirm_text_part2">"Таны хот, улс, зип буруу байвал %1$s-г,  үгүй бол %2$s-г товшино уу."</string>
+    <string name="save_anyway">Хэдийд ч хадгалах</string>
+    <string name="edit_address">Хаяг засах</string>
+    <string name="ok">ЗА</string>
+    <string name="vzw_address_select_text">Бид таны оруулсан хаягийг олж чадсангүй:</string>
+    <string name="vzw_address_alternate_text">Үүнийг хайсан уу:</string>
+    <string name="vzw_partial_confirm_head">Оруулсан хаягийг Яаралтай дуудлагын үйлчилгээ үзүүлэгч баталгаажуулах боломжгүй байна.</string>
+    <string name="vzw_partial_confirm_text">Та гэнэтийн тохиолдолд энэ хаягийг ашиглах уу?</string>
+    <string name="vzw_partial_failure_text_part1">Таны оруулсан хот, улс, эсвэл зип код буруу байж болзошгүй.</string>
+    <string name="vzw_partial_failure_text_part2">Хаягаа шалгаад, дахин оролдоно уу.</string>
+    <string name="vzw_address_update_success_toast">Яаралтай тусламжийн хаягийг шинэчилсэн</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi унтраалттай байна</string>
+    <string name="connect_to_wifi_or_web_portal_message">Та Wi-Fi дуудлагыг мобайл сүлжээгээр тохируулах боломжтой хэдий ч энэ онцлогийг ашиглахын тулд Wi-Fi-г асааж, сүлжээнд холбогдох шаардлагатай.</string>
+    <string name="button_turn_on_wifi">Wi‑Fi-г асаах</string>
+    <string name="button_setup_web_portal">Тохиргоог үргэлжлүүлэх</string>
+</resources>

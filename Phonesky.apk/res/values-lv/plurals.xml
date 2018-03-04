@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Jūsu vērtējums: %1$s zvaigznītes</item>
+        <item quantity="zero">Jūsu vērtējums: %1$s zvaigznītes</item>
+        <item quantity="one">Jūsu vērtējums: %1$s zvaigznīte</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d atsauksmes</item>
+        <item quantity="zero">%1$d atsauksmes</item>
+        <item quantity="one">%1$d atsauksme</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d atsauksmes ar šādu vērtējumu zvaigznītēs: %2$d</item>
+        <item quantity="zero">%1$d atsauksmes ar šādu vērtējumu zvaigznītēs: %2$d</item>
+        <item quantity="one">%1$d atsauksme ar šādu vērtējumu zvaigznītēs: %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Instalēšana apturēta</item>
+        <item quantity="zero">Instalēšana apturēta</item>
+        <item quantity="one">Instalēšana apturēta</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Lietotnes pārbaudītas pirms %1$d dienām.</item>
+        <item quantity="zero">Lietotnes pārbaudītas pirms %1$d dienām.</item>
+        <item quantity="one">Lietotnes pārbaudītas pirms %1$d dienas.</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Noņemtas %1$d kaitīgas lietotnes. %2$s.</item>
+        <item quantity="zero">Noņemtas %1$d kaitīgas lietotnes. %2$s.</item>
+        <item quantity="one">Noņemta %1$d kaitīga lietotne. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Jāapstiprina %1$d atjauninājumi</item>
+        <item quantity="zero">Jāapstiprina %1$d atjauninājumi</item>
+        <item quantity="one">Jāapstiprina %1$d atjauninājums</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d jauni atjauninājumi</item>
+        <item quantity="zero">%1$d jauni atjauninājumi</item>
+        <item quantity="one">%1$d jauns atjauninājums</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Pieejami %1$d atjauninājumi</item>
+        <item quantity="zero">Pieejami %1$d atjauninājumi</item>
+        <item quantity="one">Pieejams %1$d atjauninājums</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Atjaunināt visas</item>
+        <item quantity="zero">Atjaunināt visas</item>
+        <item quantity="one">Atjaunināt visas</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Atjauninātas %1$d lietojumprogrammas</item>
+        <item quantity="zero">Atjauninātas %1$d lietojumprogrammas</item>
+        <item quantity="one">Atjaunināta %1$d lietojumprogramma</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvaigznītes</item>
+        <item quantity="zero">&lt;b>%1$s&lt;/b> %2$s zvaigznītes</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvaigznīte</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvaigznītes — %3$s</item>
+        <item quantity="zero">&lt;b>%1$s&lt;/b> %2$s zvaigznītes — %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvaigznīte — %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvaigznītes — %3$s — %4$s</item>
+        <item quantity="zero">&lt;b>%1$s&lt;/b> %2$s zvaigznītes — %3$s — %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvaigznīte — %3$s — %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d lietotājiem šī atsauksme šķita noderīga. Atzīmēt komentāru kā noderīgu.</item>
+        <item quantity="zero">%1$d lietotājiem šī atsauksme šķita noderīga. Atzīmēt komentāru kā noderīgu.</item>
+        <item quantity="one">%1$d lietotājam šī atsauksme šķita noderīga. Atzīmēt komentāru kā noderīgu.</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d lietotājiem šī atsauksme šķita noderīga. Noņemiet noderīga komentāra atzīmi.</item>
+        <item quantity="zero">%1$d lietotājiem šī atsauksme šķita noderīga. Noņemiet noderīga komentāra atzīmi.</item>
+        <item quantity="one">%1$d lietotājam šī atsauksme šķita noderīga. Noņemiet noderīga komentāra atzīmi.</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>%1$s zvaigznītes&lt;/b></item>
+        <item quantity="zero">&lt;b>%1$s zvaigznītes&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s zvaigznīte&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">Šādā skaitā atsauksmju: %1$s</item>
+        <item quantity="zero">Šādā skaitā atsauksmju: %1$s</item>
+        <item quantity="one">Šādā skaitā atsauksmju: %1$s</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s zvaigznītes&lt;/b> %2$s</item>
+        <item quantity="zero">&lt;b>%1$s zvaigznītes&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s zvaigznīte&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Pēdējoreiz izmantota pirms %1$d dienām.</item>
+        <item quantity="zero">Pēdējoreiz izmantota pirms %1$d dienām.</item>
+        <item quantity="one">Pēdējoreiz izmantota pirms %1$d dienas.</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Atjaunot %1$d atlasītās lietotnes</item>
+        <item quantity="zero">Atjaunot %1$d atlasītās lietotnes</item>
+        <item quantity="one">Atjaunot %1$d atlasīto lietotni</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">zvaigznītes</item>
+        <item quantity="zero">zvaigznītes</item>
+        <item quantity="one">zvaigznīte</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Lietotnes drīz tiks instalētas.</item>
+        <item quantity="zero">Lietotnes drīz tiks instalētas.</item>
+        <item quantity="one">Lietotnes drīz tiks instalētas.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Lietotņu atjauninājumi drīz tiks instalēti.</item>
+        <item quantity="zero">Lietotņu atjauninājumi drīz tiks instalēti.</item>
+        <item quantity="one">Lietotņu atjauninājumi drīz tiks instalēti.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Pēdējoreiz izmantota pirms %1$d dienām</item>
+        <item quantity="zero">Pēdējoreiz izmantota pirms %1$d dienām</item>
+        <item quantity="one">Pēdējoreiz izmantota pirms %1$d dienas</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Pēdējoreiz izmantota pirms %1$d mēnešiem</item>
+        <item quantity="zero">Pēdējoreiz izmantota pirms %1$d mēnešiem</item>
+        <item quantity="one">Pēdējoreiz izmantota pirms %1$d mēneša</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus krātuves iestatījumos.</item>
+        <item quantity="zero">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus krātuves iestatījumos.</item>
+        <item quantity="one">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus krātuves iestatījumos.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā &lt;a href=\"\">Iestatījumi > Krātuve&lt;/a>.</item>
+        <item quantity="zero">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā &lt;a href=\"\">Iestatījumi > Krātuve&lt;/a>.</item>
+        <item quantity="one">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā &lt;a href=\"\">Iestatījumi > Krātuve&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā Iestatījumi > Krātuve.</item>
+        <item quantity="zero">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā Iestatījumi > Krātuve.</item>
+        <item quantity="one">Lai instalētu ierīcē lietotnes vai atjauninājumus, izdzēsiet nevajadzīgās lietotnes. Varat arī atbrīvot vietu, izdzēšot multivides failus sadaļā Iestatījumi > Krātuve.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Siz qo‘ygan baho: %1$s</item>
+        <item quantity="one">Siz qo‘ygan baho: %1$s</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d ta sharh</item>
+        <item quantity="one">%1$d ta sharh</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d baholi sharhlar soni %1$d ta</item>
+        <item quantity="one">%2$d baholi sharhlar soni %1$d ta</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">O‘rnatishlar pauza qilindi</item>
+        <item quantity="one">O‘rnatish pauza qilindi</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Ilovalar %1$d kun oldin tekshirilgan</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d ta zararli ilova olib tashlandi. %2$s.</item>
+        <item quantity="one">%1$d ta zararli ilova olib tashlandi. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ta yangilanish tasdiqni kutmoqda</item>
+        <item quantity="one">%1$d ta yangilanish tasdiqni kutmoqda</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d ta yangilanish mavjud</item>
+        <item quantity="one">%1$d ta yangilanish mavjud</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d ta yangilanish mavjud</item>
+        <item quantity="one">%1$d ta yangilanish mavjud</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Barchasini yangilash</item>
+        <item quantity="one">Yangilash</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ta ilova yangilandi</item>
+        <item quantity="one">%1$d ta ilova yangilandi</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> Baho – %2$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> Baho – %2$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s baho – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s baho – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s baho – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s baho – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d ta foydalanuvchi bu sharhni foydali deb topdi. Foydali deb belgilash</item>
+        <item quantity="one">%1$d ta foydalanuvchi bu sharhni foydali deb topdi. Foydali deb belgilash</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d ta foydalanuvchi bu sharhni foydali deb topdi. Amalni bekor qilish</item>
+        <item quantity="one">%1$d ta foydalanuvchi bu sharhni foydali deb topdi. Amalni bekor qilish</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>Baho – %1$s&lt;/b></item>
+        <item quantity="one">&lt;b>Baho – %1$s&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s ta sharhda</item>
+        <item quantity="one">%1$s ta sharhda</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>Baho – %1$s&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>Baho – %1$s&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">So‘nggi foydalanish: %1$d kun oldin</item>
+        <item quantity="one">So‘nggi foydalanish: %1$d kun oldin</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">%1$d ta ilovani tiklash</item>
+        <item quantity="one">Tanlangan ilovani tiklash</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Ilovalar tez orada o‘rnatiladi.</item>
+        <item quantity="one">Ilova tez orada o‘rnatiladi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Ilovalar yangilanishi tez orada o‘rnatiladi.</item>
+        <item quantity="one">Ilova yangilanishi tez orada o‘rnatiladi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">So‘nggi foydalanish: %1$d kun oldin</item>
+        <item quantity="one">So‘nggi foydalanish: %1$d kun oldin</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">So‘nggi foydalanish: %1$d oy oldin</item>
+        <item quantity="one">So‘nggi foydalanish: %1$d oy oldin</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Ilovalarni o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. Xotira sozlamalari orqali ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+        <item quantity="one">Ilovani o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. Xotira sozlamalari orqali ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Ilovalarni o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. &lt;a href=\"\">Sozlamalar > Xotira&lt;/a> bo‘limida ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+        <item quantity="one">Ilovani o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. &lt;a href=\"\">Sozlamalar > Xotira&lt;/a> bo‘limida ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Ilovalarni o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. Sozlamalar > Xotira bo‘limida ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+        <item quantity="one">Ilovani o‘rnatish yoki yangilash uchun oldin foydalanilmayotgan ilovalarni o‘chirib tashlang. Sozlamalar > Xotira bo‘limida ham media fayllarni o‘chirish bilan xotirada bo‘sh joyni ko‘paytirish mumkin.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Ryd søgning</string>
+    <string name="place_autocomplete_search_hint">Søg</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="anomaly_entry_system">Android-system</string>
+    <string name="background_battery_usage_description">Der er registreret højt batteriforbrug i baggrunden</string>
+    <string name="battery_history_days">%1$d dage %2$d t. %3$d min. %4$d sek.</string>
+    <string name="battery_history_hours">%1$d t. %2$d min. %3$d sek.</string>
+    <string name="battery_history_minutes">%1$d min. %2$d sek.</string>
+    <string name="battery_history_seconds">%1$d sek.</string>
+    <string name="battery_history_days_no_seconds">%1$d dage %2$d t. %3$d min.</string>
+    <string name="battery_history_hours_no_seconds">%1$d t. %2$d min.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min.</string>
+    <string name="notification_channel_name">Underretning om lavt batteriniveau</string>
+    <string name="time_remaining_warning_subtext">Der er ca. %1$s tilbage, alt efter hvordan du bruger enheden</string>
+    <string name="time_remaining_warning_text">Enheden løber muligvis snart tør for batteri</string>
+    <string name="usage_alerts_empty_state">Ingen underretninger siden sidste fulde opladning af batteriet</string>
+    <string name="usage_alerts_title">Underretninger om forbrug</string>
+</resources>

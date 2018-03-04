@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Puntuat amb %1$s estrelles per %2$d usuaris</item>
+        <item quantity="one">Puntuat amb %1$s estrelles per un usuari</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">"Caduca d'aquí a %1$d dies"</item>
+        <item quantity="one">"Caduca d'aquí a %1$d dia"</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">"Caduca d'aquí a %1$d hores"</item>
+        <item quantity="one">"Caduca d'aquí a %1$d hora"</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d més</item>
+        <item quantity="one">%1$d més</item>
+    </plurals>
+</resources>

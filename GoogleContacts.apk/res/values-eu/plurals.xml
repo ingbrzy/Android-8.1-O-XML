@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%2$s etiketan gehitu dira %1$d kontaktu</item>
+        <item quantity="one">%2$s etiketan gehitu da %1$d kontaktu</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d kontaktu %2$s etiketan gehitzen</item>
+        <item quantity="one">%1$d kontaktu %2$s etiketan gehitzen</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Eman begiratu bat %d kontakturi buruzko iradokitako informazioari</item>
+        <item quantity="one">Eman begiratu bat %d kontakturi buruzko iradokitako informazioari</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d kontaktu baztergarri</item>
+        <item quantity="one">%d kontaktu baztergarri</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontaktu bikoiztu</item>
+        <item quantity="one">1 kontaktu bikoiztu</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d dei izan dituzu duela gutxi • Azkena: %2$s</item>
+        <item quantity="one">%1$d dei izan duzu duela gutxi • Azkena: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Dagoeneko %1$s etiketan gehitu dira kontaktuak</item>
+        <item quantity="one">Dagoeneko %1$s etiketan gehitu da kontaktua</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">%d kontaktu</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktu · %2$s</item>
+        <item quantity="one">%1$d kontaktu · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontaktu ezabatu dira</item>
+        <item quantity="one">%1$d kontaktu ezabatu da</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Google Kontaktuak zerbitzutik eta sinkronizatutako gailu guztietatik kenduko dira kontaktu hauek.</item>
+        <item quantity="one">Google Kontaktuak zerbitzutik eta sinkronizatutako gailu guztietatik kenduko da kontaktu hau.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktu dituzu beste kontuetan</item>
+        <item quantity="one">1 kontaktu duzu beste kontuetan</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktu</item>
+        <item quantity="one">1 kontaktu</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktu • ^2</item>
+        <item quantity="one">^1 kontaktu • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">%1$d kontaktu hauek %2$s kontura eraman nahi dituzu?</item>
+        <item quantity="one">Kontaktu hau %2$s kontura eraman nahi duzu?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d kontaktu eraman dira</item>
+        <item quantity="one">%d kontaktu eraman da</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Eraman dira %d kontaktuak</item>
+        <item quantity="one">Eraman da kontaktua</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d kontaktuak eramaten</item>
+        <item quantity="one">Kontaktua eramaten</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontakturen babeskopiak egin dira %2$s kontuan</item>
+        <item quantity="one">%1$d kontakturen babeskopia egin da %2$s kontuan</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Inportatu SIM txarteletatik</item>
+        <item quantity="one">Inportatu SIM txarteletik</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">1 kontaktu</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">SIM txarteleko %d kontaktu inportatu dira</item>
+        <item quantity="one">SIM txarteleko 1 kontaktu inportatu da</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Partekatu kontaktuak honen bidez</item>
+        <item quantity="one">Partekatu kontaktua honen bidez</item>
+    </plurals>
+</resources>

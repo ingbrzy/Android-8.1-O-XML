@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">आपले रेटिंग: %1$s तारे</item>
+        <item quantity="one">आपले रेटिंग: %1$s तारा</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d पुनरावलोकने</item>
+        <item quantity="one">%1$d पुनरावलोकन</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">तारा रेटिंग %2$d साठी %1$d पुनरावलोकने</item>
+        <item quantity="one">तारा रेटिंग %2$d साठी %1$d पुनरावलोकन</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">स्थापनांना विराम दिला</item>
+        <item quantity="one">स्थापनेस विराम दिला</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">अॅप्‍स %1$d दिवसांपूर्वी स्कॅन केले</item>
+        <item quantity="one">अॅप्‍स %1$d दिवसापूर्वी स्कॅन केला</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d हानीकारक अॅप्स काढली. %2$s.</item>
+        <item quantity="one">%1$d हानिकारक अॅप काढले. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d अद्यतनांना मंजूरी आवश्यक आहे</item>
+        <item quantity="one">%1$d अद्यतनास मंजूरी आवश्यक आहे</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d नवीन अद्यतने</item>
+        <item quantity="one">%1$d नवीन अद्यतन</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d अद्यतने उपलब्‍ध आहेत</item>
+        <item quantity="one">%1$d अद्यतन उपलब्‍ध आहे</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">सर्व अद्यतनित करा</item>
+        <item quantity="one">सर्व अद्यतनित करा</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d अनुप्रयोग अद्यतनित केले</item>
+        <item quantity="one">%1$d अनुप्रयोग अद्यतनित केला</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s तारे</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s तारा</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s तारे - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s तारा - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s तारे - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s तारा - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d वापरकर्त्यांना हे पुनरावलोकन उपयुक्त वाटले. टिप्पणी उपयुक्त म्हणून चिन्हांकित करा</item>
+        <item quantity="one">%1$d वापरकर्त्यास हे पुनरावलोकन उपयुक्त वाटले. टिप्पणी उपयुक्त म्हणून चिन्हांकित करा</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d वापरकर्त्यांना हे पुनरावलोकन उपयुक्त वाटले. उपयुक्त म्हणून टिप्पणीचे चिन्हांकन रद्द करा</item>
+        <item quantity="one">%1$d वापरकर्त्यास हे पुनरावलोकन उपयुक्त वाटले. उपयुक्त म्हणून टिप्पणीचे चिन्हांकन रद्द करा</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">त्यास &lt;b>%1$s तारे&lt;/b> रेट केले</item>
+        <item quantity="one">त्यास &lt;b>%1$s तारा&lt;/b> रेट केले</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s पुनरावलोकनांमध्‍ये</item>
+        <item quantity="one">%1$s पुनरावलोकनामध्‍ये</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s तारे&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s तारा&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">अखेरचे %1$d दिवसांपूर्वी वापरले</item>
+        <item quantity="one">अखेरचे %1$d दिवसापूर्वी वापरले</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">निवडलेले %1$d अॅप्स पुनर्संचयित करा</item>
+        <item quantity="one">निवडलेला %1$d अॅप पुनर्संचयित करा</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">तारे</item>
+        <item quantity="one">तारा</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">अॅप्स लवकरच स्थापित केले जातील.</item>
+        <item quantity="one">अॅप लवकरच स्थापित केला जाईल.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">अॅप अद्यतने लवकरच स्थापित केले जातील.</item>
+        <item quantity="one">अॅप अद्यतन लवकरच स्थापित केले जाईल.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">अखेरचे %1$d दिवसांपूर्वी वापरले</item>
+        <item quantity="one">अखेरचे %1$d दिवसापूर्वी वापरले</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">अखेरचे %1$d महिन्यांपूर्वी वापरले</item>
+        <item quantity="one">अखेरचे %1$d महिन्यापूर्वी वापरले</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">या डिव्हाइसवर अॅप्स स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण संचय सेटिंग्ज मधून मीडिया फायली हटवून देखील स्‍थान मोकळे करू शकता.</item>
+        <item quantity="one">या डिव्हाइसवर अॅप स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण संचय सेटिंग्ज मधून मीडिया फायली हटवून देखील स्‍थान मोकळे करू शकता.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">या डिव्हाइसवर अॅप्स स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण &lt;a href=\"\">सेटिंग्ज > संचय&lt;/a> मधील मीडिया फायली हटवून देखील स्थान मोकळे करू शकता.</item>
+        <item quantity="one">या डिव्हाइसवर अॅप स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण &lt;a href=\"\">सेटिंग्ज > संचय&lt;/a> मधील मीडिया फायली हटवून देखील स्थान मोकळे करू शकता.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">या डिव्हाइसवर अॅप्स स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण सेटिंग्ज > संचय मधून मीडिया फायली हटवून देखील स्थान मोकळे करू शकता.</item>
+        <item quantity="one">या डिव्हाइसवर अॅप स्थापित करण्‍यासाठी किंवा अद्यतनित करण्‍यासाठी, आपल्याला यापुढे आवश्यकता नसलेले अॅप्स हटवा. आपण सेटिंग्ज > संचय मधून मीडिया फायली हटवून देखील स्थान मोकळे करू शकता.</item>
+    </plurals>
+</resources>

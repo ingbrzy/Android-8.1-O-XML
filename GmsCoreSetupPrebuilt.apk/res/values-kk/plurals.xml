@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Барлық %1$d қолданба</item>
+        <item quantity="one">1 қолданба</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d қолданба таңдалды</item>
+        <item quantity="one">1 қолданба таңдалды</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d қолданба әлдеқашан орнатылды</item>
+        <item quantity="one">1 қолданба әлдеқашан орнатылды</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d қолданбаның сақтық көшірмесін жасауға болады. Бірнешеуін таңдаңыз немесе барлығын алыңыз.</item>
+        <item quantity="one">%1$d қолданбаның сақтық көшірмесін жасауға болады.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d құрылғы контактісі</item>
+        <item quantity="one">1 құрылғы контактісі</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d контакт SIM картасында, %2$d контакт құрылғыда</item>
+        <item quantity="one">%1$d контакт SIM картасында, %2$d контакт құрылғыда</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® контактісі</item>
+        <item quantity="one">1 iCloud® контактісі</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM контактісі</item>
+        <item quantity="one">1 SIM контактісі</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d қолданба табылды. Бірнешеуін таңдаңыз немесе барлығын алыңыз.</item>
+        <item quantity="one">%1$d қолданба табылды. Оны алғыңыз келе ме?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">iOS® қолданбалары үшін %1$d сәйкестік табылды. Бұл қолданбаны орнату арқылы оған қажетті рұқсаттарды беруге келісесіз. &lt;annotation id="apps_permissions_learn_more">Толығырақ&lt;/annotation></item>
+        <item quantity="one">iOS® қолданбалары үшін бір сәйкестік табылды. Бұл қолданбаны орнату арқылы оған қажетті рұқсаттарды беруге келісесіз. &lt;annotation id="apps_permissions_learn_more">Толығырақ&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d элемент қалды…</item>
+        <item quantity="one">%1$d элемент қалды…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Назар аударыңыз! Мына қатысушы енді бұл іс-шарада болмайды:</item>
+        <item quantity="one">Назар аударыңыз! Мына қатысушы енді бұл іс-шарада болмайды:</item>
+    </plurals>
+</resources>

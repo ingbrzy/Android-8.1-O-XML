@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Нүүр хуудас руу шилжих</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Дээш шилжих</string>
+    <string name="abc_action_menu_overflow_description">Нэмэлт сонголтууд</string>
+    <string name="abc_action_mode_done">Дууссан</string>
+    <string name="abc_activity_chooser_view_see_all">Бүгдийг харах</string>
+    <string name="abc_activitychooserview_choose_application">Апп сонгох</string>
+    <string name="abc_capital_off">ИДЭВХГҮЙ</string>
+    <string name="abc_capital_on">ИДЭВХТЭЙ</string>
+    <string name="abc_search_hint">Хайх...</string>
+    <string name="abc_searchview_description_clear">Асуулгыг цэвэрлэх</string>
+    <string name="abc_searchview_description_query">Хайх асуулга</string>
+    <string name="abc_searchview_description_search">Хайх</string>
+    <string name="abc_searchview_description_submit">Асуулгыг илгээх</string>
+    <string name="abc_searchview_description_voice">Дуут хайлт</string>
+    <string name="abc_shareactionprovider_share_with">Хуваалцах</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-тай хуваалцах</string>
+    <string name="abc_toolbar_collapse_description">Хумих</string>
+    <string name="app_has_in_app_purchases">Апп доторх худалдан авалт</string>
+    <string name="app_has_permissions">Зөвшөөрөл: %s</string>
+    <string name="app_has_runtime_permissions">Апп-д зөвшөөрөл шаардлагатай</string>
+    <string name="app_picker_loading">Боломжтой апп-г хайж байна…</string>
+    <string name="app_picker_loading_toast">Боломжтой апп-г удахгүй ачаалах болно</string>
+    <string name="app_picker_no_apps">Сонгосон апп байхгүй байна</string>
+    <string name="app_picker_no_apps_found">Апп олдсонгүй</string>
+    <string name="apps_permissions_described_v2">"Зөвхөн түгээмэл, үнэгүй iOS® апп нь Андройд апп-д тохирно. Аппын ихэнх худалдан авалтыг дамжуулахгүй. Та тохируулж дууссаны дараагаар бусад аппыг Play Store-с хайх боломжтой.
+
+Та зарим апп-д таны төхөөрөмжийн зарим чадамж, мэдээлэлд хандах зөвшөөрлийг урьдчилан олгох шаардлагатай. Зөвшөөрлийг зөвшөөрлийн бүлэг болгож ангилна. Та эдгээр аппыг суулгахаар сонгосноор бүлэг бүрийн зөвшөөрлийг зөвшөөрөх шаардлагатай. Зөвшөөрлийн бүлэг тус бүрийн тайлбарыг доор агуулсан болно.
+
+Зарим апп-д урьдчилан зөвшөөрөл олгох шаардлагагүй. Та эдгээр аппын аль нэгийг нь ашиглахад тухайн аппыг таны өгөгдлийг ашиглахаас өмнө зөвшөөрөл олгох, эсвэл татгалзах боломжтой.
+
+"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Өгөгдөл дамжуулах хэрэгсэл</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">Байт</string>
+    <string name="cancel_copy_button_text">Хуулахгүй</string>
+    <string name="close_button_label">Хаах</string>
+    <string name="cloud_restore_app_picker_button">Дахин сэргээх</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Таны нөөцлөлтөд ямар ч апп алга</string>
+    <string name="cloud_restore_app_picker_title">Сэргээх апп сонгоно уу</string>
+    <string name="common_cancel">Цуцлах</string>
+    <string name="common_google_play_services_enable_button">Идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_install_button">Суулгах</string>
+    <string name="common_google_play_services_install_text">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээг авах</string>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="common_google_play_services_unsupported_text">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_google_play_services_update_text">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_google_play_services_updating_text">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="common_ok">ЗА</string>
+    <string name="common_open_on_phone">Утсаар нээх</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google харилцагч, %1$d iCloud®, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_and_sim_with_google">Google харилцагч, %1$d SIM, %2$d төхөөрөмж</string>
+    <string name="contacts_number_device_with_google">Google Харилцагч, %1$d төхөөрөмж</string>
+    <string name="contacts_number_icloud_with_google">Google Харилцагчид, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Харилцагчид, %1$d SIM</string>
+    <string name="copy_confirmation_description">Та шинэ утсандаа Google бүртгэл, апп зэрэг өгөгдлийг хуулах болно</string>
+    <string name="copy_confirmation_title">Таны шинэ утас руу хуулах уу?</string>
+    <string name="d2d_app_picker_description_no_apps">Ямар ч апп олдсонгүй</string>
+    <string name="d2d_app_picker_title">Апп</string>
+    <string name="d2d_migration_canceled_on_source">Хуулахыг цуцалсан</string>
+    <string name="data_copied_fragment_description">Таны өгөгдлийг таны шинэ утсанд хуулсан. Та кабелиа салгаж болно.</string>
+    <string name="data_copied_fragment_description_cancel">Та хуулахаа зогсоосон тул таны шинэ утсанд зөвхөн зарим өгөгдлийг хуулсан.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Та хуулахыг зогсоосон тул таны шинэ утсанд ямар ч өгөгдөл хуулаагүй болно.</string>
+    <string name="data_copied_fragment_description_error">Алдаа гарсан тул бүгдийг хуулж чадсангүй.</string>
+    <string name="data_copied_fragment_description_error_no_data">Алдаа гарсан тул таны өгөгдлийг хуулж чадсангүй.</string>
+    <string name="data_copied_fragment_no_data_title">Хуулж чадсангүй</string>
+    <string name="data_copied_fragment_some_data_title">Зарим өгөгдлийг хуулсан</string>
+    <string name="data_copied_fragment_title">Өгөгдлийг хуулсан</string>
+    <string name="device_not_supported_fragment_new_device">Та шинэ утсандаа холбогдсон байна. Үргэлжлүүлэхийн тулд өмнөх утсандаа дахин холбогдоно уу.</string>
+    <string name="device_not_supported_fragment_new_device_title">Өмнөх утсанд дахин холбогдоно уу</string>
+    <string name="device_not_supported_fragment_no_data_cable">Энэ кабелиар өгөгдөл дамжуулах боломжгүй. Өөр кабелиар дахин холбогдож, дахин оролдоно уу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Өөр кабель ашиглана уу</string>
+    <string name="device_not_supported_fragment_retry_description">Хуучин утсаа түгжээтэй байгаа эсэхийг шалгасны дараагаар кабелиа салгаад, дахин холбоно уу</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Алдаа гарлаа</string>
+    <string name="device_not_supported_ios_supervised_description">Таны iPhone® төхөөрөмж хяналттай тул өгөгдөл хуулах өөр арга сонгох шаардлагатай</string>
+    <string name="device_picker_skip">Сэргээхгүй</string>
+    <string name="durationDayHour">%1$d өдөр %2$d цаг</string>
+    <string name="durationDayHours">%1$d өдөр %2$d цаг</string>
+    <string name="durationDays">%1$d өдөр</string>
+    <string name="durationHourMinute">%1$d цаг %2$d минут</string>
+    <string name="durationHourMinutes">%1$d цаг %2$d минут</string>
+    <string name="durationHours">%1$d цаг</string>
+    <string name="durationMinute">%1$d минут</string>
+    <string name="durationMinutes">%1$d минут</string>
+    <string name="encryption_warning_fragment_description">"Таны iPhone® төхөөрөмжид нөөцлөх шифрийг асаасан байна. Хэрэв та үүнийг асаагаагүй бол таны IT админ асаасан байж болзошгүй.
+
+Зөвхөн зураг, дуу, видеог хуулах боломжтой. Дэлгэрэнгүй үзэх бол "<b>g.co/datatransferhelp</b>-д зочилно уу.</string>
+    <string name="encryption_warning_fragment_title">Нөөцлөх шифр</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Би тохируулагчийг олж чадахгүй байна</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Таны ^1 ирсэн хайрцагт хавсаргасан хурдан шилжүүлэгчийн тохируулагчийг олно уу.
+
+Кабелийг тохируулагчид холбох."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Тохируулагч, кабелийг холбоно уу</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Хуучин утасныхаа түгжээг тайлаад, тохируулагчийг энэ утсанд залгана уу.</string>
+    <string name="fragment_usb_connect_both_phones_title">2 утсаа холбоно уу</string>
+    <string name="fragment_usb_dialog_cancel_description">Та кабелиар ихэнх агуулгыг авах боломжтой. Хэрэв хайрцагт байгаа кабель таны хуучин утастай тохирохгүй байвал хуучин утастайгаа тохирдог цэнэглэгч, эсвэл дата кабелийг ашиглана уу.</string>
+    <string name="fragment_usb_dialog_cancel_title">Өгөгдлийг өөр аргаар хуулах уу?</string>
+    <string name="fragment_usb_dont_copy">Хуулахгүй</string>
+    <string name="fragment_usb_dont_have_cable">Надад кабель байхгүй</string>
+    <string name="fragment_usb_dont_have_old_phone">хуучин утсаа ашиглах боломжгүй байна уу?</string>
+    <string name="fragment_usb_find_cable_description">Хуучин утсандаа таарах дата, эсвэл цэнэглэгч кабелийг ашиглана уу.</string>
+    <string name="fragment_usb_find_cable_title">Зөв кабелийг олно уу</string>
+    <string name="fragment_usb_initial_description">Танд таны хуучин Android эсвэл iPhone® төхөөрөмж хэрэгтэй. Үүнийг асаагаад, түгжээг нь тайлна уу.</string>
+    <string name="fragment_usb_initial_title">Хуучин утсаа авна уу</string>
+    <string name="fragment_usb_legacy_description">"Энэ нь өгөгдлийг хуулах хамгийн хурдан арга юм.
+
+Хайрцагт байгаа тохируулагчийг шинэ утсандаа залгана уу. 2 утсыг кабелиар холбож, хуучин утасныхаа түгжээг тайлна уу."</string>
+    <string name="fragment_usb_missing_data_description">Шилжүүлэх явцад та Pixel-ээ тохируулах боломжтой.</string>
+    <string name="fragment_usb_missing_data_title">Таны өгөгдлийг хуулъя</string>
+    <string name="fragment_usb_other_ways">Кабельгүйгээр хуулах</string>
+    <string name="fragment_usb_plug_cable">Кабелийг хуучин утсандаа залгана уу</string>
+    <string name="fragment_waiting_title">Түр хүлээнэ үү…</string>
+    <string name="gigabyteShort">Гигабайт</string>
+    <string name="google_contacts_static_text">Google харилцагч синк хийх болно</string>
+    <string name="google_contacts_static_text_off">Google харилцагчийг синк хийсээр байх болно</string>
+    <string name="i_message_dialog_message">"iPhone® төхөөрөмжийн хэрэглэгчээс SMS зурвас авсан хэвээр байхын тулд та iMessage®-г унтраах хэрэгтэй болно.
+
+Зааварчилгаа авах бол "<b>g.co/iMessageHelp</b>-д зочилно уу.</string>
+    <string name="instructions_fragment_title">Өөр утсандаа үргэлжлүүлнэ үү</string>
+    <string name="ios_connected_fragment_description">"Та дараагийн дэлгэцэд Google бүртгэлдээ нэвтрэх, эсвэл шинийг үүсгэх боломжтой.
+
+Хэрэв та Google бүртгэл нэмэхгүй бол таны iOS Хуанли®-ны арга хэмжээг шилжүүлэхгүй."</string>
+    <string name="ios_message_attachment_explanation">[Таны зурвасын хавсралтыг Google Зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгална]</string>
+    <string name="ios_message_attachment_failed_explanation">[Зарим хавсралтыг хуулах боломжгүй. Шилжүүлсэн хавсралтыг Google Зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгална]</string>
+    <string name="ios_message_attachment_placeholder">[Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгалсан хавсралт]</string>
+    <string name="ios_message_attachments_placeholder">[Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралтад хадгалсан хавсралт]</string>
+    <string name="ios_migration_default_calendar_title">Хуанли</string>
+    <string name="ios_migration_other_contact_relation">Бусад</string>
+    <string name="ios_photos_dialog_message">"iCloud®-д хадгалсан зургийг хуулах боломжгүй.
+
+Эдгээр зургийг ^1-д хуулахын тулд Google Photos апп-г iPhone® төхөөрөмждөө суулгаж, нөөцлөлт, синкийг асаана уу. Дэлгэрэнгүй зааварчилгаа авахын тулд "<b>g.co/datatransferhelp</b>-д зочилно уу.</string>
+    <string name="kilobyteShort">Килобайт</string>
+    <string name="lockscreen_smartdevice_action_next">Дараах</string>
+    <string name="megabyteShort">Мегабайт</string>
+    <string name="petabyteShort">Петабайт</string>
+    <string name="photos_filtering_option_all">Бүгд</string>
+    <string name="photos_filtering_option_none">Байхгүй</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Хуулсан харилцагчийг таны Google бүртгэлд хадгалах болно.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Хуулсан харилцагч, хуанлиг таны Google бүртгэлд хадгалах болно.</string>
+    <string name="restore_choice_data_disclaimer_v2">Таны зарим өгөгдлийг ^1-д хуулахгүй. <annotation id="restore_choice_data_disclaimer_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="restore_choice_deselect_some_content">Үргэлжлүүлэхийн тулд зарим агуулгын сонголтыг болиулна уу</string>
+    <string name="restore_choice_learn_more_android">"Таны хуучин утаснаас зарим мэдээллийг автоматаар хуулах боломжгүй. Үүнд: 
+
+ ● Таталт (жишээ нь PDF файл зэрэг)
+
+ ● Нуусан фолдерт хадгалсан зураг, видео, хөгжим
+
+ ● Текст зурвасаар ирсэн зураг, видео, хөгжим
+
+ ● Google Play Store-н бус апп
+
+ ● Апп өгөгдөл (хэрэв апп Андройд нөөцлөлтийг ашигладаггүй бол)
+
+ ● Зарим төхөөрөмжийн тохиргоо
+
+ ● Google бүртгэлээс өөр бүртгэл (бусад холбоотой өгөгдөл)
+
+ ● Харилцагч, хуанлийг Google-с өөр үйлчилгээнд синк хийсэн
+
+ ● Дуудлагын ая
+
+ Илүү дэлгэрэнгүй мэдээлэл авах, эдгээр өгөгдлийн заримыг хуулахад туслахын тулд g.co/datatransferhelp-д зочилно уу."</string>
+    <string name="restore_choice_learn_more_ios">"Таны хуучин утасны зарим өгөгдлийг автоматаар хуулах боломжгүй байна:
+
+ ● Апп, апп-н өгөгдөл
+
+ ● Таны утсанд хадгалаагүй эх зураг (жишээ нь: хэрэв Optimize сангийн тохиргоо асаалттай бол эх зургийг iCloud®-д хадгална)
+
+ ● iCloud®-д хадгалсан файл, документ
+
+ ● Төхөөрөмжийн тохиргоо (Wi-Fi нууц үг болон ханын зураг гэх мэт)
+
+ ● Digital Rights Management (DRM) хамгаалалтын хамгаалдаг хөгжим (жишээ нь: 2009 оны дөрөвдүгээр сараас өмнө худалдаж авсан iTunes® хөгжим, эсвэл хөгжим цацдаг апп-д татаж авсан офлайн үед сонсох хөгжим)
+
+ ● Google Бүртгэлээс бусад бүртгэл (бусад холбоотой өгөгдөл)
+
+ ● Google, эсвэл iCloud®-с бусад үйлчилгээнд синк хийсэн харилцагч, хуанли
+
+ ● Safari®-н номын хавчуурга
+
+ Google зураг > Төхөөрөмжийн фолдер > Зурвасын хавсралт хэсэгт iMessage®-н хавсралт боломжтой.
+
+ Дэлгэрэнгүй мэдээлэл авах болон энэ өгөгдлийг хуулах бол g.co/datatransferhelp-д зочилно уу."</string>
+    <string name="restore_choice_not_enough_space">Хангалттай зай алга</string>
+    <string name="restore_choice_total_text">боломжит %1$s / %2$s шилжүүлэг</string>
+    <string name="restore_item_appdata">Aпп-н өгөгдөл</string>
+    <string name="restore_item_calendar">Хуанли</string>
+    <string name="restore_item_calendar_ical_description">iOS® Хуанли, Google Хуанли</string>
+    <string name="restore_item_calendar_ical_off_description">Google Хуанли синк хийсээр байх болно</string>
+    <string name="restore_item_calendar_sync_description">Google Хуанли синк хийх болно</string>
+    <string name="restore_item_call_logs">Дуудлагын түүх</string>
+    <string name="restore_item_contacts">Харилцагчид</string>
+    <string name="restore_item_device_settings_description">Wi-Fi нууц үг, бусад</string>
+    <string name="restore_item_downloads">Таталт</string>
+    <string name="restore_item_email">Имэйл</string>
+    <string name="restore_item_email_description">Gmail синк хийх болно</string>
+    <string name="restore_item_message_attachments">Зурвасны хавсралт</string>
+    <string name="restore_item_messages">Зурвас</string>
+    <string name="restore_item_music">Хөгжим</string>
+    <string name="restore_item_photos">Зураг, видео</string>
+    <string name="restore_item_settings">Төхөөрөмжийн тохиргоо</string>
+    <string name="restore_item_sms">SMS зурвас</string>
+    <string name="restore_item_will_be_synced_text">Үүнийг таны утсанд синк хийнэ</string>
+    <string name="restore_progress_title">Сэргээж байна…</string>
+    <string name="search_menu_title">Хайлт</string>
+    <string name="small_time_duration">1 минутаас бага</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Хаах</string>
+    <string name="stop_copying_dialog_message_before_transfer">Таны шинэ утсанд өгөгдөл хуулаагүй байна</string>
+    <string name="stop_copying_dialog_message_during_transfer">Таны шинэ утсанд зарим өгөгдлийг хуулж чадсангүй</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Хуулахгүй</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Зогсоох</string>
+    <string name="stop_copying_dialog_title_before_transfer">Хуулахгүй юу?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Хуулахыг зогсоох уу?</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="suw_next_button_label">Дараах</string>
+    <string name="target_default_source_device_model">хуучин төхөөрөмж</string>
+    <string name="target_device_not_supported_cant_continue_description">Та өгөгдөл хуулах өөр арга сонгох шаардлагатай</string>
+    <string name="target_device_not_supported_cant_continue_title">Нөгөө утсыг дэмжээгүй байна</string>
+    <string name="target_device_not_supported_try_restarting_description">"Кабелиа салгаад, хуучин утсаа сэргээнэ үү. Дараа нь кабелиа залгаж, Pixel-н зааварчилгааг дагана уу.
+
+Хэрэв та энэ алдааг харсаар байвал өөр аргаар хуулах шаардлагатай."</string>
+    <string name="target_device_not_supported_try_restarting_title">Утсыг дэмжээгүй байж болзошгүй</string>
+    <string name="target_pixelmigrate_notification_description">Боломжтой эсвэл үргэлжилж байна</string>
+    <string name="target_pixelmigrate_notification_title">Өгөгдөл шилжүүлэлт</string>
+    <string name="target_smart_device_timeout_add_account">БҮРТГЭЛ НЭМЭХ</string>
+    <string name="target_smart_device_timeout_description">Та бүртгэлээ гараар нэмэх боломжтой</string>
+    <string name="target_smart_device_timeout_dismiss">ХААХ</string>
+    <string name="target_smart_device_timeout_title">Асуудал тулгарсан уу?</string>
+    <string name="terabyteShort">Tерабайт</string>
+    <string name="toast_phones_connected">Утсыг холбосон байна</string>
+    <string name="toast_reconnect_cable">Кабелиа дахин холбоно уу</string>
+    <string name="transfer_finished_fragment_title">Дуусгах хүрэлтийг нэмж байна...</string>
+    <string name="transfer_summary_copied">Өгөгдлийг хуулсан</string>
+    <string name="transfer_summary_fragment_description">Та кабелийг салгаж болно.</string>
+    <string name="transfer_summary_fragment_finish">ДУУСАХ</string>
+    <string name="transfer_summary_fragment_title">Таны утас бараг л бэлэн боллоо</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Таны зарим зургийг хуулж чадсангүй. <annotation id="transfer_summary_learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="transfer_summary_not_copied">Өгөгдлийг хуулж чадсангүй</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Хуулсан</string>
+    <string name="transfer_summary_will_sync">Өгөгдлийг тохируулсны дараа синк хийнэ</string>
+    <string name="transferring_fragment_calculating_remaining_time">Үлдсэн хугацааг тооцоолж байна...</string>
+    <string name="transferring_fragment_header">Хуулж байна...</string>
+    <string name="transferring_fragment_remaining_time">%1$s үлдсэн</string>
+    <string name="trust_instructions_description">Үргэлжлүүлэхийн тулд iPhone® төхөөрөмжөө шалгаад, холболтыг зөвшөөрнө үү</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, болон iTunes нь Apple Inc., корпорацийн худалдааны тэмдэг бөгөөд АНУ болон бусад оронд бүртгэлтэй байдаг.</string>
+</resources>

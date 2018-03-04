@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">আপনার রেটিং: %1$s তারা</item>
+        <item quantity="one">আপনার রেটিং: %1$s তারা</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$dটি পর্যালোচনা</item>
+        <item quantity="one">%1$dটি পর্যালোচনা</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d তারা রেটিংয়ের জন্য %1$dটি পর্যালোচনা</item>
+        <item quantity="one">%2$d তারা রেটিংয়ের জন্য %1$dটি পর্যালোচনা</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">ইনস্টলগুলি বিরত করা হয়েছে</item>
+        <item quantity="one">ইনস্টলগুলি বিরত করা হয়েছে</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">%1$d দিন আগে স্ক্যান করা অ্যাপগুলি</item>
+        <item quantity="one">%1$d দিন আগে স্ক্যান করা অ্যাপগুলি</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$dটি ক্ষতিকর অ্যাপ সরানো হয়েছে। %2$s।</item>
+        <item quantity="one">%1$dটি ক্ষতিকর অ্যাপ সরানো হয়েছে। %2$s।</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$dটি আপডেটের জন্য অনুমোদন প্রয়োজন</item>
+        <item quantity="one">%1$dটি আপডেটের জন্য অনুমোদন প্রয়োজন</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$dটি নতুন আপডেট</item>
+        <item quantity="one">%1$dটি নতুন আপডেট</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$dটি আপডেট উপলব্ধ</item>
+        <item quantity="one">%1$dটি আপডেট উপলব্ধ</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">সবগুলি আপডেট করুন</item>
+        <item quantity="one">সবগুলি আপডেট করুন</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$dটি অ্যাপ্লিকেশান আপডেট হয়েছে</item>
+        <item quantity="one">%1$dটি অ্যাপ্লিকেশান আপডেট হয়েছে</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$sটি তারা</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$sটি তারা</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$sটি তারা - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$sটি তারা - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$sটি তারা - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$sটি তারা - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d জন ব্যবহারকারী এই পর্যালোচনাটি সহায়ক মনে করেছেন। মন্তব্যটিকে সহায়ক হিসেবে চিহ্নিত করুন</item>
+        <item quantity="one">%1$d জন ব্যবহারকারী এই পর্যালোচনাটি সহায়ক মনে করেছেন। মন্তব্যটিকে সহায়ক হিসেবে চিহ্নিত করুন</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d জন ব্যবহারকারী এই পর্যালোচনাটি সহায়ক মনে করেছেন। মন্তব্যটিতে সহায়ক হিসেবে দেওয়া চিহ্ন উঠিয়ে ফেলুন</item>
+        <item quantity="one">%1$d জন ব্যবহারকারী এই পর্যালোচনাটি সহায়ক মনে করেছেন। মন্তব্যটিতে সহায়ক হিসেবে দেওয়া চিহ্ন উঠিয়ে ফেলুন</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>%1$s তারা&lt;/b> রেট দিয়েছেন</item>
+        <item quantity="one">&lt;b>%1$s তারা&lt;/b> রেট দিয়েছেন</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$sটি পর্যালোচনায়</item>
+        <item quantity="one">%1$sটি পর্যালোচনায়</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$sটি তারা&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$sটি তারা&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">সর্বশেষ %1$d দিন অাগে ব্যবহৃত হয়েছে</item>
+        <item quantity="one">সর্বশেষ %1$d দিন অাগে ব্যবহৃত হয়েছে</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">নির্বাচিত %1$dটি অ্যাপ পুনরুদ্ধার করুন</item>
+        <item quantity="one">নির্বাচিত %1$dটি অ্যাপ পুনরুদ্ধার করুন</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">টি তারা</item>
+        <item quantity="one">টি তারা</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">অ্যাপগুলি শীঘ্রই ইনস্টল করা হবে।</item>
+        <item quantity="one">অ্যাপগুলি শীঘ্রই ইনস্টল করা হবে।</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">অ্যাপগুলির আপডেট শীঘ্রই ইনস্টল করা হবে।</item>
+        <item quantity="one">অ্যাপগুলির আপডেট শীঘ্রই ইনস্টল করা হবে।</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">সর্বশেষ %1$d দিন অাগে ব্যবহৃত হয়েছে</item>
+        <item quantity="one">সর্বশেষ %1$d দিন অাগে ব্যবহৃত হয়েছে</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">সর্বশেষ %1$d মাস আগে ব্যবহৃত হয়েছে</item>
+        <item quantity="one">সর্বশেষ %1$d মাস আগে ব্যবহৃত হয়েছে</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি সঞ্চয়স্থানের সেটিংস থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+        <item quantity="one">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি সঞ্চয়স্থানের সেটিংস থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি &lt;a href=\"\">সেটিংস > সঞ্চয়স্থান&lt;/a> থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+        <item quantity="one">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি &lt;a href=\"\">সেটিংস > সঞ্চয়স্থান&lt;/a> থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি সেটিংস > সঞ্চয়স্থান থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+        <item quantity="one">এই ডিভাইসে অ্যাপ বা আপডেট ইনস্টল করার জন্য আপনার যেসব অ্যাপের আর প্রয়োজন নেই সেগুলি মুছে ফেলুন। আপনি সেটিংস > সঞ্চয়স্থান থেকে মিডিয়া ফাইলগুলি মুছেও জায়গা খালি করতে পারবেন।</item>
+    </plurals>
+</resources>

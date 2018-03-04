@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Al %1$d programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d programme gekies</item>
+        <item quantity="one">1 program gekies</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d programme is reeds geïnstalleer</item>
+        <item quantity="one">1 program is reeds geïnstalleer</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">"Jou rugsteun het %1$d programme. Kies 'n paar of bring hulle almal oor."</item>
+        <item quantity="one">Jou rugsteun het %1$d program.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d toestelkontakte</item>
+        <item quantity="one">1 toestelkontak</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d toestel</item>
+        <item quantity="one">%1$d SIM, %2$d toestel</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud®-kontakte</item>
+        <item quantity="one">1 iCloud®-kontak</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM-kontakte</item>
+        <item quantity="one">1 SIM-kontak</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">"Ons het %1$d programme gevind. Kies 'n paar of bring hulle almal oor."</item>
+        <item quantity="one">Ons het %1$d program gevind. Wil jy dit laat oorbring?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">"Ons het 'n passing vir %1$d van jou iOS®-programme gevind. Deur elke program te installeer, stem jy in tot sy toestemmings. "&lt;annotation id="apps_permissions_learn_more">Kom meer te wete&lt;/annotation></item>
+        <item quantity="one">"Ons het 'n passing vir een van jou iOS®-programme gevind. Deur hierdie program te installeer, stem jy in tot sy toestemmings. "&lt;annotation id="apps_permissions_learn_more">Kom meer te wete&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d items oor …</item>
+        <item quantity="one">%1$d item oor …</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Neem kennis! Hierdie geleentheid sluit nie meer die volgende bywoners in nie:</item>
+        <item quantity="one">Neem kennis! Hierdie geleentheid sluit nie meer die volgende bywoner in nie:</item>
+    </plurals>
+</resources>

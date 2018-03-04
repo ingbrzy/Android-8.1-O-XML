@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">შემდეგი</string>
+    <string name="suw_back_button_label">უკან</string>
+    <string name="suw_more_button_label">დამატებით</string>
+    <string name="vzw_wfc_activation_error">Wi-Fi დარეკვა ვერ გააქტიურდა. გთხოვთ, ცადოთ მოგვიანებით.</string>
+    <string name="vzw_address_update_error">საგანგებო მისამართის განახლება ამჟამად ვერ ხერხდება. გთხოვთ, ცადოთ მოგვიანებით.</string>
+    <string name="emergency_address_app_label">საგანგებო მისამართის მართვა</string>
+    <string name="progress_text">გთხოვთ, მოითმინოთ…</string>
+    <string name="vzw_tos_title">Wi-Fi დარეკვის გააქტიურება</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="vzw_tos_text">"Wi-Fi დარეკვა საშუალებას გაძლევთ, განახორციელოთ ზარები Wi-Fi ქსელის მეშვეობით მაშინ, როცა მობილური ქსელი მიუწვდომელია.
+
+Wi-Fi დარეკვის დასაყენებლად, აშშ-ის მისამართი უნდა შეიყვანოთ. ამ მისამართის გამოყენება მოხდება გადაუდებელი დახმარების ადგილობრივი სამსახურების მიერ იმ შემთხვევაში, თუ აშშ-ის ტერიტორიაზე, ამ ტელეფონიდან Wi-Fi ქსელის მეშვეობით საგანგებო (E911) ზარს განახორციელებთ.
+
+გირჩევთ, შეცვალოთ აღნიშნული მისამართი, თუ ზარებს სხვა Wi-Fi ქსელის მეშვეობით განახორციელებთ, რათა თქვენი მდებარეობის შესახებ ინფორმაცია ზუსტი იყოს. თქვენი მდებარეობის შეცვლა Wi-Fi დარეკვის პარამეტრების მენიუდან ნებისმიერ დროს შეგიძლიათ."</string>
+    <string name="vzw_tos_link">წესები და პირობები</string>
+    <string name="tos_continue">გაგრძელება</string>
+    <string name="vzw_e911_title">მდებარეობა დახმარების სამსახურებისთვის</string>
+    <string name="vzw_e911_description"><b>მნიშვნელოვანია — აუცილებელია 911-სთვის საგანგებო მისამართის მითითება</b>"
+Wi-Fi დარეკვის ჩასართავად, შეიყვანეთ აშშ-ის მისამართი, რომელზეც 911-ზე დარეკვის შემთხვევაში, გადაუდებელი დახმარების სამსახურები უნდა გამოიგზავნოს. ამ მისამართის შეცვლა პარამეტრებიდან ნებისმიერ დროს შეგიძლიათ. არ დაგავიწყდეთ ამ მისამართის განახლება ყოველთვის, როცა ადგილმდებარეობას შეიცვლით."</string>
+    <string name="vzw_e911_warning"><b>გაფრთხილება — შეზღუდვები საგანგებო ვითარების დროს 911-ზე დარეკვისას</b>"
+911-ზე დარეკვისას, ყოველთვის უთხარით ოპერატორს თქვენი ადგილმდებარეობა. 911-ზე ზარი Wi-Fi ქსელის მეშვეობით მხოლოდ იმ შემთხვევაში განხორციელდება, თუ ფიჭური ქსელი მიუწვდომელი იქნება. 911-ზე Wi-Fi ქსელის მეშვეობით შეიძლება დაგვიანებით ან საერთოდ ვერ დაირეკოს — მაგალითად, იმ შემთხვევაში, თუ 911-ის სისტემა ვერ ამოიცნობს მისამართს, გაითიშება ელექტროენერგია ან Wi-Fi კავშირი გაუმართავად იმუშავებს. გადაუდებელი დახმარების სამსახურები თქვენ მიერ ზემოთ მითითებულ მისამართზე გამოიგზავნება და ამიტომ, გთხოვთ, განაახლოთ ის ყოველთვის, როცა ადგილმდებარეობას შეიცვლით."</string>
+    <string name="house_number">შენობის ნომერი</string>
+    <string name="street">ქუჩა</string>
+    <string name="apt_suite_number">ბინა და ა.შ.</string>
+    <string name="city">ქალაქი</string>
+    <string name="state">შტატი</string>
+    <string name="zip_code">ZIP კოდი</string>
+    <string name="save">შენახვა</string>
+    <string name="vzw_address_confirm_text_part1">თქვენ მიერ შეყვანილი მისამართი ვერ მოიძებნა, რადგან ქუჩის მისამართის მდებარეობა ვერ დადგინდა. შესაძლოა, ქალაქი, შტატი ან ZIP კოდი არასწორად არის მითითებული.</string>
+    <string name="vzw_address_confirm_text_part2">თუ თქვენი ქალაქი, შტატი ან ZIP კოდი არასწორია, შეხებით აირჩიეთ „%1$s“, სხვა შემთხვევაში, აირჩიეთ — „%2$s“.</string>
+    <string name="save_anyway">მაინც შენახვა</string>
+    <string name="edit_address">მისამართის რედაქტირება</string>
+    <string name="ok">კარგი</string>
+    <string name="vzw_address_select_text">თქვენ მიერ შეყვანილი მისამართი ვერ მოიძებნა:</string>
+    <string name="vzw_address_alternate_text">ხომ არ იგულისხმეთ:</string>
+    <string name="vzw_partial_confirm_head">შეყვანილი მისამართი გადაუდებელი დახმარების სერვისის მომწოდებლების მიერ ვერ დადასტურდა.</string>
+    <string name="vzw_partial_confirm_text">ნამდვილად გსურთ ამ მისამართის გამოყენება საგანგებო ვითარებისას?</string>
+    <string name="vzw_partial_failure_text_part1">თქვენ მიერ შეყვანილი ქალაქი, შტატი ან ZIP კოდი შეიძლება არასწორი იყოს.</string>
+    <string name="vzw_partial_failure_text_part2">გთხოვთ, გადაამოწმოთ მისამართი და ხელახლა ცადოთ.</string>
+    <string name="vzw_address_update_success_toast">საგანგებო მისამართი განახლდა</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi გამორთულია</string>
+    <string name="connect_to_wifi_or_web_portal_message">Wi-Fi დარეკვის დაყენება მობილური ქსელის მეშვეობით შეგიძლიათ, თუმცა ამ ფუნქციის გამოსაყენებლად უნდა ჩართოთ Wi-Fi და ქსელს დაუკავშირდეთ.</string>
+    <string name="button_turn_on_wifi">Wi-Fi-ს ჩართვა</string>
+    <string name="button_setup_web_portal">დაყენების გაგრძელება</string>
+</resources>

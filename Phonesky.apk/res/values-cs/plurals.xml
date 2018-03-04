@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Vaše hodnocení: %1$s hvězdiček.</item>
+        <item quantity="one">Vaše hodnocení: %1$s hvězdička.</item>
+        <item quantity="few">Vaše hodnocení: %1$s hvězdičky.</item>
+        <item quantity="many">Vaše hodnocení: %1$s hvězdičky.</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d recenzí</item>
+        <item quantity="one">%1$d recenze</item>
+        <item quantity="few">%1$d recenze</item>
+        <item quantity="many">%1$d recenze</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d recenzí s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="one">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="few">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+        <item quantity="many">%1$d recenze s %2$dhvězdičkovým hodnocením</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Instalace byly pozastaveny</item>
+        <item quantity="one">Instalace byla pozastavena</item>
+        <item quantity="few">Instalace byly pozastaveny</item>
+        <item quantity="many">Instalace byly pozastaveny</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Aplikace byly zkontrolovány před %1$d dny</item>
+        <item quantity="one"></item>
+        <item quantity="few">Aplikace byly zkontrolovány před %1$d dny</item>
+        <item quantity="many">Aplikace byly zkontrolovány před %1$d dne</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Bylo odstraněno %1$d škodlivých aplikací. %2$s.</item>
+        <item quantity="one">Byla odstraněna %1$d škodlivá aplikace. %2$s.</item>
+        <item quantity="few">Byly odstraněny %1$d škodlivé aplikace. %2$s.</item>
+        <item quantity="many">Bylo odstraněno %1$d škodlivé aplikace. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d aktualizací vyžaduje schválení</item>
+        <item quantity="one">%1$d aktualizace vyžaduje schválení</item>
+        <item quantity="few">%1$d aktualizace vyžadují schválení</item>
+        <item quantity="many">%1$d aktualizace vyžaduje schválení</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nových aktualizací</item>
+        <item quantity="one">%1$d nová aktualizace</item>
+        <item quantity="few">%1$d nové aktualizace</item>
+        <item quantity="many">%1$d nové aktualizace</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d dostupných aktualizací</item>
+        <item quantity="one">%1$d dostupná aktualizace</item>
+        <item quantity="few">%1$d dostupné aktualizace</item>
+        <item quantity="many">%1$d dostupné aktualizace</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Aktualizovat vše</item>
+        <item quantity="one">Aktualizovat</item>
+        <item quantity="few">Aktualizovat vše</item>
+        <item quantity="many">Aktualizovat vše</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d aktualizovaných aplikací</item>
+        <item quantity="one">%1$d aktualizovaná aplikace</item>
+        <item quantity="few">%1$d aktualizované aplikace</item>
+        <item quantity="many">%1$d aktualizované aplikace</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s hvězdiček</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s hvězdička</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s hvězdičky</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s hvězdičky</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s hvězdiček – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s hvězdička – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s hvězdičky – %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s hvězdičky – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s hvězdiček – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s hvězdička – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s hvězdičky – %3$s – %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s hvězdičky – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">Tuto recenzi považuje za užitečnou %1$d uživatelů. Označit komentář jako užitečný</item>
+        <item quantity="one">Tuto recenzi považuje za užitečnou %1$d uživatel. Označit komentář jako užitečný</item>
+        <item quantity="few">Tuto recenzi považují za užitečnou %1$d uživatelé. Označit komentář jako užitečný</item>
+        <item quantity="many">Tuto recenzi považuje za užitečnou %1$d uživatele. Označit komentář jako užitečný</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">Tuto recenzi považuje za užitečnou %1$d uživatelů. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="one">Tuto recenzi považuje za užitečnou %1$d uživatel. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="few">Tuto recenzi považují za užitečnou %1$d uživatelé. Zrušit označení komentáře jako užitečného</item>
+        <item quantity="many">Tuto recenzi považuje za užitečnou %1$d uživatele. Zrušit označení komentáře jako užitečného</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Dává tomu &lt;b>%1$s hvězdiček&lt;/b></item>
+        <item quantity="one">Dává tomu &lt;b>%1$s hvězdičku&lt;/b></item>
+        <item quantity="few">Dává tomu &lt;b>%1$s hvězdičky&lt;/b></item>
+        <item quantity="many">Dává tomu &lt;b>%1$s hvězdičky&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">v %1$s recenzích</item>
+        <item quantity="one">v %1$s recenzi</item>
+        <item quantity="few">ve %1$s recenzích</item>
+        <item quantity="many">v %1$s recenze</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s hvězdiček&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s hvězdička&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b>%1$s hvězdičky&lt;/b> %2$s</item>
+        <item quantity="many">&lt;b>%1$s hvězdičky&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Naposledy použito před %1$d dny</item>
+        <item quantity="one">Naposledy použito před %1$d dnem</item>
+        <item quantity="few">Naposledy použito před %1$d dny</item>
+        <item quantity="many">Naposledy použito před %1$d dne</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Obnovit %1$d vybraných aplikací</item>
+        <item quantity="one">Obnovit vybranou aplikaci</item>
+        <item quantity="few">Obnovit %1$d vybrané aplikace</item>
+        <item quantity="many">Obnovit %1$d vybrané aplikace</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">hvězdiček</item>
+        <item quantity="one">hvězdička</item>
+        <item quantity="few">hvězdičky</item>
+        <item quantity="many">hvězdičky</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Brzy budou nainstalovány nové aplikace.</item>
+        <item quantity="one">Brzy bude nainstalována nová aplikace.</item>
+        <item quantity="few">Brzy budou nainstalovány nové aplikace.</item>
+        <item quantity="many">Brzy budou nainstalovány nové aplikace.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Brzy budou nainstalovány aktualizace aplikací.</item>
+        <item quantity="one">Brzy bude nainstalována aktualizace aplikace.</item>
+        <item quantity="few">Brzy budou nainstalovány aktualizace aplikací.</item>
+        <item quantity="many">Brzy budou nainstalovány aktualizace aplikací.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Naposledy použito před %1$d dny</item>
+        <item quantity="one">Naposledy použito před %1$d dnem</item>
+        <item quantity="few">Naposledy použito před %1$d dny</item>
+        <item quantity="many">Naposledy použito před %1$d dne</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Naposledy použito před %1$d měsíci</item>
+        <item quantity="one">Naposledy použito před %1$d měsícem</item>
+        <item quantity="few">Naposledy použito před %1$d měsíci</item>
+        <item quantity="many">Naposledy použito před %1$d měsíce</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v nastavení úložiště smažete soubory médií.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v &lt;a href=\"\">Nastavení > Úložiště&lt;/a> smažete soubory médií.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="one">Chcete-li do zařízení nainstalovat aplikaci nebo aktualizaci, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="few">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+        <item quantity="many">Chcete-li do zařízení nainstalovat aplikace nebo aktualizace, smažte aplikace, které již nepotřebujete. Místo můžete uvolnit také tak, že v Nastavení > Úložiště smažete soubory médií.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d επαφές προστέθηκαν στην ετικέτα %2$s</item>
+        <item quantity="one">%1$d επαφή προστέθηκε στην ετικέτα %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Προσθήκη %1$d επαφών στην ετικέτα \"%2$s\"</item>
+        <item quantity="one">Προσθήκη %1$d επαφής στην ετικέτα \"%2$s\"</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Ανασκοπήστε τα προτεινόμενα στοιχεία για %d επαφές</item>
+        <item quantity="one">Ανασκοπήστε τα προτεινόμενα στοιχεία για %d επαφή</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d ανεπιθύμητες επαφές</item>
+        <item quantity="one">%d ανεπιθύμητη επαφή</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d διπλότυπες επαφές</item>
+        <item quantity="one">1 διπλότυπη επαφή</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d πρόσφατες κλήσεις • Η τελευταία στις %2$s</item>
+        <item quantity="one">%1$d πρόσφατη κλήση • Η τελευταία στις %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Οι επαφές έχουν ήδη προστεθεί στην ετικέτα %1$s</item>
+        <item quantity="one">Η επαφή έχει ήδη προστεθεί στην ετικέτα %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d επαφές</item>
+        <item quantity="one">%d επαφή</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d επαφές · %2$s</item>
+        <item quantity="one">%1$d επαφή · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d επαφές διαγράφηκαν</item>
+        <item quantity="one">%1$d επαφή διαγράφηκε</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Αυτές οι επαφές θα καταργηθούν από τις Επαφές Google και όλες τις συγχρονισμένες συσκευές σας.</item>
+        <item quantity="one">Αυτή η επαφή θα καταργηθεί από τις Επαφές Google και όλες τις συγχρονισμένες συσκευές σας</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d επαφές στους άλλους λογαριασμούς σας</item>
+        <item quantity="one">1 επαφή στους άλλους λογαριασμούς σας</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d επαφές</item>
+        <item quantity="one">1 επαφή</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 επαφές • ^2</item>
+        <item quantity="one">^1 επαφή • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Μετακίνηση αυτών των %1$d επαφών στο \"%2$s\";</item>
+        <item quantity="one">Μετακίνηση αυτής της επαφής στο \"%2$s\";</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Μετακινήθηκαν %d επαφές</item>
+        <item quantity="one">Μετακινήθηκε %d επαφή</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Ολοκληρώθηκε η μετακίνηση %d επαφών</item>
+        <item quantity="one">Ολοκληρώθηκε η μετακίνηση της επαφής</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Μετακίνηση %d επαφών</item>
+        <item quantity="one">Μετακίνηση επαφής</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Δημιουργήθηκαν αντίγραφα ασφαλείας %1$d επαφών στον λογαριασμό %2$s</item>
+        <item quantity="one">Δημιουργήθηκε αντίγραφο ασφαλείας %1$d επαφής στον λογαριασμό %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Εισαγωγή από κάρτες SIM</item>
+        <item quantity="one">Εισαγωγή από κάρτα SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d Επαφές</item>
+        <item quantity="one">1 επαφή</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Έγινε εισαγωγή %d επαφών από τη SIM</item>
+        <item quantity="one">Έγινε εισαγωγή 1 επαφής από τη SIM</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Κοινοποίηση επαφών μέσω</item>
+        <item quantity="one">Κοινοποίηση επαφής μέσω</item>
+    </plurals>
+</resources>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="app_has_in_app_purchases">Kupnje putem aplikacije</string>
+    <string name="app_has_permissions">Dopuštenja: %s</string>
+    <string name="app_has_runtime_permissions">Aplikacija će tražiti dopuštenja</string>
+    <string name="app_picker_app_already_installed_toast">Ta je aplikacija već instalirana</string>
+    <string name="app_picker_loading">Traženje dostupnih aplikacija…</string>
+    <string name="app_picker_loading_toast">Dostupne će se aplikacije uskoro učitati</string>
+    <string name="app_picker_no_apps">Aplikacije nisu odabrane</string>
+    <string name="app_picker_no_apps_found">Aplikacije nisu pronađene</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Kupnje putem aplikacije neće se prenijeti na vaš uređaj ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Neke kupnje putem aplikacije možda se neće prenijeti na vaš uređaj ^1.</string>
+    <string name="apps_permissions_described_v2">"Podudaranja s Android aplikacijama mogu se pronaći samo za popularne, besplatne iOS® aplikacije. Većina kupnji putem aplikacije neće se prenijeti. Više aplikacija možete pronaći u Trgovini Play kada se postavljanje dovrši.
+
+Nekim aplikacijama možda ćete morati unaprijed dati dopuštenje za pristup određenim mogućnostima ili informacijama na uređaju. Dopuštenja se organiziraju u grupe dopuštenja. Instaliranjem tih aplikacija prihvaćate dopuštenja koja su dio svake grupe. Opis svake grupe dopuštenja naveden je u nastavku.
+
+Neke aplikacije možda neće zahtijevati da prihvatite dopuštenja unaprijed. Kada upotrebljavate neku od tih aplikacija, možete dopustiti ili odbiti pojedinačna dopuštenja prije nego što aplikacija upotrijebi tu vrstu podataka.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Instaliranjem aplikacija prihvaćate njihova dopuštenja. <annotation id="apps_permissions_learn_more">Saznajte više</annotation></string>
+    <string name="auto_restore_summary">Vraćanje sigurnosno kopiranih postavki i podataka pri ponovnoj instalaciji aplikacije</string>
+    <string name="auto_restore_title">Automatska obnova</string>
+    <string name="backup_configure_account_default_summary">Nijedan račun trenutačno ne pohranjuje sigurnosne kopije podataka</string>
+    <string name="backup_configure_account_title">Sigurnosni račun</string>
+    <string name="backup_data_summary">Stvaranje sigurnosne kopije podataka aplikacije, Wi-Fi zaporki i ostalih postavki na Google disku</string>
+    <string name="backup_data_summary_full">"Daljinski pokrenite automatsko sigurnosno kopiranje podataka uređaja (kao što su zaporke Wi-Fi-ja i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
+
+Kad uključite automatsko sigurnosno kopiranje, podaci uređaja i aplikacija periodično se daljinski spremaju. Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije."</string>
+    <string name="backup_data_title">Izradi sigurnosnu kopiju na Google disku</string>
+    <string name="backup_erase_dialog_message">Želite li zaustaviti sigurnosno kopiranje Wi-Fi zaporki, oznaka, drugih postavki i podataka aplikacija te izbrisati sve kopije na Google disku?</string>
+    <string name="backup_erase_dialog_message_full">Želite li zaustaviti sigurnosno kopiranje podatka s uređaja (kao što su zaporke za Wi-Fi i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije spremaju) te izbrisati sve kopije na Google disku?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Došlo je do pogreške pri otvaranju postavki fotografija</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kada uključite automatsku izradu sigurnosnih kopija:
+
+ ● Postavke uređaja i podaci aplikacija periodički se spremaju u privatnu mapu na Google disku. Podaci aplikacija mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+ Velike datoteke ili datoteke koje su razvojni programeri isključili iz ove usluge neće se sigurnosno kopirati.
+
+ ● Fotografije i videosnimke s ovog uređaja sinkroniziraju se s vašom zbirkom na Google fotografijama da biste ih mogli pretraživati, uređivati, brisati i dijeliti na svim svojim uređajima.
+
+ Prema zadanim postavkama prenose se fotografije i videozapisi pune razlučivosti. To se ne ubraja u vašu kvotu pohrane na Disku.
+
+ ● Kontakti i povezani podaci s ovog uređaja sinkroniziraju se s Google kontaktima. Aplikaciju Google kontakti možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ ● Kalendarski unosi i povezani podaci s ovog uređaja sinkroniziraju se s Google kalendarom. Aplikaciju Google kalendar možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ Sigurnosna kopija podataka neće se ubrajati u vašu kvotu pohrane na Disku."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kada uključite automatsku izradu sigurnosnih kopija:
+
+ ● Postavke uređaja i podaci aplikacija periodički se spremaju u privatnu mapu na Google disku. Podaci aplikacija mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+ Velike datoteke ili datoteke koje su razvojni programeri isključili iz ove usluge neće se sigurnosno kopirati.
+
+ ● Kontakti i povezani podaci s ovog uređaja sinkroniziraju se s Google kontaktima. Aplikaciju Google kontakti možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ ● Kalendarski unosi i povezani podaci s ovog uređaja sinkroniziraju se s Google kalendarom. Aplikaciju Google kalendar možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ Sigurnosna kopija podataka neće se ubrajati u vašu kvotu pohrane na Disku."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalendar, kontakti, fotografije i videozapisi sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na više usluga.</string>
+    <string name="backup_opt_in_backup_description_v2">Automatska izrada sigurnosne kopije omogućuje vam lako vraćanje podataka ili promjenu telefona u bilo kojem trenutku. <annotation id="backup_opt_in_learn_more">Saznajte više</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Isključit će se sigurnosno kopiranje za sljedeće:
+
+aplikacije i podatke aplikacija
+povijest poziva
+postavke uređaja
+fotografije i videozapise
+SMS.
+
+Kalendar i kontakti nastavit će se sinkronizirati s vašim Google računom. Kada postavljanje završi, postavke sinkronizacije možete promijeniti. Otvorite "<annotation id="backup_opt_in_settings_instructions">Postavke > Računi > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Isključiti sigurnosno kopiranje?</string>
+    <string name="backup_opt_in_backup_list">"aplikacije i podatke aplikacija
+kalendar
+povijest poziva
+kontakte
+postavke uređaja (uključujući zaporke za Wi-Fi)
+fototgrafije i videozapise
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Sigurnosno kopiranje uključuje:</string>
+    <string name="backup_opt_in_backup_title">Izrada sigurnosne kopije na Google disku</string>
+    <string name="backup_opt_in_disable_backup">Isključi sigurnosno kopiranje</string>
+    <string name="backup_photos_update">Ažurirajte Google fotografije</string>
+    <string name="backup_settings_activity_backup_title">Sigurnosna kopija</string>
+    <string name="backup_settings_activity_title">Kopiranje i vraćanje na zadano</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nemoj kopirati</string>
+    <string name="close_button_label">Zatvori</string>
+    <string name="cloud_restore_app_picker_button">Vrati</string>
+    <string name="cloud_restore_app_picker_description_no_apps">U sigurnosnoj kopiji nema aplikacija</string>
+    <string name="cloud_restore_app_picker_title">Odaberite aplikacije za vraćanje</string>
+    <string name="common_accept">Prihvati</string>
+    <string name="common_add_account_label">Dodajte račun</string>
+    <string name="common_ads_settings_title">Oglasi</string>
+    <string name="common_agree">Slažem se</string>
+    <string name="common_app_name">Usluge za Google Play</string>
+    <string name="common_asm_preferences_settings_title">Postavke računa</string>
+    <string name="common_asm_privacy_settings_title">Osobni podaci i privatnost</string>
+    <string name="common_asm_security_settings_title">Prijava i sigurnost</string>
+    <string name="common_audience_edit_button_label">Uredi</string>
+    <string name="common_cancel">Odustani</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts nije moguće pokrenuti (pogreška dopuštenja).</string>
+    <string name="common_car_permission_desc">Pristup automobilskoj usluzi.</string>
+    <string name="common_car_permission_label">Automobilska usluga</string>
+    <string name="common_chips_label_empty_circles">Bez krugova</string>
+    <string name="common_chips_label_extended_circles">Prošireni krugovi</string>
+    <string name="common_chips_label_only_you">Samo vi</string>
+    <string name="common_chips_label_public">Javno</string>
+    <string name="common_chips_label_your_circles">Vaši krugovi</string>
+    <string name="common_choose_account_label">Odaberite račun</string>
+    <string name="common_clear_app_data_menu_item">Brisanje podataka aplikacije</string>
+    <string name="common_connected">Povezano</string>
+    <string name="common_connected_apps_settings_title">Povezane aplikacije</string>
+    <string name="common_connecting">Povezivanje…</string>
+    <string name="common_continue">Nastavi</string>
+    <string name="common_disagree">Ne slažem se</string>
+    <string name="common_disconnect">Prekini vezu</string>
+    <string name="common_done">Gotovo</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Šalje:</string>
+    <string name="common_games_settings_title">Igre na usluzi Play</string>
+    <string name="common_get_started">Početak</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
+    <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
+    <string name="common_google_play_services_error_dialog_title">Pogreška</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju.</string>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+    <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga Google Playa</string>
+    <string name="common_google_play_services_updating_text">%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</string>
+    <string name="common_google_play_services_updating_title">Ažuriranje usluga Google Playa u tijeku</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play usluge instalirane su s pogrešnom arhitekturom.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play usluge instalirane su s arhitekturom (%1$s) koja se razlikuje od arhitekture uređaja (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Pogrešna arhitektura</string>
+    <string name="common_google_settings">Postavke usluge Google</string>
+    <string name="common_google_settings_account">Račun</string>
+    <string name="common_google_settings_credentials_title">Smart Lock za zaporke</string>
+    <string name="common_google_settings_developer">Razvojni programer</string>
+    <string name="common_google_settings_services">Usluge</string>
+    <string name="common_got_it">Shvaćam</string>
+    <string name="common_install">Instaliraj</string>
+    <string name="common_learn_more">Saznajte više</string>
+    <string name="common_list_apps_menu_help">Pomoć</string>
+    <string name="common_list_apps_menu_help_and_feedback">Pomoć i povratne inf.</string>
+    <string name="common_loading">Učitavanje…</string>
+    <string name="common_location_settings_title">Lokacija</string>
+    <string name="common_magictether_settings_title">Automatsko modemsko povezivanje</string>
+    <string name="common_maps_settings_title">Karte i Latitude</string>
+    <string name="common_mdm_feature_name">Upravitelj Android uređaja</string>
+    <string name="common_missing_url_viewer">Nedostaje preglednik za prikazivanje vanjskog URL-a.</string>
+    <string name="common_more_options">Više opcija</string>
+    <string name="common_networking_settings_title">Umrežavanje</string>
+    <string name="common_no_browser_for_restricted_url">Pristup je ograničen. Nije pronađen nijedan preglednik.</string>
+    <string name="common_no_devices_found">Nije pronađen nijedan uređaj</string>
+    <string name="common_no_network">Nije dostupno jer uređaj nije povezan s mrežom</string>
+    <string name="common_no_thanks">Ne, hvala</string>
+    <string name="common_not_now">Ne sada</string>
+    <string name="common_off">Isključeno</string>
+    <string name="common_ok">U REDU</string>
+    <string name="common_on">Uključeno</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_open_source_licenses">Licence otvorenog koda</string>
+    <string name="common_people_settings_title">Kontakti</string>
+    <string name="common_permissions_enable_in_settings">Omogući u postavkama</string>
+    <string name="common_permissions_missing_end">Da biste nastavili, otvorite Postavke, a zatim Dopuštenja i dopustite sve navedeno.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Da biste to omogućili, otvorite 
+Postavke >
+Dopuštenja >
+Usluge Google Playa"</string>
+    <string name="common_permissions_missing_start">Aplikacija neće funkcionirati pravilno ako ne dopustite uslugama Google Playa da pristupaju sljedećem:</string>
+    <string name="common_permissions_open_settings">Otvori postavke</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Pravila o privatnosti</string>
+    <string name="common_restore">Vrati</string>
+    <string name="common_retry">Pokušaj ponovo</string>
+    <string name="common_search_settings_title">Pretraživanje</string>
+    <string name="common_security_ootp_setting_title">Sigurnosni kôd</string>
+    <string name="common_security_settings_title">Sigurnost</string>
+    <string name="common_send">Pošalji</string>
+    <string name="common_sending">Slanje…</string>
+    <string name="common_set_up_nearby_device_settings_title">Postavljanje uređaja u blizini</string>
+    <string name="common_settings">Postavke</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+    <string name="common_something_went_wrong">Nešto nije u redu</string>
+    <string name="common_system_info">Informacije o sustavu</string>
+    <string name="common_take_photo_label">Snimi fotografiju</string>
+    <string name="common_terms_of_service">Uvjeti pružanja usluge</string>
+    <string name="common_try_again">Pokušaj ponovo</string>
+    <string name="common_turn_on_bluetooth">Uključi Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Izbriši</string>
+    <string name="common_ui_confirm_deleting_checkbox">Razumijem i želim izbrisati</string>
+    <string name="common_unknown">Nepoznato</string>
+    <string name="common_update">Ažuriraj</string>
+    <string name="common_url_load_unsuccessful_message">Vaš uređaj sa sustavom Android nije povezan s podatkovnom uslugom. Da biste odmah pogledali ove informacije, posjetite %s u web-pregledniku.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Vaš Android uređaj nije povezan s Wi-Fi mrežom. Da biste odmah pogledali te informacije, posjetite %s u web-pregledniku.</string>
+    <string name="common_url_login_notice">Prijavite se kao %1$s</string>
+    <string name="common_usage_and_diagnostics">Upotreba i dijagnostika</string>
+    <string name="common_yesterday">Jučer</string>
+    <string name="confirm_copy_button_text">Kopiraj</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d na uređaju</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google kontakti, %1$d iCloud®, %2$d na uređaju</string>
+    <string name="contacts_number_device_and_sim_with_google">Google kontakti, %1$d na SIM-u, %2$d na uređaju</string>
+    <string name="contacts_number_device_with_google">Google kontakti, %1$d na uređaju</string>
+    <string name="contacts_number_icloud_with_google">Google kontakti, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google kontakti, %1$d SIM</string>
+    <string name="copy_confirmation_description">Kopirat ćete podatke, na primjer Google račun i aplikacije, na novi telefon</string>
+    <string name="copy_confirmation_title">Želite li kopirati na novi telefon?</string>
+    <string name="d2d_app_picker_description_no_apps">Nismo pronašli nijednu aplikaciju</string>
+    <string name="d2d_app_picker_title">Aplikacije</string>
+    <string name="d2d_migration_canceled_on_source">Kopiranje otkazano</string>
+    <string name="data_copied_fragment_description">Vaši se podaci kopiraju na novi telefon. Možete iskopčati kabel.</string>
+    <string name="data_copied_fragment_description_cancel">Zaustavili ste kopiranje, pa je samo dio podataka kopiran na novi telefon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Zaustavili ste kopiranje, pa se ništa nije kopiralo na novi telefon.</string>
+    <string name="data_copied_fragment_description_error">Dogodila se pogreška, pa nismo mogli kopirati sve.</string>
+    <string name="data_copied_fragment_description_error_no_data">Dogodila se pogreška, pa nismo mogli kopirati vaše podatke.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiranje nije uspjelo</string>
+    <string name="data_copied_fragment_some_data_title">Neki su podaci kopirani</string>
+    <string name="data_copied_fragment_title">Podaci su kopirani</string>
+    <string name="device_backup_title">Stvori sigurnosnu kopiju uređaja</string>
+    <string name="device_not_supported_fragment_new_device">Povezali ste se s novim telefonom. Da biste nastavili, ponovo se povežite s prethodnim.</string>
+    <string name="device_not_supported_fragment_new_device_title">Ponovo se povežite s prethodnim telefonom</string>
+    <string name="device_not_supported_fragment_no_data_cable">Taj kabel ne može prenositi podatke. Upotrijebite neki drugi kabel i pokušajte ponovo.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Pokušajte s nekim drugim kabelom</string>
+    <string name="device_not_supported_fragment_retry_description">Provjerite je li stari telefon otključan, a zatim iskopčajte i ponovo ukopčajte kabel</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Nešto nije u redu</string>
+    <string name="device_not_supported_ios_supervised_description">Budući da je vaš iPhone® uređaj pod nadzorom, morat ćete kopirati podatke na neki drugi način</string>
+    <string name="device_picker_description">Sigurnosne kopije pohranjene su na Google disku</string>
+    <string name="device_picker_empty">Nijedna sigurnosna kopija nije povezana s računom %1$s.</string>
+    <string name="device_picker_empty_title">Nije pronađena nijedna sigurnosna kopija</string>
+    <string name="device_picker_item">Sigurnosna kopija uređaja %1$s</string>
+    <string name="device_picker_last_used">Zadnja upotreba: ^1</string>
+    <string name="device_picker_skip">Ne vraćaj</string>
+    <string name="device_picker_title">Odaberite sigurnosnu kopiju koju ćete vratiti</string>
+    <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
+    <string name="download_msg_error_invalid">Preuzimanje je pogrešno konfigurirano.</string>
+    <string name="download_msg_in_progress">Preuzimanje je u tijeku.</string>
+    <string name="download_msg_not_allowed_space">Nema dovoljno prostora za preuzimanje.</string>
+    <string name="download_msg_pending">Preuzimanje je na čekanju.</string>
+    <string name="download_notification_description">To je zatražio paket %1$s.</string>
+    <string name="download_notification_title">Dohvaćanje više podataka</string>
+    <string name="drive_backup_account">Račun</string>
+    <string name="drive_backup_apps_in_backup">Sigurnosno kopirani podaci aplikacija</string>
+    <string name="drive_backup_apps_last_backup">Posljednja sigurnosna kopija</string>
+    <string name="drive_backup_apps_loading">Učitavanje…</string>
+    <string name="drive_backup_apps_screen_title">Podaci aplikacija</string>
+    <string name="drive_backup_content_apps_title">Podaci aplikacija</string>
+    <string name="drive_backup_content_calendar_dialog_message">Događaji izrađeni u Google kalendaru sinkronizirat će se na svim uređajima na kojima ste se prijavili na svoj Google račun.</string>
+    <string name="drive_backup_content_calendar_title">Kalendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Sigurnosna kopija uključuje datum i primatelja upućenih i primljenih poziva.</string>
+    <string name="drive_backup_content_callhistory_title">Povijest poziva</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontakti izrađeni u Google kontaktima sinkronizirat će se na svim uređajima na kojima ste se prijavili na svoj Google račun.</string>
+    <string name="drive_backup_content_contacts_title">Kontakti</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Sigurnosna kopija uključuje konfiguraciju uređaja, na primjer pozadinu, zaporke za Wi-Fi i zadane aplikacije.</string>
+    <string name="drive_backup_content_devicesettings_title">Postavke uređaja</string>
+    <string name="drive_backup_content_header">Sadržaj</string>
+    <string name="drive_backup_content_photos_dialog_message">Vaš se primarni račun za izradu sigurnosnih kopija promijenio. I račun za sigurnosno kopiranje Google fotografija možete promijeniti u %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ODBACI</string>
+    <string name="drive_backup_content_photos_dialog_title">Želite li promijeniti i račun za fotografije i videozapise?</string>
+    <string name="drive_backup_content_photos_dialog_yes">PROMIJENI</string>
+    <string name="drive_backup_content_photos_title">Fotografije i videozapisi</string>
+    <string name="drive_backup_content_sms_dialog_message">Sigurnosna kopija uključuje poslane i primljene poruke. To ne uključuje MMS-ove.</string>
+    <string name="drive_backup_content_sms_title">SMS poruke</string>
+    <string name="drive_backup_content_status_dolly_action">Shvaćam</string>
+    <string name="drive_backup_content_status_error">Pogreška pri dohvaćanju datuma posljednje sinkronizacije</string>
+    <string name="drive_backup_content_status_lastsaved">Posljednje sigurnosno kopiranje: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Posljednja sinkronizacija: %1$s</string>
+    <string name="drive_backup_content_status_never">Čeka se sigurnosno kopiranje</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Postavke sinkronizacije</string>
+    <string name="drive_backup_content_status_sync_off">Sinkronizacija je isključena</string>
+    <string name="drive_backup_content_status_updating">Provjeravanje statusa...</string>
+    <string name="drive_backup_disabled_backuplist">"Izrada sigurnosnih kopija uključuje:
+\u0009– aplikacije i podatke aplikacija
+\u0009– povijest poziva
+\u0009– postavke uređaja (uključujući zaporke za Wi-Fi)
+\u0009– Google kalendar
+\u0009– Google kontakte
+\u0009– fotografije i videozapise
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Sigurnosna kopija uključuje:
+\u0009– aplikacije i podatke aplikacija
+\u0009– povijest poziva
+\u0009– postavke uređaja (uključujući zaporke za Wi-Fi)
+\u0009– Google kalendar
+\u0009– Google kontakte
+\u0009– SMS-ove"</string>
+    <string name="drive_backup_disabled_by_device_owner">Onemogućio administrator</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google kalendar, Google kontakti, fotografije i videozapisi sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na drugim uslugama.
+
+Sinkronizacija može biti omogućena čak i ako je izrada sigurnosnih kopija isključena. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google kalendar i Google kontakti sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na drugim uslugama.
+
+Sinkronizacija može biti omogućena čak i ako je izrada sigurnosnih kopija isključena. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automatska izrada sigurnosne kopije omogućuje vam lako vraćanje podataka ili promjenu telefona u bilo kojem trenutku.</string>
+    <string name="drive_backup_settings_title">Sigurnosno kopiranje</string>
+    <string name="drive_backup_state">Izradi sigurnosnu kopiju na Google disku</string>
+    <string name="drive_backup_state_dialog_message">"Podaci sigurnosnih kopija ovog uređaja na Google disku izbrisat će se zauvijek.
+
+Fotografije i videozapisi koji su već sigurnosno pohranjeni i dalje će biti dostupni na Google disku.
+
+Google kalendar i Google kontakti nastavit će se sinkronizirati s vašim Google računom. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Sigurnosna kopija podataka s ovog uređaja na Google disku trajno će se izbrisati.
+
+Google kalendar i Google kontakti nastavit će se sinkronizirati s vašim Google računom. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Isključi i izbriši</string>
+    <string name="drive_backup_state_dialog_title">Želite li isključiti i izbrisati sigurnosne kopije?</string>
+    <string name="durationDayHour">%1$d dan %2$d sat</string>
+    <string name="durationDayHours">%1$d d %2$d h</string>
+    <string name="durationDays">%1$d d</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d h</string>
+    <string name="durationMinute">%1$d min</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d min</string>
+    <string name="durationSecond">%1$d s</string>
+    <string name="durationSeconds">%1$d s</string>
+    <string name="encryption_warning_fragment_description">"Enkripcija sigurnosnih kopija uključena je za vaš iPhone® uređaj. Ako je niste uključili sami, možda ju je uključio vaš IT administrator.
+
+Kopirati se mogu samo fotografije, glazba i videozapisi. Više informacija potražite na stranici "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Enkripcija sigurnosnih kopija</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ne mogu pronaći adapter</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Pronađite Quick Switch Adapter koji ste dobili u kutiji s uređajem ^1.
+
+Priključite kabel u taj adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Povežite adapter i kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Otključajte stari telefon, a zatim priključite adapter u ovaj telefon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Povežite oba telefona</string>
+    <string name="fragment_usb_dialog_cancel_description">Kabelom se može prenijeti najviše sadržaja. Ako kabeli iz kutije ne odgovaraju, upotrijebite kabel za prijenos podataka ili punjenje koji funkcionira sa starim telefonom.</string>
+    <string name="fragment_usb_dialog_cancel_title">Želite li kopirati podatke na neki drugi način?</string>
+    <string name="fragment_usb_dont_have_cable">Nemam kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Nemam stari telefon</string>
+    <string name="fragment_usb_find_cable_description">Upotrijebite kabel koji odgovara starom telefonu, na primjer kabel za prijenos podataka ili punjenje.</string>
+    <string name="fragment_usb_find_cable_title">Pronađite odgovarajući kabel</string>
+    <string name="fragment_usb_initial_description">Prenesite podatke sa starog telefona na ovaj uređaj ^1.</string>
+    <string name="fragment_usb_initial_title">Hajdemo kopirati podatke</string>
+    <string name="fragment_usb_legacy_description">"To je najbrži način za prijenos većine podataka.
+
+Pronađite adapter u kutiji i priključite ga u telefon. Povežite telefone kabelom, a zatim otključajte stari telefon."</string>
+    <string name="fragment_usb_other_ways">Kopiraj bez kabela</string>
+    <string name="fragment_usb_plug_cable">Priključite kabel u stari telefon</string>
+    <string name="fragment_waiting_title">Samo tren...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Sinkronizirat će se Google kontakti</string>
+    <string name="google_contacts_static_text_off">Google kontakti i dalje će se sinkronizirati</string>
+    <string name="header_set_backup_account">Postavi račun za sig. kopiju</string>
+    <string name="i_message_dialog_message">"Da biste nastavili primati SMS poruke korisnika iPhone® uređaja, morat ćete isključiti iMessage®.
+
+Upute potražite na stranici "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Nastavite na drugom telefonu</string>
+    <string name="ios_connected_fragment_description">"Na sljedećem zaslonu možete se prijaviti na Google račun ili izraditi novi.
+
+Ako ne dodate Google račun, događaji na usluzi iOS Calendar® neće se prenijeti."</string>
+    <string name="ios_message_attachment_explanation">[Privitci iz vaših poruka nalaze se na Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachment_failed_explanation">[Neki privitci nisu se mogli kopirati. Prenesene privitke možete pronaći u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachment_placeholder">[Privitak spremljen u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachments_placeholder">[Privitci spremljeni u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_migration_default_calendar_title">Kalendar</string>
+    <string name="ios_migration_other_contact_relation">Ostalo</string>
+    <string name="ios_photos_dialog_message">"Fotografije pohranjene na usluzi iCloud® ne mogu se kopirati.
+
+Da biste ih prenijeli na uređaj ^1, na iPhone® uređaju instalirajte aplikaciju Google fotografije i uključite sigurnosno kopiranje i sinkroniziranje. Više uputa možete pronaći na stranici "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Dodaj račun</string>
+    <string name="lockscreen_smartdevice_action_next">Dalje</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Otključajte da biste nastavili s postavljanjem telefona</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Zbog sigurnosnih razloga morate potvrditi zaključavanje zaslona da biste nastavili s postavljanjem</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Potvrda zaključavanja zaslona</string>
+    <string name="manage_data_label">Google račun</string>
+    <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Potrebno je postaviti račun za sigurnosnu kopiju</string>
+    <string name="notification_content_title_set_backup_account">Sigurnosno kopiranje</string>
+    <string name="notification_ticker_set_backup_account">Potrebna je sigurnosna kopija računa</string>
+    <string name="permgrouplab_calendar">Kalendar</string>
+    <string name="permgrouplab_camera">Fotoaparat</string>
+    <string name="permgrouplab_contacts">Kontakti</string>
+    <string name="permgrouplab_location">Lokacija</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Biometrijski senzori</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Pohrana</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Nijedan račun trenutačno ne pohranjuje sigurnosne kopije fotografija</string>
+    <string name="photos_backup_title">Stvori sigurnosnu kopiju fotografija</string>
+    <string name="photos_filtering_option_all">Sve</string>
+    <string name="photos_filtering_option_none">Ništa</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopirani kontakti spremit će se na vaš Google račun.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopirani kontakti i kalendari spremit će se na vaš Google račun.</string>
+    <string name="restore_choice_data_disclaimer_v2">Neki se podaci možda neće kopirati na vaš uređaj ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Saznajte više</annotation></string>
+    <string name="restore_choice_deselect_some_content">Poništite odabir dijela sadržaja da biste nastavili</string>
+    <string name="restore_choice_learn_more_android">"Neki podaci sa starog telefona ne mogu se kopirati automatski:
+
+ ● preuzimanja (npr. PDF datoteke)
+
+ ● fotografije, videozapisi i glazba u skrivenim mapama
+
+ ● fotografije, videozapisi i glazba primljeni tekstnim porukama
+
+ ● aplikacije koje nisu iz Trgovine Google Play
+
+ ● podaci aplikacija (ako aplikacija ne upotrebljava Androidovo sigurnosno kopiranje)
+
+ ● određene postavke uređaja
+
+ ● računi koji nisu Google računi (i svi podaci povezani s njima)
+
+ ● kontakti i kalendari koji se sinkroniziraju s uslugama izvan Googlea
+
+ ● melodije zvona.
+
+ Više pojedinosti i pomoć za kopiranje nekih od tih podataka potražite na stranici g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Neki podaci s vašeg starog telefona ne mogu se kopirati automatski:
+
+ ● aplikacije i podaci aplikacija
+
+ ● fotografije čiji izvornik nije pohranjen na vašem telefonu (npr. ako je uključena postavka optimizacije pohrane, izvorne fotografije pohranjuju se na usluzi iCloud®)
+
+ ● datoteke i dokumenti pohranjeni na usluzi iCloud®
+
+ ● postavke uređaja (npr. zaporke za Wi-Fi i pozadine)
+
+ ● glazba zaštićena Digital Rights Management (DRM) zaštitom (npr. iTunes® glazba kupljena prije travnja 2009. ili glazba preuzeta za offline slušanje u aplikaciji za strujanje glazbe)
+
+ ● računi koji nisu Google računi (i svi podaci povezani s njima)
+
+ ● kontakti i kalendari koji se sinkroniziraju s uslugama koje nisu Google ili iCloud®
+
+ ● oznake iz preglednika Safari®
+
+ iMessage® privitci bit će dostupni u Google fotografijama > Mape uređaja > Privitci poruka.
+
+ Više pojedinosti i pomoć za kopiranje nekih od tih podataka potražite na stranici g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nema dovoljno prostora</string>
+    <string name="restore_choice_total_text">od ukupno %1$s/%2$s prijenosa</string>
+    <string name="restore_error_message">Vraćanje nije uspjelo.</string>
+    <string name="restore_item_appdata">Podaci aplikacije</string>
+    <string name="restore_item_calendar">Kalendar</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google kalendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google kalendar i dalje će se sinkronizirati</string>
+    <string name="restore_item_calendar_sync_description">Sinkronizirat će se Google kalendar</string>
+    <string name="restore_item_call_logs">Povijest poziva</string>
+    <string name="restore_item_contacts">Kontakti</string>
+    <string name="restore_item_device_settings_description">Zaporke za Wi-Fi i ostalo</string>
+    <string name="restore_item_downloads">Preuzimanja</string>
+    <string name="restore_item_email">E-pošta</string>
+    <string name="restore_item_email_description">Sinkronizirat će se Gmail</string>
+    <string name="restore_item_message_attachments">Privitci poruka</string>
+    <string name="restore_item_messages">Poruke</string>
+    <string name="restore_item_music">Glazba</string>
+    <string name="restore_item_photos">Fotografije i videozapisi</string>
+    <string name="restore_item_settings">Postavke uređaja</string>
+    <string name="restore_item_sms">SMS poruke</string>
+    <string name="restore_item_will_be_synced_text">Ti će se podaci sinkronizirati s vašim telefonom</string>
+    <string name="restore_progress_title">Vraćanje...</string>
+    <string name="search_menu_title">Pretraživanje</string>
+    <string name="small_time_duration">Manje od 1 minute</string>
+    <string name="source_connected_description">Pripremanje...</string>
+    <string name="source_connected_title">Povezano s vašim uređajem %1$s</string>
+    <string name="source_copying_description">Podaci koje ste odabrali kopiraju se na vaš novi telefon</string>
+    <string name="source_copying_title">Kopiranje...</string>
+    <string name="source_default_target_device_name">novi uređaj</string>
+    <string name="source_notification_device_disconnected">Ponovo priključite kabel</string>
+    <string name="source_notification_text">U tijeku je prijenos s telefona na telefon</string>
+    <string name="source_notification_title">Prijenos podataka</string>
+    <string name="source_success_description">Dovršite postavljanje na uređaju %1$s.</string>
+    <string name="source_success_screen_title">Sve je gotovo!</string>
+    <string name="source_unplugged_description">Ponovo ga uključite u uređaj %1$s</string>
+    <string name="source_unplugged_title">Kabel isključen</string>
+    <string name="source_waiting_title">Nastavite s postavljanjem na uređaju %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Odbaci</string>
+    <string name="stop_copying_dialog_message_before_transfer">Vaši se podaci nisu kopirali na novi telefon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Neki vaši podaci nisu se kopirali na novi telefon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nemoj kopirati</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Zaustavi</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ne želite kopirati?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Želite li zaustaviti kopiranje?</string>
+    <string name="storage_management_wear_descriptive_text">Aplikacije upotrebljavaju pohranu uređaja za replikaciju podataka na nosivu aplikaciju.</string>
+    <string name="storage_management_wear_manage_size_label">Upravljaj pohranom nosivih aplikacija</string>
+    <string name="storage_management_wear_size_label">Pohrana nosivih aplikacija</string>
+    <string name="storage_managment_all_storage_descriptive_text">Ukupna količina podataka koju upotrebljavaju usluge za Google Play, uključujući podatke tražilice i ostale podatke.</string>
+    <string name="storage_managment_clear_all_data">Izbriši sve podatke</string>
+    <string name="storage_managment_computing_size">Izračunavanje...</string>
+    <string name="storage_managment_icing_size_label">Podaci pretraživanja</string>
+    <string name="storage_managment_manage_icing_button">Upravljanje podacima pretraž.</string>
+    <string name="storage_managment_search_index_descriptive_text">Ubrzavamo pretraživanje na vašem uređaju pružanjem tražilice kojom će se koristiti vaše aplikacije.</string>
+    <string name="storage_managment_title">Pohrana usluga za Google Play</string>
+    <string name="storage_managment_total_size_label">Ukupna pohrana</string>
+    <string name="suw_back_button_label">Natrag</string>
+    <string name="suw_more_button_label">Više</string>
+    <string name="suw_next_button_label">Dalje</string>
+    <string name="target_default_source_device_model">stari uređaj</string>
+    <string name="target_device_not_supported_cant_continue_description">Morat ćete kopirati podatke na neki drugi način</string>
+    <string name="target_device_not_supported_cant_continue_title">Drugi telefon nije podržan</string>
+    <string name="target_device_not_supported_try_restarting_description">"Iskopčajte kabel i ponovo pokrenite stari telefon, zatim ponovo ukopčajte kabel i slijedite upute na Pixelu.
+
+Ako se pogreška ponovi, možda biste trebali kopirati na neki drugi način."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon možda nije podržan</string>
+    <string name="target_smart_device_timeout_add_account">DODAJ RAČUN</string>
+    <string name="target_smart_device_timeout_description">Ako želite, račun možete pokušati dodati ručno</string>
+    <string name="target_smart_device_timeout_dismiss">ODBACI</string>
+    <string name="target_smart_device_timeout_title">Imate li poteškoća?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefoni su povezani</string>
+    <string name="toast_reconnect_cable">Ponovo priključite kabel</string>
+    <string name="transfer_finished_fragment_title">Dodavanje završnih detalja...</string>
+    <string name="transfer_summary_copied">Podaci su kopirani</string>
+    <string name="transfer_summary_fragment_description">Možete iskopčati kabel.</string>
+    <string name="transfer_summary_fragment_finish">ZAVRŠI</string>
+    <string name="transfer_summary_fragment_title">Telefon je gotovo spreman</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Neke se fotografije nisu kopirale. <annotation id="transfer_summary_learn_more">Saznajte više</annotation></string>
+    <string name="transfer_summary_not_copied">Podaci nisu kopirani</string>
+    <string name="transfer_summary_partial">Kopirano %1$s/%2$s</string>
+    <string name="transfer_summary_will_sync">Podaci će se sinkronizirati nakon postavljanja</string>
+    <string name="transferring_fragment_calculating_remaining_time">Izračun preostalog vremena...</string>
+    <string name="transferring_fragment_header">Kopiranje...</string>
+    <string name="transferring_fragment_remaining_time">Preostalo vrijeme: %1$s</string>
+    <string name="trust_instructions_description">Da biste nastavili, provjerite na uređaju iPhone® i odobrite povezivanje</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari i iTunes zaštitni su znakovi tvrtke Apple Inc. registrirane u SAD-u i drugim zemljama.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Configuración del dispositivo</string>
+    <string name="sim_locked_notification_content">Pregunte a %1$s cómo desbloquear el disp. Presione para ver datos de contacto.</string>
+    <string name="sim_locked_notification_content_no_contact">Pregúntele a su proveedor si este dispositivo se puede desbloquear</string>
+    <string name="sim_locked_notification_title">La tarjeta SIM no es compatible</string>
+    <string name="sim_unlock_failure_notification_content">Deberá ponerse en contacto con %1$s. Presione para obtener detalles.</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">Deberá ponerse en contacto con su proveedor</string>
+    <string name="sim_unlock_failure_notification_title">No se pudo quitar bloqueo del proveedor</string>
+    <string name="sim_unlocked_notification_content">El dispositivo ahora se puede usar en cualquier red</string>
+    <string name="sim_unlocked_notification_title">Se quitó el bloqueo del proveedor</string>
+    <string name="zero_touch_disclaimer_no_contact_info">Este dispositivo se configuró para la administración. Si se trata de un error, póngase en contacto con el proveedor de su dispositivo</string>
+    <string name="zero_touch_disclaimer_with_support_link">%1$s configuró este dispositivo para que lo administre su organización. Si se trata de un error, &lt;a href=%2$s>póngase en contacto con el proveedor de su dispositivo&lt;/a>.&lt;br>&lt;br>La siguiente aplicación administrará su dispositivo:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"%s configuró este dispositivo para que lo administre su organización. Si se trata de un error, póngase en contacto con el proveedor de su dispositivo.
+
+La siguiente aplicación administrará su dispositivo:"</string>
+    <string name="zero_touch_header">Su dispositivo en el trabajo</string>
+    <string name="zero_touch_notification_content">Pronto se restablecerá automáticamente</string>
+    <string name="zero_touch_notification_title">Dispositivo administrado por el administrador</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">%1$s configuró este dispositivo para que lo administre su organización. Si se trata de un error, &lt;a href=%2$s>póngase en contacto con el proveedor de su dispositivo&lt;/a>.&lt;br>&lt;br>Para continuar con la configuración, se debe restablecer el dispositivo. Con esta operación, se borrarán todos los datos del dispositivo.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"%s configuró este dispositivo para que lo administre su organización. Si se trata de un error, póngase en contacto con el proveedor de su dispositivo.
+
+Para continuar con la configuración, se debe restablecer el dispositivo. Con esta operación, se borrarán todos los datos del dispositivo."</string>
+    <string name="zero_touch_reset_now">restablecer ahora</string>
+    <string name="zero_touch_reset_soon">Su dispositivo se restablecerá pronto de forma automática.</string>
+    <string name="zero_touch_reset_wait">aceptar</string>
+    <string name="zero_touch_retrieving_header">Comprobando información del dispositivo…</string>
+    <string name="zero_touch_retrieving_text">Este proceso no demorará mucho</string>
+    <string name="zero_touch_support_title">Asistencia</string>
+    <string name="zero_touch_url_error">Imposible mostrar el vínculo.</string>
+</resources>

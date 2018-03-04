@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">+%d andere</item>
+        <item quantity="one">+1 weitere Person</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Wenn du diese Elemente in den Papierkorb verschiebst, werden sie auch an folgenden Orten entfernt:</item>
+        <item quantity="one">Wenn du dieses Element in den Papierkorb verschiebst, wird es auch an folgenden Orten entfernt:</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d Minuten</item>
+        <item quantity="zero">0 Minuten</item>
+        <item quantity="one">1 Minute</item>
+        <item quantity="two">2 Minuten</item>
+        <item quantity="few">%1$d Minuten</item>
+        <item quantity="many">%1$d Minuten</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d Sekunden</item>
+        <item quantity="zero">0 Sekunden</item>
+        <item quantity="one">1 Sekunde</item>
+        <item quantity="two">2 Sekunden</item>
+        <item quantity="few">%1$d Sekunden</item>
+        <item quantity="many">%1$d Sekunden</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Diese Elemente sind zu groß für den Papierkorb deines Gerätes. Wenn du sie löschst, werden sie endgültig von deinem Gerät und aus deinem Konto entfernt.</item>
+        <item quantity="one">Dieses Element ist zu groß für den Papierkorb deines Gerätes. Wenn du es löschst, wird es endgültig von deinem Gerät und aus deinem Konto entfernt.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d Inhalte gelesen</item>
+        <item quantity="one">%1$d Inhalt gelesen</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d Inhalte ausgewählt</item>
+        <item quantity="one">%1$d Inhalt ausgewählt</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">%1$d Videos konnten nicht gescannt werden.</item>
+        <item quantity="zero">%1$d Videos konnten gescannt werden.</item>
+        <item quantity="one">%1$d Video konnte nicht gescannt werden.</item>
+        <item quantity="two">%1$d Videos konnten nicht gescannt werden.</item>
+        <item quantity="few">%1$d Videos konnten nicht gescannt werden.</item>
+        <item quantity="many">%1$d Videos konnten nicht gescannt werden.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d Minuten</item>
+        <item quantity="zero">%1$d Minuten</item>
+        <item quantity="one">%1$d Minute</item>
+        <item quantity="two">%1$d Minuten</item>
+        <item quantity="few">%1$d Minuten</item>
+        <item quantity="many">%1$d Minuten</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="zero">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+        <item quantity="two">%1$d ausgewählt</item>
+        <item quantity="few">%1$d ausgewählt</item>
+        <item quantity="many">%1$d ausgewählt</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d Sekunden</item>
+        <item quantity="zero">%1$d Sekunden</item>
+        <item quantity="one">%1$d Sekunde</item>
+        <item quantity="two">%1$d Sekunden</item>
+        <item quantity="few">%1$d Sekunden</item>
+        <item quantity="many">%1$d Sekunden</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">Einige Videos sind nicht verwendbar. Sie sind zu kurz oder in einem nicht unterstützten Format.</item>
+        <item quantity="zero">Kein Video ist verwendbar. Sie sind alle zu kurz oder in einem nicht unterstützten Format.</item>
+        <item quantity="one">Das Video ist nicht verwendbar. Es ist zu kurz oder in einem nicht unterstützten Format.</item>
+        <item quantity="two">Zwei Videos sind nicht verwendbar. Sie sind zu kurz oder in einem nicht unterstützten Format.</item>
+        <item quantity="few">Keines der Videos ist verwendbar. Sie sind zu kurz oder in einem nicht unterstützten Format.</item>
+        <item quantity="many">Einige Videos sind nicht verwendbar. Sie sind zu kurz oder in einem nicht unterstützten Format.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d Kommentare</item>
+        <item quantity="one">%d Kommentar</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Die neue Albumgröße würde die derzeitige Beschränkung auf %1$d Elemente überschreiten.</item>
+        <item quantity="one">Die neue Albumgröße würde die derzeitige Beschränkung auf %1$d Element überschreiten.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Das Album würde %1$d Elemente enthalten.</item>
+        <item quantity="one">Das Album würde %1$d Element enthalten.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">%1$d Elemente aus Album entfernen?</item>
+        <item quantity="one">%1$d Element aus Album entfernen?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">%d Elemente werden aus Album entfernt…</item>
+        <item quantity="one">%d Element wird aus dem Album entfernt…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d Orte hinzugefügt</item>
+        <item quantity="one">%d Ort hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d Orte</item>
+        <item quantity="one">%d Ort</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d Karten</item>
+        <item quantity="one">%d Karte</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d Karten hinzugefügt</item>
+        <item quantity="one">%d Karte hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Elemente werden aus diesem Album entfernt…</item>
+        <item quantity="one">Element wird aus diesem Album entfernt…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d Elemente entfernt</item>
+        <item quantity="one">%d Element entfernt</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Fotos werden aus diesem Album entfernt…</item>
+        <item quantity="one">Foto wird aus diesem Album entfernt…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Videos werden aus diesem Album entfernt…</item>
+        <item quantity="one">Video wird aus diesem Album entfernt…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d Elemente</item>
+        <item quantity="one">%1$d Element</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d Elemente</item>
+        <item quantity="one">%d Element</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Vom Gerät löschen (%d)</item>
+        <item quantity="one">Vom Gerät löschen (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Alle vom Gerät löschen (%d)</item>
+        <item quantity="one">Alle vom Gerät löschen (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">Kopien auf dem Gerät löschen?</item>
+        <item quantity="one">Kopie auf dem Gerät löschen?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">Diese Elemente wurden nicht in Ihrer Fotogalerie gesichert. Wenn Sie sie jetzt löschen, werden sie endgültig aus Google Fotos entfernt.</item>
+        <item quantity="one">Dieses Element wurde nicht in Ihrer Fotogalerie gesichert. Wenn Sie es jetzt löschen, wird es endgültig aus Google Fotos entfernt.</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">In den Papierkorb (%d)</item>
+        <item quantity="one">In den Papierkorb (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d Elemente archiviert</item>
+        <item quantity="one">%d Element archiviert</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d Elemente aus dem Archiv wiederhergestellt</item>
+        <item quantity="one">%d Element aus dem Archiv wiederhergestellt</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">%1$s andere</item>
+        <item quantity="one">%1$s andere Person</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">%1$d Fotos hinzugefügt</item>
+        <item quantity="one">%1$d Foto hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d Elemente werden hochgeladen</item>
+        <item quantity="one">%d Element wird hochgeladen</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">%d Elemente werden entfernt…</item>
+        <item quantity="one">%d Element wird entfernt…</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Noch %d Fotos</item>
+        <item quantity="one">Noch %d Foto</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Noch %d Fotos für die Sicherung</item>
+        <item quantity="one">Noch %d Foto für die Sicherung</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%d Fotos könnten verloren sein</item>
+        <item quantity="one">%d Foto könnte verloren sein</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d Fotos wurden nicht gesichert</item>
+        <item quantity="one">%1$d Foto wurde nicht gesichert</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">%1$d Fotos sichern</item>
+        <item quantity="one">%1$d Foto sichern</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d Elemente werden hochgeladen</item>
+        <item quantity="one">%d Element wird hochgeladen</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d Videos werden hochgeladen</item>
+        <item quantity="one">%d Video wird hochgeladen</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d Elemente für Upload</item>
+        <item quantity="one">%d Element für Upload</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d Videos für Upload</item>
+        <item quantity="one">%d Video für Upload</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Alle %d Fotos</item>
+        <item quantity="one">%d Foto</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d Fotos nicht gesichert</item>
+        <item quantity="one">%d Foto nicht gesichert</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">Die neue Albumgröße würde die derzeitige Beschränkung auf %1$d Elemente überschreiten.</item>
+        <item quantity="one">Die neue Albumgröße würde die derzeitige Beschränkung auf %1$d Element überschreiten.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Das Album würde %1$d Elemente enthalten.</item>
+        <item quantity="one">Das Album würde %1$d Element enthalten.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d Elemente hinzugefügt</item>
+        <item quantity="one">%1$d Element hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Ein Album kann höchstens %d Elemente enthalten.</item>
+        <item quantity="one">Ein Album kann höchstens %d Element enthalten.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Wählen Sie höchstens %d Elemente aus.</item>
+        <item quantity="one">Wähle höchstens %d Element aus.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Wählen Sie mindestens %d Elemente aus.</item>
+        <item quantity="one">Wähle mindestens %d Element aus.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Wähle Elemente innerhalb eines Zeitraums von %d Tagen aus.</item>
+        <item quantity="one">Wähle ein Element innerhalb eines Zeitraums von %d Tagen aus.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">%d Elemente werden dem Album hinzugefügt…</item>
+        <item quantity="one">%d Element wird dem Album hinzugefügt…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d Elemente hinzugefügt</item>
+        <item quantity="one">%d Element hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Vor %d Tagen</item>
+        <item quantity="one">Vor %d Tag</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Vor %d Stunden</item>
+        <item quantity="one">Vor %d Stunde</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">%d Woche</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Vor %d Wochen</item>
+        <item quantity="one">Vor %d Woche</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Vor %d Minuten</item>
+        <item quantity="one">Vor %d Minute</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Vor %d Tagen</item>
+        <item quantity="one">Vor %d Tag</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$d Elemente entfernen?</item>
+        <item quantity="one">%1$d Element entfernen?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d Originalfotos und -videos werden entfernt</item>
+        <item quantity="one">%1$d Originalfoto oder -video wird entfernt</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d neue Karten</item>
+        <item quantity="one">1 neue Karte</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d Aktualisierungen</item>
+        <item quantity="one">%1$d Aktualisierung</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d Kommentare</item>
+        <item quantity="one">%1$d Kommentar</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Elemente werden in Fotogalerie gespeichert…</item>
+        <item quantity="one">Element wird in Fotogalerie gespeichert…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d Elemente hinzugefügt</item>
+        <item quantity="one">%d Element hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Du kannst nur noch %d weitere Elemente hinzufügen.</item>
+        <item quantity="one">Du kannst nur noch %d weiteres Element hinzufügen.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Ordner und %d darin enthaltene Elemente löschen</item>
+        <item quantity="one">Ordner und %d darin enthaltenes Element löschen</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Vom Gerät löschen (%d)</item>
+        <item quantity="one">Vom Gerät löschen (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Problem beim Kopieren von %d Elementen</item>
+        <item quantity="one">Problem beim Kopieren von %d Element</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d Elemente kopiert</item>
+        <item quantity="one">%d Element kopiert</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Problem beim Verschieben von %d Elementen</item>
+        <item quantity="one">Problem beim Verschieben von %d Element</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d Elemente verschoben</item>
+        <item quantity="one">%d Element verschoben</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Zu geteiltem Album mit %1$d Personen hinzufügen?</item>
+        <item quantity="one">Zu geteiltem Album mit %1$d Person hinzufügen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Zu freigegebenem Album mit %1$s und %2$d anderen hinzufügen?</item>
+        <item quantity="one">Zu freigegebenem Album mit %1$s und %2$d anderen Person hinzufügen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Zu freigegebenem Album mit %1$s, %2$s und %3$d anderen hinzufügen?</item>
+        <item quantity="one">Zu freigegebenem Album mit %1$s, %2$s und %3$d anderen Person hinzufügen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">An %1$s und %2$d andere senden?</item>
+        <item quantity="one">An %1$s und %2$d andere Person senden?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">An %1$s, %2$s und %3$d andere senden?</item>
+        <item quantity="one">An %1$s, %2$s und %3$d andere Person senden?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">Fotos von %d Personen</item>
+        <item quantity="one">Fotos von %d Person</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotos von %d ausgewählten Personen</item>
+        <item quantity="one">Fotos von %d ausgewählten Person</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d Personen wurden ausgewählt</item>
+        <item quantity="one">%d Person wurde ausgewählt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotos von %1$d ausgewählten Personen ab dem %2$s</item>
+        <item quantity="one">Fotos von %1$d ausgewählten Person ab dem %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotos von %d ausgewählten Personen</item>
+        <item quantity="one">Fotos von %d ausgewählten Person</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d Fotos entfernt</item>
+        <item quantity="one">%1$d Foto entfernt</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d Extraseiten</item>
+        <item quantity="one">%d Extraseite</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">%d Seiten</item>
+        <item quantity="one">%d Seite</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">%d Hardcover-Bücher</item>
+        <item quantity="one">%d Hardcover-Buch</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">%d Softcover-Bücher</item>
+        <item quantity="one">%d Softcover-Buch</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Füge %d weitere Fotos hinzu, um dieses Fotobuch zu bestellen</item>
+        <item quantity="one">Füge %d weiteres Foto hinzu, um dieses Fotobuch zu bestellen</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d Fotos hinzugefügt</item>
+        <item quantity="one">%d Foto hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Die Fotos wurden möglicherweise gelöscht oder zurückgenommen</item>
+        <item quantity="one">Das Foto wurde möglicherweise gelöscht oder zurückgenommen</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d Fotos sind nicht mehr verfügbar</item>
+        <item quantity="one">%d Foto ist nicht mehr verfügbar</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d Fotos entfernt</item>
+        <item quantity="one">%d Foto entfernt</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">Dein Buch muss mindestens %d Seiten haben, um einen Rückentext anzuzeigen. Füge dem Fotobuch weitere Fotos hinzu oder entscheide dich für ein Hardcover.</item>
+        <item quantity="one">Dein Buch muss mindestens %d Seite haben, damit ein Rückentext angezeigt wird. Füge dem Fotobuch weitere Fotos hinzu oder entscheide dich für ein Hardcover.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d weitere Seiten</item>
+        <item quantity="one">%d weitere Seite</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d Seiten</item>
+        <item quantity="one">%d Seite</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Nur %d Fotos können gedruckt werden, </item>
+        <item quantity="one">Nur %d Foto kann gedruckt werden, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">%d Fotos wurden dir vorgeschlagen</item>
+        <item quantity="one">%d Foto wurde dir vorgeschlagen</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d Fotos vorgeschlagen</item>
+        <item quantity="one">%d Foto vorgeschlagen</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">Fotos oder Videos</item>
+        <item quantity="one">Foto oder Video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">Fotos</item>
+        <item quantity="one">Foto</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">Videos</item>
+        <item quantity="one">Video</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Plus %1$d Orte auf deinen Fotos</item>
+        <item quantity="one">Plus %1$d Ort auf deinen Fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Plus %1$d Dinge auf deinen Fotos</item>
+        <item quantity="one">Plus %1$d Ding auf deinen Fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Plus %1$d Orte und Dinge auf deinen Fotos</item>
+        <item quantity="one">Plus %1$d Orte und Dinge auf deinen Fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d Personen gefunden</item>
+        <item quantity="one">%1$d Person gefunden</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d Orte gefunden</item>
+        <item quantity="one">%1$d Ort gefunden</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d Dinge gefunden</item>
+        <item quantity="one">%1$d Ding gefunden</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d Fotos</item>
+        <item quantity="one">%d Foto</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d Elemente ausgewählt</item>
+        <item quantity="one">%1$d Element ausgewählt</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">%d Fotos und Videos konnten nicht gelöscht werden</item>
+        <item quantity="one">%d Foto oder Video konnte nicht gelöscht werden</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">%d Elemente werden entfernt…</item>
+        <item quantity="one">%d Element wird entfernt…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d Elemente wurden dem Album hinzugefügt</item>
+        <item quantity="one">%d Element wurde dem Album hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d Elemente werden hochgeladen</item>
+        <item quantity="one">%d Element wird hochgeladen</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d Elemente werden hochgeladen, wenn wieder eine Verbindung besteht</item>
+        <item quantity="one">%d Element wird hochgeladen, wenn wieder eine Verbindung besteht</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s und %2$d andere</item>
+        <item quantity="one">%1$s und %2$d andere Person</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d Elemente</item>
+        <item quantity="one">%d Element</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">%d ähnliche Fotos hinzufügen?</item>
+        <item quantity="one">%d ähnliches Foto hinzufügen?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d neue Fotos</item>
+        <item quantity="one">%1$d neues Foto</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s hat %2$d neue Fotos hinzugefügt</item>
+        <item quantity="one">%1$s hat %2$d neues Foto hinzugefügt</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">%1$d Personen</item>
+        <item quantity="one">%1$d Person</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">%1$s und %2$d andere</item>
+        <item quantity="one">%1$s und %2$d andere Person</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Elemente können nicht gelöscht werden</item>
+        <item quantity="one">Element kann nicht gelöscht werden</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">Kopien auf dem Gerät können nicht gelöscht werden</item>
+        <item quantity="one">Kopie auf dem Gerät kann nicht gelöscht werden</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">Kopien auf dem Gerät gelöscht</item>
+        <item quantity="one">Kopie auf dem Gerät gelöscht</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d Elemente können nicht gelöscht werden</item>
+        <item quantity="one">%d Element kann nicht gelöscht werden</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d Elemente können nicht endgültig gelöscht werden</item>
+        <item quantity="one">%d Element kann nicht endgültig gelöscht werden</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Elemente werden endgültig gelöscht…</item>
+        <item quantity="one">Element wird endgültig gelöscht…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d Elemente endgültig gelöscht</item>
+        <item quantity="one">%d Element endgültig gelöscht</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d vom Gerät gelöscht</item>
+        <item quantity="one">%d vom Gerät gelöscht</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Elemente werden wiederhergestellt…</item>
+        <item quantity="one">Element wird wiederhergestellt…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d Elemente können nicht wiederhergestellt werden</item>
+        <item quantity="one">%d Element kann nicht wiederhergestellt werden</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d Elemente aus Papierkorb wiederhergestellt</item>
+        <item quantity="one">%d Element aus dem Papierkorb wiederhergestellt</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Elemente endgültig löschen?</item>
+        <item quantity="one">Element endgültig löschen?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Das Löschen von Elementen aus dem Papierkorb kann nicht rückgängig gemacht werden.</item>
+        <item quantity="one">Das Löschen eines Elements aus dem Papierkorb kann nicht rückgängig gemacht werden.</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Elemente löschen?</item>
+        <item quantity="one">Element löschen?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d Elemente endgültig löschen</item>
+        <item quantity="one">1 Element endgültig löschen</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Noch %d Tage bis zum Ablauf dieser Version. Wenn Sie Google Fotos weiterhin nutzen möchten, aktualisieren Sie die App jetzt.</item>
+        <item quantity="one">Noch 1 Tag bis zum Ablauf dieser Version. Wenn Sie Google Fotos weiterhin nutzen möchten, aktualisieren Sie die App jetzt.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Du verbrauchst ungefähr %s deines Datenvolumens, wenn du diese Elemente jetzt sicherst. Verbinde dich mit einem WLAN, um Datenvolumen zu sparen.</item>
+        <item quantity="one">Du verbrauchst ungefähr %s deines Datenvolumens, wenn du dieses Element jetzt sicherst. Verbinde dich mit einem WLAN, um Datenvolumen zu sparen.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Das Sichern dieser Elemente verbraucht etwas von deinem Datenvolumen. Verbinde dich mit einem WLAN, um Datenvolumen zu sparen.</item>
+        <item quantity="one">Das Sichern dieses Elements verbraucht etwas von deinem Datenvolumen. Verbinde dich mit einem WLAN, um Datenvolumen zu sparen.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Hochladen läuft… %d übrig</item>
+        <item quantity="one">Hochladen läuft… %d übrig</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d Dateien</item>
+        <item quantity="one">%d Datei</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s Fotos</item>
+        <item quantity="one">%s Foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s Elemente</item>
+        <item quantity="one">%s Element</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s Videos</item>
+        <item quantity="one">%s Video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Fotos auswählen</item>
+        <item quantity="one">Foto auswählen</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Elemente auswählen</item>
+        <item quantity="one">Element auswählen</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Videos auswählen</item>
+        <item quantity="one">Video auswählen</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">und %d andere</item>
+        <item quantity="one">und %d weitere Person</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d Kontaktmöglichkeiten</item>
+        <item quantity="one">%1$s. %2$d Kontaktmöglichkeit</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d Mitglieder</item>
+        <item quantity="one">%d Mitglied</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d von %2$d Mitgliedern ausgewählt</item>
+        <item quantity="one">%1$d von %2$d Mitglied ausgewählt</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d Mitglieder ausgewählt</item>
+        <item quantity="one">%d Mitglied ausgewählt</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Der Papierkorb deines Gerätes ist voll. Wenn du diese Elemente löschst, werden sie endgültig von deinem Gerät und aus deinem Konto entfernt.</item>
+        <item quantity="one">Der Papierkorb deines Gerätes ist voll. Wenn du dieses Element löschst, wird es endgültig von deinem Gerät und aus deinem Konto entfernt.</item>
+    </plurals>
+</resources>

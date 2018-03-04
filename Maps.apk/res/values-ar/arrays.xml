@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>أي</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>أي مستوى من الأسعار</item>
+        <item>رخيص</item>
+        <item>غالٍ بشكلٍ معتدل</item>
+        <item>غالٍ</item>
+        <item>غالٍ جدًا</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>أي</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>أي تقييم من النجوم</item>
+        <item>نجمتان أو أكثر</item>
+        <item>ثلاث نجوم أو أكثر</item>
+        <item>أربع نجوم أو أكثر</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>أي</item>
+        <item>3 نجوم</item>
+        <item>4-نجوم</item>
+        <item>5-نجوم</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>أي</item>
+        <item>ثلاث نجمات</item>
+        <item>أربع نجمات</item>
+        <item>خمس نجمات</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>أكره ذلك</item>
+        <item>لا يعجبني ذلك</item>
+        <item>لا بأس</item>
+        <item>أعجبني</item>
+        <item>أحب ذلك</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>عند التكبير/التصغير</item>
+        <item>دومًا</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>أخبر الآخرين عن سبب كراهيتك لهذا المكان.</item>
+        <item>أخبر الآخرين عن سبب عدم إعجابك بهذا المكان.</item>
+        <item>أخبر الآخرين عن سبب تقييمك لهذا المكان على أنه لا بأس به.</item>
+        <item>أخبر الآخرين عن سبب إعجابك بهذا المكان.</item>
+        <item>أخبر الآخرين عن سبب عشقك لهذا المكان.</item>
+    </string-array>
+</resources>

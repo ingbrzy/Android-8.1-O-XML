@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sjálfgefin prentaraþjónusta</string>
+    <string name="printer_busy">Upptekinn</string>
+    <string name="printer_out_of_paper">Enginn pappír</string>
+    <string name="printer_out_of_ink">Ekkert blek</string>
+    <string name="printer_out_of_toner">Ekkert prentduft</string>
+    <string name="printer_low_on_ink">Lítið eftir af bleki</string>
+    <string name="printer_low_on_toner">Lítið eftir af litadufti</string>
+    <string name="printer_door_open">Hlíf opin</string>
+    <string name="printer_jammed">Stífla</string>
+    <string name="printer_offline">Ótengdur</string>
+    <string name="printer_check">Athugaðu prentara</string>
+    <string name="waiting_to_send">Bíður eftir að senda</string>
+    <string name="wifi_not_connected">Wi-Fi ekki tengt</string>
+    <string name="unreadable_input">Ekki tókst að lesa skjal</string>
+    <string name="media_size_l">L</string>
+    <string name="media_size_5x7in">5x7 to.</string>
+    <string name="media_size_89x119mm">89x119 mm</string>
+    <string name="media_size_54x86mm">54x86 mm</string>
+    <string name="media_size_8x10in">8x10 to.</string>
+    <string name="media_size_4x6in">4x6 to.</string>
+    <string name="printer_description">%1$s – %2$s</string>
+    <string name="title_activity_add_printer">Prenturum bætt handvirkt við</string>
+    <string name="add_manual_printer">Bæta prentara við handvirkt</string>
+    <string name="hostname_or_ip">Hýsilheiti eða IP-tala</string>
+    <string name="ip_hint">192.168.0.4</string>
+    <string name="add">Bæta við</string>
+    <string name="no_printer_found">Enginn prentari finnst á þessu vistfangi</string>
+    <string name="printer_not_supported">Prentari ekki studdur</string>
+    <string name="forget_printer">Gleyma prentara</string>
+</resources>

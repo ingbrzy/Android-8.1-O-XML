@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">Dodano %1$d kontaktu do etykiety %2$s</item>
+        <item quantity="one">Dodano %1$d kontakt do etykiety %2$s</item>
+        <item quantity="few">Dodano %1$d kontakty do etykiety %2$s</item>
+        <item quantity="many">Dodano %1$d kontaktów do etykiety %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Dodaję %1$d kontaktu do etykiety %2$s</item>
+        <item quantity="one">Dodaję %1$d kontakt do etykiety %2$s</item>
+        <item quantity="few">Dodaję %1$d kontakty do etykiety %2$s</item>
+        <item quantity="many">Dodaję %1$d kontaktów do etykiety %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Przejrzyj sugerowane informacje dotyczące %d kontaktu</item>
+        <item quantity="one">Przejrzyj sugerowane informacje dotyczące %d kontaktu</item>
+        <item quantity="few">Przejrzyj sugerowane informacje dotyczące %d kontaktów</item>
+        <item quantity="many">Przejrzyj sugerowane informacje dotyczące %d kontaktów</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d niepotrzebnego kontaktu</item>
+        <item quantity="one">%d niepotrzebny kontakt</item>
+        <item quantity="few">%d niepotrzebne kontakty</item>
+        <item quantity="many">%d niepotrzebnych kontaktów</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d zduplikowanego kontaktu</item>
+        <item quantity="one">1 zduplikowany kontakt</item>
+        <item quantity="few">%d zduplikowane kontakty</item>
+        <item quantity="many">%d zduplikowanych kontaktów</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d niedawnej rozmowy • Ostatnia %2$s</item>
+        <item quantity="one">%1$d niedawna rozmowa • Ostatnia %2$s</item>
+        <item quantity="few">%1$d niedawne rozmowy • Ostatnia %2$s</item>
+        <item quantity="many">%1$d niedawnych rozmów • Ostatnia %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontakty są już dodane do etykiety %1$s</item>
+        <item quantity="one">Kontakt jest już dodany do etykiety %1$s</item>
+        <item quantity="few">Kontakty są już dodane do etykiety %1$s</item>
+        <item quantity="many">Kontakty są już dodane do etykiety %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktów</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktu · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+        <item quantity="few">%1$d kontakty · %2$s</item>
+        <item quantity="many">%1$d kontaktów · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Usunięto %1$d kontaktu</item>
+        <item quantity="one">Usunięto %1$d kontakt</item>
+        <item quantity="few">Usunięto %1$d kontakty</item>
+        <item quantity="many">Usunięto %1$d kontaktów</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Te kontakty zostaną usunięte z Kontaktów Google i wszystkich zsynchronizowanych urządzeń</item>
+        <item quantity="one">Ten kontakt zostanie usunięty z Kontaktów Google i wszystkich zsynchronizowanych urządzeń</item>
+        <item quantity="few">Te kontakty zostaną usunięte z Kontaktów Google i wszystkich zsynchronizowanych urządzeń</item>
+        <item quantity="many">Te kontakty zostaną usunięte z Kontaktów Google i wszystkich zsynchronizowanych urządzeń</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktu na Twoich innych kontach</item>
+        <item quantity="one">1 kontakt na Twoich innych kontach</item>
+        <item quantity="few">%1$d kontakty na Twoich innych kontach</item>
+        <item quantity="many">%1$d kontaktów na Twoich innych kontach</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktu</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d kontaktów</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktu • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+        <item quantity="few">^1 kontakty • ^2</item>
+        <item quantity="many">^1 kontaktów • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Przenieść te %1$d kontaktu na konto %2$s?</item>
+        <item quantity="one">Przenieść ten kontakt na konto %2$s?</item>
+        <item quantity="few">Przenieść te %1$d kontakty na konto %2$s?</item>
+        <item quantity="many">Przenieść te %1$d kontaktów na konto %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Przeniesiono %d kontaktu</item>
+        <item quantity="one">Przeniesiono %d kontakt</item>
+        <item quantity="few">Przeniesiono %d kontakty</item>
+        <item quantity="many">Przeniesiono %d kontaktów</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Zakończono przenoszenie %d kontaktu</item>
+        <item quantity="one">Zakończono przenoszenie kontaktu</item>
+        <item quantity="few">Zakończono przenoszenie %d kontaktów</item>
+        <item quantity="many">Zakończono przenoszenie %d kontaktów</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Przenoszę %d kontaktu</item>
+        <item quantity="one">Przenoszę kontakt</item>
+        <item quantity="few">Przenoszę %d kontakty</item>
+        <item quantity="many">Przenoszę %d kontaktów</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Kopie zapasowe %1$d kontaktu zostały zapisane na koncie %2$s</item>
+        <item quantity="one">Kopia zapasowa %1$d kontaktu została zapisana na koncie %2$s</item>
+        <item quantity="few">Kopie zapasowe %1$d kontaktów zostały zapisane na koncie %2$s</item>
+        <item quantity="many">Kopie zapasowe %1$d kontaktów zostały zapisane na koncie %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importuj z kart SIM</item>
+        <item quantity="one">Importuj z karty SIM</item>
+        <item quantity="few">Importuj z kart SIM</item>
+        <item quantity="many">Importuj z kart SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktów</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Zaimportowano %d kontaktu z karty SIM</item>
+        <item quantity="one">Zaimportowano 1 kontakt z karty SIM</item>
+        <item quantity="few">Zaimportowano %d kontakty z karty SIM</item>
+        <item quantity="many">Zaimportowano %d kontaktów z karty SIM</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Udostępnij kontakty przez:</item>
+        <item quantity="one">Udostępnij kontakt przez:</item>
+        <item quantity="few">Udostępnij kontakty przez:</item>
+        <item quantity="many">Udostępnij kontakty przez:</item>
+    </plurals>
+</resources>

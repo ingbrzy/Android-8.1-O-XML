@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d կոնտակտ ավելացվեց %2$s պիտակին</item>
+        <item quantity="one">%1$d contacts added to label %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Ավելացվում է %1$d կոնտակտ %2$s պիտակում</item>
+        <item quantity="one">Adding %1$d contacts to label %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Դիտել %d կոնտակտի համար առաջարկվող տվյալները</item>
+        <item quantity="one">Review suggested information for %d contacts</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d անպետք կոնտակտ</item>
+        <item quantity="one">%d junk contacts</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d կրկնվող կոնտակտ</item>
+        <item quantity="one">%d duplicate contacts</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d վերջերս արված զանգ • Վերջինի ամսաթիվը՝ %2$s</item>
+        <item quantity="one">%1$d recent calls • Last on %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Կոնտակտներն արդեն ավելացվել են %1$s պիտակին</item>
+        <item quantity="one">Contacts already added to label %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d կոնտակտ</item>
+        <item quantity="one">%d contacts</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d կոնտակտ · %2$s</item>
+        <item quantity="one">%1$d contacts · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d կոնտակտ ջնջվեց</item>
+        <item quantity="one">%1$d contacts deleted</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Այս կոնտակտները կհեռացվեն Google Կոնտակտներից և ձեր բոլոր համաժամեցված սարքերից</item>
+        <item quantity="one">These contacts will be removed from Google Contacts and all your synced devices</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d կոնտակտ ձեր մյուս հաշիվներում</item>
+        <item quantity="one">%1$d contacts in your other accounts</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d կոնտակտ</item>
+        <item quantity="one">%1$d contacts</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 կոնտակտ • ^2</item>
+        <item quantity="one">^1 contacts • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Տեղափոխե՞լ այս %1$d կոնտակտները %2$s հաշիվ:</item>
+        <item quantity="one">Move these %1$d contacts into %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Տեղափոխվեց %d կոնտակտ</item>
+        <item quantity="one">Moved %d contacts</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Ավարտվեց %d կոնտակտի տեղափոխումը</item>
+        <item quantity="one">Finished moving %d contacts</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d կոնտակտի տեղափոխում</item>
+        <item quantity="one">Moving %d contacts</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d կոնտակտ պահուստավորվել է %2$s հաշվում</item>
+        <item quantity="one">%1$d contacts backed up to %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Ներմուծել SIM քարտերից</item>
+        <item quantity="one">Import from SIM cards</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d կոնտակտ</item>
+        <item quantity="one">%d contacts</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d կոնտակտ SIM քարտից ներմուծվեց</item>
+        <item quantity="one">%d կոնտակտ SIM քարտից ներմուծվեց</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Ուղարկել կոնտակտները հետևյալով՝</item>
+        <item quantity="one">Share contacts via</item>
+    </plurals>
+</resources>

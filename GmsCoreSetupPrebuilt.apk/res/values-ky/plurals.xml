@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d колдонмонун баары</item>
+        <item quantity="one">1 колдонмо</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d колдонмо тандалды</item>
+        <item quantity="one">1 колдонмо тандалды</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d колдонмо буга чейин орнотулган</item>
+        <item quantity="one">1 колдонмо буга чейин орнотулган</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d колдонмонун камдык көчүрмөсү сакталган. Бир нечесин тандаңыз же баарын өткөрүп алыңыз.</item>
+        <item quantity="one">%1$d колдонмонун камдык көчүрмөсү сакталган.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">түзмөктө %1$d байланыш</item>
+        <item quantity="one">түзмөктө 1 байланыш</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM-картадагы байланыштар – %1$d, түзмөктөгү байланыштар – %2$d</item>
+        <item quantity="one">SIM-картадагы байланыштар – %1$d, түзмөктөгү байланыштар – %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® байланышы</item>
+        <item quantity="one">1 iCloud® байланышы</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM картадагы байланыш</item>
+        <item quantity="one">1 SIM картадагы байланыш</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d колдонмо таптык. Бир нечесин тандаңыз же баарын өткөрүп алыңыз.</item>
+        <item quantity="one">%1$d колдонмо таптык. Аларды өткөрүп аласызбы?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">iOS® колдонмоңузга дал келген %1$d колдонмо табылды. Ар бир колдонмону орнотуу менен алар сураган уруксаттарга макулдугуңузду бересиз. &lt;annotation id="apps_permissions_learn_more">Кеңири маалымат&lt;/annotation></item>
+        <item quantity="one">iOS® колдонмолоруңуздун бирине дал келген колдонмо табылды. Бул колдонмону орнотуу менен ал сураган уруксаттарга макулдугуңузду бересиз. &lt;annotation id="apps_permissions_learn_more">Кеңири маалымат&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d нерсе калды...</item>
+        <item quantity="one">%1$d нерсе калды...</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Көңүл буруңуз! Төмөнкү катышуучулар бул иш-чарага мындан ары кошулбайт:</item>
+        <item quantity="one">Көңүл буруңуз! Төмөнкү катышуучу бул иш-чарага мындан ары кошулбайт:</item>
+    </plurals>
+</resources>

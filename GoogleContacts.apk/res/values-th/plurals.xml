@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">เพิ่มผู้ติดต่อ %1$d คนลงในป้ายกำกับ %2$s แล้ว</item>
+        <item quantity="one">เพิ่มผู้ติดต่อ %1$d คนลงในป้ายกำกับ %2$s แล้ว</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">เพิ่มผู้ติดต่อ %1$d รายไว้ในป้ายกำกับ %2$s</item>
+        <item quantity="one">เพิ่มผู้ติดต่อ %1$d รายไว้ในป้ายกำกับ %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">ตรวจสอบข้อมูลที่แนะนำสำหรับรายชื่อติดต่อ %d รายการ</item>
+        <item quantity="one">ตรวจสอบข้อมูลที่แนะนำสำหรับรายชื่อติดต่อ %d รายการ</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">ผู้ติดต่อที่ไม่ได้ใช้งาน %d คน</item>
+        <item quantity="one">ผู้ติดต่อที่ไม่ได้ใช้งาน %d คน</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d รายชื่อซ้ำ</item>
+        <item quantity="one">1 รายชื่อซ้ำ</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">ติดต่อล่าสุด %1$d ครั้ง • ครั้งสุดท้ายเมื่อ %2$s</item>
+        <item quantity="one">ติดต่อล่าสุด %1$d ครั้ง • ครั้งสุดท้ายเมื่อ %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">ผู้ติดต่ออยู่ในป้ายกำกับ %1$s อยู่แล้ว</item>
+        <item quantity="one">ผู้ติดต่ออยู่ในป้ายกำกับ %1$s อยู่แล้ว</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">รายชื่อติดต่อ %d ราย</item>
+        <item quantity="one">รายชื่อติดต่อ %d ราย</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">รายชื่อติดต่อ %1$d ราย · %2$s</item>
+        <item quantity="one">รายชื่อติดต่อ %1$d ราย · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">ลบรายชื่อติดต่อ %1$d รายการ</item>
+        <item quantity="one">ลบรายชื่อติดต่อ %1$d รายการ</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">รายชื่อติดต่อเหล่านี้จะถูกนำออกจาก Google Contacts และอุปกรณ์ทั้งหมดที่คุณซิงค์ไว้</item>
+        <item quantity="one">รายชื่อติดต่อนี้จะถูกนำออกจาก Google Contacts และอุปกรณ์ทั้งหมดที่คุณซิงค์ไว้</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d รายชื่อติดต่อในบัญชีอื่น</item>
+        <item quantity="one">1 รายชื่อติดต่อในบัญชีอื่น</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d ผู้ติดต่อ</item>
+        <item quantity="one">ผู้ติดต่อ 1 คน</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">ผู้ติดต่อ ^1 คน • ^2</item>
+        <item quantity="one">ผู้ติดต่อ ^1 คน • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">ย้ายรายชื่อติดต่อ %1$d รายการนี้ไปยัง %2$s ไหม</item>
+        <item quantity="one">ย้ายรายชื่อติดต่อนี้ไปยัง %2$s ไหม</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">ย้ายรายชื่อติดต่อ %d รายการ</item>
+        <item quantity="one">ย้ายรายชื่อติดต่อ %d รายการ</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">ย้ายรายชื่อติดต่อ %d รายการเสร็จแล้ว</item>
+        <item quantity="one">ย้ายรายชื่อติดต่อเสร็จแล้ว</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">กำลังย้ายรายชื่อติดต่อ %d รายการ</item>
+        <item quantity="one">กำลังย้ายรายชื่อติดต่อ</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">สำรองข้อมูลรายชื่อติดต่อ %1$d รายการไปยัง %2$s</item>
+        <item quantity="one">สำรองข้อมูลรายชื่อติดต่อ %1$d รายการไปยัง %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">นำเข้าจากซิมการ์ด</item>
+        <item quantity="one">นำเข้าจากซิมการ์ด</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">รายชื่อติดต่อ %d ราย</item>
+        <item quantity="one">ผู้ติดต่อ 1 คน</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">นำเข้าผู้ติดต่อ %d รายจากซิมแล้ว</item>
+        <item quantity="one">นำเข้าผู้ติดต่อ 1 รายจากซิมแล้ว</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">แชร์ผู้ติดต่อผ่านทาง</item>
+        <item quantity="one">แชร์ผู้ติดต่อผ่านทาง</item>
+    </plurals>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Առաջ</string>
+    <string name="suw_back_button_label">Հետ</string>
+    <string name="suw_more_button_label">Ավելին</string>
+    <string name="vzw_wfc_activation_error">Չհաջողվեց ակտիվացնել Wi-Fi-ով արվող զանգերը: Խնդրում ենք փորձել ավելի ուշ:</string>
+    <string name="vzw_address_update_error">Այս պահին հնարավոր չէ թարմացնել արտակարգ իրավիճակների ընթացիկ հասցեն: Փորձեք մի փոքր ուշ:</string>
+    <string name="emergency_address_app_label">Արտակարգ իրավիճակների հասցեի կառավարում</string>
+    <string name="progress_text">Խնդրում ենք սպասել…</string>
+    <string name="vzw_tos_title">Wi-Fi զանգերի ակտիվացում</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="vzw_tos_text">"Wi-Fi զանգերը ձեզ թույլ են տալիս կատարել զանգեր բջջային ցանցերի անհասանելիության դեպքում:
+
+Wi-Fi զանգերը կարգավորելու համար անհրաժեշտ է մուտքագրել ԱՄՆ-ի հասցե: Այս հեռախոսից ԱՄՆ-ի տարածքում Wi-Fi-ի միջոցով արտակարգ իրավիճակների (E911) զանգ կատարելու դեպքում տվյալ հասցեն կօգտագործվի արտակարգ իրավիճակների ծառայությունների կողմից ձեր տեղադրությունում:
+
+Մեկ այլ Wi-Fi ցանցի միջոցով զանգեր կատարելու դեպքում խորհուրդ ենք տալիս փոխել այս հասցեն՝ տեղադրության տվյալների ճշգրտությունն ապահովելու համար: Տեղադրությունը ցանկացած պահի կարող եք փոխել Wi-Fi զանգերի կարգավորումներից:"</string>
+    <string name="vzw_tos_link">Պայմաններ և դրույթներ</string>
+    <string name="tos_continue">Շարունակել</string>
+    <string name="vzw_e911_title">Արտակարգ իրավիճակների տեղադրության տվյալներ</string>
+    <string name="vzw_e911_description"><b>ՈՒՇԱԴՐՈՒԹՅՈՒՆ. ՀԱՐԿԱՎՈՐ Է ՆՇԵԼ 911 ԱՐՏԱԿԱՐԳ ԻՐԱՎԻՃԱԿՆԵՐԻ ՀԱՍՑԵՆ</b>"
+Wi-Fi զանգերը միացնելու համար մուտքագրեք ԱՄՆ-ի հասցե, որտեղ պետք է ժամանեն արտակարգ իրավիճակների ծառայությունները 911 զանգելու դեպքում: Այդ հասցեն ցանկացած պահի կարող եք փոխել Կարգավորումներից: Տեղադրությունը փոխելու դեպքում շատ կարևոր է թարմացնել այս հասցեն:"</string>
+    <string name="vzw_e911_warning"><b>ՆԱԽԱԶԳՈՒՇԱՑՈՒՄ. 911 ԱՐՏԱԿԱՐԳ ԻՐԱՎԻՃԱԿՆԵՐԻ ԶԱՆԳԵՐԻ ՍԱՀՄԱՆԱՓԱԿՈՒՄՆԵՐ</b>"
+911 զանգելիս օպերատորին միշտ հաղորդեք ձեր գտնվելու վայրը: Հասանելի բջջային ցանցի բացակայության դեպքում 911 զանգը կկատարվի Wi-Fi-ի միջոցով: 911 զանգը Wi-Fi-ի միջոցով կատարելու դեպքում այն կարող է միանալ ուշացումով կամ ընդհանրապես չկայանալ, օրինակ, եթե 911 համակարգը չի ճանաչում հասցեն, էլեկտրասնուցում չկա կամ Wi-Fi կապը խնդիրներ ունի: Արտակարգ իրավիճակների ծառայությունները կժամանեն վերը նշված հասցեով, այնպես որ խնդրում ենք այն անպայման թարմացնել ձեր տեղադրությունը փոխելու դեպքում:"</string>
+    <string name="house_number">Տան համարը</string>
+    <string name="street">Փողոց</string>
+    <string name="apt_suite_number">Բնակարանի համարը</string>
+    <string name="city">Քաղաք</string>
+    <string name="state">Նահանգ</string>
+    <string name="zip_code">Փոստային դասիչ</string>
+    <string name="save">Պահել</string>
+    <string name="vzw_address_confirm_text_part1">Չհաջողվեց գտնել ձեր մուտքագրած հասցեն: Հնարավոր է, որ փողոցը և տան համարը չեն գտնվել կամ քաղաքը, նահանգը և փոստային դասիչը սխալ են նշվել:</string>
+    <string name="vzw_address_confirm_text_part2">Եթե քաղաքը, նահանգը և փոստային դասիչը սխալ են նշվել, ապա սեղմեք %1$s կոճակը: Հակառակ դեպքում սեղմեք %2$s կոճակը:</string>
+    <string name="save_anyway">Պահել</string>
+    <string name="edit_address">Փոխել հասցեն</string>
+    <string name="ok">Եղավ</string>
+    <string name="vzw_address_select_text">Չհաջողվեց գտնել ձեր մուտքագրած հասցեն՝</string>
+    <string name="vzw_address_alternate_text">Արդյո՞ք նկատի ունեք՝</string>
+    <string name="vzw_partial_confirm_head">Արտակարգ իրավիճակների ծառայությունների մատակարարները չեն կարող վավերացնել մուտքագրած հասցեն:</string>
+    <string name="vzw_partial_confirm_text">Օգտագործե՞լ այս հասցեն արտակարգ իրավիճակների դեպքում:</string>
+    <string name="vzw_partial_failure_text_part1">Հնարավոր է, որ քաղաքը, նահանգը կամ փոստային դասիչը սխալ եք նշվել:</string>
+    <string name="vzw_partial_failure_text_part2">Ստուգեք հասցեն և նորից փորձեք:</string>
+    <string name="vzw_address_update_success_toast">Արտակարգ իրավիճակների հասցեն թարմացվեց</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi-ն անջատված է</string>
+    <string name="connect_to_wifi_or_web_portal_message">Կարող եք կարգավորել Wi-Fi զանգերը բջջային ցանցի միջոցով, սակայն այս գործառույթն օգտագործելու համար ձեզ անհրաժեշտ կլինի միացնել Wi-Fi-ը և միանալ որևէ ցանցին։</string>
+    <string name="button_turn_on_wifi">Միացնել Wi-Fi-ը</string>
+    <string name="button_setup_web_portal">Շարունակել կարգավորումը</string>
+</resources>

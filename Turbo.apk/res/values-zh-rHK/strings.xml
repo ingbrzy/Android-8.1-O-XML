@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">清除搜尋</string>
+    <string name="place_autocomplete_search_hint">搜尋</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」存取 Google Play 服務時發生問題。請稍後再試一次。</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，方可執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">您的裝置尚未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">安裝 Google Play 服務</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務錯誤</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新「Google Play 服務」，才能執行 %1$s。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">正在更新 Google Play 服務，更新完成後方可執行「%1$s」。</string>
+    <string name="common_google_play_services_wear_update_text">需要使用新版本的 Google Play 服務。更新會即將自動開始。</string>
+    <string name="common_open_on_phone">在手機開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">透過 Google 登入</string>
+    <string name="anomaly_entry_system">Android 系統</string>
+    <string name="background_battery_usage_description">偵測到背景耗電量高</string>
+    <string name="battery_history_days">%1$d 天 %2$d 小時 %3$d 分鐘 %4$d 秒</string>
+    <string name="battery_history_hours">%1$d 小時 %2$d 分鐘 %3$d 秒</string>
+    <string name="battery_history_minutes">%1$d 分鐘 %2$d 秒</string>
+    <string name="battery_history_seconds">%1$d 秒</string>
+    <string name="battery_history_days_no_seconds">%1$d 天 %2$d 小時 %3$d 分鐘</string>
+    <string name="battery_history_hours_no_seconds">%1$d 小時 %2$d 分鐘</string>
+    <string name="battery_history_minutes_no_seconds">%1$d 分鐘</string>
+    <string name="notification_channel_name">低電量通知</string>
+    <string name="time_remaining_warning_subtext">根據您的使用情況，剩餘約 %1$s</string>
+    <string name="time_remaining_warning_text">電池電力可能即將耗盡</string>
+    <string name="usage_alerts_empty_state">上次充滿電後沒有警示</string>
+    <string name="usage_alerts_title">用量警示</string>
+</resources>

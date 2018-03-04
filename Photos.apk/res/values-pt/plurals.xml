@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">+ %d</item>
+        <item quantity="one">+ %d</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="zero">0 minutos</item>
+        <item quantity="one">1 minuto</item>
+        <item quantity="two">2 minutos</item>
+        <item quantity="few">%1$d minutos</item>
+        <item quantity="many">%1$d minutos</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="zero">0 segundos</item>
+        <item quantity="one">1 segundo</item>
+        <item quantity="two">2 segundos</item>
+        <item quantity="few">%1$d segundos</item>
+        <item quantity="many">%1$d segundos</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d itens verificados</item>
+        <item quantity="one">%1$d item verificado</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">Não foi possível analisar %1$d dos vídeos.</item>
+        <item quantity="zero">Não foi possível analisar %1$d dos vídeos.</item>
+        <item quantity="one">Não foi possível analisar %1$d dos vídeos.</item>
+        <item quantity="two">Não foi possível analisar %1$d dos vídeos.</item>
+        <item quantity="few">Não foi possível analisar %1$d dos vídeos.</item>
+        <item quantity="many">Não foi possível analisar %1$d dos vídeos.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="zero">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+        <item quantity="two">%1$d minutos</item>
+        <item quantity="few">%1$d minutos</item>
+        <item quantity="many">%1$d minutos</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+        <item quantity="two">%1$d selecionados</item>
+        <item quantity="few">%1$d selecionados</item>
+        <item quantity="many">%1$d selecionados</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="zero">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+        <item quantity="two">%1$d segundos</item>
+        <item quantity="few">%1$d segundos</item>
+        <item quantity="many">%1$d segundos</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">Não foi possível usar esses vídeos. Eles são muito curtos ou estão em um formato incompatível.</item>
+        <item quantity="zero">Não foi possível usar esses vídeos. Eles são muito curtos ou estão em um formato incompatível.</item>
+        <item quantity="one">Não foi possível usar esse vídeo. Ele é muito curto ou está em um formato incompatível.</item>
+        <item quantity="two">Não foi possível usar esses vídeos. Eles são muito curtos ou estão em um formato incompatível.</item>
+        <item quantity="few">Não foi possível usar esses vídeos. Eles são muito curtos ou estão em um formato incompatível.</item>
+        <item quantity="many">Não foi possível usar esses vídeos. Eles são muito curtos ou estão em um formato incompatível.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d comentário</item>
+    </plurals>
+</resources>

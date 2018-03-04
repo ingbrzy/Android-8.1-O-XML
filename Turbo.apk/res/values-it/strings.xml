@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Cancella ricerca</string>
+    <string name="place_autocomplete_search_hint">Cerca</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="common_google_play_services_enable_button">Attiva</string>
+    <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_install_button">Installa</string>
+    <string name="common_google_play_services_install_text">"L'app %1$s non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services, non supportati dal tuo dispositivo.</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services, attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="anomaly_entry_system">Sistema Android</string>
+    <string name="background_battery_usage_description">Rilevato utilizzo elevato della batteria in background</string>
+    <string name="battery_history_days">%1$d g %2$d h %3$d m %4$d s</string>
+    <string name="battery_history_hours">%1$d h %2$d m %3$d s</string>
+    <string name="battery_history_minutes">%1$d m %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d g %2$d h %3$d m</string>
+    <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
+    <string name="battery_history_minutes_no_seconds">%1$d m</string>
+    <string name="notification_channel_name">Notifica di batteria in esaurimento</string>
+    <string name="time_remaining_warning_subtext">Tempo rimanente in base al tuo utilizzo: %1$s circa</string>
+    <string name="time_remaining_warning_text">La batteria sarà esaurita a breve</string>
+    <string name="usage_alerts_empty_state">"Nessun avviso dall'ultima ricarica completa della batteria"</string>
+    <string name="usage_alerts_title">Avvisi sul livello di carica</string>
+</resources>

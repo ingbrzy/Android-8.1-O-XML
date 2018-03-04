@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Verkeerde SIM-PIN-kode. Jy het %d pogings oor.</item>
+        <item quantity="one">Verkeerde SIM-PIN-kode. Jy het %d oorblywende poging voordat jy jou diensverskaffer sal moet kontak om jou toestel te ontsluit.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Verkeerde SIM-PUK-kode. Jy het %d pogings oor voordat SIM permanent onbruikbaar word.</item>
+        <item quantity="one">Verkeerde SIM-PUK-kode. Jy het %d poging oor voordat SIM permanent onbruikbaar word.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Toestel is %d uur lank nie ontsluit nie. Bevestig wagwoord.</item>
+        <item quantity="one">Toestel is %d uur lank nie ontsluit nie. Bevestig wagwoord.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Toestel is %d uur lank nie ontsluit nie. Bevestig patroon.</item>
+        <item quantity="one">Toestel is %d uur lank nie ontsluit nie. Bevestig patroon.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Toestel is %d uur lank nie ontsluit nie. Bevestig PIN.</item>
+        <item quantity="one">Toestel is %d uur lank nie ontsluit nie. Bevestig PIN.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s en %3$d ander kanale</item>
+        <item quantity="one">%1$s, %2$s en %3$d ander kanaal</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">nog %s kennisgewings binne.</item>
+        <item quantity="one">nog %s kennisgewing binne.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 uit %s kennisgewingkategorieë van hierdie program</item>
+        <item quantity="one">1 uit %s kennisgewingkategorie van hierdie program</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d skerms in Oorsig</item>
+        <item quantity="one">1 skerm in Oorsig</item>
+    </plurals>
+</resources>

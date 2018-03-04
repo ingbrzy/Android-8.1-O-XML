@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Borra a busca</string>
+    <string name="place_autocomplete_search_hint">Buscar</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ten problemas cos servizos de Google Play. Téntao de novo.</string>
+    <string name="common_google_play_services_enable_button">Activar</string>
+    <string name="common_google_play_services_enable_text">%1$s non funcionará a menos que actives os servizos de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activar servizos de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s non se executará se o teu dispositivo non ten instalados os servizos de Google Play.</string>
+    <string name="common_google_play_services_install_title">Descargar servizos de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erro nos servizos de Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non se executará sen os servizos de Google Play, que non son compatibles co teu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s non se executará a menos que actualices os servizos de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizar os servizos de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s non se executará sen os servizos de Google Play, que se están actualizando neste momento.</string>
+    <string name="common_google_play_services_wear_update_text">Necesítase a nova versión dos servizos de Google Play. Actualizarase en breve.</string>
+    <string name="common_open_on_phone">Abrir no teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="anomaly_entry_system">Sistema Android</string>
+    <string name="background_battery_usage_description">Detectáronse aplicacións cun uso elevado da batería en segundo plano</string>
+    <string name="battery_history_days">%1$d d %2$d h %3$d min %4$d s</string>
+    <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
+    <string name="battery_history_minutes">%1$d min %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Notificación de pouca batería</string>
+    <string name="time_remaining_warning_subtext">Tempo restante aproximado en función do uso: %1$s</string>
+    <string name="time_remaining_warning_text">É posible que a batería se esgote en breve</string>
+    <string name="usage_alerts_empty_state">Non houbo alertas desde a última carga completa da batería</string>
+    <string name="usage_alerts_title">Alertas de uso da batería</string>
+</resources>

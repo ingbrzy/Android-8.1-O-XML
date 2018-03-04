@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేయండి</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్ చేయి</string>
+    <string name="abc_capital_on">ఆన్ చేయి</string>
+    <string name="abc_search_hint">శోధించు...</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="abc_searchview_description_query">ప్రశ్న శోధించండి</string>
+    <string name="abc_searchview_description_search">శోధించు</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పించు</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో భాగస్వామ్యం చేయి</string>
+    <string name="abc_toolbar_collapse_description">కుదించండి</string>
+    <string name="app_has_in_app_purchases">అనువర్తనంలో కొనుగోళ్లు</string>
+    <string name="app_has_permissions">అనుమతులు: %s</string>
+    <string name="app_has_runtime_permissions">అనువర్తనం అనుమతుల కోసం అడుగుతుంది</string>
+    <string name="app_picker_loading">అందుబాటులో ఉన్న అనువర్తనాలు కనుగొంటోంది…</string>
+    <string name="app_picker_loading_toast">అందుబాటులో ఉన్న అనువర్తనాలు త్వరలో లోడ్ చేయబడతాయి</string>
+    <string name="app_picker_no_apps">అనువర్తనాలు ఏవీ ఎంచుకోలేదు</string>
+    <string name="app_picker_no_apps_found">అనువర్తనాలు ఏవీ కనుగొనబడలేదు</string>
+    <string name="apps_permissions_described_v2">"కేవలం జనాదరణ పొందిన ఉచిత iOS® అనువర్తనాలు మాత్రమే Android అనువర్తనాలకు సరితూగుతాయి. చాలా వరకు అనువర్తనంలో కొనుగోళ్లు బదిలీ చేయబడవు. సెటప్ పూర్తయిన తర్వాత మీరు Play స్టోర్‌లో మరిన్ని అనువర్తనాలను కనుగొనగలరు.
+
+మీరు కొన్ని అనువర్తనాలకు మీ పరికరంలోని నిర్దిష్ట సామర్థ్యాలు లేదా సమాచారాన్ని ప్రాప్యత చేయడానికి ముందస్తు అనుమతి ఇవ్వాల్సి రావచ్చు. అనుమతులు అనేవి అనుమతి సమూహాలుగా నిర్వహించబడతాయి. ఈ అనువర్తనాలను ఇన్‌స్టాల్ చేసేలా ఎంచుకోవడం ద్వారా, ప్రతి సమూహానికి భాగమైన అనుమతులను మీరు ఆమోదిస్తారు. ప్రతి అనుమతుల సమూహం యొక్క వివరణ దిగువ అందించబడుతుంది.
+
+కొన్ని అనువర్తనాలకు ముందస్తు అనుమతులు ఇవ్వాల్సిన అవసరం ఉండకపోవచ్చు. మీరు ఈ అనువర్తనాల్లో ఒకదాన్ని ఉపయోగిస్తున్నప్పుడు, అనువర్తనం అటువంటి రకమైన డేటాను ఉపయోగించే ముందు మీరు ఒక్కో అనుమతిని అనుమతించవచ్చు లేదా నిరాకరించవచ్చు.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">డేటా బదిలీ సాధనం</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">కాపీ చేయవద్దు</string>
+    <string name="close_button_label">మూసివేయండి</string>
+    <string name="cloud_restore_app_picker_button">పునరుద్ధరించు</string>
+    <string name="cloud_restore_app_picker_description_no_apps">మీ బ్యాకప్‌లో అనువర్తనాలేవీ లేవు</string>
+    <string name="cloud_restore_app_picker_title">పునరుద్ధరించాల్సిన అనువర్తనాలను ఎంచుకోండి</string>
+    <string name="common_cancel">రద్దు చేయి</string>
+    <string name="common_google_play_services_enable_button">ప్రారంభించు</string>
+    <string name="common_google_play_services_enable_text">మీరు Google Play సేవలను ప్రారంభిస్తే మినహా %1$s పని చేయదు.</string>
+    <string name="common_google_play_services_enable_title">Google Play సేవలను ప్రారంభించండి</string>
+    <string name="common_google_play_services_install_button">ఇన్‌స్టాల్ చేయి</string>
+    <string name="common_google_play_services_install_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ పరికరంలో లేవు.</string>
+    <string name="common_google_play_services_install_title">Google Play సేవలను పొందండి</string>
+    <string name="common_google_play_services_notification_ticker">Google Play సేవల లోపం</string>
+    <string name="common_google_play_services_unknown_issue">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఈ సేవలకు మీ పరికరంలో మద్దతు లేదు.</string>
+    <string name="common_google_play_services_update_button">నవీకరించు</string>
+    <string name="common_google_play_services_update_text">మీరు Google Play సేవలను నవీకరిస్తే మినహా %1$s అమలు కాదు.</string>
+    <string name="common_google_play_services_update_title">Google Play సేవలను నవీకరించండి</string>
+    <string name="common_google_play_services_updating_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు ప్రస్తుతం నవీకరించబడుతున్నాయి.</string>
+    <string name="common_google_play_services_wear_update_text">కొత్త Google Play సేవల సంస్కరణ అవసరం. అది కొద్ది సేపట్లో దానంతట అదే నవీకరించబడుతుంది.</string>
+    <string name="common_ok">సరే</string>
+    <string name="common_open_on_phone">ఫోన్‌లో తెరువు</string>
+    <string name="common_signin_button_text">సైన్ ఇన్ చేయి</string>
+    <string name="common_signin_button_text_long">Googleతో సైన్ ఇన్ చేయి</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d పరికరం</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google పరిచయాలు, %1$d iCloud®, %2$d పరికరం</string>
+    <string name="contacts_number_device_and_sim_with_google">Google పరిచయాలు, %1$d SIM, %2$d పరికరం</string>
+    <string name="contacts_number_device_with_google">Google పరిచయాలు, %1$d పరికరం</string>
+    <string name="contacts_number_icloud_with_google">Google పరిచయాలు, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google పరిచయాలు, %1$d SIM</string>
+    <string name="copy_confirmation_description">మీరు మీ Google ఖాతా మరియు అనువర్తనాల వంటి డేటాను మీ కొత్త ఫోన్‌కి కాపీ చేయబోతున్నారు</string>
+    <string name="copy_confirmation_title">మీ కొత్త ఫోన్‌కి కాపీ చేయాలా?</string>
+    <string name="d2d_app_picker_description_no_apps">మేము అనువర్తనాలు ఏవీ కనుగొనలేకపోయాము</string>
+    <string name="d2d_app_picker_title">అనువర్తనాలు</string>
+    <string name="d2d_migration_canceled_on_source">కాపీ చేయడం రద్దయింది</string>
+    <string name="data_copied_fragment_description">మీ డేటా మీ కొత్త ఫోన్‌కి కాపీ చేయబడింది. మీరు కేబుల్‌ని అన్‌ప్లగ్ చేయవచ్చు.</string>
+    <string name="data_copied_fragment_description_cancel">మీరు కాపీ చేయడాన్ని ఆపివేయమని ఎంచుకున్నారు, కాబట్టి మీ కొత్త ఫోన్‌కి కొంత డేటా మాత్రమే కాపీ చేయబడింది.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">మీరు కాపీ చేయడాన్ని ఆపివేయాలని ఎంచుకున్నారు, కాబట్టి మీ కొత్త ఫోన్‌కు ఏదీ కాపీ చేయబడలేదు.</string>
+    <string name="data_copied_fragment_description_error">ఏదో తప్పు జరిగింది, కాబట్టి మేము మొత్తం కాపీ చేయలేకపోయాము.</string>
+    <string name="data_copied_fragment_description_error_no_data">ఏదో తప్పు జరిగింది, కాబట్టి మేము మీ డేటాను కాపీ చేయలేకపోయాము.</string>
+    <string name="data_copied_fragment_no_data_title">కాపీ చేయలేకపోయింది</string>
+    <string name="data_copied_fragment_some_data_title">కొంత డేటా కాపీ చేయబడింది</string>
+    <string name="data_copied_fragment_title">డేటా కాపీ చేయబడింది</string>
+    <string name="device_not_supported_fragment_new_device">మీరు కొత్త ఫోన్‌కు కనెక్ట్ చేసారు. అలాగే కొనసాగించడానికి, మీ మునుపటి దానికి మళ్లీ కనెక్ట్ చేయండి.</string>
+    <string name="device_not_supported_fragment_new_device_title">మునుపటి ఫోన్‌కు మళ్లీ కనెక్ట్ చేయండి</string>
+    <string name="device_not_supported_fragment_no_data_cable">ఈ కేబుల్ డేటాను బదిలీ చేయలేదు. వేరొక కేబుల్‌ని ఉపయోగించి మళ్లీ కనెక్ట్ చేసి, పునఃప్రయత్నించండి.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">మరొక కేబుల్‌ను ప్రయత్నించండి</string>
+    <string name="device_not_supported_fragment_retry_description">మీ పాత ఫోన్‌ను అన్‌లాక్‌లో ఉంచినట్లు నిర్ధారించుకొని, ఆపై కేబుల్‌ను డిస్‌కనెక్ట్ చేసి, మళ్లీ కనెక్ట్ చేయండి</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">ఏదో తప్పు జరిగింది</string>
+    <string name="device_not_supported_ios_supervised_description">మీ iPhone® పరికరం పర్యవేక్షించబడుతున్నందున, మీరు డేటాను కాపీ చేయడానికి మరొక మార్గాన్ని ఎంచుకోవాలి</string>
+    <string name="device_picker_skip">పునరుద్ధరించవద్దు</string>
+    <string name="durationDayHour">%1$d రోజు %2$d గంట</string>
+    <string name="durationDayHours">%1$d రోజు %2$d గం</string>
+    <string name="durationDays">%1$d రోజులు</string>
+    <string name="durationHourMinute">%1$d గంట %2$d నిమి</string>
+    <string name="durationHourMinutes">%1$d గంట %2$d నిమి</string>
+    <string name="durationHours">%1$d గంటలు</string>
+    <string name="durationMinute">%1$d నిమిషం</string>
+    <string name="durationMinutes">%1$d నిమిషాలు</string>
+    <string name="encryption_warning_fragment_description">"మీ iPhone® పరికరానికి బ్యాకప్ గుప్తీకరణ ఆన్ చేయబడింది. దీన్ని మీరే స్వయంగా ఆన్ చేయలేదంటే, ఒకవేళ మీ IT నిర్వాహకులు ఆన్ చేసి ఉండవచ్చు.
+
+కేవలం ఫోటోలు, సంగీతం మరియు వీడియోలు మాత్రమే కాపీ చేయబడతాయి. మరింత సమాచారం కోసం, "<b>g.co/datatransferhelp</b> లింక్‌ను సందర్శించండి.</string>
+    <string name="encryption_warning_fragment_title">బ్యాకప్ గుప్తీకరణ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">నా వద్ద అడాప్టర్ లేదు</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"మీ ^1 కోసం అందించిన అదే పెట్టెలో ఉండే Quick Switch Adapterను తీసుకోండి.
+
+కేబుల్‌ను అడాప్టర్‌కు ప్లగ్ ఇన్ చేయండి."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">అడాప్టర్ &amp; కేబుల్‌ని కనెక్ట్ చేయండి</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">మీ పాత ఫోన్‌ని అన్‌లాక్ చేసి, ఆపై అడాప్టర్‌ను ఈ ఫోన్‌కు ప్లగిన్ చేయండి.</string>
+    <string name="fragment_usb_connect_both_phones_title">రెండు ఫోన్‌లను కనెక్ట్ చేయండి</string>
+    <string name="fragment_usb_dialog_cancel_description">మీరు కేబుల్‌ని ఉపయోగిస్తే అత్యధిక కంటెంట్‌ను పొందుతారు. పెట్టెలోని కేబుళ్లు సరిపోకుంటే, మీ పాత ఫోన్‌తో పని చేసే ఛార్జింగ్ లేదా డేటా కేబుల్‌ను ఉపయోగించడం ప్రయత్నించండి.</string>
+    <string name="fragment_usb_dialog_cancel_title">డేటాను వేరొక మార్గంలో కాపీ చేయాలా?</string>
+    <string name="fragment_usb_dont_copy">కాపీ చేయకండి</string>
+    <string name="fragment_usb_dont_have_cable">నా వద్ద కేబుల్ లేదు</string>
+    <string name="fragment_usb_dont_have_old_phone">పాత ఫోన్‌ని ఉపయోగించడం సాధ్యపడదా?</string>
+    <string name="fragment_usb_find_cable_description">మీ పాత ఫోన్‌కు సరిపోయే కేబుల్‌ను ఉపయోగించండి, మీ డేటా లేదా ఛార్జింగ్ కేబుల్ వంటిది.</string>
+    <string name="fragment_usb_find_cable_title">సరైన కేబుల్‌ని తీసుకోండి</string>
+    <string name="fragment_usb_initial_description">మీకు మీ పాత Android లేదా iPhone® పరికరం అవసరం. దీన్ని ఆన్ చేసి, అన్‌లాక్ చేసి ఉంచండి.</string>
+    <string name="fragment_usb_initial_title">మీ పాత ఫోన్‌ని పొందండి</string>
+    <string name="fragment_usb_legacy_description">"అత్యధిక డేటాను పొందడానికి ఇది వేగవంతమైన మార్గం.
+
+పెట్టెలో అందించిన అడాప్టర్‌ను తీసుకుని, దాన్ని మీ కొత్త ఫోన్‌కు ప్లగ్ ఇన్ చేయండి. కేబుల్‌ను ఉపయోగించి ఫోన్‌లను కనెక్ట్ చేయండి, ఆపై మీ పాత ఫోన్‌ను అన్‌లాక్ చేయండి."</string>
+    <string name="fragment_usb_missing_data_description">మీరు బదిలీ సమయంలో మీ Pixelని సెటప్ చేయడాన్ని కొనసాగించవచ్చు.</string>
+    <string name="fragment_usb_missing_data_title">మీ డేటాని కాపీ చేయండి</string>
+    <string name="fragment_usb_other_ways">కేబుల్ లేకుండా కాపీ చేయి</string>
+    <string name="fragment_usb_plug_cable">కేబుల్‌ను మీ పాత ఫోన్‌కు ప్లగ్ ఇన్ చేయండి</string>
+    <string name="fragment_waiting_title">ఒక్క క్షణం ఆగండి…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google పరిచయాలు సమకాలీకరించబడతాయి</string>
+    <string name="google_contacts_static_text_off">Google పరిచయాలు ఇప్పటికీ సమకాలీకరించబడతాయి</string>
+    <string name="i_message_dialog_message">"iPhone® పరికర వినియోగదారుల నుండి SMS సందేశాలను స్వీకరించడం కొనసాగించడానికి, మీరు iMessage® ఆఫ్ చేయాల్సి ఉంటుంది.
+
+సూచనల కోసం "<b>g.co/iMessageHelp</b> లింక్‌ను సందర్శించండి.</string>
+    <string name="instructions_fragment_title">మీ మరొక ఫోన్‌లో కొనసాగించండి</string>
+    <string name="ios_connected_fragment_description">"తదుపరి స్క్రీన్‌పై, మీరు మీ Google ఖాతాకు సైన్ ఇన్ చేయవచ్చు లేదా కొత్తదాన్ని సృష్టించవచ్చు.
+
+మీరు మీ Google ఖాతాను జోడించకపోతే, మీ iOS Calendar® ఈవెంట్‌లు బదిలీ చేయబడవు."</string>
+    <string name="ios_message_attachment_explanation">[మీ సందేశ జోడింపులు Google ఫోటోలు > పరికర ఫోల్డర్‌లు > సందేశ జోడింపుల్లో ఉన్నాయి]</string>
+    <string name="ios_message_attachment_failed_explanation">[కొన్ని జోడింపులను కాపీ చేయడం సాధ్యపడలేదు. బదిలీ చేసిన జోడింపులను Google ఫోటోలు > పరికర ఫోల్డర్‌లు > సందేశ జోడింపుల్లో కనుగొనవచ్చు]</string>
+    <string name="ios_message_attachment_placeholder">[జోడింపు Google ఫోటోలు > పరికర ఫోల్డర్‌లు > సందేశ జోడింపులులో సేవ్ చేయబడింది]</string>
+    <string name="ios_message_attachments_placeholder">[జోడింపులు Google ఫోటోలు > పరికర ఫోల్డర్‌లు > సందేశ జోడింపులులో సేవ్ చేయబడ్డాయి]</string>
+    <string name="ios_migration_default_calendar_title">క్యాలెండర్</string>
+    <string name="ios_migration_other_contact_relation">ఇతరం</string>
+    <string name="ios_photos_dialog_message">"iCloud®లో నిల్వ చేయబడిన ఫోటోలు కాపీ చేయబడవు.
+
+ఈ ఫోటోలను మీ ^1లో పొందడానికి, మీ iPhone® పరికరంలో Google ఫోటోలు అనువర్తనాన్ని ఇన్‌స్టాల్ చేసి, బ్యాకప్ &amp; సమకాలీకరణను ఆన్ చేయండి. మరిన్ని సూచనల కోసం "<b>g.co/datatransferhelp</b> లింక్‌ని సందర్శించండి.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">తదుపరి</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">అన్నీ</string>
+    <string name="photos_filtering_option_none">ఏవీ లేవు</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">కాపీ చేసిన పరిచయాలు మీ Google ఖాతాకు సేవ్ చేయబడతాయి.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">కాపీ చేసిన పరిచయాలు మరియు క్యాలెండర్‌లు మీ Google ఖాతాకు సేవ్ చేయబడతాయి.</string>
+    <string name="restore_choice_data_disclaimer_v2">మీ డేటాలో కొంత భాగం మీ ^1కి కాపీ కాకపోయి ఉండవచ్చు. <annotation id="restore_choice_data_disclaimer_learn_more">మరింత తెలుసుకోండి</annotation></string>
+    <string name="restore_choice_deselect_some_content">కొనసాగించడానికి, కొంత కంటెంట్ ఎంపికను తీసివేయండి</string>
+    <string name="restore_choice_learn_more_android">"మీ పాత ఫోన్‌లోని కొంత డేటాను స్వయంచాలకంగా కాపీ చేయడం సాధ్యపడదు:
+
+ ● డౌన్‌లోడ్‌లు (PDF ఫైల్‌ల వంటివి)
+
+ ● దాచిపెట్టబడిన ఫోల్డర్‌ల్లో నిల్వ చేసిన ఫోటోలు, వీడియోలు &amp; సంగీతం
+
+ ● వచన సందేశం ద్వారా స్వీకరించిన ఫోటోలు, వీడియోలు &amp; సంగీతం
+
+ ● Google Play స్టోర్‌కు చెందని అనువర్తనాలు
+
+ ● అనువర్తన డేటా (అనువర్తనం Android బ్యాకప్ ఉపయోగించకుంటే)
+
+ ● నిర్దిష్ట పరికర సెట్టింగ్‌లు
+
+ ● Google ఖాతాలు కాకుండా ఇతరత్రా ఖాతాలు (మరియు ఏదైనా అనుబంధిత డేటా)
+
+ ● Google యేతర సేవలకు సమకాలీకరించబడిన పరిచయాలు &amp; క్యాలెండర్‌లు
+
+ ● రింగ్‌టోన్‌లు
+
+ మరిన్ని వివరాల కోసం మరియు ఈ డేటాలో కొంత భాగాన్ని కాపీ చేయడంలో సహాయం కోసం, g.co/datatransferhelp లింక్‌ను సందర్శించండి."</string>
+    <string name="restore_choice_learn_more_ios">"మీ పాత ఫోన్ నుండి కొంత డేటాను స్వయంచాలకంగా కాపీ చేయడం సాధ్యపడదు:
+
+ ● అనువర్తనాలు &amp; అనువర్తన డేటా
+
+ ● మీ ఫోన్‌లో అసలైన కాపీ నిల్వ చేయబడని ఫోటోలు (ఉదాహరణకు, నిల్వ అనుకూలీకరణ సెట్టింగ్ ఆన్‌లో ఉంటే, అసలు ఫోటోలు iCloud®లో నిల్వ చేయబడతాయి)
+
+● iCloud®లో నిల్వ చేసిన ఫైల్‌లు &amp; పత్రాలు
+
+ ● పరికర సెట్టింగ్‌లు (Wi-Fi పాస్‌వర్డ్‌లు &amp; వాల్‌పేపర్ వంటివి)
+
+ ● డిజిటల్ హక్కుల నిర్వహణ (DRM) రక్షణ క్రింద రక్షణ అందించబడిన సంగీతం (ఉదాహరణకు, ఏప్రిల్ 2009కి పూర్వం కొనుగోలు చేసిన iTunes® సంగీతం లేదా సంగీత ప్రసార అనువర్తనంలో ఆఫ్‌లైన్‌లో వినేందుకు డౌన్‌లోడ్ చేసిన సంగీతం)
+
+ ● Google ఖాతాలు కాకుండా ఇతరత్రా ఖాతాలు (మరియు ఏదైనా అనుబంధిత డేటా)
+
+ ● Google లేదా iCloud® యేతర సేవలకు సమకాలీకరించిన పరిచయాలు &amp; క్యాలెండర్‌లు
+
+ ● Safari®లోని బుక్‌మార్క్‌లు
+
+ iMessage® జోడింపులు Google ఫోటోలు > పరికర ఫోల్డర్‌లు > సందేశ జోడింపులులో అందుబాటులో ఉంటాయి.
+
+ మరిన్ని వివరాల కోసం మరియు ఈ డేటాలో కొంత భాగం కాపీ చేయడంలో సహాయం కోసం, g.co/datatransferhelp లింక్‌ని సందర్శించండి."</string>
+    <string name="restore_choice_not_enough_space">తగినంత స్థలం లేదు</string>
+    <string name="restore_choice_total_text">అందుబాటులో ఉన్న మీ %1$sలో / %2$s బదిలీ</string>
+    <string name="restore_item_appdata">అనువర్తన డేటా</string>
+    <string name="restore_item_calendar">క్యాలెండర్</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google క్యాలెండర్</string>
+    <string name="restore_item_calendar_ical_off_description">Google క్యాలెండర్ ఇప్పటికీ సమకాలీకరించబడుతుంది</string>
+    <string name="restore_item_calendar_sync_description">Google క్యాలెండర్ సమకాలీకరించబడుతుంది</string>
+    <string name="restore_item_call_logs">కాల్ చరిత్ర</string>
+    <string name="restore_item_contacts">పరిచయాలు</string>
+    <string name="restore_item_device_settings_description">Wi-Fi పాస్‌వర్డ్‌లు &amp; మొదలైనవి</string>
+    <string name="restore_item_downloads">డౌన్‌లోడ్‌లు</string>
+    <string name="restore_item_email">ఇమెయిల్</string>
+    <string name="restore_item_email_description">Gmail సమకాలీకరించబడుతుంది</string>
+    <string name="restore_item_message_attachments">సందేశం జోడింపులు</string>
+    <string name="restore_item_messages">సందేశాలు</string>
+    <string name="restore_item_music">సంగీతం</string>
+    <string name="restore_item_photos">ఫోటోలు &amp; వీడియోలు</string>
+    <string name="restore_item_settings">పరికర సెట్టింగ్‌లు</string>
+    <string name="restore_item_sms">SMS సందేశాలు</string>
+    <string name="restore_item_will_be_synced_text">ఇది మీ ఫోన్‌కు సమకాలీకరించబడుతుంది</string>
+    <string name="restore_progress_title">పునరుద్ధరిస్తోంది…</string>
+    <string name="search_menu_title">శోధించు</string>
+    <string name="small_time_duration">1 నిమిషం కంటే తక్కువ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">తీసివేయి</string>
+    <string name="stop_copying_dialog_message_before_transfer">మీ డేటా మీ కొత్త ఫోన్‌కి కాపీ చేయబడలేదు</string>
+    <string name="stop_copying_dialog_message_during_transfer">మీ డేటాలో కొంత భాగం మీ కొత్త ఫోన్‌కి కాపీ చేయబడలేదు</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">కాపీ చేయవద్దు</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ఆపివేయి</string>
+    <string name="stop_copying_dialog_title_before_transfer">కాపీ చేయాలా?</string>
+    <string name="stop_copying_dialog_title_during_transfer">కాపీ చేయడాన్ని ఆపివేయాలా?</string>
+    <string name="suw_back_button_label">వెనుకకు</string>
+    <string name="suw_more_button_label">మరింత</string>
+    <string name="suw_next_button_label">తదుపరి</string>
+    <string name="target_default_source_device_model">పాత పరికరం</string>
+    <string name="target_device_not_supported_cant_continue_description">మీరు డేటాను కాపీ చేయడానికి మరొక మార్గాన్ని ఎంచుకోవాలి</string>
+    <string name="target_device_not_supported_cant_continue_title">ఇంకొక ఫోన్‌కు మద్దతు లేదు</string>
+    <string name="target_device_not_supported_try_restarting_description">"కేబుల్‌ని డిస్‌కనెక్ట్ చేసి, మీ పాత ఫోన్‌ని పునఃప్రారంభించండి, తర్వాత కేబుల్‌ని తిరిగి కనెక్ట్ చేసి మీ Pixelలో చూపిన సూచనలను అనుసరించండి.
+
+మీకు ఇంకా ఈ లోపం కనిపిస్తూ ఉంటే, మీరు వేరే విధానాన్ని ఉపయోగించి కాపీ చేయడం ప్రయత్నించాల్సి ఉంటుంది."</string>
+    <string name="target_device_not_supported_try_restarting_title">ఫోన్‌కు మద్దతు ఉండకపోవచ్చు</string>
+    <string name="target_pixelmigrate_notification_description">అందుబాటులో ఉంది లేదా ప్రోగ్రెస్‌లో ఉంది</string>
+    <string name="target_pixelmigrate_notification_title">డేటా బదిలీ</string>
+    <string name="target_smart_device_timeout_add_account">ఖాతాను జోడించు</string>
+    <string name="target_smart_device_timeout_description">మీరు కావాలనుకుంటే, మీ ఖాతాను మాన్యువల్‌గా జోడించడం ప్రయత్నించవచ్చు</string>
+    <string name="target_smart_device_timeout_dismiss">విస్మరించు</string>
+    <string name="target_smart_device_timeout_title">సమస్య ఉందా?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ఫోన్‌లు కనెక్ట్ చేయబడ్డాయి</string>
+    <string name="toast_reconnect_cable">మీ కేబుల్‌ను మళ్లీ కనెక్ట్ చేయండి</string>
+    <string name="transfer_finished_fragment_title">తుది మెరుగులను జోడిస్తోంది...</string>
+    <string name="transfer_summary_copied">డేటా కాపీ చేయబడింది</string>
+    <string name="transfer_summary_fragment_description">మీరు కేబుల్‌ను డిస్‌కనెక్ట్ చేయవచ్చు.</string>
+    <string name="transfer_summary_fragment_finish">ముగించు</string>
+    <string name="transfer_summary_fragment_title">మీ ఫోన్ దాదాపు సిద్ధమైంది</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">మీ ఫోటోల్లో కొన్ని కాపీ కాలేదు. <annotation id="transfer_summary_learn_more">మరింత తెలుసుకోండి</annotation></string>
+    <string name="transfer_summary_not_copied">డేటా కాపీ చేయబడలేదు</string>
+    <string name="transfer_summary_partial">%1$s / %2$s కాపీ చేయబడ్డాయి</string>
+    <string name="transfer_summary_will_sync">సెటప్ చేసిన తర్వాత డేటా సమకాలీకరించబడుతుంది</string>
+    <string name="transferring_fragment_calculating_remaining_time">మిగిలిన సమయాన్ని గణిస్తోంది...</string>
+    <string name="transferring_fragment_header">కాపీ చేస్తోంది...</string>
+    <string name="transferring_fragment_remaining_time">%1$s మిగిలి ఉంది</string>
+    <string name="trust_instructions_description">కొనసాగించడానికి, మీ iPhone® పరికరంలో తనిఖీ చేసి, ఆపై కనెక్షన్‍ను ఆమోదించండి</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari మరియు iTunes అనేవి U.S. మరియు ఇతర దేశాల్లో Apple Inc., నమోదిత వ్యాపార చిహ్నాలు.</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Je beoordeling: %1$s sterren</item>
+        <item quantity="one">Je beoordeling: %1$s ster</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d recensies</item>
+        <item quantity="one">%1$d recensie</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d recensies met sterbeoordeling %2$d</item>
+        <item quantity="one">%1$d recensie met sterbeoordeling %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Installaties onderbroken</item>
+        <item quantity="one">Installatie onderbroken</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Apps %1$d dagen geleden gescand</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d schadelijke apps verwijderd. %2$s.</item>
+        <item quantity="one">%1$d schadelijke app verwijderd. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Goedkeuring vereist voor %1$d updates</item>
+        <item quantity="one">Goedkeuring vereist voor %1$d update</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nieuwe updates</item>
+        <item quantity="one">%1$d nieuwe update</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d updates beschikbaar</item>
+        <item quantity="one">%1$d update beschikbaar</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Alles updaten</item>
+        <item quantity="one">Updaten</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d apps geüpdatet</item>
+        <item quantity="one">%1$d app geüpdatet</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sterren</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ster</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sterren - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ster - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s sterren - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ster - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d gebruikers vonden deze recensie nuttig. Reactie markeren als nuttig</item>
+        <item quantity="one">%1$d gebruiker vond deze recensie nuttig. Reactie markeren als nuttig</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d gebruikers vonden deze recensie nuttig. Markering van reactie als nuttig ongedaan maken.</item>
+        <item quantity="one">%1$d gebruiker vond deze recensie nuttig. Markering van reactie als nuttig ongedaan maken.</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Heeft dit een beoordeling van &lt;b>%1$s sterren&lt;/b> gegeven</item>
+        <item quantity="one">Heeft dit een beoordeling van &lt;b>%1$s ster&lt;/b> gegeven</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">in %1$s recensies</item>
+        <item quantity="one">in %1$s recensie</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s sterren&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s ster&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Voor het laatst %1$d dagen geleden gebruikt</item>
+        <item quantity="one">Voor het laatst %1$d dag geleden gebruikt</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Geselecteerde %1$d apps terugzetten</item>
+        <item quantity="one">Geselecteerde app terugzetten</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">sterren</item>
+        <item quantity="one">ster</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Apps worden binnenkort geïnstalleerd.</item>
+        <item quantity="one">App wordt binnenkort geïnstalleerd.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Updates voor apps worden binnenkort geïnstalleerd.</item>
+        <item quantity="one">Update voor app wordt binnenkort geïnstalleerd.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Voor het laatst %1$d dagen geleden gebruikt</item>
+        <item quantity="one">Voor het laatst %1$d dag geleden gebruikt</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Voor het laatst %1$d maanden geleden gebruikt</item>
+        <item quantity="one">Voor het laatst %1$d maand geleden gebruikt</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">"Als je apps of updates op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via 'Instellingen voor opslag'."</item>
+        <item quantity="one">"Als je deze app of update op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via 'Instellingen voor opslag'."</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Als je apps of updates op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via &lt;a href=\"\">Instellingen > Opslag&lt;/a>.</item>
+        <item quantity="one">Als je deze app of update op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via &lt;a href=\"\">Instellingen > Opslag&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Als je apps of updates op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via Instellingen > Opslag.</item>
+        <item quantity="one">Als je deze app of update op dit apparaat wilt installeren, verwijder je apps die je niet meer nodig hebt. Je kunt ook ruimte vrijmaken door mediabestanden te verwijderen via Instellingen > Opslag.</item>
+    </plurals>
+</resources>

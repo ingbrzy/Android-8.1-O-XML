@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="app_has_in_app_purchases">Sovelluksen sisäiset ostokset</string>
+    <string name="app_has_permissions">Käyttöoikeudet: %s</string>
+    <string name="app_has_runtime_permissions">Sovellus pyytää käyttöoikeuksia.</string>
+    <string name="app_picker_loading">Etsitään käytettävissä olevia sovelluksia…</string>
+    <string name="app_picker_loading_toast">Käytettävissä olevia sovelluksia ladataan.</string>
+    <string name="app_picker_no_apps">Ei valittuja sovelluksia</string>
+    <string name="app_picker_no_apps_found">Sovelluksia ei löytynyt.</string>
+    <string name="apps_permissions_described_v2">"Vain yleisesti käytetyistä maksuttomista iOS®-sovelluksista voidaan hankkia siirrossa Android-versiot. Useimmat sovellusten sisäiset ostokset eivät siirry. Määrityksen jälkeen löydät lisää sovelluksia Play Kaupasta.
+
+Voit joutua antamaan joillekin sovelluksille etukäteen luvan käyttää laitteesi joitakin ominaisuuksia tai tietoja. Käyttöluvat on järjestetty käyttöluparyhmiin. Valitsemalla näiden sovellusten asennuksen hyväksyt kunkin ryhmän käyttöluvat. Alta löydät käyttöluparyhmien kuvaukset.
+
+Jotkin sovellukset eivät vaadi käyttölupien hyväksymistä etukäteen. Käyttäessäsi tällaista sovellusta voit hyväksyä tai hylätä yksittäisiä käyttölupapyyntöjä, ennen kuin sovellus käyttää siihen liittyviä tietoja.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Tiedonsiirtotyökalu</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">t</string>
+    <string name="cancel_copy_button_text">Älä kopioi</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="cloud_restore_app_picker_button">Palauta</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Varmuuskopiossasi ei ole sovelluksia.</string>
+    <string name="cloud_restore_app_picker_title">Valitse palautettavat sovellukset</string>
+    <string name="common_cancel">Peruuta</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloudissa®, %2$d laitteella</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google-yhteystiedot, %1$d iCloudissa®, %2$d laitteella</string>
+    <string name="contacts_number_device_and_sim_with_google">Google-yhteystiedot, %1$d SIM-kortilla, %2$d laitteella</string>
+    <string name="contacts_number_device_with_google">Google-yhteystiedot, %1$d laitteella</string>
+    <string name="contacts_number_icloud_with_google">Google-yhteystiedot, %1$d iCloud®:ssa</string>
+    <string name="contacts_number_sim_with_google">Google-yhteystiedot, %1$d SIM-kortilla</string>
+    <string name="copy_confirmation_description">Google-tilisi, sovellukset ja muut tiedot kopioidaan uuteen puhelimeen.</string>
+    <string name="copy_confirmation_title">Aloitetaanko kopiointi uuteen puhelimeen?</string>
+    <string name="d2d_app_picker_description_no_apps">Sovelluksia ei löytynyt.</string>
+    <string name="d2d_app_picker_title">Sovellukset</string>
+    <string name="d2d_migration_canceled_on_source">Kopiointi peruutettu</string>
+    <string name="data_copied_fragment_description">Tietosi on kopioitu uuteen puhelimeen. Voit irrottaa kaapelin.</string>
+    <string name="data_copied_fragment_description_cancel">Koska pysäytit kopioinnin, uuteen puhelimeesi kopioitiin vain osa tiedoista.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Koska pysäytit kopioinnin, uuteen puhelimeesi ei kopioitu mitään tietoja.</string>
+    <string name="data_copied_fragment_description_error">Jokin meni vikaan, eikä kaikkea voitu kopioida.</string>
+    <string name="data_copied_fragment_description_error_no_data">Jokin meni vikaan, eikä mitään tietoja voitu kopioida.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiointi epäonnistui</string>
+    <string name="data_copied_fragment_some_data_title">Osa tiedoista kopioitiin</string>
+    <string name="data_copied_fragment_title">Tiedot kopioitu</string>
+    <string name="device_not_supported_fragment_new_device">Olet yhteydessä uuteen puhelimeen. Jatka muodostamalla yhteys edelliseen puhelimeesi uudelleen.</string>
+    <string name="device_not_supported_fragment_new_device_title">Yhdistä edelliseen puhelimeen</string>
+    <string name="device_not_supported_fragment_no_data_cable">Tätä johtoa ei voi käyttää tiedonsiirtoon. Yhdistä laitteet käyttämällä toista johtoa ja yritä uudelleen.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Käytä toista johtoa</string>
+    <string name="device_not_supported_fragment_retry_description">Varmista, että vanhan puhelimesi lukitus on avattu, irrota johto ja liitä se takaisin.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Jokin meni vikaan.</string>
+    <string name="device_not_supported_ios_supervised_description">Koska iPhone®-laitteesi on valvottu, sinun on valittava toinen tapa kopioida tietoja.</string>
+    <string name="device_picker_skip">Älä palauta</string>
+    <string name="durationDayHour">%1$d päivä %2$d t</string>
+    <string name="durationDayHours">%1$d päivä %2$d t</string>
+    <string name="durationDays">%1$d päivää</string>
+    <string name="durationHourMinute">%1$d t %2$d min</string>
+    <string name="durationHourMinutes">%1$d t %2$d min</string>
+    <string name="durationHours">%1$d tuntia</string>
+    <string name="durationMinute">%1$d minuutti</string>
+    <string name="durationMinutes">%1$d minuuttia</string>
+    <string name="encryption_warning_fragment_description">"Varmuuskopioiden salaus on otettu käyttöön iPhone®-laitteellasi. Jos et ottanut tätä käyttöön itse, IT-järjestelmänvalvojasi on voinut tehdä sen.
+
+Vain valokuvat, musiikki ja videot voidaan kopioida. Lue lisää osoitteesta "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Varmuuskopioiden salaus</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">En löydä sovitinta</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Quick Switch Adapter -pikasovitin ja ^1 löytyvät samasta pakkauksesta.
+
+Liitä johto sovittimeen."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Yhdistä sovitin ja johto</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Avaa vanhan puhelimesi lukitus ja yhdistä sovitin sitten tähän puhelimeen.</string>
+    <string name="fragment_usb_connect_both_phones_title">Yhdistä molemmat puhelimet</string>
+    <string name="fragment_usb_dialog_cancel_description">Saat siirrettyä eniten sisältöä, jos käytät johtoa. Jos pakkauksessa tulleet johdot eivät ole yhteensopivia, kokeile vanhaan puhelimeen sopivaa tiedonsiirto- tai latausjohtoa.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kopioidaanko tietoja eri tavalla?</string>
+    <string name="fragment_usb_dont_copy">Älä kopioi</string>
+    <string name="fragment_usb_dont_have_cable">Minulla ei ole johtoa</string>
+    <string name="fragment_usb_dont_have_old_phone">Eikö vanhan puhelimen käyttö ole mahdollista?</string>
+    <string name="fragment_usb_find_cable_description">Käytä vanhaan puhelimeesi sopivaa johtoa, esim. tiedonsiirto- tai latausjohtoa.</string>
+    <string name="fragment_usb_find_cable_title">Etsi oikea johto</string>
+    <string name="fragment_usb_initial_description">Nouda vanha Android- tai iPhone®-laitteesi. Käynnistä se ja pidä lukitus avoinna.</string>
+    <string name="fragment_usb_initial_title">Hae vanha puhelimesi</string>
+    <string name="fragment_usb_legacy_description">"Tämä on nopein tapa siirtää suurin osa tiedoista.
+
+Kytke pakkauksessa oleva sovitin uuteen puhelimeesi. Yhdistä puhelimet kaapelilla ja avaa sitten vanhan puhelimesi lukitus."</string>
+    <string name="fragment_usb_missing_data_description">Voit jatkaa Pixelin määrittämistä siirron aikana.</string>
+    <string name="fragment_usb_missing_data_title">Kopioidaan tietosi</string>
+    <string name="fragment_usb_other_ways">Kopioi ilman johtoa</string>
+    <string name="fragment_usb_plug_cable">Liitä johto vanhaan puhelimeesi</string>
+    <string name="fragment_waiting_title">Hetki vain…</string>
+    <string name="gigabyteShort">Gt</string>
+    <string name="google_contacts_static_text">Google-yhteystiedot synkronoidaan</string>
+    <string name="google_contacts_static_text_off">Google-yhteystiedot synkronoidaan silti</string>
+    <string name="i_message_dialog_message">"Jos haluat saada tekstiviestejä iPhone®-käyttäjiltä, poista iMessage® käytöstä.
+
+Löydät ohjeet osoitteesta "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Jatka toisella puhelimella</string>
+    <string name="ios_connected_fragment_description">"Seuraavalla näytöllä voit kirjautua Google-tilillesi tai luoda uuden tilin.
+
+Jos et lisää Google-tiliä, iOS:n Kalenteri®-tapahtumia ei voi siirtää."</string>
+    <string name="ios_message_attachment_explanation">[Liitetiedostojen tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_message_attachment_failed_explanation">[Kaikkia liitetiedostoja ei voitu kopioida. Siirrettyjen liitetiedostojen sijainti on Google Kuvat > Laitteen kansiot > Viestien liitteet.]</string>
+    <string name="ios_message_attachment_placeholder">[Liitetiedoston tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_message_attachments_placeholder">[Liitetiedostojen tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_migration_default_calendar_title">Kalenteri</string>
+    <string name="ios_migration_other_contact_relation">Muu</string>
+    <string name="ios_photos_dialog_message">"iCloudiin® tallennettuja kuvia ei voi kopioida.
+
+Jos haluat tuoda nämä kuvat laitteelle ^1, asenna Google Kuvat ‑sovellus iPhone®-laitteellesi ja ota käyttöön Varmuuskopiointi ja synkronointi. Saat lisätietoja osoitteesta "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">Kt</string>
+    <string name="lockscreen_smartdevice_action_next">Seuraava</string>
+    <string name="megabyteShort">Mt</string>
+    <string name="petabyteShort">Pt</string>
+    <string name="photos_filtering_option_all">Kaikki</string>
+    <string name="photos_filtering_option_none">Ei mitään</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopioidut yhteystiedot tallennetaan Google-tilille.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopioidut yhteystiedot ja kalenteritiedot tallennetaan Google-tilille.</string>
+    <string name="restore_choice_data_disclaimer_v2">Kaikkia tietojasi ei ehkä ole kopioitu laitteelle ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Lisätietoja</annotation></string>
+    <string name="restore_choice_deselect_some_content">Poista joidenkin sisältöjen valinta, niin voit jatkaa</string>
+    <string name="restore_choice_learn_more_android">"Seuraavia puhelimesi tietoja ei voi kopioida automaattisesti:
+
+ ● Lataukset (esim. PDF:t)
+
+ ● Piilotettuihin kansioihin tallennetut kuvat, videot ja musiikki
+
+ ● Tekstiviestillä saadut kuvat, videot ja musiikki
+
+ ● Muualta kuin Google Play Kaupasta ladatut sovellukset
+
+ ● Sovellustiedot (jos sovellus ei käytä Android-varmuuskopiointia)
+
+ ● Tietyt laiteasetukset
+
+ ● Tilit, jotka eivät ole Google-tilejä (ja niiden tiedot)
+
+ ● Muihin kuin Googlen palveluihin synkronoidut yhteystiedot ja kalenterit
+
+ ● Soittoäänet
+
+ Lisätietoja ja ohjeita joidenkin tietotyyppien kopioimiseen on osoitteessa g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Seuraavia puhelimesi tietoja ei voi kopioida automaattisesti:
+
+ ● Sovellukset ja sovellustiedot
+
+ ● Kuvat, joiden alkuperäinen versio ei ole laitteella (esim. jos tallennustilan optimointi on käytössä, jolloin alkuperäiset kuvat tallennetaan iCloudiin®)
+
+ ● iCloudiin® tallennetut tiedostot ja dokumentit
+
+ ● Laiteasetukset (esim. Wi-Fi-salasanat ja taustakuvat)
+
+ ● Digital Rights Management (DRM) ‑tekniikalla suojattu musiikki (esim. ennen vuoden 2009 huhtikuuta ostettu iTunes®-musiikki tai striimaussovelluksesta offline-kuuntelua varten ladattu musiikki)
+
+ ● Tilit, jotka eivät ole Google-tilejä (ja niiden tiedot)
+
+ ● Muihin kuin Googlen palveluihin tai iCloudiin® synkronoidut yhteystiedot ja kalenterit
+
+ ● Safarin® kirjanmerkit
+
+ iMessage®-liitteet siirretään sijaintiin Google Kuvat > Laitteen kansiot > Viestien liitteet.
+
+ Lisätietoja ja ohjeita joidenkin tietotyyppien kopioimiseen on osoitteessa g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Tallennustila ei riitä.</string>
+    <string name="restore_choice_total_text">käytettävissä olevasta tilasta %1$s / siirron kesto %2$s</string>
+    <string name="restore_item_appdata">Sovellustiedot</string>
+    <string name="restore_item_calendar">Kalenteri</string>
+    <string name="restore_item_calendar_ical_description">iOS®-kalenteri, Google Kalenteri</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalenteri synkronoidaan silti</string>
+    <string name="restore_item_calendar_sync_description">Google Kalenteri synkronoidaan</string>
+    <string name="restore_item_call_logs">Soittohistoria</string>
+    <string name="restore_item_contacts">Yhteystiedot</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-salasanat ja muuta</string>
+    <string name="restore_item_downloads">Lataukset</string>
+    <string name="restore_item_email">Sähköpostiviestit</string>
+    <string name="restore_item_email_description">Gmail synkronoidaan</string>
+    <string name="restore_item_message_attachments">Viestien liitteet</string>
+    <string name="restore_item_messages">Viestit</string>
+    <string name="restore_item_music">Musiikki</string>
+    <string name="restore_item_photos">Valokuvat ja videot</string>
+    <string name="restore_item_settings">Laiteasetukset</string>
+    <string name="restore_item_sms">Tekstiviestit</string>
+    <string name="restore_item_will_be_synced_text">Tämä synkronoidaan puhelimeesi.</string>
+    <string name="restore_progress_title">Palautetaan…</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="small_time_duration">Alle 1 minuutti</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Hylkää</string>
+    <string name="stop_copying_dialog_message_before_transfer">Tietojasi ei ole kopioitu uuteen puhelimeen.</string>
+    <string name="stop_copying_dialog_message_during_transfer">Kaikkia tietojasi ei ole kopioitu uuteen puhelimeen.</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Älä kopioi</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Pysäytä</string>
+    <string name="stop_copying_dialog_title_before_transfer">Peruutetaanko kopiointi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Pysäytetäänkö kopiointi?</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="suw_next_button_label">Seuraava</string>
+    <string name="target_default_source_device_model">vanha laite</string>
+    <string name="target_device_not_supported_cant_continue_description">Valitse toinen tapa tietojen kopiointiin.</string>
+    <string name="target_device_not_supported_cant_continue_title">Toista puhelinta ei tueta</string>
+    <string name="target_device_not_supported_try_restarting_description">"Irrota johto, käynnistä vanha puhelin uudestaan, liitä johto uudestaan puhelimeen ja noudata Pixelissä näkyviä ohjeita.
+
+Jos näet tämän virheen toistuvasti, kokeile toista kopiointitapaa."</string>
+    <string name="target_device_not_supported_try_restarting_title">Puhelinta ei välttämättä tueta</string>
+    <string name="target_pixelmigrate_notification_description">Saatavilla tai käynnissä</string>
+    <string name="target_pixelmigrate_notification_title">Tiedonsiirto</string>
+    <string name="target_smart_device_timeout_add_account">LISÄÄ TILI</string>
+    <string name="target_smart_device_timeout_description">Voit yrittää lisätä tilisi manuaalisesti.</string>
+    <string name="target_smart_device_timeout_dismiss">OHITA</string>
+    <string name="target_smart_device_timeout_title">Eikö onnistu?</string>
+    <string name="terabyteShort">Tt</string>
+    <string name="toast_phones_connected">Puhelimet yhdistettiin.</string>
+    <string name="toast_reconnect_cable">Kytke kaapeli uudelleen.</string>
+    <string name="transfer_finished_fragment_title">Viimeistellään…</string>
+    <string name="transfer_summary_copied">Tiedot kopioitu</string>
+    <string name="transfer_summary_fragment_description">Voit irrottaa kaapelin.</string>
+    <string name="transfer_summary_fragment_finish">VALMIS</string>
+    <string name="transfer_summary_fragment_title">Puhelimesi on melkein valmis</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Kaikkia valokuvia ei kopioitu. <annotation id="transfer_summary_learn_more">Lisätietoja</annotation></string>
+    <string name="transfer_summary_not_copied">Tietoja ei kopioitu</string>
+    <string name="transfer_summary_partial">%1$s/%2$s kopioitu</string>
+    <string name="transfer_summary_will_sync">Tiedot synkronoidaan määrityksen jälkeen</string>
+    <string name="transferring_fragment_calculating_remaining_time">Lasketaan jäljellä olevaa aikaa…</string>
+    <string name="transferring_fragment_header">Kopioidaan…</string>
+    <string name="transferring_fragment_remaining_time">%1$s jäljellä</string>
+    <string name="trust_instructions_description">Jatka hyväksymällä yhteys iPhone®-laitteessa.</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ja iTunes ovat Apple Inc:n Yhdysvalloissa ja muissa maissa rekisteröityjä tavaramerkkejä.</string>
+</resources>

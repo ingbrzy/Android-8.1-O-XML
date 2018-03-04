@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d oxhumana nabo abangezwe kulebuli engu-%2$s</item>
+        <item quantity="one">%1$d oxhumana nabo abangezwe kulebuli engu-%2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Ingeza oxhumana nabo abangu-%1$d kulebuli engu-%2$s</item>
+        <item quantity="one">Ingeza oxhumana nabo abangu-%1$d kulebuli engu-%2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Buyekeza ulwazi oluphakanyisiwe loxhumana nabo abangu-%d</item>
+        <item quantity="one">Buyekeza ulwazi oluphakanyisiwe loxhumana nabo abangu-%d</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d oxhumana nabo abangafuneki</item>
+        <item quantity="one">%d oxhumana nabo abangafuneki</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d phinda oxhumana nabo</item>
+        <item quantity="one">%d phinda oxhumana nabo</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d amakholi wakamuva • Kokugcina ngomhla ka-%2$s</item>
+        <item quantity="one">%1$d amakholi wakamuva • Kokugcina ngomhla ka-%2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Oxhumana nabo sebavele bangezwe kulebula engu-%1$s</item>
+        <item quantity="one">Oxhumana nabo sebavele bangezwe kulebula engu-%1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d oxhumana nabo</item>
+        <item quantity="one">%d oxhumana nabo</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d oxhumana nabo · %2$s</item>
+        <item quantity="one">%1$d oxhumana nabo · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d oxhumana nabo bangeziwe</item>
+        <item quantity="one">%1$d oxhumana nabo bangeziwe</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Laba oxhumana nabo bazosuswa kusukela koxhumana nabo be-Google kanye nawo onke amadivayisi akho axhunyiwe</item>
+        <item quantity="one">Laba oxhumana nabo bazosuswa kusukela koxhumana nabo be-Google kanye nawo onke amadivayisi akho axhunyiwe</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d oxhumana nabo kwamanye ama-akhawunti akho</item>
+        <item quantity="one">%1$d oxhumana nabo kwamanye ama-akhawunti akho</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d oxhumana nabo</item>
+        <item quantity="one">%1$d oxhumana nabo</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 oxhumana nabo • ^2</item>
+        <item quantity="one">^1 oxhumana nabo • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Hambisa laba oxhumana nabo abangu-%1$d ku-%2$s?</item>
+        <item quantity="one">Hambisa laba oxhumana nabo abangu-%1$d ku-%2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Uhambise oxhumana nabo abangu-%d</item>
+        <item quantity="one">Uhambise oxhumana nabo abangu-%d</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Iqedile ukuhambisa oxhumana nabo abangu-%d</item>
+        <item quantity="one">Iqedile ukuhambisa oxhumana nabo abangu-%d</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Ihambisa oxhumana nabo abangu-%d</item>
+        <item quantity="one">Ihambisa oxhumana nabo abangu-%d</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d oxhumana nabo benziwe isipele kufikela ku-%2$s</item>
+        <item quantity="one">%1$d oxhumana nabo benziwe isipele kufikela ku-%2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Ngenisa kusukela kumakhadi e-SIM</item>
+        <item quantity="one">Ngenisa kusukela kumakhadi e-SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d oxhumana nabo</item>
+        <item quantity="one">%d oxhumana nabo</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d oxhumana nabo be-SIM bangenisiwe</item>
+        <item quantity="one">%d oxhumana nabo be-SIM bangenisiwe</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Yabelana oxhumana nabo nge-</item>
+        <item quantity="one">Yabelana oxhumana nabo nge-</item>
+    </plurals>
+</resources>

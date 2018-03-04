@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Все приложения (%1$d)</item>
+        <item quantity="one">Все приложения (%1$d)</item>
+        <item quantity="few">Все приложения (%1$d)</item>
+        <item quantity="many">Все приложения (%1$d)</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Выбрано %1$d приложения</item>
+        <item quantity="one">Выбрано %1$d приложение</item>
+        <item quantity="few">Выбрано %1$d приложения</item>
+        <item quantity="many">Выбрано %1$d приложений</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d приложения уже установлено</item>
+        <item quantity="one">%1$d приложение уже установлено</item>
+        <item quantity="few">%1$d приложения уже установлено</item>
+        <item quantity="many">%1$d приложений уже установлено</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Найдено %1$d приложения. Вы можете перенести все или только некоторые.</item>
+        <item quantity="one">Найдено %1$d приложение. Вы можете перенести все или только некоторые.</item>
+        <item quantity="few">Найдено %1$d приложения. Вы можете перенести все или только некоторые.</item>
+        <item quantity="many">Найдено %1$d приложений. Вы можете перенести все или только некоторые.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d контакта на устройстве</item>
+        <item quantity="one">%1$d контакт на устройстве</item>
+        <item quantity="few">%1$d контакта на устройстве</item>
+        <item quantity="many">%1$d контактов на устройстве</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d на SIM-карте, %2$d на устройстве</item>
+        <item quantity="one">%1$d на SIM-карте, %2$d на устройстве</item>
+        <item quantity="few">%1$d на SIM-карте, %2$d на устройстве</item>
+        <item quantity="many">%1$d на SIM-карте, %2$d на устройстве</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d контакта в iCloud</item>
+        <item quantity="one">%1$d контакт в iCloud</item>
+        <item quantity="few">%1$d контакта в iCloud</item>
+        <item quantity="many">%1$d контактов в iCloud</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d на SIM-карте</item>
+        <item quantity="one">%1$d на SIM-карте</item>
+        <item quantity="few">%1$d на SIM-карте</item>
+        <item quantity="many">%1$d на SIM-карте</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Найдено %1$d приложения. Вы можете перенести все или только некоторые.</item>
+        <item quantity="one">Найдено %1$d приложение. Вы можете перенести все или только некоторые.</item>
+        <item quantity="few">Найдено %1$d приложения. Вы можете перенести все или только некоторые.</item>
+        <item quantity="many">Найдено %1$d приложений. Вы можете перенести все или только некоторые.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Мы нашли аналоги для %1$d приложения, установленного на вашем устройстве iOS®. Скачивая приложения, вы предоставляете им все необходимые для работы разрешения. &lt;annotation id="apps_permissions_learn_more">Подробнее…&lt;/annotation></item>
+        <item quantity="one">Мы нашли аналоги для %1$d приложения, установленного на вашем устройстве iOS®. Скачивая приложения, вы предоставляете им все необходимые для работы разрешения. &lt;annotation id="apps_permissions_learn_more">Подробнее…&lt;/annotation></item>
+        <item quantity="few">Мы нашли аналоги для %1$d приложений, установленных на вашем устройстве iOS®. Скачивая приложения, вы предоставляете им все необходимые для работы разрешения. &lt;annotation id="apps_permissions_learn_more">Подробнее…&lt;/annotation></item>
+        <item quantity="many">Мы нашли аналоги для %1$d приложений, установленных на вашем устройстве iOS®. Скачивая приложения, вы предоставляете им все необходимые для работы разрешения. &lt;annotation id="apps_permissions_learn_more">Подробнее…&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Осталось %1$d объекта…</item>
+        <item quantity="one">Остался %1$d объект…</item>
+        <item quantity="few">Осталось %1$d объекта…</item>
+        <item quantity="many">Осталось %1$d объектов…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Внимание! Эти пользователи больше не участвуют в мероприятии:</item>
+        <item quantity="one">Внимание! Эти пользователи больше не участвуют в мероприятии:</item>
+        <item quantity="few">Внимание! Эти пользователи больше не участвуют в мероприятии:</item>
+        <item quantity="many">Внимание! Эти пользователи больше не участвуют в мероприятии:</item>
+    </plurals>
+</resources>

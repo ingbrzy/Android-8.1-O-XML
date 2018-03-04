@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Þín einkunn: %1$s stjörnur</item>
+        <item quantity="one">Þín einkunn: %1$s stjarna</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d umsagnir</item>
+        <item quantity="one">%1$d umsögn</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d umsagnir fyrir stjörnugjöfina %2$d</item>
+        <item quantity="one">%1$d umsögn fyrir stjörnugjöfina %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Hlé gert á uppsetningu</item>
+        <item quantity="one">Hlé gert á uppsetningu</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Forrit skönnuð fyrir %1$d dögum</item>
+        <item quantity="one">Forrit skönnuð fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d skaðleg forrit fjarlægð. %2$s.</item>
+        <item quantity="one">%1$d skaðlegt forrit fjarlægt. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d uppfærslur þarfnast samþykkis</item>
+        <item quantity="one">%1$d uppfærsla þarfnast samþykkis</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nýjar uppfærslur</item>
+        <item quantity="one">%1$d ný uppfærsla</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d uppfærslur í boði</item>
+        <item quantity="one">%1$d uppfærsla í boði</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Uppfæra allt</item>
+        <item quantity="one">Uppfæra allt</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d forrit uppfærð</item>
+        <item quantity="one">%1$d forrit uppfært</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjörnur</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjarna</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjörnur – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjarna – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjörnur – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjarna – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d notendum fannst þessi umsögn gagnleg. Merkja ummæli sem gagnleg</item>
+        <item quantity="one">%1$d notanda fannst þessi umsögn gagnleg. Merkja ummæli sem gagnleg</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d notendum fannst þessi umsögn gagnleg. Merkja ummæli sem ógagnleg</item>
+        <item quantity="one">%1$d notanda fannst þessi umsögn gagnleg. Merkja ummæli sem ógagnleg</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&lt;b>%1$s stjörnur&lt;/b> í einkunn</item>
+        <item quantity="one">&lt;b>%1$s stjarna&lt;/b> í einkunn</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">í %1$s umsögnum</item>
+        <item quantity="one">í %1$s umsögn</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s stjörnur&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s stjarna&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Síðast notað fyrir %1$d dögum</item>
+        <item quantity="one">Síðast notað fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Endurheimta %1$d valin forrit</item>
+        <item quantity="one">Endurheimta %1$d valið forrit</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">stjörnur</item>
+        <item quantity="one">stjarna</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Forrit verða sett upp innan skamms.</item>
+        <item quantity="one">Forrit verða sett upp innan skamms.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Forritsuppfærslur verða settar upp innan skamms.</item>
+        <item quantity="one">Forritsuppfærslur verða settar upp innan skamms.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Síðast notað fyrir %1$d dögum</item>
+        <item quantity="one">Síðast notað fyrir %1$d degi</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Síðast notað fyrir %1$d mánuðum</item>
+        <item quantity="one">Síðast notað fyrir %1$d mánuði</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám í stillingum geymslu.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám í stillingum geymslu.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir &lt;a href=\"\">Stillingar > Geymsla&lt;/a>.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir &lt;a href=\"\">Stillingar > Geymsla&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir Stillingar > Geymsla.</item>
+        <item quantity="one">Til að setja upp forrit eða uppfærslum á þessu tæki skaltu eyða forritum sem þú þarfnast ekki lengur. Þú getur einnig losað um pláss með því að eyða margmiðlunarskrám undir Stillingar > Geymsla.</item>
+    </plurals>
+</resources>

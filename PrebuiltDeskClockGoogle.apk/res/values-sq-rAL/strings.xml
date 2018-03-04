@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">=Abixhan|Africa/Abidjan</string>
+    <string name="C10">=Dakar|Africa/Dakar</string>
+    <string name="C100">=Aman|Asia/Amman</string>
+    <string name="C101">=Anadir|Asia/Anadyr</string>
+    <string name="C102">=Aktau|Asia/Aqtau</string>
+    <string name="C103">=Bagdad|Asia/Baghdad</string>
+    <string name="C104">=Bahrejn|Asia/Bahrain</string>
+    <string name="C105">=Baku|Asia/Baku</string>
+    <string name="C106">=Bangkok|Asia/Bangkok</string>
+    <string name="C107">=Bejrut|Asia/Beirut</string>
+    <string name="C108">K=Kalkuta|Asia/Calcutta</string>
+    <string name="C109">=Damask|Asia/Damascus</string>
+    <string name="C11">=Dar-es-Salam|Africa/Dar_es_Salaam</string>
+    <string name="C110">=Daka|Asia/Dhaka</string>
+    <string name="C111">=Dubai|Asia/Dubai</string>
+    <string name="C112">=Gaza|Asia/Gaza</string>
+    <string name="C113">=Hebron|Asia/Hebron</string>
+    <string name="C114">=Ho-Çi-Min|Asia/Ho_Chi_Minh</string>
+    <string name="C115">=Hong-Kong:|Asia/Hong_Kong</string>
+    <string name="C117">Xh=Xhakartë|Asia/Jakarta</string>
+    <string name="C118">=Jerusalem|Asia/Jerusalem</string>
+    <string name="C119">=Kabul|Asia/Kabul</string>
+    <string name="C12">Xh=Xhibuti|Africa/Djibouti</string>
+    <string name="C120">=Karaçi|Asia/Karachi</string>
+    <string name="C121">=Katmandu|Asia/Kathmandu</string>
+    <string name="C122">=Kuala-Lumpur|Asia/Kuala_Lumpur</string>
+    <string name="C123">=Kuvajt|Asia/Kuwait</string>
+    <string name="C124">=Makau|Asia/Macau</string>
+    <string name="C125">=Manila|Asia/Manila</string>
+    <string name="C126">=Muskat|Asia/Muscat</string>
+    <string name="C127">=Pnom-Pen|Asia/Phnom_Penh</string>
+    <string name="C128">=Penian:|Asia/Pyongyang</string>
+    <string name="C13">=Fritaun|Africa/Freetown</string>
+    <string name="C130">=Rangun|Asia/Rangoon</string>
+    <string name="C131">=Rijad|Asia/Riyadh</string>
+    <string name="C133">=Seul|Asia/Seoul</string>
+    <string name="C134">Sh=Shangai:|Asia/Shanghai</string>
+    <string name="C135">=Singapor|Asia/Singapore</string>
+    <string name="C136">=Tajpej:|Asia/Taipei</string>
+    <string name="C137">=Teheran|Asia/Tehran</string>
+    <string name="C138">=Tel-Aviv|Asia/Tel_Aviv</string>
+    <string name="C139">=Tokio:|Asia/Tokyo</string>
+    <string name="C14">=Gaboron|Africa/Gaborone</string>
+    <string name="C140">=Ulan-Bator|Asia/Ulaanbaatar</string>
+    <string name="C141">=Bermude|Atlantic/Bermuda</string>
+    <string name="C142">=Kanarie|Atlantic/Canary</string>
+    <string name="C143">=Kepi i Gjelbër|Atlantic/Cape_Verde</string>
+    <string name="C144">=Rejkjavik|Atlantic/Reykjavik</string>
+    <string name="C145">=Stenli|Atlantic/Stanley</string>
+    <string name="C146">=Adelaide|Australia/Adelaide</string>
+    <string name="C147">=Brisbejn|Australia/Brisbane</string>
+    <string name="C148">=Kanberra|Australia/Canberra</string>
+    <string name="C149">=Darvin|Australia/Darwin</string>
+    <string name="C15">=Harare|Africa/Harare</string>
+    <string name="C150">=Melburn|Australia/Melbourne</string>
+    <string name="C151">Nj=Nju-Sauth-Uells|Australia/NSW</string>
+    <string name="C152">=Perth|Australia/Perth</string>
+    <string name="C153">=Kuinsland|Australia/Queensland</string>
+    <string name="C154">=Sidnej|Australia/Sydney</string>
+    <string name="C155">=Viktoria|Australia/Victoria</string>
+    <string name="C156">Nj=Njufaundlend|Canada/Newfoundland</string>
+    <string name="C157">=Saskeçeuan|Canada/Saskatchewan</string>
+    <string name="C158">=Ishulli i Pashkës|Chile/EasterIsland</string>
+    <string name="C159">=Amsterdam|Europe/Amsterdam</string>
+    <string name="C16">=Johanesburg|Africa/Johannesburg</string>
+    <string name="C160">=Andorra|Europe/Andorra</string>
+    <string name="C161">=Athinë|Europe/Athens</string>
+    <string name="C162">=Belfast|Europe/Belfast</string>
+    <string name="C163">=Beograd|Europe/Belgrade</string>
+    <string name="C164">=Berlin|Europe/Berlin</string>
+    <string name="C165">=Bratislavë|Europe/Bratislava</string>
+    <string name="C166">=Bruksel|Europe/Brussels</string>
+    <string name="C167">=Bukuresht|Europe/Bucharest</string>
+    <string name="C168">=Budapest|Europe/Budapest</string>
+    <string name="C169">=Kishinau|Europe/Chisinau</string>
+    <string name="C17">=Kampala|Africa/Kampala</string>
+    <string name="C170">=Kopenhagen|Europe/Copenhagen</string>
+    <string name="C171">=Dublin|Europe/Dublin</string>
+    <string name="C172">Gj=Gjibraltar|Europe/Gibraltar</string>
+    <string name="C173">=Helsinki|Europe/Helsinki</string>
+    <string name="C174">=Ishulli i Manit|Europe/Isle_of_Man</string>
+    <string name="C175">=Stamboll|Europe/Istanbul</string>
+    <string name="C176">=Kiev|Europe/Kiev</string>
+    <string name="C177">=Lisbonë|Europe/Lisbon</string>
+    <string name="C178">=Londër|Europe/London</string>
+    <string name="C179">=Luksemburg|Europe/Luxembourg</string>
+    <string name="C18">=Kartum|Africa/Khartoum</string>
+    <string name="C180">=Madrid|Europe/Madrid</string>
+    <string name="C181">=Maltë|Europe/Malta</string>
+    <string name="C182">=Minsk|Europe/Minsk</string>
+    <string name="C183">=Monako|Europe/Monaco</string>
+    <string name="C184">=Moskë|Europe/Moscow</string>
+    <string name="C185">=Oslo|Europe/Oslo</string>
+    <string name="C186">=Paris|Europe/Paris</string>
+    <string name="C187">=Pragë|Europe/Prague</string>
+    <string name="C188">=Rigë|Europe/Riga</string>
+    <string name="C189">=Romë|Europe/Rome</string>
+    <string name="C19">=Kigali|Africa/Kigali</string>
+    <string name="C190">=San-Marino|Europe/San_Marino</string>
+    <string name="C191">=Sarajevë|Europe/Sarajevo</string>
+    <string name="C192">=Simferopol|Europe/Simferopol</string>
+    <string name="C193">Sh=Shkup|Europe/Skopje</string>
+    <string name="C194">=Sofje|Europe/Sofia</string>
+    <string name="C195">=Stokholm|Europe/Stockholm</string>
+    <string name="C196">=Talin|Europe/Tallinn</string>
+    <string name="C197">=Vatikan|Europe/Vatican</string>
+    <string name="C198">=Vjenë|Europe/Vienna</string>
+    <string name="C199">=Vilnius|Europe/Vilnius</string>
+    <string name="C2">=Akra|Africa/Accra</string>
+    <string name="C20">=Kinshasë|Africa/Kinshasa</string>
+    <string name="C200">=Varshavë|Europe/Warsaw</string>
+    <string name="C201">=Zagreb|Europe/Zagreb</string>
+    <string name="C202">=Cyrih|Europe/Zurich</string>
+    <string name="C203">=Antananarivo|Indian/Antananarivo</string>
+    <string name="C204">=Maldive|Indian/Maldives</string>
+    <string name="C205">=Mauritius|Indian/Mauritius</string>
+    <string name="C206">=Aukland|Pacific/Auckland</string>
+    <string name="C207">=Fixhi|Pacific/Fiji</string>
+    <string name="C208">=Guam|Pacific/Guam</string>
+    <string name="C209">=Honolulu|Pacific/Honolulu</string>
+    <string name="C21">=Lagos|Africa/Lagos</string>
+    <string name="C210">=Kiritimati|Pacific/Kiritimati</string>
+    <string name="C211">=Numea|Pacific/Noumea</string>
+    <string name="C214">=Antigua|America/Antigua</string>
+    <string name="C215">=Austin|America/Chicago</string>
+    <string name="C216">=Boston|America/New_York</string>
+    <string name="C217">=Kalgari|America/Denver</string>
+    <string name="C218">=Kolombus|America/New_York</string>
+    <string name="C219">=Dallas|America/Chicago</string>
+    <string name="C22">=Maseru|Africa/Maseru</string>
+    <string name="C220">=Noksvill|America/New_York</string>
+    <string name="C221">=Memfis|America/Chicago</string>
+    <string name="C222">=Majami|America/New_York</string>
+    <string name="C223">=Mineapolis|America/Chicago</string>
+    <string name="C224">=Otava|America/New_York</string>
+    <string name="C225">=Filadelfia|America/New_York</string>
+    <string name="C226">=Portland|America/Los_Angeles</string>
+    <string name="C227">=San-Diego|America/Los_Angeles</string>
+    <string name="C228">=San-Francisko|America/Los_Angeles</string>
+    <string name="C229">=Solt-Lejk-Siti|America/Denver</string>
+    <string name="C23">=Mogadishu|Africa/Mogadishu</string>
+    <string name="C230">=San-Hose|America/Los_Angeles</string>
+    <string name="C231">=San-Salvador|America/Guatemala</string>
+    <string name="C232">=Siatëll|America/Los_Angeles</string>
+    <string name="C233">Sh=Shën-Luis|America/Chicago</string>
+    <string name="C234">=Uashington D.C.|America/New_York</string>
+    <string name="C235">=Hjuston|America/Chicago</string>
+    <string name="C236">=San-Antonio|America/Chicago</string>
+    <string name="C237">Xh=Xheksonvill|America/New_York</string>
+    <string name="C238">=Baltimorë|America/New_York</string>
+    <string name="C239">=Neshvill|America/Chicago</string>
+    <string name="C24">=Nairobi|Africa/Nairobi</string>
+    <string name="C240">=Miluoki|America/Chicago</string>
+    <string name="C241">=Oklahoma-Siti|America/Chicago</string>
+    <string name="C242">=Las Vegas|America/Los_Angeles</string>
+    <string name="C243">=Albukerki|America/Denver</string>
+    <string name="C244">=Takson|MST</string>
+    <string name="C245">=Sakramento|America/Los_Angeles</string>
+    <string name="C246">=Atlanta|America/New_York</string>
+    <string name="C247">=Klivland|America/New_York</string>
+    <string name="C248">Nj=Nju-Orlins|America/Chicago</string>
+    <string name="C249">=Tampa|America/New_York</string>
+    <string name="C25">=São-Tomé|Africa/Sao_Tome</string>
+    <string name="C250">=Pitsburg|America/New_York</string>
+    <string name="C251">=Sinsinati|America/New_York</string>
+    <string name="C252">=Mauntin-Vju|America/Los_Angeles</string>
+    <string name="C253">=Reno|America/Los_Angeles</string>
+    <string name="C254">=Blek-Rok-Siti|America/Los_Angeles</string>
+    <string name="C255">=Doha|Asia/Riyadh</string>
+    <string name="C256">=Pekin:|Asia/Shanghai</string>
+    <string name="C257">=Mumbai|Asia/Kolkata</string>
+    <string name="C258">=Delhi|Asia/Kolkata</string>
+    <string name="C259">=Osaka:|Asia/Tokyo</string>
+    <string name="C26">=Timbuktu|Africa/Timbuktu</string>
+    <string name="C260">=Lahor|Asia/Karachi</string>
+    <string name="C261">"=Sana'a|Asia/Riyadh"</string>
+    <string name="C262">=Barcelonë|Europe/Madrid</string>
+    <string name="C263">=Mynih|Europe/Berlin</string>
+    <string name="C264">=Milano|Europe/Rome</string>
+    <string name="C265">=Frankfurt|Europe/Berlin</string>
+    <string name="C266">=Hanoi|Asia/Bangkok</string>
+    <string name="C267">=Ankara|Europe/Istanbul</string>
+    <string name="C268">=Bangalor|Asia/Kolkata</string>
+    <string name="C269">=Brazilia|America/Sao_Paulo</string>
+    <string name="C27">=Tripoli|Africa/Tripoli</string>
+    <string name="C270">=Kejp-Taun|Africa/Johannesburg</string>
+    <string name="C271">=Islamabad|Asia/Karachi</string>
+    <string name="C272">=Rio-de-Zhaneiro|America/Sao_Paulo</string>
+    <string name="C273">=An-Arbor|America/Detroit</string>
+    <string name="C274">=Boulder|America/Denver</string>
+    <string name="C275">=Kembrixh|America/New_York</string>
+    <string name="C276">=Kirkland|America/Los_Angeles</string>
+    <string name="C277">=Madison|America/Chicago</string>
+    <string name="C278">=Guangzhou:|Asia/Shanghai</string>
+    <string name="C279">=Hiderabad|Asia/Kolkata</string>
+    <string name="C28">=Tuniz|Africa/Tunis</string>
+    <string name="C280">=Reston|America/New_York</string>
+    <string name="C281">=Belo-Horizonte|America/Sao_Paulo</string>
+    <string name="C282">=Santiago|America/Santiago</string>
+    <string name="C283">=Monrovia|Africa/Monrovia</string>
+    <string name="C284">=Kolombo|Asia/Colombo</string>
+    <string name="C285">=Çihuahua|America/Chihuahua</string>
+    <string name="C286">=Salvador|America/Sao_Paulo</string>
+    <string name="C287">=Gurgaon|Asia/Kolkata</string>
+    <string name="C288">=Mançester|Europe/London</string>
+    <string name="C29">=Ankorazh|America/Anchorage</string>
+    <string name="C290">Sh=Shën-Pjetërburg|Europe/Moscow</string>
+    <string name="C291">=Krakovë|Europe/Warsaw</string>
+    <string name="C292">=Vroklavë|Europe/Warsaw</string>
+    <string name="C293">=Hamburg|Europe/Berlin</string>
+    <string name="C294">=Oulu|Europe/Bucharest</string>
+    <string name="C295">=Haifa|Asia/Jerusalem</string>
+    <string name="C296">=San-Huan|America/Puerto_Rico</string>
+    <string name="C297">=Tegucigalpa|America/Tegucigalpa</string>
+    <string name="C298">=Paramaribo|America/Paramaribo</string>
+    <string name="C299">=Kuito|America/Panama</string>
+    <string name="C3">=Adis-Abebë|Africa/Addis_Ababa</string>
+    <string name="C300">=Lubjanë|Europe/Ljubljana</string>
+    <string name="C301">=Ashgabat|Asia/Ashgabat</string>
+    <string name="C302">=Asmara|Africa/Asmara</string>
+    <string name="C303">=Bandar Seri Begauan|Asia/Brunei</string>
+    <string name="C304">=Bangui|Africa/Bangui</string>
+    <string name="C305">=Banjul|Africa/Banjul</string>
+    <string name="C306">=Bishkek|Asia/Bishkek</string>
+    <string name="C307">=Bisau|Africa/Bissau</string>
+    <string name="C308">=Bujumbura|Africa/Bujumbura</string>
+    <string name="C309">=Dili|Asia/Dili</string>
+    <string name="C31">=Aruba|America/Aruba</string>
+    <string name="C310">=Dushanbe|Asia/Dushanbe</string>
+    <string name="C311">=Funafuti|Pacific/Funafuti</string>
+    <string name="C312">=Honiara|Pacific/Guadalcanal</string>
+    <string name="C313">=Juba|Africa/Juba</string>
+    <string name="C314">=Kingstaun|America/St_Vincent</string>
+    <string name="C315">=Librevill|Africa/Libreville</string>
+    <string name="C316">=Lomé|Africa/Lome</string>
+    <string name="C317">=Luanda|Africa/Luanda</string>
+    <string name="C318">=Lusaka|Africa/Lusaka</string>
+    <string name="C319">=Majuro|Pacific/Majuro</string>
+    <string name="C32">=Asunsion|America/Asuncion</string>
+    <string name="C320">=Malabo|Africa/Malabo</string>
+    <string name="C321">=Maputo|Africa/Maputo</string>
+    <string name="C322">=Mbabane|Africa/Mbabane</string>
+    <string name="C323">=Moroni|Indian/Comoro</string>
+    <string name="C324">=Ndjamena|Africa/Ndjamena</string>
+    <string name="C325">=Ngerulmud|Pacific/Palau</string>
+    <string name="C326">=Niamei|Africa/Niamey</string>
+    <string name="C327">=Nikozia|Europe/Nicosia</string>
+    <string name="C328">=Nouakshot|Africa/Nouakchott</string>
+    <string name="C329">"=Nuku'alofa|Pacific/Tongatapu"</string>
+    <string name="C33">=Barbados|America/Barbados</string>
+    <string name="C330">=Ouagadougou|Africa/Ouagadougou</string>
+    <string name="C331">=Palikir|Pacific/Noumea</string>
+    <string name="C332">=Filipsburg|America/Lower_Princes</string>
+    <string name="C333">=Podgorica|Europe/Podgorica</string>
+    <string name="C334">=Port Moresbi|Pacific/Palau</string>
+    <string name="C335">=Port Vila|Pacific/Efate</string>
+    <string name="C336">=Porto-Novo|Africa/Porto-Novo</string>
+    <string name="C337">=Prishtina|Europe/Belgrade</string>
+    <string name="C338">=Roseau|America/Dominica</string>
+    <string name="C339">=Tashkent|Asia/Tashkent</string>
+    <string name="C34">=Belizë|America/Belize</string>
+    <string name="C340">=Tbilisi|Asia/Tbilisi</string>
+    <string name="C341">=Thimphu|Asia/Thimphu</string>
+    <string name="C342">=Tirana|Europe/Tirane</string>
+    <string name="C343">=Vaduz|Europe/Vaduz</string>
+    <string name="C344">=Vientiane|Asia/Vientiane</string>
+    <string name="C345">=Vindhuk|Africa/Windhoek</string>
+    <string name="C346">=Jaunde|Africa/Douala</string>
+    <string name="C347">=Distrikti i Jarenit|Pacific/Nauru</string>
+    <string name="C348">=Jerevan|Asia/Yerevan</string>
+    <string name="C35">=Bogotë|America/Bogota</string>
+    <string name="C36">=Buenos-Ajres|America/Buenos_Aires</string>
+    <string name="C37">=Kankun|America/Cancun</string>
+    <string name="C38">=Karakas|America/Caracas</string>
+    <string name="C39">=Kajman|America/Cayman</string>
+    <string name="C4">=Algjer|Africa/Algiers</string>
+    <string name="C40">=Çikago|America/Chicago</string>
+    <string name="C42">=Kurasao|America/Curacao</string>
+    <string name="C43">=Doson-Krik|America/Dawson_Creek</string>
+    <string name="C44">=Denver|America/Denver</string>
+    <string name="C45">=Detroit|America/Detroit</string>
+    <string name="C46">=Dominikë|America/Dominica</string>
+    <string name="C47">=Edmonton|America/Edmonton</string>
+    <string name="C48">=Salvador|America/El_Salvador</string>
+    <string name="C49">=Fortaleca|America/Fortaleza</string>
+    <string name="C5">=Blantair|Africa/Blantyre</string>
+    <string name="C50">=Grand-Turk|America/Grand_Turk</string>
+    <string name="C51">=Grenadë|America/Grenada</string>
+    <string name="C52">Q=Qyteti i Guatemalës|America/Guatemala</string>
+    <string name="C53">=Guajanë|America/Guyana</string>
+    <string name="C54">=Halifaks|America/Halifax</string>
+    <string name="C55">=Havanë|America/Havana</string>
+    <string name="C56">=Indianapolis|America/Indiana/Indianapolis</string>
+    <string name="C57">=Noks|America/Indiana/Knox</string>
+    <string name="C58">=Marengo|America/Indiana/Marengo</string>
+    <string name="C59">=Petersburg|America/Indiana/Petersburg</string>
+    <string name="C6">=Brazavill|Africa/Brazzaville</string>
+    <string name="C60">=Tell-Siti|America/Indiana/Tell_City</string>
+    <string name="C61">=Vevaj|America/Indiana/Vevay</string>
+    <string name="C62">=Vinsenes|America/Indiana/Vincennes</string>
+    <string name="C63">=Vinamak|America/Indiana/Winamac</string>
+    <string name="C64">=Kingston|America/Jamaica</string>
+    <string name="C65">=Nuestra-Señora-de-La-Paz|America/La_Paz</string>
+    <string name="C66">=Limë|America/Lima</string>
+    <string name="C67">=Los Anxhelos|America/Los_Angeles</string>
+    <string name="C68">=Luisvill|America/Louisville</string>
+    <string name="C69">=Managua|America/Managua</string>
+    <string name="C7">=Kajro|Africa/Cairo</string>
+    <string name="C70">=Martinikë|America/Martinique</string>
+    <string name="C71">=Mendoza|America/Mendoza</string>
+    <string name="C72">=Metlakatla|America/Metlakatla</string>
+    <string name="C73">=Meksiko|America/Mexico_City</string>
+    <string name="C74">=Monterej|America/Monterrey</string>
+    <string name="C75">=Montevideo|America/Montevideo</string>
+    <string name="C76">=Montreal|America/Montreal</string>
+    <string name="C77">=Nasau|America/Nassau</string>
+    <string name="C78">Nj=Nju-Jork|America/New_York</string>
+    <string name="C79">=Beula|America/North_Dakota/Beulah</string>
+    <string name="C8">=Kazablanka|Africa/Casablanca</string>
+    <string name="C80">=Qendër|America/North_Dakota/Center</string>
+    <string name="C81">Nj=Nju-Salem|America/North_Dakota/New_Salem</string>
+    <string name="C82">=Panama|America/Panama</string>
+    <string name="C83">=Feniks|America/Phoenix</string>
+    <string name="C84">=Porti i Spanjës|America/Port_of_Spain</string>
+    <string name="C85">=Port-o-Prins|America/Port-au-Prince</string>
+    <string name="C86">=Porto-Riko|America/Puerto_Rico</string>
+    <string name="C87">=Santo-Domingo|America/Santo_Domingo</string>
+    <string name="C88">=São-Paulo|America/Sao_Paulo</string>
+    <string name="C89">Sh=Shën-Gjon|America/St_Johns</string>
+    <string name="C9">=Konakri|Africa/Conakry</string>
+    <string name="C90">Sh=Shën-Kits|America/St_Kitts</string>
+    <string name="C91">Sh=Shën-Lucia|America/St_Lucia</string>
+    <string name="C92">Sh=Shën-Tomas|America/St_Thomas</string>
+    <string name="C93">=Tihuana|America/Tijuana</string>
+    <string name="C94">=Toronto|America/Toronto</string>
+    <string name="C95">=Vankuver|America/Vancouver</string>
+    <string name="C96">=Uinipeg|America/Winnipeg</string>
+    <string name="C97">=Poli i Jugut:|Antarctica/South_Pole</string>
+    <string name="C98">=Longierbyen|Arctic/Longyearbyen</string>
+    <string name="C99">=Almati|Asia/Almaty</string>
+    <string name="add_new_sound">Shto një të ri</string>
+    <string name="alarm_alert_dismiss_text">Injoro</string>
+    <string name="alarm_alert_off_text">U çaktivizua</string>
+    <string name="alarm_alert_predismiss_title">Alarmi i ardhshëm</string>
+    <string name="alarm_alert_snooze_text">Dremit</string>
+    <string name="alarm_alert_snooze_until">Dremit deri në %s</string>
+    <string name="alarm_alert_snoozed_text">Dremitur</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">Alarmi në %s nuk mund të hiqet ende, pasi është akoma më shumë se 24 orë larg</string>
+    <string name="alarm_deleted">Alarmi u fshi</string>
+    <string name="alarm_is_dismissed">Alarmi në %s u hoq</string>
+    <string name="alarm_is_set">Alarmi është caktuar në %s</string>
+    <string name="alarm_is_snoozed">Alarmi në %1$s u shty për %2$s</string>
+    <string name="alarm_missed_text">%1$s - %2$s</string>
+    <string name="alarm_missed_title">Alarm i humbur</string>
+    <string name="alarm_repeat">Përsërit</string>
+    <string name="alarm_service_desc">Përpunon veprimet nga njoftimet e alarmeve.</string>
+    <string name="alarm_settings">Alarmet</string>
+    <string name="alarm_sound">Tingulli i alarmit</string>
+    <string name="alarm_today">Sot</string>
+    <string name="alarm_tomorrow">Nesër</string>
+    <string name="alarm_undo">zhbëj</string>
+    <string name="alarm_vibrate">Dridhja</string>
+    <string name="alarm_volume_muted">Volumi i alarmit u çaktivizua</string>
+    <string name="alarm_volume_title">Volumi i alarmit</string>
+    <string name="alarms_blocked_by_dnd">Pajisja është vendosur në heshtje totale</string>
+    <string name="all_timers_stopped_notif">Trokit për të parë kohëmatësit</string>
+    <string name="analog_gadget">Orë analoge</string>
+    <string name="app_label">Ora</string>
+    <string name="app_notifications_blocked">Njoftimet e orës janë bllokuar</string>
+    <string name="auto_silence_never">Asnjeherë</string>
+    <string name="auto_silence_title">Kalo në heshtje për</string>
+    <string name="automatic_home_clock">Ora automatike e ekranit bazë</string>
+    <string name="automatic_home_clock_summary">Në rast se udhëton në zona ku ora ndryshon, shto në ekran edhe një orë tjetër - atë të vendit tënd ku jeton.</string>
+    <string name="button_alarms">Shto alarm</string>
+    <string name="button_cities">Qytetet</string>
+    <string name="change_setting_action">Ndrysho</string>
+    <string name="cities_activity_title">Qytetet</string>
+    <string name="city_checked">%s u shënua</string>
+    <string name="city_unchecked">U hoq shënimi nga %s</string>
+    <string name="clock_settings">Ora</string>
+    <string name="clock_style">Stili</string>
+    <string name="collapse_alarm">Shpalos alarmin</string>
+    <string name="confirm_remove_custom_ringtone">Alarmet dhe kohëmatësit që përdorin këtë tingull do të luajnë tingullin e parazgjedhur në vend të tij.</string>
+    <string name="crescendo_duration_title">Rrit gradualisht volumin</string>
+    <string name="custom_ringtone_lost_permissions">Përmbajtja e tingullit nuk mund të hapet:</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">Tingulli i parazgjedhur i alarmit sinjalizues</string>
+    <string name="default_label">Alarmi</string>
+    <string name="default_timer_ringtone_title">Kohëmatësi skadoi</string>
+    <string name="delete">Fshi</string>
+    <string name="description_direction_both">Rrëshqit majtas për ta shtyrë, ose djathtas për ta hequr</string>
+    <string name="description_direction_left">Rrëshqit majtas për të dremitur</string>
+    <string name="description_direction_right">Rrëshqit djathtas për ta larguar</string>
+    <string name="device_sounds">Tingujt e pajisjes</string>
+    <string name="digital_gadget">Orë dixhitale</string>
+    <string name="dismiss_alarm">Hiqe alarmin</string>
+    <string name="display_clock_seconds_pref">Shfaq orën me sekonda</string>
+    <string name="every_day">Çdo ditë</string>
+    <string name="expand_alarm">Zgjero alarmin</string>
+    <string name="home_label">Faqja bazë</string>
+    <string name="home_time_zone">Brezi orar i zonës ku ndodhesh</string>
+    <string name="home_time_zone_title">Brezi orar i zonës ku ndodhesh</string>
+    <string name="hours_label">o</string>
+    <string name="hours_minutes_seconds">%1$d:%2$02d:%3$02d</string>
+    <string name="index_name">të dhëna për alarmet, kohëmatësit dhe kronometrin</string>
+    <string name="invalid_time">%1$d:%2$d %3$s është orë e pavlefshme</string>
+    <string name="invalid_timer_length">Gjatësia e kohëmatësit e pavlefshme</string>
+    <string name="label">Emërtimi</string>
+    <string name="label_description">Emërtimi</string>
+    <string name="lap_number_double_digit">\# %02d</string>
+    <string name="lap_number_single_digit">\# %d</string>
+    <string name="loading_widget">Po ngarkohet...</string>
+    <string name="menu_alarm">Alarmi</string>
+    <string name="menu_clock">Ora</string>
+    <string name="menu_item_feedback">Dërgo koment</string>
+    <string name="menu_item_help">Ndihma</string>
+    <string name="menu_item_night_mode">Mbrojtësi i ekranit</string>
+    <string name="menu_item_settings">Cilësimet</string>
+    <string name="menu_item_sort_by_gmt_offset">Klasifiko sipas orës</string>
+    <string name="menu_item_sort_by_name">Klasifiko sipas emrit</string>
+    <string name="menu_stopwatch">Kronometri</string>
+    <string name="menu_timer">Kohëmatësi</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_seconds">%1$d:%2$02d</string>
+    <string name="missed_alarms_channel_name">Alarmet e humbura</string>
+    <string name="missed_named_timer_notification_label">Kohëmatës i humbur: %s</string>
+    <string name="missed_timer_notification_label">Kohëmatës i humbur</string>
+    <string name="next_alarm_description">Alarmi tjetër: %s</string>
+    <string name="next_timer_notif">Kohëmatësi tjetër: %s</string>
+    <string name="night_mode_summary">Ekran shumë i zbehtë (për dhoma të errëta)</string>
+    <string name="night_mode_title">Modaliteti i natës</string>
+    <string name="no_alarm_at">Nuk ka asnjë alarm në %1$d:%2$d</string>
+    <string name="no_alarm_scheduled_for_this_time">Nuk ka asnjë alarm të planifikuar për këtë orë</string>
+    <string name="no_alarms">Nuk ka alarme</string>
+    <string name="no_alarms_with_label">Asnjë alarm nuk e përfshin etiketën</string>
+    <string name="no_firing_alarms">Nuk ka asnjë alarm të aktivizuar</string>
+    <string name="no_label_specified">Nuk u specifikua asnjë etiketë</string>
+    <string name="no_scheduled_alarms">Nuk ka asnjë alarm të planifikuar</string>
+    <string name="open_date_settings">Ndërro datën dhe orën</string>
+    <string name="pick_alarm_to_dismiss">Zgjidh se cilin alarm do të heqësh</string>
+    <string name="remove_sound">Hiq</string>
+    <string name="ringtone_description">Zilja</string>
+    <string name="screensaver_settings">Cilësimet e mbrojtësit të ekranit</string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">Qytetet e përzgjedhura</string>
+    <string name="settings">Cilësimet</string>
+    <string name="shortcut_new_alarm_long">Krijo alarm të ri</string>
+    <string name="shortcut_new_alarm_short">Alarm i ri</string>
+    <string name="shortcut_new_timer_long">Krijo kohëmatës të ri</string>
+    <string name="shortcut_new_timer_short">Kohëmatësi i ri</string>
+    <string name="shortcut_pause_stopwatch_long">Ndërprit kronometrin</string>
+    <string name="shortcut_pause_stopwatch_short">Ndërprit</string>
+    <string name="shortcut_start_screensaver_long">Nis mbrojtësin e ekranit</string>
+    <string name="shortcut_start_screensaver_short">Mbrojtësi i ekranit</string>
+    <string name="shortcut_start_stopwatch_long">Nis kronometrin</string>
+    <string name="shortcut_start_stopwatch_short">Nis</string>
+    <string name="silent_default_alarm_ringtone">Zilja e parazgjedhur e alarmit është në heshtje</string>
+    <string name="silent_ringtone_title">Në heshtje</string>
+    <string name="snooze_duration_title">Kohëzgjatja e dremitjes</string>
+    <string name="stopwatch_channel_name">Kronometri</string>
+    <string name="stopwatch_service_desc">Përpunon veprimet nga njoftimet e kronometrit.</string>
+    <string name="sw_lap_button">Xhiro</string>
+    <string name="sw_notification_lap_number">Xhiroja %d</string>
+    <string name="sw_pause_button">Ndërprit</string>
+    <string name="sw_reset_button">Rivendos</string>
+    <string name="sw_resume_button">Rifillo</string>
+    <string name="sw_share_button">Shpërnda</string>
+    <string name="sw_share_laps">Kohët e xhiros:</string>
+    <string name="sw_share_main">Koha ime është %s</string>
+    <string name="sw_start_button">Fillo</string>
+    <string name="swn_paused">U ndërpre</string>
+    <string name="timer_accessibility_one_minute_added">Një minutë u shtua te kohëmatësi, %1$s</string>
+    <string name="timer_accessibility_started">Kohëmatësi në ekzekutim, %1$s</string>
+    <string name="timer_accessibility_stopped">Kohëmatësi në pauzë, %1$s</string>
+    <string name="timer_add_minute">+ 1:00</string>
+    <string name="timer_add_timer">Shto kohëmatës</string>
+    <string name="timer_cancel">Anulo</string>
+    <string name="timer_canceled">Kohëmatësi u anulua</string>
+    <string name="timer_created">Kohëmatësi u krijua</string>
+    <string name="timer_delete">Fshi</string>
+    <string name="timer_deleted">Kohëmatësi u fshi</string>
+    <string name="timer_descriptive_delete">Fshi %s</string>
+    <string name="timer_multi_missed">%d kohëmatës të humbur</string>
+    <string name="timer_multi_times_up">%d kohëmatës kanë skaduar</string>
+    <string name="timer_notification_label">Kohëmatësi</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s %3$s</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">%1$s %4$s %3$s</string>
+    <string name="timer_notifications_less_min">Ka mbetur më pak se një minutë</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">%2$s %4$s %3$s</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">Pauzë</string>
+    <string name="timer_paused">Kohëmatësi u vendos në pauzë</string>
+    <string name="timer_plus_1_min">Shto 1 minutë</string>
+    <string name="timer_plus_one">Shto 1 minutë</string>
+    <string name="timer_remaining_multiple">Kanë mbetur edhe</string>
+    <string name="timer_remaining_single">Ka mbetur edhe</string>
+    <string name="timer_reset">Rivendos</string>
+    <string name="timer_reset_all">Rivendos të gjithë kohëmatësit</string>
+    <string name="timer_service_desc">Përpunon veprimet nga njoftimet e kohëmatësit.</string>
+    <string name="timer_settings">Kohëmatësit</string>
+    <string name="timer_setup_description">%1$s, %2$s, %3$s</string>
+    <string name="timer_sound">Tingulli i kohëmatësit</string>
+    <string name="timer_start">Fillo</string>
+    <string name="timer_stop">Ndalo</string>
+    <string name="timer_stop_all">Ndalo të gjithë kohëmatësit</string>
+    <string name="timer_times_up">Koha mbaroi</string>
+    <string name="timer_vibrate_title">Dridhjet e kohëmatësit</string>
+    <string name="timers_channel_name">Kohëmatësit</string>
+    <string name="timers_in_use">%d kohëmatës</string>
+    <string name="timers_stopped">%d kohëmatës u vendosën në pauzë</string>
+    <string name="unknown_ringtone_title">E panjohur</string>
+    <string name="unmute_alarm_volume">Aktivizo audion</string>
+    <string name="upcoming_alarms_channel_name">Alarmet e ardhshme</string>
+    <string name="volume_button_setting_title">Butonat e volumit</string>
+    <string name="week_start_title">Nise javën në ditën</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="world_hours_minutes_ahead">%1$s %2$s përpara</string>
+    <string name="world_hours_minutes_behind">%1$s %2$s prapa</string>
+    <string name="world_hours_tomorrow">Nesër, %1$s</string>
+    <string name="world_hours_yesterday">Dje, %1$s</string>
+    <string name="world_time_ahead">%1$s përpara</string>
+    <string name="world_time_behind">%1$s prapa</string>
+    <string name="world_tomorrow">Nesër</string>
+    <string name="world_yesterday">Dje</string>
+    <string name="your_sounds">Tingujt e tu</string>
+</resources>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">Botão \"não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="zero">Botão \"não gosto\"</item>
+        <item quantity="one">Botão \"não gosto\"; %1$d outra pessoa não gostou deste vídeo</item>
+        <item quantity="two">Botão \"não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="few">Botão \"não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="many">Botão \"não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">Botão \"gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="zero">Botão \"gosto\"</item>
+        <item quantity="one">Botão \"gosto\"; %1$d outra pessoa gostou deste vídeo</item>
+        <item quantity="two">Botão \"gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="few">Botão \"gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="many">Botão \"gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Ignorar anúncio dentro de %1$d segundos</item>
+        <item quantity="zero">Ignorar anúncio dentro de 0 segundos</item>
+        <item quantity="one">Ignorar anúncio dentro de 1 segundo</item>
+        <item quantity="two">Ignorar anúncio dentro de 2 segundos</item>
+        <item quantity="few">Ignorar anúncio dentro de %1$d segundos</item>
+        <item quantity="many">Ignorar anúncio dentro de %1$d segundos</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">Botão \"anular não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="zero">Botão \"anular não gosto\"</item>
+        <item quantity="one">Botão \"anular não gosto\"; %1$d outra pessoa não gostou deste vídeo</item>
+        <item quantity="two">Botão \"anular não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="few">Botão \"anular não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+        <item quantity="many">Botão \"anular não gosto\"; %1$d outras pessoas não gostaram deste vídeo</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">Botão \"anular gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="zero">Botão \"anular gosto\"</item>
+        <item quantity="one">Botão \"anular gosto\"; %1$d outra pessoa gostou deste vídeo</item>
+        <item quantity="two">Botão \"anular gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="few">Botão \"anular gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+        <item quantity="many">Botão \"anular gosto\"; %1$d outras pessoas gostaram deste vídeo</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d visualizações</item>
+        <item quantity="zero">%1$s · %2$,d visualizações</item>
+        <item quantity="one">%1$s · %2$,d visualização</item>
+        <item quantity="two">%1$s · %2$,d visualizações</item>
+        <item quantity="few">%1$s · %2$,d visualizações</item>
+        <item quantity="many">%1$s · %2$,d visualizações</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Sincronizar %1$d novos vídeos</item>
+        <item quantity="zero">Sincronizar %1$d novos vídeos</item>
+        <item quantity="one">Sincronizar %1$d novo vídeo</item>
+        <item quantity="two">Sincronizar %1$d novos vídeos</item>
+        <item quantity="few">Sincronizar %1$d novos vídeos</item>
+        <item quantity="many">Sincronizar %1$d novos vídeos</item>
+    </plurals>
+    <plurals name="auto_offline_video_duration_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="zero">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+        <item quantity="two">%1$d minutos</item>
+        <item quantity="few">%1$d minutos</item>
+        <item quantity="many">%1$d minutos</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Restam %1$d dias</item>
+        <item quantity="one">Resta 1 dia</item>
+        <item quantity="two">Restam 2 dias</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="zero">0 minutos</item>
+        <item quantity="one">1 minuto</item>
+        <item quantity="two">2 minutos</item>
+        <item quantity="few">%1$d minutos</item>
+        <item quantity="many">%1$d minutos</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="zero">0 segundos</item>
+        <item quantity="one">1 segundo</item>
+        <item quantity="two">2 segundos</item>
+        <item quantity="few">%1$d segundos</item>
+        <item quantity="many">%1$d segundos</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Restam %1$d horas</item>
+        <item quantity="one">Resta 1 hora</item>
+        <item quantity="two">Restam 2 horas</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Restam %1$d minutos</item>
+        <item quantity="one">Resta 1 minuto</item>
+        <item quantity="two">Restam 2 minutos</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d de %2$d vídeos</item>
+        <item quantity="zero">0 de 0 vídeos</item>
+        <item quantity="one">%1$d de 1 vídeo</item>
+        <item quantity="two">%1$d de %2$d vídeos</item>
+        <item quantity="few">%1$d de %2$d vídeos</item>
+        <item quantity="many">%1$d de %2$d vídeos</item>
+    </plurals>
+    <plurals name="notification_video_list_completed">
+        <item quantity="other">%1$d novos vídeos guardados</item>
+        <item quantity="zero">0 novos vídeos guardados</item>
+        <item quantity="one">%1$d novo vídeo guardado</item>
+        <item quantity="two">%1$d novos vídeos guardados</item>
+        <item quantity="few">%1$d novos vídeos guardados</item>
+        <item quantity="many">%1$d novos vídeos guardados</item>
+    </plurals>
+    <plurals name="offline_pending_time_window_plural">
+        <item quantity="other">%1$d vídeos no total. Definido para guardar: %2$s a %3$s.</item>
+        <item quantity="zero"></item>
+        <item quantity="one">Configurado para guardar: das %2$s às %3$s.</item>
+        <item quantity="two">%1$d vídeos no total. Definido para guardar: %2$s a %3$s.</item>
+        <item quantity="few">%1$d vídeos no total. Definido para guardar: %2$s a %3$s.</item>
+        <item quantity="many">%1$d vídeos no total. Definido para guardar: %2$s a %3$s.</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d vídeos</item>
+        <item quantity="one">1 vídeo</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="many">%d segundos</item>
+    </plurals>
+    <plurals name="transcoding_progress">
+        <item quantity="other">A preparar %1$,d%%</item>
+        <item quantity="zero">A preparar %1$,d%%</item>
+        <item quantity="one">A preparar %1$,d%%</item>
+        <item quantity="two">A preparar %1$,d%%</item>
+        <item quantity="few">A preparar %1$,d%%</item>
+        <item quantity="many">A preparar %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Faltam cerca de %1$,d horas</item>
+        <item quantity="zero">Faltam cerca de %1$,d horas</item>
+        <item quantity="one">Falta cerca de %1$,d hora</item>
+        <item quantity="two">Faltam cerca de %1$,d horas</item>
+        <item quantity="few">Faltam cerca de %1$,d horas</item>
+        <item quantity="many">Faltam cerca de %1$,d horas</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Faltam cerca de %1$,d minutos</item>
+        <item quantity="zero">Faltam cerca de %1$,d minutos</item>
+        <item quantity="one">Falta cerca de %1$,d minuto</item>
+        <item quantity="two">Faltam cerca de %1$,d minutos</item>
+        <item quantity="few">Faltam cerca de %1$,d minutos</item>
+        <item quantity="many">Faltam cerca de %1$,d minutos</item>
+    </plurals>
+    <plurals name="upload_notification_active_progress">
+        <item quantity="other">A carregar %1$d de %2$d vídeos</item>
+        <item quantity="one">A carregar 1 vídeo</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% carregado</item>
+        <item quantity="zero">%1$,d%% carregado</item>
+        <item quantity="one">%1$,d%% carregado</item>
+        <item quantity="two">%1$,d%% carregado</item>
+        <item quantity="few">%1$,d%% carregado</item>
+        <item quantity="many">%1$,d%% carregado</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Faltam cerca de %1$,d segundos</item>
+        <item quantity="zero">Faltam cerca de %1$,d segundos</item>
+        <item quantity="one">Falta cerca de %1$,d segundo</item>
+        <item quantity="two">Faltam cerca de %1$,d segundos</item>
+        <item quantity="few">Faltam cerca de %1$,d segundos</item>
+        <item quantity="many">Faltam cerca de %1$,d segundos</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Toque duas vezes para a esquerda ou para a direita para avançar/retroceder %d segundos</item>
+        <item quantity="one">Toque duas vezes para a esquerda ou para a direita para avançar/retroceder %d segundos</item>
+        <item quantity="many">Toque duas vezes para a esquerda ou para a direita para avançar/retroceder %d segundos</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="zero">0 vídeos</item>
+        <item quantity="one">1 vídeo</item>
+        <item quantity="two">2 vídeos</item>
+        <item quantity="few">%1$d vídeos</item>
+        <item quantity="many">%1$d vídeos</item>
+    </plurals>
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Rakendusesisesed ostud</string>
+    <string name="app_has_permissions">Load: %s</string>
+    <string name="app_has_runtime_permissions">Rakendus küsib lube</string>
+    <string name="app_picker_app_already_installed_toast">See rakendus on juba installitud</string>
+    <string name="app_picker_loading">Saadaolevate rakenduste leidmine …</string>
+    <string name="app_picker_loading_toast">Saadaolevad rakendused laaditakse peagi</string>
+    <string name="app_picker_no_apps">Rakendusi pole valitud</string>
+    <string name="app_picker_no_apps_found">Ühtegi rakendust ei leitud</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Rakendusesiseseid oste ei kanta üle seadmesse ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Mõnda teie rakendusesisest ostu ei pruugita seadmesse ^1 üle kanda.</string>
+    <string name="apps_permissions_described_v2">"Androidi rakendustega saab ühildada ainult populaarseid tasuta iOS®-i rakendusi. Enamikku rakendusesiseseid oste ei kanta üle. Kui seadistus on lõpetatud, leiate rohkem rakendusi Play poest.
+
+Mõnele rakendusele peate võib-olla andma kõigepealt loa seadmes teatud funktsioonidele või teabele juurde pääseda. Load on jagatud lubade gruppidesse. Kui otsustate need rakendused installida, nõustute lubadega, mis on iga grupi osad. Alt leiate iga lubade grupi kirjelduse.
+
+Mõne rakenduse puhul ei pruugi esmalt lubade andmine olla vajalik. Kui kasutate mõnda neist rakendustest, saate anda või keelata konkreetseid lube, enne kui rakendus seda tüüpi andmeid kasutab.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Iga rakenduse installimisel nõustute selle lubadega. <annotation id="apps_permissions_learn_more">Lisateave</annotation></string>
+    <string name="auto_restore_summary">Rakenduse uuesti installimisel taastatakse varundatud seaded ja andmed</string>
+    <string name="auto_restore_title">Automaatne taastamine</string>
+    <string name="backup_configure_account_default_summary">Ühelegi kontole ei ole praegu salvestatud varundatud andmeid</string>
+    <string name="backup_configure_account_title">Varunduskonto</string>
+    <string name="backup_data_summary">"Varundage rakenduste andmed, WiFi-paroolid ja muud seaded Google Drive'i"</string>
+    <string name="backup_data_summary_full">"Varundage seadme andmed (nt WiFi-paroolid ja kõneajalugu) ning rakenduse andmed (nt seaded ja rakenduste salvestatud failid) kaugjuhtimisega automaatselt.
+
+Kui lülitate automaatse varundamise sisse, salvestatakse seadme ja rakenduse andmed regulaarselt kaugjuhtimisega. Rakenduse andmed võivad olla mis tahes andmed, mille rakendus on salvestanud (arendaja seadete põhjal), sh potentsiaalselt tundlikud andmed, nagu kontaktid, sõnumid ja fotod."</string>
+    <string name="backup_data_title">"Varundamine Google Drive'i"</string>
+    <string name="backup_erase_dialog_message">"Kas soovite WiFi-paroolide, järjehoidjate, muude seadete ja rakenduse andmete varundamise lõpetada ning kõik Google Drive'is olevad koopiad kustutada?"</string>
+    <string name="backup_erase_dialog_message_full">"Kas soovite peatada seadme andmete (nt WiFi-paroolid ja kõneajalugu) ning rakenduse andmete (nt seaded ja rakenduste salvestatud failid) varundamise ning kustutada kõik Google Drive'is olevad koopiad?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Teenuse Photos seadete avamisel ilmnes viga</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kui lülitate automaatse varundamise sisse, toimub järgmine.
+
+ ● Seadme seaded ja rakenduste andmed salvestatakse regulaarselt Google Drive'i privaatsesse kausta. Rakenduse andmed võivad olla mis tahes andmed, mille rakendus on salvestanud (arendajaseadete põhjal), sh potentsiaalselt tundlikud andmed, näiteks kontaktid, sõnumid ja fotod.
+
+ Suuri faile ja faile, mille arendajad on otsustanud teenusest välja jätta, ei varundata.
+
+ ● Sellest seadmest pärinevad fotod ja videosalvestused sünkroonitakse teenuses Google Photos teie koguga, et saaksite neid otsida, muuta, kustutada ja jagada mis tahes oma seadmes.
+
+ Vaikimisi laaditakse üles täiseraldusvõimega fotod ja videod. Neid ei arvestata teie Drive'i salvestuskvoodi hulka.
+
+ ● Sellest seadmest pärinevad kontaktid ja seotud andmed sünkroonitakse rakendusega Google'i kontaktid. Rakendust Google'i kontaktid saate kasutada kontaktide otsimiseks, muutmiseks, kustutamiseks ja jagamiseks oma mis tahes seadmes.
+
+ ● Sellest seadmest pärinevad kalendri kirjed ja seotud andmed salvestatakse rakendusse Google'i kalender. Rakendust Google kalender saate kasutada kontaktide otsimiseks, muutmiseks, kustutamiseks ja jagamiseks oma mis tahes seadmes.
+
+ Varundatud andmeid ei arvestata teie Drive'i salvestuskvoodi hulka."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kui lülitate automaatse varundamise sisse, toimub järgmine.
+
+ ● Seadme seaded ja rakenduse andmed salvestatakse regulaarselt Google Drive'i privaatsesse kausta. Rakenduse andmed võivad olla mis tahes andmed, mille rakendus on salvestanud (arendaja seadete põhjal), sh potentsiaalselt tundlikud andmed, nagu kontaktid, sõnumid ja fotod.
+
+ Suuri faile või faile, mille arendajad on otsustanud teenusest välja jätta, ei varundata.
+
+ ● Seadmes olevad kontaktid ja seotud andmed sünkroonitakse rakendusega Google'i kontaktid. Rakendusega Google'i kontaktid saate kontakte otsida, muuta, kustutada ja jagada mis tahes oma seadmes.
+
+ ● Selles seadmes olevad kalendrikirjed ja seotud andmed sünkroonitakse rakendusega Google'i kalender. Rakendusega Google'i kalender saate oma kontakte otsida, muuta, kustutada ja jagada mis tahes oma seadmes.
+
+ Varundusandmeid teie Drive'i salvestusruumi kvoodi hulka ei arvestata."</string>
+    <string name="backup_opt_in_backup_description_extra">"Kalender, kontaktid, fotod ja videod on teie Google'i kontoga sünkroonitud ja neid saab kasutada kõigis teenustes."</string>
+    <string name="backup_opt_in_backup_description_v2">Automaatne varundamine tagab, et saaksite telefone alati hõlpsalt taastada või vahetada. <annotation id="backup_opt_in_learn_more">Lisateave</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"See lülitab varundamise välja järgmiste üksuste puhul.
+
+Rakendused ja rakenduste andmed
+Kõneajalugu
+Seadme seaded
+Fotod ja videod
+SMS-sõnumid
+
+Kalender ja kontaktid sünkroonitakse jätkuvalt teie Google'i kontoga. Kui seadistamine on lõpetatud, saate muuta sünkroonimisseadeid, tehes valikud "<annotation id="backup_opt_in_settings_instructions">Seaded > Kontod > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Kas lülitada varundamine välja?</string>
+    <string name="backup_opt_in_backup_list">"Rakendused ja rakenduste andmed
+Kalender
+Kõneajalugu
+Kontaktid
+Seadme seaded (sh WiFi-paroolid)
+Fotod ja videod
+SMS-sõnumid"</string>
+    <string name="backup_opt_in_backup_list_header">Varundamine hõlmab järgmist.</string>
+    <string name="backup_opt_in_backup_title">"Varundamine Google Drive'i"</string>
+    <string name="backup_opt_in_disable_backup">Lülita varundamine välja</string>
+    <string name="backup_photos_update">Värskendage teenust Google Photos</string>
+    <string name="backup_settings_activity_backup_title">Varundamine</string>
+    <string name="backup_settings_activity_title">Varundamine ja lähtestamine</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ära kopeeri</string>
+    <string name="close_button_label">Sule</string>
+    <string name="cloud_restore_app_picker_button">Taasta</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Teie varukoopias pole ühtegi rakendust</string>
+    <string name="cloud_restore_app_picker_title">Valige taastatavad rakendused</string>
+    <string name="common_accept">Nõustu</string>
+    <string name="common_add_account_label">Konto lisamine</string>
+    <string name="common_ads_settings_title">Reklaamid</string>
+    <string name="common_agree">Nõustu</string>
+    <string name="common_app_name">Google Play teenused</string>
+    <string name="common_asm_preferences_settings_title">Kontoeelistused</string>
+    <string name="common_asm_privacy_settings_title">Isiklik teave ja privaatsus</string>
+    <string name="common_asm_security_settings_title">Sisselogimine ja turvalisus</string>
+    <string name="common_audience_edit_button_label">Muuda</string>
+    <string name="common_cancel">Tühista</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangoutsi ei saa käivitada (loa viga).</string>
+    <string name="common_car_permission_desc">Juurdepääs autoteenusele.</string>
+    <string name="common_car_permission_label">Autoteenus</string>
+    <string name="common_chips_label_empty_circles">Suhtlusringid puuduvad</string>
+    <string name="common_chips_label_extended_circles">Laiendatud suhtlusringid</string>
+    <string name="common_chips_label_only_you">Ainult teie</string>
+    <string name="common_chips_label_public">Avalik</string>
+    <string name="common_chips_label_your_circles">Teie suhtlusringid</string>
+    <string name="common_choose_account_label">Konto valimine</string>
+    <string name="common_clear_app_data_menu_item">Tühjenda rakenduse andmed</string>
+    <string name="common_connected">Ühendatud</string>
+    <string name="common_connected_apps_settings_title">Ühendatud rakendused</string>
+    <string name="common_connecting">Ühenduse loomine …</string>
+    <string name="common_continue">Jätka</string>
+    <string name="common_disagree">Ei nõustu</string>
+    <string name="common_disconnect">Katkesta ühendus</string>
+    <string name="common_done">Valmis</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Saatja:</string>
+    <string name="common_games_settings_title">Play mängud</string>
+    <string name="common_get_started">Alustage</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Luba</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string name="common_google_play_services_error_dialog_title">Viga</string>
+    <string name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_updating_title">Google Play teenuseid värskendatakse</string>
+    <string name="common_google_play_services_wear_update_text">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play teenused installiti vale arhitektuuriga.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play teenused installiti arhitektuuriga (%1$s), mis erineb teie seadme arhitektuurist (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Vale arhitektuur</string>
+    <string name="common_google_settings">"Google'i seaded"</string>
+    <string name="common_google_settings_account">Konto</string>
+    <string name="common_google_settings_credentials_title">Smart Lock paroolidele</string>
+    <string name="common_google_settings_developer">Arendaja</string>
+    <string name="common_google_settings_services">Teenused</string>
+    <string name="common_got_it">Selge</string>
+    <string name="common_install">Installi</string>
+    <string name="common_learn_more">Lisateave</string>
+    <string name="common_list_apps_menu_help">Abi</string>
+    <string name="common_list_apps_menu_help_and_feedback">Abi ja tagasiside</string>
+    <string name="common_loading">Laadimine …</string>
+    <string name="common_location_settings_title">Asukoht</string>
+    <string name="common_magictether_settings_title">Automaatne jagamine</string>
+    <string name="common_maps_settings_title">Maps ja Latitude</string>
+    <string name="common_mdm_feature_name">Android-seadme haldur</string>
+    <string name="common_missing_url_viewer">Välise URL-i kuvamiseks puudub vaataja.</string>
+    <string name="common_more_options">Rohkem valikuid</string>
+    <string name="common_networking_settings_title">Võrgundus</string>
+    <string name="common_no_browser_for_restricted_url">Piiratud juurdepääs. Ühtegi brauserit ei leitud.</string>
+    <string name="common_no_devices_found">Seadmeid ei leitud</string>
+    <string name="common_no_network">Pole saadaval, kuna seade on võrguühenduseta</string>
+    <string name="common_no_thanks">Tänan, ei</string>
+    <string name="common_not_now">Mitte praegu</string>
+    <string name="common_off">Väljas</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Sees</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_open_source_licenses">Avatud lähtekoodi litsentsid</string>
+    <string name="common_people_settings_title">Kontaktid</string>
+    <string name="common_permissions_enable_in_settings">Luba seadetes</string>
+    <string name="common_permissions_missing_end">Jätkamiseks avage Seaded, seejärel Load ja lubage kõik loendis esitatud üksused.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Lubamiseks avage
+Seaded >
+Load>
+Google Play teenused"</string>
+    <string name="common_permissions_missing_start">See rakendus ei tööta korralikult, kui te ei luba Google Play teenustele taotleda juurdepääsu järgmistele.</string>
+    <string name="common_permissions_open_settings">Ava seaded</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privaatsuseeskirjad</string>
+    <string name="common_restore">Taasta</string>
+    <string name="common_retry">Proovi uuesti</string>
+    <string name="common_search_settings_title">Otsing</string>
+    <string name="common_security_ootp_setting_title">Turvakood</string>
+    <string name="common_security_settings_title">Turvalisus</string>
+    <string name="common_send">Saada</string>
+    <string name="common_sending">Saatmine …</string>
+    <string name="common_set_up_nearby_device_settings_title">Läheduses oleva seadme seadistamine</string>
+    <string name="common_settings">Seaded</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">"Logi sisse Google'i kontoga"</string>
+    <string name="common_something_went_wrong">Midagi läks valesti</string>
+    <string name="common_system_info">Süsteemiteave</string>
+    <string name="common_take_photo_label">Jäädvusta foto</string>
+    <string name="common_terms_of_service">Teenusetingimused</string>
+    <string name="common_try_again">Proovi uuesti</string>
+    <string name="common_turn_on_bluetooth">Lülita Bluetooth sisse</string>
+    <string name="common_ui_confirm_deleting_button">Kustuta</string>
+    <string name="common_ui_confirm_deleting_checkbox">Selge, tahan kustutada</string>
+    <string name="common_unknown">Teadmata</string>
+    <string name="common_update">Värskenda</string>
+    <string name="common_url_load_unsuccessful_message">Teie Android-seade pole andmesideteenusega ühendatud. Kui soovite teavet kohe vaadata, külastage veebibrauseris aadressi %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Teie Android-seade pole WiFi-võrguga ühendatud. Kui soovite teavet kohe vaadata, külastage veebibrauseris aadressi %s.</string>
+    <string name="common_url_login_notice">Logige sisse kui %1$s</string>
+    <string name="common_usage_and_diagnostics">Kasutus ja diagnostika</string>
+    <string name="common_yesterday">Eile</string>
+    <string name="confirm_copy_button_text">Kopeeri</string>
+    <string name="contacts_number_device_and_icloud">%1$d teenuses iCloud®, %2$d seadmes</string>
+    <string name="contacts_number_device_and_icloud_with_google">"Google'i kontaktid, %1$d teenuses iCloud®, %2$d seadmes"</string>
+    <string name="contacts_number_device_and_sim_with_google">"Google'i kontaktid, %1$d SIM-kaardil, %2$d seadmes"</string>
+    <string name="contacts_number_device_with_google">"Google'i kontaktid, %1$d seadmes"</string>
+    <string name="contacts_number_icloud_with_google">"Google'i kontaktid, %1$d teenuses iCloud®"</string>
+    <string name="contacts_number_sim_with_google">"Google'i kontaktid, %1$d SIM-kaardil"</string>
+    <string name="copy_confirmation_description">"Kopeerite andmed, nt oma Google'i konto ja rakendused, oma uude telefoni"</string>
+    <string name="copy_confirmation_title">Kas kopeerida teie uude telefoni?</string>
+    <string name="d2d_app_picker_description_no_apps">Me ei leidnud ühtegi rakendust</string>
+    <string name="d2d_app_picker_title">Rakendused</string>
+    <string name="d2d_migration_canceled_on_source">Kopeerimine tühistati</string>
+    <string name="data_copied_fragment_description">Teie andmed kopeeriti teie uude telefoni. Võite kaabli eemaldada.</string>
+    <string name="data_copied_fragment_description_cancel">Otsustasite kopeerimise lõpetada ja seega kopeeriti teie uude telefoni vaid osa andmetest.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Peatasite kopeerimise, mistõttu ei kopeeritud andmeid teie uude telefoni.</string>
+    <string name="data_copied_fragment_description_error">Midagi läks valesti, seega ei saanud me kõike kopeerida.</string>
+    <string name="data_copied_fragment_description_error_no_data">Midagi läks valesti, mistõttu ei saanud andmeid kopeerida.</string>
+    <string name="data_copied_fragment_no_data_title">Ei saanud kopeerida</string>
+    <string name="data_copied_fragment_some_data_title">Osa andmetest kopeeriti</string>
+    <string name="data_copied_fragment_title">Andmed on kopeeritud</string>
+    <string name="device_backup_title">Seadme varundamine</string>
+    <string name="device_not_supported_fragment_new_device">Ühendasite uue telefoniga. Jätkamiseks ühendage uuesti oma eelmine telefon.</string>
+    <string name="device_not_supported_fragment_new_device_title">Ühendage uuesti eelmise telefoniga</string>
+    <string name="device_not_supported_fragment_no_data_cable">See kaabel ei saa andmeid edastada. Ühendage teise kaabliga ja proovige uuesti.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Proovige teist kaablit</string>
+    <string name="device_not_supported_fragment_retry_description">Veenduge, et teie vana telefon oleks avatud, seejärel eemaldage kaabel ja ühendage see uuesti</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Midagi läks valesti</string>
+    <string name="device_not_supported_ios_supervised_description">Kuna teie iPhone®-i seade on jälgitav, peate andmete kopeerimiseks mõne muu viisi valima</string>
+    <string name="device_picker_description">"Varukoopiad salvestatakse Google Drive'i"</string>
+    <string name="device_picker_empty">Kontoga %1$s pole lingitud ühtegi varukoopiat.</string>
+    <string name="device_picker_empty_title">Varukoopiaid ei leitud</string>
+    <string name="device_picker_item">Seadme %1$s varukoopia</string>
+    <string name="device_picker_last_used">Viimati kasutatud: ^1</string>
+    <string name="device_picker_skip">Ära taasta</string>
+    <string name="device_picker_title">Valige taastamiseks varukoopia</string>
+    <string name="disabled_by_admin_summary_text">Juhib administraator</string>
+    <string name="download_msg_error_invalid">Allalaadimine oli valesti seadistatud.</string>
+    <string name="download_msg_in_progress">Allalaadimine on pooleli.</string>
+    <string name="download_msg_not_allowed_space">Allalaadimiseks pole piisavalt ruumi.</string>
+    <string name="download_msg_pending">Allalaadimine on ootel.</string>
+    <string name="download_notification_description">%1$s taotles seda.</string>
+    <string name="download_notification_title">Tuuakse lisaandmeid</string>
+    <string name="drive_backup_account">Konto</string>
+    <string name="drive_backup_apps_in_backup">Rakenduste varundatud andmed</string>
+    <string name="drive_backup_apps_last_backup">Viimane varundamine</string>
+    <string name="drive_backup_apps_loading">Laadimine …</string>
+    <string name="drive_backup_apps_screen_title">Rakenduste andmed</string>
+    <string name="drive_backup_content_apps_title">Rakenduste andmed</string>
+    <string name="drive_backup_content_calendar_dialog_message">"Rakenduses Google'i kalender loodud sündmused sünkroonitakse kõigis seadmetes, mis on teie Google'i kontole sisse logitud."</string>
+    <string name="drive_backup_content_calendar_title">Kalender</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Varundamine hõlmab väljaminevate ja vastuvõetud kõnede kuupäeva ning teist osapoolt.</string>
+    <string name="drive_backup_content_callhistory_title">Kõneajalugu</string>
+    <string name="drive_backup_content_contacts_dialog_message">"Rakenduses Google'i kontaktid loodud kontaktid sünkroonitakse kõigis seadmetes, mis on teie Google'i kontole sisse logitud."</string>
+    <string name="drive_backup_content_contacts_title">Kontaktid</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Varundamine hõlmab seadme seadistust, nt taustapilt, WiFi-paroolid ja vaikerakendused.</string>
+    <string name="drive_backup_content_devicesettings_title">Seadme seaded</string>
+    <string name="drive_backup_content_header">Sisu</string>
+    <string name="drive_backup_content_photos_dialog_message">Teie peamist varukontot muudeti. Saate ka teenuse Google Photos varundusfunktsiooni kontoks määrata konto %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">LOOBU</string>
+    <string name="drive_backup_content_photos_dialog_title">Kas muuta ka fotode ja videote kontot?</string>
+    <string name="drive_backup_content_photos_dialog_yes">MUUDA</string>
+    <string name="drive_backup_content_photos_title">Fotod ja videod</string>
+    <string name="drive_backup_content_sms_dialog_message">Varundamine hõlmab saadetud ja vastuvõetud sõnumeid. See ei hõlma multimeediumsõnumeid.</string>
+    <string name="drive_backup_content_sms_title">SMS-id</string>
+    <string name="drive_backup_content_status_dolly_action">Selge</string>
+    <string name="drive_backup_content_status_error">Viga viimase sünkroonimiskuupäeva hankimisel</string>
+    <string name="drive_backup_content_status_lastsaved">Viimati varundatud: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Viimati sünkroonitud: %1$s</string>
+    <string name="drive_backup_content_status_never">Varukoopia ootamine</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Sünkroonimisseaded</string>
+    <string name="drive_backup_content_status_sync_off">Sünkroonimine on VÄLJAS</string>
+    <string name="drive_backup_content_status_updating">Oleku kontrollimine …</string>
+    <string name="drive_backup_disabled_backuplist">"Varundamine hõlmab järgmist.
+\u0009- Rakendused ja rakenduste andmed
+\u0009- Kõneajalugu
+\u0009- Seadme seaded (sh WiFi-paroolid)
+\u0009- Google'i kalender
+\u0009- Google'i kontaktid
+\u0009- Fotod ja videod
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Varundamine hõlmab järgmist.
+\u0009- Rakendused ja rakenduste andmed
+\u0009- Kõneajalugu
+\u0009- Seadme seaded (sh WiFi-paroolid)
+\u0009- Google'i kalender
+\u0009- Google'i kontaktid
+\u0009- SMS-id"</string>
+    <string name="drive_backup_disabled_by_device_owner">Keelas administraator</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google'i kalender, Google'i kontaktid, fotod ja videod sünkroonitakse teie Google'i kontoga ning neid saab kasutada kõigis teenustes.
+
+Sünkroonimine võib olla lubatud isegi siis, kui varundamine on välja lülitatud. Sünkroonimisseadeid saate muuta menüüs Seaded > Kontod > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google'i kalender ja Google'i kontaktid sünkroonitakse teie Google'i kontoga ja neid saab kasutada eri seadmetes.
+
+Sünkroonimise saab lubada ka siis, kui varundamine on välja lülitatud. Sünkroonimisseadeid saate muuta menüüs Seaded > Kontod > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automaatne varundamine tagab, et saate oma telefone mis tahes ajal taastada või vahetada.</string>
+    <string name="drive_backup_settings_title">Varundamine</string>
+    <string name="drive_backup_state">"Varunda Google Drive'i"</string>
+    <string name="drive_backup_state_dialog_message">"Selle seadme varundusandmed Google Drive'is kustutatakse jäädavalt.
+
+Juba varundatud fotod ja videod on endiselt Google Drive'is saadaval.
+
+Google'i kalender ja Google'i kontaktid sünkroonitakse endiselt teie Google'i kontoga. Sünkroonimisseadeid saate muuta menüüs Seaded > Kontod > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Selle seadme varundusandmed Google Drive'is kustutatakse jäädavalt.
+
+Google'i kalender ja Google'i kontaktid sünkroonitakse endiselt teie Google'i kontoga. Sünkroonimisseadeid saate muuta menüüs Seaded > Kontod > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Lülita välja ja kustuta</string>
+    <string name="drive_backup_state_dialog_title">Kas lülitada välja ja kustutada varukoopia?</string>
+    <string name="durationDayHour">%1$d p %2$d h</string>
+    <string name="durationDayHours">%1$d p %2$d h</string>
+    <string name="durationDays">%1$d päeva</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d h</string>
+    <string name="durationMinute">%1$d min</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d min</string>
+    <string name="durationSecond">%1$d s</string>
+    <string name="durationSeconds">%1$d s</string>
+    <string name="encryption_warning_fragment_description">"Varukoopia krüpteerimine on teie iPhone®-i seadmes sisse lülitatud. Kui te seda ise sisse ei lülitanud, võis selle sisse lülitada teie IT-administraator.
+
+Kopeerida saab ainult fotosid, muusikat ja videoid. Lisateavet leiate saidilt "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Varukoopia krüpteerimine</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ma ei leia adapterit</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Leidke seadmega ^1 kaasas olnud adapter Quick Switch Adapter.
+
+Ühendage kaabel adapteriga."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Ühendage adapter ja kaabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Avage oma vana telefon ja ühendage adapter selle telefoniga.</string>
+    <string name="fragment_usb_connect_both_phones_title">Ühendage mõlemad telefonid</string>
+    <string name="fragment_usb_dialog_cancel_description">Kaabliga saate kopeerida kõige rohkem sisu. Kui karbis olevad kaablid ei sobi, proovige laadimis- või andmesidekaablit, mis töötab teie vana telefoniga.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kas kopeerida andmed muul viisil?</string>
+    <string name="fragment_usb_dont_have_cable">Mul ei ole kaablit</string>
+    <string name="fragment_usb_dont_have_old_phone">Mul ei ole vana telefoni</string>
+    <string name="fragment_usb_find_cable_description">Kasutaga oma vana telefoniga ühilduvat kaablit, näiteks andmeside- või laadimiskaablit.</string>
+    <string name="fragment_usb_find_cable_title">Leidke õige kaabel</string>
+    <string name="fragment_usb_initial_description">Kandke andmed vanast telefonist üle seadmesse ^1.</string>
+    <string name="fragment_usb_initial_title">Kopeerime teie andmed</string>
+    <string name="fragment_usb_legacy_description">"See on kiireim viis enamiku andmete teisaldamiseks.
+
+Leidke karbis olev adapter ja ühendage see uue telefoniga. Ühendage telefonid kaabliga ja seejärel avage vana telefon."</string>
+    <string name="fragment_usb_other_ways">Kopeerimine ilma kaablita</string>
+    <string name="fragment_usb_plug_cable">Ühendage kaabel vana telefoniga</string>
+    <string name="fragment_waiting_title">Üks hetk …</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">"Google'i kontakte sünkroonitakse"</string>
+    <string name="google_contacts_static_text_off">"Google'i kontaktid sünkroonitakse endiselt"</string>
+    <string name="header_set_backup_account">Varunduskonto määramine</string>
+    <string name="i_message_dialog_message">"Kui soovite iPhone®-i seadmete kasutajatelt jätkuvalt SMS-sõnumeid saada, peate rakenduse iMessage® välja lülitama.
+
+Juhised leiate saidilt "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Jätkake teises telefonis</string>
+    <string name="ios_connected_fragment_description">"Järgmisel ekraanil saate oma Google'i kontole sisse logida või uue konto luua.
+
+Kui te oma Google'i kontot ei lisa, siis teie rakenduse iOS Calendar® sündmusi üle ei kanta."</string>
+    <string name="ios_message_attachment_explanation">[Teie sõnumi manused on menüüs Google Photos > Seadme kaustad > Sõnumi manused]</string>
+    <string name="ios_message_attachment_failed_explanation">[Mõnda manust ei õnnestunud kopeerida. Teisaldatud manused leiate menüüst Google Photos > Seadme kaustad > Sõnumi manused]</string>
+    <string name="ios_message_attachment_placeholder">[Manus salvestati menüüs Google Photos > Seadme kaustad > Sõnumi manused]</string>
+    <string name="ios_message_attachments_placeholder">[Manused salvestati menüüs Google Photos > Seadme kaustad > Sõnumi manused]</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Muu</string>
+    <string name="ios_photos_dialog_message">"iCloud®-i salvestatud fotosid ei saa kopeerida.
+
+Nende fotode seadmesse ^1 toomiseks installige oma iPhone®-i seadmesse rakendus Google Photos ning lülitage sisse valik Varundamine ja sünkroonimine. Lisajuhiste saamiseks külastage aadressi"<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Lisa konto</string>
+    <string name="lockscreen_smartdevice_action_next">Järgmine</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Avage, et telefoni seadistamist jätkata</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Turvalisuse huvides peate seadistamise jätkamiseks kinnitama ekraaniluku</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Kinnitage ekraanilukk</string>
+    <string name="manage_data_label">"Google'i konto"</string>
+    <string name="master_clear_title">Tehase andmetele lähtestamine</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Tuleb seadistada varukonto</string>
+    <string name="notification_content_title_set_backup_account">Varundamine</string>
+    <string name="notification_ticker_set_backup_account">Vaja on varukontot</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kaamera</string>
+    <string name="permgrouplab_contacts">Kontaktid</string>
+    <string name="permgrouplab_location">Asukoht</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Kehaandurid</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Salvestusruum</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ühelegi kontole ei ole praegu salvestatud varundatud fotosid</string>
+    <string name="photos_backup_title">Fotode varundamine</string>
+    <string name="photos_filtering_option_all">Kõik</string>
+    <string name="photos_filtering_option_none">Mitte ühtegi</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">"Kopeeritud kontaktid salvestatakse teie Google'i kontole."</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">"Kopeeritud kontaktid ja kalendrid salvestatakse teie Google'i kontole."</string>
+    <string name="restore_choice_data_disclaimer_v2">Osa teie andmetest ei pruugita seadmesse ^1 kopeerida. <annotation id="restore_choice_data_disclaimer_learn_more">Lisateave</annotation></string>
+    <string name="restore_choice_deselect_some_content">Jätkamiseks tühistage osa sisu valik</string>
+    <string name="restore_choice_learn_more_android">"Teatud andmeid teie vanast telefonist ei saa automaatselt kopeerida.
+
+ ● Allalaadimised (nt PDF-failid)
+
+ ● Peidetud kaustadesse salvestatud fotod, videod ja muusika
+
+ ● Tekstsõnumitega saadud fotod, videod ja muusika
+
+ ● Rakendused, mis ei pärine Google Play poest
+
+ ● Rakenduse andmed (kui rakendus ei kasuta Androidi varundust)
+
+ ● Teatud seadme seaded
+
+ ● Muud kontod peale Google'i kontode (ja nendega seotud andmed)
+
+ ● Kontaktid ja kalendrid, mis on sünkroonitud muude teenustega peale Google'i
+
+ ● Helinad
+
+ Lisateavet ja abi nende andmete kopeerimise kohta leiate saidilt g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Teatud andmeid teie vanast telefonist ei saa automaatselt kopeerida.
+
+ ● Rakendused ja nende andmed
+
+ ● Fotod, mille originaal pole salvestatud teie telefoni (nt kui seade Salvestusruumi optimeerimine on sisse lülitatud, salvestatakse fotode originaalid teenusesse iCloud®)
+
+ ● Teenusesse iCloud® salvestatud failid ja dokumendid
+
+ ● Seadme seaded (nt WiFi-paroolid ja taustapilt)
+
+ ● Muusika, mis on kaitstud digitaalsete õiguste halduse (DRM) kaitsega (nt iTunes®-i muusika, mis on ostetud enne 2009. aasta aprilli, või muusika, mis on muusika voogesituse rakendusest võrguühenduseta kuulamiseks alla laaditud)
+
+ ● Muud kontod peale Google'i kontode (ja nendega seotud andmed)
+
+ ● Kontaktid ja kalendrid, mis on sünkroonitud muude teenustega peale Google'i või iCloud®-i
+
+ ● Järjehoidjad Safari®-st
+
+ Rakenduse iMessage® manused on saadaval menüüs Google Photos > Seadme kaustad > Sõnumimanused.
+
+ Lisateavet ja abi nende andmete kopeerimise kohta leiate saidilt g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Pole piisavalt ruumi</string>
+    <string name="restore_choice_total_text">teie saadaolevast ruumist %1$s / %2$s ülekandmiseks</string>
+    <string name="restore_error_message">Midagi läks taastamisel valesti. Vabandust!</string>
+    <string name="restore_item_appdata">Rakenduste andmed</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">"iOS® Calendar, Google'i kalender"</string>
+    <string name="restore_item_calendar_ical_off_description">"Google'i kalendrit sünkroonitakse ka edaspidi"</string>
+    <string name="restore_item_calendar_sync_description">"Google'i kalendrit sünkroonitakse"</string>
+    <string name="restore_item_call_logs">Kõneajalugu</string>
+    <string name="restore_item_contacts">Kontaktid</string>
+    <string name="restore_item_device_settings_description">WiFi-paroolid ja muu</string>
+    <string name="restore_item_downloads">Allalaadimised</string>
+    <string name="restore_item_email">E-post</string>
+    <string name="restore_item_email_description">Gmaili sünkroonitakse</string>
+    <string name="restore_item_message_attachments">Sõnumi manused</string>
+    <string name="restore_item_messages">Sõnumid</string>
+    <string name="restore_item_music">Muusika</string>
+    <string name="restore_item_photos">Fotod ja videod</string>
+    <string name="restore_item_settings">Seadme seaded</string>
+    <string name="restore_item_sms">SMS-sõnumid</string>
+    <string name="restore_item_will_be_synced_text">See sünkroonitakse teie telefoniga</string>
+    <string name="restore_progress_title">Taastamine …</string>
+    <string name="small_time_duration">Vähem kui üks minut</string>
+    <string name="source_connected_description">Ettevalmistamine …</string>
+    <string name="source_connected_title">Ühendatud seadmega %1$s</string>
+    <string name="source_copying_description">Teie valitud andmed kopeeritakse teie uude telefoni</string>
+    <string name="source_copying_title">Kopeerimine …</string>
+    <string name="source_default_target_device_name">uus seade</string>
+    <string name="source_notification_device_disconnected">Ühendage kaabel uuesti</string>
+    <string name="source_notification_text">Telefonidevaheline edastus on pooleli</string>
+    <string name="source_notification_title">Andmeedastus</string>
+    <string name="source_success_description">Viige seadme %1$s seadistus lõpule.</string>
+    <string name="source_success_screen_title">Kõik on valmis!</string>
+    <string name="source_unplugged_description">Ühendage seadmega %1$s uuesti</string>
+    <string name="source_unplugged_title">Kaabel on eemaldatud</string>
+    <string name="source_waiting_title">Jätkake seadmes %1$s seadistamist</string>
+    <string name="stop_copying_dialog_continue_button">Loobu</string>
+    <string name="stop_copying_dialog_message_before_transfer">Teie andmed pole teie uude telefoni kopeeritud</string>
+    <string name="stop_copying_dialog_message_during_transfer">Osa teie andmetest pole teie uude telefoni kopeeritud</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ära kopeeri</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Peata</string>
+    <string name="stop_copying_dialog_title_before_transfer">Kas te ei soovi kopeerida?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kas peatada kopeerimine?</string>
+    <string name="storage_management_wear_descriptive_text">Rakendused kasutavad seadme talletusruumi, et kopeerida andmeid kaasaskantavasse seadmesse.</string>
+    <string name="storage_management_wear_manage_size_label">Kaasask. seadme talletusruumi haldamine</string>
+    <string name="storage_management_wear_size_label">Kaasask. seadme talletusruum</string>
+    <string name="storage_managment_all_storage_descriptive_text">Kõik andmed, mida kasutavad Google Play teenused, sh otsingumootorid ja muud andmed.</string>
+    <string name="storage_managment_clear_all_data">Kustuta kõik andmed</string>
+    <string name="storage_managment_computing_size">Arvutamine ...</string>
+    <string name="storage_managment_icing_size_label">Otsinguandmed</string>
+    <string name="storage_managment_manage_icing_button">Otsinguandmete haldamine</string>
+    <string name="storage_managment_search_index_descriptive_text">Kiirendame otsingut teie seadmes, pakkudes rakendustele kasutamiseks otsingumootorit.</string>
+    <string name="storage_managment_title">Google Play teenuste talletus</string>
+    <string name="storage_managment_total_size_label">Kogu salvestusruum</string>
+    <string name="suw_back_button_label">Tagasi</string>
+    <string name="suw_more_button_label">Rohkem</string>
+    <string name="suw_next_button_label">Edasi</string>
+    <string name="target_default_source_device_model">vana seade</string>
+    <string name="target_device_not_supported_cant_continue_description">Peate andmete kopeerimiseks valima teise viisi</string>
+    <string name="target_device_not_supported_cant_continue_title">Teist telefoni ei ole toetata</string>
+    <string name="target_device_not_supported_try_restarting_description">"Eemaldage kaabel ja taaskäivitage oma vana telefon, seejärel ühendage kaabel uuesti ja järgige Pixelis juhiseid.
+
+Kui näete ikka seda viga, peate võib-olla kopeerima mõnel muul viisil."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefoni ei pruugita toetada</string>
+    <string name="target_smart_device_timeout_add_account">LISA KONTO</string>
+    <string name="target_smart_device_timeout_description">Soovi korral võite proovida konto käsitsi lisada</string>
+    <string name="target_smart_device_timeout_dismiss">LOOBU</string>
+    <string name="target_smart_device_timeout_title">Kas teil on probleeme?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonid on ühendatud</string>
+    <string name="toast_reconnect_cable">Ühendage kaabel uuesti</string>
+    <string name="transfer_finished_fragment_title">Viimistlemine …</string>
+    <string name="transfer_summary_copied">Andmed on kopeeritud</string>
+    <string name="transfer_summary_fragment_description">Võite kaabli eemaldada.</string>
+    <string name="transfer_summary_fragment_finish">LÕPETA</string>
+    <string name="transfer_summary_fragment_title">Teie telefon on peaaegu valmis</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Mõnda fotot ei kopeeritud. <annotation id="transfer_summary_learn_more">Lisateave</annotation></string>
+    <string name="transfer_summary_not_copied">Andmed on kopeerimata</string>
+    <string name="transfer_summary_partial">%1$s/%2$s on kopeeritud</string>
+    <string name="transfer_summary_will_sync">Andmete sünkroonimine toimub pärast seadistamist</string>
+    <string name="transferring_fragment_calculating_remaining_time">Arvutatakse allesjäänud aega …</string>
+    <string name="transferring_fragment_header">Kopeerimine …</string>
+    <string name="transferring_fragment_remaining_time">Jäänud on %1$s</string>
+    <string name="trust_instructions_description">Jätkamiseks kontrollige oma iPhone®-i seadet ja kinnitage ühendus</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ja iTunes on ettevõtte Apple Inc. kaubamärgid, mis on registreeritud USA-s ning teistes riikides.</string>
+</resources>

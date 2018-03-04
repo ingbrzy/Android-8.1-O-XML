@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">រកមើល​ទៅ​ដើម</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">រកមើល​ឡើងលើ</string>
+    <string name="abc_action_menu_overflow_description">ជម្រើស​ច្រើន​ទៀត</string>
+    <string name="abc_action_mode_done">រួចរាល់</string>
+    <string name="abc_activity_chooser_view_see_all">មើល​ទាំងអស់</string>
+    <string name="abc_activitychooserview_choose_application">ជ្រើស​កម្មវិធី​​</string>
+    <string name="abc_capital_off">បិទ</string>
+    <string name="abc_capital_on">បើក</string>
+    <string name="abc_search_hint">ស្វែងរក…</string>
+    <string name="abc_searchview_description_clear">សម្អាត​សំណួរ</string>
+    <string name="abc_searchview_description_query">ស្វែងរក​សំណួរ</string>
+    <string name="abc_searchview_description_search">ស្វែងរក</string>
+    <string name="abc_searchview_description_submit">ដាក់​​​ស្នើ​សំណួរ</string>
+    <string name="abc_searchview_description_voice">ការស្វែងរក​សំឡេង</string>
+    <string name="abc_shareactionprovider_share_with">ចែករំលែក​ជាមួយ</string>
+    <string name="abc_shareactionprovider_share_with_application">ចែករំលែក​ជាមួយ %s</string>
+    <string name="abc_toolbar_collapse_description">បង្រួម</string>
+    <string name="app_has_in_app_purchases">ការទិញក្នុងកម្មវិធី</string>
+    <string name="app_has_permissions">សិទ្ធិអនុញ្ញាត៖ %s</string>
+    <string name="app_has_runtime_permissions">កម្មវិធីនេះនឹងសួររកសិទ្ធិអនុញ្ញាត</string>
+    <string name="app_picker_loading">កំពុងរកមើលកម្មវិធីដែលអាចប្រើបាន…</string>
+    <string name="app_picker_loading_toast">កម្មវិធីដែលអាចប្រើបាននឹងផ្ទុកក្នុងពេលបន្តិចទៀតនេះ</string>
+    <string name="app_picker_no_apps">គ្មានកម្មវិធីបានជ្រើសរើសទេ</string>
+    <string name="app_picker_no_apps_found">រកមិនឃើញកម្មវិធីទេ</string>
+    <string name="apps_permissions_described_v2">"មានតែកម្មវិធី iOS® ដែលពេញនិយម និងឥតគិតថ្លៃប៉ុណ្ណោះដែលអាចផ្គូផ្គងជាមួយកម្មវិធី Android ។ ការទិញក្នុងកម្មវិធីភាគច្រើននឹងមិនអាចធ្វើការផ្ទេរបានទេ។ អ្នកអាចស្វែងរកកម្មវិធីជាច្រើននៅក្នុង Play Store បន្ទាប់ពីការរៀបចំបានបញ្ចប់។
+
+អ្នកត្រូវផ្តល់ការអនុញ្ញាតជាមុនដល់កម្មវិធីមួយចំនួន ដើម្បីចូលប្រើមុខងារ ឬព័ត៌មានជាក់លាក់មួយចំនួននៅលើឧបករណ៍របស់អ្នក។ ការអនុញ្ញាតត្រូវបានដាក់បញ្ចូលជាក្រុមនៃការអនុញ្ញាត។ ប្រសិនបើសម្រេចចិត្តធ្វើការដំឡើងកម្មវិធីទាំងនេះ មានន័យថា អ្នកយល់ព្រមតាមការអនុញ្ញាតដែលជាផ្នែកនៃក្រុមនីមួយៗ។ ការពណ៌នាអំពីក្រុមនៃការអនុញ្ញាតនីមួយៗមានផ្តល់ជូននៅផ្នែកខាងក្រោម។
+
+កម្មវិធីមួយចំនួនអាចនឹងមិនតម្រូវឲ្យមានការអនុញ្ញាតជាមុននោះទេ។ នៅពេលដែលអ្នកប្រើកម្មវិធីណាមួយក្នុងចំណោមកម្មវិធីទាំងនេះ អ្នកអាចអនុញ្ញាត ឬបដិសេធការអនុញ្ញាតនីមួយៗដាច់ដោយឡែក មុនពេលដែលកម្មវិធីនោះប្រើទិន្នន័យប្រភេទនោះ។
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">ឧបករណ៍​ផ្ទេរ​ទិន្នន័យ</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">កុំចម្លង</string>
+    <string name="close_button_label">បិទ</string>
+    <string name="cloud_restore_app_picker_button">ស្តារ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ការបម្រុងទុករបស់អ្នកមិនមានកម្មវិធីឡើយ</string>
+    <string name="cloud_restore_app_picker_title">ជ្រើសរើសកម្មវិធីដើម្បីស្តារ</string>
+    <string name="common_cancel">បោះបង់</string>
+    <string name="common_google_play_services_enable_button">បើក</string>
+    <string name="common_google_play_services_enable_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_enable_title">បើកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_install_button">ដំឡើង</string>
+    <string name="common_google_play_services_install_text">%1$s នឹងមិនដំណើរការទេ ប្រសិនបើមិនមានសេវាកម្មនានារបស់ Google Play ដែលបានបាត់ពីឧបករណ៍របស់អ្នក។</string>
+    <string name="common_google_play_services_install_title">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_unknown_issue">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="common_google_play_services_unsupported_text">%1$s នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។</string>
+    <string name="common_google_play_services_update_button">អាប់ដេត</string>
+    <string name="common_google_play_services_update_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_update_title">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="common_google_play_services_wear_update_text">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="common_ok">យល់ព្រម</string>
+    <string name="common_open_on_phone">បើកតាមទូរស័ព្ទ</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូលដោយប្រើ Google</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_with_google">Google ទំនាក់ទំនង, ឧបករណ៍ %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d</string>
+    <string name="contacts_number_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d</string>
+    <string name="copy_confirmation_description">អ្នកនឹងចម្លងទិន្នន័យ ដូចជា៖ គណនី Google និងកម្មវិធីរបស់អ្នក ទៅកាន់ទូរស័ព្ទថ្មីរបស់អ្នក</string>
+    <string name="copy_confirmation_title">ចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកដែរទេ?</string>
+    <string name="d2d_app_picker_description_no_apps">យើងរកមិនឃើញកម្មវិធីណាមួយឡើយ</string>
+    <string name="d2d_app_picker_title">កម្មវិធី</string>
+    <string name="d2d_migration_canceled_on_source">បានបោះបង់ការចម្លង</string>
+    <string name="data_copied_fragment_description">ទិន្នន័យរបស់អ្នកត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។ អ្នកអាចដកខ្សែនេះបានហើយ។</string>
+    <string name="data_copied_fragment_description_cancel">អ្នកបានជ្រើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមានទិន្នន័យតែមួយចំនួនប៉ុណ្ណោះដែលបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។</string>
+    <string name="data_copied_fragment_description_cancel_no_data">អ្នកបានជ្រើសរើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមិនមានទិន្នន័យណាត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ។</string>
+    <string name="data_copied_fragment_description_error">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងមាតិកាទាំងអស់បានទេ។</string>
+    <string name="data_copied_fragment_description_error_no_data">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងទិន្នន័យរបស់អ្នកបានទេ។</string>
+    <string name="data_copied_fragment_no_data_title">មិនអាចចម្លងបានទេ</string>
+    <string name="data_copied_fragment_some_data_title">បានចម្លងឯកសារមួយចំនួន</string>
+    <string name="data_copied_fragment_title">បានចម្លងទិន្នន័យ</string>
+    <string name="device_not_supported_fragment_new_device">អ្នកបានភ្ជាប់ទៅទូរសព្ទថ្មី។ ដើម្បីបន្ត សូមភ្ជាប់ទៅទូរសព្ទពីមុនរបស់អ្នកឡើងវិញ។</string>
+    <string name="device_not_supported_fragment_new_device_title">ភ្ជាប់ទៅទូរសព្ទពីមុនឡើងវិញ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ខ្សែនេះមិនអាចផ្ទេរទិន្នន័យបានទេ។ សូមភ្ជាប់ឡើងវិញដោយប្រើខ្សែផ្សេងទៀត រួច​ព្យាយាមម្តងទៀត។</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">សាកល្បងប្រើខ្សែផ្សេងទៀត</string>
+    <string name="device_not_supported_fragment_retry_description">សូមប្រាកដថាទូរស័ព្ទរបស់អ្នកបានដោះសោ បន្ទាប់មកផ្តាច់វា ហើយភ្ជាប់ខ្សែនោះឡើងវិញ</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">មានបញ្ហាអ្វីមួយមិនប្រក្រតី</string>
+    <string name="device_not_supported_ios_supervised_description">ដោយហេតុថាឧបករណ៍ iPhone® របស់​អ្នក​ស្ថិតក្រោមការគ្រប់គ្រង អ្នកត្រូវតែជ្រើសរើសវិធីផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ។</string>
+    <string name="device_picker_skip">កុំស្តារ</string>
+    <string name="durationDayHour">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDayHours">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDays">%1$d ថ្ងៃ</string>
+    <string name="durationHourMinute">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHourMinutes">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHours">%1$d ម៉ោង</string>
+    <string name="durationMinute">%1$d នាទី</string>
+    <string name="durationMinutes">%1$d នាទី</string>
+    <string name="encryption_warning_fragment_description">"ការអ៊ិនគ្រីបការបម្រុងទុកត្រូវបានបើកសម្រាប់ឧបករណ៍ iPhone® របស់អ្នក។ ប្រសិនបើអ្នកមិនបានបើកវាដោយខ្លួនឯងទេ វាប្រហែលជាត្រូវបានបើកដោយអ្នកគ្រប់គ្រង IT របស់អ្នក។
+
+មានតែរូបថត តន្ត្រី និងវីដេអូតែប៉ុណ្ណោះ ដែលអាចធ្វើការចម្លងបាន។ សម្រាប់ព័ត៌មានបន្ថែម សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ។</string>
+    <string name="encryption_warning_fragment_title">ការអ៊ិនគ្រីបការបម្រុងទុក</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ខ្ញុំរកមិនឃើញឆ្នាំងសាកទេ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"រកមើលឆ្នាំងសាក Quick Switch Adapter ដែលមាននៅក្នុងប្រអប់ទូរសព្ទ ^1 របស់អ្នក។ 
+
+ដោតខ្សែសាកចូលទៅឆ្នាំងសាកនេះ។"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ភ្ជាប់ឆ្នាំងសាក និងខ្សែសាក</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ដោះសោទូរសព្ទចាស់របស់អ្នក បន្ទាប់មកដោតឆ្នាំងសាកទៅទូរសព្ទនេះ។</string>
+    <string name="fragment_usb_connect_both_phones_title">ភ្ជាប់ទូរសព្ទទាំងពីរ</string>
+    <string name="fragment_usb_dialog_cancel_description">អ្នកនឹងទទួលបានមាតិកាច្រើនបំផុត ប្រសិនបើអ្នកភ្ជាប់ដោយប្រើខ្សែ។ ប្រើសិនបើខ្សែដែលមាននៅក្នុងប្រអប់មិនត្រូវគ្នាទេ សូមសាកល្បងប្រើខែ្សសាកថ្ម ឬខ្សែទិន្នន័យដែលដំណើរការជាមួយទូរសព្ទចាស់របស់អ្នក។</string>
+    <string name="fragment_usb_dialog_cancel_title">ចម្លងទិន្នន័យតាមមធ្យោបាយផ្សេង?</string>
+    <string name="fragment_usb_dont_copy">កុំចម្លង</string>
+    <string name="fragment_usb_dont_have_cable">ខ្ញុំមិនមានខ្សែសាកទេ</string>
+    <string name="fragment_usb_dont_have_old_phone">មិនអាច​ប្រើ​ទូរសព្ទ​ចាស់បាន​មែនទេ?</string>
+    <string name="fragment_usb_find_cable_description">ប្រើខ្សែដែលត្រូវនឹងទូរសព្ទចាស់របស់អ្នក ដូចជាខ្សែសាកថ្ម ឬខ្សែទិន្នន័យរបស់អ្នក។</string>
+    <string name="fragment_usb_find_cable_title">រកមើលខ្សែសាកដែលត្រូវគ្នា</string>
+    <string name="fragment_usb_initial_description">អ្នកត្រូវ​មាន​ឧបករណ៍​ប្រើប្រព័ន្ធ Android ឬ iPhone® ចាស់​របស់អ្នក។ សូម​បើកវា រួច​ទុកឲ្យវា​ដោះសោ។</string>
+    <string name="fragment_usb_initial_title">យកពី​ទូរសព្ទ​ចាស់​របស់អ្នក</string>
+    <string name="fragment_usb_legacy_description">"នេះគឺជាមធ្យោបាយលឿនបំផុត ដើម្បីនាំយកទិន្នន័យភាគច្រើនត្រឡប់មកវិញ។
+
+សូមរកមើលឆ្នាំងសាកនៅក្នុងប្រអប់ ហើយដោតវាទៅទូរសព្ទថ្មីរបស់អ្នក។ ភ្ជាប់ទូរសព្ទនេះដោយប្រើខ្សែសាក បន្ទាប់មកដោះសោទូរសព្ទចាស់របស់អ្នក។"</string>
+    <string name="fragment_usb_missing_data_description">អ្នកអាច​បន្ត​រៀបចំ Pixel របស់អ្នក​បាន​អំឡុងពេល​ផ្ទេរនេះ។</string>
+    <string name="fragment_usb_missing_data_title">សូម​ចម្លងទិន្នន័យ​របស់អ្នក</string>
+    <string name="fragment_usb_other_ways">ចម្លងដោយមិនបាច់ប្រើខែ្សសាក</string>
+    <string name="fragment_usb_plug_cable">ដោតខ្សែសាកទៅទូរសព្ទចាស់របស់អ្នក</string>
+    <string name="fragment_waiting_title">តែមួយភ្លែតទេ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google ទំនាក់ទំនងនឹងធ្វើសមកាលកម្ម</string>
+    <string name="google_contacts_static_text_off">Google ទំនាក់ទំនង នឹងនៅតែធ្វើសមកាលកម្មដដែល</string>
+    <string name="i_message_dialog_message">"ដើម្បីបន្តទទួលបានសារ SMS ពីអ្នកប្រើឧបករណ៍ iPhone® អ្នកត្រូវបិទ iMessage® ។
+
+សូមចូលទៅកាន់ "<b>g.co/iMessageHelp</b> សម្រាប់ការណែនាំ។</string>
+    <string name="instructions_fragment_title">បន្តនៅលើទូរសព្ទផ្សេងទៀតរបស់អ្នក</string>
+    <string name="ios_connected_fragment_description">"អ្នកអាចចូលទៅកាន់គណនី Google របស់អ្នក ឬបង្កើតគណនីថ្មីមួយ នៅលើអេក្រង់បន្ទាប់។
+
+ប្រសិនបើអ្នកមិនបញ្ចូលគណនី Google របស់អ្នកទេ ព្រឹត្តិការណ៍ក្នុង​ iOS Calendar® របស់អ្នកនឹងមិនធ្វើការផ្ទេរទេ។"</string>
+    <string name="ios_message_attachment_explanation">[ឯកសារភ្ជាប់ជាមួយសាររបស់អ្នកស្ថិតនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ឯកសារភ្ជាប់មួយចំនួនមិនអាចធ្វើការចម្លងបានទេ។ ឯកសារភ្ជាប់ដែលបានផ្ទេរ អាចរកឃើញនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_message_attachments_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_migration_default_calendar_title">ប្រតិទិន</string>
+    <string name="ios_migration_other_contact_relation">ផ្សេងៗ</string>
+    <string name="ios_photos_dialog_message">"មិនអាចចម្លងរូបថតដែលផ្ទុកនៅក្នុង iCloud® បានទេ។
+
+ដើម្បីនាំយករូបថតទាំងនេះទៅកាន់ ^1 របស់អ្នក សូមដំឡើងកម្មវិធី Google រូបថត នៅលើឧបករណ៍ iPhone® របស់អ្នក រួចបើកមុខងារបម្រុងទុក និងសមកាលកម្ម។ សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ដើម្បីទទួលបានការណែនាំបន្ថែម។</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">បន្ទាប់</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">ទាំង​អស់</string>
+    <string name="photos_filtering_option_none">គ្មាន</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">ទំនាក់ទំនងដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">ទំនាក់ទំនង និងប្រតិទិនដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_v2">ទិន្នន័យមួយចំនួនរបស់អ្នកអាចនឹងមិនត្រូវបានចម្លងទៅ ^1 របស់អ្នកទេ។ <annotation id="restore_choice_data_disclaimer_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="restore_choice_deselect_some_content">លុបការជ្រើសរើសមាតិកាមួយចំនួនដើម្បីបន្ត</string>
+    <string name="restore_choice_learn_more_android">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● ការទាញយក (ដូចជាឯកសារ PDF)
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលផ្ទុកនៅក្នុងថតដែលបានលាក់
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលទទួលបានតាមរយៈសារជាអក្សរ
+
+ ● កម្មវិធីដែលមិនមែនចេញពីឃ្លាំងកម្មវិធី Google
+
+ ● ទិន្នន័យកម្មវិធី (ប្រសិនបើកម្មវិធីនោះមិនប្រើការបម្រុងទុក Android)
+
+ ● ការកំណត់ឧបករណ៍ជាក់លាក់
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google
+
+ ● សំឡេងរោទិ៍
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● កម្មវិធី និងទិន្នន័យកម្មវិធី
+
+ ● រូបថតដែលច្បាប់ដើមរបស់វាមិនផ្ទុកនៅលើទូរសព្ទរបស់អ្នក (ឧទាហរណ៍៖ ប្រសិនបើទំហំផ្ទុកកម្រិតខ្ពស់បានបើក នោះរូបថតដើមនឹងផ្ទុកនៅក្នុង iCloud®)
+
+ ● ឯកសារដែលផ្ទុកនៅក្នុង iCloud®
+
+ ● ការកំណត់ឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងផ្ទាំងរូបភាព)
+
+ ● តន្ត្រីដែលមានការពារដោយកម្មវិធីគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM) (ឧទាហរណ៍៖ តន្ត្រី iTunes® ដែលបានទិញមុនខែ មេសា ឆ្នាំ 2009 ឬតន្ត្រីដែលបានទាញយកនៅក្នុងកម្មវិធីស្ទ្រីមតន្រ្តី ដើម្បីស្តាប់ពេលគ្មានអ៊ីនអឺណិត)
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google ឬ iCloud®
+
+ ● ចំណាំចេញពី Safari®
+
+ ឯកសារភ្ជាប់ក្នុងសារ iMessage® នឹងមាននៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ក្នុងសារ។
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp ។"</string>
+    <string name="restore_choice_not_enough_space">ទំហំផ្ទុកមិនគ្រប់គ្រាន់</string>
+    <string name="restore_choice_total_text">នៃទំហំទំនេរ %1$s របស់អ្នក/ការផ្ទេរ %2$s</string>
+    <string name="restore_item_appdata">ទិន្នន័យកម្មវិធី</string>
+    <string name="restore_item_calendar">ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_description">iOS® ប្រតិទិន, Google ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_off_description">Google ប្រតិទិននឹងនៅតែធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_calendar_sync_description">Google ប្រតិទិននឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_call_logs">ប្រវត្តិ​ហៅ</string>
+    <string name="restore_item_contacts">ទំនាក់ទំនង</string>
+    <string name="restore_item_device_settings_description">ពាក្យសម្ងាត់ Wi-Fi និងច្រើនទៀត</string>
+    <string name="restore_item_downloads">ដោនឡូត</string>
+    <string name="restore_item_email">អ៊ីមែល</string>
+    <string name="restore_item_email_description">Gmail នឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_message_attachments">ឯកសារភ្ជាប់ក្នុងសារ</string>
+    <string name="restore_item_messages">សារ</string>
+    <string name="restore_item_music">តន្ត្រី</string>
+    <string name="restore_item_photos">រូបថត និងវីដេអូ</string>
+    <string name="restore_item_settings">ការកំណត់ឧបករណ៍</string>
+    <string name="restore_item_sms">សារ SMS</string>
+    <string name="restore_item_will_be_synced_text">វានឹងធ្វើសមកាលកម្មទៅទូរស័ព្ទរបស់អ្នក</string>
+    <string name="restore_progress_title">កំពុង​ស្ដារ...</string>
+    <string name="search_menu_title">ស្វែងរក</string>
+    <string name="small_time_duration">តិចជាង 1 នាទី</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">បដិសេធ</string>
+    <string name="stop_copying_dialog_message_before_transfer">ទិន្នន័យរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_message_during_transfer">ទិន្នន័យមួយចំនួនរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">កុំចម្លង</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ឈប់</string>
+    <string name="stop_copying_dialog_title_before_transfer">កុំចម្លងឬ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">ឈប់ចម្លងឬ?</string>
+    <string name="suw_back_button_label">ថយក្រោយ</string>
+    <string name="suw_more_button_label">ច្រើនទៀត</string>
+    <string name="suw_next_button_label">បន្ទាប់</string>
+    <string name="target_default_source_device_model">ឧបករណ៍ចាស់</string>
+    <string name="target_device_not_supported_cant_continue_description">អ្នកនឹងត្រូវជ្រើសមធ្យោបាយផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ</string>
+    <string name="target_device_not_supported_cant_continue_title">មិនស្គាល់​ទូរសព្ទផ្សេងទៀតទេ</string>
+    <string name="target_device_not_supported_try_restarting_description">"ដកខ្សែចេញ រួច​ចាប់ផ្តើមទូរសព្ទចាស់របស់អ្នកឡើងវិញ បន្ទាប់មកដោតខ្សែនោះឡើងវិញ ហើយធ្វើតាមការណែនាំនៅលើទូរសព្ទ Pixel របស់អ្នក។
+
+ប្រសិនបើអ្នកនៅតែឃើញបញ្ហានេះទៀត អ្នកត្រូវសាកល្បងចម្លងតាមវិធីផ្សេងទៀត។"</string>
+    <string name="target_device_not_supported_try_restarting_title">អាចនឹងមិនស្គាល់ទូរសព្ទនេះទេ</string>
+    <string name="target_pixelmigrate_notification_description">មាន​រួចហើយ ឬ​កំពុង​ដំណើរការ</string>
+    <string name="target_pixelmigrate_notification_title">ការផ្ទេរ​ទិន្នន័យ</string>
+    <string name="target_smart_device_timeout_add_account">បញ្ចូល​គណនី</string>
+    <string name="target_smart_device_timeout_description">ប្រសិនបើអ្នកចង់ អ្នកអាចសាកល្បងបន្ថែមគណនីរបស់អ្នកដោយផ្ទាល់</string>
+    <string name="target_smart_device_timeout_dismiss">បដិសេធ</string>
+    <string name="target_smart_device_timeout_title">កំពុងមានបញ្ហាឬ?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ទូរស័ព្ទត្រូវបានភ្ជាប់</string>
+    <string name="toast_reconnect_cable">ភ្ជាប់ខ្សែរបស់អ្នកឡើងវិញ</string>
+    <string name="transfer_finished_fragment_title">កំពុងបន្ថែមការកែសម្រួលចុងក្រោយ…</string>
+    <string name="transfer_summary_copied">បានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_fragment_description">អ្នកអាចដកខ្សែនេះបាន។</string>
+    <string name="transfer_summary_fragment_finish">បញ្ចប់</string>
+    <string name="transfer_summary_fragment_title">ទូរសព្ទរបស់អ្នកជិតត្រៀមរួចរាល់ហើយ</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">រូបថតមួយចំនួនរបស់អ្នកមិនអាចចម្លងបានទេ។ <annotation id="transfer_summary_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="transfer_summary_not_copied">មិនបានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_partial">បានចម្លង %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ទិន្នន័យនឹងធ្វើសមកាលកម្មបន្ទាប់ពីដំឡើងរួច</string>
+    <string name="transferring_fragment_calculating_remaining_time">កំពុងគណនាម៉ោងនៅសល់...</string>
+    <string name="transferring_fragment_header">កំពុងចម្លង...</string>
+    <string name="transferring_fragment_remaining_time">នៅសល់ %1$s</string>
+    <string name="trust_instructions_description">ដើម្បីបន្ត សូមពិនិត្យមើលឧបករណ៍ iPhone® របស់អ្នក ហើយយល់ព្រមលើការតភ្ជាប់នេះ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, និង iTunes គឺជាពាណិជ្ជសញ្ញារបស់ក្រុមហ៊ុន Apple Inc. ដែលបានចុះបញ្ជីនៅសហរដ្ឋអាមេរិក និងប្រទេសដ៏ទៃទៀត។</string>
+</resources>

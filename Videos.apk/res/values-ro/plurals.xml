@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d de persoane au evaluat cu %1$s stele</item>
+        <item quantity="one">O persoană a evaluat cu %1$s stele</item>
+        <item quantity="few">%2$d persoane au evaluat cu %1$s stele</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Expiră peste %1$d de zile</item>
+        <item quantity="one">Expiră peste %1$d zi</item>
+        <item quantity="few">Expiră peste %1$d zile</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Expiră peste %1$d de ore</item>
+        <item quantity="one">Expiră peste %1$d oră</item>
+        <item quantity="few">Expiră peste %1$d ore</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Încă %1$d</item>
+        <item quantity="one">Încă %1$d</item>
+        <item quantity="few">Încă %1$d</item>
+    </plurals>
+</resources>

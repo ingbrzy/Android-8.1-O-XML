@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="payment_request_payment_methods_preview">
+        <item quantity="other">%1$s… e mais %2$s</item>
+        <item quantity="one">%1$s… and %2$s more</item>
+    </plurals>
+    <plurals name="payment_request_shipping_addresses_preview">
+        <item quantity="other">%1$s… e mais %2$s</item>
+        <item quantity="one">%1$s… and %2$s more</item>
+    </plurals>
+    <plurals name="payment_request_shipping_options_preview">
+        <item quantity="other">%1$s… e mais %2$s</item>
+        <item quantity="one">%1$s… and %2$s more</item>
+    </plurals>
+    <plurals name="payment_request_contacts_preview">
+        <item quantity="other">%1$s… e mais %2$s</item>
+        <item quantity="one">%1$s… and %2$s more</item>
+    </plurals>
+    <plurals name="signal_strength_level_n_bars">
+        <item quantity="other">Nível de intensidade do sinal: %d barras</item>
+        <item quantity="one">Nível de intensidade do sinal: %d barras</item>
+    </plurals>
+    <plurals name="n_minutes_ago">
+        <item quantity="other">Há %d minutos</item>
+        <item quantity="one">%d minutes ago</item>
+    </plurals>
+    <plurals name="n_hours_ago">
+        <item quantity="other">Há %d horas</item>
+        <item quantity="one">%d hours ago</item>
+    </plurals>
+    <plurals name="n_days_ago">
+        <item quantity="other">Há %d dias</item>
+        <item quantity="one">%d days ago</item>
+    </plurals>
+    <plurals name="accessibility_toolbar_btn_tabswitcher_toggle">
+        <item quantity="other">%1$d separadores abertos</item>
+        <item quantity="one">%1$d open tabs</item>
+    </plurals>
+    <plurals name="accessibility_share_selected_items">
+        <item quantity="other">Partilhar %d itens selecionados</item>
+        <item quantity="one">Share %d selected items</item>
+    </plurals>
+    <plurals name="accessibility_remove_selected_items">
+        <item quantity="other">Remover %d itens selecionados</item>
+        <item quantity="one">Remove %d selected items</item>
+    </plurals>
+    <plurals name="selected_items">
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionados</item>
+    </plurals>
+</resources>

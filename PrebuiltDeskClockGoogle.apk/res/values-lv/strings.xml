@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">A=Abidžana|Africa/Abidjan</string>
+    <string name="C10">D=Dakāra|Africa/Dakar</string>
+    <string name="C100">A=Ammāna|Asia/Amman</string>
+    <string name="C101">A=Anadira|Asia/Anadyr</string>
+    <string name="C102">A=Aktau|Asia/Aqtau</string>
+    <string name="C103">B=Bagdāde|Asia/Baghdad</string>
+    <string name="C104">B=Bahreina|Asia/Bahrain</string>
+    <string name="C105">B=Baku|Asia/Baku</string>
+    <string name="C106">B=Bangkoka|Asia/Bangkok</string>
+    <string name="C107">B=Beirūta|Asia/Beirut</string>
+    <string name="C108">K=Kalkāta|Asia/Calcutta</string>
+    <string name="C109">D=Damaska|Asia/Damascus</string>
+    <string name="C11">D=Dāresalāma|Africa/Dar_es_Salaam</string>
+    <string name="C110">D=Daka|Asia/Dhaka</string>
+    <string name="C111">D=Dubaija|Asia/Dubai</string>
+    <string name="C112">G=Gaza|Asia/Gaza</string>
+    <string name="C113">H=Hībrona|Asia/Hebron</string>
+    <string name="C114">H=Hošimina|Asia/Ho_Chi_Minh</string>
+    <string name="C115">H=Honkonga:|Asia/Hong_Kong</string>
+    <string name="C117">D=Džakarta|Asia/Jakarta</string>
+    <string name="C118">J=Jeruzaleme|Asia/Jerusalem</string>
+    <string name="C119">K=Kabula|Asia/Kabul</string>
+    <string name="C12">D=Džibutija|Africa/Djibouti</string>
+    <string name="C120">K=Karāči|Asia/Karachi</string>
+    <string name="C121">K=Katmandu|Asia/Kathmandu</string>
+    <string name="C122">K=Kualalumpura|Asia/Kuala_Lumpur</string>
+    <string name="C123">K=Kuveita|Asia/Kuwait</string>
+    <string name="C124">M=Makau|Asia/Macau</string>
+    <string name="C125">M=Manila|Asia/Manila</string>
+    <string name="C126">M=Maskata|Asia/Muscat</string>
+    <string name="C127">P=Pnompeņa|Asia/Phnom_Penh</string>
+    <string name="C128">P=Phenjana:|Asia/Pyongyang</string>
+    <string name="C13">F=Frītauna|Africa/Freetown</string>
+    <string name="C130">R=Rangūna|Asia/Rangoon</string>
+    <string name="C131">R=Rijāda|Asia/Riyadh</string>
+    <string name="C133">S=Seula|Asia/Seoul</string>
+    <string name="C134">Š=Šanhaja:|Asia/Shanghai</string>
+    <string name="C135">S=Singapūra|Asia/Singapore</string>
+    <string name="C136">T=Taipeja:|Asia/Taipei</string>
+    <string name="C137">T=Teherāna|Asia/Tehran</string>
+    <string name="C138">T=Telaviva|Asia/Tel_Aviv</string>
+    <string name="C139">T=Tokija:|Asia/Tokyo</string>
+    <string name="C14">G=Gaborone|Africa/Gaborone</string>
+    <string name="C140">U=Ulanbatora|Asia/Ulaanbaatar</string>
+    <string name="C141">B=Bermuda|Atlantic/Bermuda</string>
+    <string name="C142">K=Kanāriju salas|Atlantic/Canary</string>
+    <string name="C143">K=Kaboverde|Atlantic/Cape_Verde</string>
+    <string name="C144">R=Reikjavīka|Atlantic/Reykjavik</string>
+    <string name="C145">S=Stenlija|Atlantic/Stanley</string>
+    <string name="C146">A=Adelaida|Australia/Adelaide</string>
+    <string name="C147">B=Brisbena|Australia/Brisbane</string>
+    <string name="C148">K=Kanbera|Australia/Canberra</string>
+    <string name="C149">D=Dārvina|Australia/Darwin</string>
+    <string name="C15">H=Harare|Africa/Harare</string>
+    <string name="C150">M=Melburna|Australia/Melbourne</string>
+    <string name="C151">J=Jaundienvidvelsa|Australia/NSW</string>
+    <string name="C152">P=Pērta|Australia/Perth</string>
+    <string name="C153">K=Kvīnslenda|Australia/Queensland</string>
+    <string name="C154">S=Sidneja|Australia/Sydney</string>
+    <string name="C155">V=Viktorija|Australia/Victoria</string>
+    <string name="C156">Ņ=Ņūfaundlenda|Canada/Newfoundland</string>
+    <string name="C157">S=Saskačevana|Canada/Saskatchewan</string>
+    <string name="C158">L=Lieldienu sala|Chile/EasterIsland</string>
+    <string name="C159">A=Amsterdama|Europe/Amsterdam</string>
+    <string name="C16">J=Johannesburga|Africa/Johannesburg</string>
+    <string name="C160">A=Andora|Europe/Andorra</string>
+    <string name="C161">A=Atēnas|Europe/Athens</string>
+    <string name="C162">B=Belfāsta|Europe/Belfast</string>
+    <string name="C163">B=Belgrada|Europe/Belgrade</string>
+    <string name="C164">B=Berlīne|Europe/Berlin</string>
+    <string name="C165">B=Bratislava|Europe/Bratislava</string>
+    <string name="C166">B=Brisele|Europe/Brussels</string>
+    <string name="C167">B=Bukareste|Europe/Bucharest</string>
+    <string name="C168">B=Budapešta|Europe/Budapest</string>
+    <string name="C169">K=Kišiņeva|Europe/Chisinau</string>
+    <string name="C17">K=Kampala|Africa/Kampala</string>
+    <string name="C170">K=Kopenhāgena|Europe/Copenhagen</string>
+    <string name="C171">D=Dublina|Europe/Dublin</string>
+    <string name="C172">G=Gibraltārs|Europe/Gibraltar</string>
+    <string name="C173">H=Helsinki|Europe/Helsinki</string>
+    <string name="C174">M=Mena|Europe/Isle_of_Man</string>
+    <string name="C175">S=Stambula|Europe/Istanbul</string>
+    <string name="C176">K=Kijeva|Europe/Kiev</string>
+    <string name="C177">L=Lisabona|Europe/Lisbon</string>
+    <string name="C178">L=Londona|Europe/London</string>
+    <string name="C179">L=Luksemburga|Europe/Luxembourg</string>
+    <string name="C18">H=Hartūma|Africa/Khartoum</string>
+    <string name="C180">M=Madride|Europe/Madrid</string>
+    <string name="C181">M=Malta|Europe/Malta</string>
+    <string name="C182">M=Minska|Europe/Minsk</string>
+    <string name="C183">M=Monako|Europe/Monaco</string>
+    <string name="C184">M=Maskava|Europe/Moscow</string>
+    <string name="C185">O=Oslo|Europe/Oslo</string>
+    <string name="C186">P=Parīze|Europe/Paris</string>
+    <string name="C187">P=Prāga|Europe/Prague</string>
+    <string name="C188">R=Rīga|Europe/Riga</string>
+    <string name="C189">R=Roma|Europe/Rome</string>
+    <string name="C19">K=Kigali|Africa/Kigali</string>
+    <string name="C190">S=Sanmarīno|Europe/San_Marino</string>
+    <string name="C191">S=Sarajeva|Europe/Sarajevo</string>
+    <string name="C192">S=Simferopole|Europe/Simferopol</string>
+    <string name="C193">S=Skopje|Europe/Skopje</string>
+    <string name="C194">S=Sofija|Europe/Sofia</string>
+    <string name="C195">S=Stokholma|Europe/Stockholm</string>
+    <string name="C196">T=Tallina|Europe/Tallinn</string>
+    <string name="C197">V=Vatikāns|Europe/Vatican</string>
+    <string name="C198">V=Vīne|Europe/Vienna</string>
+    <string name="C199">V=Viļņa|Europe/Vilnius</string>
+    <string name="C2">A=Akra|Africa/Accra</string>
+    <string name="C20">K=Kinšasa|Africa/Kinshasa</string>
+    <string name="C200">V=Varšava|Europe/Warsaw</string>
+    <string name="C201">Z=Zagreba|Europe/Zagreb</string>
+    <string name="C202">C=Cīrihe|Europe/Zurich</string>
+    <string name="C203">A=Antananarivu|Indian/Antananarivo</string>
+    <string name="C204">M=Maldīvija|Indian/Maldives</string>
+    <string name="C205">M=Maurīcija|Indian/Mauritius</string>
+    <string name="C206">O=Oklenda|Pacific/Auckland</string>
+    <string name="C207">F=Fidži|Pacific/Fiji</string>
+    <string name="C208">G=Guama|Pacific/Guam</string>
+    <string name="C209">H=Honolulu|Pacific/Honolulu</string>
+    <string name="C21">L=Lagosa|Africa/Lagos</string>
+    <string name="C210">K=Kirisimasi|Pacific/Kiritimati</string>
+    <string name="C211">N=Numeja|Pacific/Noumea</string>
+    <string name="C214">A=Antigva|America/Antigua</string>
+    <string name="C215">O=Ostina|America/Chicago</string>
+    <string name="C216">B=Bostona|America/New_York</string>
+    <string name="C217">K=Kalgari|America/Denver</string>
+    <string name="C218">K=Kolumbusa|America/New_York</string>
+    <string name="C219">D=Dalasa|America/Chicago</string>
+    <string name="C22">M=Maseru|Africa/Maseru</string>
+    <string name="C220">N=Noksvila|America/New_York</string>
+    <string name="C221">M=Memfisa|America/Chicago</string>
+    <string name="C222">M=Maiami|America/New_York</string>
+    <string name="C223">M=Mineapolisa|America/Chicago</string>
+    <string name="C224">O=Otava|America/New_York</string>
+    <string name="C225">F=Filadelfija|America/New_York</string>
+    <string name="C226">P=Portlenda|America/Los_Angeles</string>
+    <string name="C227">S=Sandjego|America/Los_Angeles</string>
+    <string name="C228">S=Sanfrancisko|America/Los_Angeles</string>
+    <string name="C229">S=Soltleiksitija|America/Denver</string>
+    <string name="C23">M=Mogadišu|Africa/Mogadishu</string>
+    <string name="C230">S=Sanhosē|America/Los_Angeles</string>
+    <string name="C231">S=Sansalvadora|America/Guatemala</string>
+    <string name="C232">S=Sietla|America/Los_Angeles</string>
+    <string name="C233">S=Sentluisa|America/Chicago</string>
+    <string name="C234">V=Vašingtona|America/New_York</string>
+    <string name="C235">H=Hjūstona|America/Chicago</string>
+    <string name="C236">S=Sanantonio|America/Chicago</string>
+    <string name="C237">D=Džeksonvila|America/New_York</string>
+    <string name="C238">B=Baltimora|America/New_York</string>
+    <string name="C239">N=Nešvila|America/Chicago</string>
+    <string name="C24">N=Nairobi|Africa/Nairobi</string>
+    <string name="C240">M=Milvokī|America/Chicago</string>
+    <string name="C241">O=Oklahoma|America/Chicago</string>
+    <string name="C242">L=Lasvegasa|America/Los_Angeles</string>
+    <string name="C243">A=Albukerke|America/Denver</string>
+    <string name="C244">T=Taksona|MST</string>
+    <string name="C245">S=Sakramento|America/Los_Angeles</string>
+    <string name="C246">A=Atlanta|America/New_York</string>
+    <string name="C247">K=Klīvlenda|America/New_York</string>
+    <string name="C248">Ņ=Ņūorleāna|America/Chicago</string>
+    <string name="C249">T=Tampa|America/New_York</string>
+    <string name="C25">S=Santome|Africa/Sao_Tome</string>
+    <string name="C250">P=Pitsburga|America/New_York</string>
+    <string name="C251">S=Sinsinati|America/New_York</string>
+    <string name="C252">M=Mauntinvjū|America/Los_Angeles</string>
+    <string name="C253">R=Rīno|America/Los_Angeles</string>
+    <string name="C254">B=Blekroka|America/Los_Angeles</string>
+    <string name="C255">D=Doha|Asia/Riyadh</string>
+    <string name="C256">P=Pekina:|Asia/Shanghai</string>
+    <string name="C257">M=Mumbaja|Asia/Kolkata</string>
+    <string name="C258">D=Deli|Asia/Kolkata</string>
+    <string name="C259">O=Osaka:|Asia/Tokyo</string>
+    <string name="C26">T=Timbuktu|Africa/Timbuktu</string>
+    <string name="C260">L=Lahora|Asia/Karachi</string>
+    <string name="C261">S=Sana|Asia/Riyadh</string>
+    <string name="C262">B=Barselona|Europe/Madrid</string>
+    <string name="C263">M=Minhene|Europe/Berlin</string>
+    <string name="C264">M=Milāna|Europe/Rome</string>
+    <string name="C265">F=Frankfurte|Europe/Berlin</string>
+    <string name="C266">H=Hanoja|Asia/Bangkok</string>
+    <string name="C267">A=Ankara|Europe/Istanbul</string>
+    <string name="C268">B=Bangalora|Asia/Kolkata</string>
+    <string name="C269">B=Brazilja|America/Sao_Paulo</string>
+    <string name="C27">T=Tripole|Africa/Tripoli</string>
+    <string name="C270">K=Keiptauna|Africa/Johannesburg</string>
+    <string name="C271">I=Islāmābāda|Asia/Karachi</string>
+    <string name="C272">R=Riodežaneiro|America/Sao_Paulo</string>
+    <string name="C273">E=Enārbora|America/Detroit</string>
+    <string name="C274">B=Boldera|America/Denver</string>
+    <string name="C275">K=Kembridža|America/New_York</string>
+    <string name="C276">K=Kērklenda|America/Los_Angeles</string>
+    <string name="C277">M=Medisona|America/Chicago</string>
+    <string name="C278">G=Guangžou:|Asia/Shanghai</string>
+    <string name="C279">H=Haidarabada|Asia/Kolkata</string>
+    <string name="C28">T=Tunisa|Africa/Tunis</string>
+    <string name="C280">R=Restona|America/New_York</string>
+    <string name="C281">B=Belo Orizonte|America/Sao_Paulo</string>
+    <string name="C282">S=Santjago|America/Santiago</string>
+    <string name="C283">M=Monrovija|Africa/Monrovia</string>
+    <string name="C284">K=Kolombo|Asia/Colombo</string>
+    <string name="C285">Č=Čivava|America/Chihuahua</string>
+    <string name="C286">S=Salvadora|America/Sao_Paulo</string>
+    <string name="C287">G=Gurgāona|Asia/Kolkata</string>
+    <string name="C288">M=Mančestera|Europe/London</string>
+    <string name="C29">A=Ankurāža|America/Anchorage</string>
+    <string name="C290">S=Sanktpēterburga|Europe/Moscow</string>
+    <string name="C291">K=Krakova|Europe/Warsaw</string>
+    <string name="C292">V=Vroclava|Europe/Warsaw</string>
+    <string name="C293">H=Hamburga|Europe/Berlin</string>
+    <string name="C294">O=Oulu|Europe/Bucharest</string>
+    <string name="C295">H=Haifa|Asia/Jerusalem</string>
+    <string name="C296">S=Sanhuana|America/Puerto_Rico</string>
+    <string name="C297">T=Tegusigalpa|America/Tegucigalpa</string>
+    <string name="C298">P=Paramaribo|America/Paramaribo</string>
+    <string name="C299">K=Kito|America/Panama</string>
+    <string name="C3">A=Adisabeba|Africa/Addis_Ababa</string>
+    <string name="C300">Ļ=Ļubļana|Europe/Ljubljana</string>
+    <string name="C301">A=Ašgabata|Asia/Ashgabat</string>
+    <string name="C302">A=Asmāra|Africa/Asmara</string>
+    <string name="C303">B=Bandarseribegavana|Asia/Brunei</string>
+    <string name="C304">B=Bangi|Africa/Bangui</string>
+    <string name="C305">B=Bandžula|Africa/Banjul</string>
+    <string name="C306">B=Biškeka|Asia/Bishkek</string>
+    <string name="C307">B=Bisau|Africa/Bissau</string>
+    <string name="C308">B=Bužumbura|Africa/Bujumbura</string>
+    <string name="C309">D=Dili|Asia/Dili</string>
+    <string name="C31">A=Aruba|America/Aruba</string>
+    <string name="C310">D=Dušanbe|Asia/Dushanbe</string>
+    <string name="C311">F=Funafuti|Pacific/Funafuti</string>
+    <string name="C312">H=Honiara|Pacific/Guadalcanal</string>
+    <string name="C313">D=Džūba|Africa/Juba</string>
+    <string name="C314">K=Kingstauna|America/St_Vincent</string>
+    <string name="C315">L=Librevila|Africa/Libreville</string>
+    <string name="C316">L=Lome|Africa/Lome</string>
+    <string name="C317">L=Luanda|Africa/Luanda</string>
+    <string name="C318">L=Lusaka|Africa/Lusaka</string>
+    <string name="C319">M=Madžuro|Pacific/Majuro</string>
+    <string name="C32">A=Asunsjona|America/Asuncion</string>
+    <string name="C320">M=Malabo|Africa/Malabo</string>
+    <string name="C321">M=Maputu|Africa/Maputo</string>
+    <string name="C322">M=Mbabane|Africa/Mbabane</string>
+    <string name="C323">M=Moroni|Indian/Comoro</string>
+    <string name="C324">N=Ndžamena|Africa/Ndjamena</string>
+    <string name="C325">N=Ngerulmuda|Pacific/Palau</string>
+    <string name="C326">N=Niameja|Africa/Niamey</string>
+    <string name="C327">N=Nikozija|Europe/Nicosia</string>
+    <string name="C328">N=Nuakšota|Africa/Nouakchott</string>
+    <string name="C329">N=Nukualofa|Pacific/Tongatapu</string>
+    <string name="C33">B=Barbadosa|America/Barbados</string>
+    <string name="C330">V=Vagadugu|Africa/Ouagadougou</string>
+    <string name="C331">P=Palikira|Pacific/Noumea</string>
+    <string name="C332">F=Filipsburga|America/Lower_Princes</string>
+    <string name="C333">P=Podgorica|Europe/Podgorica</string>
+    <string name="C334">P=Portmorsbi|Pacific/Palau</string>
+    <string name="C335">V=Vila|Pacific/Efate</string>
+    <string name="C336">P=Portonovo|Africa/Porto-Novo</string>
+    <string name="C337">P=Priština|Europe/Belgrade</string>
+    <string name="C338">R=Rozo|America/Dominica</string>
+    <string name="C339">T=Taškenta|Asia/Tashkent</string>
+    <string name="C34">B=Beliza|America/Belize</string>
+    <string name="C340">T=Tbilisi|Asia/Tbilisi</string>
+    <string name="C341">T=Thimphu|Asia/Thimphu</string>
+    <string name="C342">T=Tirāna|Europe/Tirane</string>
+    <string name="C343">V=Vaduca|Europe/Vaduz</string>
+    <string name="C344">V=Vjenčana|Asia/Vientiane</string>
+    <string name="C345">V=Vindhuka|Africa/Windhoek</string>
+    <string name="C346">J=Jaunde|Africa/Douala</string>
+    <string name="C347">J=Jarenas apgabals|Pacific/Nauru</string>
+    <string name="C348">E=Erevāna|Asia/Yerevan</string>
+    <string name="C35">B=Bogota|America/Bogota</string>
+    <string name="C36">B=Buenosairesa|America/Buenos_Aires</string>
+    <string name="C37">K=Kankūna|America/Cancun</string>
+    <string name="C38">K=Karakasa|America/Caracas</string>
+    <string name="C39">K=Kaimanu Salas|America/Cayman</string>
+    <string name="C4">A=Alžīra|Africa/Algiers</string>
+    <string name="C40">Č=Čikāga|America/Chicago</string>
+    <string name="C42">K=Kirasao|America/Curacao</string>
+    <string name="C43">D=Dousonkrīka|America/Dawson_Creek</string>
+    <string name="C44">D=Denvera|America/Denver</string>
+    <string name="C45">D=Detroita|America/Detroit</string>
+    <string name="C46">D=Dominika|America/Dominica</string>
+    <string name="C47">E=Edmontona|America/Edmonton</string>
+    <string name="C48">S=Salvadora|America/El_Salvador</string>
+    <string name="C49">F=Fortaleza|America/Fortaleza</string>
+    <string name="C5">B=Blantaira|Africa/Blantyre</string>
+    <string name="C50">G=Grandtkērka|America/Grand_Turk</string>
+    <string name="C51">G=Grenāda|America/Grenada</string>
+    <string name="C52">G=Gvatemala|America/Guatemala</string>
+    <string name="C53">G=Gajāna|America/Guyana</string>
+    <string name="C54">H=Helifeksa|America/Halifax</string>
+    <string name="C55">H=Havana|America/Havana</string>
+    <string name="C56">I=Indianapolisa|America/Indiana/Indianapolis</string>
+    <string name="C57">N=Noksa|America/Indiana/Knox</string>
+    <string name="C58">M=Marengo|America/Indiana/Marengo</string>
+    <string name="C59">P=Pītersbērga|America/Indiana/Petersburg</string>
+    <string name="C6">B=Brazavila|Africa/Brazzaville</string>
+    <string name="C60">T=Telsitija|America/Indiana/Tell_City</string>
+    <string name="C61">V=Vevaja|America/Indiana/Vevay</string>
+    <string name="C62">V=Vinsensa|America/Indiana/Vincennes</string>
+    <string name="C63">V=Vinamaka|America/Indiana/Winamac</string>
+    <string name="C64">K=Kingstona|America/Jamaica</string>
+    <string name="C65">L=Lapasa|America/La_Paz</string>
+    <string name="C66">L=Lima|America/Lima</string>
+    <string name="C67">L=Losandželosa|America/Los_Angeles</string>
+    <string name="C68">L=Luisvila|America/Louisville</string>
+    <string name="C69">M=Managva|America/Managua</string>
+    <string name="C7">K=Kaira|Africa/Cairo</string>
+    <string name="C70">M=Martinika|America/Martinique</string>
+    <string name="C71">M=Mendosa|America/Mendoza</string>
+    <string name="C72">M=Metlakatla|America/Metlakatla</string>
+    <string name="C73">M=Mehiko|America/Mexico_City</string>
+    <string name="C74">M=Montereja|America/Monterrey</string>
+    <string name="C75">M=Montevideo|America/Montevideo</string>
+    <string name="C76">M=Monreāla|America/Montreal</string>
+    <string name="C77">N=Nasava|America/Nassau</string>
+    <string name="C78">Ņ=Ņujorka|America/New_York</string>
+    <string name="C79">B=Bjula|America/North_Dakota/Beulah</string>
+    <string name="C8">K=Kasablanka|Africa/Casablanca</string>
+    <string name="C80">S=Sentera|America/North_Dakota/Center</string>
+    <string name="C81">Ņ=Ņūseilema|America/North_Dakota/New_Salem</string>
+    <string name="C82">P=Panama|America/Panama</string>
+    <string name="C83">F=Fīniksa|America/Phoenix</string>
+    <string name="C84">P=Portofspeina|America/Port_of_Spain</string>
+    <string name="C85">P=Portoprinsa|America/Port-au-Prince</string>
+    <string name="C86">P=Puertoriko|America/Puerto_Rico</string>
+    <string name="C87">S=Santodomingo|America/Santo_Domingo</string>
+    <string name="C88">S=Sanpaulu|America/Sao_Paulo</string>
+    <string name="C89">S=Sentdžonsa|America/St_Johns</string>
+    <string name="C9">K=Konakri|Africa/Conakry</string>
+    <string name="C90">S=Sentkitsa|America/St_Kitts</string>
+    <string name="C91">S=Sentlūsija|America/St_Lucia</string>
+    <string name="C92">S=Senttomasa|America/St_Thomas</string>
+    <string name="C93">T=Tihuana|America/Tijuana</string>
+    <string name="C94">T=Toronto|America/Toronto</string>
+    <string name="C95">V=Vankūvera|America/Vancouver</string>
+    <string name="C96">V=Vinipega|America/Winnipeg</string>
+    <string name="C97">D=Dienvidpols:|Antarctica/South_Pole</string>
+    <string name="C98">L=Longjērbīene|Arctic/Longyearbyen</string>
+    <string name="C99">A=Almati|Asia/Almaty</string>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_action_bar_up_description">Pārvietoties augšup</string>
+    <string name="abc_action_menu_overflow_description">Vairāk opciju</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_capital_off">IZSLĒGTS</string>
+    <string name="abc_capital_on">IESLĒGTS</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēšana ar balsi</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar %s</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="add_new_sound">Pievienot jaunu</string>
+    <string name="alarm_alert_dismiss_text">Noraidīt</string>
+    <string name="alarm_alert_off_text">Izslēgts</string>
+    <string name="alarm_alert_predismiss_title">Gaidāms signāls</string>
+    <string name="alarm_alert_snooze_text">Snauda</string>
+    <string name="alarm_alert_snooze_until">Atlikts līdz: %s</string>
+    <string name="alarm_alert_snoozed_text">Atlikts</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">Signālu plkst. %s vēl nevar atcelt. Līdz tam ir vairāk nekā 24 stundas.</string>
+    <string name="alarm_deleted">Signāls ir izdzēsts</string>
+    <string name="alarm_is_dismissed">Signāls plkst. %s atcelts</string>
+    <string name="alarm_is_set">Signāls iestatīts uz plkst. %s</string>
+    <string name="alarm_is_snoozed">Signāls plkst. %1$s atlikts uz: %2$s</string>
+    <string name="alarm_missed_text">%1$s — %2$s</string>
+    <string name="alarm_missed_title">Signāls tika nokavēts.</string>
+    <string name="alarm_repeat">Atkārtošana</string>
+    <string name="alarm_service_desc">Apstrādā darbības no signālu paziņojumiem.</string>
+    <string name="alarm_settings">Signāli</string>
+    <string name="alarm_sound">Signāla skaņa</string>
+    <string name="alarm_today">Šodien</string>
+    <string name="alarm_tomorrow">Rīt</string>
+    <string name="alarm_undo">atsaukt</string>
+    <string name="alarm_vibrate">Vibrozvans</string>
+    <string name="alarm_volume_muted">Noņemta skaņa</string>
+    <string name="alarm_volume_title">Signāla skaļums</string>
+    <string name="alarms_blocked_by_dnd">Ierīcē ir iestatīts pilnīga klusuma režīms</string>
+    <string name="all_timers_stopped_notif">Pieskarieties, lai skatītu iestatītos taimerus.</string>
+    <string name="analog_gadget">Analogais pulkstenis</string>
+    <string name="app_label">Pulkstenis</string>
+    <string name="app_notifications_blocked">Pulksteņa paziņojumi ir bloķēti</string>
+    <string name="auto_silence_never">Nekad</string>
+    <string name="auto_silence_title">Izslēgt skaņu pēc:</string>
+    <string name="automatic_home_clock">Rādīt dzīvesvietas laiku</string>
+    <string name="automatic_home_clock_summary">Ceļojot teritorijā, kurā ir atšķirīgs laiks, pievienot mājas laiku</string>
+    <string name="button_alarms">Pievienot signālu</string>
+    <string name="button_cities">Pilsētas</string>
+    <string name="change_setting_action">Mainīt</string>
+    <string name="cities_activity_title">Pilsētas</string>
+    <string name="city_checked">Pilsēta %s ir atzīmēta</string>
+    <string name="city_unchecked">Pilsētas %s atzīme ir noņemta</string>
+    <string name="clock_settings">Pulkstenis</string>
+    <string name="clock_style">Stils</string>
+    <string name="collapse_alarm">Sakļaušanas signāls</string>
+    <string name="common_google_play_services_enable_button">Iespējot</string>
+    <string name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string name="common_google_play_services_install_button">Instalēt</string>
+    <string name="common_google_play_services_install_text">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
+    <string name="common_google_play_services_update_button">Atjaunināt</string>
+    <string name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, jums ir jāatjaunina Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="common_signin_button_text">Pierakstīties</string>
+    <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
+    <string name="confirm_remove_custom_ringtone">Signāliem un taimeriem, kuriem tika izmantots šis zvana signāls, tā vietā tiks atskaņots noklusējuma signāls.</string>
+    <string name="crescendo_duration_title">Pakāpeniski palielināt skaļumu</string>
+    <string name="custom_ringtone_lost_permissions">Skaņas saturam nevar piekļūt.</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">Signāla noklusējuma skaņa</string>
+    <string name="default_label">Signāls</string>
+    <string name="default_timer_ringtone_title">Taimera laiks ir beidzies</string>
+    <string name="delete">Dzēst</string>
+    <string name="description_direction_both">Velciet pa kreisi, lai atliktu, vai pa labi, lai noraidītu</string>
+    <string name="description_direction_left">Lai atliktu, velciet pa kreisi</string>
+    <string name="description_direction_right">Lai nerādītu, velciet pa labi</string>
+    <string name="device_sounds">Ierīces skaņas</string>
+    <string name="digital_gadget">Digitālais pulkstenis</string>
+    <string name="dismiss_alarm">Noraidīt signālu</string>
+    <string name="display_clock_seconds_pref">Laika attēlojums sekundēs</string>
+    <string name="every_day">Katru dienu</string>
+    <string name="expand_alarm">Izvēršanas signāls</string>
+    <string name="home_label">Sākums</string>
+    <string name="home_time_zone">Dzīvesvietas laika josla</string>
+    <string name="home_time_zone_title">Dzīvesvietas laika josla</string>
+    <string name="hours_label">h</string>
+    <string name="hours_minutes_seconds">%1$d:%2$02d:%3$02d</string>
+    <string name="index_name">signāli, taimeri un hronometra dati</string>
+    <string name="invalid_time">Nederīgs laiks: %1$d:%2$d %3$s</string>
+    <string name="invalid_timer_length">Nederīgs taimera darbības ilgums</string>
+    <string name="label">Iezīme</string>
+    <string name="label_description">Iezīme</string>
+    <string name="lap_number_double_digit">%02d.</string>
+    <string name="lap_number_single_digit">%d.</string>
+    <string name="loading_widget">Notiek ielāde…</string>
+    <string name="menu_alarm">Signāls</string>
+    <string name="menu_clock">Pulkstenis</string>
+    <string name="menu_item_feedback">Sūtīt atsauksmes</string>
+    <string name="menu_item_help">Palīdzība</string>
+    <string name="menu_item_night_mode">Ekrānsaudzētājs</string>
+    <string name="menu_item_settings">Iestatījumi</string>
+    <string name="menu_item_sort_by_gmt_offset">Kārtot pēc laika</string>
+    <string name="menu_item_sort_by_name">Kārtot pēc nosaukuma</string>
+    <string name="menu_stopwatch">Hronometrs</string>
+    <string name="menu_timer">Taimeris</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_seconds">%1$d:%2$02d</string>
+    <string name="missed_alarms_channel_name">Nokavētie signāli</string>
+    <string name="missed_named_timer_notification_label">Nokavēts taimeris: %s</string>
+    <string name="missed_timer_notification_label">Nokavēts taimeris</string>
+    <string name="next_alarm_description">Nākamais signāls: %s</string>
+    <string name="next_timer_notif">Nākamais taimeris: %s</string>
+    <string name="night_mode_summary">Ļoti aptumšots displejs (tumšās telpās)</string>
+    <string name="night_mode_title">Nakts režīms</string>
+    <string name="no_alarm_at">Uz laiku %1$d:%2$d nav iestatīts neviens signāls.</string>
+    <string name="no_alarm_scheduled_for_this_time">Uz šo laiku nav iestatīts neviens signāls.</string>
+    <string name="no_alarms">Bez signāla</string>
+    <string name="no_alarms_with_label">Apzīmējums nav piešķirts nevienam signālam.</string>
+    <string name="no_firing_alarms">Nav aktīvu signālu.</string>
+    <string name="no_label_specified">Nav norādīts neviens apzīmējums.</string>
+    <string name="no_scheduled_alarms">Nav iestatītu signālu.</string>
+    <string name="open_date_settings">Mainīt datumu un laiku</string>
+    <string name="pick_alarm_to_dismiss">Izvēlieties, kuru signālu atcelt.</string>
+    <string name="remove_sound">Noņemt</string>
+    <string name="ringtone_description">Zvana signāls</string>
+    <string name="screensaver_settings">Ekrānsaudzētāja iestatījumi</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">Atlasītās pilsētas</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="shortcut_new_alarm_long">Izveidot jaunu signālu</string>
+    <string name="shortcut_new_alarm_short">Signāls</string>
+    <string name="shortcut_new_timer_long">Izveidot jaunu taimeri</string>
+    <string name="shortcut_new_timer_short">Taimeris</string>
+    <string name="shortcut_pause_stopwatch_long">Apturēt hronometru</string>
+    <string name="shortcut_pause_stopwatch_short">Pauzēt</string>
+    <string name="shortcut_start_screensaver_long">Ieslēgt ekrānsaudzētāju</string>
+    <string name="shortcut_start_screensaver_short">Ekr.saudz.</string>
+    <string name="shortcut_start_stopwatch_long">Ieslēgt hronometru</string>
+    <string name="shortcut_start_stopwatch_short">Ieslēgt</string>
+    <string name="silent_default_alarm_ringtone">Modinātāja noklusējuma signāls ir klusums.</string>
+    <string name="silent_ringtone_title">Klusums</string>
+    <string name="snooze_duration_title">Snaudas ilgums</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stopwatch_channel_name">Hronometrs</string>
+    <string name="stopwatch_service_desc">Apstrādā darbības no hronometra paziņojumiem.</string>
+    <string name="sw_lap_button">Aplis</string>
+    <string name="sw_notification_lap_number">%d. aplis</string>
+    <string name="sw_pause_button">Pārtraukt</string>
+    <string name="sw_reset_button">Atiestatīt</string>
+    <string name="sw_resume_button">Atsākt</string>
+    <string name="sw_share_button">Kopīgot</string>
+    <string name="sw_share_laps">Intervāla laiki:</string>
+    <string name="sw_share_main">Mans laiks ir: %s</string>
+    <string name="sw_start_button">Sākt</string>
+    <string name="swn_paused">Pārtraukts</string>
+    <string name="timer_accessibility_one_minute_added">Taimerim pievienota viena minūte, %1$s</string>
+    <string name="timer_accessibility_started">Taimeris darbojas, %1$s</string>
+    <string name="timer_accessibility_stopped">Taimeris apturēts, %1$s</string>
+    <string name="timer_add_minute">+ 1:00</string>
+    <string name="timer_add_timer">Pievienot taimeri</string>
+    <string name="timer_cancel">Atcelt</string>
+    <string name="timer_canceled">Taimera iestatīšana ir atcelta</string>
+    <string name="timer_created">Taimeris iestatīts</string>
+    <string name="timer_delete">Dzēst</string>
+    <string name="timer_deleted">Taimeris ir izdzēsts.</string>
+    <string name="timer_descriptive_delete">Dzēst %s</string>
+    <string name="timer_multi_missed">%d nokavēti taimeri</string>
+    <string name="timer_multi_times_up">%d taimeru termiņš beidzies</string>
+    <string name="timer_notification_label">Taimeris</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s %3$s</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">%1$s %4$s %3$s</string>
+    <string name="timer_notifications_less_min">Atlikušais laiks: mazāk par minūti</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">%2$s %4$s %3$s</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">Apturēt</string>
+    <string name="timer_paused">Taimeris apturēts</string>
+    <string name="timer_plus_1_min">Pievienot 1 minūti</string>
+    <string name="timer_plus_one">Pievienot 1 minūti</string>
+    <string name="timer_remaining_multiple">atlikušas</string>
+    <string name="timer_remaining_single">atlikusi</string>
+    <string name="timer_reset">Atiestatīt</string>
+    <string name="timer_reset_all">Atiest. taimerus</string>
+    <string name="timer_service_desc">Apstrādā darbības no taimera paziņojumiem.</string>
+    <string name="timer_settings">Taimeri</string>
+    <string name="timer_setup_description">%1$s, %2$s, %3$s</string>
+    <string name="timer_sound">Taimera skaņa</string>
+    <string name="timer_start">Sākt</string>
+    <string name="timer_stop">Apturēt</string>
+    <string name="timer_stop_all">Apturēt visus taimerus</string>
+    <string name="timer_times_up">Laiks ir beidzies!</string>
+    <string name="timer_vibrate_title">Taimera vibrācija</string>
+    <string name="timers_channel_name">Taimeri</string>
+    <string name="timers_in_use">%d taimeri</string>
+    <string name="timers_stopped">Apturēti %d taimeri</string>
+    <string name="unknown_ringtone_title">Nezināms</string>
+    <string name="unmute_alarm_volume">Ieslēgt skaņu</string>
+    <string name="upcoming_alarms_channel_name">Gaidāmie signāli</string>
+    <string name="volume_button_setting_title">Skaļuma pogas</string>
+    <string name="week_start_title">Noteikt nedēļas sākumu no šīs dienas:</string>
+    <string name="world_day_of_week_label">/%s</string>
+    <string name="world_hours_minutes_ahead">%1$s %2$s uz priekšu</string>
+    <string name="world_hours_minutes_behind">%1$s %2$s atpakaļ</string>
+    <string name="world_hours_tomorrow">Rīt plkst. %1$s</string>
+    <string name="world_hours_yesterday">Vakar plkst. %1$s</string>
+    <string name="world_time_ahead">%1$s uz priekšu</string>
+    <string name="world_time_behind">%1$s atpakaļ</string>
+    <string name="world_tomorrow">Rīt</string>
+    <string name="world_yesterday">Vakar</string>
+    <string name="your_sounds">Jūsu skaņas</string>
+</resources>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="app_has_in_app_purchases">Mua hàng trong ứng dụng</string>
+    <string name="app_has_permissions">Quyền: %s</string>
+    <string name="app_has_runtime_permissions">Ứng dụng sẽ yêu cầu quyền</string>
+    <string name="app_picker_app_already_installed_toast">Ứng dụng này đã được cài đặt</string>
+    <string name="app_picker_loading">Đang tìm ứng dụng có sẵn...</string>
+    <string name="app_picker_loading_toast">Ứng dụng có sẵn sẽ tải ngay</string>
+    <string name="app_picker_no_apps">Chưa chọn ứng dụng nào</string>
+    <string name="app_picker_no_apps_found">Không tìm thấy ứng dụng nào</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Các nội dung mua trong ứng dụng sẽ không được chuyển sang ^1 của bạn.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Một số nội dung mua trong ứng dụng có thể không được chuyển sang ^1 của bạn.</string>
+    <string name="apps_permissions_described_v2">"Chỉ có thể khớp những ứng dụng iOS® phổ biến, miễn phí với các ứng dụng Android. Hầu hết nội dung mua hàng trong ứng dụng sẽ không chuyển sang. Bạn có thể tìm thêm ứng dụng trong Cửa hàng Play sau khi thiết lập hoàn tất.
+
+Bạn có thể cần cấp quyền trước cho một số ứng dụng để truy cập các tính năng hoặc thông tin cụ thể trên thiết bị của mình. Quyền được sắp xếp thành các nhóm quyền. Khi chọn cài đặt các ứng dụng này, bạn chấp nhận các quyền là một phần của từng nhóm. Mô tả về từng nhóm quyền được cung cấp bên dưới.
+
+Một số ứng dụng có thể không cần chấp nhận quyền trước. Khi sử dụng một trong các ứng dụng này, bạn có thể cho phép hoặc từ chối từng quyền trước khi ứng dụng sử dụng loại dữ liệu đó.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Bằng cách cài đặt từng ứng dụng, bạn đồng ý với các quyền của ứng dụng đó. <annotation id="apps_permissions_learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="auto_restore_summary">Khi cài đặt lại một ứng dụng, khôi phục dữ liệu và cài đặt đã sao lưu</string>
+    <string name="auto_restore_title">Tự động khôi phục</string>
+    <string name="backup_configure_account_default_summary">Hiện không có tài khoản nào lưu trữ dữ liệu được sao lưu</string>
+    <string name="backup_configure_account_title">Tài khoản sao lưu</string>
+    <string name="backup_data_summary">Sao lưu dữ liệu ứng dụng, mật khẩu Wi-Fi và các cài đặt khác vào Google Drive</string>
+    <string name="backup_data_summary_full">"Tự động sao lưu từ xa dữ liệu của thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) cũng như dữ liệu ứng dụng (chẳng hạn như các cài đặt và các tệp được ứng dụng lưu trữ).
+
+Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và thiết bị được lưu từ xa theo định kỳ. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa trên cài đặt của nhà phát triển), bao gồm dữ liệu nhạy cảm có thể có như danh bạ, tin nhắn và ảnh."</string>
+    <string name="backup_data_title">Sao lưu vào Google Drive</string>
+    <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu Wi-Fi, dấu trang, các cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Dừng sao lưu dữ liệu thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) và dữ liệu ứng dụng (chẳng hạn như cài đặt và tệp được ứng dụng lưu trữ), đồng thời xóa tất cả các bản sao trên Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Đã xảy ra lỗi khi mở cài đặt ảnh</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Khi bạn bật sao lưu tự động:
+
+ ● Cài đặt thiết bị và dữ liệu ứng dụng được lưu định kỳ vào thư mục riêng tư trong Google Drive. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa vào cài đặt của nhà phát triển), bao gồm dữ liệu có thể nhạy cảm như danh bạ, tin nhắn và ảnh.
+
+ Các tệp lớn hoặc các tệp mà nhà phát triển chọn để loại trừ khỏi dịch vụ, sẽ không được sao lưu.
+
+ ● Ảnh và bản ghi video từ thiết bị này được đồng bộ hóa với thư viện Google Photos của bạn để tìm kiếm, chỉnh sửa, xóa và chia sẻ từ mọi thiết bị.
+
+ Theo mặc định, ảnh và video có độ phân giải đầy đủ được tải lên. Nội dung này không được tính vào hạn mức bộ nhớ Drive của bạn.
+
+ ● Danh bạ và dữ liệu được liên kết từ thiết bị này được đồng bộ hóa với Danh bạ Google. Bạn có thể sử dụng ứng dụng Danh bạ Google để tìm kiếm, chỉnh sửa, xóa và chia sẻ danh bạ từ mọi thiết bị.
+
+ ● Mục nhập lịch và dữ liệu được liên kết từ thiết bị này được đồng bộ hóa với Lịch Google. Bạn có thể sử dụng ứng dụng Lịch Google để tìm kiếm, chỉnh sửa và chia sẻ danh bạ từ mọi thiết bị.
+
+ Dữ liệu sao lưu sẽ không được tính vào hạn mức bộ nhớ Drive của bạn."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Khi bạn bật tính năng sao lưu tự động:
+
+ ● Cài đặt thiết bị và dữ liệu ứng dụng được lưu định kỳ vào thư mục riêng tư trong Google Drive. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa vào cài đặt của nhà phát triển), bao gồm dữ liệu có thể nhạy cảm như danh bạ, tin nhắn và ảnh.
+
+ Các tệp lớn hoặc các tệp mà nhà phát triển chọn để loại trừ khỏi dịch vụ, sẽ không được sao lưu.
+
+ ● Danh bạ và dữ liệu được liên kết từ thiết bị này sẽ được đồng bộ hóa với Danh bạ Google. Bạn có thể sử dụng ứng dụng Danh bạ Google để tìm kiếm, chỉnh sửa, xóa và chia sẻ danh bạ từ mọi thiết bị.
+
+ ● Mục nhập lịch và dữ liệu được liên kết từ thiết bị này được đồng bộ hóa với Lịch Google. Bạn có thể sử dụng ứng dụng Lịch Google để tìm kiếm, chỉnh sửa và chia sẻ danh bạ từ mọi thiết bị.
+
+ Dữ liệu sao lưu sẽ không được tính vào hạn mức bộ nhớ Drive của bạn."</string>
+    <string name="backup_opt_in_backup_description_extra">Lịch, danh bạ, ảnh và video được đồng bộ hóa với Tài khoản Google của bạn và có thể được sử dụng trên các dịch vụ.</string>
+    <string name="backup_opt_in_backup_description_v2">Tính năng tự động sao lưu đảm bảo bạn có thể dễ dàng khôi phục hoặc chuyển đổi điện thoại bất cứ lúc nào. <annotation id="backup_opt_in_learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Thao tác này sẽ tắt sao lưu cho:
+
+Ứng dụng và dữ liệu ứng dụng
+Nhật ký cuộc gọi
+Cài đặt thiết bị
+Ảnh và video
+SMS
+
+Lịch và danh bạ sẽ tiếp tục đồng bộ hóa với Tài khoản Google của bạn. Khi thiết lập hoàn tất, bạn có thể thay đổi cài đặt đồng bộ hóa bằng cách chuyển tới "<annotation id="backup_opt_in_settings_instructions">Cài đặt > Tài khoản > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Tắt sao lưu?</string>
+    <string name="backup_opt_in_backup_list">"Ứng dụng và dữ liệu ứng dụng
+Lịch
+Lịch sử cuộc gọi
+Danh bạ
+Cài đặt thiết bị (bao gồm mật khẩu Wi-Fi)
+Ảnh và video
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Bản sao lưu bao gồm:</string>
+    <string name="backup_opt_in_backup_title">Sao lưu vào Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Tắt sao lưu</string>
+    <string name="backup_photos_update">Vui lòng cập nhật Google Photos</string>
+    <string name="backup_settings_activity_backup_title">Sao lưu</string>
+    <string name="backup_settings_activity_title">Sao lưu và đặt lại</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Không sao chép</string>
+    <string name="close_button_label">Đóng</string>
+    <string name="cloud_restore_app_picker_button">Khôi phục</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Sao lưu của bạn không có bất kỳ ứng dụng nào</string>
+    <string name="cloud_restore_app_picker_title">Chọn ứng dụng để khôi phục</string>
+    <string name="common_accept">Chấp nhận</string>
+    <string name="common_add_account_label">Thêm tài khoản</string>
+    <string name="common_ads_settings_title">Quảng cáo</string>
+    <string name="common_agree">Đồng ý</string>
+    <string name="common_app_name">Dịch vụ của Google Play</string>
+    <string name="common_asm_preferences_settings_title">Tùy chọn tài khoản</string>
+    <string name="common_asm_privacy_settings_title">Thông tin cá nhân và bảo mật</string>
+    <string name="common_asm_security_settings_title">Đăng nhập và bảo mật</string>
+    <string name="common_audience_edit_button_label">Chỉnh sửa</string>
+    <string name="common_cancel">Hủy</string>
+    <string name="common_cannot_start_hangouts_security_exception">Không thể bắt đầu Hangouts (lỗi quyền).</string>
+    <string name="common_car_permission_desc">Truy cập vào dịch vụ xe hơi.</string>
+    <string name="common_car_permission_label">Dịch vụ xe hơi</string>
+    <string name="common_chips_label_empty_circles">Không có vòng kết nối</string>
+    <string name="common_chips_label_extended_circles">Vòng kết nối mở rộng</string>
+    <string name="common_chips_label_only_you">Chỉ bạn</string>
+    <string name="common_chips_label_public">Công khai</string>
+    <string name="common_chips_label_your_circles">Vòng kết nối của bạn</string>
+    <string name="common_choose_account_label">Chọn tài khoản</string>
+    <string name="common_clear_app_data_menu_item">Xóa dữ liệu ứng dụng</string>
+    <string name="common_connected">Đã kết nối</string>
+    <string name="common_connected_apps_settings_title">Ứng dụng đã kết nối</string>
+    <string name="common_connecting">Đang kết nối…</string>
+    <string name="common_continue">Tiếp tục</string>
+    <string name="common_disagree">Không đồng ý</string>
+    <string name="common_disconnect">Ngắt kết nối</string>
+    <string name="common_done">Xong</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Từ:</string>
+    <string name="common_games_settings_title">Chơi trò chơi</string>
+    <string name="common_get_started">Bắt đầu</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Bật</string>
+    <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Lỗi</string>
+    <string name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string name="common_google_play_services_update_button">Cập nhật</string>
+    <string name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_updating_title">Dịch vụ của Google Play đang cập nhật</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Đã cài đặt Dịch vụ của Google Play với cấu ​​trúc sai.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Dịch vụ của Google Play đã được cài đặt với một cấu ​​trúc (%1$s) khác với cấu ​​trúc trên thiết bị của bạn (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Cấu trúc sai</string>
+    <string name="common_google_settings">Cài đặt Google</string>
+    <string name="common_google_settings_account">Tài khoản</string>
+    <string name="common_google_settings_credentials_title">Smart Lock cho mật khẩu</string>
+    <string name="common_google_settings_developer">Nhà phát triển</string>
+    <string name="common_google_settings_services">Dịch vụ</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Cài đặt</string>
+    <string name="common_learn_more">Tìm hiểu thêm</string>
+    <string name="common_list_apps_menu_help">Trợ giúp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Trợ giúp và phản hồi</string>
+    <string name="common_loading">Đang tải...</string>
+    <string name="common_location_settings_title">Vị trí</string>
+    <string name="common_magictether_settings_title">Chia sẻ kết nối tức thì</string>
+    <string name="common_maps_settings_title">Maps và Latitude</string>
+    <string name="common_mdm_feature_name">Quản lý thiết bị Android</string>
+    <string name="common_missing_url_viewer">Thiếu trình xem để hiển thị url bên ngoài.</string>
+    <string name="common_more_options">Tùy chọn khác</string>
+    <string name="common_networking_settings_title">Mạng</string>
+    <string name="common_no_browser_for_restricted_url">Quyền truy cập bị hạn chế. Không tìm thấy trình duyệt nào.</string>
+    <string name="common_no_devices_found">Không tìm thấy thiết bị</string>
+    <string name="common_no_network">Không khả dụng do thiết bị ở chế độ ngoại tuyến</string>
+    <string name="common_no_thanks">Không, cảm ơn</string>
+    <string name="common_not_now">Không phải bây giờ</string>
+    <string name="common_off">Tắt</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Bật</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_open_source_licenses">Giấy phép nguồn mở</string>
+    <string name="common_people_settings_title">Danh bạ</string>
+    <string name="common_permissions_enable_in_settings">Bật trong Cài đặt</string>
+    <string name="common_permissions_missing_end">Để tiếp tục, hãy mở Cài đặt, sau đó mở Quyền và cho phép tất cả các mục đã liệt kê.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Để cho phép, chuyển tới
+Cài đặt >
+Quyền >
+Các dịch vụ của Google Play"</string>
+    <string name="common_permissions_missing_start">Ứng dụng này sẽ không hoạt động bình thường trừ khi bạn cho phép các dịch vụ của Google Play truy cập vào những nội dung sau:</string>
+    <string name="common_permissions_open_settings">Mở Cài đặt</string>
+    <string name="common_phone">Điện thoại</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Chính sách bảo mật</string>
+    <string name="common_restore">Khôi phục</string>
+    <string name="common_retry">Thử lại</string>
+    <string name="common_search_settings_title">Tìm kiếm</string>
+    <string name="common_security_ootp_setting_title">Mã bảo mật</string>
+    <string name="common_security_settings_title">Bảo mật</string>
+    <string name="common_send">Gửi</string>
+    <string name="common_sending">Đang gửi…</string>
+    <string name="common_set_up_nearby_device_settings_title">Thiết lập thiết bị lân cận</string>
+    <string name="common_settings">Cài đặt</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="common_something_went_wrong">Đã xảy ra sự cố</string>
+    <string name="common_system_info">Thông tin hệ thống</string>
+    <string name="common_take_photo_label">Chụp ảnh</string>
+    <string name="common_terms_of_service">Điều khoản dịch vụ</string>
+    <string name="common_try_again">Thử lại</string>
+    <string name="common_turn_on_bluetooth">Bật Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Xóa</string>
+    <string name="common_ui_confirm_deleting_checkbox">Tôi hiểu và muốn xóa</string>
+    <string name="common_unknown">Không xác định</string>
+    <string name="common_update">Cập nhật</string>
+    <string name="common_url_load_unsuccessful_message">Thiết bị Android của bạn chưa kết nối với dịch vụ dữ liệu. Để xem thông tin này ngay bây giờ, hãy truy cập %s bằng trình duyệt web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Thiết bị Android của bạn hiện không kết nối với mạng Wi-Fi. Để xem thông tin này ngay bây giờ, hãy truy cập %s bằng trình duyệt web.</string>
+    <string name="common_url_login_notice">Đăng nhập bằng %1$s</string>
+    <string name="common_usage_and_diagnostics">Sử dụng và chẩn đoán</string>
+    <string name="common_yesterday">Hôm qua</string>
+    <string name="confirm_copy_button_text">Sao chép</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d thiết bị</string>
+    <string name="contacts_number_device_and_icloud_with_google">Danh bạ Google, %1$d iCloud®, %2$d thiết bị</string>
+    <string name="contacts_number_device_and_sim_with_google">Danh bạ Google, %1$d SIM, %2$d thiết bị</string>
+    <string name="contacts_number_device_with_google">Danh bạ Google, %1$d thiết bị</string>
+    <string name="contacts_number_icloud_with_google">Danh bạ Google, %1$d trên iCloud®</string>
+    <string name="contacts_number_sim_with_google">Danh bạ Google, %1$d trên thẻ SIM</string>
+    <string name="copy_confirmation_description">Bạn đang sao chép dữ liệu như Tài khoản Google và các ứng dụng vào điện thoại mới của bạn</string>
+    <string name="copy_confirmation_title">Sao chép sang điện thoại mới của bạn?</string>
+    <string name="d2d_app_picker_description_no_apps">Chúng tôi không thể tìm thấy bất kỳ ứng dụng nào</string>
+    <string name="d2d_app_picker_title">Ứng dụng</string>
+    <string name="d2d_migration_canceled_on_source">Đã hủy sao chép</string>
+    <string name="data_copied_fragment_description">Dữ liệu của bạn đã được sao chép sang điện thoại mới. Bạn có thể rút phích cắm cáp.</string>
+    <string name="data_copied_fragment_description_cancel">Bạn đã chọn ngừng sao chép nên chỉ một số dữ liệu được sao chép sang điện thoại mới của bạn.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Bạn đã chọn ngừng sao chép nên không dữ liệu nào được sao chép sang điện thoại mới của bạn.</string>
+    <string name="data_copied_fragment_description_error">Đã xảy ra lỗi nên chúng tôi không thể sao chép mọi thứ.</string>
+    <string name="data_copied_fragment_description_error_no_data">Đã xảy ra lỗi nên chúng tôi không thể sao chép dữ liệu của bạn.</string>
+    <string name="data_copied_fragment_no_data_title">Không thể sao chép</string>
+    <string name="data_copied_fragment_some_data_title">Một số dữ liệu đã được sao chép</string>
+    <string name="data_copied_fragment_title">Dữ liệu đã được sao chép</string>
+    <string name="device_backup_title">Sao lưu thiết bị</string>
+    <string name="device_not_supported_fragment_new_device">Bạn đã kết nối với điện thoại mới. Để tiếp tục, hãy kết nối lại với điện thoại cũ của bạn.</string>
+    <string name="device_not_supported_fragment_new_device_title">Kết nối lại với điện thoại trước</string>
+    <string name="device_not_supported_fragment_no_data_cable">Cáp này không thể chuyển dữ liệu. Hãy kết nối lại bằng một cáp khác rồi thử lại.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Hãy thử cáp khác</string>
+    <string name="device_not_supported_fragment_retry_description">Đảm bảo điện thoại cũ của bạn được mở khóa, sau đó ngắt kết nối và kết nối lại cáp</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Đã xảy ra sự cố</string>
+    <string name="device_not_supported_ios_supervised_description">Vì thiết bị iPhone® của bạn là thiết bị được giám sát nên bạn sẽ phải chọn cách khác để sao chép dữ liệu</string>
+    <string name="device_picker_description">Bản sao lưu được lưu trữ trong Google Drive</string>
+    <string name="device_picker_empty">Không có bản sao lưu nào được liên kết với %1$s.</string>
+    <string name="device_picker_empty_title">Không tìm thấy bản sao lưu</string>
+    <string name="device_picker_item">Bản sao lưu trên %1$s</string>
+    <string name="device_picker_last_used">Sử dụng lần cuối ^1</string>
+    <string name="device_picker_skip">Không khôi phục</string>
+    <string name="device_picker_title">Chọn một bản sao lưu để khôi phục</string>
+    <string name="disabled_by_admin_summary_text">Do quản trị viên kiểm soát</string>
+    <string name="download_msg_error_invalid">Tải xuống được định cấu hình không đúng.</string>
+    <string name="download_msg_in_progress">Đang tải xuống.</string>
+    <string name="download_msg_not_allowed_space">Không đủ không gian để thực hiện tải xuống.</string>
+    <string name="download_msg_pending">Tải xuống đang chờ xử lý.</string>
+    <string name="download_notification_description">%1$s đã yêu cầu dữ liệu này.</string>
+    <string name="download_notification_title">Đang tìm nạp thêm dữ liệu</string>
+    <string name="drive_backup_account">Tài khoản</string>
+    <string name="drive_backup_apps_in_backup">Dữ liệu ứng dụng được sao lưu</string>
+    <string name="drive_backup_apps_last_backup">Sao lưu lần cuối</string>
+    <string name="drive_backup_apps_loading">Đang tải…</string>
+    <string name="drive_backup_apps_screen_title">Dữ liệu ứng dụng</string>
+    <string name="drive_backup_content_apps_title">Dữ liệu ứng dụng</string>
+    <string name="drive_backup_content_calendar_dialog_message">Sự kiện được tạo trong Lịch Google sẽ được đồng bộ hóa trên tất cả các thiết bị đăng nhập vào Tài khoản Google của bạn.</string>
+    <string name="drive_backup_content_calendar_title">Lịch</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Bản sao lưu bao gồm ngày và người nhận cuộc gọi đã gửi và đã nhận.</string>
+    <string name="drive_backup_content_callhistory_title">Nhật ký cuộc gọi</string>
+    <string name="drive_backup_content_contacts_dialog_message">Danh bạ được tạo trong Danh bạ Google sẽ được đồng bộ hóa trên tất cả các thiết bị đăng nhập vào Tài khoản Google của bạn.</string>
+    <string name="drive_backup_content_contacts_title">Danh bạ</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Bản sao lưu bao gồm cấu hình thiết bị, chẳng hạn như hình nền, mật khẩu Wi-Fi và các ứng dụng mặc định.</string>
+    <string name="drive_backup_content_devicesettings_title">Cài đặt thiết bị</string>
+    <string name="drive_backup_content_header">Nội dung</string>
+    <string name="drive_backup_content_photos_dialog_message">Đã thay đổi tài khoản sao lưu chính của bạn. Bạn cũng có thể thay đổi tài khoản sao lưu Google Photos thành %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">LOẠI BỎ</string>
+    <string name="drive_backup_content_photos_dialog_title">Đồng thời thay đổi tài khoản sao lưu ảnh và video?</string>
+    <string name="drive_backup_content_photos_dialog_yes">THAY ĐỔI</string>
+    <string name="drive_backup_content_photos_title">Ảnh và video</string>
+    <string name="drive_backup_content_sms_dialog_message">Bản sao lưu bao gồm các tin nhắn đã gửi và đã nhận. Bản sao lưu không bao gồm phương tiện MMS.</string>
+    <string name="drive_backup_content_sms_title">Tin nhắn văn bản SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Lỗi khi tải ngày đồng bộ hóa gần đây nhất</string>
+    <string name="drive_backup_content_status_lastsaved">Sao lưu lần cuối: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Đồng bộ hóa lần cuối: %1$s</string>
+    <string name="drive_backup_content_status_never">Đang đợi sao lưu</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Cài đặt đồng bộ hóa</string>
+    <string name="drive_backup_content_status_sync_off">Đồng bộ hóa TẮT</string>
+    <string name="drive_backup_content_status_updating">Đang kiểm tra trạng thái...</string>
+    <string name="drive_backup_disabled_backuplist">"Bản sao lưu bao gồm:
+\u0009- Ứng dụng và dữ liệu ứng dụng
+\u0009- Lịch sử cuộc gọi
+\u0009- Cài đặt thiết bị (bao gồm mật khẩu Wi-Fi)
+\u0009- Lịch Google
+\u0009- Danh bạ Google
+\u0009- Ảnh và video
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Dữ liệu sao lưu bao gồm:
+\u0009- Ứng dụng và dữ liệu ứng dụng
+\u0009- Nhật ký cuộc gọi
+\u0009- Cài đặt thiết bị (bao gồm mật khẩu Wi-Fi)
+\u0009- Lịch Google
+\u0009- Danh bạ Google
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Bị tắt bởi quản trị viên của bạn</string>
+    <string name="drive_backup_disabled_detailedinfo">"Lịch Google, Danh bạ Google, ảnh và video được đồng bộ hóa với Tài khoản Google của bạn và có thể được sử dụng trên các dịch vụ.
+
+Bạn có thể bật đồng bộ hóa ngay cả khi đã tắt sao lưu. Bạn có thể thay đổi cài đặt đồng bộ hóa trong Cài đặt > Tài khoản > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Lịch Google và Danh bạ Google được đồng bộ hóa với Tài khoản Google của bạn và có thể được sử dụng trên các dịch vụ.
+
+Bạn có thể bật đồng bộ hóa ngay cả khi đã tắt tính năng sao lưu. Bạn có thể thay đổi cài đặt đồng bộ hóa trong Cài đặt > Tài khoản > Google."</string>
+    <string name="drive_backup_disabled_introduction">Sao lưu tự động đảm bảo bạn có thể dễ dàng khôi phục hoặc chuyển đổi điện thoại bất kỳ lúc nào.</string>
+    <string name="drive_backup_settings_title">Sao lưu</string>
+    <string name="drive_backup_state">Sao lưu vào Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Dữ liệu sao lưu của thiết bị này trong Google Drive sẽ bị xóa vĩnh viễn.
+
+Các ảnh và video đã được sao lưu sẽ vẫn tồn tại trong Google Drive.
+
+Lịch Google và Danh bạ Google sẽ tiếp tục đồng bộ hóa với Tài khoản Google của bạn. Bạn có thể thay đổi cài đặt đồng bộ hóa trong Cài đặt > Tài khoản > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Dữ liệu sao lưu của thiết bị này trên Google Drive sẽ bị xóa vĩnh viễn.
+
+Lịch Google và Danh bạ Google sẽ tiếp tục đồng bộ hóa với Tài khoản Google của bạn. Bạn có thể thay đổi cài đặt đồng bộ hóa trong Cài đặt > Tài khoản > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Tắt và xóa</string>
+    <string name="drive_backup_state_dialog_title">Tắt và xóa bản sao lưu?</string>
+    <string name="durationDayHour">%1$d ngày %2$d giờ</string>
+    <string name="durationDayHours">%1$d ngày %2$d giờ</string>
+    <string name="durationDays">%1$d ngày</string>
+    <string name="durationHourMinute">%1$d giờ %2$d phút</string>
+    <string name="durationHourMinutes">%1$d giờ %2$d phút</string>
+    <string name="durationHours">%1$d giờ</string>
+    <string name="durationMinute">%1$d phút</string>
+    <string name="durationMinuteSecond">%1$d phút %2$d giây</string>
+    <string name="durationMinuteSeconds">%1$d phút %2$d giây</string>
+    <string name="durationMinutes">%1$d phút</string>
+    <string name="durationSecond">%1$d giây</string>
+    <string name="durationSeconds">%1$d giây</string>
+    <string name="encryption_warning_fragment_description">"Mã hóa bản sao lưu được bật cho thiết bị iPhone® của bạn. Nếu bạn không tự bật tính năng này thì có thể quản trị viên CNTT của bạn đã bật.
+
+Bạn chỉ có thể sao chép ảnh, nhạc và video. Để biết thêm thông tin, hãy truy cập "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Mã hóa bản sao lưu</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Tôi không tìm thấy bộ đổi nguồn</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Tìm Quick Switch Adapter đi kèm trong hộp đựng ^1 của bạn.
+
+Cắm cáp vào bộ đổi nguồn."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Kết nối bộ đổi nguồn và cáp</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Mở khóa điện thoại cũ của bạn, sau đó cắm bộ đổi nguồn vào điện thoại này.</string>
+    <string name="fragment_usb_connect_both_phones_title">Kết nối cả hai điện thoại</string>
+    <string name="fragment_usb_dialog_cancel_description">Bạn sẽ nhận được nhiều nội dung nhất nếu sử dụng cáp. Nếu cáp trong hộp không phù hợp, hãy thử sử dụng cáp sạc hoặc cáp truyền dữ liệu phù hợp với điện thoại cũ của bạn.</string>
+    <string name="fragment_usb_dialog_cancel_title">Sao chép dữ liệu bằng cách khác?</string>
+    <string name="fragment_usb_dont_have_cable">Tôi không có cáp</string>
+    <string name="fragment_usb_dont_have_old_phone">Tôi không có điện thoại cũ</string>
+    <string name="fragment_usb_find_cable_description">Sử dụng cáp phù hợp với điện thoại cũ của bạn, chẳng hạn như cáp sạc hoặc cáp truyền dữ liệu.</string>
+    <string name="fragment_usb_find_cable_title">Tìm đúng cáp</string>
+    <string name="fragment_usb_initial_description">Chuyển dữ liệu từ điện thoại cũ của bạn sang ^1 này.</string>
+    <string name="fragment_usb_initial_title">Hãy sao chép dữ liệu của bạn</string>
+    <string name="fragment_usb_legacy_description">"Đây là cách nhanh nhất để chuyển hầu hết dữ liệu.
+
+Hãy tìm bộ đổi nguồn trong hộp rồi cắm vào điện thoại mới. Kết nối các điện thoại bằng cáp, sau đó mở khóa điện thoại cũ."</string>
+    <string name="fragment_usb_other_ways">Sao chép mà không cần cáp</string>
+    <string name="fragment_usb_plug_cable">Cắm cáp vào điện thoại cũ của bạn</string>
+    <string name="fragment_waiting_title">Hãy đợi giây lát…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Danh bạ Google sẽ đồng bộ hóa</string>
+    <string name="google_contacts_static_text_off">Danh bạ Google sẽ vẫn đồng bộ hóa</string>
+    <string name="header_set_backup_account">Đặt tài khoản sao lưu</string>
+    <string name="i_message_dialog_message">"Để tiếp tục nhận tin nhắn SMS từ người dùng thiết bị iPhone®, bạn sẽ cần phải tắt iMessage®.
+
+Hãy truy cập "<b>g.co/iMessageHelp</b> để biết hướng dẫn.</string>
+    <string name="instructions_fragment_title">Tiếp tục trên điện thoại khác của bạn</string>
+    <string name="ios_connected_fragment_description">"Trên màn hình tiếp theo, bạn có thể đăng nhập vào Tài khoản Google của mình hoặc tạo một tài khoản mới.
+
+Nếu bạn không thêm Tài khoản Google, các sự kiện trên iOS Calendar® sẽ không được chuyển."</string>
+    <string name="ios_message_attachment_explanation">[Tệp đính kèm tin nhắn của bạn được lưu trong Google Photos > Thư mục thiết bị > Tệp đính kèm tin nhắn]</string>
+    <string name="ios_message_attachment_failed_explanation">[Một số tệp đính kèm không thể sao chép được. Bạn có thể tìm thấy tệp đính kèm đã được chuyển trong Google Photos > Thư mục thiết bị > Tệp đính kèm tin nhắn]</string>
+    <string name="ios_message_attachment_placeholder">[Tệp đính kèm được lưu trong Google Photos > Thư mục thiết bị > Tệp đính kèm tin nhắn]</string>
+    <string name="ios_message_attachments_placeholder">[Tệp đính kèm được lưu trong Google Photos > Thư mục thiết bị > Tệp đính kèm tin nhắn]</string>
+    <string name="ios_migration_default_calendar_title">Lịch</string>
+    <string name="ios_migration_other_contact_relation">Khác</string>
+    <string name="ios_photos_dialog_message">"Không thể sao chép ảnh đã lưu trữ trong iCloud®.
+
+Để chuyển những ảnh này sang ^1, bạn hãy cài đặt ứng dụng Google Photos trên thiết bị iPhone® của mình rồi bật Sao lưu và đồng bộ hóa. Truy cập "<b>g.co/datatransferhelp</b> để biết thêm hướng dẫn.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Thêm tài khoản</string>
+    <string name="lockscreen_smartdevice_action_next">Tiếp theo</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Mở khóa để tiếp tục thiết lập điện thoại của bạn</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Vì lý do bảo mật, bạn cần xác nhận khóa màn hình của mình để tiếp tục thiết lập</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Xác nhận khóa màn hình của bạn</string>
+    <string name="manage_data_label">Tài khoản Google</string>
+    <string name="master_clear_title">Đặt lại về dữ liệu gốc</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Cần thiết lập tài khoản sao lưu</string>
+    <string name="notification_content_title_set_backup_account">Sao lưu</string>
+    <string name="notification_ticker_set_backup_account">Cần tài khoản dự phòng</string>
+    <string name="permgrouplab_calendar">Lịch</string>
+    <string name="permgrouplab_camera">Máy ảnh</string>
+    <string name="permgrouplab_contacts">Danh bạ</string>
+    <string name="permgrouplab_location">Vị trí</string>
+    <string name="permgrouplab_microphone">Micrô</string>
+    <string name="permgrouplab_phone">Điện thoại</string>
+    <string name="permgrouplab_sensors">Cảm biến cơ thể</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Bộ nhớ</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Hiện không có tài khoản nào lưu trữ ảnh được sao lưu</string>
+    <string name="photos_backup_title">Sao lưu ảnh</string>
+    <string name="photos_filtering_option_all">Tất cả</string>
+    <string name="photos_filtering_option_none">Không có gì</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Danh bạ đã sao chép sẽ được lưu vào Tài khoản Google của bạn.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Lịch và danh bạ đã sao chép sẽ được lưu vào Tài khoản Google của bạn.</string>
+    <string name="restore_choice_data_disclaimer_v2">Một số dữ liệu của bạn có thể không sao chép được sang ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="restore_choice_deselect_some_content">Bỏ chọn một số nội dung để tiếp tục</string>
+    <string name="restore_choice_learn_more_android">"Một số dữ liệu từ điện thoại cũ của bạn không tự động sao chép được:
+
+ ● Bản tải xuống (chẳng hạn như các tệp PDF)
+
+ ● Ảnh, video và nhạc đã được lưu trữ trong thư mục bị ẩn
+
+ ● Ảnh, video và nhạc đã nhận được qua tin nhắn văn bản
+
+ ● Các ứng dụng không phải từ Cửa hàng Google Play
+
+ ● Dữ liệu ứng dụng (nếu ứng dụng không sử dụng Android backup)
+
+ ● Một số cài đặt thiết bị
+
+ ● Các tài khoản khác ngoài Tài khoản Google (và mọi dữ liệu được liên kết)
+
+ ● Danh bạ và lịch đã được đồng bộ hóa với các dịch vụ khác ngoài Google
+
+ ● Nhạc chuông
+
+ Để biết thêm chi tiết và được trợ giúp thêm về cách sao chép một số dữ liệu này, hãy truy cập g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Không thể sao chép tự động một số dữ liệu từ điện thoại cũ của bạn:
+
+ ● Các ứng dụng và dữ liệu ứng dụng
+
+ ● Ảnh trong đó ảnh gốc không được lưu trữ trên điện thoại của bạn (ví dụ: nếu bạn bật cài đặt Tối ưu hóa bộ nhớ thì ảnh gốc sẽ được lưu trữ trong iCloud®)
+
+ ● Tệp và tài liệu được lưu trữ trong iCloud®
+
+ ● Cài đặt thiết bị (như mật khẩu Wi-Fi và hình nền)
+
+ ● Nhạc được bảo vệ bằng tính năng bảo vệ Quản lý quyền kỹ thuật số (DRM) (ví dụ: nhạc trên iTunes® được mua trước tháng 4 năm 2009 hoặc nhạc được tải xuống để nghe ngoại tuyến trong ứng dụng phát nhạc trực tuyến) 
+
+ ● Các tài khoản không phải Tài khoản Google (và mọi dữ liệu được liên kết)
+
+ ● Danh bạ và lịch được đồng bộ hóa với các dịch vụ không phải Google hoặc iCloud®
+
+ ● Dấu trang từ Safari®
+
+ Tệp đính kèm trong iMessage® sẽ có sẵn trong Google Photos > Thư mục thiêt bị > Tệp đính kèm tin nhắn.
+
+ Để biết thêm chi tiết và được trợ giúp về cách sao chép một số dữ liệu này, hãy truy cập g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Không đủ dung lượng</string>
+    <string name="restore_choice_total_text">trong số %1$s còn trống / %2$s truyền</string>
+    <string name="restore_error_message">Rất tiếc, đã xảy ra lỗi khi khôi phục.</string>
+    <string name="restore_item_appdata">Dữ liệu ứng dụng</string>
+    <string name="restore_item_calendar">Lịch</string>
+    <string name="restore_item_calendar_ical_description">Lịch iOS®, Lịch Google</string>
+    <string name="restore_item_calendar_ical_off_description">Lịch Google vẫn sẽ vẫn đồng bộ hóa</string>
+    <string name="restore_item_calendar_sync_description">Lịch Google sẽ đồng bộ hóa</string>
+    <string name="restore_item_call_logs">Nhật ký cuộc gọi</string>
+    <string name="restore_item_contacts">Danh bạ</string>
+    <string name="restore_item_device_settings_description">Mật khẩu Wi-Fi và hơn thế nữa</string>
+    <string name="restore_item_downloads">Tài nguyên đã tải xuống</string>
+    <string name="restore_item_email">Email</string>
+    <string name="restore_item_email_description">Gmail sẽ đồng bộ hóa</string>
+    <string name="restore_item_message_attachments">Tệp đính kèm tin nhắn</string>
+    <string name="restore_item_messages">Tin nhắn</string>
+    <string name="restore_item_music">Âm nhạc</string>
+    <string name="restore_item_photos">Ảnh và video</string>
+    <string name="restore_item_settings">Cài đặt thiết bị</string>
+    <string name="restore_item_sms">Tin nhắn SMS</string>
+    <string name="restore_item_will_be_synced_text">Loại dữ liệu này sẽ đồng bộ hóa với điện thoại của bạn</string>
+    <string name="restore_progress_title">Đang khôi phục…</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="small_time_duration">Dưới 1 phút</string>
+    <string name="source_connected_description">Đang chuẩn bị…</string>
+    <string name="source_connected_title">Đã kết nối với %1$s của bạn</string>
+    <string name="source_copying_description">Dữ liệu bạn đã chọn đang được sao chép sang điện thoại mới</string>
+    <string name="source_copying_title">Đang sao chép...</string>
+    <string name="source_default_target_device_name">thiết bị mới</string>
+    <string name="source_notification_device_disconnected">Kết nối lại cáp của bạn</string>
+    <string name="source_notification_text">Đang chuyển từ điện thoại sang điện thoại</string>
+    <string name="source_notification_title">Chuyển dữ liệu</string>
+    <string name="source_success_description">Hoàn tất thiết lập trên %1$s của bạn.</string>
+    <string name="source_success_screen_title">Tất cả đã hoàn tất!</string>
+    <string name="source_unplugged_description">Kết nối lại với %1$s của bạn</string>
+    <string name="source_unplugged_title">Đã ngắt kết nối cáp</string>
+    <string name="source_waiting_title">Tiếp tục thiết lập trên %1$s của bạn</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Loại bỏ</string>
+    <string name="stop_copying_dialog_message_before_transfer">Dữ liệu chưa được sao chép vào điện thoại mới của bạn</string>
+    <string name="stop_copying_dialog_message_during_transfer">Một số dữ liệu chưa được sao chép vào điện thoại mới của bạn</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Không sao chép</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Dừng</string>
+    <string name="stop_copying_dialog_title_before_transfer">Không sao chép?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Dừng sao chép?</string>
+    <string name="storage_management_wear_descriptive_text">Các ứng dụng sử dụng bộ nhớ của thiết bị để sao chép dữ liệu vào bộ nhớ đeo trên người.</string>
+    <string name="storage_management_wear_manage_size_label">Quản lý bộ nhớ đeo trên người</string>
+    <string name="storage_management_wear_size_label">Bộ nhớ đeo trên người</string>
+    <string name="storage_managment_all_storage_descriptive_text">Tổng số dữ liệu được các dịch vụ Google Play sử dụng, bao gồm cả công cụ tìm kiếm và các dữ liệu khác.</string>
+    <string name="storage_managment_clear_all_data">Xóa tất cả dữ liệu</string>
+    <string name="storage_managment_computing_size">Đang tính toán…</string>
+    <string name="storage_managment_icing_size_label">Dữ liệu tìm kiếm</string>
+    <string name="storage_managment_manage_icing_button">Quản lý dữ liệu tìm kiếm</string>
+    <string name="storage_managment_search_index_descriptive_text">Chúng tôi tăng tốc tìm kiếm trên thiết bị của bạn bằng cách cung cấp công cụ tìm kiếm để Ứng dụng của bạn sử dụng.</string>
+    <string name="storage_managment_title">Bộ nhớ cho các dịch vụ của Google Play</string>
+    <string name="storage_managment_total_size_label">Tổng bộ nhớ</string>
+    <string name="suw_back_button_label">Quay lại</string>
+    <string name="suw_more_button_label">Khác</string>
+    <string name="suw_next_button_label">Tiếp theo</string>
+    <string name="target_default_source_device_model">thiết bị cũ</string>
+    <string name="target_device_not_supported_cant_continue_description">Bạn cần chọn cách khác để sao chép dữ liệu</string>
+    <string name="target_device_not_supported_cant_continue_title">Không hỗ trợ điện thoại khác</string>
+    <string name="target_device_not_supported_try_restarting_description">"Ngắt kết nối cáp và khởi động lại điện thoại cũ của bạn, sau đó kết nối lại cáp và làm theo các hướng dẫn trên Pixel.
+
+Nếu vẫn gặp lỗi này, bạn có thể cần phải thử sao chép bằng cách khác."</string>
+    <string name="target_device_not_supported_try_restarting_title">Có thể không hỗ trợ điện thoại</string>
+    <string name="target_smart_device_timeout_add_account">THÊM TÀI KHOẢN</string>
+    <string name="target_smart_device_timeout_description">Nếu muốn, bạn có thể thử thêm tài khoản của mình theo cách thủ công</string>
+    <string name="target_smart_device_timeout_dismiss">LOẠI BỎ</string>
+    <string name="target_smart_device_timeout_title">Bạn gặp sự cố?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Điện thoại được kết nối</string>
+    <string name="toast_reconnect_cable">Kết nối lại cáp của bạn</string>
+    <string name="transfer_finished_fragment_title">Đang thêm các thao tác hoàn thiện…</string>
+    <string name="transfer_summary_copied">Đã sao chép dữ liệu</string>
+    <string name="transfer_summary_fragment_description">Bạn có thể ngắt kết nối cáp.</string>
+    <string name="transfer_summary_fragment_finish">HOÀN TẤT</string>
+    <string name="transfer_summary_fragment_title">Điện thoại của bạn gần như đã sẵn sàng</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Một số ảnh của bạn chưa được sao chép. <annotation id="transfer_summary_learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="transfer_summary_not_copied">Chưa sao chép dữ liệu</string>
+    <string name="transfer_summary_partial">Đã sao chép %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">Dữ liệu sẽ đồng bộ hóa sau khi thiết lập</string>
+    <string name="transferring_fragment_calculating_remaining_time">Đang tính thời gian còn lại...</string>
+    <string name="transferring_fragment_header">Đang sao chép...</string>
+    <string name="transferring_fragment_remaining_time">Còn %1$s</string>
+    <string name="trust_instructions_description">Để tiếp tục, kiểm tra thiết bị iPhone® của bạn và phê duyệt kết nối</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari và iTunes là các nhãn hiệu của Apple Inc., được đăng ký ở Hoa Kỳ và các quốc gia khác.</string>
+</resources>

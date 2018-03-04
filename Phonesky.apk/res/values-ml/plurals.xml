@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">നിങ്ങളുടെ റേറ്റിംഗ്: %1$s നക്ഷത്രങ്ങൾ</item>
+        <item quantity="one">നിങ്ങളുടെ റേറ്റിംഗ്: %1$s നക്ഷത്രം</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d അവലോകനങ്ങൾ</item>
+        <item quantity="one">%1$d അവലോകനം</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d നക്ഷത്ര റേറ്റിംഗിന് %1$d അവലോകനങ്ങൾ</item>
+        <item quantity="one">%2$d നക്ഷത്ര റേറ്റിംഗിന് %1$d അവലോകനം</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">ഇൻസ്റ്റാളുകൾ തൽക്കാലത്തേക്ക് നിർത്തി</item>
+        <item quantity="one">ഇൻസ്റ്റാൾ തൽക്കാലത്തേക്ക് നിർത്തി</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">%1$d ദിവസം മുമ്പ് ആപ്പുകൾ സ്‌കാൻ ചെയ്‌തു</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">ദോഷകരമായ %1$d ആപ്പുകൾ ‌നീക്കംചെയ്‌തു. %2$s.</item>
+        <item quantity="one">ദോഷകരമായ %1$d ആപ്പ് ‌നീക്കംചെയ്‌തു. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d അപ്‌ഡേറ്റുകൾക്ക് അനുമതി ആവശ്യമാണ്</item>
+        <item quantity="one">%1$d അപ്‌ഡേറ്റിന് അനുമതി ആവശ്യമാണ്</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d പുതിയ അപ്‌ഡേറ്റുകൾ</item>
+        <item quantity="one">%1$d പുതിയ അപ്‌ഡേറ്റ്</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d അപ്‌ഡേറ്റുകൾ ലഭ്യം</item>
+        <item quantity="one">%1$d അപ്‌ഡേറ്റ് ലഭ്യം</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">എല്ലാം അപ്‌ഡേറ്റുചെയ്യൂ</item>
+        <item quantity="one">അപ്‌ഡേറ്റ്</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d അപ്ലിക്കേഷനുകൾ അപ്‌ഡേറ്റുചെയ്‌തു</item>
+        <item quantity="one">%1$d അപ്ലിക്കേഷൻ അപ്‌ഡേറ്റുചെയ്‌തു</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രങ്ങൾ</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രം</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രങ്ങൾ - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രം - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രങ്ങൾ - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s നക്ഷത്രം - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d ഉപയോക്താക്കൾ ഈ അവലോകനം സഹായകരമാണെന്ന് കണ്ടെത്തി. അഭിപ്രായത്തെ സഹായകരമെന്ന് അടയാളപ്പെടുത്തുക</item>
+        <item quantity="one">%1$d ഉപയോക്താവ് ഈ അവലോകനം സഹായകരമാണെന്ന് കണ്ടെത്തി. അഭിപ്രായത്തെ സഹായകരമെന്ന് അടയാളപ്പെടുത്തുക</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d ഉപയോക്താക്കൾ ഈ അവലോകനം സഹായകരമാണെന്ന് കണ്ടെത്തി. അഭിപ്രായം സഹായകരം എന്ന് അടയാളപ്പെടുത്തിയത് മാറ്റുക</item>
+        <item quantity="one">%1$d ഉപയോക്താവ് ഈ അവലോകനം സഹായകരമാണെന്ന് കണ്ടെത്തി. അഭിപ്രായം സഹായകരം എന്ന് അടയാളപ്പെടുത്തിയത് മാറ്റുക</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">ഇതിന് &lt;b>%1$s നക്ഷത്രങ്ങൾ&lt;/b> നൽകി</item>
+        <item quantity="one">ഇതിന് &lt;b>%1$s നക്ഷത്രം&lt;/b> നൽകി റേറ്റുചെയ്‌തു</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s അവലോകനങ്ങളിൽ</item>
+        <item quantity="one">%1$s അവലോകനത്തിൽ</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s നക്ഷത്രങ്ങൾ&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s നക്ഷത്രം&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">അവസാനം ഉപയോഗിച്ചത് %1$d ദിവസം മുമ്പ്</item>
+        <item quantity="one">അവസാനം ഉപയോഗിച്ചത് %1$d ദിവസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">തിരഞ്ഞെടുത്ത %1$d ആപ്‌സ് പുനഃസ്ഥാപിക്കുക</item>
+        <item quantity="one">തിരഞ്ഞെടുത്ത ആപ്പ് പുനഃസ്ഥാപിക്കുക</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">നക്ഷത്രങ്ങൾ</item>
+        <item quantity="one">നക്ഷത്രം</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">ആപ്‌സ് ഉടൻ ഇൻസ്‌റ്റാൾ ചെയ്യപ്പെടും.</item>
+        <item quantity="one">ആപ്പ് ഉടൻ ഇൻസ്‌റ്റാൾ ചെയ്യപ്പെടും.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">ആപ്പ് അപ്ഡേറ്റുകൾ ഉടൻ ഇൻസ്‌റ്റാൾ ചെയ്യപ്പെടും.</item>
+        <item quantity="one">ആപ്പ് അപ്ഡേറ്റ് ഉടൻ ഇൻസ്‌റ്റാൾ ചെയ്യപ്പെടും.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">അവസാനം ഉപയോഗിച്ചത് %1$d ദിവസം മുമ്പ്</item>
+        <item quantity="one">അവസാനം ഉപയോഗിച്ചത് %1$d ദിവസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">അവസാനം ഉപയോഗിച്ചത് %1$d മാസം മുമ്പ്</item>
+        <item quantity="one">അവസാനം ഉപയോഗിച്ചത് %1$d മാസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">ഈ ഉപകരണത്തിൽ ആപ്‌സോ അപ്‌ഡേറ്റുകളോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ, നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. സ്‌റ്റോറേജ് ക്രമീകരണത്തിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+        <item quantity="one">ഈ ഉപകരണത്തിൽ ആപ്പോ അപ്‌ഡേറ്റോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. സ്‌റ്റോറേജ് ക്രമീകരണത്തിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">ഈ ഉപകരണത്തിൽ ആപ്‌സോ അപ്‌ഡേറ്റുകളോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ, നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. &lt;a href=\"\">ക്രമീകരണം > സ്‌റ്റോറേജ്&lt;/a> എന്നതിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+        <item quantity="one">ഈ ഉപകരണത്തിൽ ആപ്പോ അപ്‌ഡേറ്റോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. &lt;a href=\"\">ക്രമീകരണം > സ്‌റ്റോറേജ്&lt;/a> എന്നതിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">ഈ ഉപകരണത്തിൽ ആപ്‌സോ അപ്‌ഡേറ്റുകളോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ, നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. ക്രമീകരണം > സ്‌റ്റോറേജ് എന്നതിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+        <item quantity="one">ഈ ഉപകരണത്തിൽ ആപ്പോ അപ്‌ഡേറ്റോ ഇൻസ്‌റ്റാൾ ചെയ്യാൻ നിങ്ങൾക്കിനി ആവശ്യമില്ലാത്ത ആപ്‌സ് ഇല്ലാതാക്കുക. ക്രമീകരണം > സ്‌റ്റോറേജ് എന്നതിൽ മീഡിയ ഫയലുകൾ ഇല്ലാതാക്കുന്നതിലൂടെയും നിങ്ങൾക്ക് ഇടം സൃഷ്‌ടിക്കാം.</item>
+    </plurals>
+</resources>

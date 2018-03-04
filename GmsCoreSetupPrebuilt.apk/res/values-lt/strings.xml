@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Eiti į pagrindinį puslapį</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Eiti į viršų</string>
+    <string name="abc_action_menu_overflow_description">Daugiau parinkčių</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_activity_chooser_view_see_all">Peržiūrėti viską</string>
+    <string name="abc_activitychooserview_choose_application">Pasirinkti programą</string>
+    <string name="abc_capital_off">IŠJUNGTA</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_search_hint">Ieškoti...</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_query">Paieškos užklausa</string>
+    <string name="abc_searchview_description_search">Paieška</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_shareactionprovider_share_with">Bendrinti naudojant</string>
+    <string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant „%s“</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="app_has_in_app_purchases">Pirkiniai programoje</string>
+    <string name="app_has_permissions">Leidimai: %s</string>
+    <string name="app_has_runtime_permissions">Programa prašys leidimų</string>
+    <string name="app_picker_app_already_installed_toast">Ši programa jau įdiegta</string>
+    <string name="app_picker_loading">Ieškoma pasiekiamų programų…</string>
+    <string name="app_picker_loading_toast">Pasiekiamos programos netrukus bus įkeltos</string>
+    <string name="app_picker_no_apps">Nepasirinkta jokių programų</string>
+    <string name="app_picker_no_apps_found">Nerasta jokių programų</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Pirkiniai programoje nebus perkelti į „^1“ įrenginį.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Kai kurie pirkiniai programoje gali nebūti perkelti į „^1“ įrenginį.</string>
+    <string name="apps_permissions_described_v2">"Tik populiarios nemokamos „iOS®“ programos gali atitikti „Android“ programas. Daugelis pirkinių nebus perkelta. Daugiau programų galite rasti „Play“ parduotuvėje, kai sąranka bus baigta.
+
+Galbūt kai kurioms programoms reikės iš anksto suteikti leidimą pasiekti konkrečias įrenginio funkcijas ar informaciją. Leidimai sugrupuoti į leidimų grupes. Pasirinkę įdiegti šias programas sutinkate su leidimais, kurie yra kiekvienos grupės dalis. Kiekvienos leidimų grupės aprašas pateikiamas toliau.
+
+Kai kurios programos gali nereikalauti suteikti leidimų iš anksto. Kai naudojate vieną iš tokių programų, galite leisti arba atmesti atskirus leidimus prieš programai pradedant naudoti to tipo duomenis.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Įdiegdami kiekvieną programą sutinkate su jos leidimais. <annotation id="apps_permissions_learn_more">Sužinokite daugiau</annotation></string>
+    <string name="auto_restore_summary">Iš naujo įdiegdami programą atkurkite nustatymus ir duomenis, kurių atsarginės kopijos buvo sukurtos</string>
+    <string name="auto_restore_title">Automatinis atkūrimas</string>
+    <string name="backup_configure_account_default_summary">Šiuo metu jokioje paskyroje nesaugomos atsarginės duomenų kopijos</string>
+    <string name="backup_configure_account_title">Atsarginė paskyros kopija</string>
+    <string name="backup_data_summary">Kurti atsargines programos duomenų, „Wi-Fi“ slaptažodžių ir kitų nustatymų kopijas „Google“ diske</string>
+    <string name="backup_data_summary_full">"Automatiškai nuotoliniu būdu sukurkite atsarginę įrenginio duomenų (pvz., „Wi-Fi“ slaptažodžių bei skambučių istorijos) ir programų duomenų (pvz., programų nustatymų bei išsaugotų failų) kopiją.
+
+Įjungus automatinio atsarginių kopijų kūrimo funkciją, įrenginio ir programų duomenys periodiškai išsaugomi nuotoliniu būdu. Programų duomenys gali būti bet kurie programų išsaugoti duomenys (atsižvelgiant į kūrėjo nustatymus), įskaitant duomenis, kurie gali būti neskelbtini, pvz., kontaktai, pranešimai ir nuotraukos."</string>
+    <string name="backup_data_title">Atsarginės kopijos kūrimas „Google“ diske</string>
+    <string name="backup_erase_dialog_message">Nebekurti atsarginių „Wi-Fi“ slaptažodžių, žymių, kitų nustatymų ir programų duomenų kopijų ir ištrinti visas „Google“ diske esančias kopijas?</string>
+    <string name="backup_erase_dialog_message_full">Nebekurti įrenginio duomenų (pvz., „Wi-Fi“ slaptažodžių ir skambučių istorijos) ir programų duomenų (pvz., programų saugomų nustatymų ir failų) atsarginių kopijų ir ištrinti visas „Google“ diske esančias kopijas?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Atidarant nuotraukų nustatymus įvyko klaida</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kai įjungiate automatinio atsarginės kopijos kūrimo funkciją:
+
+ ● Įrenginio nustatymai ir programos duomenys periodiškai saugojami privačiame „Google“ disko aplanke. Programų duomenys gali būti bet kurie programos išsaugoti duomenys (atsižvelgiant į kūrėjo nustatymus), įskaitant potencialiai neskelbtinus duomenis, pvz., kontaktus, pranešimus ir nuotraukas.
+
+ Nebus kuriama atsarginė didelių failų arba failų, kuriuos kūrėjai pasirinko išskirti iš šios paslaugos, kopija.
+
+ ● Įrenginyje esančios nuotraukos ir vaizdo įrašai sinchronizuojami su „Google“ nuotraukų biblioteka, kad galėtumėte ieškoti, redaguoti, ištrinti bei bendrinti šią informaciją iš bet kurio įrenginio.
+
+ Pagal numatytuosius nustatymus įkeliamos viso dydžio skyros nuotraukos ir vaizdo įrašai. Šie failai nėra įtraukiami skaičiuojant Disko saugyklos kvotą.
+
+ ● Įrenginyje esantys kontaktai ir susiję duomenys sinchronizuojami su „Google“ kontaktais. Naudodami \u0098„Google“ kontaktų programą galite ieškoti, redaguoti, ištrinti bei bendrinti kontaktus iš bet kurio įrenginio.
+
+ ● Įrenginyje esantys kalendoriaus įrašai ir susiję duomenys sinchronizuojami su „Google“ kalendoriumi. Naudodami „Google“ kalendoriaus programą galite ieškoti, redaguoti, ištrinti bei bendrinti kontaktus iš bet kurio įrenginio.
+
+ Atsarginės kopijos duomenys nebus įtraukti skaičiuojant Disko saugyklos kvotą."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kai įjungiate automatinio atsarginės kopijos kūrimo funkciją, atliekami nurodyti veiksmai.
+
+ ● Įrenginio nustatymai ir programų duomenys periodiškai saugomi privačiame „Google“ disko aplanke. Programų duomenys gali būti bet kurie programos išsaugoti duomenys (atsižvelgiant į kūrėjo nustatymus), įskaitant potencialiai neskelbtinus duomenis, pvz., kontaktus, pranešimus ir nuotraukas.
+
+ Nebus kuriama atsarginė didelių failų arba failų, kuriuos kūrėjai pasirinko išskirti iš šios paslaugos, kopija.
+
+ ● Įrenginyje esantys kontaktai ir susiję duomenys sinchronizuojami su „Google“ kontaktais. Naudodami \u0098„Google“ kontaktų programą galite ieškoti kontaktų, juos redaguoti, ištrinti bei bendrinti iš bet kurio įrenginio.
+
+ ● Įrenginyje esantys kalendoriaus įrašai ir susiję duomenys sinchronizuojami su „Google“ kalendoriumi. Naudodami „Google“ kalendoriaus programą galite ieškoti kontaktų, juos redaguoti, ištrinti bei bendrinti iš bet kurio įrenginio.
+
+ Atsarginės kopijos duomenys nebus įtraukti skaičiuojant Disko saugyklos kvotą."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalendorius, kontaktai, nuotraukos ir vaizdo įrašai sinchronizuojami su „Google“ paskyra ir gali būti naudojami įvairiose paslaugose.</string>
+    <string name="backup_opt_in_backup_description_v2">Naudodami automatinės atsarginės kopijos kūrimo funkciją galite lengvai atkurti ar pakeisti telefonus bet kuriuo metu. <annotation id="backup_opt_in_learn_more">Sužinokite daugiau</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Bus išjungtas toliau nurodytų duomenų atsarginis kopijavimas.
+
+Programos ir programų duomenys
+Skambučių istorija
+Įrenginio nustatymai
+Nuotraukos ir vaizdo įrašai
+SMS
+
+Kalendorius ir kontaktai ir toliau bus sinchronizuojami „Google“ paskyroje. Kai sąranka bus baigta, sinchronizavimo nustatymus galėsite pakeisti apsilankę skiltyje "<annotation id="backup_opt_in_settings_instructions">„Nustatymai“ > „Paskyros“ > „Google“</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Išjungti atsarginį kopijavimą?</string>
+    <string name="backup_opt_in_backup_list">"Programos ir programų duomenys
+Kalendorius
+Skambučių istorija
+Kontaktai
+Įrenginio nustatymai (įskaitant „Wi-Fi“ slaptažodžius)
+Nuotraukos ir vaizdo įrašai
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Bus sukurtos toliau nurodytų duomenų atsarginės kopijos.</string>
+    <string name="backup_opt_in_backup_title">Atsarginės kopijos kūrimas „Google“ diske</string>
+    <string name="backup_opt_in_disable_backup">Išjungti atsarginį kopijavimą</string>
+    <string name="backup_photos_update">Atnaujinkite „Google“ nuotraukas.</string>
+    <string name="backup_settings_activity_backup_title">Atsarginė kopija</string>
+    <string name="backup_settings_activity_title">Atsarginė kopija ir nustatymas iš naujo</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nekopijuoti</string>
+    <string name="close_button_label">Uždaryti</string>
+    <string name="cloud_restore_app_picker_button">Atkurti</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Nėra programų atsarginių kopijų</string>
+    <string name="cloud_restore_app_picker_title">Pasirinkite programas, kurias norite atkurti</string>
+    <string name="common_accept">Priimti</string>
+    <string name="common_add_account_label">Pridėkite paskyrą</string>
+    <string name="common_ads_settings_title">Skelbimai</string>
+    <string name="common_agree">Sutikti</string>
+    <string name="common_app_name">„Google Play“ paslaugos</string>
+    <string name="common_asm_preferences_settings_title">Paskyros nuostatos</string>
+    <string name="common_asm_privacy_settings_title">Asmens informacija ir privat.</string>
+    <string name="common_asm_security_settings_title">Prisijungimas ir sauga</string>
+    <string name="common_audience_edit_button_label">Redaguoti</string>
+    <string name="common_cancel">Atšaukti</string>
+    <string name="common_cannot_start_hangouts_security_exception">Negalima pradėti „Hangout“ (leidimo klaida).</string>
+    <string name="common_car_permission_desc">Galimybė pasiekti transporto priemonės paslaugą.</string>
+    <string name="common_car_permission_label">Transporto priemonės paslauga</string>
+    <string name="common_chips_label_empty_circles">Nėra jokių draugų ratų</string>
+    <string name="common_chips_label_extended_circles">Išplėstieji draugų ratai</string>
+    <string name="common_chips_label_only_you">Tik jūs</string>
+    <string name="common_chips_label_public">Vieša</string>
+    <string name="common_chips_label_your_circles">Jūsų draugų ratai</string>
+    <string name="common_choose_account_label">Pasirinkti paskyrą</string>
+    <string name="common_clear_app_data_menu_item">Išvalyti programos duomenis</string>
+    <string name="common_connected">Prisijungta</string>
+    <string name="common_connected_apps_settings_title">Susietos programos</string>
+    <string name="common_connecting">Prisijungiama...</string>
+    <string name="common_continue">Tęsti</string>
+    <string name="common_disagree">Nesutikti</string>
+    <string name="common_disconnect">Atsijungti</string>
+    <string name="common_done">Atlikta</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Nuo:</string>
+    <string name="common_games_settings_title">„Play“ žaidimai</string>
+    <string name="common_get_started">Pradėti</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Įgalinti</string>
+    <string name="common_google_play_services_enable_text">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_enable_title">Įgalinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_error_dialog_title">Klaida</string>
+    <string name="common_google_play_services_install_button">Įdiegti</string>
+    <string name="common_google_play_services_install_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje.</string>
+    <string name="common_google_play_services_install_title">Gaukite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+    <string name="common_google_play_services_unknown_issue">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="common_google_play_services_unsupported_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+    <string name="common_google_play_services_update_text">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_update_title">Atnaujinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_updating_text">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="common_google_play_services_updating_title">„Google Play“ paslaugos atnaujinamos</string>
+    <string name="common_google_play_services_wear_update_text">Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Įdiegtos netinkamos struktūros „Google Play“ paslaugos.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Įdiegtos „Google Play“ paslaugos, kurių struktūra (%1$s) skiriasi nuo įrenginio struktūros (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Netinkama struktūra</string>
+    <string name="common_google_settings">„Google“ nustatymai</string>
+    <string name="common_google_settings_account">Paskyra</string>
+    <string name="common_google_settings_credentials_title">„Smart Lock“, skirta slaptažodžiams</string>
+    <string name="common_google_settings_developer">Kūrėjas</string>
+    <string name="common_google_settings_services">Paslaugos</string>
+    <string name="common_got_it">Supratau</string>
+    <string name="common_install">Įdiegti</string>
+    <string name="common_learn_more">Sužinokite daugiau</string>
+    <string name="common_list_apps_menu_help">Pagalba</string>
+    <string name="common_list_apps_menu_help_and_feedback">Pagalba ir atsiliepimai</string>
+    <string name="common_loading">Įkeliama…</string>
+    <string name="common_location_settings_title">Vietovė</string>
+    <string name="common_magictether_settings_title">Momentinis įrenginio kaip modemo naudojimas</string>
+    <string name="common_maps_settings_title">Žemėlapiai ir Platuma</string>
+    <string name="common_mdm_feature_name">„Android“ įrenginio tvarkymo priemonė</string>
+    <string name="common_missing_url_viewer">Trūksta peržiūros priemonės, kad būtų galima rodyti išorinį URL.</string>
+    <string name="common_more_options">Daugiau parinkčių</string>
+    <string name="common_networking_settings_title">Tinklo ryšiai</string>
+    <string name="common_no_browser_for_restricted_url">Ribota prieiga. Nerasta jokių naršyklių.</string>
+    <string name="common_no_devices_found">Nerasta jokių įrenginių</string>
+    <string name="common_no_network">Negalima, nes įrenginys neprijungtas</string>
+    <string name="common_no_thanks">Ačiū, ne</string>
+    <string name="common_not_now">Ne dabar</string>
+    <string name="common_off">Išjungta</string>
+    <string name="common_ok">GERAI</string>
+    <string name="common_on">Įjungta</string>
+    <string name="common_open_on_phone">Atidaryti telefone</string>
+    <string name="common_open_source_licenses">Atvirojo šaltinio licencijos</string>
+    <string name="common_people_settings_title">Kontaktai</string>
+    <string name="common_permissions_enable_in_settings">Įgalinti Nustatym.</string>
+    <string name="common_permissions_missing_end">Jei norite tęsti, atidarykite skiltį „Nustatymai“, tada „Leidimai“ ir leiskite visus sąraše pateiktus elementus.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Kad įgalintumėte, eikite į skiltį
+„Nustatymai“ >
+„Leidimai“ >
+„Google Play“ paslaugos“"</string>
+    <string name="common_permissions_missing_start">Ši programa tinkamai neveiks, nebent leisite „Google Play“ paslaugų užklausai pasiekti nurodytą informaciją.</string>
+    <string name="common_permissions_open_settings">Atidaryti Nustatymus</string>
+    <string name="common_phone">Telefonas</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privatumo politika</string>
+    <string name="common_restore">Atkurti</string>
+    <string name="common_retry">Bandyti dar kartą</string>
+    <string name="common_search_settings_title">Paieška</string>
+    <string name="common_security_ootp_setting_title">Saugos kodas</string>
+    <string name="common_security_settings_title">Sauga</string>
+    <string name="common_send">Siųsti</string>
+    <string name="common_sending">Siunčiama…</string>
+    <string name="common_set_up_nearby_device_settings_title">Nustatyti įrenginius netoliese</string>
+    <string name="common_settings">Nustatymai</string>
+    <string name="common_signin_button_text">Prisijungti</string>
+    <string name="common_signin_button_text_long">Prisijungti naudojant „Google“</string>
+    <string name="common_something_went_wrong">Kažkas nepavyko</string>
+    <string name="common_system_info">Sistemos informacija</string>
+    <string name="common_take_photo_label">Fotografuoti</string>
+    <string name="common_terms_of_service">Paslaugų teikimo sąlygos</string>
+    <string name="common_try_again">Bandyti dar kartą</string>
+    <string name="common_turn_on_bluetooth">Įjungti „Bluetooth“</string>
+    <string name="common_ui_confirm_deleting_button">Ištrinti</string>
+    <string name="common_ui_confirm_deleting_checkbox">Suprantu ir noriu ištrinti</string>
+    <string name="common_unknown">Nežinoma</string>
+    <string name="common_update">Atnaujinti</string>
+    <string name="common_url_load_unsuccessful_message">„Android“ įrenginys neprijungtas prie duomenų paslaugos. Jei norite peržiūrėti šią informaciją dabar, žiniatinklio naršyklėje apsilankykite adresu %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">„Android“ įrenginys neprijungtas prie „Wi-Fi“ ryšio tinklo. Jei norite peržiūrėti šią informaciją dabar, žiniatinklio naršyklėje apsilankykite adresu %s.</string>
+    <string name="common_url_login_notice">Prisijungti kaip %1$s</string>
+    <string name="common_usage_and_diagnostics">Naudojimas ir diagnostika</string>
+    <string name="common_yesterday">Vakar</string>
+    <string name="confirm_copy_button_text">Kopijuoti</string>
+    <string name="contacts_number_device_and_icloud">„iCloud®“ saugykloje: %1$d, įrenginyje: %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">„Google“ kontaktai, „iCloud®“ saugykloje: %1$d, įrenginyje: %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">„Google“ kontaktai, SIM kortelėje: %1$d, įrenginyje: %2$d</string>
+    <string name="contacts_number_device_with_google">„Google“ kontaktai, įrenginyje: %1$d</string>
+    <string name="contacts_number_icloud_with_google">„Google“ kontaktai, „iCloud®“ saugykloje: %1$d</string>
+    <string name="contacts_number_sim_with_google">„Google“ kontaktai, SIM kortelėje: %1$d</string>
+    <string name="copy_confirmation_description">„Google“ paskyros ir programų duomenis nukopijuosite į naują telefoną</string>
+    <string name="copy_confirmation_title">Kopijuoti į naują telefoną?</string>
+    <string name="d2d_app_picker_description_no_apps">Nepavyko rasti programų</string>
+    <string name="d2d_app_picker_title">Programos</string>
+    <string name="d2d_migration_canceled_on_source">Kopijavimas atšauktas</string>
+    <string name="data_copied_fragment_description">Duomenys nukopijuoti į naują telefoną. Galite atjungti laidą.</string>
+    <string name="data_copied_fragment_description_cancel">Pasirinkote sustabdyti kopijavimo procesą, todėl tik dalis duomenų buvo nukopijuota į naują telefoną.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Pasirinkote sustabdyti kopijavimo procesą, todėl nieko nebuvo nukopijuota į naują telefoną.</string>
+    <string name="data_copied_fragment_description_error">Kažkas ne taip. Nepavyko visko nukopijuoti.</string>
+    <string name="data_copied_fragment_description_error_no_data">Kažkas ne taip. Nepavyko nukopijuoti duomenų.</string>
+    <string name="data_copied_fragment_no_data_title">Nepavyko nukopijuoti</string>
+    <string name="data_copied_fragment_some_data_title">Nukopijuota dalis duomenų</string>
+    <string name="data_copied_fragment_title">Duomenys nukopijuoti</string>
+    <string name="device_backup_title">Įrenginio duomenų atsarginė kopija</string>
+    <string name="device_not_supported_fragment_new_device">Esate prisijungę prie naujo telefono. Jei norite tęsti, prisijunkite iš naujo prie ankstesnio.</string>
+    <string name="device_not_supported_fragment_new_device_title">Iš naujo prisijunkite prie ankstesnio telefono</string>
+    <string name="device_not_supported_fragment_no_data_cable">Naudojant šį laidą negalima perduoti duomenų. Prisijunkite iš naujo naudodami kitą laidą ir bandykite dar kartą.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Išbandykite kitą laidą</string>
+    <string name="device_not_supported_fragment_retry_description">Įsitikinkite, kad senasis telefonas atrakintas, tada atjunkite ir vėl prijunkite kabelį</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Kažkas ne taip</string>
+    <string name="device_not_supported_ios_supervised_description">„iPhone®“ įrenginys yra prižiūrimas, todėl turėsite pasirinkti kitą būdą duomenims kopijuoti</string>
+    <string name="device_picker_description">Atsarginės kopijos saugomos „Google“ diske</string>
+    <string name="device_picker_empty">Nėra su %1$s susietų atsarginių kopijų.</string>
+    <string name="device_picker_empty_title">Atsarginių kopijų nerasta</string>
+    <string name="device_picker_item">„%1$s“ atsarginė kopija</string>
+    <string name="device_picker_last_used">Paskutinį kartą naudota: ^1</string>
+    <string name="device_picker_skip">Neatkurti</string>
+    <string name="device_picker_title">Pasirinkite atsarginę kopiją, kurią norite atkurti</string>
+    <string name="disabled_by_admin_summary_text">Valdo administratorius</string>
+    <string name="download_msg_error_invalid">Atsisiuntimas buvo netinkamai sukonfigūruotas.</string>
+    <string name="download_msg_in_progress">Vyksta atsisiuntimo procesas.</string>
+    <string name="download_msg_not_allowed_space">Nepakanka vietos, kad būtų galima atsisiųsti.</string>
+    <string name="download_msg_pending">Laukiama atsisiuntimo veiksmo.</string>
+    <string name="download_notification_description">„%1$s“ pateikė šių duomenų užklausą.</string>
+    <string name="download_notification_title">Gaunama daugiau duomenų</string>
+    <string name="drive_backup_account">Paskyra</string>
+    <string name="drive_backup_apps_in_backup">Atsarginė programų duomenų kopija</string>
+    <string name="drive_backup_apps_last_backup">Paskutinį kartą sukurta atsarginė kopija</string>
+    <string name="drive_backup_apps_loading">Įkeliama…</string>
+    <string name="drive_backup_apps_screen_title">Programų duomenys</string>
+    <string name="drive_backup_content_apps_title">Programų duomenys</string>
+    <string name="drive_backup_content_calendar_dialog_message">„Google“ kalendoriuje sukurti įvykiai bus sinchronizuoti visuose įrenginiuose, kuriuos naudojant prisijungta prie „Google“ paskyros.</string>
+    <string name="drive_backup_content_calendar_title">Kalendorius</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Į atsarginę kopiją įtraukiama data ir išsiųstų bei gautų skambučių gavėjas.</string>
+    <string name="drive_backup_content_callhistory_title">Skambučių istorija</string>
+    <string name="drive_backup_content_contacts_dialog_message">„Google“ kontaktuose sukurti kontaktai bus sinchronizuoti visuose įrenginiuose, kuriuos naudojant prijungta prie „Google“ paskyros.</string>
+    <string name="drive_backup_content_contacts_title">Kontaktai</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Kuriant atsargines kopijas įtraukiamas įrenginio konfigūravimas, pvz., ekrano fonas, „Wi-Fi“ slaptažodžiai ir numatytosios programos.</string>
+    <string name="drive_backup_content_devicesettings_title">Įrenginio nustatymai</string>
+    <string name="drive_backup_content_header">Turinys</string>
+    <string name="drive_backup_content_photos_dialog_message">Pagrindinė atsarginės kopijos paskyra pakeista. „Google“ nuotraukų atsarginės kopijos paskyrą taip pat galite pakeisti į %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ATSISAKYTI</string>
+    <string name="drive_backup_content_photos_dialog_title">Taip pat pakeisti nuotraukų ir vaizdo įrašų paskyrą?</string>
+    <string name="drive_backup_content_photos_dialog_yes">PAKEISTI</string>
+    <string name="drive_backup_content_photos_title">Nuotraukos ir vaizdo įrašai</string>
+    <string name="drive_backup_content_sms_dialog_message">Į atsarginę kopiją įtraukiami išsiųsti ir gauti pranešimai. Į ją neįtraukiama MMS medija.</string>
+    <string name="drive_backup_content_sms_title">SMS teksto pranešimai</string>
+    <string name="drive_backup_content_status_dolly_action">Supratau</string>
+    <string name="drive_backup_content_status_error">Klaida nuskaitant paskutinio sinchronizavimo datą</string>
+    <string name="drive_backup_content_status_lastsaved">Atsarginė kopija paskutinį kartą sukurta: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Paskutinį kartą sinchronizuota: %1$s</string>
+    <string name="drive_backup_content_status_never">Laukiama, kol bus sukurta atsarginė kopija</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Sinchronizavimo nustatymai</string>
+    <string name="drive_backup_content_status_sync_off">Sinchronizavimas IŠJUNGTAS</string>
+    <string name="drive_backup_content_status_updating">Tikrinama būsena...</string>
+    <string name="drive_backup_disabled_backuplist">"Į atsarginę kopiją įtraukta:
+\u0009– programos ir programų duomenys;
+\u0009– skambučių istorija;
+\u0009– įrenginio nustatymai (įskaitant „Wi-Fi“ slaptažodžius);
+\u0009– „Google“ kalendorius;
+\u0009– „Google“ kontaktai;
+\u0009– nuotraukos ir vaizdo įrašai;
+\u0009– SMS."</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Į atsarginę kopiją įtraukiama:
+\u0009- programos ir programų duomenys;
+\u0009- skambučių istorija;
+\u0009- įrenginio nustatymai (įskaitant „Wi-Fi“ slaptažodžius);
+\u0009- „Google“ kalendorius;
+\u0009- „Google“ kontaktai;
+\u0009- SMS."</string>
+    <string name="drive_backup_disabled_by_device_owner">Išjungė administratorius</string>
+    <string name="drive_backup_disabled_detailedinfo">"„Google“ kalendorius, „Google“ kontaktai, nuotraukos ir vaizdo įrašai sinchronizuojami „Google“ paskyroje ir gali būti naudojami įvairiose paslaugose.
+
+Sinchronizavimą galima įgalinti, net jei atsarginės kopijos kūrimas išjungtas. Sinchronizavimo nustatymus galima pakeisti skiltyje „Nustatymai“ > „Paskyros“ > „Google“."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"„Google“ kalendorius ir „Google“ kontaktai sinchronizuojami su „Google“ paskyra ir juos galima naudoti įvairiose paslaugose.
+
+Sinchronizavimą galima įgalinti, net išjungus atsarginį kopijavimą. Sinchronizavimo nustatymus galima keisti skiltyje „Nustatymai“ > „Paskyros“ > „Google“."</string>
+    <string name="drive_backup_disabled_introduction">Automatinis atsarginės kopijos kūrimas užtikrina, kad galėtumėte lengvai atkurti ar perjungti telefonus bet kuriuo metu.</string>
+    <string name="drive_backup_settings_title">Atsarginė kopija</string>
+    <string name="drive_backup_state">Kurti atsarginę kopiją „Google“ diske</string>
+    <string name="drive_backup_state_dialog_message">"Šio įrenginio duomenys, kurių atsarginė kopija sukurta „Google“ diske, bus ištrinti visam laikui.
+
+Nuotraukos ir vaizdo įrašai, kurių atsarginė kopija jau sukurta, vis tiek bus pasiekiami „Google“ diske.
+
+„Google“ kalendorius ir „Google“ kontaktai ir toliau bus sinchronizuojami „Google“ paskyroje. Sinchronizavimo nustatymus galima pakeisti skiltyje „Nustatymai“ > „Paskyros“ > „Google“."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Šio įrenginio atsarginės kopijos duomenys „Google“ diske bus visam laikui ištrinti.
+
+„Google“ kalendorius ir „Google“ kontaktai toliau bus sinchronizuojami su „Google“ paskyra. Sinchronizavimo nustatymus galima keisti skiltyje „Nustatymai“ > „Paskyros“ > „Google“."</string>
+    <string name="drive_backup_state_dialog_okaction">Išjungti ir ištrinti</string>
+    <string name="drive_backup_state_dialog_title">Išjungti ir ištrinti atsarginę kopiją?</string>
+    <string name="durationDayHour">%1$d d. %2$d val.</string>
+    <string name="durationDayHours">%1$d d. %2$d val.</string>
+    <string name="durationDays">%1$d d.</string>
+    <string name="durationHourMinute">%1$d val. %2$d min.</string>
+    <string name="durationHourMinutes">%1$d val. %2$d min.</string>
+    <string name="durationHours">%1$d val.</string>
+    <string name="durationMinute">%1$d min.</string>
+    <string name="durationMinuteSecond">%1$d min. %2$d sek.</string>
+    <string name="durationMinuteSeconds">%1$d min. %2$d sek.</string>
+    <string name="durationMinutes">%1$d min.</string>
+    <string name="durationSecond">%1$d sek.</string>
+    <string name="durationSeconds">%1$d sek.</string>
+    <string name="encryption_warning_fragment_description">"Atsarginė šifruotė įjungta „iPhone®“ įrenginyje. Jei patys jos neįjungėte, ją galėjo įjungti jūsų IT administratorius.
+
+Kopijuoti galima tik nuotraukas, muziką ir vaizdo įrašus. Jei reikia daugiau informacijos, apsilankykite adresu "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Atsarginė šifruotė</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Nerandu adapterio</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Raskite „Quick Switch Adapter“, kuris buvo pristatytas dėžutėje kartu su „^1“ įrenginiu.
+
+Prijunkite laidą prie adapterio."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Prijunkite adapterį ir laidą</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Atrakinkite seną telefoną, tada prijunkite adapterį prie šio telefono.</string>
+    <string name="fragment_usb_connect_both_phones_title">Sujunkite abu telefonus</string>
+    <string name="fragment_usb_dialog_cancel_description">Didžiąją dalį turinio perkelsite, tik jei naudosite laidą. Jei dėžutėje esantys laidai netinka, pabandykite naudoti įkrovimo ar duomenų laidą, kuris veikia su senu telefonu.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kopijuoti duomenis kitu būdu?</string>
+    <string name="fragment_usb_dont_have_cable">Neturiu laido</string>
+    <string name="fragment_usb_dont_have_old_phone">Neturiu seno telefono</string>
+    <string name="fragment_usb_find_cable_description">Naudokite senam telefonui tinkantį laidą, pvz., duomenų ar įkrovimo laidą.</string>
+    <string name="fragment_usb_find_cable_title">Raskite tinkamą laidą</string>
+    <string name="fragment_usb_initial_description">Perkelkite duomenis iš seno telefono į šį „^1“ įrenginį.</string>
+    <string name="fragment_usb_initial_title">Nukopijuokime duomenis</string>
+    <string name="fragment_usb_legacy_description">"Tai greičiausias būdas perkelti daugumą duomenų.
+
+Dėžutėje suraskite adapterį ir prijunkite prie naujo telefono. Sujunkite telefonus laidu ir atrakinkite seną telefoną."</string>
+    <string name="fragment_usb_other_ways">Kopijuoti nenaudojant laido</string>
+    <string name="fragment_usb_plug_cable">Prijunkite laidą prie seno telefono</string>
+    <string name="fragment_waiting_title">Šiek tiek palaukite…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">„Google“ kontaktai bus sinchronizuojami</string>
+    <string name="google_contacts_static_text_off">„Google“ kontaktai vis tiek bus sinchronizuojami</string>
+    <string name="header_set_backup_account">Nustatyti atsarginę paskyrą</string>
+    <string name="i_message_dialog_message">"Kad ir toliau gautumėte SMS pranešimus iš „iPhone®“ įrenginių naudotojų, turėsite išjungti „iMessage®“.
+
+Instrukcijų galite gauti apsilankę adresu "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Tęskite kitu telefonu</string>
+    <string name="ios_connected_fragment_description">"Kitame ekrane galėsite prisijungti prie „Google“ paskyros arba sukurti naują.
+
+Jei nepridėsite „Google“ paskyros, „iOS Calendar®“ įvykiai nebus perkelti."</string>
+    <string name="ios_message_attachment_explanation">[Jūsų pranešimo priedai yra skiltyje „Google“ nuotraukos“ > „Įrenginio aplankai“ > „Pranešimų priedai“]</string>
+    <string name="ios_message_attachment_failed_explanation">[Kai kurių priedų nepavyko nukopijuoti. Perkeltus priedus galima rasti skiltyje „Google“ nuotraukos“ > „Įrenginio aplankai“ > „Pranešimų priedai“]</string>
+    <string name="ios_message_attachment_placeholder">[Priedas, išsaugotas skiltyje „Google“ nuotraukos > „Įrenginio aplankai“ > „Pranešimų priedai“]</string>
+    <string name="ios_message_attachments_placeholder">[Priedai, išsaugoti skiltyje „Google“ nuotraukos > „Įrenginio aplankai“ > „Pranešimų priedai“]</string>
+    <string name="ios_migration_default_calendar_title">Kalendorius</string>
+    <string name="ios_migration_other_contact_relation">Kita</string>
+    <string name="ios_photos_dialog_message">"Negalima nukopijuoti sistemoje „iCloud®“ saugomų nuotraukų.
+
+Jei norite perkelti šias nuotraukas į „^1“ įrenginį, įdiekite „Google“ nuotraukų programą į „iPhone®“ įrenginį ir įjunkite funkciją „Atsarginės kopijos kūrimas ir sinchronizavimas“. Jei reikia daugiau instrukcijų, apsilankykite adresu "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Pridėti paskyrą</string>
+    <string name="lockscreen_smartdevice_action_next">Kitas</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Atrakinkite ir tęskite įrenginio sąrankos procesą.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Saugumo sumetimais turite patvirtinti ekrano užraktą, kad galėtumėte tęsti sąrankos procesą</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Patvirtinkite ekrano užraktą</string>
+    <string name="manage_data_label">„Google“ paskyra</string>
+    <string name="master_clear_title">Gamyklinių duomenų atkūrimas</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Reikia nustatyti atsarginę paskyrą</string>
+    <string name="notification_content_title_set_backup_account">Atsarginė paskyra</string>
+    <string name="notification_ticker_set_backup_account">Reikia atsarginės paskyros</string>
+    <string name="permgrouplab_calendar">Kalendorius</string>
+    <string name="permgrouplab_camera">Fotoaparatas</string>
+    <string name="permgrouplab_contacts">Kontaktai</string>
+    <string name="permgrouplab_location">Vietovė</string>
+    <string name="permgrouplab_microphone">Mikrofonas</string>
+    <string name="permgrouplab_phone">Telefonas</string>
+    <string name="permgrouplab_sensors">Kūno jutikliai</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Saugykla</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Šiuo metu jokioje paskyroje nesaugomos atsarginės nuotraukų kopijos</string>
+    <string name="photos_backup_title">Nuotraukų atsarginė kopija</string>
+    <string name="photos_filtering_option_all">Viskas</string>
+    <string name="photos_filtering_option_none">Nieko</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Nukopijuoti kontaktai bus išsaugoti „Google“ paskyroje.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Nukopijuoti kontaktai ir kalendoriai bus išsaugoti „Google“ paskyroje.</string>
+    <string name="restore_choice_data_disclaimer_v2">Kai kurie duomenys galėjo būti nenukopijuoti į „^1“ įrenginį. <annotation id="restore_choice_data_disclaimer_learn_more">Sužinokite daugiau</annotation></string>
+    <string name="restore_choice_deselect_some_content">Jei norite tęsti, panaikinkite dalies turinio pasirinkimą</string>
+    <string name="restore_choice_learn_more_android">"Kai kurių duomenų iš seno telefono negalima nukopijuoti automatiškai.
+
+ ● Atsisiuntimai (pvz., PDF failai)
+
+ ● Paslėptuose aplankuose saugomos nuotraukos, vaizdo įrašai ir muzika
+
+ ● Teksto pranešimu gautos nuotraukos, vaizdo įrašai ir muzika
+
+ ● Programos, įdiegtos ne iš „Google Play“ parduotuvės
+
+ ● Programų duomenys (jei programoje nenaudojama „Android“ atsarginė kopija)
+
+ ● Tam tikri įrenginio nustatymai
+
+ ● Kitos nei „Google“ paskyros (ir atitinkami duomenys)
+
+ ● Kontaktai ir kalendoriai, sinchronizuoti su kitomis nei „Google“ paslaugomis
+
+ ● Skambėjimo tonai
+
+ Daugiau informacijos ir pagalbos kopijuojant kai kuriuos iš šių duomenų galite gauti apsilankę adresu g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Kai kurių duomenų iš seno telefono negalima nukopijuoti automatiškai.
+
+ ● Programos ir programų naujiniai
+
+ ● Nuotraukos, kurių pradinė versija neišsaugota telefone (pavyzdžiui, jei įjungtas nustatymas „Optimizuoti saugyklą“, pradinės nuotraukos saugomos sistemoje „iCloud®“)
+
+ ●Sistemoje „iCloud®“ saugomi failai ir dokumentai
+
+ ● Įrenginio nustatymai (pvz., „Wi-Fi“ slaptažodžiai ir ekrano fonas)
+
+ ● Muzika, apsaugota naudojant skaitmeninių teisių tvarkymo (DRM) paslaugą (pavyzdžiui, „iTunes®“ muzika, kurią įsigijote prieš 2009 m. balandžio mėn., arba muzika, atsisiųsta, kad būtų galima klausytis neprisijungus, naudojant muzikos srautinio perdavimo programą)
+
+ ● Kitos nei „Google“ paskyros (ir atitinkami duomenys)
+
+ ● Kontaktai ir kalendoriai, sinchronizuoti kitose nei „Google“ arba „iCloud®“ paslaugose
+
+ ● Žymės iš naršyklės „Safari®“
+
+ „iMessage®“ priedai bus pasiekiami skiltyje „Google“ nuotraukos“ > „Įrenginio aplankai“ > „Pranešimų priedai“.
+
+ Daugiau informacijos ir pagalbos kopijuojant kai kuriuos iš šių duomenų galite gauti apsilankę adresu g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nepakanka vietos</string>
+    <string name="restore_choice_total_text">%1$s pasiekiamos vietos / %2$s perkėlimas</string>
+    <string name="restore_error_message">Atkuriant įvyko klaida. Apgailestaujame.</string>
+    <string name="restore_item_appdata">Programų duomenys</string>
+    <string name="restore_item_calendar">Kalendorius</string>
+    <string name="restore_item_calendar_ical_description">„iOS® Calendar“, „Google“ kalendorius</string>
+    <string name="restore_item_calendar_ical_off_description">„Google“ kalendorius vis tiek bus sinchronizuojamas</string>
+    <string name="restore_item_calendar_sync_description">„Google“ kalendorius bus sinchronizuojamas</string>
+    <string name="restore_item_call_logs">Skambučių istorija</string>
+    <string name="restore_item_contacts">Kontaktai</string>
+    <string name="restore_item_device_settings_description">„Wi-Fi“ slaptažodžiai ir daugiau</string>
+    <string name="restore_item_downloads">Atsisiuntimai</string>
+    <string name="restore_item_email">El. paštas</string>
+    <string name="restore_item_email_description">„Gmail“ bus sinchronizuojama</string>
+    <string name="restore_item_message_attachments">Pranešimų priedai</string>
+    <string name="restore_item_messages">Pranešimai</string>
+    <string name="restore_item_music">Muzika</string>
+    <string name="restore_item_photos">Nuotraukos ir vaizdo įrašai</string>
+    <string name="restore_item_settings">Įrenginio nustatymai</string>
+    <string name="restore_item_sms">SMS pranešimai</string>
+    <string name="restore_item_will_be_synced_text">Šie duomenys bus sinchronizuojami jūsų telefone</string>
+    <string name="restore_progress_title">Atkuriama...</string>
+    <string name="search_menu_title">Paieška</string>
+    <string name="small_time_duration">Mažiau nei 1 min.</string>
+    <string name="source_connected_description">Ruošiama...</string>
+    <string name="source_connected_title">Prisijungta prie „%1$s“</string>
+    <string name="source_copying_description">Pasirinkti duomenys kopijuojami į naują telefoną</string>
+    <string name="source_copying_title">Kopijuojama...</string>
+    <string name="source_default_target_device_name">naujas įrenginys</string>
+    <string name="source_notification_device_disconnected">Iš naujo prijunkite laidą</string>
+    <string name="source_notification_text">Vykdomas perkėlimas iš vieno telefono į kitą</string>
+    <string name="source_notification_title">Duomenų perkėlimas</string>
+    <string name="source_success_description">Baigti „%1$s“ sąranką.</string>
+    <string name="source_success_screen_title">Viskas atlikta!</string>
+    <string name="source_unplugged_description">Iš naujo prisijunkite prie „%1$s“</string>
+    <string name="source_unplugged_title">Kabelis atjungtas</string>
+    <string name="source_waiting_title">Tęskite sąranką naudodami „%1$s“</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Atsisakyti</string>
+    <string name="stop_copying_dialog_message_before_transfer">Duomenys nenukopijuoti į naują telefoną</string>
+    <string name="stop_copying_dialog_message_during_transfer">Kai kurie duomenys nenukopijuoti į naują telefoną</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nekopijuoti</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Sustabdyti</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nekopijuoti?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Sustabdyti kopijavimą?</string>
+    <string name="storage_management_wear_descriptive_text">Programos naudoja įrenginio saugyklą duomenims perkelti į nešiojamuosius įrenginius.</string>
+    <string name="storage_management_wear_manage_size_label">Tvarkyti nešiojamojo įrenginio saugyklą</string>
+    <string name="storage_management_wear_size_label">Nešiojamojo įrenginio saugykla</string>
+    <string name="storage_managment_all_storage_descriptive_text">Visi duomenys, naudojami „Google Play“ paslaugoms teikti, įskaitant paieškos variklį ir kitus duomenis.</string>
+    <string name="storage_managment_clear_all_data">Išvalyti visus duomenis</string>
+    <string name="storage_managment_computing_size">Skaičiuojama…</string>
+    <string name="storage_managment_icing_size_label">Paieškos duomenys</string>
+    <string name="storage_managment_manage_icing_button">Tvarkyti paieškos duomenis</string>
+    <string name="storage_managment_search_index_descriptive_text">Pagreitiname paiešką įrenginyje programoms teikdami paieškos variklį.</string>
+    <string name="storage_managment_title">„Google Play“ paslaugų saugykla</string>
+    <string name="storage_managment_total_size_label">Visa vieta saugykloje</string>
+    <string name="suw_back_button_label">Atgal</string>
+    <string name="suw_more_button_label">Daugiau</string>
+    <string name="suw_next_button_label">Kitas</string>
+    <string name="target_default_source_device_model">senas įrenginys</string>
+    <string name="target_device_not_supported_cant_continue_description">Turite pasirinkti kitą duomenų kopijavimo būdą</string>
+    <string name="target_device_not_supported_cant_continue_title">Kitas telefonas nepalaikomas</string>
+    <string name="target_device_not_supported_try_restarting_description">"Atjunkite laidą ir paleiskite seną telefoną iš naujo, tada prijunkite laidą iš naujo ir vadovaukitės instrukcijomis „Pixel“ įrenginyje.
+
+Jei ši klaida vis tiek rodoma, gali reikėti išbandyti kitą kopijavimo būdą."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefonas gali būti nepalaikomas</string>
+    <string name="target_smart_device_timeout_add_account">PRIDĖTI PASKYRĄ</string>
+    <string name="target_smart_device_timeout_description">Jei norite, galite pabandyti patys pridėti paskyrą</string>
+    <string name="target_smart_device_timeout_dismiss">ATSISAKYTI</string>
+    <string name="target_smart_device_timeout_title">Iškilo problemų?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonai prijungti</string>
+    <string name="toast_reconnect_cable">Iš naujo prijunkite laidą</string>
+    <string name="transfer_finished_fragment_title">Baigiama...</string>
+    <string name="transfer_summary_copied">Duomenys nukopijuoti</string>
+    <string name="transfer_summary_fragment_description">Galite atjungti laidą.</string>
+    <string name="transfer_summary_fragment_finish">BAIGTI</string>
+    <string name="transfer_summary_fragment_title">Jūsų telefonas beveik paruoštas</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Kai kurios nuotraukos nebuvo nukopijuotos. <annotation id="transfer_summary_learn_more">Sužinokite daugiau</annotation></string>
+    <string name="transfer_summary_not_copied">Duomenys nenukopijuoti</string>
+    <string name="transfer_summary_partial">Nukopijuota: %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">Duomenys bus sinchronizuojami po sąrankos</string>
+    <string name="transferring_fragment_calculating_remaining_time">Skaičiuojamas likęs laikas...</string>
+    <string name="transferring_fragment_header">Kopijuojama...</string>
+    <string name="transferring_fragment_remaining_time">Liko: %1$s</string>
+    <string name="trust_instructions_description">Jei norite tęsti, patikrinkite „iPhone®“ įrenginį ir patvirtinkite ryšį</string>
+    <string name="trust_instructions_trademark_disclaimer">„iPhone“, „iPad“, „iOS“, „iCloud“, „Safari“ ir „iTunes“ yra „Apple Inc.“ prekių ženklai, registruoti JAV ir kitose šalyse.</string>
+</resources>

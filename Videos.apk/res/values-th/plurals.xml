@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">ได้คะแนน %1$s ดาวจากผู้ใช้ %2$d คน</item>
+        <item quantity="one">ได้คะแนน %1$s ดาวจากผู้ใช้ 1 คน</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">หมดอายุใน %1$d วัน</item>
+        <item quantity="one">หมดอายุใน %1$d วัน</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">หมดอายุใน %1$d ชั่วโมง</item>
+        <item quantity="one">หมดอายุใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">อีก %1$d รายการ</item>
+        <item quantity="one">อีก %1$d รายการ</item>
+    </plurals>
+</resources>

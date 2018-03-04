@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">ቀጣይ</string>
+    <string name="suw_back_button_label">ተመለስ</string>
+    <string name="suw_more_button_label">ተጨማሪ</string>
+    <string name="vzw_wfc_activation_error">የWi-Fi ጥሪን ማግበር አልተቻለም። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
+    <string name="vzw_address_update_error">በዚህ ጊዜ የአሁኑን ድንገተኛ አድራሻ ማዘመን አልተቻለም። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
+    <string name="emergency_address_app_label">የአደጋ ጊዜ አድራሻ አስተዳደር</string>
+    <string name="progress_text">እባክዎ ይጠብቁ…</string>
+    <string name="vzw_tos_title">የWi-Fi ጥሪ አደራረግን አግብር</string>
+    <string name="cancel">ተወው</string>
+    <string name="vzw_tos_text">"የWi-Fi ጥሪ አደራረግ የሞባይል አውታረ መረብ በማይገኝበት ጊዜ Wi-Fiን በመጠቀም ጥሪዎችን እንዲያደርጉ ያስችልዎታል።
+
+የWi-Fi ጥሪ አደራረግን ለማንቃት፣ የዩኤስ አሜሪካ አድራሻ ማስገባት ያስፈልግዎታል። ይህ አድራሻ እርስዎ የድንገተኛ አደጋ (E911) ጥሪን በWi-Fi በኩል ከዚህ ስልክ ላይ በዩናይትድ ስቴትስ ውስጥ ካደረጉ በድንገተኛ አደጋ አገልግሎቶች ጥቅም ላይ ይውላል።
+
+የእርስዎ መገኛ አካባቢ መረጃ ትክክለኛ እንዲሆን የተለየ የWi-Fi አውታረ መረብ ተጠቅመው ጥሪዎችን በሚያደርጉበት ጊዜ ይህን አድራሻ እንዲለውጡት እንመክርዎታለን። የእርስዎን መገኛ አካባቢ በማናቸውም ጊዜ ወደ የWi-Fi ጥሪ አደራረግ ቅንብሮች ምናሌ በመሄድ መለወጥ ይችላሉ።"</string>
+    <string name="vzw_tos_link">የአገልግሎት ውል</string>
+    <string name="tos_continue">ቀጥል</string>
+    <string name="vzw_e911_title">የድንገተኛ አደጋ መገኛ አካባቢ መረጃ</string>
+    <string name="vzw_e911_description"><b>አስፈላጊ - የድንገተኛ አደጋ 911 አድራሻ ያስፈልጋል</b>"
+የWi-Fi ጥሪን ለማብራት እርስዎ ወደ 911 ከደወሉ የድንገተኛ አገልግሎቶች እንዲላኩ የሚፈልጉበትን የአሜሪካ አድራሻ ያስገቡ። በማንኛቸውም ጊዜ ወደ ቅንብሮች በመሄድ ይህን አድራሻ መለወጥ ይችላሉ። የእርስዎን አካባቢ በለወጡ ቁጥር ይህን አድራሻ ማዘመን በጣም አስፈላጊ ነው።"</string>
+    <string name="vzw_e911_warning"><b>ማስጠንቀቂያዎች - የአስቸኳይ አደጋ 911 ጥሪ ገደቦች</b>"
+ወደ 911 ሲደውሉ ሁልጊዜ የት እንዳሉ ለኦፐሬተሯ ይንገሩ። የእርስዎ የ911 ጥሪ በWi-Fi ላይ የምደረገው የተንቀሳቃሽ ስልክ አውታረ መረብ የማይገኝ ሲሆን ብቻ ነው። በWi-Fi ላይ የተደረገ የ911 ጥሪ ሊዘገይ ወይም ላይሳካ ይችላል፤ ለምሳሌ፣ የ911 ሥርዓቱ አድራሻውን የማያውቀው ከሆነ፣ የኤሌክትሪክ ኃይል ከተቋረጠ ወይም የእርስዎ የWi-Fi ግንኙነት እየሰራ ካልሆነ። የአስቸኳይ አደጋ አገልግሎቶች እርስዎ ከላይ ወዳቀረቡት አድራሻ ይላካሉ፣ ስለዚህ እባክዎ ልክ ቦታ እንደቀየሩ ያዘምኑት።"</string>
+    <string name="house_number">አድራሻ ቁጥር</string>
+    <string name="street">ጎዳና</string>
+    <string name="apt_suite_number">አፓርትመንት፣ ክፍል ቁጥር፣ ወዘተ</string>
+    <string name="city">ከተማ</string>
+    <string name="state">ግዛት</string>
+    <string name="zip_code">ዚፕ ኮድ</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="vzw_address_confirm_text_part1">የጎዳና አድራሻው ሊገኝ ስላልቻለ ወይም ከተማው፣ ግዛቱ እና የዚፕ ኮዱ ትክክል ላይሆኑ ስለሚችሉ ያስገቡትን አድራሻ ልናገኘው አልቻልንም።</string>
+    <string name="vzw_address_confirm_text_part2">የእርስዎ ከተማ፣ ግዛት ወይም ዚፕ ኮድ ትክክል ካልሆኑ %1$sን መታ ያድርጉ፣ አለበለዚያ %2$sን መታ ያድርጉ።</string>
+    <string name="save_anyway">የሆነው ቢሆንም አስቀምጥ</string>
+    <string name="edit_address">አድራሻን አርትዕ ያድርጉ</string>
+    <string name="ok">እሺ</string>
+    <string name="vzw_address_select_text">እርስዎ ያስገቡትን አድራሻ ማግኘት አልቻልንም፦</string>
+    <string name="vzw_address_alternate_text">ይህን ማለትዎ ነው፦</string>
+    <string name="vzw_partial_confirm_head">የገባው አድራሻ በድንገተኛ አደጋ አገልግሎት አቅራቢዎች ትክክለኛ ስለመሆኑ ሊረጋገጥ አልተቻለም።</string>
+    <string name="vzw_partial_confirm_text">ድንገተኛ አደጋ ቢያጋጥም ይህን አድራሻ መጠቀም እንደሚፈልጉ እርግጠኛ ነዎት?</string>
+    <string name="vzw_partial_failure_text_part1">ያስገቡት ከተማ፣ ግዛት ወይም የዚፕ ኮድ ትክክል ላይሆኑ ይችላሉ።</string>
+    <string name="vzw_partial_failure_text_part2">እባክዎ አድራሻውን ይፈትሹ እና እንደገና ይሞክሩ።</string>
+    <string name="vzw_address_update_success_toast">የድንገተኛ አደጋ ጊዜ አድራሻ ዘምኗል</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi ጠፍቷል</string>
+    <string name="connect_to_wifi_or_web_portal_message">የተንቀሳቃሽ ስልክ አውታረ መረቡን በመጠቀም የWi-Fi ጥሪን ማዋቀር ይችላሉ፣ ነገር ግን ይህን ባህሪ ለመጠቀም Wi-Fiን ማብራት እና ከአውታረ መረብ ጋር መገናኘት አለብዎት።</string>
+    <string name="button_turn_on_wifi">Wi-Fi አብራ</string>
+    <string name="button_setup_web_portal">ማዋቀርን ቀጥል</string>
+</resources>

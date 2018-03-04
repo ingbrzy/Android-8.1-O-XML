@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">ล้างการค้นหา</string>
+    <string name="place_autocomplete_search_hint">ค้นหา</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="anomaly_entry_system">ระบบ Android</string>
+    <string name="background_battery_usage_description">ตรวจพบการใช้แบตเตอรี่เปลืองในพื้นหลัง</string>
+    <string name="battery_history_days">%1$d วัน %2$d ชม. %3$d นาที %4$d วินาที</string>
+    <string name="battery_history_hours">%1$d ชม. %2$d นาที %3$d วินาที</string>
+    <string name="battery_history_minutes">%1$d นาที %2$d วินาที</string>
+    <string name="battery_history_seconds">%1$d วินาที</string>
+    <string name="battery_history_days_no_seconds">%1$d วัน %2$d ชม. %3$d นาที</string>
+    <string name="battery_history_hours_no_seconds">%1$d ชม. %2$d นาที</string>
+    <string name="battery_history_minutes_no_seconds">%1$d นาที</string>
+    <string name="notification_channel_name">การแจ้งเตือนแบตเตอรี่เหลือน้อย</string>
+    <string name="time_remaining_warning_subtext">เหลืออีกราว %1$s อิงตามการใช้งานของคุณ</string>
+    <string name="time_remaining_warning_text">แบตเตอรี่อาจหมดเร็วๆ นี้</string>
+    <string name="usage_alerts_empty_state">ไม่มีการแจ้งเตือนตั้งแต่ชาร์จแบตเตอรี่เต็มครั้งล่าสุด</string>
+    <string name="usage_alerts_title">การแจ้งเตือนการใช้งาน</string>
+</resources>

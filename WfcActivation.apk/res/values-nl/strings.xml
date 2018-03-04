@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Volgende</string>
+    <string name="suw_back_button_label">Terug</string>
+    <string name="suw_more_button_label">Meer</string>
+    <string name="vzw_wfc_activation_error">"Kan 'Bellen via wifi' niet activeren. Probeer het later opnieuw."</string>
+    <string name="vzw_address_update_error">Het huidige noodadres kan op dit moment niet worden geüpdatet. Probeer het later opnieuw.</string>
+    <string name="emergency_address_app_label">Noodadres beheren</string>
+    <string name="progress_text">Even geduld…</string>
+    <string name="vzw_tos_title">Bellen via wifi activeren</string>
+    <string name="cancel">Annuleren</string>
+    <string name="vzw_tos_text">"Met 'Bellen via wifi' kun je bellen via wifi wanneer het mobiele netwerk niet beschikbaar is.
+
+Als je 'Bellen via wifi' wilt instellen, moet je een adres in de VS opgeven. Dit adres wordt gebruikt door de noodhulpdiensten op jouw locatie wanneer je binnen de VS een noodoproep (E911) met deze telefoon via wifi plaatst.
+
+We raden je aan dit adres te wijzigen wanneer je een ander wifi-netwerk gebruikt om te bellen, zodat je locatiegegevens accuraat zijn. Je kunt je locatie op elk gewenst moment wijzigen in het instellingenmenu voor bellen via wifi."</string>
+    <string name="vzw_tos_link">Algemene voorwaarden</string>
+    <string name="tos_continue">Doorgaan</string>
+    <string name="vzw_e911_title">Locatiegegevens voor noodoproepen</string>
+    <string name="vzw_e911_description"><b>BELANGRIJK - NOODADRES VEREIST</b>"
+Als je 'Bellen via wifi' wilt inschakelen, geef je het adres in de VS op waar de noodhulpdiensten in het geval van een noodoproep naartoe moeten worden gestuurd. Je kunt dit adres op elk gewenst moment wijzigen via de instellingen. Het is belangrijk dat je dit adres aanpast wanneer je je op een andere locatie bevindt."</string>
+    <string name="vzw_e911_warning"><b>WAARSCHUWING: BEPERKINGEN VOOR NOODOPROEPEN</b>"
+Vertel de telefonist bij een noodoproep altijd waar je je bevindt. Je noodoproep verloopt alleen via wifi wanneer het mobiele netwerk niet beschikbaar is. Noodoproepen via wifi kunnen vertraging oplopen of zelfs mislukken wanneer het systeem van de noodhulpdiensten je adres niet herkent, er sprake is van een stroomstoring of als je wifi-verbinding niet werkt. De noodhulpdiensten worden naar het adres gestuurd dat je hierboven hebt opgegeven. Update daarom je locatie wanneer je je op een andere locatie bevindt."</string>
+    <string name="house_number">Huisnummer</string>
+    <string name="street">Straat</string>
+    <string name="apt_suite_number">Appartement, suite, enzovoort</string>
+    <string name="city">Plaats</string>
+    <string name="state">Staat</string>
+    <string name="zip_code">Postcode</string>
+    <string name="save">Opslaan</string>
+    <string name="vzw_address_confirm_text_part1">We kunnen het adres dat je hebt opgegeven niet vinden omdat het straatadres niet kan worden gevonden of omdat er mogelijk een onjuiste plaats, provincie of postcode is opgegeven.</string>
+    <string name="vzw_address_confirm_text_part2">Als je plaats, provincie en postcode niet juist zijn, tik je op %1$s. Tik anders op %2$s.</string>
+    <string name="save_anyway">Toch opslaan</string>
+    <string name="edit_address">Adres bewerken</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">We kunnen het adres niet vinden dat je hebt opgegeven:</string>
+    <string name="vzw_address_alternate_text">Bedoelde je:</string>
+    <string name="vzw_partial_confirm_head">Het opgegeven adres kan niet worden gevalideerd door de noodhulpdiensten.</string>
+    <string name="vzw_partial_confirm_text">Weet je zeker dat je in geval van nood dit adres wilt gebruiken?</string>
+    <string name="vzw_partial_failure_text_part1">Je hebt mogelijk een onjuiste plaats, provincie of postcode opgegeven.</string>
+    <string name="vzw_partial_failure_text_part2">Controleer het adres en probeer het opnieuw.</string>
+    <string name="vzw_address_update_success_toast">Adres voor noodgevallen geüpdatet</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wifi is uitgeschakeld</string>
+    <string name="connect_to_wifi_or_web_portal_message">Je kunt bellen via wifi inschakelen met het mobiele netwerk, maar je moet wifi inschakelen en verbinding maken met een netwerk als je deze functie wilt gebruiken.</string>
+    <string name="button_turn_on_wifi">Wifi inschakelen</string>
+    <string name="button_setup_web_portal">Doorgaan met instellen</string>
+</resources>

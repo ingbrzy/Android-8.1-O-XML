@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d ਸੰਪਰਕਾਂ ਨੂੰ ਲੇਬਲ %2$s ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਸੰਪਰਕਾਂ ਨੂੰ ਲੇਬਲ %2$s ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d ਸੰਪਰਕਾਂ ਨੂੰ ਲੇਬਲ %2$s ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item quantity="one">%1$d ਸੰਪਰਕ ਨੂੰ ਲੇਬਲ %2$s ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d ਸੰਪਰਕਾਂ ਲਈ ਸੁਝਾਈ ਗਈ ਜਾਣਕਾਰੀ ਦੀ ਸਮੀਖਿਆ ਕਰੋ</item>
+        <item quantity="one">%d ਸੰਪਰਕ ਲਈ ਸੁਝਾਈ ਗਈ ਜਾਣਕਾਰੀ ਦੀ ਸਮੀਖਿਆ ਕਰੋ</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d ਜੰਕ ਸੰਪਰਕ</item>
+        <item quantity="one">%d ਜੰਕ ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d ਡੁਪਲੀਕੇਟ ਸੰਪਰਕ</item>
+        <item quantity="one">%d ਡੁਪਲੀਕੇਟ ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d ਹਾਲੀਆ ਕਾਲਾਂ • ਪਿਛਲੀ ਵਾਰ %2$s ਨੂੰ</item>
+        <item quantity="one">%1$d ਹਾਲੀਆ ਕਾਲਾਂ • ਪਿਛਲੀ ਵਾਰ %2$s ਨੂੰ</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">ਸੰਪਰਕਾਂ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਲੇਬਲ %1$s ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ</item>
+        <item quantity="one">ਸੰਪਰਕ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਲੇਬਲ %1$s ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d ਸੰਪਰਕ</item>
+        <item quantity="one">%d ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d ਸੰਪਰਕ · %2$s</item>
+        <item quantity="one">%1$d ਸੰਪਰਕ · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d ਸੰਪਰਕ ਮਿਟਾਏ ਗਏ</item>
+        <item quantity="one">%1$d ਸੰਪਰਕ ਮਿਟਾਏ ਗਏ</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">ਇਹਨਾਂ ਸੰਪਰਕਾਂ ਨੂੰ Google ਸੰਪਰਕ ਅਤੇ ਤੁਹਾਡੀਆਂ ਸਭ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੀਆਂ ਡੀਵਾਈਸਾਂ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ</item>
+        <item quantity="one">ਇਸ ਸੰਪਰਕ ਨੂੰ Google ਸੰਪਰਕ ਅਤੇ ਤੁਹਾਡੀਆਂ ਸਭ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੀਆਂ ਡੀਵਾਈਸਾਂ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">ਤੁਹਾਡੇ ਹੋਰ ਖਾਤਿਆਂ ਵਿੱਚ %1$d ਸੰਪਰਕ</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਹੋਰ ਖਾਤਿਆਂ ਵਿੱਚ %1$d ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d ਸੰਪਰਕ</item>
+        <item quantity="one">%1$d ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 ਸੰਪਰਕ • ^2</item>
+        <item quantity="one">^1 ਸੰਪਰਕ • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">ਕੀ ਇਹਨਾਂ %1$d ਸੰਪਰਕਾਂ ਨੂੰ %2$s ਵਿੱਚ ਤਬਦੀਲ ਕਰਨਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ਇਹਨਾਂ %1$d ਸੰਪਰਕਾਂ ਨੂੰ %2$s ਵਿੱਚ ਤਬਦੀਲ ਕਰਨਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">ਤਬਦੀਲ ਕੀਤੇ %d ਸੰਪਰਕ</item>
+        <item quantity="one">ਤਬਦੀਲ ਕੀਤੇ %d ਸੰਪਰਕ</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d ਸੰਪਰਕਾਂ ਨੂੰ ਤਬਦੀਲ ਕਰਨਾ ਸਮਾਪਤ ਹੋਇਆ</item>
+        <item quantity="one">%d ਸੰਪਰਕਾਂ ਨੂੰ ਤਬਦੀਲ ਕਰਨਾ ਸਮਾਪਤ ਹੋਇਆ</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d ਸੰਪਰਕ ਤਬਦੀਲ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ</item>
+        <item quantity="one">%d ਸੰਪਰਕ ਤਬਦੀਲ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">"%1$d ਸੰਪਰਕਾਂ ਦਾ %2$s 'ਤੇ ਬੈਕਅੱਪ ਲਿਆ ਗਿਆ"</item>
+        <item quantity="one">"%1$d ਸੰਪਰਕ ਦਾ %2$s 'ਤੇ ਬੈਕਅੱਪ ਲਿਆ ਗਿਆ"</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">ਸਿਮ ਕਾਰਡਾਂ ਤੋਂ ਆਯਾਤ ਕਰੋ</item>
+        <item quantity="one">ਸਿਮ ਕਾਰਡਾਂ ਤੋਂ ਆਯਾਤ ਕਰੋ</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d ਸੰਪਰਕਾਂ</item>
+        <item quantity="one">%d ਸੰਪਰਕਾਂ</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM ਸੰਪਰਕ ਆਯਾਤ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%d SIM ਸੰਪਰਕ ਆਯਾਤ ਕੀਤੇ ਗਏ</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">ਇਸ ਰਾਹੀਂ ਸੰਪਰਕ ਸਾਂਝੇ ਕਰੋ</item>
+        <item quantity="one">ਇਸ ਰਾਹੀਂ ਸੰਪਰਕ ਸਾਂਝੇ ਕਰੋ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Teie hinnang: %1$s tärni</item>
+        <item quantity="one">Teie hinnang: %1$s tärn</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d arvustust</item>
+        <item quantity="one">%1$d arvustus</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d arvustust tärnihinnanguga %2$d</item>
+        <item quantity="one">%1$d arvustus tärnihinnanguga %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Installimised peatati</item>
+        <item quantity="one">Installimine peatati</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Rakendusi skanniti %1$d päeva tagasi</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d kahjulikku rakendust on eemaldatud. %2$s.</item>
+        <item quantity="one">%1$d kahjulik rakendus on eemaldatud. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d värskendust vajavad kinnitust</item>
+        <item quantity="one">%1$d värskendus vajab kinnitust</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d uut värskendust</item>
+        <item quantity="one">%1$d uus värskendus</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Saadaval on %1$d värskendust</item>
+        <item quantity="one">Saadaval on %1$d värskendus</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Värskenda kõiki</item>
+        <item quantity="one">Värskenda</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d rakendust on värskendatud</item>
+        <item quantity="one">%1$d rakendus on värskendatud</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s tärni</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s tärn</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s tärni – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s tärn – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s tärni – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s tärn – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d kasutajat pidasid seda arvustust kasulikuks. Märkige kommentaar kasulikuks</item>
+        <item quantity="one">%1$d kasutaja pidas seda arvustust kasulikuks. Märkige kommentaar kasulikuks</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d kasutajat pidasid seda arvustust kasulikuks. Tühistage kommentaari kasulikuks märkimine</item>
+        <item quantity="one">%1$d kasutaja pidas seda arvustust kasulikuks. Tühistage kommentaari kasulikuks märkimine</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Andis hinnangu &lt;b>%1$s tärni&lt;/b></item>
+        <item quantity="one">Andis hinnangu &lt;b>%1$s tärn&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s arvustuses</item>
+        <item quantity="one">%1$s arvustuses</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s tärni&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s tärn&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Viimati kasutatud %1$d päeva tagasi</item>
+        <item quantity="one">Viimati kasutatud %1$d päev tagasi</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Taasta valitud %1$d rakendust</item>
+        <item quantity="one">Taasta valitud rakendus</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">tärni</item>
+        <item quantity="one">tärn</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Rakendused installitakse peagi.</item>
+        <item quantity="one">Rakendus installitakse peagi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Rakenduse värskendused installitakse peagi.</item>
+        <item quantity="one">Rakenduse värskendus installitakse peagi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Viimati kasutati %1$d päeva tagasi</item>
+        <item quantity="one">Viimati kasutati %1$d päev tagasi</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Viimati kasutati %1$d kuud tagasi</item>
+        <item quantity="one">Viimati kasutati %1$d kuu tagasi</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Rakenduste või värskenduste installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs Salvestusruumi seaded.</item>
+        <item quantity="one">Rakenduse või värskenduse installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs Salvestusruumi seaded.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Rakenduste või värskenduste installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs &lt;a href=\"\">Seaded > Salvestusruum&lt;/a>.</item>
+        <item quantity="one">Rakenduse või värskenduse installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs &lt;a href=\"\">Seaded > Salvestusruum&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Rakenduste või värskenduste installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs Seaded > Salvestusruum.</item>
+        <item quantity="one">Rakenduse või värskenduse installimiseks sellesse seadmesse kustutage rakendused, mida te enam ei vaja. Ruumi vabastamiseks võite ka kustutada meediafaile menüüs Seaded > Salvestusruum.</item>
+    </plurals>
+</resources>

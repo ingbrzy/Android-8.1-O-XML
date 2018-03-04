@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Kitas</string>
+    <string name="suw_back_button_label">Atgal</string>
+    <string name="suw_more_button_label">Daugiau</string>
+    <string name="vzw_wfc_activation_error">Nepavyksta suaktyvinti „Wi-Fi“ skambinimo funkcijos. Vėliau bandykite dar kartą.</string>
+    <string name="vzw_address_update_error">Šiuo metu negalima atnaujinti dabartinio skubiosios pagalbos tarnyboms skirto adreso. Vėliau bandykite dar kartą.</string>
+    <string name="emergency_address_app_label">Skub. pag. tarn. skirto adreso tvarkym.</string>
+    <string name="progress_text">Palaukite...</string>
+    <string name="vzw_tos_title">Suaktyvinti „Wi-Fi“ skambinimą</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="vzw_tos_text">"„Wi-Fi“ skambinimo funkcija suteikia galimybę skambinti naudojant „Wi-Fi“ ryšį, kai mobilusis ryšys nepasiekiamas.
+
+Jei norite nustatyti skambinimą naudojant „Wi-Fi“, turėsite įvesti JAV esantį adresą. Šį adresą skubiosios pagalbos tarnybos naudos kaip jūsų vietovę, jei iš šio telefono skambinsite skubiosios pagalbos numeriu (E911) naudodami „Wi-Fi“ ryšį JAV ribose.
+
+Rekomenduojame pakeisti šį adresą, kai skambinate naudodami kitą „WiFi“ ryšį, kad jūsų vietovės informacija būtų tiksli. Vietovę galite bet kada pakeisti apsilankę „Wi-Fi“ skambinimo funkcijos nustatymų meniu."</string>
+    <string name="vzw_tos_link">Taisyklės ir nuostatos</string>
+    <string name="tos_continue">Tęsti</string>
+    <string name="vzw_e911_title">Skub. pag. tarnyb. skirta vietos inform.</string>
+    <string name="vzw_e911_description"><b>SVARBU – BŪTINA NURODYTI SKUBIOSIOS PAGALBOS TARNYBOMS (911) SKIRTĄ ADRESĄ</b>"
+Jei norite įjungti „Wi-Fi“ skambinimo funkciją, įveskite JAV esantį adresą, kuriuo bus siunčiamos skubiosios pagalbos tarnybos, kai paskambinsite numeriu 911. Galite eiti į skiltį „Nustatymai“ ir bet kada pakeisti šį adresą. Labai svarbu atnaujinti šį adresą, pakeitus gyvenamąją vietą."</string>
+    <string name="vzw_e911_warning"><b>ĮSPĖJIMAI – SKAMBUČIŲ SKUBIOSIOS PAGALBOS NUMERIU 911 APRIBOJIMAI</b>"
+Kai skambinate numeriu 911, visada pasakykite operatoriui, kur esate. Skambutis numeriu 911 bus vykdomas naudojant „Wi-Fi“ ryšį, tik jei mobilusis ryšys bus nepasiekiamas. Naudojant „Wi-Fi“ ryšį skambutis numeriu 911 gali būti atidėtas arba nepavykti, jei, pvz., 911 sistema neatpažins adreso, nebus elektros arba neveiks „Wi-Fi“ ryšys. Skubiosios pagalbos tarnybos bus išsiųstos anksčiau nurodytu adresu, todėl atnaujinkite jį, pakeitę gyvenamąją vietą."</string>
+    <string name="house_number">Adreso numeris</string>
+    <string name="street">Gatvė</string>
+    <string name="apt_suite_number">Apartam., liukso kamb. ir kt.</string>
+    <string name="city">Miestas</string>
+    <string name="state">Valstija</string>
+    <string name="zip_code">Pašto kodas</string>
+    <string name="save">Išsaugoti</string>
+    <string name="vzw_address_confirm_text_part1">Nepavyko rasti įvesto adreso, nes neradome gatvės adreso arba netinkamai nurodyti miestas, valstija ir pašto kodas.</string>
+    <string name="vzw_address_confirm_text_part2">Jei miestas, valstija ir pašto kodas netinkamai nurodyti, palieskite mygtuką „%1$s“. Priešingu atveju palieskite mygtuką „%2$s“.</string>
+    <string name="save_anyway">Vis tiek išsaugoti</string>
+    <string name="edit_address">Redaguoti adresą</string>
+    <string name="ok">GERAI</string>
+    <string name="vzw_address_select_text">Nepavyko rasti įvesto adreso:</string>
+    <string name="vzw_address_alternate_text">Ar turėjote omenyje:</string>
+    <string name="vzw_partial_confirm_head">Skubiosios pagalbos tarnyboms nepavyko patvirtinti įvesto adreso.</string>
+    <string name="vzw_partial_confirm_text">Ar tikrai norite, kad nelaimės atveju būtų naudojamas šis adresas?</string>
+    <string name="vzw_partial_failure_text_part1">Įvestas miestas, valstija ar pašto kodas gali būti netinkamas.</string>
+    <string name="vzw_partial_failure_text_part2">Patikrinkite adresą ir bandykite dar kartą.</string>
+    <string name="vzw_address_update_success_toast">Skubios pagalbos tarnyboms skirtas adresas atnaujintas</string>
+    <string name="connect_to_wifi_or_web_portal_title">„Wi-Fi“ išjungtas</string>
+    <string name="connect_to_wifi_or_web_portal_message">Galite nustatyti „Wi-Fi“ skambinimą naudodami mobiliojo ryšio tinklą, bet reikės įjungti „Wi-Fi“ ir prisijungti prie tinklo, kad galėtumėte naudoti šią funkciją.</string>
+    <string name="button_turn_on_wifi">Įjungti „Wi-Fi“</string>
+    <string name="button_setup_web_portal">Tęsti sąranką</string>
+</resources>

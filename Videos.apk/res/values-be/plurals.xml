@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Ацэнена ў %1$s зоркі наступнай колькасцю людзей: %2$d</item>
+        <item quantity="one">Ацэнена ў %1$s зорку наступнай колькасцю людзей: %2$d</item>
+        <item quantity="few">Ацэнена ў %1$s зоркі наступнай колькасцю людзей: %2$d</item>
+        <item quantity="many">Ацэнена ў %1$s зорак наступнай колькасцю людзей: %2$d</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Заканчваецца праз %1$d дня</item>
+        <item quantity="one">Заканчваецца праз %1$d дзень</item>
+        <item quantity="few">Заканчваецца праз %1$d дні</item>
+        <item quantity="many">Заканчваецца праз %1$d дзён</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Заканчваецца праз %1$d гадзіны</item>
+        <item quantity="one">Заканчваецца праз %1$d гадзіну</item>
+        <item quantity="few">Заканчваецца праз %1$d гадзіны</item>
+        <item quantity="many">Заканчваецца праз %1$d гадзін</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d іншага</item>
+        <item quantity="one">%1$d іншы</item>
+        <item quantity="few">%1$d іншыя</item>
+        <item quantity="many">%1$d іншых</item>
+    </plurals>
+    <plurals name="details_some_episodes_available">
+        <item quantity="other">%1$s серыі даступныя</item>
+        <item quantity="one">%1$s серыя даступная</item>
+        <item quantity="few">%1$s серыі даступныя</item>
+        <item quantity="many">%1$s серый даступныя</item>
+    </plurals>
+</resources>

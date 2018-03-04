@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">همه %1$d برنامه</item>
+        <item quantity="one">همه %1$d برنامه</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d برنامه انتخاب شد</item>
+        <item quantity="one">%1$d برنامه انتخاب شد</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d برنامه از قبل نصب شده است</item>
+        <item quantity="one">%1$d برنامه از قبل نصب شده است</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">پشتیبان شما %1$d برنامه دارد. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+        <item quantity="one">پشتیبان شما %1$d برنامه دارد. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d مخاطب دستگاه</item>
+        <item quantity="one">%1$d مخاطب دستگاه</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d سیم‌کارت، %2$d دستگاه</item>
+        <item quantity="one">%1$d سیم‌کارت، %2$d دستگاه</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">‏%1$d مخاطب iCloud®‎</item>
+        <item quantity="one">‏%1$d مخاطب iCloud®‎</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d مخاطب سیم‌کارت</item>
+        <item quantity="one">%1$d مخاطب سیم‌کارت</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d برنامه پیدا کردیم. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+        <item quantity="one">%1$d برنامه پیدا کردیم. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">‏مورد منطبقی برای %1$d برنامه از برنامه‌های iOS®‎ شما پیدا کردیم. با نصب هر برنامه، با مجوزهای آن موافقت می‌کنید. &lt;annotation id="apps_permissions_learn_more">بیشتر بدانید&lt;/annotation></item>
+        <item quantity="one">‏مورد منطبقی برای %1$d برنامه از برنامه‌های iOS®‎ شما پیدا کردیم. با نصب هر برنامه، با مجوزهای آن موافقت می‌کنید. &lt;annotation id="apps_permissions_learn_more">بیشتر بدانید&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d مورد باقی است…‏</item>
+        <item quantity="one">%1$d مورد باقی است…‏</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">توجه! شرکت‌کنندگان زیر دیگر در این رویداد وجود ندارند:</item>
+        <item quantity="one">توجه! شرکت‌کنندگان زیر دیگر در این رویداد وجود ندارند:</item>
+    </plurals>
+</resources>

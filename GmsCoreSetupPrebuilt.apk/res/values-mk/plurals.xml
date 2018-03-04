@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Вкупно %1$d апликации</item>
+        <item quantity="one">Вкупно %1$d апликација</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Избрани се %1$d апликации</item>
+        <item quantity="one">Избрана е %1$d апликација</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d апликации веќе се инсталирани</item>
+        <item quantity="one">%1$d апликација веќе е инсталирана</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Бекапот содржи %1$d апликации. Изберете неколку или префрлете ги сите.</item>
+        <item quantity="one">Бекапот содржи %1$d апликација. Изберете неколку или префрлете ги сите.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d контакти на уредот</item>
+        <item quantity="one">%1$d контакт на уредот</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d уреди</item>
+        <item quantity="one">%1$d SIM, %2$d уред</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d контакти на iCloud®</item>
+        <item quantity="one">%1$d контакт на iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d контакти на SIM</item>
+        <item quantity="one">%1$d контакт на SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Најдовме %1$d апликации. Изберете неколку или префрлете ги сите.</item>
+        <item quantity="one">Најдовме %1$d апликација. Изберете неколку или префрлете ги сите.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Најдовме совпаѓање за %1$d апликации за iOS®. Со инсталирање на секоја од апликацииве, се согласувате со нејзините дозволи. &lt;annotation id="apps_permissions_learn_more">Дознајте повеќе&lt;/annotation></item>
+        <item quantity="one">Најдовме совпаѓање за %1$d апликација за iOS®. Со инсталирање на секоја од апликацииве, се согласувате со нејзините дозволи. &lt;annotation id="apps_permissions_learn_more">Дознајте повеќе&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Уште %1$d ставки…</item>
+        <item quantity="one">Уште %1$d ставка…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Внимание! Настанов веќе не ги опфаќа следните присутни:</item>
+        <item quantity="one">Внимание! Настанов веќе не ги опфаќа следните присутни:</item>
+    </plurals>
+</resources>

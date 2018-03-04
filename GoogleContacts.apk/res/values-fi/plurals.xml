@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d yhteystietoa lisättiin tunnisteeseen %2$s</item>
+        <item quantity="one">%1$d yhteystieto lisättiin tunnisteeseen %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Lisätään %1$d kontaktia tunnisteeseen %2$s</item>
+        <item quantity="one">Lisätään %1$d kontakti tunnisteeseen %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Tarkistuksessa löydettiin %d yhteystietoon lisättäviä tietoja.</item>
+        <item quantity="one">Tarkistuksessa löydettiin %d yhteystietoon lisättäviä tietoja.</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d roskasisältöä yhteystiedoissa</item>
+        <item quantity="one">%d roskasisältö yhteystiedoissa</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d päällekkäistä yhteystietoa</item>
+        <item quantity="one">1 päällekkäinen yhteystieto</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d viimeaikaista puhelua • Viimeisin %2$s</item>
+        <item quantity="one">%1$d viimeaikainen puhelu • Viimeisin %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Yhteystiedot on jo lisätty tunnisteeseen %1$s.</item>
+        <item quantity="one">Yhteystieto on jo lisätty tunnisteeseen %1$s.</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">%d yhteystieto</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d yhteystietoa, %2$s</item>
+        <item quantity="one">%1$d yhteystieto, %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d yhteystietoa poistettu</item>
+        <item quantity="one">%1$d yhteystieto poistettu</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Nämä yhteystiedot poistetaan Google-yhteystiedoista ja kaikista synkronoiduista laitteistasi.</item>
+        <item quantity="one">Tämä yhteystieto poistetaan Google-yhteystiedoista ja kaikista synkronoiduista laitteistasi.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d yhteystietoa muilla tileilläsi</item>
+        <item quantity="one">1 yhteystieto muilla tileilläsi</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 yhteystietoa • ^2</item>
+        <item quantity="one">^1 yhteystieto • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Siirretäänkö nämä %1$d yhteystietoa tilille %2$s?</item>
+        <item quantity="one">Siirretäänkö tämä yhteystieto tilille %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d yhteystietoa siirrettiin.</item>
+        <item quantity="one">%d yhteystieto siirrettiin.</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d yhteystiedon siirtäminen on valmis</item>
+        <item quantity="one">Yhteystiedon siirtäminen on valmis</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Siirretään %d yhteystietoa</item>
+        <item quantity="one">Siirretään yhteystietoa</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d yhteystietoa varmuuskopioitiin tilille %2$s.</item>
+        <item quantity="one">%1$d yhteystieto varmuuskopioitiin tilille %2$s.</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Tuo SIM-korteilta</item>
+        <item quantity="one">Tuo SIM-kortilta</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-yhteystietoa tuotiin.</item>
+        <item quantity="one">Yksi SIM-yhteystieto tuotiin.</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Jaa yhteystiedot sovelluksella</item>
+        <item quantity="one">Jaa yhteystieto sovelluksella</item>
+    </plurals>
+</resources>

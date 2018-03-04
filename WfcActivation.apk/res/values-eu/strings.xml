@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Hurrengoa</string>
+    <string name="suw_back_button_label">Atzera</string>
+    <string name="suw_more_button_label">Gehiago</string>
+    <string name="vzw_wfc_activation_error">Ezin dira aktibatu Wi-Fi bidezko deiak. Saiatu berriro geroago.</string>
+    <string name="vzw_address_update_error">Une honetan ezin da eguneratu larrialdietarako helbidea. Saiatu berriro geroago.</string>
+    <string name="emergency_address_app_label">Larrialdietarako helbidearen kudeaketa</string>
+    <string name="progress_text">Itxaron, mesedez…</string>
+    <string name="vzw_tos_title">Aktibatu Wi-Fi bidezko deiak</string>
+    <string name="cancel">Utzi</string>
+    <string name="vzw_tos_text">"Wi-Fi bidezko deiak aktibatuz gero, deiak Wi-Fi bidez egin ahal izango dituzu sare mugikorraren estaldura-eremutik kanpo zaudenean.
+
+Wi-Fi bidezko deiak konfiguratzeko, AEBko helbide bat zehaztu behar duzu. AEBn larrialdi-deiak (E911) Wi-Fi bidez eginez gero, helbide horretara joango dira larrialdi-zerbitzuak.
+
+Deiak ohikoa ez den Wi-Fi sare baten bidez egin beharrean suertatzen bazara, deitu aurretik helbidea aldatzea gomendatzen dizugu kokapenari buruzko informazioa zehatza izan dadin. Kokapena edonoiz alda dezakezu Ezarpenak menuko Wi-Fi bidezko deiak atalean."</string>
+    <string name="vzw_tos_link">Zehaztapenak eta baldintzak</string>
+    <string name="tos_continue">Jarraitu</string>
+    <string name="vzw_e911_title">Larrialdietarako kokapen-informazioa</string>
+    <string name="vzw_e911_description"><b>GARRANTZITSUA: 911 LARRIALDIETARAKO HELBIDEA ZEHAZTU BEHAR DA</b>"
+Wi-Fi bidezko deiak aktibatzeko, zehaztu larrialdi-zerbitzuak zer helbidetara nahi duzun joatea (AEBkoa izan behar du) 911 zenbakira deitzen duzunean. Inoiz helbidea aldatu nahi izanez gero, joan Ezarpenak atalera. Kokapenez aldatuz gero, gogoan izan oso garrantzitsua dela helbide hori egunean izatea."</string>
+    <string name="vzw_e911_warning"><b>ABISUAK: 911 LARRIALDI-DEIEN MURRIZTAPENAK</b>"
+Larrialdi-zerbitzuen 911 zenbakira deitzen duzunean, esan beti non zauden operadoreari. Sare mugikorra erabilgarri ez badago bakarrik egingo da 911 deia Wi-Fi bidez. Wi-Fi bidez 911 zenbakira egindako deiek atzerapenak izan ditzakete edo, agian, ez da deitzea posible izango. Adibidez, 911 sistemak helbidea ezagutzen ez badu, argindarrik ez badago edo Wi-Fi konexioak funtzionatzen ez badu gerta liteke hori. Goian zehaztutako helbidera bidaliko dira larrialdi-zerbitzuak; beraz, eguneratu helbidea kokapena aldatuz gero."</string>
+    <string name="house_number">Helbide-zenbakia</string>
+    <string name="street">Kalea</string>
+    <string name="apt_suite_number">Apartamentua, atea, etab.</string>
+    <string name="city">Hiria</string>
+    <string name="state">Estatua</string>
+    <string name="zip_code">Posta-kodea</string>
+    <string name="save">Gorde</string>
+    <string name="vzw_address_confirm_text_part1">Ezin izan dugu aurkitu idatzi duzun helbidea, kalea aurkitu ez dugulako edo hiria, estatua edo posta-kodea zuzena ez delako.</string>
+    <string name="vzw_address_confirm_text_part2">Hiria, estatua edo posta-kodea zuzena ez bada, sakatu %1$s. Bestela, sakatu %2$s.</string>
+    <string name="save_anyway">Gorde, hala ere</string>
+    <string name="edit_address">Editatu helbidea</string>
+    <string name="ok">Ados</string>
+    <string name="vzw_address_select_text">Ezin izan dugu aurkitu idatzi duzun helbidea:</string>
+    <string name="vzw_address_alternate_text">Hau esan nahi al zenuen?:</string>
+    <string name="vzw_partial_confirm_head">Larrialdi-zerbitzuek ezin izan dute egiaztatu zehaztu duzun helbidea.</string>
+    <string name="vzw_partial_confirm_text">Ziur helbide hori erabili nahi duzula larrialdietan?</string>
+    <string name="vzw_partial_failure_text_part1">Agian ez da zuzena zehaztu duzun hiria, estatua edo posta-kodea.</string>
+    <string name="vzw_partial_failure_text_part2">Egiaztatu helbidea zuzena dela eta saiatu berriro.</string>
+    <string name="vzw_address_update_success_toast">Eguneratu da larrialdietarako telefono-zenbakia</string>
+    <string name="connect_to_wifi_or_web_portal_title">Desaktibatuta dago Wi-Fi konexioa</string>
+    <string name="connect_to_wifi_or_web_portal_message">Sare mugikorraren bidez konfigura ditzakezu Wi-Fi bidezko deiak, baina Wi-Fi konexioa aktibatu eta sare batera konektatu behar duzu eginbide hori erabiltzeko.</string>
+    <string name="button_turn_on_wifi">Aktibatu Wi-Fi konexioa</string>
+    <string name="button_setup_web_portal">Jarraitu konfiguratzen</string>
+</resources>

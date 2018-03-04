@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Beliebig</item>
+        <item>€</item>
+        <item>€€</item>
+        <item>€€€</item>
+        <item>€€€€</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Beliebige Preisstufe</item>
+        <item>Günstig</item>
+        <item>Mäßig teuer</item>
+        <item>Teuer</item>
+        <item>Sehr teuer</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Beliebig</item>
+        <item>2,0</item>
+        <item>3,0</item>
+        <item>4,0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Beliebige Bewertung</item>
+        <item>Zwei oder mehr Sterne</item>
+        <item>Drei oder mehr Sterne</item>
+        <item>Vier oder mehr Sterne</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Beliebig</item>
+        <item>3 Sterne</item>
+        <item>4 Sterne</item>
+        <item>5 Sterne</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Beliebig</item>
+        <item>Drei Sterne</item>
+        <item>Vier Sterne</item>
+        <item>Fünf Sterne</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Furchtbar</item>
+        <item>Nicht so gut</item>
+        <item>Alles okay</item>
+        <item>Gut</item>
+        <item>Exzellent</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>Beim Heran- und Herauszoomen</item>
+        <item>Immer</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Teile anderen mit, warum dir dieser Ort überhaupt nicht gefällt.</item>
+        <item>Teile anderen mit, warum dir dieser Ort nicht gefällt.</item>
+        <item>Teile anderen mit, warum dieser Ort nur bedingt gefällt.</item>
+        <item>Teile anderen mit, warum dir dieser Ort gefällt.</item>
+        <item>Teile anderen mit, warum dir dieser Ort sehr gut gefällt.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Усе %1$d праграмы</item>
+        <item quantity="one">Уся %1$d праграма</item>
+        <item quantity="few">Усе %1$d праграмы</item>
+        <item quantity="many">Усе %1$d праграм</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Выбраны %1$d праграмы</item>
+        <item quantity="one">Выбрана %1$d праграма</item>
+        <item quantity="few">Выбраны %1$d праграмы</item>
+        <item quantity="many">Выбраны %1$d праграм</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d праграмы ўжо ўсталяваны</item>
+        <item quantity="one">%1$d праграма ўжо ўсталявана</item>
+        <item quantity="few">%1$d праграмы ўжо ўсталяваны</item>
+        <item quantity="many">%1$d праграм ужо ўсталяваны</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">У вашай рэзервовай копіі %1$d праграмы. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="one">У вашай рэзервовай копіі %1$d праграма. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="few">У вашай рэзервовай копіі %1$d праграмы. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="many">У вашай рэзервовай копіі %1$d праграм. Выберыце некалькі або перанясіце іх усе.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d лакальнага кантакту</item>
+        <item quantity="one">%1$d лакальны кантакт</item>
+        <item quantity="few">%1$d лакальныя кантакты</item>
+        <item quantity="many">%1$d лакальных кантактаў</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">Кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</item>
+        <item quantity="one">Кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</item>
+        <item quantity="few">Кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</item>
+        <item quantity="many">Кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d кантакту ў iCloud®</item>
+        <item quantity="one">%1$d кантакт у iCloud®</item>
+        <item quantity="few">%1$d кантакты ў iCloud®</item>
+        <item quantity="many">%1$d кантактаў у iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d кантакту з SIM-карты</item>
+        <item quantity="one">%1$d кантакт з SIM-карты</item>
+        <item quantity="few">%1$d кантакты з SIM-карты</item>
+        <item quantity="many">%1$d кантактаў з SIM-карты</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Мы знайшлі %1$d праграмы. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="one">Мы знайшлі %1$d праграму. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="few">Мы знайшлі %1$d праграмы. Выберыце некалькі або перанясіце іх усе.</item>
+        <item quantity="many">Мы знайшлі %1$d праграм. Выберыце некалькі або перанясіце іх усе.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Знойдзена супадзенне для %1$d з вашых праграм iOS®. Усталёўваючы гэтыя праграмы, вы згаджаецеся з дазволамі кожнай з іх. &lt;annotation id="apps_permissions_learn_more">Даведацца больш&lt;/annotation></item>
+        <item quantity="one">Знойдзена супадзенне для %1$d з вашых праграм iOS®. Усталёўваючы гэтыя праграмы, вы згаджаецеся з дазволамі кожнай з іх. &lt;annotation id="apps_permissions_learn_more">Даведацца больш&lt;/annotation></item>
+        <item quantity="few">Знойдзена супадзенне для %1$d з вашых праграм iOS®. Усталёўваючы гэтыя праграмы, вы згаджаецеся з дазволамі кожнай з іх. &lt;annotation id="apps_permissions_learn_more">Даведацца больш&lt;/annotation></item>
+        <item quantity="many">Знойдзена супадзенне для %1$d з вашых праграм iOS®. Усталёўваючы гэтыя праграмы, вы згаджаецеся з дазволамі кожнай з іх. &lt;annotation id="apps_permissions_learn_more">Даведацца больш&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Засталіся %1$d элемента…</item>
+        <item quantity="one">Застаўся %1$d элемент…</item>
+        <item quantity="few">Засталіся %1$d элементы…</item>
+        <item quantity="many">Засталіся %1$d элементаў…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Увага! У гэтай падзеі больш не ўдзельнічаюць наступныя асобы:</item>
+        <item quantity="one">Увага! У гэтай падзеі больш не ўдзельнічаюць наступныя асобы:</item>
+        <item quantity="few">Увага! У гэтай падзеі больш не ўдзельнічаюць наступныя асобы:</item>
+        <item quantity="many">Увага! У гэтай падзеі больш не ўдзельнічаюць наступныя асобы:</item>
+    </plurals>
+</resources>

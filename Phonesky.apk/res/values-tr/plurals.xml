@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Verdiğiniz oy: %1$s yıldız</item>
+        <item quantity="one">Verdiğiniz oy: %1$s yıldız</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d yorum</item>
+        <item quantity="one">%1$d yorum</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+        <item quantity="one">%2$d yıldızlı değerlendirme için %1$d yorum</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Yüklemeler duraklatıldı</item>
+        <item quantity="one">Yükleme duraklatıldı</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Uygulamalar %1$d gün önce tarandı</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d zararlı uygulama kaldırıldı. %2$s</item>
+        <item quantity="one">%1$d zararlı uygulama kaldırıldı. %2$s</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d güncelleme onay gerektiriyor</item>
+        <item quantity="one">%1$d güncelleme onay gerektiriyor</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d yeni güncelleme</item>
+        <item quantity="one">%1$d yeni güncelleme</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d güncelleme var</item>
+        <item quantity="one">%1$d güncelleme var</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Tümünü güncelle</item>
+        <item quantity="one">Güncelle</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d uygulama güncellendi</item>
+        <item quantity="one">%1$d uygulama güncellendi</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yıldız</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yıldız</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yıldız - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yıldız - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s yıldız - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s yıldız - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumu faydalı olarak işaretle</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+        <item quantity="one">%1$d kullanıcı bu yorumu faydalı buldu. Yorumun faydalı bulunma işaretini kaldır</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Bunun için &lt;b>%1$s yıldız&lt;/b> verdi</item>
+        <item quantity="one">Bunun için &lt;b>%1$s yıldız&lt;/b> verdi</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s yorumda</item>
+        <item quantity="one">%1$s yorumda</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s yıldız&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s yıldız&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Seçilen %1$d uygulamayı geri yükle</item>
+        <item quantity="one">Seçilen uygulamayı geri yükle</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">yıldız</item>
+        <item quantity="one">yıldız</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Uygulamalar kısa bir süre içinde yüklenecek.</item>
+        <item quantity="one">Uygulama kısa bir süre içinde yüklenecek.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Uygulama güncellemeleri kısa bir süre içinde yüklenecek.</item>
+        <item quantity="one">Uygulama güncellemesi kısa bir süre içinde yüklenecek.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">En son %1$d gün önce kullanıldı</item>
+        <item quantity="one">En son %1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">En son %1$d ay önce kullanıldı</item>
+        <item quantity="one">En son %1$d ay önce kullanıldı</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">"Bu cihaza uygulamalar veya güncellemeler yüklemek için artık ihtiyacınız olmayan uygulamaları silin. Alan boşaltmak için ayrıca Depolama Ayarları'nda medya dosyalarını silebilirsiniz."</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları silin. Alan boşaltmak için ayrıca Depolama Ayarları'nda medya dosyalarını silebilirsiniz."</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">"Bu cihaza uygulamalar veya güncellemeler yüklemek için artık ihtiyacınız olmayan uygulamaları silin. &lt;a href=\"\">Ayarlar > Depolama&lt;/a>'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları silin. &lt;a href=\"\">Ayarlar > Depolama&lt;/a>'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">"Bu cihaza uygulamalar veya güncellemeler yüklemek için artık ihtiyacınız olmayan uygulamaları silin. Ayarlar > Depolama'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+        <item quantity="one">"Bu cihaza uygulama veya güncelleme yüklemek için artık ihtiyacınız olmayan uygulamaları silin. Ayarlar > Depolama'da medya dosyalarını silerek de alan boşaltabilirsiniz."</item>
+    </plurals>
+</resources>

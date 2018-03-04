@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontaktpersonas pievienotas iezīmei %2$s</item>
+        <item quantity="zero">%1$d kontaktpersonas pievienotas iezīmei %2$s</item>
+        <item quantity="one">%1$d kontaktpersona pievienota iezīmei %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Tiek pievienotas %1$d kontaktpersonas iezīmei “%2$s”</item>
+        <item quantity="zero">Tiek pievienotas %1$d kontaktpersonas iezīmei “%2$s”</item>
+        <item quantity="one">Tiek pievienota %1$d kontaktpersona iezīmei “%2$s”</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Pārskatiet ieteikto informāciju %d kontaktpersonām.</item>
+        <item quantity="zero">Pārskatiet ieteikto informāciju %d kontaktpersonām.</item>
+        <item quantity="one">Pārskatiet ieteikto informāciju %d kontaktpersonai.</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d nevēlamas kontaktpersonas</item>
+        <item quantity="zero">%d nevēlamu kontaktpersonu</item>
+        <item quantity="one">%d nevēlama kontaktpersona</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontaktpersonu dublikāti</item>
+        <item quantity="zero">%d kontaktpersonu dublikāti</item>
+        <item quantity="one">%d kontaktpersonu dublikāts</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nesen veikti zvani • Pēdējoreiz šādā datumā: %2$s</item>
+        <item quantity="zero">%1$d nesen veikti zvani • Pēdējoreiz šādā datumā: %2$s</item>
+        <item quantity="one">%1$d nesen veikts zvans • Pēdējoreiz šādā datumā: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontaktpersonas jau pievienotas iezīmei %1$s</item>
+        <item quantity="zero">Kontaktpersonas jau pievienotas iezīmei %1$s</item>
+        <item quantity="one">Kontaktpersonas jau pievienotas iezīmei %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktpersonas</item>
+        <item quantity="zero">%d kontaktpersonas</item>
+        <item quantity="one">%d kontaktpersona</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktpersonas (%2$s)</item>
+        <item quantity="zero">%1$d kontaktpersonas (%2$s)</item>
+        <item quantity="one">%1$d kontaktpersona (%2$s)</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Izdzēstas %1$d kontaktpersonas</item>
+        <item quantity="zero">Izdzēstas %1$d kontaktpersonas</item>
+        <item quantity="one">Izdzēsta %1$d kontaktpersona</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Šīs kontaktpersonas tiks noņemtas no Google kontaktpersonām un visām jūsu sinhronizētajām ierīcēm.</item>
+        <item quantity="zero">Šīs kontaktpersonas tiks noņemtas no Google kontaktpersonām un visām jūsu sinhronizētajām ierīcēm.</item>
+        <item quantity="one">Šīs kontaktpersonas tiks noņemtas no Google kontaktpersonām un visām jūsu sinhronizētajām ierīcēm.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktpersonas citos jūsu kontos</item>
+        <item quantity="zero">%1$d kontaktpersonu citos jūsu kontos</item>
+        <item quantity="one">%1$d kontaktpersona citos jūsu kontos</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktpersonas</item>
+        <item quantity="zero">%1$d kontaktpersonu</item>
+        <item quantity="one">%1$d kontaktpersona</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktpersonas • ^2</item>
+        <item quantity="zero">^1 kontaktpersonu • ^2</item>
+        <item quantity="one">^1 kontaktpersona • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Vai pārvietot šīs %1$d kontaktpersonas uz kontu %2$s?</item>
+        <item quantity="zero">Vai pārvietot šīs %1$d kontaktpersonas uz kontu %2$s?</item>
+        <item quantity="one">Vai pārvietot šo %1$d kontaktpersonu uz kontu %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Tika pārvietotas %d kontaktpersonas</item>
+        <item quantity="zero">Tika pārvietotas %d kontaktpersonas</item>
+        <item quantity="one">Tika pārvietota %d kontaktpersona</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d kontaktpersonas ir pārvietotas</item>
+        <item quantity="zero">%d kontaktpersonas ir pārvietotas</item>
+        <item quantity="one">%d kontaktpersona ir pārvietota</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Notiek %d kontaktpersonu pārvietošana</item>
+        <item quantity="zero">Notiek %d kontaktpersonu pārvietošana</item>
+        <item quantity="one">Notiek %d kontaktpersonas pārvietošana</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontaktpersonas dublētas kontā %2$s</item>
+        <item quantity="zero">%1$d kontaktpersonas dublētas kontā %2$s</item>
+        <item quantity="one">%1$d kontaktpersona dublēta kontā %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importēšana no SIM kartēm</item>
+        <item quantity="zero">Importēšana no SIM kartēm</item>
+        <item quantity="one">Importēšana no SIM kartēm</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktpersonas</item>
+        <item quantity="zero">%d kontaktpersonas</item>
+        <item quantity="one">%d kontaktpersona</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Importētas %d SIM kartes kontaktpersonas</item>
+        <item quantity="zero">Importētas %d SIM kartes kontaktpersonas</item>
+        <item quantity="one">Importēta %d SIM kartes kontaktpersona</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Kontaktpersonu kopīgošana, izmantojot</item>
+        <item quantity="zero">Kontaktpersonu kopīgošana, izmantojot</item>
+        <item quantity="one">Kontaktpersonu kopīgošana, izmantojot</item>
+    </plurals>
+</resources>

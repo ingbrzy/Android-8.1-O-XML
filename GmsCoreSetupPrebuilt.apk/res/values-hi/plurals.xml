@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">सभी %1$d ऐप्लिकेशन</item>
+        <item quantity="one">सभी %1$d ऐप्लिकेशन</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d ऐप्लिकेशन चुने गए</item>
+        <item quantity="one">%1$d ऐप्लिकेशन चुने गए</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d ऐप्लिकेशन पहले से इंस्टॉल हैं</item>
+        <item quantity="one">%1$d ऐप्लिकेशन पहले से इंस्टॉल हैं</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">आपके बैकअप में %1$d ऐप्लिकेशन हैं. उनमें से कुछ को चुनें या सभी को वापस ले आएं.</item>
+        <item quantity="one">आपके बैकअप में %1$d ऐप्लिकेशन हैं. उनमें से कुछ को चुनें या सभी को वापस ले आएं.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d डिवाइस के संपर्क</item>
+        <item quantity="one">%1$d डिवाइस के संपर्क</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d डिवाइस</item>
+        <item quantity="one">%1$d SIM, %2$d डिवाइस</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® संपर्क</item>
+        <item quantity="one">%1$d iCloud® संपर्क</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM संपर्क</item>
+        <item quantity="one">%1$d SIM संपर्क</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">हमें %1$d ऐप्लिकेशन मिले हैं. उनमें से कुछ को चुनें या सभी को वापस ले आएं.</item>
+        <item quantity="one">हमें %1$d ऐप्लिकेशन मिले हैं. उनमें से कुछ को चुनें या सभी को वापस ले आएं.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">हमें आपके %1$d iOS® ऐप्लिकेशन का मिलान मिला है. प्रत्येक ऐप्लिकेशन को इंस्टॉल करके, आप उसकी अनुमतियों से सहमत होते हैं. &lt;annotation id="apps_permissions_learn_more">अधिक जानें&lt;/annotation></item>
+        <item quantity="one">हमें आपके %1$d iOS® ऐप्लिकेशन का मिलान मिला है. प्रत्येक ऐप्लिकेशन को इंस्टॉल करके, आप उसकी अनुमतियों से सहमत होते हैं. &lt;annotation id="apps_permissions_learn_more">अधिक जानें&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d आइटम शेष…</item>
+        <item quantity="one">%1$d आइटम शेष…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">पूर्व सूचना! इस इवेंट में अब ये अतिथि शामिल नहीं हैं:</item>
+        <item quantity="one">पूर्व सूचना! इस इवेंट में अब ये अतिथि शामिल नहीं हैं:</item>
+    </plurals>
+</resources>

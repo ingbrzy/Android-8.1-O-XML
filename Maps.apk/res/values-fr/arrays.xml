@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Tous</item>
+        <item>€</item>
+        <item>€€</item>
+        <item>€€€</item>
+        <item>€€€€</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Tous les niveaux de prix</item>
+        <item>Bon marché</item>
+        <item>Modérément cher</item>
+        <item>Cher</item>
+        <item>Très cher</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Toutes</item>
+        <item>2,0</item>
+        <item>3,0</item>
+        <item>4,0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Toutes les notes</item>
+        <item>Deux étoiles ou plus</item>
+        <item>Trois étoiles ou plus</item>
+        <item>Quatre étoiles ou plus</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Toutes</item>
+        <item>3 étoiles</item>
+        <item>4 étoiles</item>
+        <item>5 étoiles</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Toutes</item>
+        <item>Trois étoiles</item>
+        <item>Quatre étoiles</item>
+        <item>Cinq étoiles</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>"J'ai détesté"</item>
+        <item>"Je n'ai pas aimé"</item>
+        <item>"C'était correct"</item>
+        <item>"Ça m'a beaucoup plu"</item>
+        <item>"J'ai adoré"</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>"Lors d'un zoom avant ou arrière"</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Expliquez aux autres utilisateurs pourquoi vous avez détesté ce lieu.</item>
+        <item>"Expliquez aux autres utilisateurs pourquoi vous n'avez pas aimé ce lieu."</item>
+        <item>Expliquez aux autres utilisateurs pourquoi vous avez trouvé ce lieu acceptable.</item>
+        <item>Expliquez aux autres utilisateurs pourquoi vous avez aimé ce lieu.</item>
+        <item>Expliquez aux autres utilisateurs pourquoi vous avez adoré ce lieu.</item>
+    </string-array>
+</resources>

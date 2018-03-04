@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">သင့် အဆင့်သတ်မှတ်မှု ကြယ်ပွင့် - %1$s ပွင့်</item>
+        <item quantity="one">သင့် အဆင့်သတ်မှတ်မှု ကြယ်ပွင့် - %1$s ပွင့်</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">သုံးသပ်ချက် %1$d ခု</item>
+        <item quantity="one">သုံးသပ်ချက် %1$d ခု</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">သုံးသပ်ချက် %1$d ခုသည် ကြယ်ပွင့် %2$d ပွင့်အတွက်ဖြစ်၏</item>
+        <item quantity="one">သုံးသပ်ချက် %1$d ခုသည် ကြယ်ပွင့် %2$d ပွင့်အတွက်ဖြစ်၏</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">ထည့်သွင်းမှုများကိုရပ်ထားပါသည်</item>
+        <item quantity="one">ထည့်သွင်းမှုကို ရပ်ထားပါသည်</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">အက်ပ်များကို ပြီးခဲ့သည့် %1$d ရက်က စစ်ဆေးထားပါသည်</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">အန္တရာယ်ရှိသည့် အက်ပ် %1$d ခု ကို ဖယ်ရှားပြီးပါပြီ။ %2$s။</item>
+        <item quantity="one">အန္တရာယ်ရှိသည့် အက်ပ် %1$d ခု ကို ဖယ်ရှားပြီးပါပြီ။ %2$s။</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+        <item quantity="one">%1$dအသစ်မွမ်းမံမှု ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">အသစ်မွမ်းမံမှု %1$d ခု</item>
+        <item quantity="one">အသစ်မွမ်းမံမှု %1$d ခု</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d ခုရရှိနိုင်</item>
+        <item quantity="one">အသစ်မွမ်းမံမှု %1$d ခုခွင့်ပြုချက်လိုအပ်သည်</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">အားလုံး အသစ်မွမ်းမံပါ</item>
+        <item quantity="one">အသစ်မွမ်းမံပါ</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d အပလီကေးရှင်း မွမ်းမံပြီး</item>
+        <item quantity="one">%1$d အပလီကေးရှင်း မွမ်းမံပြီး</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့်</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့်</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့် - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့် - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့် - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> ကြယ်ပွင့် %2$s ပွင့် - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">အသုံးပြုသူ %1$d ဦး မှ ဤသုံးသပ်ချက်သည် အသုံးဝင်ကြောင်း တွေ့ရ၏ အကြောင်းအရာကို အသုံးဝင်သည်ဟု မှတ်ချက်ပေးရန်</item>
+        <item quantity="one">အသုံးပြုသူ %1$d ဦး မှ ဤသုံးသပ်ချက်သည် အသုံးဝင်ကြောင်း တွေ့ရ၏ အကြောင်းအရာကို အသုံးဝင်သည်ဟု မှတ်ချက်ပေးရန်</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d အသုံးပြုသူတို့က ဒီဆန်းစစ်ချက်မှာ အသုံးဝင်တယ်လို့ ဆိုတယ် အသုံးဝင်တဲ့ သုံးသပ်ချက်ကို မှတ်ထားမှုဖျက်ရန်</item>
+        <item quantity="one">အသုံးပြုသူ %1$d ဦးက ဒီဆန်းစစ်ချက်မှာ အသုံးဝင်တယ်လို့ ဆိုတယ် အသုံးဝင်တဲ့ သုံးသပ်ချက်ကို မှတ်ထားမှုဖျက်ရန်</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">ကြယ်ပွင့် &lt;b>%1$s ပွင့် သတ်မှတ်ခဲ့၏ &lt;/b></item>
+        <item quantity="one">ကြယ်ပွင့် &lt;b>%1$s ပွင့် သတ်မှတ်ခဲ့၏ &lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">သုံးသပ်ချက် %1$s ထဲတွင်</item>
+        <item quantity="one">သုံးသပ်ချက် %1$s ထဲတွင်</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b> ကြယ်ပွင့် %1$s ပွင့် &lt;/b> %2$s</item>
+        <item quantity="one">&lt;b> ကြယ်ပွင့် %1$s ပွင့် &lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">ရက် %1$d ရက်အကြာက သုံးခဲ့၏</item>
+        <item quantity="one">ရက် %1$d ရက်အကြာက သုံးခဲ့၏</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">ရွေးချယ်ထားသည့် %1$d အက်ပ်များကို ပြန်လည်အသုံးပြုပါ</item>
+        <item quantity="one">ရွေးချယ်ထားသည့်အက်ပ်ကို ပြန်လည်အသုံးပြုပါ</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other"></item>
+        <item quantity="one">ကြယ်ပွင့်</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">အက်ပ်များကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+        <item quantity="one">အက်ပ်ကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">အက်ပ်အပ်ဒိတ်များကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+        <item quantity="one">အက်ပ်အပ်ဒိတ်ကို မကြာမီ ထည့်သွင်းသွားပါမည်။</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d ရက်က အသုံးပြုခဲ့သည်</item>
+        <item quantity="one">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d ရက်က အသုံးပြုခဲ့သည်</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d လက အသုံးပြုခဲ့သည်</item>
+        <item quantity="one">နောက်ဆုံးအကြိမ်အဖြစ် ပြီးခဲ့သည့် %1$d လကအသုံးပြုခဲ့သည်</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်များကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ သိုလှောင်ခန်းဆက်တင်များတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+        <item quantity="one">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်ကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ သိုလှောင်ခန်းဆက်တင်များတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်များကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ &lt;a href=\"\">ဆက်တင်များ > သိုလှောင်ခန်း&lt;/a> တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+        <item quantity="one">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်ကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ &lt;a href=\"\">ဆက်တင်များ > သိုလှောင်ခန်း&lt;/a> တွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်များကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ ဆက်တင်များ > သိုလှောင်ခန်းတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+        <item quantity="one">ဤစက်ပစ္စည်းပေါ်တွင် အက်ပ်ကို ထည့်သွင်းရန် သို့မဟုတ် အပ်ဒိတ်လုပ်ရန် သင်မလိုအပ်တော့သည့် အက်ပ်များကို ဖျက်ပါ။ ဆက်တင်များ > သိုလှောင်ခန်းတွင် မီဒီယာဖိုင်များကို ဖျက်ခြင်းဖြင့်လည်း နေရာလွတ်ပြုလုပ်နိုင်ပါသည်။</item>
+    </plurals>
+</resources>

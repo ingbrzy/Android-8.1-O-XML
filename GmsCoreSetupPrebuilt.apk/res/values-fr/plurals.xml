@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Les %1$d applications</item>
+        <item quantity="one">%1$d application</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d applications sélectionnées</item>
+        <item quantity="one">%1$d application sélectionnée</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d applications sont déjà installées</item>
+        <item quantity="one">%1$d application est déjà installée</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Votre sauvegarde contient %1$d applications. Sélectionnez-en quelques-unes ou transférez-les toutes.</item>
+        <item quantity="one">Votre sauvegarde contient %1$d application. Souhaitez-vous la transférer ?</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">"%1$d contacts de l'appareil"</item>
+        <item quantity="one">"%1$d contact de l'appareil"</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">"%1$d contacts SIM et %2$d contacts de l'appareil"</item>
+        <item quantity="one">"%1$d contact SIM et %2$d contact de l'appareil"</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d contacts iCloud®</item>
+        <item quantity="one">%1$d contact iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contacts SIM</item>
+        <item quantity="one">%1$d contact SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Nous avons détecté %1$d applications. Sélectionnez-en quelques-unes ou transférez-les toutes.</item>
+        <item quantity="one">Nous avons détecté %1$d application. Souhaitez-vous la transférer ?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Nous avons trouvé une équivalence pour %1$d de vos applications iOS®. En installant chaque application, vous acceptez les autorisations correspondantes. &lt;annotation id="apps_permissions_learn_more">En savoir plus&lt;/annotation></item>
+        <item quantity="one">Nous avons trouvé une équivalence pour %1$d de vos applications iOS®. En installant chaque application, vous acceptez les autorisations correspondantes. &lt;annotation id="apps_permissions_learn_more">En savoir plus&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d éléments restants…</item>
+        <item quantity="one">%1$d élément restant…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Attention ! Les participants suivants ne sont plus inclus dans cet événement :</item>
+        <item quantity="one">"Attention ! Le participant suivant n'est plus inclus dans cet événement :"</item>
+    </plurals>
+</resources>

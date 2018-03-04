@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">رتبه‌بندی شما: %1$s ستاره</item>
+        <item quantity="one">رتبه‌بندی شما: %1$s ستاره</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">‏%1$d نظر</item>
+        <item quantity="one">‏%1$d نظر</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">‏%1$d نظر با رتبه‌بندی ستاره‌ای %2$d</item>
+        <item quantity="one">‏%1$d نظر با رتبه‌بندی ستاره‌ای %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">نصب‌ها موقتاً متوقف شدند</item>
+        <item quantity="one">نصب موقتاً متوقف شد</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">برنامه‌ها %1$d روز قبل اسکن شدند</item>
+        <item quantity="one">برنامه‌ها %1$d روز قبل اسکن شدند</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d برنامه مضر برداشته شد. %2$s.</item>
+        <item quantity="one">%1$d برنامه مضر برداشته شد. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">‏%1$d به‌روزرسانی به تأیید نیاز دارد</item>
+        <item quantity="one">‏%1$d به‌روزرسانی به تأیید نیاز دارد</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">‏%1$d به‌روزرسانی جدید</item>
+        <item quantity="one">‏%1$d به‌روزرسانی جدید</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">‏%1$d به‌روزرسانی موجود است</item>
+        <item quantity="one">‏%1$d به‌روزرسانی موجود است</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">به‌روزرسانی همه</item>
+        <item quantity="one">به‌روزرسانی همه</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d برنامه به‌روزرسانی شد</item>
+        <item quantity="one">%1$d برنامه به‌روزرسانی شد</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">‏&lt;b>%1$s&lt;/b> ‏%2$s ستاره</item>
+        <item quantity="one">‏&lt;b>%1$s&lt;/b> ‏%2$s ستاره</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ستاره - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ستاره - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">‏&lt;b>%1$s&lt;/b> ‏%2$s ستاره - %3$s - ‏%4$s</item>
+        <item quantity="one">‏&lt;b>%1$s&lt;/b> ‏%2$s ستاره - %3$s - ‏%4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">‏%1$d کاربر این نظر را مفید می‌دانند. علامت‌گذاری نظر به عنوان مفید</item>
+        <item quantity="one">‏%1$d کاربر این نظر را مفید می‌داند. علامت‌گذاری نظر به عنوان مفید</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">‏%1$d کاربر این نظر را مفید می‌دانند. برداشتن علامت نظر به‌عنوان مفید</item>
+        <item quantity="one">‏%1$d کاربر این نظر را مفید می‌داند. برداشتن علامت نظر به‌عنوان مفید</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">به آن &lt;b>‏%1$s ستاره&lt;/b> داد</item>
+        <item quantity="one">به آن &lt;b>‏%1$s ستاره&lt;/b> داد</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">در %1$s نظر</item>
+        <item quantity="one">در %1$s نظر</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">‏&lt;b>‏%1$s ستاره&lt;/b> ‏%2$s</item>
+        <item quantity="one">‏&lt;b>‏%1$s ستاره&lt;/b> ‏%2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">آخرین استفاده %1$d روز قبل</item>
+        <item quantity="one">آخرین استفاده %1$d روز قبل</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">بازیابی %1$d برنامه انتخابی</item>
+        <item quantity="one">بازیابی %1$d برنامه انتخابی</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ستاره</item>
+        <item quantity="one">ستاره</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">برنامه‌ها به‌زودی نصب خواهند شد.</item>
+        <item quantity="one">برنامه‌ها به‌زودی نصب خواهند شد.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">به‌روزرسانی‌های برنامه به‌زودی نصب خواهد شد.</item>
+        <item quantity="one">به‌روزرسانی‌های برنامه به‌زودی نصب خواهد شد.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">آخرین استفاده %1$d روز قبل</item>
+        <item quantity="one">آخرین استفاده %1$d روز قبل</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">آخرین استفاده %1$d ماه قبل</item>
+        <item quantity="one">آخرین استفاده %1$d ماه قبل</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در «تنظیمات حافظه»، فضا آزاد کنید.</item>
+        <item quantity="one">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در «تنظیمات حافظه»، فضا آزاد کنید.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در &lt;a href=\"\">تنظیمات > حافظه&lt;/a>، فضا آزاد کنید.</item>
+        <item quantity="one">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در &lt;a href=\"\">تنظیمات > حافظه&lt;/a>، فضا آزاد کنید.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در «تنظیمات > حافظه»، فضا آزاد کنید.</item>
+        <item quantity="one">برای نصب برنامه‌ها یا به‌روزرسانی‌ها در این دستگاه، برنامه‌هایی را که دیگر نیاز ندارید حذف کنید. همچنین می‌توانید با حذف فایل‌های رسانه در «تنظیمات > حافظه»، فضا آزاد کنید.</item>
+    </plurals>
+</resources>

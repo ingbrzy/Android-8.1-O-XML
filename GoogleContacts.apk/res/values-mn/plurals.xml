@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d харилцагчийг %2$s шошгонд нэмсэн</item>
+        <item quantity="one">%1$d харилцагчийг %2$s шошгонд нэмсэн</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d харилцагчийг %2$s шошгонд нэмж байна</item>
+        <item quantity="one">%1$d харилцагчийг %2$s шошгонд нэмж байна</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d харилцагчийн санал болгосон мэдээллийг хянах</item>
+        <item quantity="one">%d харилцагчийн санал болгосон мэдээллийг хянах</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d хаягдал харилцагч</item>
+        <item quantity="one">%d хаягдал харилцагч</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d давхардсан харилцагч</item>
+        <item quantity="one">1 давхардсан харилцагч</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d саяхны дуудлага • Сүүлийнх %2$s</item>
+        <item quantity="one">%1$d саяхны дуудлага • Сүүлийнх %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Харилцагчдыг аль хэдийн %1$s шошгонд нэмсэн</item>
+        <item quantity="one">Харилцагчийг аль хэдийн %1$s шошгонд нэмсэн</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d харилцагч</item>
+        <item quantity="one">%d харилцагч</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d харилцагч · %2$s</item>
+        <item quantity="one">%1$d харилцагч · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d харилцагчийг устгасан</item>
+        <item quantity="one">%1$d харилцагчийг устгасан</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Эдгээр харилцагчийг Google Харилцагчид болон таны бүх синк хийгдсэн төхөөрөмжөөс устгах болно.</item>
+        <item quantity="one">Энэ харилцагчийг Google Харилцагчид болон таны бүх синк хийгдсэн төхөөрөмжөөс устгах болно.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">Таны бусад бүртгэлүүд дотор %1$d харилцагч</item>
+        <item quantity="one">Таны бусад бүртгэлүүд дотор 1 харилцагч</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d харилцагч</item>
+        <item quantity="one">1 харилцагч</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 харилцагч • ^2</item>
+        <item quantity="one">^1 харилцагч • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Эдгээр %1$d харилцагчийг %2$s руу зөөх үү?</item>
+        <item quantity="one">Энэ харилцагчийг %2$s руу зөөх үү?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d харилцагчийг зөөсөн</item>
+        <item quantity="one">%d харилцагчийг зөөсөн</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d харилцагчийг зөөж дууссан</item>
+        <item quantity="one">Харилцагчийг зөөж дууссан</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d харилцагчийг зөөж байна</item>
+        <item quantity="one">Харилцагчийг зөөж байна</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d харилцагчийг %2$s руу нөөцлөв</item>
+        <item quantity="one">%1$d харилцагчийг %2$s руу нөөцлөв</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">SIM картуудаас импортлох</item>
+        <item quantity="one">SIM картаас импортлох</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d харилцагч</item>
+        <item quantity="one">1 харилцагч</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-н харилцагчдыг импорт хийсэн</item>
+        <item quantity="one">1 SIM-н харилцагчийг импорт хийсэн</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Харилцагчийг хуваалцах</item>
+        <item quantity="one">Харилцагчийг хуваалцах</item>
+    </plurals>
+</resources>

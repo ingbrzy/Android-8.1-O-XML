@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ہوم پر نیویگیٹ کریں</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="abc_action_menu_overflow_description">مزید اختیارات</string>
+    <string name="abc_action_mode_done">ہو گیا</string>
+    <string name="abc_activity_chooser_view_see_all">سبھی دیکھیں</string>
+    <string name="abc_activitychooserview_choose_application">ایک ایپ منتخب کریں</string>
+    <string name="abc_capital_off">آف</string>
+    <string name="abc_capital_on">آن</string>
+    <string name="abc_search_hint">تلاش کریں…</string>
+    <string name="abc_searchview_description_clear">استفسار صاف کریں</string>
+    <string name="abc_searchview_description_query">استفسار تلاش کریں</string>
+    <string name="abc_searchview_description_search">تلاش کریں</string>
+    <string name="abc_searchview_description_submit">استفسار جمع کرائیں</string>
+    <string name="abc_searchview_description_voice">صوتی تلاش</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک کریں مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏%s کے ساتھ اشتراک کریں</string>
+    <string name="abc_toolbar_collapse_description">سکیڑیں</string>
+    <string name="app_has_in_app_purchases">درون ایپ خریداریاں</string>
+    <string name="app_has_permissions">اجازتیں: ‎%s</string>
+    <string name="app_has_runtime_permissions">ایپ اجازتوں کیلئے پوچھے گی</string>
+    <string name="app_picker_loading">دستیاب ایپس تلاش کی جا رہی ہیں…</string>
+    <string name="app_picker_loading_toast">دستیاب ایپس جلد لوڈ ہو جائیں گی</string>
+    <string name="app_picker_no_apps">کوئی ایپ منتخب نہیں ہوئی</string>
+    <string name="app_picker_no_apps_found">کوئی ایپس نہیں ملیں</string>
+    <string name="apps_permissions_described_v2">"صرف مقبول، مفت ®iOS ایپس کو Android ایپس سے میچ کیا جا سکتا ہے۔ زیادہ تر درون ایپ خریداریاں منتقل نہیں ہوتیں۔ سیٹ اپ مکمل ہونے کے بعد آپ Play اسٹور پر مزید ایپس تلاش کر سکتے ہیں۔
+
+آپ کے فون کی مخصوص اہلیتوں یا معلومات تک رسائی کیلئے آپ کو کچھ ایپس کو پیشگی اجازت دینے کی ضرورت ہو سکتی ہے۔ اجازتوں کا نظم اجازت کے گروپس میں ہوتا ہے۔ ان ایپس کو انسٹال کرنا منتخب کر کے، آپ ان اجازتوں کو قبول کرتے ہیں جو ہر گروپ کا حصہ ہیں- ذیل میں ہر اجازت گروپ کی تفصیل فراہم کی گئی ہے۔
+
+ہو سکتا ہے کچھ ایپس کو پیشگی اجازتیں منظور کرنا درکار نہ ہو۔ جب آپ ان میں سے کسی ایپ کا استعمال کرتے ہیں، تو آپ ایپ کے اس قسم کے ڈیٹا کو استعمال کرنے سے پہلے انفرادی اجازتوں کو منظور یا مسترد کر سکتے ہیں۔
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">ڈیٹا منتقلی کا ٹول</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">کاپی نہ کریں</string>
+    <string name="close_button_label">بند کریں</string>
+    <string name="cloud_restore_app_picker_button">بحال کریں</string>
+    <string name="cloud_restore_app_picker_description_no_apps">آپ کے بیک اپ میں کوئی ایپ نہیں ہے</string>
+    <string name="cloud_restore_app_picker_title">بحال کرنے کیلئے ایپس منتخب کریں</string>
+    <string name="common_cancel">منسوخ کریں</string>
+    <string name="common_google_play_services_enable_button">فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_install_button">انسٹال کریں</string>
+    <string name="common_google_play_services_install_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="common_google_play_services_wear_update_text">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="common_ok">ٹھیک ہے</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google رابطے، %1$d iCloud®، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_and_sim_with_google">Google رابطے، %1$d SIM، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_with_google">Google رابطے، %1$d آلہ</string>
+    <string name="contacts_number_icloud_with_google">Google رابطے، %1$d ®iCloud</string>
+    <string name="contacts_number_sim_with_google">Google رابطے، %1$d SIM</string>
+    <string name="copy_confirmation_description">آپ کا ڈیٹا جیسے کہ آپ کا Google اکاؤنٹ اور ایپس آپ کے نئے فون پر کاپی ہو جائے گا۔</string>
+    <string name="copy_confirmation_title">آپ کے نئے فون پر کاپی کریں؟</string>
+    <string name="d2d_app_picker_description_no_apps">ہمیں کوئی ایپ نہیں ملی</string>
+    <string name="d2d_app_picker_title">ایپس</string>
+    <string name="d2d_migration_canceled_on_source">کاپی کرنا منسوخ ہو گیا</string>
+    <string name="data_copied_fragment_description">آپ کا ڈیٹا آپ کے نئے فون پر کاپی ہو گیا ہے۔ آپ کیبل کو ان پلگ کر سکتے ہیں۔</string>
+    <string name="data_copied_fragment_description_cancel">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر صرف کچھ ہی ڈیٹا کاپی ہوا ہے۔</string>
+    <string name="data_copied_fragment_description_cancel_no_data">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر کچھ بھی کاپی نہیں ہوا۔</string>
+    <string name="data_copied_fragment_description_error">کچھ غلط ہو گیا ہے لہذا ہم سب کچھ کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_description_error_no_data">کچھ غلط ہو گیا، لہذا ہم آپ کا ڈیٹا کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_no_data_title">کاپی نہیں ہو سکا</string>
+    <string name="data_copied_fragment_some_data_title">کچھ ڈیٹا کاپی ہوا</string>
+    <string name="data_copied_fragment_title">ڈیٹا کاپی ہو گیا</string>
+    <string name="device_not_supported_fragment_new_device">آپ ایک نئے فون سے منسلک ہیں۔ جاری رکھنے کیلئے، اپنے گزشتہ فون سے دوبارہ منسلک کریں۔</string>
+    <string name="device_not_supported_fragment_new_device_title">گزشتہ فون پر دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_no_data_cable">یہ کیبل ڈیٹا منتقل نہیں کر سکتی۔ ایک مختلف کیبل استعمال کر کے دوبارہ منسلک کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">دوسری کیبل آزمائیں</string>
+    <string name="device_not_supported_fragment_retry_description">یقینی بنائیں کہ آپ کا پرانا فون غیر مقفل ہے، پھر کیبل کو غیر منسلک کرکے دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">کچھ غلط ہو گیا ہے</string>
+    <string name="device_not_supported_ios_supervised_description">کیونکہ آپ کے iPhone®‎ آلہ کو سپروائز کیا جا رہا ہے، اس لئے آپ کو ڈیٹا کاپی کرنے کیلئے کوئی اور طریقہ ڈھونڈنا ہوگا</string>
+    <string name="device_picker_skip">بحال نہ کریں</string>
+    <string name="durationDayHour">%1$d دن %2$d گھنٹہ</string>
+    <string name="durationDayHours">%1$d دن %2$d گھنٹے</string>
+    <string name="durationDays">%1$d دن</string>
+    <string name="durationHourMinute">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHourMinutes">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHours">%1$d گھنٹے</string>
+    <string name="durationMinute">%1$d منٹ</string>
+    <string name="durationMinutes">%1$d منٹ</string>
+    <string name="encryption_warning_fragment_description">"بیک اپ مرموز کاری آپ کے ®iPhone آلے کیلئے آن ہے۔ اگر آپ نے اسے خود سے آن نہیں کیا ہے تو ممکن ہے کہ اسے آپ کے IT ایڈمن نے آن کیا ہو۔
+
+صرف تصاویر، موسیقی اور ویڈیوز کاپی کی جا سکتی ہیں۔ مزید معلومات کیلئے، "<b>g.co/datatransferhelp</b>‎ ملاحظہ کریں۔</string>
+    <string name="encryption_warning_fragment_title">بیک اپ مرموز کاری</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">میں اڈاپٹر نہیں ڈھونڈ پا رہا</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"آپ کے ^1 کے ڈبے میں آنے والا Quick Switch Adapter تلاش کریں۔
+
+کیبل کو اڈاپٹر میں پلگ ان کریں"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">اڈاپٹر اور کیبل کو منسلک کریں</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">اپنے پرانے فون کو غیر مقفل کریں، پھر اڈاپٹر کو اس فون میں پلگ ان کریں۔</string>
+    <string name="fragment_usb_connect_both_phones_title">دونوں فونز منسلک کریں</string>
+    <string name="fragment_usb_dialog_cancel_description">اگر آپ کیبل استعمال کریں گے تو آپ سب سے زیادہ مواد حاصل کر سکتے ہیں۔ اگر باکس میں موجود کیبلز فٹ نہیں ہوتیں، تو وہ چارجنگ یا ڈیٹا کیبل استعمال کرکے دیکھیں جو آپ کے پرانے فون کے ساتھ کام کرتی ہے۔</string>
+    <string name="fragment_usb_dialog_cancel_title">کسی دوسرے طریقے سے ڈیٹا کاپی کریں؟</string>
+    <string name="fragment_usb_dont_copy">کاپی نہ کریں</string>
+    <string name="fragment_usb_dont_have_cable">میرے پاس کیبل نہیں ہے</string>
+    <string name="fragment_usb_dont_have_old_phone">پرانا فون استعمال نہیں کر سکتے؟</string>
+    <string name="fragment_usb_find_cable_description">ایک کیبل استعمال کریں جو آپ کے پرانے فون پر فٹ ہو جائے، جیسا کہ آپ کی ڈیٹا یا چارجنگ کیبل۔</string>
+    <string name="fragment_usb_find_cable_title">درست کیبل تلاش کریں</string>
+    <string name="fragment_usb_initial_description">آپ کو اپنا پرانا Android یا iPhone® آلہ درکار ہے۔ اسے آن کریں اور غیر مقفل رکھیں۔</string>
+    <string name="fragment_usb_initial_title">اپنا پرانا فون حاصل کریں</string>
+    <string name="fragment_usb_legacy_description">"یہ زیادہ سے زیادہ ڈیٹا لانے کا تیز ترین طریقہ ہے۔
+
+باکس میں اڈاپٹر تلاش کریں اور اسے اپنے نئے فون میں پلگ ان کریں۔ فونز کو کیبل کے ذریعے منسلک کریں، پھر اپنا پرانا فون غیر مقفل کریں۔"</string>
+    <string name="fragment_usb_missing_data_description">آپ منتقلی کے دوران اپنے پکسل کی ترتیب جاری رکھ سکتے ہیں۔</string>
+    <string name="fragment_usb_missing_data_title">آئیے آپ کا ڈیٹا کاپی کریں</string>
+    <string name="fragment_usb_other_ways">کیبل کے بغیر کاپی کریں</string>
+    <string name="fragment_usb_plug_cable">کیبل کو اپنے پرانے فون میں پلگ کریں</string>
+    <string name="fragment_waiting_title">بس ایک سیکنڈ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">"'Google رابطے' مطابقت پذیر ہو گی"</string>
+    <string name="google_contacts_static_text_off">Google رابطے اب بھی مطابقت پذیر ہو گی</string>
+    <string name="i_message_dialog_message">"®iPhone آلہ کے صارفین سے SMS پیغامات حاصل کرنا جاری رکھنے کیلئے آپ کو ®iMessage کو آف کرنا ہو گا۔
+
+ہدایات کیلئے "<b>g.co/iMessageHelp</b> ملاحظہ کریں۔</string>
+    <string name="instructions_fragment_title">اپنے دوسرے فون پر جاری رکھیں</string>
+    <string name="ios_connected_fragment_description">"اگلی اسکرین پر آپ اپنے Google اکاؤنٹ پر سائن ان کر سکتے ہیں، یا نیا بنا سکتے ہیں۔
+
+اگر آپ اپنا Google اکاؤنٹ شامل نہیں کرتے تو آپ کے iOS کیلنڈر® کے ایونٹس مطابقت پذیر نہیں ہوں گے۔"</string>
+    <string name="ios_message_attachment_explanation">[آپ کے پیغام کی منسلکات Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں ہیں]</string>
+    <string name="ios_message_attachment_failed_explanation">[کچھ منسلکات کاپی نہیں ہو سکیں۔ جو منسلکات منتقل ہوئی ہیں وہ Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں دیکھی جا سکتی ہیں]</string>
+    <string name="ios_message_attachment_placeholder">[منسلکہ Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_message_attachments_placeholder">[منسلکات Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_migration_default_calendar_title">کیلنڈر</string>
+    <string name="ios_migration_other_contact_relation">دیگر</string>
+    <string name="ios_photos_dialog_message">"®iCloud میں اسٹور کردہ تصاویر کو کاپی نہیں کیا جا سکتا۔
+
+ان تصاویر کو اپنے ^1 پر لانے کیلئے، اپنے ®iPhone آلہ پر Google تصاویر ایپ انسٹال کریں اور بیک اپ اور مطابقت پذیری آن کریں۔ مزید ہدایات کیلئے "<b>g.co/datatransferhelp</b>‎ ملاحظہ کریں۔</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">اگلا</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">سبھی</string>
+    <string name="photos_filtering_option_none">کوئی بھی نہیں</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">کاپی کردہ رابطے آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">کاپی کردہ رابطے اور کیلنڈرز آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_data_disclaimer_v2">ہو سکتا ہے آپ کا کچھ ڈیٹا ^1 پر کاپی نہ ہو۔ <annotation id="restore_choice_data_disclaimer_learn_more">مزید جانیں</annotation></string>
+    <string name="restore_choice_deselect_some_content">جاری رکھنے کیلئے کچھ مواد کو غیر منتخب کریں</string>
+    <string name="restore_choice_learn_more_android">"آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا: 
+
+ ● ڈاؤن لوڈز (جیسے PDF فائلز)
+
+ ● مخفی فولڈرز میں اسٹور کردہ تصاویر، ویڈیوز اور موسیقی
+
+ ● متنی پیغام کے ذریعے موصولہ تصاویر، ویڈیوز اور موسیقی
+
+ ● وہ ایپس جو Google Play اسٹور سے نہیں ہیں
+
+ ● ایپ ڈیٹا (اگر ایپ Android بیک اپ استعمال نہیں کرتی)
+
+ ● آلہ کی بعض ترتیبات
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google کے علاوہ کسی بھی دوسری سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● رنگ ٹونز
+
+ مزید معلومات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے visit g.co/datatransferhelp ملاحظہ کریں۔"</string>
+    <string name="restore_choice_learn_more_ios">"آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا:
+
+ ● ایپس اور ایپ ڈیٹا
+
+ ● تصاویر جہاں اصل آپ کے فون پر محفوظ نہ ہو (مثال کے طور پر، اگر اسٹوریج بہتر بنائیں کی ترتیب آن ہے؛ اصل تصاویر ®iCloud پر اسٹور کی جاتی ہیں)
+
+ ● ®iCloud میں اسٹور کردہ فائلز اور دستاویزات
+
+ ● آلہ کی ترتیبات (جیسے Wi-Fi پاسورڈز اور وال پیپر)
+
+ ● Digital Rights Management (DRM)‎ تحفظ کے ساتھ تحفظ یافتہ موسیقی (مثال کے طور پر اپریل 2009 سے قبل خریدی گئی iTunes(R)‎ موسیقی یا کسی موسیقی کی سلسلہ بندی والی ایپ میں آف لائن سننے کیلئے ڈاؤن لوڈ کردہ موسیقی)
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google یا ®iCloud کے علاوہ کسی سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● ®Safari سے بک مارکس
+
+ ®iMessage منسلکات Google تصاویر > آلہ کے فولڈرز > پیغام کی منسلکات میں دستیاب ہوں گے۔
+
+ مزید تفصیلات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے g.co/datatransferhelp  ملاحظہ کریں۔"</string>
+    <string name="restore_choice_not_enough_space">کافی جگہ نہيں ہے</string>
+    <string name="restore_choice_total_text">منتقلی کیلئے دستیاب آپ کی %1$s / %2$s</string>
+    <string name="restore_item_appdata">ایپ ڈیٹا</string>
+    <string name="restore_item_calendar">کیلنڈر</string>
+    <string name="restore_item_calendar_ical_description">®iOS کیلنڈر، Google کیلنڈر</string>
+    <string name="restore_item_calendar_ical_off_description">Google کیلنڈر اب بھی مطابقت پذیر ہو گی</string>
+    <string name="restore_item_calendar_sync_description">Google کیلنڈر مطابقت پذیر ہو گی</string>
+    <string name="restore_item_call_logs">کال کی سرگزشت</string>
+    <string name="restore_item_contacts">رابطے</string>
+    <string name="restore_item_device_settings_description">Wi-Fi پاسورڈز اور مزید</string>
+    <string name="restore_item_downloads">ڈاؤن لوڈز</string>
+    <string name="restore_item_email">ای میل</string>
+    <string name="restore_item_email_description">Gmail مطابقت پذیر ہو گی</string>
+    <string name="restore_item_message_attachments">پیغام منسلکہ جات</string>
+    <string name="restore_item_messages">پیغامات</string>
+    <string name="restore_item_music">موسیقی</string>
+    <string name="restore_item_photos">تصاویر اور ویڈیوز</string>
+    <string name="restore_item_settings">آلہ کی ترتیبات</string>
+    <string name="restore_item_sms">SMS پیغامات</string>
+    <string name="restore_item_will_be_synced_text">یہ آپ کے فون سے مطابقت پذیر ہو جائے گا</string>
+    <string name="restore_progress_title">بحال ہو رہا ہے…</string>
+    <string name="search_menu_title">تلاش</string>
+    <string name="small_time_duration">1 منٹ سے کم</string>
+    <string name="status_bar_notification_info_overflow">‎999+‎</string>
+    <string name="stop_copying_dialog_continue_button">کالعدم کریں</string>
+    <string name="stop_copying_dialog_message_before_transfer">آپ کا ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_message_during_transfer">آپ کا کچھ ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">کاپی نہ کریں</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">روکیں</string>
+    <string name="stop_copying_dialog_title_before_transfer">کاپی نہ کریں؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">کاپی کرنا بند کریں؟</string>
+    <string name="suw_back_button_label">پیچھے</string>
+    <string name="suw_more_button_label">مزید</string>
+    <string name="suw_next_button_label">آگے</string>
+    <string name="target_default_source_device_model">پرانا آلہ</string>
+    <string name="target_device_not_supported_cant_continue_description">آپ کو ڈیٹا کاپی کرنے کیلئے کوئی اور طریقہ منتخب کرنا پڑے گا</string>
+    <string name="target_device_not_supported_cant_continue_title">دوسرا فون تعاون یافتہ نہیں ہے</string>
+    <string name="target_device_not_supported_try_restarting_description">"کیبل کو غیر منسلک کریں اور اپنے فون کو دوبارہ شروع کریں، پھر کیبل کو دوبارہ منسلک کریں اور اپنے Pixel پر ہدایات کی پیروی کریں۔
+
+اگر آپ کو اب بھی یہ خرابی نظر آتی ہے تو آپ کو کسی اور طریقہ سے کاپی کرنے کی ضرورت پڑ سکتی ہے۔"</string>
+    <string name="target_device_not_supported_try_restarting_title">ہوسکتا ہے فون تعاون یافتہ نہ ہو</string>
+    <string name="target_pixelmigrate_notification_description">دستیاب یا پیش رفت میں ہے</string>
+    <string name="target_pixelmigrate_notification_title">ڈیٹا کی منتقلی</string>
+    <string name="target_smart_device_timeout_add_account">اکاؤنٹ شامل کریں</string>
+    <string name="target_smart_device_timeout_description">اگر آپ چاہیں تو آپ اپنا اکاؤنٹ دستی طور پر شامل کرنے کی کوشش کر سکتے ہیں</string>
+    <string name="target_smart_device_timeout_dismiss">برخاست کریں</string>
+    <string name="target_smart_device_timeout_title">مشکل پیش آ رہی ہے؟</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">فونز منسلک ہیں</string>
+    <string name="toast_reconnect_cable">اپنی کیبل دوبارہ منسلک کریں</string>
+    <string name="transfer_finished_fragment_title">حتمی شکل دی جا رہی ہے…</string>
+    <string name="transfer_summary_copied">ڈیٹا کاپی ہو گیا</string>
+    <string name="transfer_summary_fragment_description">آپ کیبل کو غیر منسلک کر سکتے ہیں۔</string>
+    <string name="transfer_summary_fragment_finish">مکمل کریں</string>
+    <string name="transfer_summary_fragment_title">آپ کا فون تقریباً تیار ہے</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">آپ کی کچھ تصاویر کاپی نہیں ہوئیں۔ <annotation id="transfer_summary_learn_more">مزید جانیں</annotation></string>
+    <string name="transfer_summary_not_copied">ڈیٹا کاپی نہیں ہوا</string>
+    <string name="transfer_summary_partial">%1$s / %2$s کاپی ہو گئے</string>
+    <string name="transfer_summary_will_sync">ڈیٹا سیٹ اپ کے بعد مطابقت پذیر ہو گا</string>
+    <string name="transferring_fragment_calculating_remaining_time">باقی وقت کا تخمینہ لگایا جا رہا ہے…</string>
+    <string name="transferring_fragment_header">کاپی ہو رہا ہے…</string>
+    <string name="transferring_fragment_remaining_time">%1$s باقی ہیں</string>
+    <string name="trust_instructions_description">جاری رکھنے کیلئے، اپنا iPhone®‎ آلہ چیک کریں اور کنکشن منظور کریں</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone، iPad، iOS، iMessage، iCloud، Safari، اور iTunes ریاست ہائے متحدہ امریکہ اور دیگر ممالک میں Apple Inc.‎ کے رجسٹرڈ ٹریڈ مارکس ہیں۔</string>
+</resources>

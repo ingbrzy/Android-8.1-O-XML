@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Ваш рэйтынг: %1$s зоркі</item>
+        <item quantity="one">Ваш рэйтынг: %1$s зорка</item>
+        <item quantity="few">Ваш рэйтынг: %1$s зоркі</item>
+        <item quantity="many">Ваш рэйтынг: %1$s зорак</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d агляда</item>
+        <item quantity="one">%1$d агляд</item>
+        <item quantity="few">%1$d агляды</item>
+        <item quantity="many">%1$d аглядаў</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d агляда для рэйтынгу ў зорках: %2$d</item>
+        <item quantity="one">%1$d агляд для рэйтынгу ў зорках: %2$d</item>
+        <item quantity="few">%1$d агляды для рэйтынгу ў зорках: %2$d</item>
+        <item quantity="many">%1$d аглядаў для рэйтынгу ў зорках: %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">усталёўкі прыпынены</item>
+        <item quantity="one">усталёўка прыпынена</item>
+        <item quantity="few">усталёўкі прыпынены</item>
+        <item quantity="many">усталёвак прыпынены</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Апошняе сканіраванне праграм: %1$d дня таму</item>
+        <item quantity="one">Апошняе сканіраванне праграм: %1$d дзень таму</item>
+        <item quantity="few">Апошняе сканіраванне праграм: %1$d дні таму</item>
+        <item quantity="many">Апошняе сканіраванне праграм: %1$d дзён таму</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d шкоднай праграмы выдалены. %2$s.</item>
+        <item quantity="one">%1$d шкодная праграма выдалена. %2$s.</item>
+        <item quantity="few">%1$d шкодныя праграмы выдалены. %2$s.</item>
+        <item quantity="many">%1$d шкодных праграм выдалены. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d абнаўлення патрабуе пацвярджэнне</item>
+        <item quantity="one">%1$d абнаўленне патрабуе пацвярджэнне</item>
+        <item quantity="few">%1$d абнаўленні патрабуюць пацвярджэнне</item>
+        <item quantity="many">%1$d абнаўленняў патрабуюць пацвярджэнне</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d новага абнаўлення</item>
+        <item quantity="one">%1$d новае абнаўленне</item>
+        <item quantity="few">%1$d новыя абнаўленні</item>
+        <item quantity="many">%1$d новых абнаўленняў</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d абнаўлення даступна</item>
+        <item quantity="one">%1$d абнаўленне даступна</item>
+        <item quantity="few">%1$d абнаўленні даступны</item>
+        <item quantity="many">%1$d абнаўленняў даступны</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Абнавіць усе</item>
+        <item quantity="one">Абнавіць усе</item>
+        <item quantity="few">Абнавіць усе</item>
+        <item quantity="many">Абнавіць усе</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d дадатка абноўлена</item>
+        <item quantity="one">%1$d дадатак абноўлены</item>
+        <item quantity="few">%1$d дадаткі абноўлены</item>
+        <item quantity="many">%1$d дадаткаў абноўлены</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s зоркі</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s зорка</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s зоркі</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s зорак</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s зоркі – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s зорка – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s зоркі – %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s зорак – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s зоркі – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s зорка – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s зоркі – %3$s – %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s зорак – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d карыстальніка знайшлі гэты агляд карысным. Пазначыць каментарый як карысны</item>
+        <item quantity="one">%1$d карыстальнік знайшоў гэты агляд карысным.. Пазначыць каментарый як карысны</item>
+        <item quantity="few">%1$d карыстальнікі знайшлі гэты агляд карысным. Пазначыць каментарый як карысны</item>
+        <item quantity="many">%1$d карыстальнікаў знайшлі гэты агляд карысным. Пазначыць каментарый як карысны</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d карыстальніка знайшлі гэты агляд карысным. Адмяніць пазнаку каментарыя як карыснага</item>
+        <item quantity="one">%1$d карыстальнік знайшоў гэты агляд карысным. Адмяніць пазнаку каментарыя як карыснага</item>
+        <item quantity="few">%1$d карыстальнікі знайшлі гэты агляд карысным. Адмяніць пазнаку каментарыя як карыснага</item>
+        <item quantity="many">%1$d карыстальнікаў знайшлі гэты агляд карысным. Адмяніць пазнаку каментарыя як карыснага</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Гэта ацэнена ў &lt;b>%1$s зоркі&lt;/b></item>
+        <item quantity="one">Гэта ацэнена ў &lt;b>%1$s зорку&lt;/b></item>
+        <item quantity="few">Гэта ацэнена ў &lt;b>%1$s зоркі&lt;/b></item>
+        <item quantity="many">Гэта ацэнена ў &lt;b>%1$s зорак&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">у %1$s агляда</item>
+        <item quantity="one">у %1$s аглядзе</item>
+        <item quantity="few">у %1$s аглядах</item>
+        <item quantity="many">у %1$s аглядах</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s зоркі&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s зорка&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b>%1$s зоркі&lt;/b> %2$s</item>
+        <item quantity="many">&lt;b>%1$s зорак&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Апошні раз выкарыстана %1$d дня таму</item>
+        <item quantity="one">Апошні раз выкарыстана %1$d дзень таму</item>
+        <item quantity="few">Апошні раз выкарыстана %1$d дні таму</item>
+        <item quantity="many">Апошні раз выкарыстана %1$d дзён таму</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Аднавіць %1$d выбранай праграмы</item>
+        <item quantity="one">Аднавіць %1$d выбраную праграму</item>
+        <item quantity="few">Аднавіць %1$d выбраныя праграмы</item>
+        <item quantity="many">Аднавіць %1$d выбраных праграм</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">зоркі</item>
+        <item quantity="one">зорка</item>
+        <item quantity="few">зоркі</item>
+        <item quantity="many">зорак</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Праграмы будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="one">Праграмы будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="few">Праграмы будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="many">Праграмы будуць усталяваны ў бліжэйшы час.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Абнаўленні праграм будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="one">Абнаўленні праграм будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="few">Абнаўленні праграм будуць усталяваны ў бліжэйшы час.</item>
+        <item quantity="many">Абнаўленні праграм будуць усталяваны ў бліжэйшы час.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Апошні раз выкарыстоўвалася %1$d дня таму</item>
+        <item quantity="one">Апошні раз выкарыстоўвалася %1$d дзень таму</item>
+        <item quantity="few">Апошні раз выкарыстоўвалася %1$d дні таму</item>
+        <item quantity="many">Апошні раз выкарыстоўвалася %1$d дзён таму</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Апошні раз выкарыстоўвалася %1$d месяца таму</item>
+        <item quantity="one">Апошні раз выкарыстоўвалася %1$d месяц таму</item>
+        <item quantity="few">Апошні раз выкарыстоўвалася %1$d месяцы таму</item>
+        <item quantity="many">Апошні раз выкарыстоўвалася %1$d месяцаў таму</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў наладах сховішча.</item>
+        <item quantity="one">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў наладах сховішча.</item>
+        <item quantity="few">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў наладах сховішча.</item>
+        <item quantity="many">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў наладах сховішча.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню &lt;a href=\"\">Налады > Сховішча&lt;/a>.</item>
+        <item quantity="one">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню &lt;a href=\"\">Налады > Сховішча&lt;/a>.</item>
+        <item quantity="few">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню &lt;a href=\"\">Налады > Сховішча&lt;/a>.</item>
+        <item quantity="many">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню &lt;a href=\"\">Налады > Сховішча&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню \"Налады > Сховішча\".</item>
+        <item quantity="one">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню \"Налады > Сховішча\".</item>
+        <item quantity="few">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню \"Налады > Сховішча\".</item>
+        <item quantity="many">Каб усталяваць праграмы або абнаўленні на гэтай прыладзе, выдаліце праграмы, якія вам больш не патрэбныя. Вы таксама можаце вызваліць месца, выдаліўшы медыяфайлы ў меню \"Налады > Сховішча\".</item>
+    </plurals>
+</resources>

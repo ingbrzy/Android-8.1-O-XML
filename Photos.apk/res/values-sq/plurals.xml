@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Zhvendosja e artikujve në kosh gjithashtu i heq nga</item>
+        <item quantity="one">Zhvendosja e artikullit në kosh gjithashtu e heq nga</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Këta artikuj janë shumë të mëdhenj për koshin e pajisjes tënde. Nëse i fshin, do të hiqen përgjithmonë nga pajisja dhe llogaria.</item>
+        <item quantity="one">Ky artikull është shumë i madh për koshin e pajisjes tënde. Nëse e fshin, do të hiqet përgjithmonë nga pajisja dhe llogaria.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Madhësia e re e albumit do të ishte më e madhe se kufiri aktual prej %1$d artikujsh.</item>
+        <item quantity="one">Madhësia e re e albumit do të ishte më e madhe se kufiri aktual prej %1$d artikulli.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumi do të kishte %1$d artikuj.</item>
+        <item quantity="one">Albumi do të kishte %1$d artikull.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">Të hiqen %1$d artikuj nga albumi?</item>
+        <item quantity="one">Të hiqet %1$d artikull nga albumi?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">Po heq %d artikuj nga albumi...</item>
+        <item quantity="one">Po heq %d artikull nga albumi...</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d vendndodhje u shtuan</item>
+        <item quantity="one">%d vendndodhje u shtua</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d vendndodhje</item>
+        <item quantity="one">%d vendndodhje</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d harta</item>
+        <item quantity="one">%d hartë</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d harta u shtuan</item>
+        <item quantity="one">%d hartë u shtua</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Po heq artikujt nga albumi…</item>
+        <item quantity="one">Po heq artikullin nga albumi…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d artikuj u hoqën</item>
+        <item quantity="one">%d artikull u hoq</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Po hiqen fotografitë nga albumi...</item>
+        <item quantity="one">Po hiqet fotografia nga albumi...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Po heq videot nga albumi…</item>
+        <item quantity="one">Po heq videon nga albumi…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d artikuj</item>
+        <item quantity="one">%1$d artikull</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Fshi nga pajisja (%d)</item>
+        <item quantity="one">Fshi nga pajisja (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Fshiji të gjitha nga pajisja (%d)</item>
+        <item quantity="one">Fshiji të gjitha nga pajisja (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">Të fshihen kopjet në pajisje?</item>
+        <item quantity="one">Të fshihet kopja në pajisje?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">Këta artikuj nuk kanë kopje rezervë te biblioteka e apl. \"Fotografitë\" dhe fshirja tani e tyre i fshin përgjithmonë nga apl. \"Fotografitë\"</item>
+        <item quantity="one">Ky artikull nuk ka kopje rezervë te biblioteka e apl. \"Fotografitë\" dhe fshirja tani e tij e fshin përgjithmonë nga apl. \"Fotografitë\"</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Zhvendos te koshi (%d)</item>
+        <item quantity="one">Zhvendos te koshi (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d u arkivuan</item>
+        <item quantity="one">%d artikull u arkivua</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d u hoqën nga arkivi</item>
+        <item quantity="one">%d artikull u hoq nga arkivi</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d të zgjedhura</item>
+        <item quantity="one">%d e zgjedhur</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">%1$s të tjerë</item>
+        <item quantity="one">%1$s tjetër</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">%1$d fotografi janë shtuar</item>
+        <item quantity="one">%1$d fotografi është shtuar</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Po ngarkohen %d artikuj</item>
+        <item quantity="one">Po ngarkohet %d artikull</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">Po hiqen %d artikuj…</item>
+        <item quantity="one">Po hiqet %d artikull…</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d fotografi të mbetura</item>
+        <item quantity="one">%d fotografi e mbetur</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d fotografi të mbetura për rezervimin</item>
+        <item quantity="one">%d fotografi e mbetur për rezervimin</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%d fotografi mund të kenë humbur</item>
+        <item quantity="one">%d fotografi mund të ketë humbur</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d fotografi nuk janë rezervuar</item>
+        <item quantity="one">%1$d fotografi nuk është rezervuar</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Mbaj %1$d fotografi të sigurta</item>
+        <item quantity="one">Mbaj %1$d fotografi të sigurt</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d artikuj po ngarkohen</item>
+        <item quantity="one">%d artikull po ngarkohet</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d video po ngarkohen</item>
+        <item quantity="one">%d video po ngarkohet</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d artikuj për të ngarkuar</item>
+        <item quantity="one">%d artikull për të ngarkuar</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d video për të ngarkuar</item>
+        <item quantity="one">%d video për të ngarkuar</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Të %d fotografitë</item>
+        <item quantity="one">Të gjitha fotografitë - (%d)</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d fotografi nuk u rezervuan</item>
+        <item quantity="one">%d fotografi nuk u rezervua</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">Madhësia e re e albumit do të ishte më e madhe se kufiri aktual prej %1$d artikujsh.</item>
+        <item quantity="one">Madhësia e re e albumit do të ishte më e madhe se kufiri aktual prej %1$d artikulli.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumi do të kishte %1$d artikuj.</item>
+        <item quantity="one">Albumi do të kishte %1$d artikull.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d artikuj u shtuan</item>
+        <item quantity="one">%1$d artikull u shtua</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">%d artikuj është numri maksimal që mban një album.</item>
+        <item quantity="one">%d artikull është numri maksimal që mban një album.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Përzgjidh të shumtën %d artikuj.</item>
+        <item quantity="one">Zgjidh jo më shumë se %d artikull.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Përzgjidh të paktën %d artikuj.</item>
+        <item quantity="one">Zgjidh të paktën %d artikull.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Zgjidh artikujt brenda harkut kohor prej %d ditësh.</item>
+        <item quantity="one">Zgjidh artikujt brenda harkut kohor prej %d dite.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">Po shton %d artikuj tek albumi...</item>
+        <item quantity="one">Po shton %d artikull tek albumi...</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d artikuj u shtuan</item>
+        <item quantity="one">%d artikull u shtua</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d ditë më parë</item>
+        <item quantity="one">%d ditë më parë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d orë më parë</item>
+        <item quantity="one">%d orë më parë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d javë</item>
+        <item quantity="one">%d javë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d javë më parë</item>
+        <item quantity="one">%d javë më parë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">%d minutë më parë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d ditë</item>
+        <item quantity="one">%d ditë</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d ditë më parë</item>
+        <item quantity="one">%d ditë më parë</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Të hiqen %1$d artikuj?</item>
+        <item quantity="one">Të hiqet %1$d artikull?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Po heq %1$d fotografi ose video origjinale</item>
+        <item quantity="one">Po heq %1$d fotografi ose video origjinale</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d karta të reja</item>
+        <item quantity="one">1 kartë e re</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d përditësime</item>
+        <item quantity="one">%1$d përditësim</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d komente</item>
+        <item quantity="one">%1$d koment</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Artikujt po ruhen në bibliotekë…</item>
+        <item quantity="one">Artikulli po ruhet në bibliotekë…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d artikuj u shtuan</item>
+        <item quantity="one">%d artikull u shtua</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Mund të shtosh vetëm %d artikuj të tjerë.</item>
+        <item quantity="one">Mund të shtosh vetëm %d artikull tjetër.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Fshi dosjen me %d artikuj në të</item>
+        <item quantity="one">Fshi dosjen me %d artikull në të</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Fshi nga pajisja (%d)</item>
+        <item quantity="one">Fshi nga pajisja (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Problem në kopjimin e %d artikujve</item>
+        <item quantity="one">Problem në kopjimin e %d artikulli</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d artikuj u kopjuan</item>
+        <item quantity="one">%d artikull u kopjua</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Problem në lëvizjen e %d artikujve</item>
+        <item quantity="one">Problem në lëvizjen e %d artikulli</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d artikuj u lëvizën</item>
+        <item quantity="one">%d artikull u lëviz</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Të shtohen tek albumi i ndarë me %1$d persona?</item>
+        <item quantity="one">Të shtohen tek albumi i ndarë me %1$d person?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Të shtohen tek albumi i ndarë me %1$s dhe %2$d të tjerë?</item>
+        <item quantity="one">Të shtohen tek albumi i ndarë me %1$s dhe %2$d tjetër?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Të shtohen tek albumi i ndarë me %1$s, %2$s dhe %3$d të tjerë?</item>
+        <item quantity="one">Të shtohen tek albumi i ndarë me %1$s, %2$s dhe %3$d tjetër?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Të dërgohen te %1$s dhe %2$d të tjerë?</item>
+        <item quantity="one">Të dërgohen te %1$s dhe %2$d tjetër?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Të dërgohen te %1$s, %2$s dhe %3$d të tjerë?</item>
+        <item quantity="one">Të dërgohen te %1$s, %2$s dhe %3$d tjetër?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">Fotografitë e %d personave</item>
+        <item quantity="one">Fotografitë e %d personi</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotografitë e %d personave të zgjedhur</item>
+        <item quantity="one">Fotografitë e %d personi të zgjedhur</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d të zgjedhur</item>
+        <item quantity="one">%d i zgjedhur</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d persona të zgjedhur</item>
+        <item quantity="one">%d person i zgjedhur</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotografitë e %1$d personave të zgjedhur, që nga data %2$s</item>
+        <item quantity="one">Fotografitë e %1$d personi të zgjedhur, që nga data %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotografitë e %d personave të zgjedhur</item>
+        <item quantity="one">Fotografitë e %d personi të zgjedhur</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d fotografi u hoqën</item>
+        <item quantity="one">%1$d fotografi u hoq</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d faqe shtesë</item>
+        <item quantity="one">%d faqe shtesë</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">%d faqe</item>
+        <item quantity="one">%d faqe</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">%d libra me kapak të fortë</item>
+        <item quantity="one">%d libër me kapak të fortë</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">%d libra me kapak të butë</item>
+        <item quantity="one">%d libër me kapak të butë</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Shto %d fotografi të tjera për të porositur këtë libër fotografik</item>
+        <item quantity="one">Shto %d fotografi tjetër për të porositur këtë libër fotografik</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d fotografi u shtuan</item>
+        <item quantity="one">%d fotografi u shtua</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Fotografitë mund të jenë fshirë ose është anuluar ndarja për to</item>
+        <item quantity="one">Fotografia mund të jetë fshirë ose është anuluar ndarja për të</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d fotografi nuk janë më në dispozicion</item>
+        <item quantity="one">%d fotografi nuk është më në dispozicion</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d fotografi u hoqën</item>
+        <item quantity="one">%d fotografi u hoq</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">Libri yt duhet të ketë %d faqe për të shfaqur tekstin e kurrizit. Provo të shtosh më shumë fotografi ose përmirësoje me një libër me kapak të fortë.</item>
+        <item quantity="one">Libri yt duhet të ketë %d faqe për të shfaqur tekstin e kurrizit. Provo të shtosh më shumë fotografi ose përmirësoje me një libër me kapak të fortë.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d faqe shtesë</item>
+        <item quantity="one">%d faqe shtesë</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d faqe</item>
+        <item quantity="one">%d faqe</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Vetëm %d fotografi mund të printohen, </item>
+        <item quantity="one">Vetëm %d fotografi mund të printohet, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">%d fotografi janë sugjeruar për ty</item>
+        <item quantity="one">%d fotografi është sugjeruar për ty</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d fotografi të sugjeruara</item>
+        <item quantity="one">%d fotografi e sugjeruar</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d të zgjedhura</item>
+        <item quantity="one">%d e zgjedhur</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">fotografi ose video</item>
+        <item quantity="one">fotografi ose video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">fotografi</item>
+        <item quantity="one">fotografi</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">video</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Plus %1$d vende në fotografitë e tua</item>
+        <item quantity="one">Plus %1$d vend në fotografitë e tua</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Plus %1$d gjëra në fotografitë e tua</item>
+        <item quantity="one">Plus %1$d gjë në fotografitë e tua</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Plus %1$d vende dhe gjëra në fotografitë e tua</item>
+        <item quantity="one">Plus %1$d vende dhe gjëra në fotografitë e tua</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">U gjetën %1$d persona</item>
+        <item quantity="one">U gjet %1$d person</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">U gjetën %1$d vende</item>
+        <item quantity="one">U gjet %1$d vend</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">U gjetën %1$d gjëra</item>
+        <item quantity="one">U gjet %1$d gjë</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d fotografi</item>
+        <item quantity="one">%d fotografi</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d artikuj u zgjodhën</item>
+        <item quantity="one">1 artikull u zgjodh</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d të zgjedhur</item>
+        <item quantity="one">%d i zgjedhur</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">%d fotografi dhe video nuk mund të fshiheshin</item>
+        <item quantity="one">%d fotografi ose video nuk mund të fshihej</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">Po hiqen %d artikuj…</item>
+        <item quantity="one">Po hiqet %d artikull…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d artikuj u shtuan tek albumi</item>
+        <item quantity="one">%d artikull u shtua tek albumi</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d artikuj po ngarkohen</item>
+        <item quantity="one">%d artikull po ngarkohet</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d artikuj do të ngarkohen kur telefoni të lidhet</item>
+        <item quantity="one">%d artikull do të ngarkohet kur telefoni të lidhet</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s dhe %2$d të tjerë</item>
+        <item quantity="one">%1$s dhe %2$d tjetër</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Të shtohen %d fotografi që kanë lidhje?</item>
+        <item quantity="one">Të shtohet %d fotografi që ka lidhje?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d fotografi të reja</item>
+        <item quantity="one">%1$d fotografi e re</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s shtoi %2$d fotografi të reja</item>
+        <item quantity="one">%1$s shtoi %2$d fotografi të re</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">%1$d persona</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">%1$s dhe %2$d të tjerë</item>
+        <item quantity="one">%1$s dhe %2$d tjetër</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Artikujt nuk mund të fshihen</item>
+        <item quantity="one">Artikulli nuk mund të fshihet</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">Nuk i fshin kopjet e pajisjes</item>
+        <item quantity="one">Nuk e fshin kopjen e pajisjes</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">Kopjet e fshira të pajisjes</item>
+        <item quantity="one">Kopja e fshirë e pajisjes</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d artikuj nuk mund të fshihen</item>
+        <item quantity="one">%d artikull nuk mund të fshihet</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d artikuj nuk mund të fshihen përgjithmonë</item>
+        <item quantity="one">%d artikull nuk mund të fshihet përgjithmonë</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Po i fshin artikujt përgjithmonë…</item>
+        <item quantity="one">Po e fshin artikullin përgjithmonë…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d artikuj fshihen përgjithmonë</item>
+        <item quantity="one">%d artikull fshihet përgjithmonë</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d u fshinë nga pajisja</item>
+        <item quantity="one">%d u fshi nga pajisja</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Artikujt po rivendosen…</item>
+        <item quantity="one">Artikulli po rivendoset…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d artikuj nuk mund të restaurohen</item>
+        <item quantity="one">%d artikull nuk mund të restaurohet</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d artikuj u restauruan nga koshi</item>
+        <item quantity="one">%d artikull u restaurua nga koshi</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Të fshihen artikujt përgjithmonë?</item>
+        <item quantity="one">Të fshihet artikulli përgjithmonë?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Fshirja e artikujve nga koshi është e përhershme</item>
+        <item quantity="one">Fshirja e artikullit nga koshi është e përhershme</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Të fshihen artikujt?</item>
+        <item quantity="one">Të fshihet artikulli?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Fshij përgjithmonë %d artikuj</item>
+        <item quantity="one">Fshij përgjithmonë 1 artikull</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Kanë mbetur %d ditë deri në skadimin e versionit. Për të vazhduar përdorimin e apl. \"Fotografitë e Google\", përditësoje tani.</item>
+        <item quantity="one">Ka mbetur 1 ditë deri në skadimin e versionit. Për të vazhduar përdorimin e apl. \"Fotografitë e Google\", përditësoje tani.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Do të përdorësh rreth %s të dhëna celulare për të krijuar kopje rezervë të këtyre artikujve tani. Lidhu me Wi-Fi për të shmangur përdorimin e të dhënave.</item>
+        <item quantity="one">Do të përdorësh rreth %s të dhëna celulare për të krijuar kopjen rezervë të këtij artikulli tani. Lidhu me Wi-Fi për të shmangur përdorimin e të dhënave.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Krijimi i kopjeve rezervë të këtyre artikujve përdor të dhënat celulare. Lidhu me Wi-Fi për të shmangur përdorimin e të dhënave.</item>
+        <item quantity="one">Krijimi i kopjes rezervë të këtij artikulli përdor të dhënat celulare. Lidhu me Wi-Fi për të shmangur përdorimin e të dhënave.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Po ngarkon…%d të mbetur</item>
+        <item quantity="one">Po ngarkon…%d të mbetur</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d skedarë</item>
+        <item quantity="one">%d skedar</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s fotografi</item>
+        <item quantity="one">%s fotografi</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s artikuj</item>
+        <item quantity="one">%s artikull</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s video</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Zgjidh fotografitë</item>
+        <item quantity="one">Zgjidh një fotografi</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Zgjidh artikuj</item>
+        <item quantity="one">Zgjidh një artikull</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Zgjidh videot</item>
+        <item quantity="one">Zgjidh video</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Koshi i pajisjes tënde është plot. Nëse i fshin këta artikuj, do të hiqen përgjithmonë nga pajisja dhe llogaria.</item>
+        <item quantity="one">Koshi i pajisjes tënde është plot. Nëse e fshin këtë artikull, do të hiqet përgjithmonë nga pajisja dhe llogaria.</item>
+    </plurals>
+</resources>

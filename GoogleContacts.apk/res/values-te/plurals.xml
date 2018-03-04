@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d పరిచయాలు %2$s లేబుల్‌కు జోడించబడ్డాయి</item>
+        <item quantity="one">%1$d పరిచయం %2$s లేబుల్‌కు జోడించబడింది</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d పరిచయాలను %2$s లేబుల్‌కు జోడిస్తోంది</item>
+        <item quantity="one">%1$d పరిచయాన్ని %2$s లేబుల్‌కు జోడిస్తోంది</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d పరిచయాల కోసం సూచించిన సమాచారాన్ని సమీక్షించండి</item>
+        <item quantity="one">%d పరిచయం కోసం సూచించిన సమాచారాన్ని సమీక్షించండి</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d వ్యర్థ పరిచయాలు</item>
+        <item quantity="one">%d వ్యర్థ పరిచయం</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d నకిలీ పరిచయాలు</item>
+        <item quantity="one">1 నకిలీ పరిచయం</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d ఇటీవలి కాల్‌లు • చివరిగా %2$s తేదీన</item>
+        <item quantity="one">%1$d ఇటీవలి కాల్ • చివరిగా %2$s తేదీన</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">పరిచయాలు ఇప్పటికే %1$s లేబుల్‌కు జోడించబడ్డాయి</item>
+        <item quantity="one">పరిచయం ఇప్పటికే %1$s లేబుల్‌కు జోడించబడింది</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d పరిచయాలు</item>
+        <item quantity="one">%d పరిచయం</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d పరిచయాలు · %2$s</item>
+        <item quantity="one">%1$d పరిచయం · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d పరిచయాలు తొలగించబడ్డాయి</item>
+        <item quantity="one">%1$d పరిచయం తొలగించబడింది</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Google పరిచయాలు మరియు మీ అన్ని సమకాలీకరించిన పరికరాల నుండి ఈ పరిచయాలు తీసివేయబడతాయి</item>
+        <item quantity="one">Google పరిచయాలు మరియు మీ అన్ని సమకాలీకరించిన పరికరాల నుండి ఈ పరిచయం తీసివేయబడుతుంది</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">మీ ఇతర ఖాతాల్లో %1$d పరిచయాలు ఉన్నాయి</item>
+        <item quantity="one">మీ ఇతర ఖాతాల్లో 1 పరిచయం ఉంది</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d పరిచయాలు</item>
+        <item quantity="one">1 పరిచయం</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 పరిచయాలు • ^2</item>
+        <item quantity="one">^1 పరిచయం • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">ఈ %1$d పరిచయాలను %2$sకి తరలించాలా?</item>
+        <item quantity="one">ఈ పరిచయాన్ని %2$sకి తరలించాలా?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d పరిచయాలు తరలించబడ్డాయి</item>
+        <item quantity="one">%d పరిచయం తరలించబడింది</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d పరిచయాలను తరలించడం ముగిసింది</item>
+        <item quantity="one">పరిచయాన్ని తరలించడం ముగిసింది</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d పరిచయాలను తరలిస్తోంది</item>
+        <item quantity="one">పరిచయాన్ని తరలిస్తోంది</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d పరిచయాలు %2$sకి బ్యాకప్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d పరిచయం %2$sకి బ్యాకప్ చేయబడింది</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">SIM కార్డ్‌ల నుండి దిగుమతి చేసుకోండి</item>
+        <item quantity="one">SIM కార్డ్ నుండి దిగుమతి చేసుకోండి</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d పరిచయాలు</item>
+        <item quantity="one">1 పరిచయం</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM పరిచయాలు దిగుమతి చేయబడ్డాయి</item>
+        <item quantity="one">1 SIM పరిచయం దిగుమతి చేయబడింది</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">పరిచయాలను దీని ద్వారా భాగస్వామ్యం చేయండి</item>
+        <item quantity="one">పరిచయాన్ని దీని ద్వారా భాగస్వామ్యం చేయండి</item>
+    </plurals>
+</resources>

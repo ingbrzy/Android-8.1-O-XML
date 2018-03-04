@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">ការទិញក្នុងកម្មវិធី</string>
+    <string name="app_has_permissions">សិទ្ធិអនុញ្ញាត៖ %s</string>
+    <string name="app_has_runtime_permissions">កម្មវិធីនេះនឹងសួររកសិទ្ធិអនុញ្ញាត</string>
+    <string name="app_picker_app_already_installed_toast">កម្មវិធីនេះត្រូវបានដំឡើងរួចហើយ</string>
+    <string name="app_picker_loading">កំពុងរកមើលកម្មវិធីដែលអាចប្រើបាន…</string>
+    <string name="app_picker_loading_toast">កម្មវិធីដែលអាចប្រើបាននឹងផ្ទុកក្នុងពេលបន្តិចទៀតនេះ</string>
+    <string name="app_picker_no_apps">គ្មានកម្មវិធីបានជ្រើសរើសទេ</string>
+    <string name="app_picker_no_apps_found">រកមិនឃើញកម្មវិធីទេ</string>
+    <string name="apps_in_app_purchases_disclaimer_all">ការទិញក្នុងកម្មវិធីនឹងមិនផ្ទេរទៅ ^1 របស់អ្នកទេ។</string>
+    <string name="apps_in_app_purchases_disclaimer_some">ការទិញក្នុងកម្មវិធីមួយចំនួនអាចនឹងមិនផ្ទេរទៅ ^1 របស់អ្នកទេ។</string>
+    <string name="apps_permissions_described_v2">"មានតែកម្មវិធី iOS® ដែលពេញនិយម និងឥតគិតថ្លៃប៉ុណ្ណោះដែលអាចផ្គូផ្គងជាមួយកម្មវិធី Android ។ ការទិញក្នុងកម្មវិធីភាគច្រើននឹងមិនអាចធ្វើការផ្ទេរបានទេ។ អ្នកអាចស្វែងរកកម្មវិធីជាច្រើននៅក្នុង Play Store បន្ទាប់ពីការរៀបចំបានបញ្ចប់។
+
+អ្នកត្រូវផ្តល់ការអនុញ្ញាតជាមុនដល់កម្មវិធីមួយចំនួន ដើម្បីចូលប្រើមុខងារ ឬព័ត៌មានជាក់លាក់មួយចំនួននៅលើឧបករណ៍របស់អ្នក។ ការអនុញ្ញាតត្រូវបានដាក់បញ្ចូលជាក្រុមនៃការអនុញ្ញាត។ ប្រសិនបើសម្រេចចិត្តធ្វើការដំឡើងកម្មវិធីទាំងនេះ មានន័យថា អ្នកយល់ព្រមតាមការអនុញ្ញាតដែលជាផ្នែកនៃក្រុមនីមួយៗ។ ការពណ៌នាអំពីក្រុមនៃការអនុញ្ញាតនីមួយៗមានផ្តល់ជូននៅផ្នែកខាងក្រោម។
+
+កម្មវិធីមួយចំនួនអាចនឹងមិនតម្រូវឲ្យមានការអនុញ្ញាតជាមុននោះទេ។ នៅពេលដែលអ្នកប្រើកម្មវិធីណាមួយក្នុងចំណោមកម្មវិធីទាំងនេះ អ្នកអាចអនុញ្ញាត ឬបដិសេធការអនុញ្ញាតនីមួយៗដាច់ដោយឡែក មុនពេលដែលកម្មវិធីនោះប្រើទិន្នន័យប្រភេទនោះ។
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">ប្រសិនបើដំឡើងកម្មវិធីនីមួយៗ មានន័យថាអ្នកយល់ព្រមលើការអនុញ្ញាតរបស់វា។ <annotation id="apps_permissions_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="auto_restore_summary">នៅពេលដំឡើងកម្មវិធីឡើងវិញ សូមស្ដារការកំណត់ និងទិន្នន័យដែលបានបម្រុងទុក</string>
+    <string name="auto_restore_title">ស្ដារឡើងវិញដោយស្វ័យប្រវត្តិ</string>
+    <string name="backup_configure_account_default_summary">បច្ចុប្បន្ន គ្មានគណនីរក្សាទុកទិន្នន័យបម្រុងទុកទេ</string>
+    <string name="backup_configure_account_title">បម្រុងទុកគណនី</string>
+    <string name="backup_data_summary">បម្រុងទុកទិន្នន័យកម្មវិធី, ពាក្យសម្ងាត់ Wi-Fi, និងការកំណត់ផ្សេងទៀតទៅ Google ថាស</string>
+    <string name="backup_data_summary_full">"បម្រុងទុកទិន្នន័យឧបករណ៍ដោយស្វ័យប្រវត្តិ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ពីចម្ងាយ។
+
+នៅពេលដែលអ្នកបើកការបម្រុងទុកស្វ័យប្រវត្តិ ទិន្នន័យឧបករណ៍ និងកម្មវិធីនឹងត្រូវបានរក្សាទុកពីចម្ងាយជាទៀងទាត់។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យដែលសំខាន់ខ្លាំង ដូចជាទំនាក់ទំនង សារ និងរូបថត។"</string>
+    <string name="backup_data_title">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="backup_erase_dialog_message">បញ្ឈប់ការបម្រុងទុកពាក្យសម្ងាត់ Wi-Fi, ចំណាំ, ការកំណត់ផ្សេងទៀត, និងទិន្នន័យកម្មវិធីរបស់អ្នក ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើ Google ថាសដែរឬទេ?</string>
+    <string name="backup_erase_dialog_message_full">បញ្ឈប់ការបម្រុងទុកទិន្នន័យឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើ Google ថាសដែរឬទេ?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">មានកំហុសក្នុងការបើកការកំណត់រូបថត</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"នៅពេលដែលអ្នកបើកការបម្រុងទុកស្វ័យប្រវត្តិ៖
+
+ ● ការកំណត់ឧបករណ៍ និងទិន្នន័យកម្មវិធីត្រូវបានរក្សាទុកជាប្រចាំទៅកាន់ថតនៅក្នុង Google ថាស។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាមួយដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យសំខាន់ៗ ដូចជាទំនាក់ទំនង សារ និងរូបថតជាដើម។
+
+ ឯកសារធំៗ ឬឯកសារដែលអ្នកអភិវឌ្ឍន៍បានជ្រើសដើម្បីយកចេញពីសេវាកម្មនេះ នឹងមិនត្រូវបានបម្រុងទុកទេ។
+
+ ● ការថតរូប និងវីដេអូពីឧបករណ៍នេះនឹងត្រូវបានធ្វើសមកាលកម្មជាមួយបណ្ណាល័យ Google រូបថតរបស់អ្នកដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកចេញពីឧបករណ៍ណាមួយរបស់អ្នក។
+
+ តាមលំនាំដើម រូបថត និងវីដេអូដែលមានគុណភាពបង្ហាញខ្ពស់ត្រូវបានអាប់ឡូត។ រូបភាព និងវីដេអូទាំងនេះមិនរាប់បញ្ចូលទៅក្នុងកម្រិតកំណត់នៃទំហំផ្ទុកក្នុងថាសរបស់អ្នកទេ។
+
+ ● ទំនាក់ទំនង និងទិន្នន័យដែលពាក់ព័ន្ធចេញពីឧបករណ៍នេះត្រូវបានធ្វើសមកាលកម្មទៅកាន់កម្មវិធី Google ទំនាក់ទំនង។ អ្នកអាចប្រើកម្មវិធី Google ទំនាក់ទំនងនេះដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកទំនាក់ទំនងចេញពីឧបករណ៍ទាំងឡាយរបស់អ្នកបាន។
+
+ ● ធាតុចូលប្រតិទិន និងទិន្នន័យដែលពាក់ព័ន្ធចេញពីឧបករណ៍នេះនឹងត្រូវបានធ្វើសមកាលកម្មទៅកាន់កម្មវិធី Google ប្រតិទិន។ អ្នកអាចប្រើកម្មវិធី Google ប្រតិទិននេះដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកទំនាក់ទំនងចេញពីឧបករណ៍ទាំងឡាយរបស់អ្នកបាន។
+
+ ទិន្នន័យបម្រុងទុកនឹងមិនរាប់បញ្ចូលទៅក្នុងកម្រិតកំណត់នៃទំហំផ្ទុកក្នុងថាសរបស់អ្នកទេ។"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"នៅ​ពេល​ដែល​អ្នក​បើក​ការ​បម្រុង​ទុកដោយ​ស្វ័យប្រវត្តិ៖
+
+ ● ការ​កំណត់​ឧបករណ៍ និង​ទិន្នន័យ​កម្មវិធី​ត្រូវ​បាន​រក្សាទុក​ជា​ប្រចាំ​ទៅកាន់ថត​ឯកជន​នៅ​ក្នុង Google ថាស។ ទិន្នន័យ​កម្មវិធី​អាច​ជា​ទិន្នន័យ​ទាំងឡាយ​ដែល​កម្មវិធី​បាន​រក្សាទុក (ផ្អែក​លើ​ការ​កំណត់​អ្នក​អភិវឌ្ឍន៍) ដោយ​រាប់​បញ្ចូល​ទាំង​ទិន្នន័យ​រសើប ដូចជា​ទំនាក់ទំនង សារ និង​រូបថត​ជាដើម។
+
+ ឯកសារ​ធំៗ ឬ​ឯកសារ​ដែល​អ្នក​អភិវឌ្ឍន៍​បាន​ជ្រើសរើស​ដើម្បី​យក​ចេញ​ពី​សេវាកម្ម​នេះ នឹង​មិន​ត្រូវ​បាន​បម្រុង​ទុក​ទេ។
+
+ ● ទំនាក់ទំនង និង​ទិន្នន័យ​ដែល​ពាក់ព័ន្ធ​ចេញ​ពី​ឧបករណ៍​នេះ​ត្រូវ​បាន​ធ្វើ​សមកាលកម្មទៅកាន់​ Google ទំនាក់ទំនង។ អ្នក​អាច​ប្រើកម្មវិធី Google ទំនាក់ទំនង​ ​ដើម្បី​ធ្វើ​ការ​ស្វែងរក កែសម្រួល លុប និង​ចែក​រំលែក​ទំនាក់ទំនង​ចេញ​ពី​ឧបករណ៍​ទាំងឡាយ​របស់អ្នក​បាន។
+
+ ● ធាតុ​នៅ​ក្នុង​ប្រតិទិន និង​ទិន្នន័យ​ដែល​ពាក់ព័ន្ធ​ចេញ​ពី​ឧបករណ៍​នេះ​នឹង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅកាន់​ Google ប្រតិទិន។ អ្នក​អាច​ប្រើ​កម្មវិធី Google ប្រតិទិន​ ដើម្បី​ធ្វើ​ការ​ស្វែងរក កែសម្រួល លុប និង​ចែក​រំលែក​ទំនាក់ទំនង​ចេញ​ពី​ឧបករណ៍​ទាំងឡាយ​របស់​អ្នក​បាន។
+
+ ទិន្នន័យ​បម្រុង​ទុក​នឹង​មិន​រាប់​បញ្ចូល​ទៅ​ក្នុង​កម្រិត​កំណត់​នៃ​ទំហំ​ផ្ទុក​ក្នុង​ថាស​របស់អ្នក​ទេ។"</string>
+    <string name="backup_opt_in_backup_description_extra">ប្រតិទិន ទំនាក់ទំនង រូបថត និងវីដេអូត្រូវបានធ្វើសមកាលកម្មទៅកាន់គណនី Google របស់អ្នក និងអាចត្រូវបានប្រើនៅលើសេវាកម្មនានា។</string>
+    <string name="backup_opt_in_backup_description_v2">ការបម្រុងទុកដោយស្វ័យប្រវត្តិអាចធានាបានថា អ្នកអាចស្តារ ឬប្តូរទូរសព្ទបានយ៉ាងងាយស្រួលនៅ​គ្រប់ពេល។ <annotation id="backup_opt_in_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"វានឹងបិទការបម្រុងទុកសម្រាប់៖
+
+កម្មវិធី និងទិន្នន័យកម្មវិធី
+ប្រវត្តិនៃការហៅទូរសព្ទ
+ការកំណត់ឧបករណ៍
+រូបថត និងវីដេអូ
+សារ SMS
+
+ប្រតិទិន និងទំនាក់ទំនងនឹងនៅតែធ្វើសមកាលកម្មទៅគណនី Google របស់អ្នកដដែល។ នៅពេលដែលការរៀបចំបានបញ្ចប់ អ្នកអាចធ្វើការផ្លាស់ប្តូរការកំណត់ការធ្វើសមកាលកម្មបាន ដោយចូលទៅកាន់ "<annotation id="backup_opt_in_settings_instructions">ការកំណត់ > គណនី > Google</annotation> ។</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">បិទការបម្រុងទុកឬ?</string>
+    <string name="backup_opt_in_backup_list">"កម្មវិធី និងទិន្នន័យកម្មវិធី
+ប្រតិទិន
+ប្រវតិ្តហៅ
+ទំនាក់ទំនង
+ការកំណត់ឧបករណ៍ (រាប់បញ្ចូលទាំងពាក្យសម្ងាត់ Wi-Fi)
+រូបថត និងវីដេអូ
+សារ SMS"</string>
+    <string name="backup_opt_in_backup_list_header">ការបម្រុងទុករួមមាន៖</string>
+    <string name="backup_opt_in_backup_title">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="backup_opt_in_disable_backup">បិទការបម្រុងទុក</string>
+    <string name="backup_photos_update">សូមអាប់ដេត Google រូបថត</string>
+    <string name="backup_settings_activity_backup_title">បម្រុងទុក</string>
+    <string name="backup_settings_activity_title">បម្រុងទុក និងកំណត់ឡើងវិញ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">កុំចម្លង</string>
+    <string name="close_button_label">បិទ</string>
+    <string name="cloud_restore_app_picker_button">ស្តារ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ការបម្រុងទុករបស់អ្នកមិនមានកម្មវិធីឡើយ</string>
+    <string name="cloud_restore_app_picker_title">ជ្រើសរើសកម្មវិធីដើម្បីស្តារ</string>
+    <string name="common_accept">ព្រមទទួល</string>
+    <string name="common_add_account_label">បន្ថែមគណនី</string>
+    <string name="common_ads_settings_title">ពាណិជ្ជកម្ម</string>
+    <string name="common_agree">យល់ព្រម</string>
+    <string name="common_app_name">សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_asm_preferences_settings_title">ចំណូល​ចិត្ត​គណនី</string>
+    <string name="common_asm_privacy_settings_title">ព័ត៌មាន​ផ្ទាល់ខ្លួន និង​ឯកជនភាព</string>
+    <string name="common_asm_security_settings_title">ការចូល​គណនី និង​សុវត្ថិភាព</string>
+    <string name="common_audience_edit_button_label">កែសម្រួល</string>
+    <string name="common_cancel">បោះបង់</string>
+    <string name="common_cannot_start_hangouts_security_exception">មិន​អាច​ចាប់ផ្ដើម Hangouts (កំហុស​សិទ្ធិ)។</string>
+    <string name="common_car_permission_desc">ចូល​ដំណើរការ​សេវាកម្ម​រថយន្ត។</string>
+    <string name="common_car_permission_label">សេវាកម្ម​រថយន្ត</string>
+    <string name="common_chips_label_empty_circles">គ្មាន​ក្រុម</string>
+    <string name="common_chips_label_extended_circles">រង្វង់បន្ថែម</string>
+    <string name="common_chips_label_only_you">តែ​អ្នក​ប៉ុណ្ណោះ</string>
+    <string name="common_chips_label_public">សាធារណៈ</string>
+    <string name="common_chips_label_your_circles">រង្វង់របស់អ្នក</string>
+    <string name="common_choose_account_label">ជ្រើសរើស​គណនី</string>
+    <string name="common_clear_app_data_menu_item">សម្អាត​ទិន្នន័យ​កម្មវិធី</string>
+    <string name="common_connected">បាន​ភ្ជាប់</string>
+    <string name="common_connected_apps_settings_title">កម្មវិធីដែលបានភ្ជាប់</string>
+    <string name="common_connecting">កំពុង​ភ្ជាប់​…</string>
+    <string name="common_continue">បន្ត</string>
+    <string name="common_disagree">មិនយល់ព្រម</string>
+    <string name="common_disconnect">ផ្ដាច់</string>
+    <string name="common_done">រួចរាល់</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">ពី៖</string>
+    <string name="common_games_settings_title">លេង​ហ្គេម</string>
+    <string name="common_get_started">ចាប់ផ្ដើម</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">បើក</string>
+    <string name="common_google_play_services_enable_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_enable_title">បើកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">កំហុស</string>
+    <string name="common_google_play_services_install_button">ដំឡើង</string>
+    <string name="common_google_play_services_install_text">%1$s នឹងមិនដំណើរការទេ ប្រសិនបើមិនមានសេវាកម្មនានារបស់ Google Play ដែលបានបាត់ពីឧបករណ៍របស់អ្នក។</string>
+    <string name="common_google_play_services_install_title">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_unknown_issue">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="common_google_play_services_unsupported_text">%1$s នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។</string>
+    <string name="common_google_play_services_update_button">អាប់ដេត</string>
+    <string name="common_google_play_services_update_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_update_title">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="common_google_play_services_updating_title">សេវាកម្ម Google Play កំពុងអាប់ដេត</string>
+    <string name="common_google_play_services_wear_update_text">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">បានដំឡើងសេវាកម្ម Google Play ដែលមានស្ថាបត្យកម្មមិនត្រឹមត្រូវ។</string>
+    <string name="common_google_play_services_wrong_architecture_text">បានដំឡើងសេវាកម្ម Google Play ដែលមានស្ថាបត្យកម្ម (%1$s) ដែលខុសពីស្ថាបត្យកម្មឧបករណ៍របស់អ្នក (%2$s)។</string>
+    <string name="common_google_play_services_wrong_architecture_title">ស្ថាបត្យកម្មមិនត្រឹមត្រូវ</string>
+    <string name="common_google_settings">ការ​កំណត់ Google</string>
+    <string name="common_google_settings_account">គណនី</string>
+    <string name="common_google_settings_credentials_title">Smart Lock សម្រាប់ពាក្យសម្ងាត់</string>
+    <string name="common_google_settings_developer">អ្នកអភិវឌ្ឍន៍</string>
+    <string name="common_google_settings_services">សេវាកម្ម</string>
+    <string name="common_got_it">យល់ហើយ</string>
+    <string name="common_install">ដំឡើង</string>
+    <string name="common_learn_more">ស្វែងយល់បន្ថែម</string>
+    <string name="common_list_apps_menu_help">ជំនួយ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ជំនួយ និងមតិស្ថាបនា</string>
+    <string name="common_loading">កំពុងដំណើរការ...</string>
+    <string name="common_location_settings_title">ទីតាំង</string>
+    <string name="common_magictether_settings_title">ការតភ្ជាប់ភ្លាមៗ</string>
+    <string name="common_maps_settings_title">ផែនទី និងរយៈទទឹង</string>
+    <string name="common_mdm_feature_name">កម្មវិធី​គ្រប់​គ្រង​ឧបករណ៍ Android</string>
+    <string name="common_missing_url_viewer">បាត់កម្មវិធីមើលដើម្បីបង្ហាញ url ខាងក្រៅ។</string>
+    <string name="common_more_options">ជម្រើសច្រើនទៀត</string>
+    <string name="common_networking_settings_title">ការភ្ជាប់បណ្ដាញ</string>
+    <string name="common_no_browser_for_restricted_url">បានរឹតបន្តឹងការចូលដំណើរការ។ រកមិនឃើញកម្មវិធីរុករកទេ។</string>
+    <string name="common_no_devices_found">រកមិនឃើញឧបករណ៍ទេ</string>
+    <string name="common_no_network">មិន​អាច​ប្រើ​បាន​ទេ​ព្រោះ​ឧបករណ៍​នេះ​​នៅ​ក្រៅ​បណ្ដាញ</string>
+    <string name="common_no_thanks">ទេ អរគុណ!</string>
+    <string name="common_not_now">កុំទាន់</string>
+    <string name="common_off">បិទ</string>
+    <string name="common_ok">យល់ព្រម</string>
+    <string name="common_on">បើក</string>
+    <string name="common_open_on_phone">បើកតាមទូរស័ព្ទ</string>
+    <string name="common_open_source_licenses">អាជ្ញាបណ្ណ​ប្រភព​កូដ​ចំហ</string>
+    <string name="common_people_settings_title">ទំនាក់ទំនង</string>
+    <string name="common_permissions_enable_in_settings">បើក​នៅ​ក្នុង​ការ​កំណត់</string>
+    <string name="common_permissions_missing_end">ដើម្បីបន្ត សូមបើកការកំណត់ បន្ទាប់មកបើកសិទ្ធិអនុញ្ញាត ហើយអនុញ្ញាតធាតុដែលបានរាយទាំងអស់។</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ដើម្បីបើកដំណើរការ សូមចូលទៅកាន់
+ការកំណត់ >
+សិទ្ធិអនុញ្ញាត >
+សេវាកម្ម Google Play"</string>
+    <string name="common_permissions_missing_start">កម្មវិធីនេះនឹងមិនដំណើរការបានត្រឹមត្រូវនោះទេ លុះត្រាតែអ្នកអនុញ្ញាតឲ្យសំណើសេវាកម្ម Google Play ចូលដំណើរការចំណុចខាងក្រោម៖</string>
+    <string name="common_permissions_open_settings">បើក​ការ​កំណត់</string>
+    <string name="common_phone">ទូរសព្ទ</string>
+    <string name="common_plus_settings_title">Google+​​</string>
+    <string name="common_privacy_policy">គោលការណ៍​ឯកជន​ភាព</string>
+    <string name="common_restore">ស្តារ</string>
+    <string name="common_retry">ព្យាយាមម្ដងទៀត</string>
+    <string name="common_search_settings_title">ស្វែងរក</string>
+    <string name="common_security_ootp_setting_title">លេខ​កូដ​សុវត្ថិភាព</string>
+    <string name="common_security_settings_title">សុវត្ថិភាព</string>
+    <string name="common_send">ផ្ញើ</string>
+    <string name="common_sending">កំពុងផ្ញើ...</string>
+    <string name="common_set_up_nearby_device_settings_title">ដំឡើងឧបករណ៍នៅក្បែរ</string>
+    <string name="common_settings">ការ​កំណត់</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូលដោយប្រើ Google</string>
+    <string name="common_something_went_wrong">មានបញ្ហាអ្វីមួយមិនប្រក្រតី</string>
+    <string name="common_system_info">ព័ត៌មាន​អំពី​ប្រព័ន្ធ</string>
+    <string name="common_take_photo_label">ថតរូប</string>
+    <string name="common_terms_of_service">លក្ខខណ្ឌ​ប្រើប្រាស់</string>
+    <string name="common_try_again">ព្យាយាម​ម្ដង​ទៀត</string>
+    <string name="common_turn_on_bluetooth">បើកប៊្លូធូស</string>
+    <string name="common_ui_confirm_deleting_button">លុប</string>
+    <string name="common_ui_confirm_deleting_checkbox">ខ្ញុំយល់ ហើយខ្ញុំចង់លុប</string>
+    <string name="common_unknown">មិនស្គាល់</string>
+    <string name="common_update">អាប់ដេត</string>
+    <string name="common_url_load_unsuccessful_message">ឧបករណ៍​ Android របស់​អ្នក​មិន​ត្រូវ​បាន​ភ្ជាប់​ទៅ​សេវាកម្ម​ទិន្នន័យ​ទេ។ ដើម្បី​មើល​ព័ត៌មាន​នេះ​ឥឡូវ សូម​មើល %s ក្នុង​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">ឧបករណ៍ Android របស់អ្នកមិនត្រូវបានភ្ជាប់ទៅបណ្តាញ Wi-Fi ទេ។ ដើម្បីមើលព័ត៌មាននេះឥឡូវនេះ សូមចូលទៅកាន់ %s ដោយប្រើកម្មវិធីរុករក។</string>
+    <string name="common_url_login_notice">ចូល​ជា %1$s</string>
+    <string name="common_usage_and_diagnostics">ការប្រើប្រាស់ និងកាវិភាគ</string>
+    <string name="common_yesterday">ម្សិលមិញ</string>
+    <string name="confirm_copy_button_text">ចម្លង</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_with_google">Google ទំនាក់ទំនង, ឧបករណ៍ %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d</string>
+    <string name="contacts_number_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d</string>
+    <string name="copy_confirmation_description">អ្នកនឹងចម្លងទិន្នន័យ ដូចជា៖ គណនី Google និងកម្មវិធីរបស់អ្នក ទៅកាន់ទូរស័ព្ទថ្មីរបស់អ្នក</string>
+    <string name="copy_confirmation_title">ចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកដែរទេ?</string>
+    <string name="d2d_app_picker_description_no_apps">យើងរកមិនឃើញកម្មវិធីណាមួយឡើយ</string>
+    <string name="d2d_app_picker_title">កម្មវិធី</string>
+    <string name="d2d_migration_canceled_on_source">បានបោះបង់ការចម្លង</string>
+    <string name="data_copied_fragment_description">ទិន្នន័យរបស់អ្នកត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។ អ្នកអាចដកខ្សែនេះបានហើយ។</string>
+    <string name="data_copied_fragment_description_cancel">អ្នកបានជ្រើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមានទិន្នន័យតែមួយចំនួនប៉ុណ្ណោះដែលបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។</string>
+    <string name="data_copied_fragment_description_cancel_no_data">អ្នកបានជ្រើសរើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមិនមានទិន្នន័យណាត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ។</string>
+    <string name="data_copied_fragment_description_error">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងមាតិកាទាំងអស់បានទេ។</string>
+    <string name="data_copied_fragment_description_error_no_data">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងទិន្នន័យរបស់អ្នកបានទេ។</string>
+    <string name="data_copied_fragment_no_data_title">មិនអាចចម្លងបានទេ</string>
+    <string name="data_copied_fragment_some_data_title">បានចម្លងឯកសារមួយចំនួន</string>
+    <string name="data_copied_fragment_title">បានចម្លងទិន្នន័យ</string>
+    <string name="device_backup_title">ការបម្រុងទុកឧបករណ៍</string>
+    <string name="device_not_supported_fragment_new_device">អ្នកបានភ្ជាប់ទៅទូរសព្ទថ្មី។ ដើម្បីបន្ត សូមភ្ជាប់ទៅទូរសព្ទពីមុនរបស់អ្នកឡើងវិញ។</string>
+    <string name="device_not_supported_fragment_new_device_title">ភ្ជាប់ទៅទូរសព្ទពីមុនឡើងវិញ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ខ្សែនេះមិនអាចផ្ទេរទិន្នន័យបានទេ។ សូមភ្ជាប់ឡើងវិញដោយប្រើខ្សែផ្សេងទៀត រួច​ព្យាយាមម្តងទៀត។</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">សាកល្បងប្រើខ្សែផ្សេងទៀត</string>
+    <string name="device_not_supported_fragment_retry_description">សូមប្រាកដថាទូរស័ព្ទរបស់អ្នកបានដោះសោ បន្ទាប់មកផ្តាច់វា ហើយភ្ជាប់ខ្សែនោះឡើងវិញ</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">មានបញ្ហាអ្វីមួយមិនប្រក្រតី</string>
+    <string name="device_not_supported_ios_supervised_description">ដោយហេតុថាឧបករណ៍ iPhone® របស់​អ្នក​ស្ថិតក្រោមការគ្រប់គ្រង អ្នកត្រូវតែជ្រើសរើសវិធីផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ។</string>
+    <string name="device_picker_description">ការបម្រុងទុកត្រូវបានផ្ទុកក្នុង Google ថាស</string>
+    <string name="device_picker_empty">គ្មាន​ការ​បម្រុងទុក​ដែល​ភ្ជាប់ទៅ %1$s ទេ។</string>
+    <string name="device_picker_empty_title">រក​មិន​ឃើញ​ការ​បម្រុងទុក​ទេ</string>
+    <string name="device_picker_item">ការបម្រុងទុក %1$s</string>
+    <string name="device_picker_last_used">បានប្រើចុងក្រោយនៅថ្ងៃ ^1</string>
+    <string name="device_picker_skip">កុំស្តារ</string>
+    <string name="device_picker_title">ជ្រើសរើសការបម្រុងទុកដើម្បីស្តារ</string>
+    <string name="disabled_by_admin_summary_text">គ្រប់គ្រងដោយអ្នកគ្រប់គ្រង</string>
+    <string name="download_msg_error_invalid">ការ​ទាញ​យក​នេះ​ត្រូវ​បាន​កំណត់​រចនា​សម្ព័ន្ធ​មិន​ត្រឹមត្រូវ។</string>
+    <string name="download_msg_in_progress">ការ​ទាញ​យក​កំពុង​ដំណើរការ។</string>
+    <string name="download_msg_not_allowed_space">​មិន​មាន​ទំហំ​គ្រប់គ្រាន់​ដើម្បី​អនុវត្ត​ការ​ទាញ​យក​។</string>
+    <string name="download_msg_pending">ការ​ទាញ​យក​កំពុង​រង់ចាំ។</string>
+    <string name="download_notification_description">%1$s បាន​ស្នើ​សុំ​វា។</string>
+    <string name="download_notification_title">ទៅ​យក​ទិន្នន័យ​បន្ថែម​ទៀត</string>
+    <string name="drive_backup_account">គណនី</string>
+    <string name="drive_backup_apps_in_backup">ទិន្នន័យ​កម្មវិធី​ដែល​បាន​បម្រុងទុក</string>
+    <string name="drive_backup_apps_last_backup">ការបម្រុងទុកចុងក្រោយ</string>
+    <string name="drive_backup_apps_loading">កំពុងដំណើរការ...</string>
+    <string name="drive_backup_apps_screen_title">ទិន្នន័យកម្មវិធី</string>
+    <string name="drive_backup_content_apps_title">ទិន្នន័យកម្មវិធី</string>
+    <string name="drive_backup_content_calendar_dialog_message">ព្រឹត្តិការណ៍ដែលបង្កើតនៅក្នុង Google ប្រតិទិន នឹងត្រូវបានធ្វើសមកាលកម្មនៅលើឧបករណ៍ទាំងអស់ដែលបានចូលគណនី Google របស់អ្នក។</string>
+    <string name="drive_backup_content_calendar_title">ប្រតិទិន</string>
+    <string name="drive_backup_content_callhistory_dialog_message">ការបម្រុងទុករួមបញ្ចូលទាំងកាលបរិច្ឆេទ និងអ្នកទទួលការហៅដែលបានផ្ញើ និងទទួល។</string>
+    <string name="drive_backup_content_callhistory_title">ប្រវត្តិហៅ</string>
+    <string name="drive_backup_content_contacts_dialog_message">ទំនាក់ទំនងដែលបង្កើតនៅក្នុង Google ទំនាក់ទំនង នឹងត្រូវបានធ្វើសមកាលកម្មនៅលើឧបករណ៍ទាំងអស់ដែលបានចូលគណនី Google របស់អ្នក។</string>
+    <string name="drive_backup_content_contacts_title">ទំនាក់ទំនង</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">ការបម្រុងទុករួមបញ្ចូលការកំណត់រចនាសម្ព័ន្ធឧបករណ៍ ដូចជា៖ ផ្ទាំងរូបភាព ពាក្យសម្ងាត់ WiFi និងកម្មវិធីលំនាំដើម។</string>
+    <string name="drive_backup_content_devicesettings_title">ការកំណត់ឧបករណ៍</string>
+    <string name="drive_backup_content_header">មាតិកា</string>
+    <string name="drive_backup_content_photos_dialog_message">គណនីបម្រុងទុកចម្បងរបស់អ្នកត្រូវបានផ្លាស់ប្តូរ។ អ្នកក៏អាចផ្លាស់ប្តូរគណនីបម្រុងទុកនៃ Google រូបថតនេះទៅជា %s បានផងដែរ។</string>
+    <string name="drive_backup_content_photos_dialog_no">បដិសេធ</string>
+    <string name="drive_backup_content_photos_dialog_title">ផ្លាស់ប្តូរគណនីរូបថត និងវីដេអូផងដែរ?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ផ្លាស់ប្ដូរ</string>
+    <string name="drive_backup_content_photos_title">រូបថត និងវីដេអូ</string>
+    <string name="drive_backup_content_sms_dialog_message">ការបម្រុងទុករួមបញ្ចូលទាំងសារដែលបានផ្ញើ និងទទួល។ វាមិនរួមបញ្ចូលមេឌៀ MMS ទេ។</string>
+    <string name="drive_backup_content_sms_title">សារជាអក្សរ SMS</string>
+    <string name="drive_backup_content_status_dolly_action">យល់ហើយ</string>
+    <string name="drive_backup_content_status_error">មានបញ្ហាក្នុងការទទួលយកកាលបរិច្ឆេទសមកាលកម្មចុងក្រោយ</string>
+    <string name="drive_backup_content_status_lastsaved">បម្រុងទុកចុងក្រោយ៖ %1$s</string>
+    <string name="drive_backup_content_status_lastsync">ធ្វើសមកាលកម្មចុងក្រោយ៖ %1$s</string>
+    <string name="drive_backup_content_status_never">កំពុងរង់ចាំបម្រុងទុក</string>
+    <string name="drive_backup_content_status_sync_adapter_action">ការកំណត់ការធ្វើសមកាលកម្ម</string>
+    <string name="drive_backup_content_status_sync_off">បានបិទការធ្វើសមកាលកម្ម</string>
+    <string name="drive_backup_content_status_updating">កំពុងពិនិត្យស្ថានភាព…</string>
+    <string name="drive_backup_disabled_backuplist">"ការបម្រុងទុករួមមាន៖
+\u0009- កម្មវិធី និងទិន្នន័យកម្មវិធី
+\u0009- ប្រវតិ្តហៅ
+\u0009- ការកំណត់ឧបករណ៍ (រួម​ទាំងពាក្យសម្ងាត់ Wi-Fi)
+\u0009- Google ប្រតិទិន
+\u0009- Google ទំនាក់ទំនង
+\u0009- រូបថត និងវីដេអូ
+\u0009- សារ SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"ការ​បម្រុង​ទុក​ធ្វើ​ឡើង​ចំពោះ៖
+\u0009- កម្មវិធី និង​ទិន្នន័យ​កម្មវិធី
+\u0009- ប្រវត្តិ​ហៅ​ទូរសព្ទ
+\u0009- ការ​កំណត់​ឧបករណ៍ (រួមទាំង​ពាក្យ​សម្ងាត់ Wi-Fi)
+\u0009- Google ប្រតិទិន
+\u0009- Google ទំនាក់ទំនង
+\u0009- សារ SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​របស់អ្នក</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google ប្រតិទិន Google ទំនាក់ទំនង រូបថត និងវីដេអូត្រូវបានធ្វើសមកាលកម្មទៅក្នុង​គណនី Google របស់អ្នក ហើយអាចត្រូវបានប្រើលើសេវាកម្មនានា។
+
+សមកាលកម្មអាចបើកដំណើរការបាន បើទោះបីជាការបម្រុងទុកបានបិទក៏ដោយ។ ការកំណត់សមកាលកម្មអាចធ្វើការផ្លាស់ប្តូរបាននៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google ប្រតិទិន និង Google ទំនាក់ទំនង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅ​គណនី Google របស់អ្នក និង​អាច​ប្រើ​ប្រាស់​បាន​នៅលើ​សេវាកម្ម​នានា។
+
+ការ​ធ្វើ​សមកាលកម្ម​អាច​ត្រូវ​បាន​បើក បើទោះបីជា​ការ​បម្រុង​ទុក​បាន​បិទ​ក៏ដោយ។  ការ​កំណត់​សមកាលកម្ម​អាចផ្លាស់ប្តូរបាន​នៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_disabled_introduction">ការបម្រុងទុកស្វ័យប្រវត្តិអាចធានាបានថាអ្នកអាចស្តារ ឬប្តូរទូរសព្ទយ៉ាងងាយស្រួលបានគ្រប់ពេល។</string>
+    <string name="drive_backup_settings_title">បម្រុងទុក</string>
+    <string name="drive_backup_state">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="drive_backup_state_dialog_message">"ទិន្នន័យបម្រុងទុករបស់ឧបករណ៍នេះនៅក្នុង Google ថាស នឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍។
+
+រូបថត និងវីដេអូដែលបានបម្រុងទុករួចហើយនឹងនៅតែអាចប្រើបាននៅក្នុង Google ថាស ដដែល។
+
+Google ប្រតិទិន និង Google ទំនាក់ទំនង នឹងបន្តធ្វើសមកាលកម្មទៅក្នុង​គណនី Google របស់អ្នក។ ការកំណត់សមកាលកម្មអាចធ្វើការផ្លាស់ប្តូរបាននៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"ទិន្នន័យ​បម្រុង​របស់​ឧបករណ៍​នេះ​ដែល​មាន​នៅក្នុង Google ថាស​នឹង​ត្រូវ​បាន​លុប​ជា​អចិន្ត្រៃយ៍។
+
+Google ប្រតិទិន និង Google ទំនាក់ទំនង​នឹង​បន្ត​ធ្វើ​សមកាលកម្ម​ទៅ​គណនី Google របស់អ្នក។ ការ​កំណត់​សមកាលកម្ម​អាចផ្លាស់ប្តូរបាន​នៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_state_dialog_okaction">បិទ និងលុប</string>
+    <string name="drive_backup_state_dialog_title">បិទ និងលុបការបម្រុងទុកឬ?</string>
+    <string name="durationDayHour">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDayHours">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDays">%1$d ថ្ងៃ</string>
+    <string name="durationHourMinute">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHourMinutes">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHours">%1$d ម៉ោង</string>
+    <string name="durationMinute">%1$d នាទី</string>
+    <string name="durationMinuteSecond">%1$d នាទី %2$d វិនាទី</string>
+    <string name="durationMinuteSeconds">%1$d នាទី %2$d វិនាទី</string>
+    <string name="durationMinutes">%1$d នាទី</string>
+    <string name="durationSecond">%1$d វិនាទី</string>
+    <string name="durationSeconds">%1$d វិនាទី</string>
+    <string name="encryption_warning_fragment_description">"ការអ៊ិនគ្រីបការបម្រុងទុកត្រូវបានបើកសម្រាប់ឧបករណ៍ iPhone® របស់អ្នក។ ប្រសិនបើអ្នកមិនបានបើកវាដោយខ្លួនឯងទេ វាប្រហែលជាត្រូវបានបើកដោយអ្នកគ្រប់គ្រង IT របស់អ្នក។
+
+មានតែរូបថត តន្ត្រី និងវីដេអូតែប៉ុណ្ណោះ ដែលអាចធ្វើការចម្លងបាន។ សម្រាប់ព័ត៌មានបន្ថែម សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ។</string>
+    <string name="encryption_warning_fragment_title">ការអ៊ិនគ្រីបការបម្រុងទុក</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ខ្ញុំរកមិនឃើញឆ្នាំងសាកទេ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"រកមើលឆ្នាំងសាក Quick Switch Adapter ដែលមាននៅក្នុងប្រអប់ទូរសព្ទ ^1 របស់អ្នក។ 
+
+ដោតខ្សែសាកចូលទៅឆ្នាំងសាកនេះ។"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ភ្ជាប់ឆ្នាំងសាក និងខ្សែសាក</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ដោះសោទូរសព្ទចាស់របស់អ្នក បន្ទាប់មកដោតឆ្នាំងសាកទៅទូរសព្ទនេះ។</string>
+    <string name="fragment_usb_connect_both_phones_title">ភ្ជាប់ទូរសព្ទទាំងពីរ</string>
+    <string name="fragment_usb_dialog_cancel_description">អ្នកនឹងទទួលបានមាតិកាច្រើនបំផុត ប្រសិនបើអ្នកភ្ជាប់ដោយប្រើខ្សែ។ ប្រើសិនបើខ្សែដែលមាននៅក្នុងប្រអប់មិនត្រូវគ្នាទេ សូមសាកល្បងប្រើខែ្សសាកថ្ម ឬខ្សែទិន្នន័យដែលដំណើរការជាមួយទូរសព្ទចាស់របស់អ្នក។</string>
+    <string name="fragment_usb_dialog_cancel_title">ចម្លងទិន្នន័យតាមមធ្យោបាយផ្សេង?</string>
+    <string name="fragment_usb_dont_have_cable">ខ្ញុំមិនមានខ្សែសាកទេ</string>
+    <string name="fragment_usb_dont_have_old_phone">ខ្ញុំមិនមានទូរសព្ទចាស់ទេ</string>
+    <string name="fragment_usb_find_cable_description">ប្រើខ្សែដែលត្រូវនឹងទូរសព្ទចាស់របស់អ្នក ដូចជាខ្សែសាកថ្ម ឬខ្សែទិន្នន័យរបស់អ្នក។</string>
+    <string name="fragment_usb_find_cable_title">រកមើលខ្សែសាកដែលត្រូវគ្នា</string>
+    <string name="fragment_usb_initial_description">ផ្ទេរទិន្នន័យពីទូរសព្ទចាស់របស់អ្នកទៅ ^1 នេះ។</string>
+    <string name="fragment_usb_initial_title">ចម្លងទិន្នន័យរបស់អ្នក</string>
+    <string name="fragment_usb_legacy_description">"នេះគឺជាមធ្យោបាយលឿនបំផុត ដើម្បីនាំយកទិន្នន័យភាគច្រើនត្រឡប់មកវិញ។
+
+សូមរកមើលឆ្នាំងសាកនៅក្នុងប្រអប់ ហើយដោតវាទៅទូរសព្ទថ្មីរបស់អ្នក។ ភ្ជាប់ទូរសព្ទនេះដោយប្រើខ្សែសាក បន្ទាប់មកដោះសោទូរសព្ទចាស់របស់អ្នក។"</string>
+    <string name="fragment_usb_other_ways">ចម្លងដោយមិនបាច់ប្រើខែ្សសាក</string>
+    <string name="fragment_usb_plug_cable">ដោតខ្សែសាកទៅទូរសព្ទចាស់របស់អ្នក</string>
+    <string name="fragment_waiting_title">តែមួយភ្លែតទេ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google ទំនាក់ទំនងនឹងធ្វើសមកាលកម្ម</string>
+    <string name="google_contacts_static_text_off">Google ទំនាក់ទំនង នឹងនៅតែធ្វើសមកាលកម្មដដែល</string>
+    <string name="header_set_backup_account">កំណត់​គណនី​បម្រុង​ទុក</string>
+    <string name="i_message_dialog_message">"ដើម្បីបន្តទទួលបានសារ SMS ពីអ្នកប្រើឧបករណ៍ iPhone® អ្នកត្រូវបិទ iMessage® ។
+
+សូមចូលទៅកាន់ "<b>g.co/iMessageHelp</b> សម្រាប់ការណែនាំ។</string>
+    <string name="instructions_fragment_title">បន្តនៅលើទូរសព្ទផ្សេងទៀតរបស់អ្នក</string>
+    <string name="ios_connected_fragment_description">"អ្នកអាចចូលទៅកាន់គណនី Google របស់អ្នក ឬបង្កើតគណនីថ្មីមួយ នៅលើអេក្រង់បន្ទាប់។
+
+ប្រសិនបើអ្នកមិនបញ្ចូលគណនី Google របស់អ្នកទេ ព្រឹត្តិការណ៍ក្នុង​ iOS Calendar® របស់អ្នកនឹងមិនធ្វើការផ្ទេរទេ។"</string>
+    <string name="ios_message_attachment_explanation">[ឯកសារភ្ជាប់ជាមួយសាររបស់អ្នកស្ថិតនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ឯកសារភ្ជាប់មួយចំនួនមិនអាចធ្វើការចម្លងបានទេ។ ឯកសារភ្ជាប់ដែលបានផ្ទេរ អាចរកឃើញនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_message_attachments_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_migration_default_calendar_title">ប្រតិទិន</string>
+    <string name="ios_migration_other_contact_relation">ផ្សេងៗ</string>
+    <string name="ios_photos_dialog_message">"មិនអាចចម្លងរូបថតដែលផ្ទុកនៅក្នុង iCloud® បានទេ។
+
+ដើម្បីនាំយករូបថតទាំងនេះទៅកាន់ ^1 របស់អ្នក សូមដំឡើងកម្មវិធី Google រូបថត នៅលើឧបករណ៍ iPhone® របស់អ្នក រួចបើកមុខងារបម្រុងទុក និងសមកាលកម្ម។ សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ដើម្បីទទួលបានការណែនាំបន្ថែម។</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">បញ្ចូល​​គណនី</string>
+    <string name="lockscreen_smartdevice_action_next">បន្ទាប់</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ដោះសោដើម្បីបន្តការដំឡើងទូរស័ព្ទរបស់អ្នក</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ដើម្បីសុវត្ថិភាព អ្នកត្រូវបញ្ជាក់ការចាក់សោអេក្រង់របស់អ្នកដើម្បីបន្តការដំឡើង</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">បញ្ជាក់ការចាក់សោអេក្រង់របស់អ្នក</string>
+    <string name="manage_data_label">គណនី Google</string>
+    <string name="master_clear_title">កំណត់ទិន្នន័យដូចចេញពីរោងចក្រ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">ត្រូវកំណត់គណនីបម្រុងទុក</string>
+    <string name="notification_content_title_set_backup_account">បម្រុងទុក</string>
+    <string name="notification_ticker_set_backup_account">តម្រូវ​ឲ្យ​បម្រុង​ទុក​គណនី</string>
+    <string name="permgrouplab_calendar">ប្រតិទិន</string>
+    <string name="permgrouplab_camera">កាមេរ៉ា</string>
+    <string name="permgrouplab_contacts">ទំនាក់ទំនង</string>
+    <string name="permgrouplab_location">ទីតាំង</string>
+    <string name="permgrouplab_microphone">មីក្រូហ្វូន</string>
+    <string name="permgrouplab_phone">ទូរស័ព្ទ</string>
+    <string name="permgrouplab_sensors">ឧបករណ៍ចាប់សញ្ញារាងកាយ</string>
+    <string name="permgrouplab_sms">សារ SMS</string>
+    <string name="permgrouplab_storage">ទំហំផ្ទុក</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">បច្ចុប្បន្ន គ្មានគណនីរក្សាទុករូបថតបម្រុងទុកទេ</string>
+    <string name="photos_backup_title">ការបម្រុងទុករូបថត</string>
+    <string name="photos_filtering_option_all">ទាំង​អស់</string>
+    <string name="photos_filtering_option_none">គ្មាន</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">ទំនាក់ទំនងដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">ទំនាក់ទំនង និងប្រតិទិនដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_v2">ទិន្នន័យមួយចំនួនរបស់អ្នកអាចនឹងមិនត្រូវបានចម្លងទៅ ^1 របស់អ្នកទេ។ <annotation id="restore_choice_data_disclaimer_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="restore_choice_deselect_some_content">លុបការជ្រើសរើសមាតិកាមួយចំនួនដើម្បីបន្ត</string>
+    <string name="restore_choice_learn_more_android">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● ការទាញយក (ដូចជាឯកសារ PDF)
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលផ្ទុកនៅក្នុងថតដែលបានលាក់
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលទទួលបានតាមរយៈសារជាអក្សរ
+
+ ● កម្មវិធីដែលមិនមែនចេញពីឃ្លាំងកម្មវិធី Google
+
+ ● ទិន្នន័យកម្មវិធី (ប្រសិនបើកម្មវិធីនោះមិនប្រើការបម្រុងទុក Android)
+
+ ● ការកំណត់ឧបករណ៍ជាក់លាក់
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google
+
+ ● សំឡេងរោទិ៍
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● កម្មវិធី និងទិន្នន័យកម្មវិធី
+
+ ● រូបថតដែលច្បាប់ដើមរបស់វាមិនផ្ទុកនៅលើទូរសព្ទរបស់អ្នក (ឧទាហរណ៍៖ ប្រសិនបើទំហំផ្ទុកកម្រិតខ្ពស់បានបើក នោះរូបថតដើមនឹងផ្ទុកនៅក្នុង iCloud®)
+
+ ● ឯកសារដែលផ្ទុកនៅក្នុង iCloud®
+
+ ● ការកំណត់ឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងផ្ទាំងរូបភាព)
+
+ ● តន្ត្រីដែលមានការពារដោយកម្មវិធីគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM) (ឧទាហរណ៍៖ តន្ត្រី iTunes® ដែលបានទិញមុនខែ មេសា ឆ្នាំ 2009 ឬតន្ត្រីដែលបានទាញយកនៅក្នុងកម្មវិធីស្ទ្រីមតន្រ្តី ដើម្បីស្តាប់ពេលគ្មានអ៊ីនអឺណិត)
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google ឬ iCloud®
+
+ ● ចំណាំចេញពី Safari®
+
+ ឯកសារភ្ជាប់ក្នុងសារ iMessage® នឹងមាននៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ក្នុងសារ។
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp ។"</string>
+    <string name="restore_choice_not_enough_space">ទំហំផ្ទុកមិនគ្រប់គ្រាន់</string>
+    <string name="restore_choice_total_text">នៃទំហំទំនេរ %1$s របស់អ្នក/ការផ្ទេរ %2$s</string>
+    <string name="restore_error_message">មាន​អ្វី​មួយ​ខុស​ប្រក្រតី​ជាមួយ​ការ​ស្តារ។ សូម​អភ័យទោស។</string>
+    <string name="restore_item_appdata">ទិន្នន័យកម្មវិធី</string>
+    <string name="restore_item_calendar">ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_description">iOS® ប្រតិទិន, Google ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_off_description">Google ប្រតិទិននឹងនៅតែធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_calendar_sync_description">Google ប្រតិទិននឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_call_logs">ប្រវត្តិ​ហៅ</string>
+    <string name="restore_item_contacts">ទំនាក់ទំនង</string>
+    <string name="restore_item_device_settings_description">ពាក្យសម្ងាត់ Wi-Fi និងច្រើនទៀត</string>
+    <string name="restore_item_downloads">ដោនឡូត</string>
+    <string name="restore_item_email">អ៊ីមែល</string>
+    <string name="restore_item_email_description">Gmail នឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_message_attachments">ឯកសារភ្ជាប់ក្នុងសារ</string>
+    <string name="restore_item_messages">សារ</string>
+    <string name="restore_item_music">តន្ត្រី</string>
+    <string name="restore_item_photos">រូបថត និងវីដេអូ</string>
+    <string name="restore_item_settings">ការកំណត់ឧបករណ៍</string>
+    <string name="restore_item_sms">សារ SMS</string>
+    <string name="restore_item_will_be_synced_text">វានឹងធ្វើសមកាលកម្មទៅទូរស័ព្ទរបស់អ្នក</string>
+    <string name="restore_progress_title">កំពុង​ស្ដារ...</string>
+    <string name="small_time_duration">តិចជាង 1 នាទី</string>
+    <string name="source_connected_description">កំពុងរៀបចំ...</string>
+    <string name="source_connected_title">បានភ្ជាប់ទៅ %1$s របស់អ្នក</string>
+    <string name="source_copying_description">ទិន្នន័យដែលអ្នកបានជ្រើសកំពុងត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក</string>
+    <string name="source_copying_title">កំពុងចម្លង...</string>
+    <string name="source_default_target_device_name">ឧបករណ៍ថ្មី</string>
+    <string name="source_notification_device_disconnected">ភ្ជាប់ខ្សែរបស់អ្នកឡើងវិញ</string>
+    <string name="source_notification_text">កំពុងដំណើរការការផ្ទេរពីទូរស័ព្ទទៅទូរស័ព្ទ</string>
+    <string name="source_notification_title">ការផ្ទេរទិន្នន័យ</string>
+    <string name="source_success_description">បញ្ចប់ការដំឡើងនៅលើ %1$s របស់អ្នក</string>
+    <string name="source_success_screen_title">រួចរាល់ហើយ!</string>
+    <string name="source_unplugged_description">ភា្ជប់ទៅ %1$s របស់អ្នកសារឡើងវិញ</string>
+    <string name="source_unplugged_title">បានផ្តាច់ខ្សែ</string>
+    <string name="source_waiting_title">បន្តដំឡើងនៅលើ %1$s របស់អ្នក</string>
+    <string name="stop_copying_dialog_continue_button">បដិសេធ</string>
+    <string name="stop_copying_dialog_message_before_transfer">ទិន្នន័យរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_message_during_transfer">ទិន្នន័យមួយចំនួនរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">កុំចម្លង</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ឈប់</string>
+    <string name="stop_copying_dialog_title_before_transfer">កុំចម្លងឬ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">ឈប់ចម្លងឬ?</string>
+    <string name="storage_management_wear_descriptive_text">កម្មវិធី​ប្រើ​ឧបករណ៍​ផ្ទុក​នៃ​ឧបករណ៍​របស់​អ្នក ដើម្បី​​ចម្លង​ទិន្នន័យ​ទៅ wearable ។</string>
+    <string name="storage_management_wear_manage_size_label">គ្រប់គ្រង​ឧបករណ៍​ផ្ទុក wearable</string>
+    <string name="storage_management_wear_size_label">ឧបករណ៍​ផ្ទុក Wearable</string>
+    <string name="storage_managment_all_storage_descriptive_text">ទិន្នន័យ​សរុប​បាន​ប្រើ​ដោយ​សេវាកម្ម​កម្សាន្ត​ Google រួមមាន​ម៉ាស៊ីន​ស្វែងរក និង​ទិន្នន័យ​ផ្សេងៗ។</string>
+    <string name="storage_managment_clear_all_data">សម្អាត​ទិន្នន័យ​ទាំងអស់</string>
+    <string name="storage_managment_computing_size">កំពុង​គណនា...</string>
+    <string name="storage_managment_icing_size_label">ទិន្នន័យ​ស្វែងរក</string>
+    <string name="storage_managment_manage_icing_button">គ្រប់គ្រង​ទិន្នន័យ​ស្វែងរក</string>
+    <string name="storage_managment_search_index_descriptive_text">យើងពន្លឿនការស្វែងរកនៅលើទូរស័ព្ទរបស់អ្នក ដោយការផ្ដល់ជូននូវម៉ាស៊ីនស្វែងរកសម្រាប់កម្មវិធីរបស់អ្នកដើម្បីប្រើ។</string>
+    <string name="storage_managment_title">ការ​ផ្ទុក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="storage_managment_total_size_label">ទំហំ​ផ្ទុក​សរុប</string>
+    <string name="suw_back_button_label">ថយក្រោយ</string>
+    <string name="suw_more_button_label">ច្រើនទៀត</string>
+    <string name="suw_next_button_label">បន្ទាប់</string>
+    <string name="target_default_source_device_model">ឧបករណ៍ចាស់</string>
+    <string name="target_device_not_supported_cant_continue_description">អ្នកនឹងត្រូវជ្រើសមធ្យោបាយផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ</string>
+    <string name="target_device_not_supported_cant_continue_title">មិនស្គាល់​ទូរសព្ទផ្សេងទៀតទេ</string>
+    <string name="target_device_not_supported_try_restarting_description">"ដកខ្សែចេញ រួច​ចាប់ផ្តើមទូរសព្ទចាស់របស់អ្នកឡើងវិញ បន្ទាប់មកដោតខ្សែនោះឡើងវិញ ហើយធ្វើតាមការណែនាំនៅលើទូរសព្ទ Pixel របស់អ្នក។
+
+ប្រសិនបើអ្នកនៅតែឃើញបញ្ហានេះទៀត អ្នកត្រូវសាកល្បងចម្លងតាមវិធីផ្សេងទៀត។"</string>
+    <string name="target_device_not_supported_try_restarting_title">អាចនឹងមិនស្គាល់ទូរសព្ទនេះទេ</string>
+    <string name="target_smart_device_timeout_add_account">បញ្ចូល​គណនី</string>
+    <string name="target_smart_device_timeout_description">ប្រសិនបើអ្នកចង់ អ្នកអាចសាកល្បងបន្ថែមគណនីរបស់អ្នកដោយផ្ទាល់</string>
+    <string name="target_smart_device_timeout_dismiss">បដិសេធ</string>
+    <string name="target_smart_device_timeout_title">កំពុងមានបញ្ហាឬ?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ទូរស័ព្ទត្រូវបានភ្ជាប់</string>
+    <string name="toast_reconnect_cable">ភ្ជាប់ខ្សែរបស់អ្នកឡើងវិញ</string>
+    <string name="transfer_finished_fragment_title">កំពុងបន្ថែមការកែសម្រួលចុងក្រោយ…</string>
+    <string name="transfer_summary_copied">បានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_fragment_description">អ្នកអាចដកខ្សែនេះបាន។</string>
+    <string name="transfer_summary_fragment_finish">បញ្ចប់</string>
+    <string name="transfer_summary_fragment_title">ទូរសព្ទរបស់អ្នកជិតត្រៀមរួចរាល់ហើយ</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">រូបថតមួយចំនួនរបស់អ្នកមិនអាចចម្លងបានទេ។ <annotation id="transfer_summary_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="transfer_summary_not_copied">មិនបានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_partial">បានចម្លង %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ទិន្នន័យនឹងធ្វើសមកាលកម្មបន្ទាប់ពីដំឡើងរួច</string>
+    <string name="transferring_fragment_calculating_remaining_time">កំពុងគណនាម៉ោងនៅសល់...</string>
+    <string name="transferring_fragment_header">កំពុងចម្លង...</string>
+    <string name="transferring_fragment_remaining_time">នៅសល់ %1$s</string>
+    <string name="trust_instructions_description">ដើម្បីបន្ត សូមពិនិត្យមើលឧបករណ៍ iPhone® របស់អ្នក ហើយយល់ព្រមលើការតភ្ជាប់នេះ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, និង iTunes គឺជាពាណិជ្ជសញ្ញារបស់ក្រុមហ៊ុន Apple Inc. ដែលបានចុះបញ្ជីនៅសហរដ្ឋអាមេរិក និងប្រទេសដ៏ទៃទៀត។</string>
+</resources>

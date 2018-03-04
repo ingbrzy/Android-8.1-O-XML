@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Alls %1$d forrit</item>
+        <item quantity="one">Alls %1$d forrit</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d forrit valið</item>
+        <item quantity="one">%1$d forrit valið</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d forrit eru þegar uppsett</item>
+        <item quantity="one">%1$d forrit er þegar uppsett</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Það eru %1$d forrit í öryggisafritinu þínu. Veldu nokkur eða taktu þau öll með.</item>
+        <item quantity="one">Það er %1$d forrit í öryggisafritinu þínu. Veldu nokkur eða taktu þau öll með.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d tengiliðir í tæki</item>
+        <item quantity="one">%1$d tengiliður í tæki</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d á SIM-korti, %2$d í tæki</item>
+        <item quantity="one">%1$d á SIM-korti, %2$d í tæki</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® tengiliðir</item>
+        <item quantity="one">%1$d iCloud® tengiliður</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d tengiliðir á SIM</item>
+        <item quantity="one">%1$d tengiliður á SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Við fundum %1$d forrit. Veldu nokkur eða taktu þau öll með.</item>
+        <item quantity="one">Við fundum %1$d forrit. Veldu nokkur eða taktu þau öll með.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Við fundum samsvörun fyrir %1$d iOS®-forrit. Með uppsetningu forrita samþykkirðu heimildir þeirra. &lt;annotation id="apps_permissions_learn_more">Frekari upplýsingar&lt;/annotation></item>
+        <item quantity="one">Við fundum samsvörun fyrir %1$d iOS®-forrit. Með uppsetningu forrita samþykkirðu heimildir þeirra. &lt;annotation id="apps_permissions_learn_more">Frekari upplýsingar&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d atriði eftir…</item>
+        <item quantity="one">%1$d atriði eftir…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Athugaðu þetta betur! Þessi viðburður er ekki lengur með eftirfarandi þátttakendur:</item>
+        <item quantity="one">Athugaðu þetta betur! Þessi viðburður er ekki lengur með eftirfarandi þátttakendur:</item>
+    </plurals>
+</resources>

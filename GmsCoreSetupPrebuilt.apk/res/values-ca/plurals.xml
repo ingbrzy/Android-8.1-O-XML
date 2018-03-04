@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Les %1$d aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplicacions seleccionades</item>
+        <item quantity="one">1 aplicació seleccionada</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">Ja hi ha %1$d aplicacions instal·lades</item>
+        <item quantity="one">Ja hi ha una aplicació instal·lada</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">"La còpia de seguretat conté %1$d aplicacions. Tria'n unes quantes o restaura-les totes."</item>
+        <item quantity="one">La còpia de seguretat conté %1$d aplicació.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d contactes del dispositiu</item>
+        <item quantity="one">1 contacte del dispositiu</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d contactes de la SIM, %2$d contactes del dispositiu</item>
+        <item quantity="one">%1$d contactes de la SIM, %2$d contacte del dispositiu</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">"%1$d contactes d'iCloud®"</item>
+        <item quantity="one">"1 contacte d'iCloud®"</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contactes a la SIM</item>
+        <item quantity="one">1 contacte a la SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">"Hem trobat %1$d aplicacions. Tria'n unes quantes o restaura-les totes."</item>
+        <item quantity="one">Hem trobat %1$d aplicació. Vols restaurar-la?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">"Hem trobat una coincidència per a %1$d de les teves aplicacions iOS®. En instal·lar cada aplicació, n'acceptes els permisos. "&lt;annotation id="apps_permissions_learn_more">Més informació&lt;/annotation></item>
+        <item quantity="one">"Hem trobat una coincidència per a una de les teves aplicacions iOS®. En instal·lar aquesta aplicació, n'acceptes els permisos. "&lt;annotation id="apps_permissions_learn_more">Més informació&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Queden %1$d elements…</item>
+        <item quantity="one">Queda %1$d element…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Tingues present que aquest esdeveniment ja no inclou els assistents següents:</item>
+        <item quantity="one">"Tingues present que aquest esdeveniment ja no inclou l'assistent següent:"</item>
+    </plurals>
+</resources>

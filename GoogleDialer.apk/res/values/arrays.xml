@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+    <array name="background_colors">
+        <item>#ff00796b</item>
+        <item>#ff3367d6</item>
+        <item>#ff303f9f</item>
+        <item>#ff7b1fa2</item>
+        <item>#ffc2185b</item>
+        <item>#ffc53929</item>
+        <item>#ffa52714</item>
+    </array>
+    <array name="background_colors_dark">
+        <item>#ff00695c</item>
+        <item>#ff2a56c6</item>
+        <item>#ff283593</item>
+        <item>#ff6a1b9a</item>
+        <item>#ffad1457</item>
+        <item>#ffb93221</item>
+        <item>#ff841f10</item>
+    </array>
+    <array name="design_default_color_palette_primary" />
+    <array name="design_default_color_palette_secondary" />
+    <string-array name="dtmf_tone_length_entries">
+        <item>Normal</item>
+        <item>Long</item>
+    </string-array>
+    <string-array name="dtmf_tone_length_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="feedback_audio_issues">
+        <item>@string/feedback_audio_issue_not_applicable</item>
+        <item>@string/feedback_audio_issue_remote_audio</item>
+        <item>@string/feedback_audio_issue_local_audio</item>
+        <item>@string/feedback_audio_issue_echo</item>
+        <item>@string/feedback_audio_issue_unclear</item>
+        <item>@string/feedback_audio_issue_other</item>
+    </string-array>
+    <string-array name="feedback_call_issues">
+        <item>@string/feedback_call_issue_none</item>
+        <item>@string/feedback_call_issue_no_ringing</item>
+        <item>@string/feedback_call_issue_never_connected</item>
+        <item>@string/feedback_call_issue_dropped</item>
+        <item>@string/feedback_call_issue_other</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <string-array name="motorola_hidden_menu_key_pattern">
+        <item>\##[0-9]{6}#</item>
+    </string-array>
+    <string-array name="motorola_hidden_menu_key_pattern_intents">
+        <item>@string/motorola_hidden_menu_intent</item>
+    </string-array>
+    <string-array name="motorola_hidden_menu_key_sequence">
+        <item>\##66236#</item>
+        <item>\##2539#</item>
+        <item>\##786#</item>
+        <item>\##72786#</item>
+        <item>\##3282#</item>
+        <item>\##33284#</item>
+        <item>\##3424#</item>
+        <item>\##564#</item>
+        <item>\##4567257#</item>
+        <item>\##873283#</item>
+        <item>\##6343#</item>
+        <item>\##27263#</item>
+        <item>\##258#</item>
+        <item>\##8422#</item>
+        <item>\##4382#</item>
+    </string-array>
+    <string-array name="motorola_hidden_menu_key_sequence_intents">
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>com.motorola.android.intent.action.omadm.sprint.hfa</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+        <item>@string/motorola_hidden_menu_intent</item>
+    </string-array>
+</resources>

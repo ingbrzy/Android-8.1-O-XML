@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d користувача поставили оцінку %1$s</item>
+        <item quantity="one">%2$d користувач поставив оцінку %1$s</item>
+        <item quantity="few">%2$d користувачі поставили оцінку %1$s</item>
+        <item quantity="many">%2$d користувачів поставили оцінку %1$s</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Закінчується через %1$d дня</item>
+        <item quantity="one">Закінчується через %1$d день</item>
+        <item quantity="few">Закінчується через %1$d дні</item>
+        <item quantity="many">Закінчується через %1$d днів</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Закінчується через %1$d години</item>
+        <item quantity="one">Закінчується через %1$d годину</item>
+        <item quantity="few">Закінчується через %1$d години</item>
+        <item quantity="many">Закінчується через %1$d годин</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Ще %1$d</item>
+        <item quantity="one">Ще %1$d</item>
+        <item quantity="few">Ще %1$d</item>
+        <item quantity="many">Ще %1$d</item>
+    </plurals>
+</resources>

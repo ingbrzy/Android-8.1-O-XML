@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_has_in_app_purchases">การซื้อในแอป</string>
+    <string name="app_has_permissions">สิทธิ์: %s</string>
+    <string name="app_has_runtime_permissions">แอปจะขอสิทธิ์</string>
+    <string name="app_picker_app_already_installed_toast">ติดตั้งแอปนี้แล้ว</string>
+    <string name="app_picker_loading">กำลังค้นหาแอปที่พร้อมใช้งาน…</string>
+    <string name="app_picker_loading_toast">แอปที่พร้อมใช้งานจะโหลดในไม่ช้า</string>
+    <string name="app_picker_no_apps">ไม่มีแอปที่เลือกไว้</string>
+    <string name="app_picker_no_apps_found">ไม่พบแอป</string>
+    <string name="apps_in_app_purchases_disclaimer_all">สินค้าที่ซื้อในแอปจะไม่โอนไปยัง ^1</string>
+    <string name="apps_in_app_purchases_disclaimer_some">สินค้าที่ซื้อในแอปบางส่วนอาจไม่โอนไปยัง ^1</string>
+    <string name="apps_permissions_described_v2">"ระบบสามารถจับคู่แอป iOS® ฟรียอดนิยมกับแอป Android เท่านั้น การซื้อในแอปส่วนใหญ่จะไม่โอนไปด้วย คุณสามารถค้นหาแอปเพิ่มเติมใน Play Store เมื่อตั้งค่าเสร็จสมบูรณ์แล้ว
+
+คุณอาจต้องให้สิทธิ์โดยชัดแจ้งในการเข้าถึงความสามารถหรือข้อมูลที่เจาะจงในอุปกรณ์แก่แอปบางแอป ระบบจะจัดระเบียบสิทธิ์โดยแบ่งเป็นกลุ่มสิทธิ์ การเลือกติดตั้งแอปเหล่านี้หมายความว่าคุณยอมรับสิทธิ์ที่เป็นส่วนหนึ่งของแต่ละกลุ่ม คำอธิบายของแต่ละกลุ่มสิทธิ์อยู่ทางด้านล่าง
+
+บางแอปอาจไม่ต้องใช้สิทธิ์ที่ยอมรับโดยชัดแจ้ง เมื่อคุณใช้แอปใดแอปหนึ่งเหล่านี้ คุณสามารถอนุญาตหรือปฏิเสธสิทธิ์ของแต่ละแอปก่อนที่แอปจะใช้ข้อมูลประเภทดังกล่าว
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">การติดตั้งแอปแต่ละแอปจะหมายความว่าคุณยอมรับสิทธิ์ของแอป <annotation id="apps_permissions_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="auto_restore_summary">เมื่อติดตั้งแอปพลิเคชันใหม่อีกครั้ง ให้คืนค่าการตั้งค่าและข้อมูลที่สำรองไว้</string>
+    <string name="auto_restore_title">คืนค่าอัตโนมัติ</string>
+    <string name="backup_configure_account_default_summary">ไม่มีบัญชีใดในปัจจุบันที่จัดเก็บข้อมูลสำรอง</string>
+    <string name="backup_configure_account_title">บัญชีข้อมูลสำรอง</string>
+    <string name="backup_data_summary">สำรองข้อมูลแอป, รหัสผ่าน Wi-Fi และการตั้งค่าอื่นๆ ลงใน Google ไดรฟ์</string>
+    <string name="backup_data_summary_full">"สำรองข้อมูลในอุปกรณ์ (เช่น รหัสผ่าน Wi-Fi และประวัติการโทร) และข้อมูลแอป (เช่น การตั้งค่าและไฟล์ที่แอปจัดเก็บไว้) จากระยะไกลโดยอัตโนมัติ
+
+เมื่อคุณเปิดการสำรองข้อมูลอัตโนมัติ ระบบจะบันทึกข้อมูลอุปกรณ์และข้อมูลแอปจากระยะไกลเป็นระยะๆ ข้อมูลแอปอาจเป็นข้อมูลใดๆ ก็ตามที่แอปบันทึกไว้ (ตามการตั้งค่าของนักพัฒนาซอฟต์แวร์) ซึ่งรวมถึงข้อมูลที่อาจมีความละเอียดอ่อน เช่น รายชื่อติดต่อ ข้อความ และรูปภาพ"</string>
+    <string name="backup_data_title">สำรองข้อมูลไปยัง Google ไดรฟ์</string>
+    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน Wi-Fi, บุ๊กมาร์ก, การตั้งค่าอื่นๆ และข้อมูลแอป รวมทั้งลบสำเนาทั้งหมดบน Google ไดรฟ์ไหม</string>
+    <string name="backup_erase_dialog_message_full">หยุดการสำรองข้อมูลอุปกรณ์ (เช่น รหัสผ่าน Wi-Fi และประวัติการโทร) และข้อมูลแอป (เช่น การตั้งค่าและไฟล์ที่แอปจัดเก็บไว้) พร้อมทั้งลบสำเนาทั้งหมดบน Google ไดรฟ์ไหม</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">มีข้อผิดพลาดในการเปิดการตั้งค่ารูปภาพ</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"เมื่อคุณเปิดการสำรองข้อมูลอัตโนมัติ:
+
+ ● การตั้งค่าอุปกรณ์และข้อมูลแอปจะบันทึกลงในโฟลเดอร์ส่วนตัวเป็นระยะๆ ใน Google ไดรฟ์ ข้อมูลแอปอาจเป็นข้อมูลใดๆ ก็ตามที่แอปบันทึกไว้ (ตามการตั้งค่าของนักพัฒนาซอฟต์แวร์) ซึ่งรวมถึงข้อมูลที่อาจมีความละเอียดอ่อน เช่น รายชื่อติดต่อ ข้อความ และรูปภาพ
+
+ ไฟล์ขนาดใหญ่หรือไฟล์ที่นักพัฒนาซอฟต์แวร์เลือกที่จะแยกออกจากบริการจะไม่ได้รับการสำรอง
+
+ ● รูปภาพและการบันทึกวิดีโอจากอุปกรณ์นี้จะซิงค์กับห้องสมุด Google Photosเพื่อค้นหา แก้ไข ลบ และแชร์จากอุปกรณ์ต่างๆ ของคุณ
+
+ รูปภาพและวิดีโอจะอัปโหลดเป็นความละเอียดเต็มตามค่าเริ่มต้น ซึ่งจะไม่นับรวมในโควต้าพื้นที่เก็บข้อมูลไดรฟ์ของคุณ
+
+ ● รายชื่อติดต่อและข้อมูลที่เกี่ยวข้องจากอุปกรณ์นี้จะซิงค์ไปยัง Google Contacts คุณสามารถใช้แอป Google Contacts เพื่อค้นหา แก้ไข ลบ และแชร์รายชื่อติดต่อจากอุปกรณ์ต่างๆ ของคุณ
+
+ ● รายการในปฏิทินและข้อมูลที่เกี่ยวข้องจากอุปกรณ์นี้จะซิงค์ไปยัง Google ปฏิทิน คุณสามารถใช้แอป Google ปฏิทินเพื่อค้นหา แก้ไข ลบ และแชร์รายชื่อติดต่อจากอุปกรณ์ต่างๆ ของคุณ
+
+ ข้อมูลสำรองจะไม่นับรวมในโควต้าพื้นที่เก็บข้อมูลไดรฟ์ของคุณ"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"เมื่อคุณเปิดการสำรองข้อมูลอัตโนมัติ:
+
+ ●การตั้งค่าอุปกรณ์และข้อมูลแอปจะบันทึกลงในโฟลเดอร์ส่วนตัวเป็นระยะๆ ใน Google ไดรฟ์ ข้อมูลแอปอาจเป็นข้อมูลใดๆ ก็ตามที่แอปบันทึกไว้ (ตามการตั้งค่าของนักพัฒนาซอฟต์แวร์) ซึ่งรวมถึงข้อมูลที่อาจมีความละเอียดอ่อน เช่น รายชื่อติดต่อ ข้อความ และรูปภาพ
+
+ ไฟล์ขนาดใหญ่หรือไฟล์ที่นักพัฒนาซอฟต์แวร์เลือกที่จะแยกออกจากบริการจะไม่ได้รับการสำรองไว้
+
+ ● รายชื่อติดต่อและข้อมูลที่เกี่ยวข้องจากอุปกรณ์เครื่องนี้จะซิงค์ไปยัง Google Contacts คุณสามารถใช้แอป Google Contacts เพื่อค้นหา แก้ไข ลบ และแชร์รายชื่อติดต่อจากอุปกรณ์เครื่องใดก็ได้ของคุณ
+
+ ● รายการในปฏิทินและข้อมูลที่เกี่ยวข้องจากอุปกรณ์นี้จะซิงค์ไปยัง Google ปฏิทิน คุณสามารถใช้แอป Google ปฏิทินเพื่อค้นหา แก้ไข ลบ และแชร์รายชื่อติดต่อจากอุปกรณ์เครื่องใดก็ได้ของคุณ
+
+ ข้อมูลสำรองจะไม่นับรวมในโควตาพื้นที่เก็บข้อมูลไดรฟ์ของคุณ"</string>
+    <string name="backup_opt_in_backup_description_extra">ปฏิทิน รายชื่อติดต่อ รูปภาพ และวิดีโอจะซิงค์ไปยังบัญชี Google ของคุณและสามารถใช้กับบริการต่างๆ ได้</string>
+    <string name="backup_opt_in_backup_description_v2">การสำรองข้อมูลอัตโนมัติช่วยให้คุณสามารถคืนค่าหรือสลับใช้โทรศัพท์หลายเครื่องได้สะดวกทุกเวลา <annotation id="backup_opt_in_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"การดำเนินการนี้จะปิดการสำรองข้อมูลสำหรับ:
+
+แอปและข้อมูลแอป
+ประวัติการโทร
+การตั้งค่าอุปกรณ์
+รูปภาพและวิดีโอ
+SMS
+
+ปฏิทินและรายชื่อติดต่อจะยังคงซิงค์กับบัญชี Google ของคุณ เมื่อตั้งค่าเสร็จ คุณสามารถเปลี่ยนการตั้งค่าการซิงค์ได้โดยไปที่"<annotation id="backup_opt_in_settings_instructions">การตั้งค่า > บัญชี > Google</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">ปิดการสำรองข้อมูลไหม</string>
+    <string name="backup_opt_in_backup_list">"แอปและข้อมูลแอป
+ปฏิทิน
+ประวัติการโทร
+รายชื่อติดต่อ
+การตั้งค่าอุปกรณ์ (รวมถึงรหัสผ่าน Wi-Fi)
+รูปภาพและวิดีโอ
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">การสำรองข้อมูลประกอบด้วย:</string>
+    <string name="backup_opt_in_backup_title">สำรองข้อมูลไปยัง Google ไดรฟ์</string>
+    <string name="backup_opt_in_disable_backup">ปิดการสำรองข้อมูล</string>
+    <string name="backup_photos_update">โปรดอัปเดต Google Photos</string>
+    <string name="backup_settings_activity_backup_title">การสำรองข้อมูล</string>
+    <string name="backup_settings_activity_title">การสำรองข้อมูลและการรีเซ็ต</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">ไม่คัดลอก</string>
+    <string name="close_button_label">ปิด</string>
+    <string name="cloud_restore_app_picker_button">คืนค่า</string>
+    <string name="cloud_restore_app_picker_description_no_apps">คุณไม่มีแอปที่สำรองข้อมูลไว้เลย</string>
+    <string name="cloud_restore_app_picker_title">เลือกแอปที่จะคืนค่า</string>
+    <string name="common_accept">ยอมรับ</string>
+    <string name="common_add_account_label">เพิ่มบัญชี</string>
+    <string name="common_ads_settings_title">โฆษณา</string>
+    <string name="common_agree">ยอมรับ</string>
+    <string name="common_app_name">บริการของ Google Play</string>
+    <string name="common_asm_preferences_settings_title">การตั้งค่าบัญชี</string>
+    <string name="common_asm_privacy_settings_title">ข้อมูลและความเป็นส่วนตัว</string>
+    <string name="common_asm_security_settings_title">การลงชื่อเข้าใช้และความปลอดภัย</string>
+    <string name="common_audience_edit_button_label">แก้ไข</string>
+    <string name="common_cancel">ยกเลิก</string>
+    <string name="common_cannot_start_hangouts_security_exception">แฮงเอาท์ไม่สามารถเริ่มต้นใช้งานได้ (ข้อผิดพลาดด้านสิทธิ์)</string>
+    <string name="common_car_permission_desc">การเข้าใช้บริการรถยนต์</string>
+    <string name="common_car_permission_label">บริการรถยนต์</string>
+    <string name="common_chips_label_empty_circles">ไม่มีแวดวง</string>
+    <string name="common_chips_label_extended_circles">แวดวงขยาย</string>
+    <string name="common_chips_label_only_you">เฉพาะคุณเท่านั้น</string>
+    <string name="common_chips_label_public">สาธารณะ</string>
+    <string name="common_chips_label_your_circles">แวดวงของคุณ</string>
+    <string name="common_choose_account_label">เลือกบัญชี</string>
+    <string name="common_clear_app_data_menu_item">ล้างข้อมูลแอป</string>
+    <string name="common_connected">เชื่อมต่อแล้ว</string>
+    <string name="common_connected_apps_settings_title">แอปที่เชื่อมต่อ</string>
+    <string name="common_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="common_continue">ต่อไป</string>
+    <string name="common_disagree">ไม่ยอมรับ</string>
+    <string name="common_disconnect">ยกเลิกการเชื่อมต่อ</string>
+    <string name="common_done">เสร็จสิ้น</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">จาก:</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_started">เริ่มต้นใช้งาน</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">ข้อผิดพลาด</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_updating_title">กำลังอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">ติดตั้งบริการ Google Play แล้วด้วยสถาปัตยกรรมที่ไม่ถูกต้อง</string>
+    <string name="common_google_play_services_wrong_architecture_text">บริการ Google Play ได้รับการติดตั้งด้วยสถาปัตยกรรม (%1$s) ที่แตกต่างจากสถาปัตยกรรมของอุปกรณ์ (%2$s)</string>
+    <string name="common_google_play_services_wrong_architecture_title">สถาปัตยกรรมไม่ถูกต้อง</string>
+    <string name="common_google_settings">การตั้งค่า Google</string>
+    <string name="common_google_settings_account">บัญชี</string>
+    <string name="common_google_settings_credentials_title">Smart Lock สำหรับรหัสผ่าน</string>
+    <string name="common_google_settings_developer">นักพัฒนาซอฟต์แวร์</string>
+    <string name="common_google_settings_services">บริการ</string>
+    <string name="common_got_it">รับทราบ</string>
+    <string name="common_install">ติดตั้ง</string>
+    <string name="common_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="common_list_apps_menu_help">ความช่วยเหลือ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ความช่วยเหลือและความเห็น</string>
+    <string name="common_loading">กำลังโหลด…</string>
+    <string name="common_location_settings_title">ตำแหน่ง</string>
+    <string name="common_magictether_settings_title">การเชื่อมต่ออินเทอร์เน็ตผ่านมือถือแบบด่วน</string>
+    <string name="common_maps_settings_title">แผนที่และละติจูด</string>
+    <string name="common_mdm_feature_name">โปรแกรมจัดการอุปกรณ์ Android</string>
+    <string name="common_missing_url_viewer">ขาดโปรแกรมดูที่จะใช้แสดง URL ภายนอก</string>
+    <string name="common_more_options">ตัวเลือกอื่น</string>
+    <string name="common_networking_settings_title">เครือข่าย</string>
+    <string name="common_no_browser_for_restricted_url">จำกัดการเข้าถึง ไม่พบเบราว์เซอร์</string>
+    <string name="common_no_devices_found">ไม่พบอุปกรณ์</string>
+    <string name="common_no_network">ไม่สามารถใช้งานได้เนื่องจากอุปกรณ์ออฟไลน์</string>
+    <string name="common_no_thanks">ไม่ล่ะ ขอบคุณ</string>
+    <string name="common_not_now">ข้ามไปก่อน</string>
+    <string name="common_off">ปิด</string>
+    <string name="common_ok">ตกลง</string>
+    <string name="common_on">เปิด</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_open_source_licenses">สัญญาอนุญาตสำหรับโอเพนซอร์ส</string>
+    <string name="common_people_settings_title">รายชื่อติดต่อ</string>
+    <string name="common_permissions_enable_in_settings">เปิดใช้ในการตั้งค่า</string>
+    <string name="common_permissions_missing_end">หากต้องการดำเนินการต่อ ให้เปิดการตั้งค่า เลือกสิทธิ์ จากนั้นอนุญาตรายการที่แสดงทั้งหมด</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ในการเปิดใช้ ให้ไปที่
+การตั้งค่า >
+สิทธิ์ >
+บริการ Google Play"</string>
+    <string name="common_permissions_missing_start">แอปนี้จะไม่สามารถทำงานได้อย่างถูกต้องจนกว่าคุณจะอนุญาตคำขอของบริการ Google Play เพื่อเข้าถึงสิ่งต่อไปนี้:</string>
+    <string name="common_permissions_open_settings">เปิดการตั้งค่า</string>
+    <string name="common_phone">โทรศัพท์</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="common_restore">คืนค่า</string>
+    <string name="common_retry">ลองอีกครั้ง</string>
+    <string name="common_search_settings_title">Search</string>
+    <string name="common_security_ootp_setting_title">รหัสความปลอดภัย</string>
+    <string name="common_security_settings_title">การรักษาความปลอดภัย</string>
+    <string name="common_send">ส่ง</string>
+    <string name="common_sending">กำลังส่ง…</string>
+    <string name="common_set_up_nearby_device_settings_title">ตั้งค่าอุปกรณ์ที่อยู่ใกล้เคียง</string>
+    <string name="common_settings">การตั้งค่า</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="common_something_went_wrong">มีข้อผิดพลาดเกิดขึ้น</string>
+    <string name="common_system_info">ข้อมูลระบบ</string>
+    <string name="common_take_photo_label">ถ่ายภาพ</string>
+    <string name="common_terms_of_service">ข้อกำหนดในการให้บริการ</string>
+    <string name="common_try_again">ลองอีกครั้ง</string>
+    <string name="common_turn_on_bluetooth">เปิดบลูทูธ</string>
+    <string name="common_ui_confirm_deleting_button">ลบ</string>
+    <string name="common_ui_confirm_deleting_checkbox">ฉันเข้าใจและต้องการที่จะลบ</string>
+    <string name="common_unknown">ไม่ทราบ</string>
+    <string name="common_update">อัปเดต</string>
+    <string name="common_url_load_unsuccessful_message">อุปกรณ์ Android ของคุณไม่ได้เชื่อมต่อกับบริการข้อมูล หากต้องการดูข้อมูลนี้ในขณะนี้ ให้ไปที่ %s ด้วยเว็บเบราว์เซอร์</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">อุปกรณ์ Android ของคุณไม่ได้เชื่อมต่อเครือข่าย Wi-Fi หากต้องการดูข้อมูลนี้ในขณะนี้ ให้ไปที่ %s ด้วยเว็บเบราว์เซอร์</string>
+    <string name="common_url_login_notice">ลงชื่อเข้าใช้ด้วย %1$s</string>
+    <string name="common_usage_and_diagnostics">การใช้งานและการวินิจฉัย</string>
+    <string name="common_yesterday">เมื่อวานนี้</string>
+    <string name="confirm_copy_button_text">คัดลอก</string>
+    <string name="contacts_number_device_and_icloud">%1$d รายการใน iCloud®, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts, %1$d รายการใน iCloud®, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts, %1$d รายการในซิม, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_with_google">Google Contacts, %1$d รายการในเครื่อง</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d รายการใน iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacts, %1$d รายการในซิม</string>
+    <string name="copy_confirmation_description">ระบบจะคัดลอกข้อมูลอย่างเช่นบัญชี Google และแอปต่างๆ ไปยังโทรศัพท์เครื่องใหม่ของคุณ</string>
+    <string name="copy_confirmation_title">คัดลอกไปยังโทรศัพท์เครื่องใหม่ใช่ไหม</string>
+    <string name="d2d_app_picker_description_no_apps">เราไม่พบแอปใดๆ เลย</string>
+    <string name="d2d_app_picker_title">แอป</string>
+    <string name="d2d_migration_canceled_on_source">ยกเลิกการคัดลอกแล้ว</string>
+    <string name="data_copied_fragment_description">คัดลอกข้อมูลของคุณลงในโทรศัพท์เครื่องใหม่เสร็จแล้ว คุณสามารถถอดสายได้เลย</string>
+    <string name="data_copied_fragment_description_cancel">คุณเลือกที่จะหยุดคัดลอก จึงมีข้อมูลเพียงบางส่วนได้รับการคัดลอกไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_cancel_no_data">คุณเลือกที่จะหยุดคัดลอก จึงไม่มีการคัดลอกข้อมูลใดๆ ไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_error">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกทุกอย่างได้</string>
+    <string name="data_copied_fragment_description_error_no_data">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกข้อมูลได้</string>
+    <string name="data_copied_fragment_no_data_title">ไม่สามารถคัดลอก</string>
+    <string name="data_copied_fragment_some_data_title">คัดลอกข้อมูลได้บางส่วน</string>
+    <string name="data_copied_fragment_title">คัดลอกข้อมูลแล้ว</string>
+    <string name="device_backup_title">การสำรองข้อมูลอุปกรณ์</string>
+    <string name="device_not_supported_fragment_new_device">คุณเชื่อมต่ออยู่กับโทรศัพท์เครื่องใหม่ ในการดำเนินการต่อ ให้เชื่อมต่อใหม่กับเครื่องก่อนหน้า</string>
+    <string name="device_not_supported_fragment_new_device_title">เชื่อมต่อใหม่กับโทรศัพท์เครื่องก่อนหน้า</string>
+    <string name="device_not_supported_fragment_no_data_cable">สายประเภทนี้ไม่สามารถโอนข้อมูล เชื่อมต่อใหม่โดยใช้สายประเภทอื่นแล้วลองอีกครั้ง</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ลองใช้สายประเภทอื่น</string>
+    <string name="device_not_supported_fragment_retry_description">ตรวจสอบว่าโทรศัพท์เครื่องเก่าปลดล็อกอยู่ จากนั้นถอดสายและเชื่อมต่อสายใหม่อีกครั้ง</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">มีข้อผิดพลาดเกิดขึ้น</string>
+    <string name="device_not_supported_ios_supervised_description">เนื่องจากอุปกรณ์ iPhone® ของคุณอยู่ภายใต้การดูแล คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="device_picker_description">ข้อมูลสำรองที่เก็บใน Google ไดรฟ์</string>
+    <string name="device_picker_empty">ไม่มีข้อมูลสำรองที่ลิงก์กับ %1$s</string>
+    <string name="device_picker_empty_title">ไม่พบข้อมูลสำรอง</string>
+    <string name="device_picker_item">ข้อมูลสำรองของ %1$s</string>
+    <string name="device_picker_last_used">ใช้ครั้งล่าสุด ^1</string>
+    <string name="device_picker_skip">ไม่คืนค่า</string>
+    <string name="device_picker_title">เลือกข้อมูลสำรองที่จะคืนค่า</string>
+    <string name="disabled_by_admin_summary_text">ผู้ดูแลระบบเป็นผู้ควบคุม</string>
+    <string name="download_msg_error_invalid">กำหนดค่าการดาวน์โหลดไว้ไม่ถูกต้อง</string>
+    <string name="download_msg_in_progress">อยู่ระหว่างการดาวน์โหลด</string>
+    <string name="download_msg_not_allowed_space">พื้นที่ไม่เพียงพอที่จะทำการดาวน์โหลด</string>
+    <string name="download_msg_pending">กำลังรอดาวน์โหลด</string>
+    <string name="download_notification_description">%1$s ได้ส่งคำขอนี้</string>
+    <string name="download_notification_title">กำลังดึงข้อมูลเพิ่มเติม</string>
+    <string name="drive_backup_account">บัญชี</string>
+    <string name="drive_backup_apps_in_backup">ข้อมูลแอปที่สำรองไว้</string>
+    <string name="drive_backup_apps_last_backup">สำรองข้อมูลล่าสุด</string>
+    <string name="drive_backup_apps_loading">กำลังโหลด…</string>
+    <string name="drive_backup_apps_screen_title">ข้อมูลแอป</string>
+    <string name="drive_backup_content_apps_title">ข้อมูลแอป</string>
+    <string name="drive_backup_content_calendar_dialog_message">กิจกรรมที่สร้างขึ้นใน Google ปฏิทินจะซิงค์กับอุปกรณ์ทุกเครื่องที่ลงชื่อเข้าใช้บัญชี Google ของคุณ</string>
+    <string name="drive_backup_content_calendar_title">ปฏิทิน</string>
+    <string name="drive_backup_content_callhistory_dialog_message">ข้อมูลสำรองรวมถึงวันที่และผู้รับของสายที่โทรออกและได้รับ</string>
+    <string name="drive_backup_content_callhistory_title">ประวัติการโทร</string>
+    <string name="drive_backup_content_contacts_dialog_message">รายชื่อติดต่อที่สร้างขึ้นใน Google Contacts จะซิงค์กับอุปกรณ์ทุกเครื่องที่ลงชื่อเข้าใช้บัญชี Google ของคุณ</string>
+    <string name="drive_backup_content_contacts_title">รายชื่อติดต่อ</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">ข้อมูลสำรองรวมถึงการกำหนดค่าอุปกรณ์ เช่น วอลเปเปอร์ รหัสผ่าน Wi-Fi และแอปเริ่มต้น</string>
+    <string name="drive_backup_content_devicesettings_title">การตั้งค่าอุปกรณ์</string>
+    <string name="drive_backup_content_header">เนื้อหา</string>
+    <string name="drive_backup_content_photos_dialog_message">บัญชีสำรองหลักของคุณมีการเปลี่ยนแปลง คุณสามารถเปลี่ยนบัญชีการสำรองข้อมูลของ Google Photos เป็น %s ได้อีกด้วย</string>
+    <string name="drive_backup_content_photos_dialog_no">ปิด</string>
+    <string name="drive_backup_content_photos_dialog_title">เปลี่ยนบัญชีของรูปภาพและวิดีโอด้วยไหม</string>
+    <string name="drive_backup_content_photos_dialog_yes">เปลี่ยน</string>
+    <string name="drive_backup_content_photos_title">รูปภาพและวิดีโอ</string>
+    <string name="drive_backup_content_sms_dialog_message">ข้อมูลสำรองรวมถึงข้อความที่ส่งและได้รับ แต่ไม่รวมถึงสื่อ MMS</string>
+    <string name="drive_backup_content_sms_title">ข้อความ SMS</string>
+    <string name="drive_backup_content_status_dolly_action">รับทราบ</string>
+    <string name="drive_backup_content_status_error">เกิดข้อผิดพลาดขณะรับวันที่ซิงค์ล่าสุด</string>
+    <string name="drive_backup_content_status_lastsaved">สำรองข้อมูลครั้งล่าสุด: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">ซิงค์ครั้งล่าสุด: %1$s</string>
+    <string name="drive_backup_content_status_never">กำลังรอสำรองข้อมูล</string>
+    <string name="drive_backup_content_status_sync_adapter_action">การตั้งค่าการซิงค์</string>
+    <string name="drive_backup_content_status_sync_off">การซิงค์ปิดอยู่</string>
+    <string name="drive_backup_content_status_updating">กำลังตรวจสอบสถานะ…</string>
+    <string name="drive_backup_disabled_backuplist">"การสำรองข้อมูลรวมถึง:
+\u0009- แอปและข้อมูลในแอป
+\u0009- ประวัติการโทร
+\u0009- การตั้งค่าอุปกรณ์ (รวมถึงรหัสผ่าน Wi-Fi)
+\u0009- Google ปฏิทิน
+\u0009- Google Contacts
+\u0009- รูปภาพและวิดีโอ
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"การสำรองข้อมูลรวมถึง:
+\u0009- แอปและข้อมูลในแอป
+\u0009- ประวัติการโทร
+\u0009- การตั้งค่าอุปกรณ์ (รวมถึงรหัสผ่าน Wi-Fi)
+\u0009- Google ปฏิทิน
+\u0009- Google Contacts
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">ปิดใช้โดยผู้ดูแลระบบ</string>
+    <string name="drive_backup_disabled_detailedinfo">"ระบบจะซิงค์ Google ปฏิทิน, Google Contacts, รูปภาพ และวิดีโอกับบัญชี Google และอาจมีการใช้งานในบริการต่างๆ
+
+อาจมีการเปิดใช้การซิงค์แม้การสำรองข้อมูลจะปิดอยู่ คุณเปลี่ยนการตั้งค่าการซิงค์ได้ในการตั้งค่า > บัญชี > Google"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"ระบบจะซิงค์ Google ปฏิทินและ Google Contacts กับบัญชี Google ของคุณ และอาจมีการนำไปใช้ในบริการต่างๆ
+
+คุณสามารถเปิดใช้การซิงค์ได้แม้การสำรองข้อมูลจะปิดอยู่ โดยคุณสามารถเปลี่ยนแปลงการตั้งค่าการซิงค์ได้ในการตั้งค่า > บัญชี > Google"</string>
+    <string name="drive_backup_disabled_introduction">การสำรองข้อมูลอัตโนมัติช่วยให้คุณคืนค่าหรือเปลี่ยนโทรศัพท์ได้อย่างง่ายดายทุกเมื่อ</string>
+    <string name="drive_backup_settings_title">การสำรองข้อมูล</string>
+    <string name="drive_backup_state">สำรองข้อมูลไปยัง Google ไดรฟ์</string>
+    <string name="drive_backup_state_dialog_message">"ข้อมูลสำรองของอุปกรณ์นี้ใน Google ไดรฟ์จะถูกลบทิ้งถาวร
+
+รูปภาพและวิดีโอที่สำรองข้อมูลไว้แล้วจะยังคงอยู่ใน Google ไดรฟ์
+
+Google ปฏิทินและ Google Contacts จะยังซิงค์กับบัญชี Google ต่อไป คุณเปลี่ยนแปลงการตั้งค่าการซิงค์ได้ในการตั้งค่า > บัญชี > Google"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"ข้อมูลสำรองใน Google ไดรฟ์ของอุปกรณ์เครื่องนี้จะถูกลบทิ้งถาวร
+
+Google ปฏิทินและ Google Contacts จะยังซิงค์กับบัญชี Google ของคุณต่อไป คุณสามารถเปลี่ยนการตั้งค่าการซิงค์ได้ในการตั้งค่า > บัญชี > Google"</string>
+    <string name="drive_backup_state_dialog_okaction">ปิดและลบ</string>
+    <string name="drive_backup_state_dialog_title">ปิดและลบข้อมูลสำรองไหม</string>
+    <string name="durationDayHour">%1$d วัน %2$d ชม.</string>
+    <string name="durationDayHours">%1$d วัน %2$d ชั่วโมง</string>
+    <string name="durationDays">%1$d วัน</string>
+    <string name="durationHourMinute">%1$d ชั่วโมง %2$d นาที</string>
+    <string name="durationHourMinutes">%1$d ชั่วโมง %2$d นาที</string>
+    <string name="durationHours">%1$d ชั่วโมง</string>
+    <string name="durationMinute">%1$d นาที</string>
+    <string name="durationMinuteSecond">%1$d นาที %2$d วินาที</string>
+    <string name="durationMinuteSeconds">%1$d นาที %2$d วินาที</string>
+    <string name="durationMinutes">%1$d นาที</string>
+    <string name="durationSecond">%1$d วินาที</string>
+    <string name="durationSeconds">%1$d วินาที</string>
+    <string name="encryption_warning_fragment_description">"การเข้ารหัสข้อมูลสำรองเปิดอยู่ในอุปกรณ์ iPhone® ของคุณ หากคุณไม่ได้เปิดฟีเจอร์นี้เอง ผู้ดูแลระบบไอทีของคุณอาจเป็นผู้เปิดใช้งาน
+
+มีเพียงรูปถ่าย เพลง และวิดีโอเท่านั้นที่สามารถคัดลอกไปได้ สำหรับข้อมูลเพิ่มเติม โปรดไปที่ "<b>g.c/datatransferhelp</b></string>
+    <string name="encryption_warning_fragment_title">การเข้ารหัสข้อมูลสำรอง</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ฉันไม่พบอะแดปเตอร์</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"หา Quick Switch Adapter ที่บรรจุมาในกล่องเดียวกันกับ ^1
+
+เสียบสายเข้ากับอะแดปเตอร์"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">เชื่อมต่ออะแดปเตอร์และสาย</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ปลดล็อกโทรศัพท์เครื่องเก่า แล้วเสียบอะแดปเตอร์เข้ากับโทรศัพท์เครื่องนี้</string>
+    <string name="fragment_usb_connect_both_phones_title">เชื่อมต่อโทรศัพท์ทั้ง 2 เครื่อง</string>
+    <string name="fragment_usb_dialog_cancel_description">คุณจะโอนเนื้อหาส่วนใหญ่ไปได้ถ้าใช้สาย ถ้าสายในกล่องใช้ด้วยกันไม่ได้ ให้ลองใช้สายชาร์จหรือสายเชื่อมต่อข้อมูลที่ใช้กับโทรศัพท์เครื่องเก่าได้</string>
+    <string name="fragment_usb_dialog_cancel_title">คัดลอกข้อมูลด้วยวิธีอื่นไหม</string>
+    <string name="fragment_usb_dont_have_cable">ฉันไม่มีสาย</string>
+    <string name="fragment_usb_dont_have_old_phone">ฉันไม่มีโทรศัพท์เครื่องเก่า</string>
+    <string name="fragment_usb_find_cable_description">ใช้สายที่ใช้กับโทรศัพท์เครื่องเก่าได้ เช่น สายเชื่อมต่อข้อมูลหรือสายชาร์จ</string>
+    <string name="fragment_usb_find_cable_title">หาสายที่เหมาะสม</string>
+    <string name="fragment_usb_initial_description">โอนข้อมูลจากโทรศัพท์เครื่องเก่าไปยัง ^1 นี้</string>
+    <string name="fragment_usb_initial_title">คัดลอกข้อมูลกันเลย</string>
+    <string name="fragment_usb_legacy_description">"นี่คือวิธีที่เร็วที่สุดในการนำข้อมูลมาให้ได้มากที่สุด
+
+หาอะแดปเตอร์ในกล่องและเสียบเข้ากับโทรศัพท์เครื่องใหม่ เชื่อมต่อโทรศัพท์ทั้งสองเข้าด้วยกันด้วยสาย แล้วปลดล็อกโทรศัพท์เครื่องเก่า"</string>
+    <string name="fragment_usb_other_ways">คัดลอกโดยไม่ใช้สาย</string>
+    <string name="fragment_usb_plug_cable">เสียบสายเข้ากับโทรศัพท์เครื่องเก่า</string>
+    <string name="fragment_waiting_title">รอสักครู่…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Contacts จะซิงค์</string>
+    <string name="google_contacts_static_text_off">Google Contacts จะยังคงซิงค์อยู่</string>
+    <string name="header_set_backup_account">ตั้งค่าบัญชีสำรอง</string>
+    <string name="i_message_dialog_message">"หากต้องการรับข้อความ SMS จากผู้ใช้อุปกรณ์ iPhone® ต่อไป คุณต้องปิด iMessage®
+
+ไปที่ "<b>g.co/iMessageHelp</b> เพื่อดูวิธีการ</string>
+    <string name="instructions_fragment_title">ดำเนินการต่อบนโทรศัพท์อีกเครื่อง</string>
+    <string name="ios_connected_fragment_description">"บนหน้าจอถัดไป คุณสามารถลงชื่อเข้าใช้บัญชี Google หรือสร้างบัญชีใหม่ได้
+
+ หากคุณไม่เพิ่มบัญชี Google กิจกรรมของคุณใน iOS Calendar® จะไม่ถูกโอนไป"</string>
+    <string name="ios_message_attachment_explanation">[ไฟล์แนบของข้อความจะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ไม่สามารถคัดลอกไฟล์แนบบางรายการได้ ไฟล์แนบที่โอนแล้วจะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachment_placeholder">[ไฟล์แนบที่บันทึกไว้ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachments_placeholder">[ไฟล์แนบที่บันทึกไว้ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_migration_default_calendar_title">ปฏิทิน</string>
+    <string name="ios_migration_other_contact_relation">อื่นๆ</string>
+    <string name="ios_photos_dialog_message">"รูปภาพที่จัดเก็บใน iCloud® ไม่สามารถคัดลอกได้
+
+หากต้องการนำรูปเหล่านี้ไปไว้ใน ^1 ให้ติดตั้งแอป Google Photosในอุปกรณ์ iPhone® และเปิด \"สำรองข้อมูลและซิงค์\" ไปที่ "<b>g.co/datatransferhelp</b> เพื่อดูคำแนะนำเพิ่มเติม</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">เพิ่มบัญชี</string>
+    <string name="lockscreen_smartdevice_action_next">ถัดไป</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ปลดล็อกเพื่อตั้งค่าโทรศัพท์ต่อ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ด้วยเหตุผลด้านความปลอดภัย คุณจะต้องยืนยันการล็อกหน้าจอเพื่อตั้งค่าต่อ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">ยืนยันการล็อกหน้าจอ</string>
+    <string name="manage_data_label">บัญชี Google</string>
+    <string name="master_clear_title">รีเซ็ตข้อมูลเป็นค่าเริ่มต้น</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">ต้องตั้งค่าบัญชีสำรอง</string>
+    <string name="notification_content_title_set_backup_account">บัญชีสำรอง</string>
+    <string name="notification_ticker_set_backup_account">ต้องมีบัญชีสำรอง</string>
+    <string name="permgrouplab_calendar">ปฏิทิน</string>
+    <string name="permgrouplab_camera">กล้องถ่ายรูป</string>
+    <string name="permgrouplab_contacts">รายชื่อติดต่อ</string>
+    <string name="permgrouplab_location">ตำแหน่ง</string>
+    <string name="permgrouplab_microphone">ไมโครโฟน</string>
+    <string name="permgrouplab_phone">โทรศัพท์</string>
+    <string name="permgrouplab_sensors">เซ็นเซอร์สำหรับร่างกาย</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">พื้นที่เก็บข้อมูล</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">ไม่มีบัญชีใดในปัจจุบันที่จัดเก็บรูปภาพที่สำรองไว้</string>
+    <string name="photos_backup_title">การสำรองข้อมูลรูปภาพ</string>
+    <string name="photos_filtering_option_all">ทั้งหมด</string>
+    <string name="photos_filtering_option_none">ไม่มี</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">รายชื่อติดต่อที่คัดลอกจะบันทึกลงในบัญชี Google ของคุณ</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">รายชื่อติดต่อและปฏิทินที่คัดลอกจะบันทึกลงในบัญชี Google ของคุณ</string>
+    <string name="restore_choice_data_disclaimer_v2">ข้อมูลบางส่วนของคุณอาจไม่ได้คัดลอกไปยัง ^1 <annotation id="restore_choice_data_disclaimer_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="restore_choice_deselect_some_content">ยกเลิกการเลือกเนื้อหาบางอย่างเพื่อดำเนินการต่อ</string>
+    <string name="restore_choice_learn_more_android">"ไม่สามารถคัดลอกข้อมูลบางอย่างต่อไปนี้จากโทรศัพท์เครื่องเก่าของคุณโดยอัตโนมัติได้:
+
+ ● การดาวน์โหลด (เช่นไฟล์ PDF)
+
+ ● รูปภาพ วิดีโอ และเพลงที่จัดเก็บอยู่ในโฟลเดอร์ที่ซ่อนไว้
+
+ ● รูปภาพ วิดีโอ และเพลงที่ได้รับทางข้อความ
+
+ ● แอปที่ไม่ได้มาจาก Google Play Store
+
+ ● ข้อมูลในแอป (หากแอปไม่ได้ใช้การสำรองข้อมูลของ Android)
+
+ ● การตั้งค่าบางอย่างของอุปกรณ์
+
+ ● บัญชีนอกเหนือจากบัญชี Google (และข้อมูลที่เชื่อมโยงใดๆ)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google
+
+ ● เสียงเรียกเข้า
+
+ สำหรับรายละเอียดเพิ่มเติมและความช่วยเหลือในการคัดลอกข้อมูลบางอย่าง โปรดไปที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios">"ข้อมูลบางส่วนจากโทรศัพท์เครื่องเก่าของคุณไม่สามารถคัดลอกโดยอัตโนมัติ ซึ่งได้แก่:
+
+ ● แอปและข้อมูลในแอป
+
+ ● รูปภาพที่ต้นฉบับไม่ได้เก็บไว้ในโทรศัพท์ (เช่น หากเปิดการตั้งค่า \"เพิ่มประสิทธิภาพพื้นที่จัดเก็บข้อมูล\" รูปต้นฉบับจะจัดเก็บอยู่ใน iCloud®)
+
+ ● ไฟล์และเอกสารที่จัดเก็บใน iCloud®
+
+ ● การตั้งค่าอุปกรณ์ (เช่น รหัสผ่าน Wi-Fi และวอลเปเปอร์)
+
+ ● เพลงที่ได้รับการคุ้มครองจากการจัดการสิทธิ์ดิจิทัล (DRM) (เช่น เพลงจาก iTunes® ที่ซื้อก่อนเดือนเมษายน 2009 หรือเพลงที่ดาวน์โหลดไว้ฟังแบบออฟไลน์จากแอปสตรีมเพลง)
+
+ ● บัญชีที่นอกเหนือจากบัญชี Google (และข้อมูลที่เชื่อมโยงใดๆ)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google หรือ iCloud®
+
+ ● บุ๊กมาร์กจาก Safari®
+
+ ไฟล์แนบจาก iMessage® จะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบในข้อความ
+
+ สำหรับรายละเอียดเพิ่มเติมและความช่วยเหลือในการคัดลอกข้อมูลบางอย่างข้างต้น โปรดไปที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_not_enough_space">พื้นที่จัดเก็บไม่พอ</string>
+    <string name="restore_choice_total_text">จากพื้นที่ว่าง %1$s /ใช้เวลาโอน %2$s</string>
+    <string name="restore_error_message">มีข้อผิดพลาดเกิดขึ้นกับการคืนค่า ขออภัย</string>
+    <string name="restore_item_appdata">ข้อมูลแอป</string>
+    <string name="restore_item_calendar">ปฏิทิน</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google ปฏิทิน</string>
+    <string name="restore_item_calendar_ical_off_description">Google ปฏิทินจะยังซิงค์</string>
+    <string name="restore_item_calendar_sync_description">Google ปฏิทินจะซิงค์</string>
+    <string name="restore_item_call_logs">ประวัติการโทร</string>
+    <string name="restore_item_contacts">รายชื่อติดต่อ</string>
+    <string name="restore_item_device_settings_description">รหัสผ่าน Wi-Fi และอื่นๆ</string>
+    <string name="restore_item_downloads">การดาวน์โหลด</string>
+    <string name="restore_item_email">อีเมล</string>
+    <string name="restore_item_email_description">Gmail จะซิงค์</string>
+    <string name="restore_item_message_attachments">ไฟล์แนบของข้อความ</string>
+    <string name="restore_item_messages">ข้อความ</string>
+    <string name="restore_item_music">เพลง</string>
+    <string name="restore_item_photos">รูปภาพและวิดีโอ</string>
+    <string name="restore_item_settings">การตั้งค่าอุปกรณ์</string>
+    <string name="restore_item_sms">ข้อความ SMS</string>
+    <string name="restore_item_will_be_synced_text">ข้อมูลนี้จะซิงค์กับโทรศัพท์ของคุณ</string>
+    <string name="restore_progress_title">กำลังคืนค่า...</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="small_time_duration">น้อยกว่า 1 นาที</string>
+    <string name="source_connected_description">กำลังเตรียม...</string>
+    <string name="source_connected_title">เชื่อมต่อกับ %1$s แล้ว</string>
+    <string name="source_copying_description">กำลังคัดลอกข้อมูลที่คุณเลือกไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="source_copying_title">กำลังคัดลอก...</string>
+    <string name="source_default_target_device_name">อุปกรณ์ใหม่</string>
+    <string name="source_notification_device_disconnected">เชื่อมต่อสายอีกครั้ง</string>
+    <string name="source_notification_text">กำลังโอนข้อมูลจากโทรศัพท์เครื่องเก่าไปยังเครื่องใหม่</string>
+    <string name="source_notification_title">การโอนข้อมูล</string>
+    <string name="source_success_description">ตั้งค่าบน %1$s ให้เสร็จ</string>
+    <string name="source_success_screen_title">เสร็จเรียบร้อย</string>
+    <string name="source_unplugged_description">เชื่อมต่อกับ %1$s อีกครั้ง</string>
+    <string name="source_unplugged_title">ถอดสายแล้ว</string>
+    <string name="source_waiting_title">ตั้งค่าต่อบน %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">ปิด</string>
+    <string name="stop_copying_dialog_message_before_transfer">ยังไม่ได้คัดลอกข้อมูลของคุณไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_message_during_transfer">ยังไม่ได้คัดลอกข้อมูลบางส่วนของคุณไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">ไม่คัดลอก</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">หยุด</string>
+    <string name="stop_copying_dialog_title_before_transfer">ไม่คัดลอกใช่ไหม</string>
+    <string name="stop_copying_dialog_title_during_transfer">หยุดคัดลอกไหม</string>
+    <string name="storage_management_wear_descriptive_text">แอปใช้พื้นที่เก็บข้อมูลของอุปกรณ์เพื่อคัดลอกข้อมูลไปยังอุปกรณ์สวมใส่</string>
+    <string name="storage_management_wear_manage_size_label">จัดการพื้นที่เก็บข้อมูลของแอปแบบสวมใส่</string>
+    <string name="storage_management_wear_size_label">พื้นที่เก็บข้อมูลแอปแบบสวมใส่</string>
+    <string name="storage_managment_all_storage_descriptive_text">ข้อมูลรวมที่บริการ Google Play ใช้ ซึ่งรวมถึงเครื่องมือค้นหาและข้อมูลอื่นๆ</string>
+    <string name="storage_managment_clear_all_data">ล้างข้อมูลทั้งหมด</string>
+    <string name="storage_managment_computing_size">กำลังคำนวณ…</string>
+    <string name="storage_managment_icing_size_label">ข้อมูลการค้นหา</string>
+    <string name="storage_managment_manage_icing_button">จัดการข้อมูลการค้นหา</string>
+    <string name="storage_managment_search_index_descriptive_text">เราเพิ่มความเร็วในการค้นหาบนอุปกรณ์โดยให้บริการเครื่องมือค้นหาแก่แอปของคุณ</string>
+    <string name="storage_managment_title">ที่เก็บข้อมูลของบริการ Google Play</string>
+    <string name="storage_managment_total_size_label">พื้นที่เก็บข้อมูลรวม</string>
+    <string name="suw_back_button_label">กลับ</string>
+    <string name="suw_more_button_label">เพิ่มเติม</string>
+    <string name="suw_next_button_label">ถัดไป</string>
+    <string name="target_default_source_device_model">อุปกรณ์เก่า</string>
+    <string name="target_device_not_supported_cant_continue_description">คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="target_device_not_supported_cant_continue_title">ไม่สนับสนุนโทรศัพท์อื่น</string>
+    <string name="target_device_not_supported_try_restarting_description">"ถอดสายแล้วรีสตาร์ทโทรศัพท์เครื่องเก่า จากนั้นเสียบสายใหม่และทำตามวิธีการในโทรศัพท์ Pixel
+
+หากยังเห็นข้อผิดพลาดนี้อยู่ คุณอาจต้องลองคัดลอกด้วยวิธีอื่น"</string>
+    <string name="target_device_not_supported_try_restarting_title">อาจไม่รองรับโทรศัพท์</string>
+    <string name="target_smart_device_timeout_add_account">เพิ่มบัญชี</string>
+    <string name="target_smart_device_timeout_description">คุณอาจลองเพิ่มบัญชีด้วยตนเองหากต้องการ</string>
+    <string name="target_smart_device_timeout_dismiss">ปิด</string>
+    <string name="target_smart_device_timeout_title">หากพบปัญหา</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">เชื่อมต่อโทรศัพท์แล้ว</string>
+    <string name="toast_reconnect_cable">เชื่อมต่อสายอีกครั้ง</string>
+    <string name="transfer_finished_fragment_title">กำลังเพิ่มการดำเนินการขั้นสุดท้าย...</string>
+    <string name="transfer_summary_copied">คัดลอกข้อมูลแล้ว</string>
+    <string name="transfer_summary_fragment_description">คุณสามารถถอดสายออกได้</string>
+    <string name="transfer_summary_fragment_finish">เสร็จสิ้น</string>
+    <string name="transfer_summary_fragment_title">โทรศัพท์เกือบพร้อมใช้งานแล้ว</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">ไม่ได้คัดลอกรูปภาพบางรายการ <annotation id="transfer_summary_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="transfer_summary_not_copied">ไม่ได้คัดลอกข้อมูล</string>
+    <string name="transfer_summary_partial">คัดลอกแล้ว %1$s/%2$s รายการ</string>
+    <string name="transfer_summary_will_sync">ข้อมูลจะซิงค์หลังการตั้งค่า</string>
+    <string name="transferring_fragment_calculating_remaining_time">กำลังคำนวณเวลาที่เหลือ...</string>
+    <string name="transferring_fragment_header">กำลังคัดลอก...</string>
+    <string name="transferring_fragment_remaining_time">เหลืออีก %1$s</string>
+    <string name="trust_instructions_description">หากต้องการดำเนินการต่อ ให้ตรวจสอบอุปกรณ์ iPhone® และอนุมัติการเชื่อมต่อ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari และ iTunes เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+</resources>

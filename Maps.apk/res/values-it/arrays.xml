@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Qualsiasi</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Qualsiasi livello di prezzo</item>
+        <item>Economico</item>
+        <item>Abbastanza costoso</item>
+        <item>Costoso</item>
+        <item>Molto costoso</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Qualsiasi</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Qualsiasi numero di stelle</item>
+        <item>Due o più stelle</item>
+        <item>Tre o più stelle</item>
+        <item>Quattro o più stelle</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Qualsiasi</item>
+        <item>3 stelle</item>
+        <item>4 stelle</item>
+        <item>5 stelle</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Qualsiasi</item>
+        <item>Tre stelle</item>
+        <item>Quattro stelle</item>
+        <item>Cinque stelle</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Non mi è piaciuto per niente</item>
+        <item>Non mi è piaciuto</item>
+        <item>Buono</item>
+        <item>Mi è piaciuto</item>
+        <item>Mi è piaciuto molto</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>Quando aumenti o diminuisci lo zoom</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Spiega ad altri perché hai detestato questo posto.</item>
+        <item>Spiega ad altri perché non ti è piaciuto questo posto.</item>
+        <item>Fai sapere perché ti è piaciuto questo posto.</item>
+        <item>Spiega ad altri perché ti è piaciuto questo posto.</item>
+        <item>Spiega ad altri perché questo posto ti è sembrato fantastico.</item>
+    </string-array>
+</resources>

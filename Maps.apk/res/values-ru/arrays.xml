@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>А</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>В</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Любая</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Любая цена</item>
+        <item>Дешево</item>
+        <item>Не очень дорого</item>
+        <item>Дорого</item>
+        <item>Очень дорого</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Любая</item>
+        <item>2,0</item>
+        <item>3,0</item>
+        <item>4,0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Любой рейтинг</item>
+        <item>2 звезды и выше</item>
+        <item>3 звезды и выше</item>
+        <item>4 звезды и выше</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Любой</item>
+        <item>3 звезды</item>
+        <item>4 звезды</item>
+        <item>5 звезд</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Любой</item>
+        <item>Три звезды</item>
+        <item>Четыре звезды</item>
+        <item>Пять звезд</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Ужасно</item>
+        <item>Плохо</item>
+        <item>Нормально</item>
+        <item>Хорошо</item>
+        <item>Отлично</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>При изменении</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Расскажите, почему вам совсем не понравилось это место.</item>
+        <item>Расскажите, почему вам не понравилось это место.</item>
+        <item>Расскажите подробнее об этом месте.</item>
+        <item>Расскажите, почему вам понравилось это место.</item>
+        <item>Расскажите, почему вам очень понравилось это место.</item>
+    </string-array>
+</resources>

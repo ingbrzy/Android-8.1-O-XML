@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Barcha %1$d ta ilova</item>
+        <item quantity="one">1 ta ilova</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d ta ilova belgilandi</item>
+        <item quantity="one">1 ta ilova belgilandi</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d ta ilova allaqachon o‘rnatilgan</item>
+        <item quantity="one">1 ta ilova allaqachon o‘rnatilgan</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Zaxirada %1$d ta ilova bor. Yangi qurilmada ko‘chirish uchun zarurlarini belgilang.</item>
+        <item quantity="one">Zaxirada %1$d ta ilova bor.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">Qurilmada %1$d ta kontakt</item>
+        <item quantity="one">Qurilmada 1 ta kontakt</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM kartada %1$d ta kontakt, qurilmada %2$d ta kontakt</item>
+        <item quantity="one">SIM kartada %1$d ta kontakt, qurilmada %2$d ta kontakt</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d ta iCloud® kontakti</item>
+        <item quantity="one">1 ta iCloud® kontakti</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d ta kontakt (SIM karta)</item>
+        <item quantity="one">1 ta kontakt (SIM karta)</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d ta ilova topildi. Yangi qurilmada ko‘chirish uchun zarurlarini belgilang.</item>
+        <item quantity="one">%1$d ta ilova topildi. Yangi qurilmaga ko‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">%1$d ta iOS® ilovaga o‘xshashi topildi. Har bir ilovani o‘rnatish bilan uning ruxsatlariga rozilik bildirgan hisoblanasiz. &lt;annotation id="apps_permissions_learn_more">Batafsil ma’lumot&lt;/annotation></item>
+        <item quantity="one">1 ta iOS® ilovaga o‘xshashi topildi. Bu ilovani o‘rnatish bilan uning ruxsatlariga rozilik bildirgan hisoblanasiz. &lt;annotation id="apps_permissions_learn_more">Batafsil ma’lumot&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d ta element qoldi…</item>
+        <item quantity="one">%1$d ta element qoldi…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Diqqat! Ushbu tadbirdan quyidagi qatnashuvchilar olib tashlandi:</item>
+        <item quantity="one">Diqqat! Ushbu tadbirdan quyidagi qatnashuvchi olib tashlandi:</item>
+    </plurals>
+</resources>

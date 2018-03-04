@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="AAP_SUGGEST_LABEL">
+        <item quantity="other">周辺の候補地</item>
+        <item quantity="one">周辺の候補地</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f つ星</item>
+        <item quantity="one">%.1f つ星</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d つ星</item>
+        <item quantity="one">%d つ星</item>
+    </plurals>
+    <plurals name="ADD_PHOTOS_MORE_PHOTOS_COUNT">
+        <item quantity="other">他 %d 枚の写真</item>
+        <item quantity="one">他 %d 枚の写真</item>
+    </plurals>
+    <plurals name="CAR_BUSINESS_ATTRIBUTION">
+        <item quantity="other">参照元: %s</item>
+        <item quantity="one">参照元: %s</item>
+    </plurals>
+    <plurals name="CONTRIBUTIONS_SHARE_DESCRIPTION_LOCAL_GUIDE">
+        <item quantity="other">レベル %d のローカルガイド</item>
+        <item quantity="one">レベル %d のローカルガイド</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d 日</item>
+        <item quantity="one">%d 日</item>
+    </plurals>
+    <plurals name="DA_DAYS_ABBREVIATED">
+        <item quantity="other">%s 日</item>
+        <item quantity="one">%s 日</item>
+    </plurals>
+    <plurals name="DA_DAYS_SHORT">
+        <item quantity="other">%d 日</item>
+        <item quantity="one">%d 日</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="DA_HOURS_ABBREVIATED">
+        <item quantity="other">%s 時間</item>
+        <item quantity="one">%s 時間</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="DA_MINUTES_ABBREVIATED">
+        <item quantity="other">%s 分</item>
+        <item quantity="one">%s 分</item>
+    </plurals>
+    <plurals name="DA_MINUTES_BARE_FOLLOWING_HOURS">
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">そのまま %1$s フィート進みます</item>
+        <item quantity="one">そのまま %1$s フィート進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">そのまま %1$s キロ進みます</item>
+        <item quantity="one">そのまま %1$s キロ進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">そのまま %1$s m 進みます</item>
+        <item quantity="one">そのまま %1$s m 進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">そのまま %1$s マイル進みます</item>
+        <item quantity="one">そのまま %1$s マイル進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">そのまま %1$s ヤード進みます</item>
+        <item quantity="one">そのまま %1$s ヤード進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">そのまま「%2$s」を %1$s フィート進みます</item>
+        <item quantity="one">そのまま「%2$s」を %1$s フィート進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">そのまま「%2$s」を %1$s キロ進みます</item>
+        <item quantity="one">そのまま「%2$s」を %1$s キロ進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">そのまま「%2$s」を %1$s m 進みます</item>
+        <item quantity="one">そのまま「%2$s」を %1$s m 進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">そのまま「%2$s」を %1$s マイル進みます</item>
+        <item quantity="one">そのまま「%2$s」を %1$s マイル進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">そのまま「%2$s」を %1$s ヤード進みます</item>
+        <item quantity="one">そのまま「%2$s」を %1$s ヤード進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">およそ %1$s フィート先</item>
+        <item quantity="one">およそ %1$s フィート先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">およそ %1$s キロ先</item>
+        <item quantity="one">およそ %1$s キロ先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">およそ %1$s m 先</item>
+        <item quantity="one">およそ %1$s m 先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">およそ %1$s マイル先</item>
+        <item quantity="one">およそ %1$s マイル先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">およそ %1$s ヤード先</item>
+        <item quantity="one">およそ %1$s ヤード先</item>
+    </plurals>
+    <plurals name="DA_SPEED_FORMAT_KILOMETERS_PER_HOUR_EXTENDED">
+        <item quantity="other">%s km/時</item>
+        <item quantity="one">%s km/時</item>
+    </plurals>
+    <plurals name="DA_SPEED_FORMAT_MILES_PER_HOUR_EXTENDED">
+        <item quantity="other">%s マイル/時</item>
+        <item quantity="one">%s マイル/時</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_FEET_AHEAD">
+        <item quantity="other">目的地まであと %1$s フィートです</item>
+        <item quantity="one">目的地まであと %1$s フィートです</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_KILOMETERS_AHEAD">
+        <item quantity="other">目的地まであと %1$s キロです</item>
+        <item quantity="one">目的地まであと %1$s キロです</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_METERS_AHEAD">
+        <item quantity="other">目的地まであと %1$s m です</item>
+        <item quantity="one">目的地まであと %1$s m です</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_MILES_AHEAD">
+        <item quantity="other">目的地まであと %1$s マイルです</item>
+        <item quantity="one">目的地まであと %1$s マイルです</item>
+    </plurals>
+    <plurals name="DA_YOUR_DESTINATION_IS_X_YARDS_AHEAD">
+        <item quantity="other">目的地まであと %1$s ヤードです</item>
+        <item quantity="one">目的地まであと %1$s ヤードです</item>
+    </plurals>
+    <plurals name="DIRECTIONS_COUNT_STOPS">
+        <item quantity="other">%d 駅</item>
+        <item quantity="one">%d 駅</item>
+    </plurals>
+    <plurals name="DIRECTIONS_MORE_TRAFFIC_DISRUPTIONS">
+        <item quantity="other">他に %1$s 件の交通情報があります</item>
+        <item quantity="one">他に %1$s 件の交通情報があります</item>
+    </plurals>
+    <plurals name="EDIT_PUBLISHED_NOTIFICATION_TITLE">
+        <item quantity="other">%d 件の編集内容が公開されました</item>
+        <item quantity="one">編集内容が公開されました</item>
+    </plurals>
+    <plurals name="HOTEL_RESERVATION_NUMBER_OF_NIGHTS_TEXT">
+        <item quantity="other">%d 泊</item>
+        <item quantity="one">%d 泊</item>
+    </plurals>
+    <plurals name="HOTEL_STAR_CLASS">
+        <item quantity="other">%d つ星のホテル</item>
+        <item quantity="one">%d つ星のホテル</item>
+    </plurals>
+    <plurals name="LAST_HERE_DAYS_AGO">
+        <item quantity="other">%d 日前に訪れた場所です</item>
+        <item quantity="one">%d 日前に訪れた場所です</item>
+    </plurals>
+    <plurals name="LAST_HERE_MONTHS_AGO">
+        <item quantity="other">%d か月前に訪問した場所です</item>
+        <item quantity="one">%d か月前に訪問した場所です</item>
+    </plurals>
+    <plurals name="LAST_HERE_WEEKS_AGO">
+        <item quantity="other">%d 週間前に訪問した場所です</item>
+        <item quantity="one">%d 週間前に訪問した場所です</item>
+    </plurals>
+    <plurals name="LAST_HERE_YEARS_AGO">
+        <item quantity="other">%d 年前に訪問した場所です</item>
+        <item quantity="one">%d 年前に訪問した場所です</item>
+    </plurals>
+    <plurals name="LIST_COUNT_PLACES">
+        <item quantity="other">%d か所</item>
+        <item quantity="one">%d か所</item>
+    </plurals>
+    <plurals name="LOCAL_GUIDES_POINTS_TEXT">
+        <item quantity="other">%d ポイント</item>
+        <item quantity="one">%d ポイント</item>
+    </plurals>
+    <plurals name="LOCAL_GUIDE_CURRENT_LEVEL">
+        <item quantity="other">レベル %d</item>
+        <item quantity="one">レベル %d</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_DAYS_AGO">
+        <item quantity="other">%d 日前に更新済み</item>
+        <item quantity="one">%d 日前に更新済み</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_DAYS_AGO_SHORT">
+        <item quantity="other">%d 日前</item>
+        <item quantity="one">%d 日前</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_HOURS_AGO">
+        <item quantity="other">%d 時間前に更新済み</item>
+        <item quantity="one">%d 時間前に更新済み</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_HOURS_AGO_SHORT">
+        <item quantity="other">%d 時間前</item>
+        <item quantity="one">%d 時間前</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_MINUTES_ABBREVIATED_AGO">
+        <item quantity="other">%d 分前に更新済み</item>
+        <item quantity="one">%d 分前に更新済み</item>
+    </plurals>
+    <plurals name="LOCATION_UPDATED_MINUTES_ABBREVIATED_AGO_SHORT">
+        <item quantity="other">%d 分前</item>
+        <item quantity="one">%d 分前</item>
+    </plurals>
+    <plurals name="MAPS_ACTIVITY_PHOTOS_REMOVED">
+        <item quantity="other">写真を削除しました</item>
+        <item quantity="one">写真を削除しました</item>
+    </plurals>
+    <plurals name="MONTHS_AGO">
+        <item quantity="other">%d か月前</item>
+        <item quantity="one">%d か月前</item>
+    </plurals>
+    <plurals name="MY_MAPS_PHOTO_VIDEO_COUNT">
+        <item quantity="other">%d 枚の写真や動画</item>
+        <item quantity="one">%d 枚の写真や動画</item>
+    </plurals>
+    <plurals name="MY_MAPS_VIDEO_COUNT">
+        <item quantity="other">%d 本の動画</item>
+        <item quantity="one">%d 本の動画</item>
+    </plurals>
+    <plurals name="NUMBER_OF_CONTRIBUTIONS">
+        <item quantity="other">%d 件</item>
+        <item quantity="one">%d 件</item>
+    </plurals>
+    <plurals name="NUMBER_OF_LOCAL_GUIDE_POINTS">
+        <item quantity="other">%d ポイント</item>
+        <item quantity="one">%d ポイント</item>
+    </plurals>
+    <plurals name="NUMBER_OF_PLACES">
+        <item quantity="other">%d か所</item>
+        <item quantity="one">%d か所</item>
+    </plurals>
+    <plurals name="OFFLINE_MAPS_CARD_TITLE">
+        <item quantity="other">%d 件のオフライン エリア</item>
+        <item quantity="one">%d 件のオフライン エリア</item>
+    </plurals>
+    <plurals name="PERSONAL_CALENDAR_EVENTS_TITLE">
+        <item quantity="other">予定（Google カレンダーから取得）</item>
+        <item quantity="one">予定（Google カレンダーから取得）</item>
+    </plurals>
+    <plurals name="PERSONAL_CALENDAR_OTHER_PARTICIPANTS_COUNT">
+        <item quantity="other">他 %d 人</item>
+        <item quantity="one">他 %d 人</item>
+    </plurals>
+    <plurals name="PERSONAL_GMAIL_RESERVATIONS_AND_CALENDAR_EVENTS_TITLE">
+        <item quantity="other">予定（Gmail と Google カレンダーから取得）</item>
+        <item quantity="one">予定（Gmail と Google カレンダーから取得）</item>
+    </plurals>
+    <plurals name="PERSONAL_GMAIL_RESERVATIONS_TITLE">
+        <item quantity="other">予約情報（Gmail から取得）</item>
+        <item quantity="one">予約情報（Gmail から取得）</item>
+    </plurals>
+    <plurals name="PERSONAL_RESERVATIONS_SUBTITLE">
+        <item quantity="other">このカードは自分だけが閲覧できます</item>
+        <item quantity="one">このカードは自分だけが閲覧できます</item>
+    </plurals>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d 枚の写真</item>
+        <item quantity="one">%d 枚の写真</item>
+    </plurals>
+    <plurals name="PHOTOS_UPLOADING_PHOTOS">
+        <item quantity="other">%d 枚の写真をアップロード中</item>
+        <item quantity="one">%d 枚の写真をアップロード中</item>
+    </plurals>
+    <plurals name="PHOTO_TAKEN_NOTIFICATION_TAP_TO_ADD_PHOTO_MULTIPLE">
+        <item quantity="other">%2$sでの %1$d 枚の写真を追加しましょう</item>
+        <item quantity="one">%2$sでの %1$d 枚の写真を追加しましょう</item>
+    </plurals>
+    <plurals name="PHOTO_TITLE">
+        <item quantity="other">写真</item>
+        <item quantity="one">写真</item>
+    </plurals>
+    <plurals name="PLACE_PAGE_EXPANDED_NUMBER_OF_REVIEWS">
+        <item quantity="other">%d 件の口コミ</item>
+        <item quantity="one">%d 件の口コミ</item>
+    </plurals>
+    <plurals name="PLACE_PENDING_EDIT_MORE_EDITS">
+        <item quantity="other">他 %d 件の編集</item>
+        <item quantity="one">他 %d 件の編集</item>
+    </plurals>
+    <plurals name="PLUS_N_OTHER_SHARES">
+        <item quantity="other">他 %d 人</item>
+        <item quantity="one">他 %d 人</item>
+    </plurals>
+    <plurals name="POI_PROMPT_REPLACE_STOP">
+        <item quantity="other">経由地を変更</item>
+        <item quantity="one">経由地を変更</item>
+    </plurals>
+    <plurals name="POI_PROMPT_REPLACE_STOP_ACTION">
+        <item quantity="other">経由地を変更しています</item>
+        <item quantity="one">経由地を変更しています</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_PHOTO_VIEWS">
+        <item quantity="other">表示回数 %,d 回</item>
+        <item quantity="one">表示回数 %,d 回</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_RATINGS">
+        <item quantity="other">評価 %d</item>
+        <item quantity="one">評価 %d</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">%d 件の口コミ</item>
+        <item quantity="one">%d 件の口コミ</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_PHOTOS">
+        <item quantity="other">写真</item>
+        <item quantity="one">写真</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_REVIEWS">
+        <item quantity="other">口コミ</item>
+        <item quantity="one">口コミ</item>
+    </plurals>
+    <plurals name="QUESTIONS_REMAINING">
+        <item quantity="other">他に %d 個の質問があります。</item>
+        <item quantity="one">他に %d 個の質問があります。</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_DAYS_AGO_NOTICE">
+        <item quantity="other">%d 日前に更新</item>
+        <item quantity="one">%d 日前に更新</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_HOURS_AGO_NOTICE">
+        <item quantity="other">%d 時間前に更新</item>
+        <item quantity="one">%d 時間前に更新</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_MINUTES_AGO_CONTENT_DESCRIPTION">
+        <item quantity="other">%d 分前に更新</item>
+        <item quantity="one">%d 分前に更新</item>
+    </plurals>
+    <plurals name="REAL_TIME_DATA_UPDATED_MINUTES_AGO_NOTICE">
+        <item quantity="other">%d 分前に更新</item>
+        <item quantity="one">%d 分前に更新</item>
+    </plurals>
+    <plurals name="RELATED_PLACES_MORE">
+        <item quantity="other">他 %d か所</item>
+        <item quantity="one">他 %d か所</item>
+    </plurals>
+    <plurals name="RESERVATION_PARTY_SIZE">
+        <item quantity="other">%d 人</item>
+        <item quantity="one">%d 人</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s さんと他 %2$d 人</item>
+        <item quantity="one">%1$s さんと他 %2$d 人</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d 人</item>
+        <item quantity="one">%d 人</item>
+    </plurals>
+    <plurals name="REVIEW_THUMBS_UP_PEOPLE_COUNT">
+        <item quantity="other">%d 人</item>
+        <item quantity="one">%d 人</item>
+    </plurals>
+    <plurals name="ROAD_CLOSURES_CARD_TITLE">
+        <item quantity="other">道路閉鎖</item>
+        <item quantity="one">道路閉鎖</item>
+    </plurals>
+    <plurals name="SAVED_IN_MORE_LISTS_COUNT">
+        <item quantity="other">他 %d 件のリスト</item>
+        <item quantity="one">他 %d 件のリスト</item>
+    </plurals>
+    <plurals name="SAVE_VISIT_N_DAYS_AGO">
+        <item quantity="other">%d 日前の訪問履歴を保存しますか？</item>
+        <item quantity="one">%d 日前の訪問履歴を保存しますか？</item>
+    </plurals>
+    <plurals name="SEARCH_SUGGESTED_SET_SUBTITLE_MORE_COUNT">
+        <item quantity="other">、他 %d 件</item>
+        <item quantity="one">、他 %d 件</item>
+    </plurals>
+    <plurals name="SEAT_COUNT_LABEL">
+        <item quantity="other">%d 席</item>
+        <item quantity="one">%d 席</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_DAYS">
+        <item quantity="other">%d 日</item>
+        <item quantity="one">%d 日</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_HOURS">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="SHARING_LOCATION_FOR_MINUTES_ABBREVIATED">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="STARTING_PHOTO_UPLOADS_TITLE">
+        <item quantity="other">マップに %d 枚の写真の追加開始中</item>
+        <item quantity="one">マップに %d 枚の写真の追加開始中</item>
+    </plurals>
+    <plurals name="TODO_PHOTO_MORE_PHOTOS">
+        <item quantity="other">他 %d 枚</item>
+        <item quantity="one">他 %d 枚</item>
+    </plurals>
+    <plurals name="TRANSIT_DETAILS_FREQUENT_DEPARTURE">
+        <item quantity="other">%1$s 分後に出発</item>
+        <item quantity="one">%1$s 分後に出発</item>
+    </plurals>
+    <plurals name="TRANSIT_DETAILS_FREQUENT_TWO_DEPARTURES">
+        <item quantity="other">%1$s 分後、%2$s 分後に出発</item>
+        <item quantity="one">%1$s 分後、%2$s 分後に出発</item>
+    </plurals>
+    <plurals name="TRANSIT_NUMBER_OF_ALERTS_TITLE">
+        <item quantity="other">%d 件のアラート</item>
+        <item quantity="one">%d 件のアラート</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d 駅</item>
+        <item quantity="one">%d 駅</item>
+    </plurals>
+    <plurals name="TRANSIT_RADAR_MORE_ALERTS_HIDDEN">
+        <item quantity="other">他 %d 件の運行情報</item>
+        <item quantity="one">他 %d 件の運行情報</item>
+    </plurals>
+    <plurals name="TRANSIT_SCHEMATIC_MAP_DEFAULT_BUTTON_TITLE">
+        <item quantity="other">乗換案内図</item>
+        <item quantity="one">乗換案内図</item>
+    </plurals>
+    <plurals name="TRIP_LEVEL_NOTICES_MORE_BUTTON">
+        <item quantity="other">他 %1$s 個の警告</item>
+        <item quantity="one">他 %1$s 個の警告</item>
+    </plurals>
+    <plurals name="UGC_ATTRIBUTION_PHOTOS">
+        <item quantity="other">%d 枚の写真</item>
+        <item quantity="one">%d 枚の写真</item>
+    </plurals>
+    <plurals name="UGC_ATTRIBUTION_REVIEWS">
+        <item quantity="other">%d 件の口コミ</item>
+        <item quantity="one">%d 件の口コミ</item>
+    </plurals>
+    <plurals name="UGC_TASKS_POST_SUBMIT_DIALOG_TITLE">
+        <item quantity="other">%d 個発見しました</item>
+        <item quantity="one">%d 個発見しました</item>
+    </plurals>
+    <plurals name="UNIFIED_PHOTO_UPLOAD_FLOW_NUM_OF_PHOTOS_SELECTED">
+        <item quantity="other">%d 枚を選択中</item>
+        <item quantity="one">%d 枚を選択中</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TEXT">
+        <item quantity="other">%1$d/%2$d 枚</item>
+        <item quantity="one">%1$d/%2$d 枚</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TITLE">
+        <item quantity="other">マップに %d 枚の写真を追加しています</item>
+        <item quantity="one">マップに %d 枚の写真を追加しています</item>
+    </plurals>
+    <plurals name="UPLOAD_PENDING_TASK_TITLE">
+        <item quantity="other">"Wi-Fi 接続の待機中
+ %d 枚の写真の保留中"</item>
+        <item quantity="one">"Wi-Fi 接続の待機中
+ %d 枚の写真の保留中"</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_DISCLAIMER_TITLEBAR">
+        <item quantity="other">(%d) 枚の写真を一般公開で投稿</item>
+        <item quantity="one">一般公開で投稿</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_DISCLAIMER_TITLEBAR_NO_COUNT">
+        <item quantity="other">一般公開で投稿</item>
+        <item quantity="one">一般公開で投稿</item>
+    </plurals>
+    <plurals name="UPLOAD_PHOTO_PHOTOS_SELECTED">
+        <item quantity="other">%d 枚の写真を選択しました</item>
+        <item quantity="one">%d 枚の写真を選択しました</item>
+    </plurals>
+    <plurals name="WEEKS_AGO">
+        <item quantity="other">%d 週間前</item>
+        <item quantity="one">%d 週間前</item>
+    </plurals>
+    <plurals name="YEARS_AGO">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+</resources>

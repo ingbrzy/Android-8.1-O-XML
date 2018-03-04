@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Hodnotilo %2$d lidí. Průměrný počet hvězdiček: %1$s</item>
+        <item quantity="one">Hodnotil jeden človek. Počet hvězdiček: %1$s</item>
+        <item quantity="few">Hodnotili %2$d lidé. Průměrný počet hvězdiček: %1$s</item>
+        <item quantity="many">Hodnotilo %2$d člověka. Průměrný počet hvězdiček: %1$s</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Platnost vyprší za %1$d dnů</item>
+        <item quantity="one">Platnost vyprší za %1$d den</item>
+        <item quantity="few">Platnost vyprší za %1$d dny</item>
+        <item quantity="many">Platnost vyprší za %1$d dne</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Platnost vyprší za %1$d hodin</item>
+        <item quantity="one">Platnost vyprší za %1$d hodinu</item>
+        <item quantity="few">Platnost vyprší za %1$d hodiny</item>
+        <item quantity="many">Platnost vyprší za %1$d hodiny</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Ještě %1$d</item>
+        <item quantity="one">Ještě %1$d</item>
+        <item quantity="few">Ještě %1$d</item>
+        <item quantity="many">Ještě %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontaktų pridėta prie etiketės „%2$s“</item>
+        <item quantity="one">%1$d kontaktas pridėtas prie etiketės „%2$s“</item>
+        <item quantity="few">%1$d kontaktai pridėti prie etiketės „%2$s“</item>
+        <item quantity="many">%1$d kontakto pridėta prie etiketės „%2$s“</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Pridedama %1$d kontaktų prie etiketės „%2$s“ grupės</item>
+        <item quantity="one">Pridedamas %1$d kontaktas prie etiketės „%2$s“ grupės</item>
+        <item quantity="few">Pridedami %1$d kontaktai prie etiketės „%2$s“ grupės</item>
+        <item quantity="many">Pridedama %1$d kontakto prie etiketės „%2$s“ grupės</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Peržiūrėkite siūlomą %d kontaktų informaciją</item>
+        <item quantity="one">Peržiūrėkite siūlomą %d kontakto informaciją</item>
+        <item quantity="few">Peržiūrėkite siūlomą %d kontaktų informaciją</item>
+        <item quantity="many">Peržiūrėkite siūlomą %d kontakto informaciją</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d šlamštą siunčiančių kontaktų</item>
+        <item quantity="one">%d šlamštą siunčiantis kontaktas</item>
+        <item quantity="few">%d šlamštą siunčiantys kontaktai</item>
+        <item quantity="many">%d šlamštą siunčiančio kontakto</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d tikslių kontaktų kopijų</item>
+        <item quantity="one">%d tiksli kontakto kopija</item>
+        <item quantity="few">%d tikslios kontaktų kopijos</item>
+        <item quantity="many">%d tikslios kontakto kopijos</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d naujausių skambučių • Paskutinį kartą skambinta %2$s</item>
+        <item quantity="one">%1$d naujausias skambutis • Paskutinį kartą skambinta %2$s</item>
+        <item quantity="few">%1$d naujausi skambučiai • Paskutinį kartą skambinta %2$s</item>
+        <item quantity="many">%1$d naujausio skambučio • Paskutinį kartą skambinta %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontaktai jau pridėti prie etiketės „%1$s“</item>
+        <item quantity="one">Kontaktai jau pridėti prie etiketės „%1$s“</item>
+        <item quantity="few">Kontaktai jau pridėti prie etiketės „%1$s“</item>
+        <item quantity="many">Kontaktai jau pridėti prie etiketės „%1$s“</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktų</item>
+        <item quantity="one">%d kontaktas</item>
+        <item quantity="few">%d kontaktai</item>
+        <item quantity="many">%d kontakto</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktų %2$s</item>
+        <item quantity="one">%1$d kontaktas %2$s</item>
+        <item quantity="few">%1$d kontaktai %2$s</item>
+        <item quantity="many">%1$d kontakto %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Ištrinta %1$d kontaktų</item>
+        <item quantity="one">Ištrintas %1$d kontaktas</item>
+        <item quantity="few">Ištrinti %1$d kontaktai</item>
+        <item quantity="many">Ištrinta %1$d kontakto</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Šie kontaktai bus pašalinti iš „Google“ kontaktų ir visų sinchronizuojamų įrenginių</item>
+        <item quantity="one">Šie kontaktai bus pašalinti iš „Google“ kontaktų ir visų sinchronizuojamų įrenginių</item>
+        <item quantity="few">Šie kontaktai bus pašalinti iš „Google“ kontaktų ir visų sinchronizuojamų įrenginių</item>
+        <item quantity="many">Šie kontaktai bus pašalinti iš „Google“ kontaktų ir visų sinchronizuojamų įrenginių</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktų kitose jūsų paskyrose</item>
+        <item quantity="one">%1$d kontaktas kitose jūsų paskyrose</item>
+        <item quantity="few">%1$d kontaktai kitose jūsų paskyrose</item>
+        <item quantity="many">%1$d kontakto kitose jūsų paskyrose</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktų</item>
+        <item quantity="one">%1$d kontaktas</item>
+        <item quantity="few">%1$d kontaktai</item>
+        <item quantity="many">%1$d kontakto</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktų • ^2</item>
+        <item quantity="one">^1 kontaktas • ^2</item>
+        <item quantity="few">^1 kontaktai • ^2</item>
+        <item quantity="many">^1 kontakto • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Perkelti šiuos %1$d kontaktų į paskyrą %2$s?</item>
+        <item quantity="one">Perkelti šį %1$d kontaktą į paskyrą %2$s?</item>
+        <item quantity="few">Perkelti šiuos %1$d kontaktus į paskyrą %2$s?</item>
+        <item quantity="many">Perkelti šiuos %1$d kontakto į paskyrą %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Perkelta %d kontaktų</item>
+        <item quantity="one">Perkeltas %d kontaktas</item>
+        <item quantity="few">Perkelti %d kontaktai</item>
+        <item quantity="many">Perkelta %d kontakto</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d kontaktų perkėlimo procesas baigtas</item>
+        <item quantity="one">%d kontakto perkėlimo procesas baigtas</item>
+        <item quantity="few">%d kontaktų perkėlimo procesas baigtas</item>
+        <item quantity="many">%d kontakto perkėlimo procesas baigtas</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Perkeliama %d kontaktų</item>
+        <item quantity="one">Perkeliamas %d kontaktas</item>
+        <item quantity="few">Perkeliami %d kontaktai</item>
+        <item quantity="many">Perkeliama %d kontakto</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Atsarginė %1$d kontaktų kopija sukurta paskyroje %2$s</item>
+        <item quantity="one">Atsarginė %1$d kontakto kopija sukurta paskyroje %2$s</item>
+        <item quantity="few">Atsarginė %1$d kontaktų kopija sukurta paskyroje %2$s</item>
+        <item quantity="many">Atsarginė %1$d kontakto kopija sukurta paskyroje %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importavimas iš SIM kortelių</item>
+        <item quantity="one">Importavimas iš SIM kortelių</item>
+        <item quantity="few">Importavimas iš SIM kortelių</item>
+        <item quantity="many">Importavimas iš SIM kortelių</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktų</item>
+        <item quantity="one">%d kontaktas</item>
+        <item quantity="few">%d kontaktai</item>
+        <item quantity="many">%d kontakto</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Importuota %d SIM kortelės kontaktų</item>
+        <item quantity="one">Importuotas %d SIM kortelės kontaktas</item>
+        <item quantity="few">Importuoti %d SIM kortelės kontaktai</item>
+        <item quantity="many">Importuota %d SIM kortelės kontakto</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Bendrinti kontaktus naudojant</item>
+        <item quantity="one">Bendrinti kontaktus naudojant</item>
+        <item quantity="few">Bendrinti kontaktus naudojant</item>
+        <item quantity="many">Bendrinti kontaktus naudojant</item>
+    </plurals>
+</resources>

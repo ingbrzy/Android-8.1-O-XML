@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Kesemua %1$d apl</item>
+        <item quantity="one">1 apl</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d apl dipilih</item>
+        <item quantity="one">1 apl dipilih</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d apl sudah dipasang</item>
+        <item quantity="one">1 apl sudah dipasang</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Sandaran anda ada %1$d apl. Pilih beberapa apl atau pulihkan semuanya.</item>
+        <item quantity="one">Sandaran anda ada %1$d apl.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kenalan peranti</item>
+        <item quantity="one">1 kenalan peranti</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d peranti</item>
+        <item quantity="one">%1$d SIM, %2$d peranti</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d kenalan iCloud®</item>
+        <item quantity="one">1 kenalan iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kenalan SIM</item>
+        <item quantity="one">1 kenalan SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Kami menemui %1$d apl. Pilih beberapa apl atau pulihkan semuanya.</item>
+        <item quantity="one">Kami menemui %1$d apl. Adakah anda mahu memulihkannya ke peranti baharu?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Kami menemui padanan untuk %1$d apl iOS® anda. Dengan memasang setiap apl, anda bersetuju menerima kebenarannya. &lt;annotation id="apps_permissions_learn_more">Ketahui lebih lanjut&lt;/annotation></item>
+        <item quantity="one">Kami menemui padanan untuk salah satu apl iOS® anda. Dengan memasang apl ini, anda bersetuju menerima kebenarannya. &lt;annotation id="apps_permissions_learn_more">Ketahui lebih lanjut&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d item lagi…</item>
+        <item quantity="one">%1$d item lagi…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Makluman! Acara ini tidak lagi termasuk hadirin berikut:</item>
+        <item quantity="one">Makluman! Acara ini tidak lagi termasuk hadirin berikut:</item>
+    </plurals>
+</resources>

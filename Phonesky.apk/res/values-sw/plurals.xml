@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Ukadiriaji wako: nyota %1$s</item>
+        <item quantity="one">Ukadiriaji wako: nyota %1$s</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">Maoni %1$d</item>
+        <item quantity="one">Maoni %1$d</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">Maoni %1$d ya ukadiriaji wa nyota %2$d</item>
+        <item quantity="one">Maoni %1$d ya ukadiriaji wa nyota %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Imesitisha kusakinisha</item>
+        <item quantity="one">Imesitisha kusakinisha</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Programu zilichanganuliwa siku %1$d zilizopita</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Programu %1$d hatari zimeondolewa. %2$s.</item>
+        <item quantity="one">Programu %1$d hatari imeondolewa. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Masasisho %1$d yanahitaji kuidhinishwa</item>
+        <item quantity="one">Sasisho %1$d linahitaji kuidhinishwa</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">Masasisho %1$d mapya</item>
+        <item quantity="one">Sasisho %1$d jipya</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Masasisho %1$d yanapatikana</item>
+        <item quantity="one">Sasisho %1$d linapatikana</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Sasisha zote</item>
+        <item quantity="one">Sasisha</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Programu %1$d zimesasishwa</item>
+        <item quantity="one">Programu %1$d imesasishwa</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> nyota %2$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> nyota %2$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> nyota %2$s - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> nyota %2$s - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s nyota - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s nyota - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">Watumiaji %1$d walisema maoni haya yaliwasaidia. Wekea maoni alama kuwa yanasaidia</item>
+        <item quantity="one">Mtumiaji %1$d alisema maoni haya yalimsaidia. Wekea maoni alama kuwa yanasaidia</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">Watumiaji %1$d walisema kuwa maoni haya yaliwafaa. Ondoa alama ya kuonyesha kuwa maoni yanafaa</item>
+        <item quantity="one">Mtumiaji %1$d alisema kuwa maoni haya yalimfaa. Ondoa alama ya kuonyesha kuwa maoni yanafaa</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Waliikadiria nyota &lt;b>%1$s &lt;/b></item>
+        <item quantity="one">Aliikadiria nyota &lt;b>%1$s &lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">katika maoni %1$s</item>
+        <item quantity="one">katika maoni %1$s</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b> nyota %1$s &lt;/b> %2$s</item>
+        <item quantity="one">&lt;b> nyota %1$s &lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Mara ya mwisho kilitumiwa siku %1$d zilizopita</item>
+        <item quantity="one">Mara ya mwisho kilitumiwa siku %1$d iliyopita</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Rejesha programu %1$d ulizochagua</item>
+        <item quantity="one">Rejesha programu uliyochagua</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">nyota</item>
+        <item quantity="one">nyota</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Itasakinisha programu hivi karibuni.</item>
+        <item quantity="one">Itasakinisha programu hivi karibuni.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Itasakinisha masasisho ya programu hivi.</item>
+        <item quantity="one">Itasakinisha sasisho la programu hivi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Mara ya mwisho ilitumiwa siku %1$d zilizopita</item>
+        <item quantity="one">Mara ya mwisho ilitumiwa siku %1$d iliyopita</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Mara ya mwisho ilitumiwa miezi %1$d iliyopita</item>
+        <item quantity="one">Mara ya mwisho ilitumiwa mwezi %1$d uliopita</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Ili kusakinisha programu au masasisho kwenye kifaa hiki, futa programu ambazo huhitaji tena. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika Mipangilio ya Hifadhi.</item>
+        <item quantity="one">Ili kusakinisha programu au sasisho kwenye kifaa hiki, futa programu ambazo huhitaji. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika Mipangilio ya Hifadhi.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Ili kusakinisha programu au masasisho kwenye kifaa hiki, futa programu ambazo huhitaji tena. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika &lt;a href=\"\"> Mipangilio> Hifadhi &lt;/a>.</item>
+        <item quantity="one">Ili kusakinisha programu au sasisho kwenye kifaa hiki, futa programu ambazo huhitaji. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika &lt;a href=\"\"> Mipangilio> Hifadhi &lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Ili kusakinisha programu au masasisho kwenye kifaa hiki, futa programu ambazo huhitaji tena. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika Mipangilio > Hifadhi.</item>
+        <item quantity="one">Ili kusakinisha programu au sasisho kwenye kifaa hiki, futa programu ambazo huhitaji. Pia, unaweza kuokoa nafasi kwa kufuta faili za maudhui katika Mipangilio > Hifadhi.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d እውቂያዎች ወደ መሰየሚያ %2$s ታክለዋል</item>
+        <item quantity="one">%1$d እውቂያዎች ወደ መሰየሚያ %2$s ታክለዋል</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d ዕውቂያዎችን ወደ መለያ %2$s በማከል ላይ</item>
+        <item quantity="one">%1$d ዕውቂያዎችን ወደ መለያ %2$s በማከል ላይ</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">ግምገማ ለ%d ዕውቂያዎች መረጃ ጠቁሟል</item>
+        <item quantity="one">ግምገማ ለ%d ዕውቂያዎች መረጃ ጠቁሟል</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d አይፈለጌ ዕውቂያዎች</item>
+        <item quantity="one">%d አይፈለጌ ዕውቂያዎች</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d የተባዙ እውቂያዎች</item>
+        <item quantity="one">%d የተባዙ እውቂያዎች</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d የቅርብ ጊዜ ጥሪዎች • በመጨረሻ በ %2$s</item>
+        <item quantity="one">%1$d የቅርብ ጊዜ ጥሪዎች • በመጨረሻ በ%2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">እውቂያዎች ቀድመው ወደ መሰየሚያ %1$s ታክለዋል።</item>
+        <item quantity="one">እውቂያዎች ቀድመው ወደ መሰየሚያ %1$s ታክለዋል።</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d እውቂያዎች</item>
+        <item quantity="one">%d እውቂያዎች</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d እውቂያዎች · %2$s</item>
+        <item quantity="one">%1$d እውቂያዎች · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d ዕውቂያዎች ተሰርዘዋል</item>
+        <item quantity="one">%1$d ዕውቂያዎች ተሰርዘዋል</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">እነዚህ ዕውቂያዎች ከGoogle ዕውቂያዎች እና ከሁሉም የሰመሩ መሳሪያዎችዎ ይወገዳሉ</item>
+        <item quantity="one">እነዚህ ዕውቂያዎች ከGoogle ዕውቂያዎች እና ከሁሉም የሰመሩ መሳሪያዎችዎ ይወገዳሉ</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d ዕውቂያዎች በሌሎች መለያዎችዎ ውስጥ</item>
+        <item quantity="one">%1$d ዕውቂያዎች በሌሎች መለያዎችዎ ውስጥ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d ዕውቂያዎች</item>
+        <item quantity="one">%1$d ዕውቂያዎች</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 እውቂያዎች • ^2</item>
+        <item quantity="one">^1 እውቂያዎች • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">እነዚህ %1$d እውቂያዎች ወደ %2$s ይንቀሳቀሱ?</item>
+        <item quantity="one">እነዚህ %1$d እውቂያዎች ወደ %2$s ይንቀሳቀሱ?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d እውቂያዎች ተንቀሳቅሰዋል</item>
+        <item quantity="one">%d እውቂያዎች ተንቀሳቅሰዋል</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d እውቂያዎችን ማንቀሳቀስ ተጠናቋል</item>
+        <item quantity="one">%d እውቂያዎችን ማንቀሳቀስ ተጠናቋል</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d እውቂያዎች በማንቀሳቀስ ላይ</item>
+        <item quantity="one">%d እውቂያዎች በማንቀሳቀስ ላይ</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d ዕውቂያዎች ወደ %2$s ምትኬ ተቀምጦላቸዋል</item>
+        <item quantity="one">%1$d ዕውቂያዎች ወደ %2$s ምትኬ ተቀምጦላቸዋል</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">ከSIM ካርዶች ያምጡ</item>
+        <item quantity="one">ከSIM ካርዶች ያምጡ</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d እውቂያዎች</item>
+        <item quantity="one">%d እውቂያዎች</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d የሲም እውቂያዎች መጥተዋል</item>
+        <item quantity="one">%d የሲም እውቂያዎች መጥተዋል</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">ዕውቂያ በማን በኩል ይጋራ</item>
+        <item quantity="one">ዕውቂያ በማን በኩል ይጋራ</item>
+    </plurals>
+</resources>

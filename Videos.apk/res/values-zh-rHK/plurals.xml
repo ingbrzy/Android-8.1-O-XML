@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">由 %2$d 個人評為 %1$s 星</item>
+        <item quantity="one">由 1 個人評為 %1$s 星</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">於 %1$d 天後到期</item>
+        <item quantity="one">於 %1$d 天後到期</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">於 %1$d 小時後到期</item>
+        <item quantity="one">於 %1$d 小時後到期</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">還有 %1$d 項</item>
+        <item quantity="one">還有 %1$d 項</item>
+    </plurals>
+</resources>

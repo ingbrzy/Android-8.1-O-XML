@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d особа је дало оцену од %1$s звезд.</item>
+        <item quantity="one">%2$d особа је дала оцену од %1$s звезд.</item>
+        <item quantity="few">%2$d особе су дале оцену од %1$s звезд.</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Истиче за %1$d дана</item>
+        <item quantity="one">Истиче за %1$d дан</item>
+        <item quantity="few">Истиче за %1$d дана</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Истиче за %1$d сати</item>
+        <item quantity="one">Истиче за %1$d сат</item>
+        <item quantity="few">Истиче за %1$d сата</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Још %1$d</item>
+        <item quantity="one">Још %1$d</item>
+        <item quantity="few">Још %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Keresés törlése</string>
+    <string name="place_autocomplete_search_hint">Keresés</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="common_google_play_services_enable_button">Engedélyezés</string>
+    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_install_button">Telepítés</string>
+    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
+    <string name="anomaly_entry_system">Android rendszer</string>
+    <string name="background_battery_usage_description">A rendszer magas akkumulátorfogyasztást észlelt a háttérben</string>
+    <string name="battery_history_days">%1$d n %2$d ó %3$d p %4$d mp</string>
+    <string name="battery_history_hours">%1$d ó %2$d p %3$d mp</string>
+    <string name="battery_history_minutes">%1$d p %2$d mp</string>
+    <string name="battery_history_seconds">%1$d mp</string>
+    <string name="battery_history_days_no_seconds">%1$d n %2$d ó %3$d p</string>
+    <string name="battery_history_hours_no_seconds">%1$d ó %2$d p</string>
+    <string name="battery_history_minutes_no_seconds">%1$d p</string>
+    <string name="notification_channel_name">Értesítés alacsony töltöttségi szintről</string>
+    <string name="time_remaining_warning_subtext">Körülbelül %1$s van hátra az eszköz igénybevétele alapján</string>
+    <string name="time_remaining_warning_text">Az akkumulátor hamarosan lemerül</string>
+    <string name="usage_alerts_empty_state">Nem érkezett értesítés az utolsó teljes akkumulátortöltés óta</string>
+    <string name="usage_alerts_title">Használati értesítések</string>
+</resources>

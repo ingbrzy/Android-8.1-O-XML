@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontakte u shtuan tek etiketa %2$s</item>
+        <item quantity="one">%1$d kontakt u shtua tek etiketa %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d kontakte po shtohen tek etiketa %2$s</item>
+        <item quantity="one">%1$d kontakt po shtohet tek etiketa %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Rishiko informacionet e sugjeruara për %d kontakte</item>
+        <item quantity="one">Rishiko informacionet e sugjeruara për %d kontakt</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d kontakte të padëshiruara</item>
+        <item quantity="one">%d kontakt i padëshiruar</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontakte dublikatë</item>
+        <item quantity="one">1 kontakt dublikatë</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d telefonata së fundi • E fundit më %2$s</item>
+        <item quantity="one">%1$d telefonatë së fundi • E fundit më %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontaktet janë shtuar tashmë tek etiketa %1$s</item>
+        <item quantity="one">Kontakti është shtuar tashmë tek etiketa %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontakte</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontakte · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontakte u fshinë</item>
+        <item quantity="one">%1$d kontakt u fshi</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Këto kontakte do të hiqen nga \"Kontaktet e Google\" dhe të gjitha pajisjet e tua të sinkronizuara</item>
+        <item quantity="one">Ky kontakt do të hiqet nga \"Kontaktet e Google\" dhe të gjitha pajisjet e tua të sinkronizuara</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontakte në llogaritë e tua të tjera</item>
+        <item quantity="one">1 kontakt në llogaritë e tua të tjera</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontakte</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontakte • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Të zhvendosen këto %1$d kontakte te %2$s?</item>
+        <item quantity="one">Të zhvendoset ky kontakte te %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">U zhvendosën %d kontakte</item>
+        <item quantity="one">U zhvendos %d kontakt</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Zhvendosja e %d kontakteve përfundoi</item>
+        <item quantity="one">Zhvendosja e kontaktit përfundoi</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d kontakte po zhvendosen</item>
+        <item quantity="one">Kontakti po zhvendoset</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontakte u rezervuan te %2$s</item>
+        <item quantity="one">%1$d kontakt u rezervua te %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importo nga kartat SIM</item>
+        <item quantity="one">Importo nga karta SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontakte</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d kontakte të kartës SIM u importuan</item>
+        <item quantity="one">1 kontakt i kartës SIM u importua</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Shpërnda kontaktet nëpërmjet</item>
+        <item quantity="one">Shpërnda kontaktin nëpërmjet</item>
+    </plurals>
+</resources>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="app_has_in_app_purchases">Alkalmazáson belüli vásárlások</string>
+    <string name="app_has_permissions">Engedélyek: %s</string>
+    <string name="app_has_runtime_permissions">Az alkalmazás engedélyeket fog kérni</string>
+    <string name="app_picker_loading">Rendelkezésre álló alkalmazások keresése…</string>
+    <string name="app_picker_loading_toast">A rendelkezésre álló alkalmazások hamarosan betöltődnek</string>
+    <string name="app_picker_no_apps">Nincs kiválasztott elem</string>
+    <string name="app_picker_no_apps_found">Nem található alkalmazás</string>
+    <string name="apps_permissions_described_v2">"Csak a népszerű és ingyenes iOS®-alkalmazások feleltethetők meg Android-alkalmazásoknak. Az alkalmazáson belüli vásárlások többsége nem vihető át. A beállítást követően még több alkalmazást találhat a Play Áruházban.
+
+Előfordulhat, hogy egyes alkalmazások számára előzetes engedélyt kell adnia, hogy hozzáférhessenek az eszközön található bizonyos funkciókhoz és információkhoz. Az engedélyek engedélycsoportokba vannak rendezve. Az alkalmazások telepítésével elfogadja a csoportokhoz tartozó engedélyeket. Az egyes engedélycsoportok leírását alább láthatja.
+
+Előfordulhat, hogy egyes alkalmazásokhoz nem szükséges az engedélyek előzetes elfogadása. Amikor ilyen alkalmazást használ, engedélyezheti vagy letilthatja az egyes engedélyeket, mielőtt az alkalmazás használná az adott adattípust.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Adatátviteli eszköz</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nem másolom át</string>
+    <string name="close_button_label">Bezárás</string>
+    <string name="cloud_restore_app_picker_button">Visszaállítás</string>
+    <string name="cloud_restore_app_picker_description_no_apps">A biztonsági másolatok között nincsenek alkalmazások</string>
+    <string name="cloud_restore_app_picker_title">Válassza ki a visszaállítani kívánt alkalmazásokat</string>
+    <string name="common_cancel">Mégse</string>
+    <string name="common_google_play_services_enable_button">Engedélyezés</string>
+    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_install_button">Telepítés</string>
+    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_ok">Rendben</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®-névjegy, %2$d névjegy az eszközön</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Névjegyek, %1$d iCloud®-névjegy, %2$d névjegy az eszközön</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Névjegyek, %1$d névjegy a SIM-kártyán, %2$d névjegy az eszközön</string>
+    <string name="contacts_number_device_with_google">Google Névjegyek, %1$d névjegy az eszközön</string>
+    <string name="contacts_number_icloud_with_google">Google Névjegyek, %1$d iCloud®-névjegy</string>
+    <string name="contacts_number_sim_with_google">Google Névjegyek, %1$d névjegy a SIM-kártyán</string>
+    <string name="copy_confirmation_description">Az adatokat – például Google-fiókját és alkalmazásait – a rendszer átmásolja az Ön új telefonjára</string>
+    <string name="copy_confirmation_title">Átmásolja az új telefonjára?</string>
+    <string name="d2d_app_picker_description_no_apps">Nem találtunk egy alkalmazást sem</string>
+    <string name="d2d_app_picker_title">Alkalmazások</string>
+    <string name="d2d_migration_canceled_on_source">Másolás megszakítva</string>
+    <string name="data_copied_fragment_description">Adatait átmásoltuk új telefonjára. Most már kihúzhatja a kábelt.</string>
+    <string name="data_copied_fragment_description_cancel">Úgy döntött, leállítja a másolást, így csak bizonyos adatokat tudtunk átmásolni új telefonjára.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Úgy döntött, leállítja a másolást, így semmit sem tudtunk átmásolni új telefonjára.</string>
+    <string name="data_copied_fragment_description_error">Hiba történt, ezért nem tudtunk mindent átmásolni.</string>
+    <string name="data_copied_fragment_description_error_no_data">Hiba történt, ezért nem tudtuk átmásolni az adatait.</string>
+    <string name="data_copied_fragment_no_data_title">Sikertelen másolás</string>
+    <string name="data_copied_fragment_some_data_title">Bizonyos adatok sikeresen átmásolva</string>
+    <string name="data_copied_fragment_title">Az adatok átmásolva</string>
+    <string name="device_not_supported_fragment_new_device">Új telefonhoz csatlakozik. A folytatáshoz csatlakozzon újra a korábbihoz.</string>
+    <string name="device_not_supported_fragment_new_device_title">Újracsatlakozás az előző telefonra</string>
+    <string name="device_not_supported_fragment_no_data_cable">Ez a kábel nem támogatja az adatátvitelt. Csatlakoztasson másik kábelt, majd próbálkozzon újra.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Próbálkozzon másik kábellel</string>
+    <string name="device_not_supported_fragment_retry_description">Győződjön meg arról, hogy régi telefonja zárolása fel van oldva, majd húzza ki és csatlakoztassa újra a kábelt</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Hiba történt</string>
+    <string name="device_not_supported_ios_supervised_description">Mivel Önnek felügyelt iPhone® készüléke van, másik módszert kell választania az adatok átmásolására</string>
+    <string name="device_picker_skip">Ne legyen visszaállítás</string>
+    <string name="durationDayHour">%1$d nap %2$d óra</string>
+    <string name="durationDayHours">%1$d nap %2$d óra</string>
+    <string name="durationDays">%1$d nap</string>
+    <string name="durationHourMinute">%1$d óra %2$d perc</string>
+    <string name="durationHourMinutes">%1$d óra %2$d perc</string>
+    <string name="durationHours">%1$d óra</string>
+    <string name="durationMinute">%1$d perc</string>
+    <string name="durationMinutes">%1$d perc</string>
+    <string name="encryption_warning_fragment_description">"A biztonsági másolat titkosítása be van kapcsolva iPhone® eszközén. Ha nem Ön engedélyezte, lehetséges, hogy a rendszergazdája tette ezt.
+
+Csak a fényképek, a zenék és a videók másolhatók át. További információért látogasson el a "<b>g.co/datatransferhelp</b> címre.</string>
+    <string name="encryption_warning_fragment_title">Biztonsági mentés titkosítva</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Nem találom az adaptert</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Keresse meg a Quick Switch Adaptert, amelyet ^1 eszköze mellé kapott a dobozban.
+
+Csatlakoztassa a kábelt az adapterhez."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Csatlakoztassa az adaptert és a kábelt</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Oldja fel régi telefonját, majd csatlakoztassa az adaptert ehhez a telefonhoz.</string>
+    <string name="fragment_usb_connect_both_phones_title">Csatlakoztassa mindkét telefont</string>
+    <string name="fragment_usb_dialog_cancel_description">A legtöbb tartalmat kábel használatával átviheti. Ha a dobozban található kábeleket nem tudja csatlakoztatni, próbálja meg régi telefonja adat- vagy töltőkábelét használni.</string>
+    <string name="fragment_usb_dialog_cancel_title">Adatok másolása más módon</string>
+    <string name="fragment_usb_dont_copy">Nem másolom át</string>
+    <string name="fragment_usb_dont_have_cable">Nincsen kábelem</string>
+    <string name="fragment_usb_dont_have_old_phone">nem tudja használni régi telefonját?</string>
+    <string name="fragment_usb_find_cable_description">Olyan kábelt használjon, amelyet csatlakoztathat régi telefonjához, például az adat- vagy töltőkábelét.</string>
+    <string name="fragment_usb_find_cable_title">Keressen megfelelő kábelt</string>
+    <string name="fragment_usb_initial_description">Szüksége lesz régi androidos vagy iPhone® eszközére. Kapcsolja be, és tartsa feloldva.</string>
+    <string name="fragment_usb_initial_title">Vegye elő régi telefonját</string>
+    <string name="fragment_usb_legacy_description">"Ez az adatok átmásolásának leggyorsabb módja.
+
+Keresse meg az adaptert a dobozban, és csatlakoztassa új telefonjához. Kapcsolja össze a telefonokat a kábel segítségével, majd oldja fel régi telefonját."</string>
+    <string name="fragment_usb_missing_data_description">Az átvitel közben folytathatja a Pixel beállítását.</string>
+    <string name="fragment_usb_missing_data_title">Az adatok másolásának megkezdése</string>
+    <string name="fragment_usb_other_ways">Kábel nélküli másolás</string>
+    <string name="fragment_usb_plug_cable">Csatlakoztassa a kábelt régi telefonjához</string>
+    <string name="fragment_waiting_title">Egy pillanat…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">A Google Névjegyek szolgáltatás szinkronizálni fog</string>
+    <string name="google_contacts_static_text_off">A Google Névjegyek továbbra is szinkronizál</string>
+    <string name="i_message_dialog_message">"Ki kell kapcsolnia az iMessage® szolgáltatást, hogy továbbra is fogadhassa az iPhone® készülékek felhasználóitól érkező SMS-üzeneteket.
+
+A vonatkozó útmutatásokat a "<b>g.co/iMessageHelp</b> oldalon találja.</string>
+    <string name="instructions_fragment_title">Folytassa a másik telefonján</string>
+    <string name="ios_connected_fragment_description">"A következő képernyőn beléphet meglévő Google-fiókjába, vagy létrehozhat újat.
+
+Ha nem adja hozzá Google-fiókját, az iOS® Naptár eseményei nem kerülnek át."</string>
+    <string name="ios_message_attachment_explanation">[Az üzenet mellékleteit a Google Fotók > Eszközmappák > Üzenetmellékletek mappában találja]</string>
+    <string name="ios_message_attachment_failed_explanation">[Néhány mellékletet nem sikerült átmásolni. Az átmásolt mellékleteket a Google Fotók > Eszközmappák > Üzenetmellékletek mappában találja]</string>
+    <string name="ios_message_attachment_placeholder">[Melléklet mentve a következő helyre: Google Fotók > Eszközmappák > Üzenetmellékletek]</string>
+    <string name="ios_message_attachments_placeholder">[Mellékletek mentve a következő helyre: Google Fotók > Eszközmappák > Üzenetmellékletek]</string>
+    <string name="ios_migration_default_calendar_title">Naptár</string>
+    <string name="ios_migration_other_contact_relation">Egyéb</string>
+    <string name="ios_photos_dialog_message">"Az iCloud® szolgáltatásban tárolt fényképek nem másolhatók.
+
+Ha ezeket ^1 eszközére szeretné helyezni, telepítse a Google Fotók alkalmazást iPhone® eszközére, majd kapcsolja be a Biztonsági másolat és szinkronizálás funkciót. További utasításokat a "<b>g.co/datatransferhelp</b> oldalon talál.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="lockscreen_smartdevice_action_next">Tovább</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Összes</string>
+    <string name="photos_filtering_option_none">Egyik sem</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Az átmásolt névjegyeket az Ön Google-fiókjába menti a rendszer.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Az átmásolt névjegyeket és naptárakat az Ön Google-fiókjába menti a rendszer.</string>
+    <string name="restore_choice_data_disclaimer_v2">Előfordulhat, hogy a rendszer nem másol át egyes adatokat a(z) ^1 eszközre. <annotation id="restore_choice_data_disclaimer_learn_more">További információ</annotation>.</string>
+    <string name="restore_choice_deselect_some_content">A folytatáshoz törölje egyes tartalmak kijelölését</string>
+    <string name="restore_choice_learn_more_android">"A régi telefonon lévő bizonyos adatok automatikus másolása nem lehetséges. Ilyen adatok a következők:
+
+ ● Letöltések (például PDF-fájlok)
+
+ ● Rejtett mappában tárolt fotók, videók és zenék
+
+ ● Szöveges üzenetben kapott fotók, videók és zenék
+
+ ● Nem a Google Play Áruházból származó alkalmazások
+
+ ● Alkalmazásadatok (ha az adott alkalmazás nem használja az Android Backup szolgáltatást)
+
+ ● Bizonyos eszközbeállítások
+
+ ● A Google-fiókokon kívüli más fiókok (és a hozzájuk kapcsolódó adatok)
+
+ ● A nem Google-szolgáltatásokkal szinkronizált névjegyek és naptárak
+
+ ● Csengőhangok
+
+ További információt és az ilyen adatok másolásával kapcsolatos segítséget a g.co/datatransferhelp oldalon talál."</string>
+    <string name="restore_choice_learn_more_ios">"Régi telefonjának egyes adatai nem másolhatók át automatikusan:
+
+ ● alkalmazások és alkalmazásadatok
+
+ ● fényképek, amelyeknél nincs tárolva az eredeti a telefonon (például amikor a Tárhely optimalizálása beállítás be van kapcsolva; az eredeti fotók tárolása az iCloud®-on történik)
+
+ ● az iCloud® rendszerben tárolt dokumentumok és fájlok
+
+ ● eszközbeállítások (például Wi-Fi-jelszavak és háttérképek)
+
+ ● a Digital Rights Management (DRM) védelemmel ellátott zenék (például a 2009. április előtt vásárolt iTunes®-zenék, illetve a zenestreamelő alkalmazásból offline hallgatásra letöltött zenék)
+
+ ● a nem Google-fiókok (és a kapcsolódó adatok)
+
+ ● a nem a Google vagy iCloud® szolgáltatásokkal szinkronizált névjegyek és naptárak
+
+ ● Safari®-könyvjelzők
+
+ Az iMessage®-mellékletek hozzáférhetők a Google Fotók > Eszközmappák > Üzenetmellékletek mappában.
+
+ Ha további részletekre kíváncsi, és segítséget kérne az adatok másolásával kapcsolatban, látogasson el a g.co/datatransferhelp címre."</string>
+    <string name="restore_choice_not_enough_space">Nincs elég tárhely</string>
+    <string name="restore_choice_total_text">a rendelkezésre álló %1$s tárhelyből – az átvitel becsült időtartama %2$s</string>
+    <string name="restore_item_appdata">Alkalmazásadatok</string>
+    <string name="restore_item_calendar">Naptár</string>
+    <string name="restore_item_calendar_ical_description">iOS®-naptár, Google Naptár</string>
+    <string name="restore_item_calendar_ical_off_description">A Google Naptár továbbra is szinkronizálni fog</string>
+    <string name="restore_item_calendar_sync_description">A Google Naptár szinkronizálni fog</string>
+    <string name="restore_item_call_logs">Híváslista</string>
+    <string name="restore_item_contacts">Névjegyek</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-jelszavak és egyebek</string>
+    <string name="restore_item_downloads">Letöltések</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">A Gmail szinkronizálni fog</string>
+    <string name="restore_item_message_attachments">Üzenetmellékletek</string>
+    <string name="restore_item_messages">Üzenetek</string>
+    <string name="restore_item_music">Zene</string>
+    <string name="restore_item_photos">Fotók és videók</string>
+    <string name="restore_item_settings">Eszközbeállítások</string>
+    <string name="restore_item_sms">SMS-ek</string>
+    <string name="restore_item_will_be_synced_text">Ez szinkronizálva lesz új telefonjával</string>
+    <string name="restore_progress_title">Visszaállítás…</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="small_time_duration">Kevesebb mint 1 perc</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Elvetés</string>
+    <string name="stop_copying_dialog_message_before_transfer">Adatait nem másoltuk át új telefonjára</string>
+    <string name="stop_copying_dialog_message_during_transfer">Egyes adatait nem másoltuk át új telefonjára</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nem másolom át</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Leállítás</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nem szeretné átmásolni?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Leállítja a másolást?</string>
+    <string name="suw_back_button_label">Vissza</string>
+    <string name="suw_more_button_label">Továbbiak</string>
+    <string name="suw_next_button_label">Következő</string>
+    <string name="target_default_source_device_model">régi eszköz</string>
+    <string name="target_device_not_supported_cant_continue_description">Más módszert kell választani az adatok átmásolásához</string>
+    <string name="target_device_not_supported_cant_continue_title">A másik telefon nem támogatott</string>
+    <string name="target_device_not_supported_try_restarting_description">"Húzza ki a kábelt, indítsa újra régi telefonját, majd csatlakoztassa ismét a kábelt, és kövesse a Pixel készülékén megjelenő utasításokat.
+
+Ha továbbra is megjelenik ez a hibaüzenet, más módon kell megpróbálnia a másolást."</string>
+    <string name="target_device_not_supported_try_restarting_title">Előfordulhat, hogy a telefon nem támogatott</string>
+    <string name="target_pixelmigrate_notification_description">Rendelkezésre áll vagy folyamatban van</string>
+    <string name="target_pixelmigrate_notification_title">Adatátvitel</string>
+    <string name="target_smart_device_timeout_add_account">FIÓK HOZZÁADÁSA</string>
+    <string name="target_smart_device_timeout_description">Ha szeretné, megpróbálhatja manuálisan megadni fiókját</string>
+    <string name="target_smart_device_timeout_dismiss">ELVETÉS</string>
+    <string name="target_smart_device_timeout_title">Problémába ütközött?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">A telefonok csatlakoztatva vannak</string>
+    <string name="toast_reconnect_cable">Csatlakoztassa újra a kábelt</string>
+    <string name="transfer_finished_fragment_title">Utolsó simítások elvégzése…</string>
+    <string name="transfer_summary_copied">Adatok átmásolva</string>
+    <string name="transfer_summary_fragment_description">Kihúzhatja a kábelt.</string>
+    <string name="transfer_summary_fragment_finish">BEFEJEZÉS</string>
+    <string name="transfer_summary_fragment_title">Telefonja hamarosan készen áll a használatra</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">A rendszer nem másolta át az összes fotót. <annotation id="transfer_summary_learn_more">További információ</annotation>.</string>
+    <string name="transfer_summary_not_copied">Az adatok nincsenek átmásolva</string>
+    <string name="transfer_summary_partial">%2$s/%1$s átmásolva</string>
+    <string name="transfer_summary_will_sync">Az adatok a beállítást követően fognak szinkronizálódni</string>
+    <string name="transferring_fragment_calculating_remaining_time">Hátralévő idő kiszámítása…</string>
+    <string name="transferring_fragment_header">Másolás…</string>
+    <string name="transferring_fragment_remaining_time">%1$s van hátra</string>
+    <string name="trust_instructions_description">A folytatáshoz iPhone® eszközén hagyja jóvá a kapcsolatot.</string>
+    <string name="trust_instructions_trademark_disclaimer">Az iPhone, az iPad, az iOS, az iMessage, az iCloud, a Safari és az iTunes az Apple Inc. bejegyzett védjegyei az Amerikai Egyesült Államokban és más országokban.</string>
+</resources>

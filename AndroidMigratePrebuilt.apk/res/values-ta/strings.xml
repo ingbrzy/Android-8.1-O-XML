@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">முகப்பிற்கு வழிசெலுத்து</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">மேலே வழிசெலுத்து</string>
+    <string name="abc_action_menu_overflow_description">மேலும் விருப்பங்கள்</string>
+    <string name="abc_action_mode_done">முடிந்தது</string>
+    <string name="abc_activity_chooser_view_see_all">எல்லாம் காட்டு</string>
+    <string name="abc_activitychooserview_choose_application">பயன்பாட்டைத் தேர்வுசெய்க</string>
+    <string name="abc_capital_off">முடக்கு</string>
+    <string name="abc_capital_on">இயக்கு</string>
+    <string name="abc_search_hint">தேடு...</string>
+    <string name="abc_searchview_description_clear">வினவலை அழி</string>
+    <string name="abc_searchview_description_query">தேடல் வினவல்</string>
+    <string name="abc_searchview_description_search">தேடு</string>
+    <string name="abc_searchview_description_submit">வினவலைச் சமர்ப்பி</string>
+    <string name="abc_searchview_description_voice">குரல் தேடல்</string>
+    <string name="abc_shareactionprovider_share_with">இதனுடன் பகிர்</string>
+    <string name="abc_shareactionprovider_share_with_application">%s உடன் பகிர்</string>
+    <string name="abc_toolbar_collapse_description">சுருக்கு</string>
+    <string name="app_has_in_app_purchases">பயன்பாடு சார்ந்த வாங்குதல்கள்</string>
+    <string name="app_has_permissions">அனுமதிகள்: %s</string>
+    <string name="app_has_runtime_permissions">பயன்பாடானது அனுமதிகளைக் கேட்கும்</string>
+    <string name="app_picker_loading">கிடைக்கும் பயன்பாடுகளைக் கண்டறிகிறது…</string>
+    <string name="app_picker_loading_toast">கிடைக்கும் பயன்பாடுகள் விரைவில் ஏற்றப்படும்</string>
+    <string name="app_picker_no_apps">எதுவும் தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="app_picker_no_apps_found">பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="apps_permissions_described_v2">"பிரபலமான இலவச iOS® பயன்பாடுகள் மட்டுமே Android பயன்பாடுகளுக்குப் பொருந்தும். பயன்பாட்டில் வாங்கிய பெரும்பாலான உள்ளடக்கம் பரிமாற்றப்படாது. அமைவை முடித்ததும், Play ஸ்டோரில் இன்னும் அதிகமான பயன்பாடுகளைப் பார்க்கலாம்.
+
+உங்கள் சாதனத்தில் உள்ள குறிப்பிட்ட திறன்களை அல்லது தகவலை அணுக, சில பயன்பாடுகளுக்கு நீங்கள் முன் அனுமதி வழங்க வேண்டியிருக்கலாம். அனுமதிக் குழுக்களில், அனுமதிகள் ஒழுங்கமைக்கப்படும். இந்தப் பயன்பாடுகளை நிறுவுவதற்குத் தேர்ந்தெடுப்பதன் மூலம், ஒவ்வொரு குழுவிற்குமான அனுமதிகளையும் ஏற்கிறீர்கள். ஒவ்வொரு அனுமதிக் குழுவிற்கான விளக்கமும் கீழே கொடுக்கப்பட்டுள்ளது.
+
+சில பயன்பாடுகளுக்கு முன்பே அனுமதிகளை ஏற்க வேண்டிய அவசியம் இல்லாமல் இருக்கலாம். இந்தப் பயன்பாடுகளில் ஏதேனும் ஒன்றைப் பயன்படுத்தும் போது, பயன்பாடானது அந்த வகையான தரவை உபயோகிப்பதற்கு முன்பே தனிப்பட்ட அனுமதியை நீங்கள் அனுமதிக்கலாம் அல்லது மறுக்கலாம்.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">தரவை இடமாற்றும் கருவி</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">பை.</string>
+    <string name="cancel_copy_button_text">நகலெடுக்காதே</string>
+    <string name="close_button_label">மூடு</string>
+    <string name="cloud_restore_app_picker_button">மீட்டமை</string>
+    <string name="cloud_restore_app_picker_description_no_apps">காப்புப் பிரதியில் பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="cloud_restore_app_picker_title">மீட்டமைக்க வேண்டிய பயன்பாடுகளைத் தேர்வுசெய்யவும்</string>
+    <string name="common_cancel">ரத்துசெய்</string>
+    <string name="common_google_play_services_enable_button">இயக்கு</string>
+    <string name="common_google_play_services_enable_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_enable_title">Google Play சேவைகளை இயக்கவும்</string>
+    <string name="common_google_play_services_install_button">நிறுவு</string>
+    <string name="common_google_play_services_install_text">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை.</string>
+    <string name="common_google_play_services_install_title">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="common_google_play_services_notification_ticker">Google Play சேவைகள் பிழை</string>
+    <string name="common_google_play_services_unknown_issue">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s பயன்பாட்டை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play சேவைகள் இருந்தால் மட்டுமே %1$s பயன்பாடு இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை.</string>
+    <string name="common_google_play_services_update_button">புதுப்பி</string>
+    <string name="common_google_play_services_update_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_update_title">Google Play சேவைகளைப் புதுப்பிக்கவும்</string>
+    <string name="common_google_play_services_updating_text">தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்.</string>
+    <string name="common_ok">சரி</string>
+    <string name="common_open_on_phone">மொபைலில் திற</string>
+    <string name="common_signin_button_text">உள்நுழைக</string>
+    <string name="common_signin_button_text_long">Google மூலம் உள்நுழைக</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d சாதனம்</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google தொடர்புகள், %1$d iCloud®, %2$d சாதனம்</string>
+    <string name="contacts_number_device_and_sim_with_google">Google தொடர்புகள், %1$d சிம், %2$d சாதனம்</string>
+    <string name="contacts_number_device_with_google">Google தொடர்புகள், %1$d சாதனம்</string>
+    <string name="contacts_number_icloud_with_google">Google தொடர்புகள்: iCloud® இலிருப்பவை %1$d</string>
+    <string name="contacts_number_sim_with_google">Google தொடர்புகள்: சிம்மில் இருப்பவை %1$d</string>
+    <string name="copy_confirmation_description">புதிய மொபைலில் Google கணக்குகள், பயன்பாடுகள் போன்ற தரவு நகலெடுக்கப்படும்</string>
+    <string name="copy_confirmation_title">புதிய மொபைலுக்கு நகலெடுக்கவா?</string>
+    <string name="d2d_app_picker_description_no_apps">பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="d2d_app_picker_title">பயன்பாடுகள்</string>
+    <string name="d2d_migration_canceled_on_source">நகலெடுப்பது ரத்துசெய்யப்பட்டது</string>
+    <string name="data_copied_fragment_description">தரவு உங்கள் புதிய மொபைலுக்கு நகலெடுக்கப்பட்டது. கேபிளின் இணைப்பைத் துண்டிக்கலாம்.</string>
+    <string name="data_copied_fragment_description_cancel">நகலெடுப்பதை நிறுத்தியதால், சில தரவு மட்டுமே புதிய மொபைலுக்கு நகலெடுக்கப்பட்டன.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">நகலெடுப்பதை நிறுத்தியதால், புதிய மொபைலுக்கு எதுவும் நகலெடுக்கப்படவில்லை.</string>
+    <string name="data_copied_fragment_description_error">ஏதோ தவறாகிவிட்டது. எல்லாவற்றையும் நகலெடுக்க முடியவில்லை.</string>
+    <string name="data_copied_fragment_description_error_no_data">ஏதோ தவறாகிவிட்டது. தரவை நகலெடுக்க முடியவில்லை.</string>
+    <string name="data_copied_fragment_no_data_title">நகலெடுக்க முடியவில்லை</string>
+    <string name="data_copied_fragment_some_data_title">சில தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="data_copied_fragment_title">தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="device_not_supported_fragment_new_device">புதிய மொபைலுடன் இணைத்துள்ளீர்கள். தொடர, முந்தைய மொபைலுடன் இணைக்கவும்.</string>
+    <string name="device_not_supported_fragment_new_device_title">முந்தைய மொபைலுடன் மீண்டும் இணைக்கவும்</string>
+    <string name="device_not_supported_fragment_no_data_cable">இந்தக் கேபிள் மூலம் தரவை இடமாற்ற முடியாது. வேறு கேபிளை இணைத்து, மீண்டும் முயலவும்.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">வேறு கேபிளைப் பயன்படுத்தவும்</string>
+    <string name="device_not_supported_fragment_retry_description">உங்கள் பழைய மொபைல் திறந்திருப்பதை உறுதிப்படுத்திக் கொள்ளவும். பிறகு கேபிளை வெளியே எடுத்துவிட்டு, மீண்டும் இணைக்கவும்</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">ஏதோ தவறாகிவிட்டது</string>
+    <string name="device_not_supported_ios_supervised_description">உங்கள் iPhone® சாதனம் கண்காணிக்கப்படுவதால், தரவை நகலெடுக்க மற்றொரு வழியைத் தேர்வுசெய்ய வேண்டும்</string>
+    <string name="device_picker_skip">மீட்டமைக்காதே</string>
+    <string name="durationDayHour">%1$d நா %2$d ம</string>
+    <string name="durationDayHours">%1$d நா %2$d ம</string>
+    <string name="durationDays">%1$d நாட்கள்</string>
+    <string name="durationHourMinute">%1$d ம %2$d நி</string>
+    <string name="durationHourMinutes">%1$d ம %2$d நி</string>
+    <string name="durationHours">%1$d மணிநேரம்</string>
+    <string name="durationMinute">%1$d நிமிடம்</string>
+    <string name="durationMinutes">%1$d நி</string>
+    <string name="encryption_warning_fragment_description">"உங்கள் iPhone® சாதனத்தில் காப்புப் பிரதி என்கிரிப்ஷன் இயக்கப்பட்டுள்ளது. இதை நீங்கள் சாதனத்தில் இயக்கவில்லை எனில், உங்கள் தகவல் தொழில்நுட்ப நிர்வாகி அதை இயக்கியிருக்கக்கூடும்.
+
+படங்கள், இசை, வீடியோக்கள் ஆகியவற்றை மட்டுமே நகலெடுக்க முடியும். மேலும் தகவலுக்கு, "<b>g.co/datatransferhelp</b> என்ற தளத்திற்குச் செல்லவும்.</string>
+    <string name="encryption_warning_fragment_title">காப்புப் பிரதி என்கிரிப்ஷன்</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">அடாப்டர் இல்லை</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"உங்கள் ^1 இன் பெட்டியில் இருக்கும் Quick Switch Adapterஐ எடுக்கவும்.
+
+அடாப்டரில் கேபிளைச் செருகவும்."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">அடாப்டரையும் கேபிளையும் இணைக்கவும்</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">உங்கள் பழைய மொபைலைத் திறந்து, இந்த மொபைலில் அடாப்டரைச் செருகவும்.</string>
+    <string name="fragment_usb_connect_both_phones_title">இரண்டு மொபைல்களையும் இணைக்கவும்</string>
+    <string name="fragment_usb_dialog_cancel_description">கேபிளைப் பயன்படுத்தினால் அதிகளவிலான உள்ளடக்கத்தைப் பெறுவீர்கள். பெட்டியில் இருக்கும் கேபிள் உங்கள் பழைய மொபைலுக்கேற்றதாக இல்லையெனில், அதில் சரியாகச் செயல்படும் சார்ஜிங் அல்லது டேட்டா கேபிளைப் பயன்படுத்தவும்.</string>
+    <string name="fragment_usb_dialog_cancel_title">மற்றொரு முறையில் தரவை நகலெடுக்கவா?</string>
+    <string name="fragment_usb_dont_copy">நகலெடுக்காதே</string>
+    <string name="fragment_usb_dont_have_cable">என்னிடம் கேபிள் இல்லை</string>
+    <string name="fragment_usb_dont_have_old_phone">பழைய மொபைலைப் பயன்படுத்த முடியவில்லையா?</string>
+    <string name="fragment_usb_find_cable_description">உங்கள் பழைய மொபைலுக்கேற்ற கேபிளை (டேட்டா அல்லது சார்ஜிங் கேபிள் போன்றவை) பயன்படுத்தவும்.</string>
+    <string name="fragment_usb_find_cable_title">சரியான கேபிளைக் கண்டறியவும்</string>
+    <string name="fragment_usb_initial_description">உங்கள் பழைய Android அல்லது iPhone® சாதனம் தேவை. அதை இயக்கி, திறந்து வைத்திருக்கவும்.</string>
+    <string name="fragment_usb_initial_title">பழைய மொபைலின் தரவை இடமாற்றவும்</string>
+    <string name="fragment_usb_legacy_description">"அதிகளவிலான தரவை இடமாற்றுவதற்கு இதுவே வேகமான வழியாகும்.
+
+பெட்டியில் வழங்கப்பட்டுள்ள அடாப்டரைப் புதிய மொபைலில் செருகவும். கேபிளைப் பயன்படுத்தி மொபைல்களை இணைத்து, பழைய மொபைலைத் திறக்கவும்."</string>
+    <string name="fragment_usb_missing_data_description">இடமாற்றத்தின் போதும் Pixelஐத் தொடர்ந்து அமைக்கலாம்.</string>
+    <string name="fragment_usb_missing_data_title">விடுபட்ட தரவை நகலெடுக்கவும்</string>
+    <string name="fragment_usb_other_ways">கேபிள் இல்லாமல் நகலெடு</string>
+    <string name="fragment_usb_plug_cable">பழைய மொபைலில் கேபிளைச் செருகவும்</string>
+    <string name="fragment_waiting_title">சற்று காத்திருக்கவும்…</string>
+    <string name="gigabyteShort">ஜி.பை.</string>
+    <string name="google_contacts_static_text">Google தொடர்புகள் ஒத்திசைக்கப்படும்</string>
+    <string name="google_contacts_static_text_off">Google தொடர்புகள் தொடர்ந்து ஒத்திசைக்கப்படும்</string>
+    <string name="i_message_dialog_message">"iPhone® சாதனப் பயனர்களிடமிருந்து தொடர்ந்து SMS செய்திகளைப் பெற, iMessage®ஐ முடக்க வேண்டும்.
+
+வழிமுறைகளுக்கு, "<b>g.co/iMessageHelp</b> என்பதற்குச் செல்லவும்.</string>
+    <string name="instructions_fragment_title">உங்களின் மற்றொரு மொபைலில் தொடரவும்</string>
+    <string name="ios_connected_fragment_description">"அடுத்த திரையில், Google கணக்கில் உள்நுழையவும் அல்லது புதிய கணக்கை உருவாக்கவும்.
+
+Google கணக்கைச் சேர்க்கவில்லை எனில், உங்கள் iOS Calendar® நிகழ்வுகளை இடமாற்ற முடியாது."</string>
+    <string name="ios_message_attachment_explanation">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் உங்கள் செய்தி இணைப்புகள் இருக்கும்]</string>
+    <string name="ios_message_attachment_failed_explanation">[சில இணைப்புகளை நகலெடுக்க முடியவில்லை. இடமாற்றிய கோப்புகளை, Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் பார்க்கலாம்]</string>
+    <string name="ios_message_attachment_placeholder">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் இணைப்பு சேமிக்கப்பட்டது]</string>
+    <string name="ios_message_attachments_placeholder">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் இணைப்புகள் சேமிக்கப்பட்டன]</string>
+    <string name="ios_migration_default_calendar_title">கேலெண்டர்</string>
+    <string name="ios_migration_other_contact_relation">மற்றவை</string>
+    <string name="ios_photos_dialog_message">"iCloud® இல் சேமித்த படங்களை நகலெடுக்க முடியாது.
+
+இந்தப் படங்களை ^1 சாதனத்திற்கு இடமாற்ற, உங்கள் iPhone® சாதனத்தில் Google Photos பயன்பாட்டை நிறுவி, \"காப்புப் பிரதி &amp; ஒத்திசைவு\" எனும் விருப்பத்தை இயக்கவும். கூடுதல் வழிமுறைகளுக்கு, "<b>g.co/datatransferhelp</b> எனும் இணைப்பிற்குச் செல்லவும்.</string>
+    <string name="kilobyteShort">கி.பை.</string>
+    <string name="lockscreen_smartdevice_action_next">அடுத்து</string>
+    <string name="megabyteShort">மெ.பை.</string>
+    <string name="petabyteShort">பெ.பை.</string>
+    <string name="photos_filtering_option_all">எல்லாம்</string>
+    <string name="photos_filtering_option_none">ஏதுமில்லை</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">நகலெடுத்த தொடர்புகள் உங்கள் Google கணக்கில் சேமிக்கப்படும்.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">நகலெடுத்த தொடர்புகளும் கேலெண்டர்களும் உங்கள் Google கணக்கில் சேமிக்கப்படும்.</string>
+    <string name="restore_choice_data_disclaimer_v2">சில தரவு உங்கள் ^1 சாதனத்திற்கு நகலெடுக்கப்படாமல் இருக்கலாம். <annotation id="restore_choice_data_disclaimer_learn_more">மேலும் அறிக</annotation></string>
+    <string name="restore_choice_deselect_some_content">தொடர, சில உள்ளடக்கத்தைத் தேர்வுநீக்கவும்</string>
+    <string name="restore_choice_learn_more_android">"உங்கள் பழைய மொபைலிலிருந்து சில தரவைத் தானாக நகலெடுக்க முடியவில்லை:
+
+ ● இறக்கங்கள் (PDF கோப்புகள் போன்றவை)
+
+ ● மறைந்துள்ள கோப்புறைகளில் சேமிக்கப்பட்டுள்ள படங்கள், வீடியோக்கள் மற்றும் இசை
+
+ ● உரைச் செய்தி மூலமாகப் பெற்ற படங்கள், வீடியோக்கள் மற்றும் இசை
+
+ ● Google Play ஸ்டோர் வழங்காத பயன்பாடுகள்
+
+ ● பயன்பாட்டுத் தரவு (பயன்பாடு Android காப்புப் பிரதியைப் பயன்படுத்தவில்லை எனில்)
+
+ ● குறிப்பிட்ட சாதன அமைப்புகள்
+
+ ● Google கணக்குகள் அல்லாத பிற கணக்குகள் (எந்தத் தொடர்புடைய தரவும் அடங்கும்)
+
+ ● Google சேவைகள் அல்லாத பிற சேவைகளுடன் ஒத்திசைத்த தொடர்புகளும் கேலெண்டர்களும்
+
+ ● ரிங்டோன்கள்
+
+ மேலும் விவரங்கள் மற்றும் இந்தத் தரவில் சிலவற்றை நகலெடுப்பதற்கான உதவிக்கு, g.co/datatransferhelp என்பதற்குச் செல்லவும்."</string>
+    <string name="restore_choice_learn_more_ios">"உங்கள் பழைய மொபைலிலிருந்து சிலவற்றைத் தானாக நகலெடுக்க முடியவில்லை:
+
+ ● பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+
+ ● உங்கள் மொபைலில் அசல் கோப்பு சேமிக்கப்படாத படங்கள் (எடுத்துக்காட்டாக, சேமிப்பகத்தை மேம்படுத்துவதற்கான அமைப்பு இயக்கப்பட்டிருந்தால், அசல் படங்கள் iCloud® இல் சேமிக்கப்படும்)
+
+ ● iCloud® இல் சேமிக்கப்பட்டுள்ள கோப்புகளும் ஆவணங்களும்
+
+ ● சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள், வால்பேப்பர் போன்றவை)
+
+ ● டிஜிட்டல் உரிமைகள் மேலாண்மை (DRM) பாதுகாப்பின் மூலம் பாதுகாக்கப்பட்ட இசை (எடுத்துக்காட்டாக, ஏப்ரல் 2009க்கு முன் வாங்கிய iTunes® இசை அல்லது ஆஃப்லைனில் கேட்பதற்காக, இசையை ஸ்ட்ரீம் செய்யும் பயன்பாட்டிலிருந்து இறக்கிய இசை)
+
+ ● Google கணக்குகள் அல்லாத பிற கணக்குகள் (தொடர்புடைய எல்லா தரவும் அடங்கும்)
+
+ ● Google அல்லது iCloud® சேவைகள் அல்லாத பிற சேவைகளுடன் ஒத்திசைத்த தொடர்புகளும் கேலெண்டர்களும்
+
+ ● Safari® இலிருந்து பெற்ற புத்தகக்குறிகள்
+
+ Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் iMessage® இணைப்புகள் இருக்கும்.
+
+ மேலும் விவரங்கள் மற்றும் இந்தத் தரவில் சிலவற்றை நகலெடுப்பதற்கான உதவிக்கு, g.co/datatransferhelp என்பதற்குச் செல்லவும்."</string>
+    <string name="restore_choice_not_enough_space">போதுமான இடம் இல்லை</string>
+    <string name="restore_choice_total_text">%1$s (மொத்த சேமிப்பகம்) / %2$s (இடமாற்றத்திற்கான நேரம்)</string>
+    <string name="restore_item_appdata">பயன்பாட்டுத் தரவு</string>
+    <string name="restore_item_calendar">கேலெண்டர்</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google கேலெண்டர்</string>
+    <string name="restore_item_calendar_ical_off_description">Google கேலெண்டர் தொடர்ந்து ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_calendar_sync_description">Google கேலெண்டர் ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_call_logs">அழைப்பு வரலாறு</string>
+    <string name="restore_item_contacts">தொடர்புகள்</string>
+    <string name="restore_item_device_settings_description">வைஃபை கடவுச்சொற்கள் மற்றும் பல</string>
+    <string name="restore_item_downloads">பதிவிறக்கங்கள்</string>
+    <string name="restore_item_email">மின்னஞ்சல்</string>
+    <string name="restore_item_email_description">Gmail ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_message_attachments">செய்தியுடன் இணைக்கப்பட்டவை</string>
+    <string name="restore_item_messages">செய்திகள்</string>
+    <string name="restore_item_music">இசை</string>
+    <string name="restore_item_photos">படங்கள் &amp; வீடியோக்கள்</string>
+    <string name="restore_item_settings">சாதன அமைப்புகள்</string>
+    <string name="restore_item_sms">SMS செய்திகள்</string>
+    <string name="restore_item_will_be_synced_text">இதன் தரவு உங்கள் மொபைலுடன் ஒத்திசைக்கப்படும்</string>
+    <string name="restore_progress_title">மீட்டமைக்கிறது…</string>
+    <string name="search_menu_title">தேடு</string>
+    <string name="small_time_duration">ஒரு நிமிடத்திற்கும் குறைவாக</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">நிராகரி</string>
+    <string name="stop_copying_dialog_message_before_transfer">தரவு புதிய மொபைலுக்கு நகலெடுக்கப்படவில்லை</string>
+    <string name="stop_copying_dialog_message_during_transfer">சில தரவு புதிய மொபைலுக்கு நகலெடுக்கப்படவில்லை</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">நகலெடுக்காதே</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">நிறுத்து</string>
+    <string name="stop_copying_dialog_title_before_transfer">நகலெடுக்க வேண்டாமா?</string>
+    <string name="stop_copying_dialog_title_during_transfer">நகலெடுப்பதை நிறுத்தவா?</string>
+    <string name="suw_back_button_label">முந்தையது</string>
+    <string name="suw_more_button_label">மேலும்</string>
+    <string name="suw_next_button_label">அடுத்து</string>
+    <string name="target_default_source_device_model">பழைய சாதனம்</string>
+    <string name="target_device_not_supported_cant_continue_description">தரவை நகலெடுக்க, மற்றொரு வழியைத் தேர்வுசெய்ய வேண்டும்</string>
+    <string name="target_device_not_supported_cant_continue_title">மற்றொரு மொபைல் ஆதரிக்கவில்லை</string>
+    <string name="target_device_not_supported_try_restarting_description">"கேபிளின் இணைப்பைத் துண்டித்து, உங்கள் பழைய மொபைலை மீண்டும் தொடங்கவும். பிறகு கேபிளை மீண்டும் இணைத்து, Pixel இல் வழங்கப்பட்டுள்ள வழிமுறைகளைப் பின்பற்றவும்.
+
+இந்தப் பிழை தொடர்ந்தால், வேறு வழியில் நகலெடுக்கவும்."</string>
+    <string name="target_device_not_supported_try_restarting_title">மொபைல் ஆதரிக்காமல் இருக்கக்கூடும்</string>
+    <string name="target_pixelmigrate_notification_description">உள்ளது அல்லது செயலில் உள்ளது</string>
+    <string name="target_pixelmigrate_notification_title">தரவு இடமாற்றம்</string>
+    <string name="target_smart_device_timeout_add_account">கணக்கைச் சேர்</string>
+    <string name="target_smart_device_timeout_description">விரும்பினால், நீங்களாகவே கணக்கைச் சேர்க்க முயலலாம்</string>
+    <string name="target_smart_device_timeout_dismiss">நிராகரி</string>
+    <string name="target_smart_device_timeout_title">சிக்கலா?</string>
+    <string name="terabyteShort">டெ.பை.</string>
+    <string name="toast_phones_connected">மொபைல்கள் இணைக்கப்பட்டன</string>
+    <string name="toast_reconnect_cable">கேபிளை மீண்டும் இணைக்கவும்</string>
+    <string name="transfer_finished_fragment_title">இறுதியாகச் சில விஷயங்களைச் சேர்க்கிறது...</string>
+    <string name="transfer_summary_copied">தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="transfer_summary_fragment_description">கேபிள் இணைப்பைத் துண்டிக்கவும்.</string>
+    <string name="transfer_summary_fragment_finish">முடி</string>
+    <string name="transfer_summary_fragment_title">உங்கள் மொபைல் கிட்டத்தட்ட தயாராகிவிட்டது</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">சில படங்கள் நகலெடுக்கப்படவில்லை. <annotation id="transfer_summary_learn_more">மேலும் அறிக</annotation></string>
+    <string name="transfer_summary_not_copied">தரவை நகலெடுக்க முடியவில்லை</string>
+    <string name="transfer_summary_partial">%1$s / %2$s நகலெடுக்கப்பட்டன</string>
+    <string name="transfer_summary_will_sync">அமைவிற்குப் பின், தரவு ஒத்திசைக்கப்படும்</string>
+    <string name="transferring_fragment_calculating_remaining_time">மீதமுள்ள நேரத்தைக் கணக்கிடுகிறது...</string>
+    <string name="transferring_fragment_header">நகலெடுக்கிறது...</string>
+    <string name="transferring_fragment_remaining_time">%1$s மீதமுள்ளது</string>
+    <string name="trust_instructions_description">தொடர, iPhone® சாதனத்தைப் பார்த்து, இணைப்பை அனுமதிக்கவும்</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari மற்றும் iTunes ஆகியவை அமெரிக்காவிலும் பிற நாடுகளிலும் பதிவு செய்யப்பட்டுள்ள Apple Inc. இன் வர்த்தகமுத்திரைகள் ஆகும்.</string>
+</resources>

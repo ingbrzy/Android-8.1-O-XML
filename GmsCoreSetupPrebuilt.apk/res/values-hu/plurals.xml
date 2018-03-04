@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Mind a(z) %1$d alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d alkalmazás kiválasztva</item>
+        <item quantity="one">1 alkalmazás kiválasztva</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d alkalmazás már telepítve van</item>
+        <item quantity="one">1 alkalmazás már telepítve van</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">A biztonsági másolatok között %1$d alkalmazás található. Válasszon ki néhányat, vagy hozza át mindet.</item>
+        <item quantity="one">A biztonsági másolatok között %1$d alkalmazás található.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d névjegy az eszközön</item>
+        <item quantity="one">1 névjegy az eszközön</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d névjegy a SIM-kártyán, %2$d névjegy az eszközön</item>
+        <item quantity="one">%1$d névjegy a SIM-kártyán, %2$d névjegy az eszközön</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud®-névjegy</item>
+        <item quantity="one">1 iCloud®-névjegy</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d névjegy a SIM-kártyán</item>
+        <item quantity="one">1 névjegy a SIM-kártyán</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d alkalmazást találtunk. Válasszon ki néhányat, vagy hozza át mindet.</item>
+        <item quantity="one">%1$d alkalmazást találtunk. Szeretné áthozni ide?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">%1$d iOS®-alkalmazással találtunk egyezést. Ön minden egyes alkalmazás telepítésekor megadja a szükséges engedélyeket az adott alkalmazás számára. &lt;annotation id="apps_permissions_learn_more">További információ.&lt;/annotation></item>
+        <item quantity="one">Egy iOS®-alkalmazással találtunk egyezést. Az alkalmazás telepítésével megadja a szükséges engedélyeket az adott alkalmazás számára. &lt;annotation id="apps_permissions_learn_more">További információ.&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d elem maradt…</item>
+        <item quantity="one">%1$d elem maradt…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Figyelem! A következő résztvevők már nincsenek meghívva erre az eseményre:</item>
+        <item quantity="one">Figyelem! A következő résztvevő már nincs meghívva erre az eseményre:</item>
+    </plurals>
+</resources>

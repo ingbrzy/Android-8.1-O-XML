@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_home_description_format">%1$s – %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s – %3$s</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet pomocí %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="app_has_in_app_purchases">Nákupy v aplikacích</string>
+    <string name="app_has_permissions">Oprávnění: %s</string>
+    <string name="app_has_runtime_permissions">Aplikace požádá o oprávnění</string>
+    <string name="app_picker_app_already_installed_toast">Tato aplikace již je nainstalována</string>
+    <string name="app_picker_loading">Vyhledávání dostupných aplikací…</string>
+    <string name="app_picker_loading_toast">Dostupné aplikace se brzy načtou</string>
+    <string name="app_picker_no_apps">Nebyly vybrány žádné aplikace</string>
+    <string name="app_picker_no_apps_found">Nebyly nalezeny žádné aplikace</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Nákupy v aplikacích do zařízení ^1 nebudou přeneseny.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Některé nákupy v aplikacích do zařízení ^1 nemusí být přeneseny.</string>
+    <string name="apps_permissions_described_v2">"Odpovídající aplikace pro Android lze najít jen u oblíbených, bezplatných aplikací pro iOS®. Většina zakoupeného obsahu v aplikacích se nepřenese. Až bude vše nastaveno, budete si moci stáhnout další aplikace z Obchodu Play.
+
+Některým aplikacím pravděpodobně bude potřeba udělit oprávnění k přístupu k určitým funkcím nebo údajům ve vašem zařízení. Oprávnění jsou uspořádána do skupin. Zahájením instalace těchto aplikací jim udělujete oprávnění, která jsou součástí jednotlivých skupin. Popis skupin oprávnění naleznete níže.
+
+Některé aplikace nemusejí vyžadovat okamžité udělení oprávnění. Při používání takové aplikace budete moci povolit nebo zakázat jednotlivé žádosti o oprávnění dříve, než aplikace příslušný typ dat použije.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Instalací jednotlivých aplikací jim udělujete oprávnění, která požadují. <annotation id="apps_permissions_learn_more">Další informace</annotation></string>
+    <string name="auto_restore_summary">Při přeinstalaci aplikace obnovit zálohovaná nastavení a další data</string>
+    <string name="auto_restore_title">Automatické obnovení</string>
+    <string name="backup_configure_account_default_summary">Záložní data nejsou momentálně ukládána do žádného účtu</string>
+    <string name="backup_configure_account_title">Záložní účet</string>
+    <string name="backup_data_summary">Zálohování dat aplikací, hesel sítí Wi-Fi a dalších nastavení na Disk Google</string>
+    <string name="backup_data_summary_full">"Automaticky vzdáleně zálohujte data zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a data aplikací (jako jsou nastavení a soubory uložené aplikacemi).
+
+Když zapnete automatické zálohování, data zařízení a aplikací se budou pravidelně ukládat do vzdáleného úložiště. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky."</string>
+    <string name="backup_data_title">Zálohovat na Disk Google</string>
+    <string name="backup_erase_dialog_message">Chcete přestat zálohovat hesla sítí Wi-Fi, záložky, další nastavení, data aplikací a vymazat všechny kopie na Disku Google?</string>
+    <string name="backup_erase_dialog_message_full">Zastavit zálohování dat zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a dat aplikací (jako jsou nastavení a soubory uložené aplikacemi) a vymazat všechny kopie na Disku Google?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Při otevírání nastavení fotek došlo k chybě</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Když zapnete automatické zálohování, projeví se to následovně:
+
+ ● Nastavení zařízení a data aplikací budou pravidelně ukládána do soukromé složky na Disku Google. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky.
+
+ Velké soubory nebo soubory, které se vývojáři rozhodli ze služby vyloučit, zálohovány nebudou.
+
+ ● Fotky a videa nahraná v tomto zařízení se synchronizují do knihovny Fotek Google, kde je budete moci vyhledávat, upravovat, mazat a sdílet z libovolného zařízení.
+
+ Ve výchozím nastavení jsou nahrávány fotky a videa v plném rozlišení. Tato data se nezapočítávají do kvóty úložiště Disku.
+
+ ● Kontakty a přidružená data z tohoto zařízení se synchronizují do Kontaktů Google. Pomocí aplikace Kontakty Google můžete kontakty vyhledávat, upravovat, mazat a sdílet z libovolného zařízení.
+
+ ● Záznamy v kalendáři a přidružená data z tohoto zařízení se synchronizují do Kalendáře Google. Pomocí aplikace Kalendář Google můžete položky v kalendáři vyhledávat, upravovat, mazat a sdílet z libovolného zařízení.
+
+ Zálohovaná data se nezapočítávají do kvóty úložiště Disku."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Když zapnete automatické zálohování, projeví se to následovně:
+
+ ● Nastavení zařízení a data aplikací budou pravidelně ukládána do soukromé složky na Disku Google. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky.
+
+ Velké soubory nebo soubory, které se vývojáři rozhodli ze služby vyloučit, zálohovány nebudou.
+
+ ● Kontakty a přidružená data z tohoto zařízení se synchronizují do Kontaktů Google. Pomocí aplikace Kontakty Google můžete kontakty vyhledávat, upravovat, mazat a sdílet z libovolného zařízení.
+
+ ● Záznamy v kalendáři a přidružená data z tohoto zařízení se synchronizují do Kalendáře Google. Pomocí aplikace Kalendář Google můžete položky v kalendáři vyhledávat, upravovat, mazat a sdílet z libovolného zařízení.
+
+ Zálohovaná data se nezapočítávají do kvóty úložiště Disku."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalendář, kontakty, fotky a videa jsou synchronizovány do účtu Google a lze je používat v různých službách.</string>
+    <string name="backup_opt_in_backup_description_v2">Automatické zálohování umožňuje kdykoliv telefon snadno obnovit nebo přejít na jiný. <annotation id="backup_opt_in_learn_more">Další informace</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Přestanou se zálohovat následující data:
+
+Aplikace a data aplikací
+Historie volání
+Nastavení zařízení
+Fotky a videa
+Zprávy SMS
+
+Kalendář a kontakty se budou do účtu Google synchronizovat i nadále. Po dokončení nastavení můžete předvolby synchronizace změnit v "<annotation id="backup_opt_in_settings_instructions">Nastavení > Účty > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vypnout zálohování?</string>
+    <string name="backup_opt_in_backup_list">"Aplikace a data aplikací
+Kalendář
+Historie volání
+Kontakty
+Nastavení zařízení (včetně hesel Wi-Fi)
+Fotky a videa
+Zprávy SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Zálohována budou následující data:</string>
+    <string name="backup_opt_in_backup_title">Zálohovat na Disk Google</string>
+    <string name="backup_opt_in_disable_backup">Vypnout zálohování</string>
+    <string name="backup_photos_update">Aktualizujte Fotky Google</string>
+    <string name="backup_settings_activity_backup_title">Záloha</string>
+    <string name="backup_settings_activity_title">Záloha a obnova dat</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nekopírovat</string>
+    <string name="close_button_label">Zavřít</string>
+    <string name="cloud_restore_app_picker_button">Obnovit</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Záloha neobsahuje žádné aplikace</string>
+    <string name="cloud_restore_app_picker_title">Vyberte aplikace, které chcete obnovit</string>
+    <string name="common_accept">Přijmout</string>
+    <string name="common_add_account_label">Přidat účet</string>
+    <string name="common_ads_settings_title">Reklamy</string>
+    <string name="common_agree">Souhlasím</string>
+    <string name="common_app_name">Služby Google Play</string>
+    <string name="common_asm_preferences_settings_title">Nastavení účtu</string>
+    <string name="common_asm_privacy_settings_title">Osobní údaje a soukromí</string>
+    <string name="common_asm_security_settings_title">Přihlášení a zabezpečení</string>
+    <string name="common_audience_edit_button_label">Upravit</string>
+    <string name="common_cancel">Zrušit</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts nebylo možné spustit (chyba oprávnění).</string>
+    <string name="common_car_permission_desc">Přístup ke službě auta.</string>
+    <string name="common_car_permission_label">Služba auta</string>
+    <string name="common_chips_label_empty_circles">Žádné kruhy</string>
+    <string name="common_chips_label_extended_circles">Rozšířené kruhy</string>
+    <string name="common_chips_label_only_you">Pouze vy</string>
+    <string name="common_chips_label_public">Veřejné</string>
+    <string name="common_chips_label_your_circles">Vaše kruhy</string>
+    <string name="common_choose_account_label">Vybrat účet</string>
+    <string name="common_clear_app_data_menu_item">Vymazat data aplikace</string>
+    <string name="common_connected">Připojeno</string>
+    <string name="common_connected_apps_settings_title">Připojené aplikace</string>
+    <string name="common_connecting">Připojování…</string>
+    <string name="common_continue">Pokračovat</string>
+    <string name="common_disagree">Nesouhlasím</string>
+    <string name="common_disconnect">Odpojit</string>
+    <string name="common_done">Hotovo</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Od:</string>
+    <string name="common_games_settings_title">Hry Play</string>
+    <string name="common_get_started">Začínáme</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Povolit</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Chyba</string>
+    <string name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_updating_title">Probíhá aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Služby Google Play byly nainstalovány s chybnou architekturou.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Byly nainstalovány služby Google Play s architekturou (%1$s), která se neshoduje s architekturou zařízení (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Nesprávná architektura</string>
+    <string name="common_google_settings">Nastavení Google</string>
+    <string name="common_google_settings_account">Účet</string>
+    <string name="common_google_settings_credentials_title">Smart Lock na hesla</string>
+    <string name="common_google_settings_developer">Vývojář</string>
+    <string name="common_google_settings_services">Služby</string>
+    <string name="common_got_it">Rozumím</string>
+    <string name="common_install">Instalovat</string>
+    <string name="common_learn_more">Další informace</string>
+    <string name="common_list_apps_menu_help">Nápověda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Nápověda a zpětná vazba</string>
+    <string name="common_loading">Načítání…</string>
+    <string name="common_location_settings_title">Poloha</string>
+    <string name="common_magictether_settings_title">Dynamický tethering</string>
+    <string name="common_maps_settings_title">Mapy a Latitude</string>
+    <string name="common_mdm_feature_name">Správce zařízení Android</string>
+    <string name="common_missing_url_viewer">Chybí nástroj k zobrazení externí adresy URL.</string>
+    <string name="common_more_options">Další možnosti</string>
+    <string name="common_networking_settings_title">Sítě</string>
+    <string name="common_no_browser_for_restricted_url">Přístup omezen. Nebyl nalezen žádný prohlížeč.</string>
+    <string name="common_no_devices_found">Žádná zařízení nebyla nalezena</string>
+    <string name="common_no_network">Nedostupné, protože je zařízení offline</string>
+    <string name="common_no_thanks">Ne, děkuji</string>
+    <string name="common_not_now">Nyní ne</string>
+    <string name="common_off">Vypnuto</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Zapnuto</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_open_source_licenses">Licence open source</string>
+    <string name="common_people_settings_title">Kontakty</string>
+    <string name="common_permissions_enable_in_settings">Povolit v Nastavení</string>
+    <string name="common_permissions_missing_end">Chcete-li pokračovat, otevřete Nastavení a v sekci Oprávnění povolte všechny uvedené položky.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Chcete-li služby aktivovat, přejděte do 
+Nastavení >
+Oprávnění >
+Služby Google Play"</string>
+    <string name="common_permissions_missing_start">Ke spuštění této aplikace je třeba povolit žádost služeb Google Play o přístup k následujícím funkcím:</string>
+    <string name="common_permissions_open_settings">Otevřít nastavení</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Zásady ochrany soukromí</string>
+    <string name="common_restore">Obnovit</string>
+    <string name="common_retry">Zkusit znovu</string>
+    <string name="common_search_settings_title">Vyhledávání</string>
+    <string name="common_security_ootp_setting_title">Bezpečnostní kód</string>
+    <string name="common_security_settings_title">Zabezpečení</string>
+    <string name="common_send">Odeslat</string>
+    <string name="common_sending">Odesílání...</string>
+    <string name="common_set_up_nearby_device_settings_title">Nastavení zařízení v okolí</string>
+    <string name="common_settings">Nastavení</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string name="common_something_went_wrong">Něco se pokazilo</string>
+    <string name="common_system_info">Informace o systému</string>
+    <string name="common_take_photo_label">Vyfotit</string>
+    <string name="common_terms_of_service">Smluvní podmínky</string>
+    <string name="common_try_again">Zkusit znovu</string>
+    <string name="common_turn_on_bluetooth">Zapnout Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Smazat</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ano, smazat</string>
+    <string name="common_unknown">Neznámé</string>
+    <string name="common_update">Aktualizovat</string>
+    <string name="common_url_load_unsuccessful_message">Zařízení Android není připojeno k datové službě. Chcete-li zobrazit tyto informace, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Zařízení Android není připojeno k síti Wi-Fi. Chcete-li tyto informace zobrazit, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="common_url_login_notice">Přihlásit se pomocí účtu %1$s</string>
+    <string name="common_usage_and_diagnostics">Využití a diagnostika</string>
+    <string name="common_yesterday">Včera</string>
+    <string name="confirm_copy_button_text">Kopírovat</string>
+    <string name="contacts_number_device_and_icloud">iCloud®: %1$d, zařízení: %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Kontakty Google, iCloud®: %1$d, zařízení: %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Kontakty Google, SIM karta: %1$d, zařízení: %2$d</string>
+    <string name="contacts_number_device_with_google">Kontakty Google, zařízení: %1$d</string>
+    <string name="contacts_number_icloud_with_google">Kontakty Google, iCloud®: %1$d</string>
+    <string name="contacts_number_sim_with_google">Kontakty Google, SIM karta: %1$d</string>
+    <string name="copy_confirmation_description">Data (např. účet Google a aplikace) budou zkopírována do nového telefonu</string>
+    <string name="copy_confirmation_title">Zkopírovat do nového telefonu?</string>
+    <string name="d2d_app_picker_description_no_apps">Nenalezli jsme žádné aplikace</string>
+    <string name="d2d_app_picker_title">Aplikace</string>
+    <string name="d2d_migration_canceled_on_source">Kopírování bylo zrušeno</string>
+    <string name="data_copied_fragment_description">Data byla zkopírována do nového telefonu. Můžete odpojit kabel.</string>
+    <string name="data_copied_fragment_description_cancel">Kopírování jste zastavili. Do nového telefonu se proto zkopírovala pouze část vašich dat.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Kopírování jste zastavili. Do nového telefonu se proto nezkopírovala žádná data.</string>
+    <string name="data_copied_fragment_description_error">Něco se pokazilo. Nepodařilo se proto zkopírovat všechna data.</string>
+    <string name="data_copied_fragment_description_error_no_data">Něco se pokazilo. Data se nepodařilo zkopírovat.</string>
+    <string name="data_copied_fragment_no_data_title">Kopírování nelze zahájit</string>
+    <string name="data_copied_fragment_some_data_title">Byla zkopírována část dat</string>
+    <string name="data_copied_fragment_title">Data byla zkopírována</string>
+    <string name="device_backup_title">Zálohování zařízení</string>
+    <string name="device_not_supported_fragment_new_device">Jste připojeni k novému telefonu. Chcete-li pokračovat, znovu se připojte k předchozímu.</string>
+    <string name="device_not_supported_fragment_new_device_title">Obnovte připojení k předchozímu telefonu</string>
+    <string name="device_not_supported_fragment_no_data_cable">Pomocí tohoto kabelu nelze přenášet data. Připojte jiný kabel a zkuste to znovu.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Zkuste použít jiný kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Zkontrolujte, zda je původní telefon odemknutý, odpojte kabel a znovu a jej připojte</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Něco se pokazilo</string>
+    <string name="device_not_supported_ios_supervised_description">Vaše zařízení iPhone® je dozorované. Bude třeba vybrat jiný způsob zkopírování dat.</string>
+    <string name="device_picker_description">Zálohy jsou uloženy na Disku Google.</string>
+    <string name="device_picker_empty">S účtem %1$s nejsou propojena žádná záložní zařízení.</string>
+    <string name="device_picker_empty_title">Nebyla nalezena žádná záložní zařízení</string>
+    <string name="device_picker_item">Záloha zařízení %1$s</string>
+    <string name="device_picker_last_used">Naposledy použito ^1</string>
+    <string name="device_picker_skip">Neobnovovat</string>
+    <string name="device_picker_title">Výběr zálohy k obnovení</string>
+    <string name="disabled_by_admin_summary_text">Spravováno administrátorem</string>
+    <string name="download_msg_error_invalid">Stažení bylo nakonfigurováno nesprávně.</string>
+    <string name="download_msg_in_progress">Stahování probíhá.</string>
+    <string name="download_msg_not_allowed_space">Ke stažení není k dispozici dostatek místa.</string>
+    <string name="download_msg_pending">Stahování čeká na vyřízení.</string>
+    <string name="download_notification_description">Toto požaduje balíček %1$s.</string>
+    <string name="download_notification_title">Načítání dalších dat</string>
+    <string name="drive_backup_account">Účet</string>
+    <string name="drive_backup_apps_in_backup">Zálohovaná data aplikací</string>
+    <string name="drive_backup_apps_last_backup">Poslední záloha</string>
+    <string name="drive_backup_apps_loading">Načítání...</string>
+    <string name="drive_backup_apps_screen_title">Data aplikací</string>
+    <string name="drive_backup_content_apps_title">Data aplikací</string>
+    <string name="drive_backup_content_calendar_dialog_message">Události vytvořené v Kalendáři Google budou synchronizovány do všech zařízení, ve kterých jste ke svému účtu Google přihlášeni.</string>
+    <string name="drive_backup_content_calendar_title">Kalendář</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Záloha zahrnuje datum a jméno volajícího u příchozích i odchozích hovorů.</string>
+    <string name="drive_backup_content_callhistory_title">Historie volání</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontakty vytvořené v Kontaktech Google budou synchronizovány do všech zařízení, ve kterých jste ke svému účtu Google přihlášeni.</string>
+    <string name="drive_backup_content_contacts_title">Kontakty</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Záloha zahrnuje konfiguraci zařízení, jako je tapeta, hesla k sítím Wi-Fi a výchozí aplikace.</string>
+    <string name="drive_backup_content_devicesettings_title">Nastavení zařízení</string>
+    <string name="drive_backup_content_header">Obsah</string>
+    <string name="drive_backup_content_photos_dialog_message">Změnili jsme váš primární záložní účet. Také záložní účet Fotek Google můžete změnit na %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ZAVŘÍT</string>
+    <string name="drive_backup_content_photos_dialog_title">Změnit také účet pro fotky a videa?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ZMĚNIT</string>
+    <string name="drive_backup_content_photos_title">Fotky a videa</string>
+    <string name="drive_backup_content_sms_dialog_message">Záloha zahrnuje přijaté i odeslané zprávy. Mediální obsah MMS zálohován není.</string>
+    <string name="drive_backup_content_sms_title">Zprávy SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Rozumím</string>
+    <string name="drive_backup_content_status_error">Při načítání data poslední synchronizace došlo k chybě</string>
+    <string name="drive_backup_content_status_lastsaved">Poslední záloha: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Poslední synchronizace: %1$s</string>
+    <string name="drive_backup_content_status_never">Čeká se na zálohování</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Nastavení synchronizace</string>
+    <string name="drive_backup_content_status_sync_off">Synchronizace je VYPNUTA</string>
+    <string name="drive_backup_content_status_updating">Kontrola stavu...</string>
+    <string name="drive_backup_disabled_backuplist">"Zálohování zahrnuje tyto položky:
+\u0009– Aplikace a data aplikací
+\u0009– Historie volání
+\u0009– Nastavení zařízení (včetně hesel k sítím Wi-Fi)
+\u0009– Kalendář Google
+\u0009– Kontakty Google
+\u0009– Fotky a videa
+\u0009– Zprávy SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Záloha zahrnuje:
+\u0009– Aplikace a data aplikací
+\u0009– Historii volání
+\u0009– Nastavení zařízení (včetně hesel k sítím Wi-Fi)
+\u0009– Kalendář Google
+\u0009– Kontakty Google
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Zakázáno administrátorem</string>
+    <string name="drive_backup_disabled_detailedinfo">"Kalendář Google, Kontakty Google, fotky a videa se synchronizují do účtu Google a lze je používat v různých službách.
+
+Synchronizaci lze aktivovat, i když je zálohování vypnuté. Nastavení synchronizace lze změnit v Nastavení > Účty > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Kontakty Google a Kalendář Google se synchronizují do vašeho účtu Google a mohou být použity v různých zařízeních.
+
+Synchronizaci lze aktivovat, i když je zálohování vypnuté. Nastavení synchronizace lze změnit v Nastavení > Účty > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automatické zálohování umožňuje kdykoliv telefon snadno obnovit nebo přejít na jiný.</string>
+    <string name="drive_backup_settings_title">Záloha</string>
+    <string name="drive_backup_state">Zálohovat na Disk Google</string>
+    <string name="drive_backup_state_dialog_message">"Záložní data tohoto zařízení uložená na Disku Google budou trvale smazána.
+
+Zálohované fotky a videa budou nadále k dispozici na Disku Google.
+
+Kontakty Google a Kalendář Google se budou nadále synchronizovat do účtu Google. Nastavení synchronizace lze změnit v Nastavení > Účty > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Záložní data tohoto zařízení uložená na Disku Google budou trvale smazána.
+
+Kontakty Google a Kalendář Google se budou nadále synchronizovat do účtu Google. Nastavení synchronizace lze změnit v Nastavení > Účty > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Vypnout a smazat</string>
+    <string name="drive_backup_state_dialog_title">Vypnout a vymazat zálohu?</string>
+    <string name="durationDayHour">%1$d d %2$d h</string>
+    <string name="durationDayHours">%1$d d %2$d h</string>
+    <string name="durationDays">%1$d d</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d h</string>
+    <string name="durationMinute">%1$d min</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d min</string>
+    <string name="durationSecond">%1$d s</string>
+    <string name="durationSeconds">%1$d s</string>
+    <string name="encryption_warning_fragment_description">"V zařízení iPhone® je zapnuto šifrování zálohy. Pokud jste jej nezapnuli vy, mohl to udělat administrátor IT.
+
+Bude možné zkopírovat pouze fotky, hudbu a videa. Další informace naleznete na adrese "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Šifrování zálohy</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Adaptér nemůžu najít</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Použijte Quick Switch Adapter, který je součástí balení zařízení ^1.
+
+Zapojte kabel do adaptéru."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Zapojte adaptér a kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Odemkněte původní telefon a poté do nového telefonu zapojte adaptér.</string>
+    <string name="fragment_usb_connect_both_phones_title">Oba telefony propojte</string>
+    <string name="fragment_usb_dialog_cancel_description">Pomocí kabelu lze přesunout nejvíce obsahu. Pokud kabely v balení nepasují, zkuste použít nabíjecí nebo datový kabel původního telefonu.</string>
+    <string name="fragment_usb_dialog_cancel_title">Zkopírovat data jiným způsobem?</string>
+    <string name="fragment_usb_dont_have_cable">Žádný kabel nemám</string>
+    <string name="fragment_usb_dont_have_old_phone">Původní telefon již nemám</string>
+    <string name="fragment_usb_find_cable_description">Použijte kabel, který pasuje do původního telefonu (například datový nebo nabíjecí kabel).</string>
+    <string name="fragment_usb_find_cable_title">Najděte správný kabel</string>
+    <string name="fragment_usb_initial_description">Data se přenesou z původního telefonu do tohoto zařízení ^1.</string>
+    <string name="fragment_usb_initial_title">Nyní zkopírujeme vaše data</string>
+    <string name="fragment_usb_legacy_description">"Toto je nejrychlejší způsob, jak přenést většinu dat.
+
+Vyjměte z krabice adaptér a připojte jej k novému telefonu. Telefony propojte pomocí kabelu a poté původní telefon odemkněte."</string>
+    <string name="fragment_usb_other_ways">Zkopírovat bez kabelu</string>
+    <string name="fragment_usb_plug_cable">Zapojte kabel do původního telefonu</string>
+    <string name="fragment_waiting_title">Chviličku…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Kontakty Google se synchronizují</string>
+    <string name="google_contacts_static_text_off">Kontakty Google se budou synchronizovat i nadále</string>
+    <string name="header_set_backup_account">Nastavit záložní účet</string>
+    <string name="i_message_dialog_message">"Chcete-li i nadále dostávat SMS od uživatelů iPhonů®, je třeba vypnout aplikaci iMessage®.
+
+Pokyny naleznete na stránce "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Pokračujte na svém druhém telefonu</string>
+    <string name="ios_connected_fragment_description">"Na další obrazovce se můžete přihlásit k účtu Google nebo vytvořit nový.
+
+Pokud účet Google nepřidáte, události kalendáře iOS Calendar® nebudou přesunuty."</string>
+    <string name="ios_message_attachment_explanation">[Přílohy zprávy byly uloženy do Fotek Google > Složky ze zařízení > Přílohy zpráv.]</string>
+    <string name="ios_message_attachment_failed_explanation">[Některé přílohy se nepodařilo zkopírovat. Přenesené přílohy naleznete ve Fotkách Google > Složky ze zařízení > Přílohy zpráv.]</string>
+    <string name="ios_message_attachment_placeholder">[Příloha byla uložena do Fotek Google > Složky ze zařízení > Přílohy zpráv]</string>
+    <string name="ios_message_attachments_placeholder">[Přílohy byly uloženy do Fotek Google > Složky ze zařízení > Přílohy zpráv]</string>
+    <string name="ios_migration_default_calendar_title">Kalendář</string>
+    <string name="ios_migration_other_contact_relation">Jiné</string>
+    <string name="ios_photos_dialog_message">"Fotky uložené ve službě iCloud® nelze zkopírovat.
+
+Chcete-li tyto fotky přenést do zařízení ^1, nainstalujte si do iPhonu® aplikaci Fotky Google a zapněte zálohování a synchronizaci. Další pokyny naleznete na adrese "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Přidat účet</string>
+    <string name="lockscreen_smartdevice_action_next">Další</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Chcete-li pokračovat v nastavování telefonu, odemkněte jej.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Z bezpečnostních důvodů budete moci v nastavování pokračovat až poté, co zadáte zámek obrazovky.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Zadejte zámek obrazovky</string>
+    <string name="manage_data_label">Účet Google</string>
+    <string name="master_clear_title">Obnovení továrních dat</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Je potřeba nastavit záložní účet</string>
+    <string name="notification_content_title_set_backup_account">Záloha</string>
+    <string name="notification_ticker_set_backup_account">Je potřeba záložní účet</string>
+    <string name="permgrouplab_calendar">Kalendář</string>
+    <string name="permgrouplab_camera">Fotoaparát</string>
+    <string name="permgrouplab_contacts">Kontakty</string>
+    <string name="permgrouplab_location">Poloha</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Tělesné senzory</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Úložiště</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Záložní fotky nejsou momentálně ukládány do žádného účtu</string>
+    <string name="photos_backup_title">Zálohování fotek</string>
+    <string name="photos_filtering_option_all">Vše</string>
+    <string name="photos_filtering_option_none">Nic</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Zkopírované kontakty budou uloženy do vašeho účtu Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Zkopírované kontakty a kalendáře budou uloženy do vašeho účtu Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Některá data nemusí být do zařízení ^1 zkopírována. <annotation id="restore_choice_data_disclaimer_learn_more">Další informace</annotation></string>
+    <string name="restore_choice_deselect_some_content">Chcete-li pokračovat, výběr části obsahu zrušte</string>
+    <string name="restore_choice_learn_more_android">"Některá data z původního telefonu nelze automaticky zkopírovat:
+
+ ● stažené soubory (např. soubory PDF),
+
+ ● fotky, videa a hudební soubory uložené ve skrytých složkách,
+
+ ● fotky, videa a hudební soubory přijaté v textové zprávě,
+
+ ● aplikace, které nepocházejí z Obchodu Google Play,
+
+ ● data aplikací (pokud příslušná aplikace nevyužívá zálohování pomocí služby Android Backup Service),
+
+ ● určitá nastavení zařízení,
+
+ ● všechny účty kromě účtů Google (a přidružená data),
+
+ ● kontakty a kalendáře synchronizované do služeb mimo Google,
+
+ ● vyzváněcí tóny.
+
+ Pokud ohledně kopírování těchto dat potřebujete další informace nebo nápovědu, navštivte adresu g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Některá data z původního telefonu nelze automaticky zkopírovat:
+
+ ● aplikace a data aplikací,
+
+ ● fotky, jejichž originál není uložen v telefonu (například pokud je zapnutá optimalizace úložiště, originály fotek se ukládají do služby iCloud®),
+
+ ● soubory a dokumenty uložené ve službě iCloud®,
+
+ ● nastavení zařízení (např. hesla sítí Wi-Fi a tapety),
+
+ ● hudba chráněná technologií DRM (Digital Rights Management) – například hudba z iTunes® zakoupená do dubna 2009 nebo hudba stažená k offline poslechu v aplikaci pro streamování hudby,
+
+ ● všechny účty kromě účtů Google (a přidružená data),
+
+ ● kontakty a kalendáře synchronizované do služeb mimo Google a iCloud®,
+
+ ● záložky z prohlížeče Safari®.
+
+ Přílohy z aplikace iMessage® budou k dispozici v sekci Fotky Google > Složky ze zařízení > Přílohy zpráv.
+
+ Pokud ohledně kopírování těchto dat potřebujete další informace nebo nápovědu, navštivte adresu g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nedostatek místa</string>
+    <string name="restore_choice_total_text">z celkového úložiště o velikosti %1$s / přenos potrvá %2$s</string>
+    <string name="restore_error_message">Je nám líto, ale obnovení se nezdařilo.</string>
+    <string name="restore_item_appdata">Data aplikací</string>
+    <string name="restore_item_calendar">Kalendář</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Kalendář Google</string>
+    <string name="restore_item_calendar_ical_off_description">Kalendář Google se přesto synchronizuje</string>
+    <string name="restore_item_calendar_sync_description">Kalendář Google se synchronizuje</string>
+    <string name="restore_item_call_logs">Historie volání</string>
+    <string name="restore_item_contacts">Kontakty</string>
+    <string name="restore_item_device_settings_description">Hesla sítí Wi-Fi a další údaje</string>
+    <string name="restore_item_downloads">Stažené soubory</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">Gmail se synchronizuje</string>
+    <string name="restore_item_message_attachments">Přílohy zpráv</string>
+    <string name="restore_item_messages">Zprávy</string>
+    <string name="restore_item_music">Hudba</string>
+    <string name="restore_item_photos">Fotky a videa</string>
+    <string name="restore_item_settings">Nastavení zařízení</string>
+    <string name="restore_item_sms">Zprávy SMS</string>
+    <string name="restore_item_will_be_synced_text">Tato data se synchronizují do telefonu</string>
+    <string name="restore_progress_title">Obnovování…</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="small_time_duration">Méně než 1 minuta</string>
+    <string name="source_connected_description">Příprava...</string>
+    <string name="source_connected_title">Připojeno k zařízení %1$s</string>
+    <string name="source_copying_description">Zvolená data se kopírují do vašeho nového telefonu.</string>
+    <string name="source_copying_title">Kopírování...</string>
+    <string name="source_default_target_device_name">nové zařízení</string>
+    <string name="source_notification_device_disconnected">Znovu připojte kabel</string>
+    <string name="source_notification_text">Probíhá přenos mezi telefony</string>
+    <string name="source_notification_title">Přenos dat</string>
+    <string name="source_success_description">Dokončete nastavení na zařízení %1$s.</string>
+    <string name="source_success_screen_title">Hotovo!</string>
+    <string name="source_unplugged_description">Obnovte připojení k zařízení %1$s.</string>
+    <string name="source_unplugged_title">Kabel je odpojen</string>
+    <string name="source_waiting_title">Pokračujte v nastavování na zařízení %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Zavřít</string>
+    <string name="stop_copying_dialog_message_before_transfer">Data do nového telefonu nebyla zkopírována</string>
+    <string name="stop_copying_dialog_message_during_transfer">Do nového telefonu byla zkopírována jen část dat</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nekopírovat</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Zastavit</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nekopírovat?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Zastavit kopírování?</string>
+    <string name="storage_management_wear_descriptive_text">Aplikace ke zkopírování dat do přenosné aplikace používají úložiště vašeho zařízení.</string>
+    <string name="storage_management_wear_manage_size_label">Spravovat přenosné úložiště</string>
+    <string name="storage_management_wear_size_label">Přenosné úložiště</string>
+    <string name="storage_managment_all_storage_descriptive_text">Celková velikost dat využitých službami Google Play, včetně vyhledávače a dalších údajů.</string>
+    <string name="storage_managment_clear_all_data">Vymazat všechna data</string>
+    <string name="storage_managment_computing_size">Probíhá výpočet…</string>
+    <string name="storage_managment_icing_size_label">Data vyhledávání</string>
+    <string name="storage_managment_manage_icing_button">Spravovat data vyhledávání</string>
+    <string name="storage_managment_search_index_descriptive_text">Ve vašem zařízení zrychlujeme vyhledávání tím, že aplikacím poskytujeme vyhledávač, který mohou používat.</string>
+    <string name="storage_managment_title">Úložiště služeb Google Play</string>
+    <string name="storage_managment_total_size_label">Celková velikost úložiště</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="suw_next_button_label">Další</string>
+    <string name="target_default_source_device_model">staré zařízení</string>
+    <string name="target_device_not_supported_cant_continue_description">Bude třeba vybrat jiný způsob zkopírování dat</string>
+    <string name="target_device_not_supported_cant_continue_title">Druhý telefon není podporován</string>
+    <string name="target_device_not_supported_try_restarting_description">"Odpojte kabel a původní telefon restartujte. Poté kabel znovu připojte a postupujte podle pokynů v telefonu Pixel.
+
+Pokud se tato chyba bude zobrazovat i nadále, zřejmě bude třeba použít jiný způsob kopírování."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon pravděpodobně není podporován</string>
+    <string name="target_smart_device_timeout_add_account">PŘIDAT ÚČET</string>
+    <string name="target_smart_device_timeout_description">Účet se můžete pokusit přidat ručně</string>
+    <string name="target_smart_device_timeout_dismiss">ZAVŘÍT</string>
+    <string name="target_smart_device_timeout_title">Máte potíže?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefony jsou propojeny</string>
+    <string name="toast_reconnect_cable">Znovu připojte kabel</string>
+    <string name="transfer_finished_fragment_title">Probíhají poslední úpravy...</string>
+    <string name="transfer_summary_copied">Data byla zkopírována</string>
+    <string name="transfer_summary_fragment_description">Kabel můžete odpojit.</string>
+    <string name="transfer_summary_fragment_finish">DOKONČIT</string>
+    <string name="transfer_summary_fragment_title">Telefon je skoro připraven</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Některé fotky nebyly zkopírovány. <annotation id="transfer_summary_learn_more">Další informace</annotation></string>
+    <string name="transfer_summary_not_copied">Data nebyla zkopírována</string>
+    <string name="transfer_summary_partial">Zkopírováno: %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">Data se synchronizují po dokončení nastavení</string>
+    <string name="transferring_fragment_calculating_remaining_time">Výpočet zbývajícího času...</string>
+    <string name="transferring_fragment_header">Kopírování...</string>
+    <string name="transferring_fragment_remaining_time">Zbývá %1$s</string>
+    <string name="trust_instructions_description">Chcete-li pokračovat, v zařízení iPhone® schvalte připojení.</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari a iTunes jsou ochranné známky společnosti Apple Inc. registrované v USA a dalších zemích.</string>
+</resources>

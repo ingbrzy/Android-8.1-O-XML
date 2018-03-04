@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontaktů bylo označeno štítkem %2$s</item>
+        <item quantity="one">%1$d kontakt byl označen štítkem %2$s</item>
+        <item quantity="few">%1$d kontakty byly označeny štítkem %2$s</item>
+        <item quantity="many">%1$d kontaktu bylo označeno štítkem %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Označování %1$d kontaktů štítkem %2$s</item>
+        <item quantity="one">Označování %1$d kontaktu štítkem %2$s</item>
+        <item quantity="few">Označování %1$d kontaktů štítkem %2$s</item>
+        <item quantity="many">Označování %1$d kontaktu štítkem %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Zkontrolujte navržené údaje pro %d kontaktů</item>
+        <item quantity="one">Zkontrolujte navržené údaje pro %d kontakt</item>
+        <item quantity="few">Zkontrolujte navržené údaje pro %d kontakty</item>
+        <item quantity="many">Zkontrolujte navržené údaje pro %d kontaktu</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d nevyžádaných kontaktů</item>
+        <item quantity="one">%d nevyžádaný kontakt</item>
+        <item quantity="few">%d nevyžádané kontakty</item>
+        <item quantity="many">%d nevyžádaného kontaktu</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d duplicitních kontaktů</item>
+        <item quantity="one">1 duplicitní kontakt</item>
+        <item quantity="few">%d duplicitní kontakty</item>
+        <item quantity="many">%d duplicitního kontaktu</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d hovorů v poslední době • Naposledy %2$s</item>
+        <item quantity="one">%1$d hovor v poslední době • Naposledy %2$s</item>
+        <item quantity="few">%1$d hovory v poslední době • Naposledy %2$s</item>
+        <item quantity="many">%1$d hovoru v poslední době • Naposledy %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kontakty už jsou označeny štítkem %1$s</item>
+        <item quantity="one">Kontakt už je označen štítkem %1$s</item>
+        <item quantity="few">Kontakty už jsou označeny štítkem %1$s</item>
+        <item quantity="many">Kontakty už jsou označeny štítkem %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktu</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktů · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+        <item quantity="few">%1$d kontakty · %2$s</item>
+        <item quantity="many">%1$d kontaktu · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontaktů bylo smazáno</item>
+        <item quantity="one">%1$d kontakt byl smazán</item>
+        <item quantity="few">%1$d kontakty byly smazány</item>
+        <item quantity="many">%1$d kontaktu bylo smazáno</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Tyto kontakty budou odebrány z Kontaktů Google i ze všech vašich synchronizovaných zařízení</item>
+        <item quantity="one">Tento kontakt bude odebrán z Kontaktů Google i ze všech vašich synchronizovaných zařízení</item>
+        <item quantity="few">Tyto kontakty budou odebrány z Kontaktů Google i ze všech vašich synchronizovaných zařízení</item>
+        <item quantity="many">Tyto kontakty budou odebrány z Kontaktů Google i ze všech vašich synchronizovaných zařízení</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktů ve vašich dalších účtech</item>
+        <item quantity="one">1 kontakt ve vašich dalších účtech</item>
+        <item quantity="few">%1$d kontakty ve vašich dalších účtech</item>
+        <item quantity="many">%1$d kontaktu ve vašich dalších účtech</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktů</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d kontaktu</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktů • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+        <item quantity="few">^1 kontakty • ^2</item>
+        <item quantity="many">^1 kontaktu • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Přesunout těchto %1$d kontaktů do účtu %2$s?</item>
+        <item quantity="one">Přesunout tento kontakt do účtu %2$s?</item>
+        <item quantity="few">Přesunout tyto %1$d kontakty do účtu %2$s?</item>
+        <item quantity="many">Přesunout těchto %1$d kontaktu do účtu %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d kontaktů bylo přesunuto</item>
+        <item quantity="one">%d kontakt byl přesunut</item>
+        <item quantity="few">%d kontakty byly přesunuty</item>
+        <item quantity="many">%d kontaktu bylo přesunuto</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Přesouvání %d kontaktů bylo dokončeno</item>
+        <item quantity="one">Přesouvání kontaktu bylo dokončeno</item>
+        <item quantity="few">Přesouvání %d kontaktů bylo dokončeno</item>
+        <item quantity="many">Přesouvání %d kontaktu bylo dokončeno</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Přesouvání %d kontaktů</item>
+        <item quantity="one">Přesouvání kontaktu</item>
+        <item quantity="few">Přesouvání %d kontaktů</item>
+        <item quantity="many">Přesouvání %d kontaktu</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontaktů bylo zálohováno do účtu %2$s</item>
+        <item quantity="one">%1$d kontakt byl zálohován do účtu %2$s</item>
+        <item quantity="few">%1$d kontakty byly zálohovány do účtu %2$s</item>
+        <item quantity="many">%1$d kontaktu bylo zálohováno do účtu %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Import ze SIM karet</item>
+        <item quantity="one">Import ze SIM karty</item>
+        <item quantity="few">Import ze SIM karet</item>
+        <item quantity="many">Import ze SIM karet</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktu</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Bylo importováno %d kontaktů ze SIM karty</item>
+        <item quantity="one">Byl importován 1 kontakt ze SIM karty</item>
+        <item quantity="few">Byly importovány %d kontakty ze SIM karty</item>
+        <item quantity="many">Bylo importováno %d kontaktu ze SIM karty</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Sdílet kontakty v aplikaci</item>
+        <item quantity="one">Sdílet kontakt v aplikaci</item>
+        <item quantity="few">Sdílet kontakty v aplikaci</item>
+        <item quantity="many">Sdílet kontakty v aplikaci</item>
+    </plurals>
+</resources>

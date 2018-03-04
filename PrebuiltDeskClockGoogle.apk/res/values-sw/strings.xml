@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">=Abidjan|Africa/Abidjan</string>
+    <string name="C10">=Dakar|Africa/Dakar</string>
+    <string name="C100">=Amman|Asia/Amman</string>
+    <string name="C101">=Anadyr|Asia/Anadyr</string>
+    <string name="C102">=Aktau|Asia/Aqtau</string>
+    <string name="C103">=Baghdad|Asia/Baghdad</string>
+    <string name="C104">B=Bahrain|Asia/Bahrain</string>
+    <string name="C105">=Baku|Asia/Baku</string>
+    <string name="C106">=Bangkok|Asia/Bangkok</string>
+    <string name="C107">=Beirut|Asia/Beirut</string>
+    <string name="C108">K=Kolkata|Asia/Calcutta</string>
+    <string name="C109">=Damascus|Asia/Damascus</string>
+    <string name="C11">=Dar es Salaam|Africa/Dar_es_Salaam</string>
+    <string name="C110">=Dhaka|Asia/Dhaka</string>
+    <string name="C111">=Dubai|Asia/Dubai</string>
+    <string name="C112">=Gaza|Asia/Gaza</string>
+    <string name="C113">=Hebron|Asia/Hebron</string>
+    <string name="C114">=Ho Chi Minh|Asia/Ho_Chi_Minh</string>
+    <string name="C115">=Hong Kong:|Asia/Hong_Kong</string>
+    <string name="C117">=Jakarta|Asia/Jakarta</string>
+    <string name="C118">=Yerusalemu|Asia/Jerusalem</string>
+    <string name="C119">=Kabul|Asia/Kabul</string>
+    <string name="C12">D=Djibouti|Africa/Djibouti</string>
+    <string name="C120">=Karachi|Asia/Karachi</string>
+    <string name="C121">=Kathmandu|Asia/Kathmandu</string>
+    <string name="C122">=Kuala Lumpur|Asia/Kuala_Lumpur</string>
+    <string name="C123">=Kuwaiti|Asia/Kuwait</string>
+    <string name="C124">M=Macau|Asia/Macau</string>
+    <string name="C125">=Manila|Asia/Manila</string>
+    <string name="C126">=Maskat|Asia/Muscat</string>
+    <string name="C127">=Phnom Penh|Asia/Phnom_Penh</string>
+    <string name="C128">=Pyongyang:|Asia/Pyongyang</string>
+    <string name="C13">=Freetown|Africa/Freetown</string>
+    <string name="C130">=Rangoon|Asia/Rangoon</string>
+    <string name="C131">=Riyadh|Asia/Riyadh</string>
+    <string name="C133">=Seoul|Asia/Seoul</string>
+    <string name="C134">=Shanghai:|Asia/Shanghai</string>
+    <string name="C135">S=Singapore|Asia/Singapore</string>
+    <string name="C136">=Taipei:|Asia/Taipei</string>
+    <string name="C137">=Tehran|Asia/Tehran</string>
+    <string name="C138">=Tel Aviv|Asia/Tel_Aviv</string>
+    <string name="C139">=Tokyo:|Asia/Tokyo</string>
+    <string name="C14">=Gaborone|Africa/Gaborone</string>
+    <string name="C140">=Ulaanbaatar|Asia/Ulaanbaatar</string>
+    <string name="C141">=Bamuda|Atlantic/Bermuda</string>
+    <string name="C142">=Canary|Atlantic/Canary</string>
+    <string name="C143">C=Cape Verde|Atlantic/Cape_Verde</string>
+    <string name="C144">=Reykjavik|Atlantic/Reykjavik</string>
+    <string name="C145">=Stanley|Atlantic/Stanley</string>
+    <string name="C146">=Adelaide|Australia/Adelaide</string>
+    <string name="C147">=Brisbane|Australia/Brisbane</string>
+    <string name="C148">=Canberra|Australia/Canberra</string>
+    <string name="C149">=Darwin|Australia/Darwin</string>
+    <string name="C15">=Harare|Africa/Harare</string>
+    <string name="C150">=Melbourne|Australia/Melbourne</string>
+    <string name="C151">=New South Wales|Australia/NSW</string>
+    <string name="C152">=Perth|Australia/Perth</string>
+    <string name="C153">=Queensland|Australia/Queensland</string>
+    <string name="C154">=Sydney|Australia/Sydney</string>
+    <string name="C155">=Victoria|Australia/Victoria</string>
+    <string name="C156">=Newfoundland|Canada/Newfoundland</string>
+    <string name="C157">=Saskatchewan|Canada/Saskatchewan</string>
+    <string name="C158">=Kisiwa cha Easter|Chile/EasterIsland</string>
+    <string name="C159">=Amsterdam|Europe/Amsterdam</string>
+    <string name="C16">=Johannesburg|Africa/Johannesburg</string>
+    <string name="C160">A=Andorra|Europe/Andorra</string>
+    <string name="C161">=Athens|Europe/Athens</string>
+    <string name="C162">=Belfast|Europe/Belfast</string>
+    <string name="C163">=Belgrade|Europe/Belgrade</string>
+    <string name="C164">=Berlin|Europe/Berlin</string>
+    <string name="C165">=Bratislava|Europe/Bratislava</string>
+    <string name="C166">=Brussels|Europe/Brussels</string>
+    <string name="C167">=Bucharest|Europe/Bucharest</string>
+    <string name="C168">=Budapest|Europe/Budapest</string>
+    <string name="C169">=Chisinau|Europe/Chisinau</string>
+    <string name="C17">=Kampala|Africa/Kampala</string>
+    <string name="C170">=Copenhagen|Europe/Copenhagen</string>
+    <string name="C171">=Dublin|Europe/Dublin</string>
+    <string name="C172">=Gibraltar|Europe/Gibraltar</string>
+    <string name="C173">=Helsinki|Europe/Helsinki</string>
+    <string name="C174">=Kisiwa cha Man|Europe/Isle_of_Man</string>
+    <string name="C175">=Istanbul|Europe/Istanbul</string>
+    <string name="C176">=Kiev|Europe/Kiev</string>
+    <string name="C177">=Lisbon|Europe/Lisbon</string>
+    <string name="C178">=London|Europe/London</string>
+    <string name="C179">=Luxembourg|Europe/Luxembourg</string>
+    <string name="C18">=Khartoum|Africa/Khartoum</string>
+    <string name="C180">=Madrid|Europe/Madrid</string>
+    <string name="C181">=Malta|Europe/Malta</string>
+    <string name="C182">=Minsk|Europe/Minsk</string>
+    <string name="C183">M=Monaco|Europe/Monaco</string>
+    <string name="C184">=Moscow|Europe/Moscow</string>
+    <string name="C185">=Oslo|Europe/Oslo</string>
+    <string name="C186">=Paris|Europe/Paris</string>
+    <string name="C187">=Prague|Europe/Prague</string>
+    <string name="C188">=Riga|Europe/Riga</string>
+    <string name="C189">=Rome|Europe/Rome</string>
+    <string name="C19">=Kigali|Africa/Kigali</string>
+    <string name="C190">=San Marino|Europe/San_Marino</string>
+    <string name="C191">=Sarajevo|Europe/Sarajevo</string>
+    <string name="C192">=Simferopol|Europe/Simferopol</string>
+    <string name="C193">=Skopje|Europe/Skopje</string>
+    <string name="C194">=Sofia|Europe/Sofia</string>
+    <string name="C195">=Stockholm|Europe/Stockholm</string>
+    <string name="C196">=Tallinn|Europe/Tallinn</string>
+    <string name="C197">V=Vatican|Europe/Vatican</string>
+    <string name="C198">=Viena|Europe/Vienna</string>
+    <string name="C199">=Vilnius|Europe/Vilnius</string>
+    <string name="C2">=Accra|Africa/Accra</string>
+    <string name="C20">=Kinshasa|Africa/Kinshasa</string>
+    <string name="C200">=Warsaw|Europe/Warsaw</string>
+    <string name="C201">=Zagreb|Europe/Zagreb</string>
+    <string name="C202">=Zurich|Europe/Zurich</string>
+    <string name="C203">=Antananarivo|Indian/Antananarivo</string>
+    <string name="C204">=Maldivi|Indian/Maldives</string>
+    <string name="C205">M=Mauritius|Indian/Mauritius</string>
+    <string name="C206">=Auckland|Pacific/Auckland</string>
+    <string name="C207">=Fiji|Pacific/Fiji</string>
+    <string name="C208">=Guam|Pacific/Guam</string>
+    <string name="C209">=Honolulu|Pacific/Honolulu</string>
+    <string name="C21">=Lagos|Africa/Lagos</string>
+    <string name="C210">=Kiritimati|Pacific/Kiritimati</string>
+    <string name="C211">=Noumea|Pacific/Noumea</string>
+    <string name="C214">=Antigua|America/Antigua</string>
+    <string name="C215">=Austin|America/Chicago</string>
+    <string name="C216">=Boston|America/New_York</string>
+    <string name="C217">=Calgary|America/Denver</string>
+    <string name="C218">=Columbus|America/New_York</string>
+    <string name="C219">=Dallas|America/Chicago</string>
+    <string name="C22">=Maseru|Africa/Maseru</string>
+    <string name="C220">=Knoxville|America/New_York</string>
+    <string name="C221">=Memphis|America/Chicago</string>
+    <string name="C222">=Miami|America/New_York</string>
+    <string name="C223">=Minneapolis|America/Chicago</string>
+    <string name="C224">=Ottawa|America/New_York</string>
+    <string name="C225">=Philadelphia|America/New_York</string>
+    <string name="C226">=Portland|America/Los_Angeles</string>
+    <string name="C227">=San Diego|America/Los_Angeles</string>
+    <string name="C228">=San Francisco|America/Los_Angeles</string>
+    <string name="C229">=Salt Lake City|America/Denver</string>
+    <string name="C23">=Mogadishu|Africa/Mogadishu</string>
+    <string name="C230">=San Jose|America/Los_Angeles</string>
+    <string name="C231">=San Salvador|America/Guatemala</string>
+    <string name="C232">=Seattle|America/Los_Angeles</string>
+    <string name="C233">=St. Louis|America/Chicago</string>
+    <string name="C234">=Washington D.C.|America/New_York</string>
+    <string name="C235">=Houston|America/Chicago</string>
+    <string name="C236">=San Antonio|America/Chicago</string>
+    <string name="C237">=Jacksonville|America/New_York</string>
+    <string name="C238">=Baltimore|America/New_York</string>
+    <string name="C239">=Nashville|America/Chicago</string>
+    <string name="C24">=Nairobi|Africa/Nairobi</string>
+    <string name="C240">=Milwaukee|America/Chicago</string>
+    <string name="C241">=Oklahoma City|America/Chicago</string>
+    <string name="C242">=Las Vegas|America/Los_Angeles</string>
+    <string name="C243">=Albuquerque|America/Denver</string>
+    <string name="C244">=Tucson|MST</string>
+    <string name="C245">=Sacramento|America/Los_Angeles</string>
+    <string name="C246">=Atlanta|America/New_York</string>
+    <string name="C247">=Cleveland|America/New_York</string>
+    <string name="C248">=New Orleans|America/Chicago</string>
+    <string name="C249">=Tampa|America/New_York</string>
+    <string name="C25">=Sao Tome|Africa/Sao_Tome</string>
+    <string name="C250">=Pittsburgh|America/New_York</string>
+    <string name="C251">=Cincinnati|America/New_York</string>
+    <string name="C252">=Mountain View|America/Los_Angeles</string>
+    <string name="C253">=Reno|America/Los_Angeles</string>
+    <string name="C254">=Black Rock City|America/Los_Angeles</string>
+    <string name="C255">=Doha|Asia/Riyadh</string>
+    <string name="C256">=Beijing:|Asia/Shanghai</string>
+    <string name="C257">=Mumbai|Asia/Kolkata</string>
+    <string name="C258">=Delhi|Asia/Kolkata</string>
+    <string name="C259">=Osaka:|Asia/Tokyo</string>
+    <string name="C26">=Timbuktu|Africa/Timbuktu</string>
+    <string name="C260">=Lahore|Asia/Karachi</string>
+    <string name="C261">=Sanaa|Asia/Riyadh</string>
+    <string name="C262">=Barcelona|Europe/Madrid</string>
+    <string name="C263">=Munich|Europe/Berlin</string>
+    <string name="C264">=Milan|Europe/Rome</string>
+    <string name="C265">=Frankfurt|Europe/Berlin</string>
+    <string name="C266">=Hanoi|Asia/Bangkok</string>
+    <string name="C267">=Ankara|Europe/Istanbul</string>
+    <string name="C268">=Bangalore|Asia/Kolkata</string>
+    <string name="C269">=Brasilia|America/Sao_Paulo</string>
+    <string name="C27">=Tripoli|Africa/Tripoli</string>
+    <string name="C270">=Cape Town|Africa/Johannesburg</string>
+    <string name="C271">=Islamabad|Asia/Karachi</string>
+    <string name="C272">=Rio de Janeiro|America/Sao_Paulo</string>
+    <string name="C273">=Ann Arbor|America/Detroit</string>
+    <string name="C274">=Boulder|America/Denver</string>
+    <string name="C275">=Cambridge|America/New_York</string>
+    <string name="C276">=Kirkland|America/Los_Angeles</string>
+    <string name="C277">=Madison|America/Chicago</string>
+    <string name="C278">=Guangzhou:|Asia/Shanghai</string>
+    <string name="C279">=Hyderabad|Asia/Kolkata</string>
+    <string name="C28">=Tunis|Africa/Tunis</string>
+    <string name="C280">=Reston|America/New_York</string>
+    <string name="C281">=Belo Horizonte|America/Sao_Paulo</string>
+    <string name="C282">=Santiago|America/Santiago</string>
+    <string name="C283">=Monrovia|Africa/Monrovia</string>
+    <string name="C284">=Colombo|Asia/Colombo</string>
+    <string name="C285">=Chihuahua|America/Chihuahua</string>
+    <string name="C286">=Salvador|America/Sao_Paulo</string>
+    <string name="C287">=Gurgaon|Asia/Kolkata</string>
+    <string name="C288">=Manchester|Europe/London</string>
+    <string name="C29">=Anchorage|America/Anchorage</string>
+    <string name="C290">=St. Petersburg|Europe/Moscow</string>
+    <string name="C291">=Krakow|Europe/Warsaw</string>
+    <string name="C292">=Wroclaw|Europe/Warsaw</string>
+    <string name="C293">=Hamburg|Europe/Berlin</string>
+    <string name="C294">=Oulu|Europe/Bucharest</string>
+    <string name="C295">=Haifa|Asia/Jerusalem</string>
+    <string name="C296">=San Juan|America/Puerto_Rico</string>
+    <string name="C297">=Tegucigalpa|America/Tegucigalpa</string>
+    <string name="C298">=Paramaribo|America/Paramaribo</string>
+    <string name="C299">=Quito|America/Panama</string>
+    <string name="C3">=Addis Ababa|Africa/Addis_Ababa</string>
+    <string name="C300">=Ljubljana|Europe/Ljubljana</string>
+    <string name="C301">A=Ashgabat|Asia/Ashgabat</string>
+    <string name="C302">A=Asmara|Africa/Asmara</string>
+    <string name="C303">B=Bandar Seri Begawan|Asia/Brunei</string>
+    <string name="C304">B=Bangui|Africa/Bangui</string>
+    <string name="C305">B=Banjul|Africa/Banjul</string>
+    <string name="C306">B=Bishkek|Asia/Bishkek</string>
+    <string name="C307">B=Bissau|Africa/Bissau</string>
+    <string name="C308">B=Bujumbura|Africa/Bujumbura</string>
+    <string name="C309">D=Dili|Asia/Dili</string>
+    <string name="C31">=Aruba|America/Aruba</string>
+    <string name="C310">D=Dushanbe|Asia/Dushanbe</string>
+    <string name="C311">F=Funafuti|Pacific/Funafuti</string>
+    <string name="C312">H=Honiara|Pacific/Guadalcanal</string>
+    <string name="C313">J=Juba|Africa/Juba</string>
+    <string name="C314">K=Kingstown|America/St_Vincent</string>
+    <string name="C315">L=Libreville|Africa/Libreville</string>
+    <string name="C316">L=Lomé|Africa/Lome</string>
+    <string name="C317">L=Luanda|Africa/Luanda</string>
+    <string name="C318">L=Lusaka|Africa/Lusaka</string>
+    <string name="C319">M=Majuro|Pacific/Majuro</string>
+    <string name="C32">=Asuncion|America/Asuncion</string>
+    <string name="C320">M=Malabo|Africa/Malabo</string>
+    <string name="C321">M=Maputo|Africa/Maputo</string>
+    <string name="C322">M=Mbabane|Africa/Mbabane</string>
+    <string name="C323">M=Moroni|Indian/Comoro</string>
+    <string name="C324">"N=N'Djamena|Africa/Ndjamena"</string>
+    <string name="C325">N=Ngerulmud|Pacific/Palau</string>
+    <string name="C326">N=Niamey|Africa/Niamey</string>
+    <string name="C327">N=Nicosia|Europe/Nicosia</string>
+    <string name="C328">N=Nouakchott|Africa/Nouakchott</string>
+    <string name="C329">"N=Nuku'alofa|Pacific/Tongatapu"</string>
+    <string name="C33">=Barbados|America/Barbados</string>
+    <string name="C330">O=Ouagadougou|Africa/Ouagadougou</string>
+    <string name="C331">P=Palikir|Pacific/Noumea</string>
+    <string name="C332">P=Philipsburg|America/Lower_Princes</string>
+    <string name="C333">P=Podgorica|Europe/Podgorica</string>
+    <string name="C334">P=Port Moresby|Pacific/Palau</string>
+    <string name="C335">P=Port Vila|Pacific/Efate</string>
+    <string name="C336">P=Porto-Novo|Africa/Porto-Novo</string>
+    <string name="C337">P=Priština|Europe/Belgrade</string>
+    <string name="C338">R=Roseau|America/Dominica</string>
+    <string name="C339">T=Tashkent|Asia/Tashkent</string>
+    <string name="C34">=Belize|America/Belize</string>
+    <string name="C340">T=Tbilisi|Asia/Tbilisi</string>
+    <string name="C341">T=Thimphu|Asia/Thimphu</string>
+    <string name="C342">T=Tirana|Europe/Tirane</string>
+    <string name="C343">V=Vaduz|Europe/Vaduz</string>
+    <string name="C344">V=Vientiane|Asia/Vientiane</string>
+    <string name="C345">W=Windhoek|Africa/Windhoek</string>
+    <string name="C346">Y=Yaoundé|Africa/Douala</string>
+    <string name="C347">Y=Yaren District|Pacific/Nauru</string>
+    <string name="C348">Y=Yerevan|Asia/Yerevan</string>
+    <string name="C35">=Bogota|America/Bogota</string>
+    <string name="C36">=Buenos Aires|America/Buenos_Aires</string>
+    <string name="C37">=Cancun|America/Cancun</string>
+    <string name="C38">=Caracas|America/Caracas</string>
+    <string name="C39">=Cayman|America/Cayman</string>
+    <string name="C4">=Algiers|Africa/Algiers</string>
+    <string name="C40">=Chicago|America/Chicago</string>
+    <string name="C42">=Curacao|America/Curacao</string>
+    <string name="C43">=Dawson Creek|America/Dawson_Creek</string>
+    <string name="C44">=Denver|America/Denver</string>
+    <string name="C45">=Detroit|America/Detroit</string>
+    <string name="C46">D=Dominica|America/Dominica</string>
+    <string name="C47">=Edmonton|America/Edmonton</string>
+    <string name="C48">=El Salvador|America/El_Salvador</string>
+    <string name="C49">=Fortaleza|America/Fortaleza</string>
+    <string name="C5">=Blantyre|Africa/Blantyre</string>
+    <string name="C50">=Grand Turk|America/Grand_Turk</string>
+    <string name="C51">=Grenada|America/Grenada</string>
+    <string name="C52">G=Guatemala City|America/Guatemala</string>
+    <string name="C53">=Guyana|America/Guyana</string>
+    <string name="C54">=Halifax|America/Halifax</string>
+    <string name="C55">=Havana|America/Havana</string>
+    <string name="C56">=Indianapolis|America/Indiana/Indianapolis</string>
+    <string name="C57">=Knox|America/Indiana/Knox</string>
+    <string name="C58">=Marengo|America/Indiana/Marengo</string>
+    <string name="C59">=Petersburg|America/Indiana/Petersburg</string>
+    <string name="C6">=Brazzaville|Africa/Brazzaville</string>
+    <string name="C60">=Tell City|America/Indiana/Tell_City</string>
+    <string name="C61">=Vevay|America/Indiana/Vevay</string>
+    <string name="C62">=Vincennes|America/Indiana/Vincennes</string>
+    <string name="C63">=Winamac|America/Indiana/Winamac</string>
+    <string name="C64">=Kingston|America/Jamaica</string>
+    <string name="C65">=Nuestra Senora de La Paz|America/La_Paz</string>
+    <string name="C66">=Lima|America/Lima</string>
+    <string name="C67">=Los Angeles|America/Los_Angeles</string>
+    <string name="C68">=Louisville|America/Louisville</string>
+    <string name="C69">=Managua|America/Managua</string>
+    <string name="C7">=Cairo|Africa/Cairo</string>
+    <string name="C70">=Martinique|America/Martinique</string>
+    <string name="C71">=Mendoza|America/Mendoza</string>
+    <string name="C72">=Metlakatla|America/Metlakatla</string>
+    <string name="C73">=Mexico City|America/Mexico_City</string>
+    <string name="C74">=Monterrey|America/Monterrey</string>
+    <string name="C75">=Montevideo|America/Montevideo</string>
+    <string name="C76">=Montreal|America/Montreal</string>
+    <string name="C77">=Nassau|America/Nassau</string>
+    <string name="C78">=New York|America/New_York</string>
+    <string name="C79">=Beulah|America/North_Dakota/Beulah</string>
+    <string name="C8">=Casablanca|Africa/Casablanca</string>
+    <string name="C80">=Center|America/North_Dakota/Center</string>
+    <string name="C81">=New Salem|America/North_Dakota/New_Salem</string>
+    <string name="C82">=Panama|America/Panama</string>
+    <string name="C83">=Phoenix|America/Phoenix</string>
+    <string name="C84">=Port of Spain|America/Port_of_Spain</string>
+    <string name="C85">=Port-au-Prince|America/Port-au-Prince</string>
+    <string name="C86">P=Puerto Rico|America/Puerto_Rico</string>
+    <string name="C87">=Santo Domingo|America/Santo_Domingo</string>
+    <string name="C88">=Sao Paulo|America/Sao_Paulo</string>
+    <string name="C89">=St. Johns|America/St_Johns</string>
+    <string name="C9">=Conakry|Africa/Conakry</string>
+    <string name="C90">=St. Kitts|America/St_Kitts</string>
+    <string name="C91">S=St. Lucia|America/St_Lucia</string>
+    <string name="C92">=St. Thomas|America/St_Thomas</string>
+    <string name="C93">=Tijuana|America/Tijuana</string>
+    <string name="C94">=Toronto|America/Toronto</string>
+    <string name="C95">=Vancouver|America/Vancouver</string>
+    <string name="C96">=Winnipeg|America/Winnipeg</string>
+    <string name="C97">=Ncha ya Kusini:|Antarctica/South_Pole</string>
+    <string name="C98">=Longyearbyen|Arctic/Longyearbyen</string>
+    <string name="C99">=Almaty|Asia/Almaty</string>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki na %s</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="add_new_sound">Ongeza mpya</string>
+    <string name="alarm_alert_dismiss_text">Ondoa</string>
+    <string name="alarm_alert_off_text">Kengele imezimwa</string>
+    <string name="alarm_alert_predismiss_title">Kengele ijayo</string>
+    <string name="alarm_alert_snooze_text">Nikumbushe baadaye</string>
+    <string name="alarm_alert_snooze_until">Imeahirishwa hadi %s</string>
+    <string name="alarm_alert_snoozed_text">Imeahirishwa</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">Kengele ya saa %s bado haiwezi kuondolewa, ina zaidi ya saa 24 kabla muda wake ufike</string>
+    <string name="alarm_deleted">Kengele imefutwa</string>
+    <string name="alarm_is_dismissed">Kengele ya %s imeondolewa</string>
+    <string name="alarm_is_set">Kengele imewashwa na italia %s</string>
+    <string name="alarm_is_snoozed">Kengele ya %1$s imeahirishwa kwa %2$s</string>
+    <string name="alarm_missed_text">%1$s - %2$s</string>
+    <string name="alarm_missed_title">Kengele ambayo haikushughulikiwa</string>
+    <string name="alarm_repeat">Rudia</string>
+    <string name="alarm_service_desc">Huchakata vitendo kutoka arifa za kengele.</string>
+    <string name="alarm_settings">Kengele</string>
+    <string name="alarm_sound">Mlio wa kengele</string>
+    <string name="alarm_today">Leo</string>
+    <string name="alarm_tomorrow">Kesho</string>
+    <string name="alarm_undo">tendua</string>
+    <string name="alarm_vibrate">Mtetemo</string>
+    <string name="alarm_volume_muted">Sauti ya kengele imezimwa</string>
+    <string name="alarm_volume_title">Sauti ya kengele</string>
+    <string name="alarms_blocked_by_dnd">Kifaa kimewekwa katika hali ya kimya</string>
+    <string name="all_timers_stopped_notif">Gonga ili uone vipima muda vyako</string>
+    <string name="analog_gadget">Saa ya analojia</string>
+    <string name="app_label">Saa</string>
+    <string name="app_notifications_blocked">Arifa za saa zimezuiwa</string>
+    <string name="auto_silence_never">Isirudie</string>
+    <string name="auto_silence_title">Inyamaze baada ya</string>
+    <string name="automatic_home_clock">Saa otomatiki ya nyumbani</string>
+    <string name="automatic_home_clock_summary">Unaposafiri katika eneo ambalo majira ya saa ni tofauti, ongeza saa ya nyumbani</string>
+    <string name="button_alarms">Ongeza kengele</string>
+    <string name="button_cities">Miji</string>
+    <string name="change_setting_action">Badilisha</string>
+    <string name="cities_activity_title">Miji</string>
+    <string name="city_checked">%s imeteuliwa</string>
+    <string name="city_unchecked">%s imeondolewa uteuzi</string>
+    <string name="clock_settings">Saa</string>
+    <string name="clock_style">Mtindo</string>
+    <string name="collapse_alarm">Kunja kengele</string>
+    <string name="common_google_play_services_enable_button">Washa</string>
+    <string name="common_google_play_services_enable_text">%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_title">Washa huduma za Google Play</string>
+    <string name="common_google_play_services_install_button">Sakinisha</string>
+    <string name="common_google_play_services_install_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako.</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako.</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_google_play_services_update_text">%1$s haitafanya kazi hadi usasishe huduma za Google Play.</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa.</string>
+    <string name="common_google_play_services_wear_update_text">Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi.</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="common_signin_button_text">Ingia katika akaunti</string>
+    <string name="common_signin_button_text_long">Ingia katika akaunti ukitumia Google</string>
+    <string name="confirm_remove_custom_ringtone">Kengele na vipima muda vinavyotumia sauti hii vitacheza sauti chaguo msingi badala yake.</string>
+    <string name="crescendo_duration_title">Ongeza sauti taratibu</string>
+    <string name="custom_ringtone_lost_permissions">Maudhui ya sauti hayawezi kufikiwa.</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">Sauti chaguo-msingi ya kengele</string>
+    <string name="default_label">Kengele</string>
+    <string name="default_timer_ringtone_title">Muda wa kulia umepita</string>
+    <string name="delete">Futa</string>
+    <string name="description_direction_both">Telezesha kidole kushoto ili uhairishe au kulia ili uondoe</string>
+    <string name="description_direction_left">Telezesha kidole kushoto ili uahirishe</string>
+    <string name="description_direction_right">Telezesha kidole kulia ili uondoe</string>
+    <string name="device_sounds">Sauti za kifaa</string>
+    <string name="digital_gadget">Saa dijitali</string>
+    <string name="dismiss_alarm">Ondoa kengele</string>
+    <string name="display_clock_seconds_pref">Onyesha sekunde kwenye saa</string>
+    <string name="every_day">Kila siku</string>
+    <string name="expand_alarm">Panua kengele</string>
+    <string name="home_label">Mwanzo</string>
+    <string name="home_time_zone">Majira ya nyumbani</string>
+    <string name="home_time_zone_title">Majira ya nyumbani</string>
+    <string name="hours_label">s</string>
+    <string name="hours_minutes_seconds">%1$d:%2$02d:%3$02d</string>
+    <string name="index_name">data ya kengele, vipima muda, na saa ya michezo</string>
+    <string name="invalid_time">Wakati usio sahihi %1$d:%2$d %3$s</string>
+    <string name="invalid_timer_length">Urefu usio sahihi wa kipimaji muda</string>
+    <string name="label">Lebo</string>
+    <string name="label_description">Lebo</string>
+    <string name="lap_number_double_digit">\# %02d</string>
+    <string name="lap_number_single_digit">\# %d</string>
+    <string name="loading_widget">Inapakia...</string>
+    <string name="menu_alarm">Kengele</string>
+    <string name="menu_clock">Saa</string>
+    <string name="menu_item_feedback">Tuma maoni</string>
+    <string name="menu_item_help">Usaidizi</string>
+    <string name="menu_item_night_mode">Taswira ya skrini</string>
+    <string name="menu_item_settings">Mipangilio</string>
+    <string name="menu_item_sort_by_gmt_offset">Panga kwa saa</string>
+    <string name="menu_item_sort_by_name">Panga kwa jina</string>
+    <string name="menu_stopwatch">Saa ya kusitisha</string>
+    <string name="menu_timer">Kipima wakati</string>
+    <string name="minutes_label">d</string>
+    <string name="minutes_seconds">%1$d:%2$02d</string>
+    <string name="missed_alarms_channel_name">Kengele ulizokosa</string>
+    <string name="missed_named_timer_notification_label">Kipima muda ambacho hukusikia: %s</string>
+    <string name="missed_timer_notification_label">Kipima muda ambacho hukusikia</string>
+    <string name="next_alarm_description">Kengele inayofuata: %s</string>
+    <string name="next_timer_notif">Kipima wakati Kinachofuata: %s</string>
+    <string name="night_mode_summary">Mwangaza hafifu wa skrini katika vyumba vyenye giza</string>
+    <string name="night_mode_title">Modi ya usiku</string>
+    <string name="no_alarm_at">Hakuna kengele ya saa %1$d:%2$d</string>
+    <string name="no_alarm_scheduled_for_this_time">Hakuna kengele iliyoratibiwa wakati huu</string>
+    <string name="no_alarms">Hakuna Kengele Zilizowekwa</string>
+    <string name="no_alarms_with_label">Hakuna kengele zilizo na lebo hii</string>
+    <string name="no_firing_alarms">Hakuna kengele zinazolia</string>
+    <string name="no_label_specified">Hakuna lebo iliyobainishwa</string>
+    <string name="no_scheduled_alarms">Hakuna kengele zilizoratibiwa</string>
+    <string name="open_date_settings">Badilisha tarehe na saa</string>
+    <string name="pick_alarm_to_dismiss">Chagua kengele utakayoondoa</string>
+    <string name="remove_sound">Ondoa</string>
+    <string name="ringtone_description">Mlio wa simu</string>
+    <string name="screensaver_settings">Mipangilio ya taswira ya skrini</string>
+    <string name="search_menu_title">Tafuta</string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">Miji Iliyochaguliwa</string>
+    <string name="settings">Mipangilio</string>
+    <string name="shortcut_new_alarm_long">Weka kengele mpya</string>
+    <string name="shortcut_new_alarm_short">Kengele mpya</string>
+    <string name="shortcut_new_timer_long">Weka kipima wakati kipya</string>
+    <string name="shortcut_new_timer_short">Kipima wakati kipya</string>
+    <string name="shortcut_pause_stopwatch_long">Sitisha kipima muda</string>
+    <string name="shortcut_pause_stopwatch_short">Sitisha</string>
+    <string name="shortcut_start_screensaver_long">Anzisha taswira ya skrini</string>
+    <string name="shortcut_start_screensaver_short">Taswira ya skrini</string>
+    <string name="shortcut_start_stopwatch_long">Anzisha kipima muda</string>
+    <string name="shortcut_start_stopwatch_short">Anzisha</string>
+    <string name="silent_default_alarm_ringtone">Mlio chaguo-msingi wa kengele ni kimya</string>
+    <string name="silent_ringtone_title">Kimya</string>
+    <string name="snooze_duration_title">Nikumbushe baada ya</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stopwatch_channel_name">Kipima wakati</string>
+    <string name="stopwatch_service_desc">Huchakata vitendo kutoka arifa za saa ya kupima muda.</string>
+    <string name="sw_lap_button">Mzunguko</string>
+    <string name="sw_notification_lap_number">Mzunguko wa %d</string>
+    <string name="sw_pause_button">Sitisha</string>
+    <string name="sw_reset_button">Anza upya</string>
+    <string name="sw_resume_button">Endelea</string>
+    <string name="sw_share_button">Shiriki</string>
+    <string name="sw_share_laps">Muda wa mzunguko:</string>
+    <string name="sw_share_main">Muda wangu ni %s</string>
+    <string name="sw_start_button">Anza</string>
+    <string name="swn_paused">Imesitishwa</string>
+    <string name="timer_accessibility_one_minute_added">Dakika moja imeongezwa kwenye kipima wakati, %1$s</string>
+    <string name="timer_accessibility_started">Saa inaendelea kupima wakati, %1$s</string>
+    <string name="timer_accessibility_stopped">Kipima wakati kimesitishwa, %1$s</string>
+    <string name="timer_add_minute">+ 1:00</string>
+    <string name="timer_add_timer">Ongeza Kipima wakati</string>
+    <string name="timer_cancel">Ghairi</string>
+    <string name="timer_canceled">Kipima muda kimeghairiwa</string>
+    <string name="timer_created">Kipimaji muda kimewekwa</string>
+    <string name="timer_delete">Futa</string>
+    <string name="timer_deleted">Kipima muda kimefutwa</string>
+    <string name="timer_descriptive_delete">Futa %s</string>
+    <string name="timer_multi_missed">Vipima muda %d ambavyo hukusikia</string>
+    <string name="timer_multi_times_up">Muda wa vipima muda %d umekwisha</string>
+    <string name="timer_notification_label">Kipima wakati</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s %3$s</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">%1$s %4$s %3$s</string>
+    <string name="timer_notifications_less_min">Imesalia chini ya dakika moja</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">%2$s %4$s %3$s</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">Sitisha</string>
+    <string name="timer_paused">Kipima wakati kimesitishwa</string>
+    <string name="timer_plus_1_min">Ongeza dakika 1</string>
+    <string name="timer_plus_one">Ongeza Dakika 1</string>
+    <string name="timer_remaining_multiple">zimesalia</string>
+    <string name="timer_remaining_single">imesalia</string>
+    <string name="timer_reset">Anza upya</string>
+    <string name="timer_reset_all">Anzisha vipima wakati vyote upya</string>
+    <string name="timer_service_desc">Huchakata vitendo kutoka arifa za kipima muda.</string>
+    <string name="timer_settings">Vipima muda</string>
+    <string name="timer_setup_description">%1$s, %2$s, %3$s</string>
+    <string name="timer_sound">Mlio wa kipima muda</string>
+    <string name="timer_start">Anza</string>
+    <string name="timer_stop">Simamisha</string>
+    <string name="timer_stop_all">Komesha vipima muda vyote</string>
+    <string name="timer_times_up">Muda umekwisha</string>
+    <string name="timer_vibrate_title">Mtetemo wa kipima muda</string>
+    <string name="timers_channel_name">Vipima muda</string>
+    <string name="timers_in_use">Vipima wakati %d</string>
+    <string name="timers_stopped">Vipima wakati %d vimesitishwa</string>
+    <string name="unknown_ringtone_title">Isiyojulikana</string>
+    <string name="unmute_alarm_volume">Iwashe</string>
+    <string name="upcoming_alarms_channel_name">Kengele zijazo</string>
+    <string name="volume_button_setting_title">Vitufe vya kudhibiti sauti</string>
+    <string name="week_start_title">Anza wiki siku ya</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="world_hours_minutes_ahead">Mbele kwa %1$s %2$s</string>
+    <string name="world_hours_minutes_behind">Nyuma kwa %1$s %2$s</string>
+    <string name="world_hours_tomorrow">Kesho, %1$s</string>
+    <string name="world_hours_yesterday">Jana, %1$s</string>
+    <string name="world_time_ahead">Mbele kwa %1$s</string>
+    <string name="world_time_behind">Nyuma kwa %1$s</string>
+    <string name="world_tomorrow">Kesho</string>
+    <string name="world_yesterday">Jana</string>
+    <string name="your_sounds">Sauti zako</string>
+</resources>

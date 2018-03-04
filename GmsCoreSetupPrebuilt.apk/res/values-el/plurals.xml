@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Και οι %1$d εφαρμογές</item>
+        <item quantity="one">1 εφαρμογή</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Επιλέχθηκαν %1$d εφαρμογές</item>
+        <item quantity="one">Επιλέχθηκε 1 εφαρμογή</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d εφαρμογές έχουν εγκατασταθεί ήδη</item>
+        <item quantity="one">1 εφαρμογή έχει εγκατασταθεί ήδη</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Το αντίγραφο ασφαλείας περιέχει %1$d εφαρμογές. Επιλέξτε ορισμένες ή ανακτήστε όλες τις εφαρμογές.</item>
+        <item quantity="one">Το αντίγραφο ασφαλείας περιέχει %1$d εφαρμογή.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d επαφές στη συσκευή</item>
+        <item quantity="one">1 επαφή στη συσκευή</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d στη SIM, %2$d στη συσκευή</item>
+        <item quantity="one">%1$d στη SIM, %2$d στη συσκευή</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d επαφές iCloud®</item>
+        <item quantity="one">1 επαφή iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d επαφές στη SIM</item>
+        <item quantity="one">1 επαφή στη SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Βρέθηκαν %1$d εφαρμογές. Επιλέξτε ορισμένες ή ανακτήστε όλες τις εφαρμογές.</item>
+        <item quantity="one">Βρέθηκε %1$d εφαρμογή. Θέλετε να ανακτηθεί;</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Εντοπίστηκε αντιστοίχιση για %1$d από τις εφαρμογές iOS®. Με την εγκατάσταση κάθε εφαρμογής, συμφωνείτε με τις άδειές της. &lt;annotation id="apps_permissions_learn_more">Μάθετε περισσότερα&lt;/annotation></item>
+        <item quantity="one">Εντοπίστηκε αντιστοίχιση για μία από τις εφαρμογές iOS®. Με την εγκατάσταση κάθε εφαρμογής, συμφωνείτε με τις άδειές της. &lt;annotation id="apps_permissions_learn_more">Μάθετε περισσότερα&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Απομένουν %1$d στοιχεία ακόμα...</item>
+        <item quantity="one">Απομένει %1$d στοιχείο ακόμα...</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Ενημέρωση! Αυτό το συμβάν δεν περιλαμβάνει πλέον τους ακόλουθους καλεσμένους:</item>
+        <item quantity="one">Ενημέρωση! Αυτό το συμβάν δεν περιλαμβάνει πλέον τον ακόλουθο καλεσμένο:</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d लोकांनी %1$s तारे रेट केले</item>
+        <item quantity="one">%2$d व्यक्तीने %1$s तारे रेट केले</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d दिवसांंमध्ये कालबाह्य होईल</item>
+        <item quantity="one">%1$d दिवसात कालबाह्य होईल</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d तासांंमध्ये कालबाह्य होईल</item>
+        <item quantity="one">%1$d तासात कालबाह्य होईल</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">आणखी %1$d</item>
+        <item quantity="one">आणखी %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">Колдонмодогу сатып алуулар</string>
+    <string name="app_has_permissions">Уруксаттар: %s</string>
+    <string name="app_has_runtime_permissions">Колдонмого бардык тиешелүү уруксаттарды берүү талап кылынат</string>
+    <string name="app_picker_app_already_installed_toast">Бул колдонмо буга чейин орнотулган</string>
+    <string name="app_picker_loading">Жеткиликтүү колдонмолор изделүүдө…</string>
+    <string name="app_picker_loading_toast">Жеткиликтүү колдонмолор жакында жүктөлөт</string>
+    <string name="app_picker_no_apps">Эч колдонмо тандалган жок</string>
+    <string name="app_picker_no_apps_found">Колдонмолор табылган жок</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Колдонмодогу сатып алуулар ^1 түзмөгүңүзгө которулбайт.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Колдонмодогу айрым сатып алуулар ^1 түзмөгүңүзгө которулбай калышы мүмкүн.</string>
+    <string name="apps_permissions_described_v2">"Android колдонмолоруна кеңири белгилүү жана акысыз iOS® колдонмолору гана дал келет. Колдонмодон сатып алынган көпчүлүк нерселер өткөрүлбөйт. Жөндөө аяктагандан кийин, Play Дүкөндөн башка колдонмолорду дагы табууга болот.
+
+Түзмөктөгү өзгөчө функцияларды же маалыматты колдонуу үчүн айрым колдонмолорго орнотуп жаткан учурда эле уруксат беришиңиз керек. Уруксаттар атайын топторго бөлүнөт. Бул колдонмолорду орнотууну тандоо менен ар бир топтогу уруксаттарга макулдугуңузду билдиресиз. Бардык топтордун сүрөттөмөлөрү төмөндө берилген.
+
+Айрым колдонмолорго орнотуп жаткан учурда эмес, колдонуп жатканда уруксат берүү талап кылынат. Ал уруксаттарды берип же бербей койсоңуз болот.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Ар бир колдонмону орнотуу менен, алар сураган уруксаттарга макулдугуңузду бересиз. <annotation id="apps_permissions_learn_more">Кеңири маалымат</annotation></string>
+    <string name="auto_restore_summary">Колдонмону кайра орнотуп жатканда, камдык көчүрмөсү сакталган жөндөөлөр жана дайындар калыбына келет</string>
+    <string name="auto_restore_title">Автоматтык түрдө калыбына келтирүү</string>
+    <string name="backup_configure_account_default_summary">Учурда дайындардын камдык көчүрмөсүн сактаган бир дагы каттоо эсеби жок</string>
+    <string name="backup_configure_account_title">Көмөкчү каттоо эсеби</string>
+    <string name="backup_data_summary">"Колдонмодогу дайындардын, Wi-Fi сырсөздөрүнүн жана башка жөндөөлөрдүн камдык көчүрмөлөрүн Google Drive'га сактап коюңуз"</string>
+    <string name="backup_data_summary_full">"Түзмөктөгү дайындардын (мисалы, Wi-Fi тармагынын сырсөздөрү жана чалуулар таржымалы) жана колдонмонун дайындарынын (мисалы, жөндөөлөр жана файлдар) камдык көчүрмөсү алыстан автоматтык түрдө сакталат.
+
+Камдык көчүрмөнү автоматтык түрдө сактоо мүмкүнчүлүгү иштетилгенде, түзмөктүн жана колдонмонун дайындары маалы менен автоматтык түрдө сакталып турат. Иштеп чыгуучунун жөндөөлөрүнө ылайык колдонмодо сакталган дайындарда байланыштар, билдирүүлөр, сүрөттөр сыяктуу купуя маалыматтар камтылышы мүмкүн."</string>
+    <string name="backup_data_title">"Google Drive'га сактоо"</string>
+    <string name="backup_erase_dialog_message">"Wi‑Fi сырсөздөрүнүн, кыстармалардын, колдонмолордун дайындарынын жана башка жөндөөлөрдүн камдык көчүрмөлөрүн сактоо токтотулуп, Google Drive'дагы бардык камдык көчүрмөлөр жок болот. Уланта бересизби?"</string>
+    <string name="backup_erase_dialog_message_full">"Түзмөктөгү дайындардын (мисалы, Wi-Fi тармагынын сырсөздөрү жана чалуулар таржымалы) жана колдонмонун дайындарынын (мисалы, жөндөөлөр жана файлдар) камдык көчүрмөлөрү мындан ары сакталбай, Google Drive'дагы бардык көчүрмөлөр жок кылынат. Уланта бересизби?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Goolge Фотонун жөндөөлөрү ачылып жатканда ката кетти</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Камдык көчүрмөлөрдү автоматтык түрдө сактоо функциясы күйгүзүлгөндө:
+
+ ● Түзмөктүн жөндөөлөрү менен колдонмодогу нерселер мезгил-мезгили менен Google Drive'дагы жеке папкаңызга сакталып турат. Колдонмодогу нерселер - колдонмолордо сакталган бардык маалымат (иштеп чыгуучулар койгон жөндөөлөргө жараша). Алардын катарына байланыштар, билдирүүлөр жана сүрөттөр сыяктуу купуя дайындар кириши мүмкүн. 
+
+Көлөмдүү файлдар же иштеп чыгуучулар кызматтын алкагында тыюу салган файлдардын камдык көчүрмөлөрү сакталбайт.
+
+ ● Бул түзмөктөгү сүрөттөр менен видеолор Google Фото кызматындагы медиатека менен шайкештирилип турат. Аларды кийинчерээк каалаган түзмөктөн издеп, түзөтүп, өчүрүп жана башкалар менен бөлүшө аласыз.
+
+ Демейки шартта сүрөттөр менен видеолордун камдык көчүрмөлөрү баштапкы сапатта сакталып, Google Drive'да орун ээлебейт.
+
+ ● Бул түзмөктөгү байланыштар сыяктуу маалымат Google Байланыштар колдонмосу менен шайкештирилет. Аларды кийинчерээк каалаган түзмөктөн издеп, өзгөртүп, жок кылып, ошондой эле башкалар менен бөлүшө аласыз.
+
+ ● Бул түзмөктөгү жылнаамадагы жазуулар Google Жылнаама колдонмосу менен шайкештирилет. Аларды кийинчерээк каалаган түзмөктөн издеп, өзгөртүп, жок кылып, ошондой эле башкалар менен бөлүшө аласыз.
+
+ Алар Google Drive'да орун ээлебейт."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Камдык көчүрмөнү автоматтык түрдө сактоо күйгүзүлгөндө:
+
+ ● Түзмөгүңүздүн жөндөөлөрү жана колдонмодогу дайындар Google Drive'дагы жеке куржунуңузга сакталып турат. Колдонмодогу дайындарга байланыштар, билдирүүлөр, сүрөттөр сыяктуу түзмөктө сакталган (иштеп чыгуучунун жөндөөлөрүнө ылайык) купуя дайындар кирет.
+
+ Ири файлдар жана иштеп чыгуучулар көчүрүүгө тыюу салган файлдар сакталбайт.
+
+ ● Байланыштар жана түзмөктөгү аларга байланыштуу дайындар Google Байланыштар менен шайкештирилип турат.  Аларды каалаган түзмөктөн өзгөртүп, жок кылып, издеп, ошондой эле башкалар менен бөлүшө аласыз. 
+
+ ● Жылнаамадагы окуялар жана аларга байланыштуу маалымат Google Жылнаама менен шайкештирилет.  Аларды каалаган түзмөктөн өзгөртүп, жок кылып, издеп, ошондой эле башкалар менен бөлүшө аласыз.
+
+ Камдык көчүрмөлөр Google Drive'да орун ээлебейт."</string>
+    <string name="backup_opt_in_backup_description_extra">Жылнаама, байланыштар, сүрөттөр жана видеолор Google каттоо эсебиңизде шайкештештирилип, башка кызматтарда да колдонулушу мүмкүн.</string>
+    <string name="backup_opt_in_backup_description_v2">Дайындарыңыздын камдык көчүрмөлөрү автоматтык түрдө сакталып турса, телефонуңузда дайындарды оңой эле калыбына келтирип же жаңы телефонго өткөрүп аласыз. <annotation id="backup_opt_in_learn_more">Көбүрөөк билүү</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Бул төмөнкүлөр үчүн камдык көчүрмөнү сактоону өчүрөт:
+
+Колдонмолор жана колдонмо дайындары
+Чалуулар таржымалы
+Түзмөктүн жөндөөлөрү
+Сүрөттөр жана видеолор
+SMS билдирүүлөрү
+
+Жылнаама жана байланыштар Google Каттоо эсебиңизде шайкештештириле берет. Жөндөө аяктагандан кийин шайкештештирүү жөндөөлөрүн "<annotation id="backup_opt_in_settings_instructions">Жөндөөлөр > Каттоо эсептери > Google</annotation> бөлүмдөрүнө өтүп, өзгөртүп алсаңыз болот.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Камдык көчүрмөнү сактоо өчүрүлсүнбү?</string>
+    <string name="backup_opt_in_backup_list">"Колдонмолор жана колдонмо дайындары
+Жылнаама
+Чалуулар таржымалы
+Байланыштар
+Түзмөктүн жөндөөлөрү (анын ичинде WiFi сырсөздөрү)
+Сүрөттөр жана видеолор
+SMS билдирүүлөрү"</string>
+    <string name="backup_opt_in_backup_list_header">Камдык көчүрмө төмөнкүлөрдү камтыйт:</string>
+    <string name="backup_opt_in_backup_title">"Камдык көчүрмөнү Google Drive'га сактоо"</string>
+    <string name="backup_opt_in_disable_backup">Камдык көчүрмөнү сактоону өчүрүү</string>
+    <string name="backup_photos_update">Google Фотолорду жаңыртыңыз</string>
+    <string name="backup_settings_activity_backup_title">Камдык көчүрмөнү сактоо</string>
+    <string name="backup_settings_activity_title">Камдык көчүрмө жана баштапкы абалга коюу</string>
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Көчүрбө</string>
+    <string name="close_button_label">Жабуу</string>
+    <string name="cloud_restore_app_picker_button">Калыбына келтирүү</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Эч бир колдонмонун камдык көчүрмөсү сакталган эмес</string>
+    <string name="cloud_restore_app_picker_title">Калыбына келтирүү үчүн колдонмолорду тандаңыз</string>
+    <string name="common_accept">Кабыл алуу</string>
+    <string name="common_add_account_label">Каттоо эсебин кошуу</string>
+    <string name="common_ads_settings_title">Жарнамалар</string>
+    <string name="common_agree">Макул</string>
+    <string name="common_app_name">Google Play кызматтары</string>
+    <string name="common_asm_preferences_settings_title">Каттоо эсебинин параметрлери</string>
+    <string name="common_asm_privacy_settings_title">Купуялык</string>
+    <string name="common_asm_security_settings_title">Кирүү жана коопсуздук</string>
+    <string name="common_audience_edit_button_label">Түзөтүү</string>
+    <string name="common_cancel">Жокко чыгаруу</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts башталбай жатат (уруксат катасы).</string>
+    <string name="common_car_permission_desc">Унаа кызматына кирүү.</string>
+    <string name="common_car_permission_label">Унаа кызматы</string>
+    <string name="common_chips_label_empty_circles">Бир да чөйрө жок</string>
+    <string name="common_chips_label_extended_circles">Кеңейтилген чөйрөлөр</string>
+    <string name="common_chips_label_only_you">Сиз гана</string>
+    <string name="common_chips_label_public">Жалпыга ачык</string>
+    <string name="common_chips_label_your_circles">Чөйрөлөрүңүз</string>
+    <string name="common_choose_account_label">Каттоо эсебин тандаңыз</string>
+    <string name="common_clear_app_data_menu_item">Колдонмо дайындарын тазалоо</string>
+    <string name="common_connected">Туташкан</string>
+    <string name="common_connected_apps_settings_title">Туташкан колдонмолор</string>
+    <string name="common_connecting">Туташууда…</string>
+    <string name="common_continue">Улантуу</string>
+    <string name="common_disagree">Жок</string>
+    <string name="common_disconnect">Ажыратуу</string>
+    <string name="common_done">Аткарылды</string>
+    <string name="common_fitness_settings_title">Google Дене-бой чыңдагыч</string>
+    <string name="common_from">Кимден:</string>
+    <string name="common_games_settings_title">Play оюндары</string>
+    <string name="common_get_started">Баштоо</string>
+    <string name="common_google">Googlе</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Иштетүү</string>
+    <string name="common_google_play_services_enable_text">Google Play кызматтарын иштетмейиңизче %1$s иштебейт.</string>
+    <string name="common_google_play_services_enable_title">Google Play кызматтарын иштетүү</string>
+    <string name="common_google_play_services_error_dialog_title">Ката</string>
+    <string name="common_google_play_services_install_button">Орнотуу</string>
+    <string name="common_google_play_services_install_text">Google Play кызматтарысыз %1$s иштебейт. Алар түзмөгүңүздө жок болуп жатат.</string>
+    <string name="common_google_play_services_install_title">Google Play кызматтарын алуу</string>
+    <string name="common_google_play_services_notification_ticker">Google Play кызматтарынын катасы</string>
+    <string name="common_google_play_services_unknown_issue">%1$s колдонмосунун Google Play кызматтары менен иштөөдө көйгөй чыкты. Кайра аракет кылыңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s колдонмосу сиздин түзмөгүңүздө колдоого алынбаган Google Play кызматтары болбосо иштебейт.</string>
+    <string name="common_google_play_services_update_button">Жаңыртуу</string>
+    <string name="common_google_play_services_update_text">Google Play кызматтары жаңыртылмайынча %1$s иштебейт.</string>
+    <string name="common_google_play_services_update_title">Google Play кызматтарын жаңыртуу</string>
+    <string name="common_google_play_services_updating_text">Google Play кызматтарысыз %1$s иштебейт, алар учурда жаңыртылууда.</string>
+    <string name="common_google_play_services_updating_title">Google Play кызматтары жаңыртылууда</string>
+    <string name="common_google_play_services_wear_update_text">Google Play кызматтарынын жаңы версиясы талап кылынат. Бир аздан кийин ал өзү эле жаңыртылат.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Туура эмес архитектуралуу Google Play кызматтары орнотулду.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play кызматтары түзмөгүңүздүн архитектурасынан (%2$s) башкача архитектура (%1$s) менен орнотулду.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Туура эмес архитектура</string>
+    <string name="common_google_settings">Google жөндөөлөрү</string>
+    <string name="common_google_settings_account">Каттоо эсеби</string>
+    <string name="common_google_settings_credentials_title">Сырсөздөр үчүн Smart Lock</string>
+    <string name="common_google_settings_developer">Иштеп чыгуучу</string>
+    <string name="common_google_settings_services">Кызматтар</string>
+    <string name="common_got_it">Түшүндүм</string>
+    <string name="common_install">Орнотуу</string>
+    <string name="common_learn_more">Көбүрөөк маалымат</string>
+    <string name="common_list_apps_menu_help">Жардам</string>
+    <string name="common_list_apps_menu_help_and_feedback">Жардам жана пикир билдирүү</string>
+    <string name="common_loading">Жүктөлүүдө…</string>
+    <string name="common_location_settings_title">Жайгашкан жер</string>
+    <string name="common_magictether_settings_title">Ыкчам байланыш түйүнү</string>
+    <string name="common_maps_settings_title">Карталар жана Кеңдик</string>
+    <string name="common_mdm_feature_name">Android түзмөк башкаргычы</string>
+    <string name="common_missing_url_viewer">Тышкы url көрсөтө турган көрсөткүч жок болуп жатат.</string>
+    <string name="common_more_options">Көбүрөөк параметрлер</string>
+    <string name="common_networking_settings_title">Тармактык байланыштарды кеңейтүү</string>
+    <string name="common_no_browser_for_restricted_url">Мүмкүнчүлүк чектелген. Эч серепчи табылган жок.</string>
+    <string name="common_no_devices_found">Түзмөктөр табылган жок</string>
+    <string name="common_no_network">Түзмөк оффлайн режиминде болгондуктан, жеткиликтүү эмес.</string>
+    <string name="common_no_thanks">Жок, рахмат</string>
+    <string name="common_not_now">Азыр эмес</string>
+    <string name="common_off">Өчүк</string>
+    <string name="common_ok">Жарайт</string>
+    <string name="common_on">Күйүк</string>
+    <string name="common_open_on_phone">Телефондо ачык</string>
+    <string name="common_open_source_licenses">Ачык программа уруксаттамалары</string>
+    <string name="common_people_settings_title">Байланыштар</string>
+    <string name="common_permissions_enable_in_settings">Жөндөөлөрдөн иштетүү</string>
+    <string name="common_permissions_missing_end">Улантуу үчүн Жөндөөлөрдү, андан соң Уруксаттарды ачып, тизмедеги бардык нерселерге уруксат бериңиз.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Иштетүү үчүн
+Жөндөөлөр >
+Уруксаттар >
+Google Play кызматтарына өтүңүз"</string>
+    <string name="common_permissions_missing_start">Google Play кызматтарынын төмөнкүлөргө мүмкүнчүлүк алуу өтүнүчүнө уруксат бермейиңизче бул колдонмо талаптагыдай иштебейт:</string>
+    <string name="common_permissions_open_settings">Жөндөөлөрдү ачуу</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Купуялык саясаты</string>
+    <string name="common_restore">Калыбына келтирүү</string>
+    <string name="common_retry">Дагы аракет кылуу</string>
+    <string name="common_search_settings_title">Издөө</string>
+    <string name="common_security_ootp_setting_title">Коопсуздук коду</string>
+    <string name="common_security_settings_title">Коопсуздук</string>
+    <string name="common_send">Жөнөтүү</string>
+    <string name="common_sending">Жөнөтүлүүдө…</string>
+    <string name="common_set_up_nearby_device_settings_title">Жакын арадагы түзмөктөрдү жөндөө</string>
+    <string name="common_settings">Жөндөөлөр</string>
+    <string name="common_signin_button_text">Кирүү</string>
+    <string name="common_signin_button_text_long">Google менен кирүү</string>
+    <string name="common_something_went_wrong">Бир нерседен ката кетти</string>
+    <string name="common_system_info">Тутум маалыматы</string>
+    <string name="common_take_photo_label">Сүрөткө тартуу</string>
+    <string name="common_terms_of_service">Тейлөө шарттары</string>
+    <string name="common_try_again">Кайра аракет кылыңыз</string>
+    <string name="common_turn_on_bluetooth">"Bluetooth'ду күйгүзүү"</string>
+    <string name="common_ui_confirm_deleting_button">Жок кылуу</string>
+    <string name="common_ui_confirm_deleting_checkbox">Түшүндүм, жок кылам</string>
+    <string name="common_unknown">Белгисиз</string>
+    <string name="common_update">Жаңыртуу</string>
+    <string name="common_url_load_unsuccessful_message">Android түзмөгүңүз дайындар кызматына туташкан эмес. Бул маалыматты азыр көргүңүз келсе, веб серепчи аркылуу %s дарегине өтүңүз.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android түзмөгүңүз Wi-Fi тармагына туташкан эмес. Бул маалыматты азыр көргүңүз келсе, веб серепчи аркылуу %s дарегине өтүңүз.</string>
+    <string name="common_url_login_notice">%1$s катары кирүү</string>
+    <string name="common_usage_and_diagnostics">Колдонуу ж-а мүчлшткт аныктоо</string>
+    <string name="common_yesterday">Кечээ</string>
+    <string name="confirm_copy_button_text">Көчүрүү</string>
+    <string name="contacts_number_device_and_icloud">iCloud® байланыштары – %1$d, түзмөктөгү байланыштар – %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Байланыштары, iCloud® – %1$d, түзмөктө – %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Байланыштары, SIM-картада – %1$d, түзмөктө – %2$d</string>
+    <string name="contacts_number_device_with_google">Google Байланыштары, түзмөктө – %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google Байланыштар, %1$d iCloud® байланышы</string>
+    <string name="contacts_number_sim_with_google">Google Байланыштар, %1$d SIM-картадагы байланыш</string>
+    <string name="copy_confirmation_description">Google Каттоо эсебиңиз жана колдонмолор сыяктуу дайындарыңыз жаңы телефонуңузга көчүрүлөт</string>
+    <string name="copy_confirmation_title">Жаңы телефонуңузга көчүрүлсүнбү?</string>
+    <string name="d2d_app_picker_description_no_apps">Эч кандай колдонмолор табылган жок</string>
+    <string name="d2d_app_picker_title">Колдонмолор</string>
+    <string name="d2d_migration_canceled_on_source">Көчүрүү жокко чыгарылды</string>
+    <string name="data_copied_fragment_description">Дайындарыңыз жаңы телефонуңузга көчүрүлдү. Кабелди сууруп койсоңуз болот.</string>
+    <string name="data_copied_fragment_description_cancel">Көчүрүү аракети токтотулгандыктан, жаңы түзмөгүңүзгө айрым гана нерселер көчүрүлдү.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Көчүрүү аракети токтотулгандыктан, жаңы телефонуңузга эч нерсе көчүрүлгөн жок.</string>
+    <string name="data_copied_fragment_description_error">Бир жерден ката кетти, ошондуктан биз баарын көчүрүп ала алган жокпуз.</string>
+    <string name="data_copied_fragment_description_error_no_data">Бир жерден ката кеткендиктен, дайындарыңыздын баары көчүрүлгөн жок.</string>
+    <string name="data_copied_fragment_no_data_title">Көчүрүлгөн жок</string>
+    <string name="data_copied_fragment_some_data_title">Кээ бир дайындар көчүрүлдү</string>
+    <string name="data_copied_fragment_title">Көчүрүлгөн дайындар</string>
+    <string name="device_backup_title">Түзмөктүн камдык көчүрмөсүн сактоо</string>
+    <string name="device_not_supported_fragment_new_device">Сиз жаңы телефонго туташып турасыз. Улантуу үчүн мурункусуна кайра туташыңыз.</string>
+    <string name="device_not_supported_fragment_new_device_title">Мурунку телефонду кайра туташтырыңыз</string>
+    <string name="device_not_supported_fragment_no_data_cable">Бул кабель аркылуу маалымат өткөрүлбөйт. Башка кабель менен кайра туташтырып, дагы аракет кылыңыз.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Башка кабелди колдонуп көрүңүз</string>
+    <string name="device_not_supported_fragment_retry_description">Эски телефонуңуздун кулпусу ачылганын текшерип, андан соң кабелди ажыратып, кайра туташтырыңыз.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Бир жерден ката кетти</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® түзмөгүңүз сиз иштеп жаткан уюм тарабынан башкарылгандыктан, дайындарды көчүрүүнүн башка жолун тандоого туура келет</string>
+    <string name="device_picker_description">"Камдык көчүрмө Google Drive'да сакталууда"</string>
+    <string name="device_picker_empty">%1$s каттоо эсеби менен байланышкан эч бир камдык көчүрмө жок.</string>
+    <string name="device_picker_empty_title">Камдык көчүрмөлөр табылган жок</string>
+    <string name="device_picker_item">%1$s түзмөгүнүн камдык көчүрмөсү</string>
+    <string name="device_picker_last_used">Акыркы жолу ^1 күнү колдонулган</string>
+    <string name="device_picker_skip">Калыбына келтирилбесин</string>
+    <string name="device_picker_title">Калыбына келтире турган камдык көчүрмөнү тандаңыз</string>
+    <string name="disabled_by_admin_summary_text">Администратор тарабынан көзөмөлдөнөт</string>
+    <string name="download_msg_error_invalid">Жүктөп алуу туура эмес конфигурацияланды.</string>
+    <string name="download_msg_in_progress">Жүктөлүп алынууда.</string>
+    <string name="download_msg_not_allowed_space">Жүктөп алуу үчүн бош орун жетпейт.</string>
+    <string name="download_msg_pending">Жүктөп алуу күтүлүүдө.</string>
+    <string name="download_notification_description">%1$s төмөнкүнү талап кылды.</string>
+    <string name="download_notification_title">Дагы дайындар алынып келүүдө</string>
+    <string name="drive_backup_account">Каттоо эсеби</string>
+    <string name="drive_backup_apps_in_backup">Көчүрмөсү сакталган колдонмолор</string>
+    <string name="drive_backup_apps_last_backup">Камдык көчүрмөлөр акыркы жолу сакталган:</string>
+    <string name="drive_backup_apps_loading">Жүктөлүүдө…</string>
+    <string name="drive_backup_apps_screen_title">Колдонмо дайындары</string>
+    <string name="drive_backup_content_apps_title">Колдонмо дайындары</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Жылнаамадагы иш-чаралар Google каттоо эсебиңизге байланышкан бардык түзмөктөрдө шайкештирилет.</string>
+    <string name="drive_backup_content_calendar_title">Жылнаама</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Камдык көчүрмөдө чалуулардын качан жасалып, кабыл алынгандыгы жана сүйлөшкөн адамдар тууралуу маалымат камтылат.</string>
+    <string name="drive_backup_content_callhistory_title">Чалуулар таржымалы</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Байланыштарыңыз Google каттоо эсебиңизге кирип турган бардык түзмөктөрдө шайкештирилет.</string>
+    <string name="drive_backup_content_contacts_title">Байланыштар</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Камдык көчүрмөдө тушкагаздар, WiFi сырсөздөрү жана демейки колдонмолор сыяктуу түзмөктүн жөндөөлөрү камтылат.</string>
+    <string name="drive_backup_content_devicesettings_title">Түзмөктүн жөндөөлөрү</string>
+    <string name="drive_backup_content_header">Мазмун</string>
+    <string name="drive_backup_content_photos_dialog_message">Камдык көчүрмө сакталган негизги каттоо эсеби өзгөрдү. Сиз ошондой эле Google Сүрөттөрдүн камдык көчүрмөсү сакталган каттоо эсебин төмөнкүгө өзгөртсөңүз болот: %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ЖОК</string>
+    <string name="drive_backup_content_photos_dialog_title">Сүрөт жана видеонун каттоо эсептери да өзгөртүлсүнбү?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ӨЗГӨРТҮҮ</string>
+    <string name="drive_backup_content_photos_title">Сүрөттөр жана видеолор</string>
+    <string name="drive_backup_content_sms_dialog_message">Камдык көчүрмөcү жөнөтүлгөн жана алынган билдирүүлөрдү камтыйт. Бирок, бул MMS медиафайлдарын камтыбайт.</string>
+    <string name="drive_backup_content_sms_title">SMS билдирүүлөрү</string>
+    <string name="drive_backup_content_status_dolly_action">Түшүнүктүү</string>
+    <string name="drive_backup_content_status_error">Акыркы жолу шайкештештирилген күнүн издөө учурунда ката кетти</string>
+    <string name="drive_backup_content_status_lastsaved">Камдык көчүрмөсү сакталган акыркы убакыты: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Акыркы жолу шайкештирилген убакыты: %1$s</string>
+    <string name="drive_backup_content_status_never">Камдык көчүрмө сакталууда</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Шайкештирүү жөндөөлөрү</string>
+    <string name="drive_backup_content_status_sync_off">Шайкештирүү ӨЧҮК</string>
+    <string name="drive_backup_content_status_updating">Абалы текшерилүүдө…</string>
+    <string name="drive_backup_disabled_backuplist">"Камдык көчүрмө төмөнкүлөрдү камтыйт:
+\u0009- Колдонмолор жана колдонмо дайындары
+\u0009- Чалуулар таржымалы
+\u0009- Түзмөктүн жөндөөлөрү (анын ичинде Wi-Fi сырсөздөрү)
+\u0009- Google Жылнаама
+\u0009- Google Байланыштар
+\u0009- Сүрөттөр жана видеолор
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Камдык көчүрмөдө төмөнкүлөр камтылат:
+\u0009- Колдонмолор жана колдонмонун дайындары
+\u0009- Чалуулар таржымалы
+\u0009- Түзмөктүн жөндөөлөрү (анын ичинде Wi-Fi сырсөздөрү)
+\u0009- Google Жылнаама
+\u0009- Google Байланыштар
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Администраторуңуз өчүрүп койгон</string>
+    <string name="drive_backup_disabled_detailedinfo">"Жылнаама, байланыштар, сүрөттөр жана видеолор Google каттоо эсебиңизге шайкештирилип, бардык кызматтарда колдонулушу мүмкүн.
+
+Шайкештештирүү камдык көчүрмөнү сактоо өчүрүлгөн болсо да иштетилип турушу мүмкүн. Шайкештештирүү жөндөөлөрүн Жөндөөлөр > Каттоо эсептери > Google бөлүмдөрүнөн өзгөртүп алсаңыз болот."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Жылнаамаңыз жана Google Байланыштарыңыз Google каттоо эсебиңизге шайкештирилет жана аларды бардык кызматтарда пайдалансаңыз болот.
+
+Камдык көчүрмөнүн сактоо функциясы өчүрүлгөн болсо да, шайкештирүү иштей бериши мүмкүн. Шайкештирүү жөндөөлөрүн Жөндөөлөр > Каттоо эсептери > Google бөлүмдөрүнөн өзгөртүп алсаңыз болот."</string>
+    <string name="drive_backup_disabled_introduction">Дайындарыңыздын камдык көчүрмөлөрү автоматтык түрдө сакталып турса, телефонуңуздагы дайындарды оңой эле калыбына келтирип же жаңы телефонго өткөрүп аласыз.</string>
+    <string name="drive_backup_settings_title">Камдык көчүрмөнү сактоо</string>
+    <string name="drive_backup_state">"Google Drive'га сактоо"</string>
+    <string name="drive_backup_state_dialog_message">"Ушул түзмөк үчүн Google Drive'да сакталган дайындардын камдык көчүрмөсү биротоло жок кылынат.
+
+Камдык көчүрмөсү мурунтан сакталып калган сүрөттөр жана видеолорду дагы эле Google Drive'дан көрсө болот.
+
+Жылнаамаңыз жана байланыштарыңыз Google каттоо эсебиңизге шайкештештириле берет. Шайкештештирүү жөндөөлөрүн Жөндөөлөр > Каттоо эсептери > Google бөлүмдөрүнөн өзгөртүп алсаңыз болот."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Ушул түзмөк үчүн Google Drive'да сакталган дайындардын камдык көчүрмөсү биротоло жок кылынат.
+
+Жылнаамаңыз жана байланыштарыңыз Google каттоо эсебиңизге шайкештириле берет. Шайкештирүү жөндөөлөрүн Жөндөөлөр > Каттоо эсептери > Google бөлүмдөрүнөн өзгөртүп алсаңыз болот."</string>
+    <string name="drive_backup_state_dialog_okaction">Өчүрүү жана жок кылуу</string>
+    <string name="drive_backup_state_dialog_title">Өчүрүлүп, камдык көчүрмөсү жок кылынсынбы?</string>
+    <string name="durationDayHour">%1$d күн %2$d саат</string>
+    <string name="durationDayHours">%1$d күн %2$d саат</string>
+    <string name="durationDays">%1$d күн</string>
+    <string name="durationHourMinute">%1$d с. %2$d мүн.</string>
+    <string name="durationHourMinutes">%1$d с. %2$d мүн.</string>
+    <string name="durationHours">%1$d саат</string>
+    <string name="durationMinute">%1$d мүнөт</string>
+    <string name="durationMinuteSecond">%1$d мүн %2$d сек.</string>
+    <string name="durationMinuteSeconds">%1$d мүн. %2$d сек.</string>
+    <string name="durationMinutes">%1$d мүнөт</string>
+    <string name="durationSecond">%1$d секунд</string>
+    <string name="durationSeconds">%1$d секунд</string>
+    <string name="encryption_warning_fragment_description">"Камдык көчүрмөнү шифрлөө iPhone® түзмөгүңүз үчүн күйгүзүлгөн. Эгер аны сиз күйгүзгөн болбосоңуз, аны администраторуңуз күйгүзүшү мүмкүн.
+
+Сүрөттөрдү, музыканы жана видеону гана көчүрүүгө болот. Кеңири маалымат алуу үчүн "<b>g.co/datatransferhelp</b> дегенге баш багыңыз.</string>
+    <string name="encryption_warning_fragment_title">Камдык көчүрмөнү шифрлөө</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Адаптер табылбай жатат</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"^1 түзмөгүңүздүн кутусунан Quick Switch Adapter'ди таап,
+
+ага кабелди туташтырыңыз."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Адаптер менен кабелди туташтырыңыз</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Эски телефонуңуздун кулпусун ачыңыз, анан адаптерди бул телефонго сайыңыз.</string>
+    <string name="fragment_usb_connect_both_phones_title">Эки телефон тең туташтырылсын</string>
+    <string name="fragment_usb_dialog_cancel_description">Кабель аркылуу көбүрөөк дайындарды өткөрө аласыз. Эгер кутудагы кабелдер туура келбесе, эски телефонуңузга туура келген кубаттагыч же дайындарды өткөрүүчү кабелди колдонуңуз.</string>
+    <string name="fragment_usb_dialog_cancel_title">Дайындар башка жол менен көчүрүлсүнбү?</string>
+    <string name="fragment_usb_dont_have_cable">Кабелим жок</string>
+    <string name="fragment_usb_dont_have_old_phone">Эски телефонум жок</string>
+    <string name="fragment_usb_find_cable_description">Эски телефонуңузга туура келген дайындарды өткөрүүчү же кубаттагыч кабелин колдонуңуз.</string>
+    <string name="fragment_usb_find_cable_title">Туура кабелди табуу</string>
+    <string name="fragment_usb_initial_description">Дайындар эски телефондон бул ^1 түзмөгүнө өткөрүлсүн.</string>
+    <string name="fragment_usb_initial_title">Дайындарыңызды көчүрөлү</string>
+    <string name="fragment_usb_legacy_description">"Бул дайындарды көчүрүүнүн эң ылдам жолу.
+
+Кутунун ичинен адаптерди таап, аны жаңы телефонуңузга туташтырыңыз. Телефондорду кабел аркылуу туташтырып, эски телефонуңуздун кулпусун ачыңыз."</string>
+    <string name="fragment_usb_other_ways">Кабелсиз көчүрүү</string>
+    <string name="fragment_usb_plug_cable">Кабелди эски телефонго сайыңыз</string>
+    <string name="fragment_waiting_title">Бир секунд…</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="google_contacts_static_text">Google Байланыштар шайкештирилет</string>
+    <string name="google_contacts_static_text_off">Google Байланыштар шайкештириле берет</string>
+    <string name="header_set_backup_account">Маалымат кайда сакталсын?</string>
+    <string name="i_message_dialog_message">"iPhone® түзмөгүнүн колдонуучуларынан SMS билдирүүлөрдү алуу үчүн iMessage® кызматын өчүрүшүңүз керек.
+
+Нускамаларды "<b>g.co/iMessageHelp</b> дарегинен караңыз.</string>
+    <string name="instructions_fragment_title">Башка телефонуңуздан улантыңыз</string>
+    <string name="ios_connected_fragment_description">"Кийинки экрандан Google каттоо эсебиңизге кирип же жаңы каттоо эсебин түзүңүз.
+
+Эгер Google каттоо эсеби кошулбаса, iOS Жылнаама® окуялары өткөрүлбөйт."</string>
+    <string name="ios_message_attachment_explanation">[Билдирүүңүздөгү файлдар Google Фото > Түзмөктүн папкалары > Билдирүүлөрдүн тиркемелери бөлүмдөрүндө сакталган]</string>
+    <string name="ios_message_attachment_failed_explanation">[Айрым файлдар көчүрүлбөй калды. Өткөрүлгөн файлдар Google Фотодогу > Түзмөктүн папкалары > Билдирүүлөрдүн тиркемелери бөлүмдөрүндө сакталган]</string>
+    <string name="ios_message_attachment_placeholder">[Файл Google Фотодогу > Түзмөктүн папкалары > Билдирүүлөрдүн тиркемелери бөлүмдөрүндө сакталган]</string>
+    <string name="ios_message_attachments_placeholder">[Файлдар Google Фотодогу > Түзмөктүн папкалары > Билдирүүлөрдүн тиркемелери бөлүмдөрүндө сакталган]</string>
+    <string name="ios_migration_default_calendar_title">Жылнаама</string>
+    <string name="ios_migration_other_contact_relation">Башка</string>
+    <string name="ios_photos_dialog_message">"iCloud®'да сакталган сүрөттөр көчүрүлбөйт.
+
+Бул сүрөттөрдү ^1 түзмөгүнө ташып келүү үчүн iPhone® түзмөгүңүзгө Google Фото колдонмосун орнотуңуз да, Камдык көчүрмөлөрдү сактоо жана шайкештирүү дегенди күйгүзүңүз. Кошумча көрсөтмөлөрдү алуу үчүн төмөнкүгө өтүңүз: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="list_item_add_account">Каттоо эсебин кошуу</string>
+    <string name="lockscreen_smartdevice_action_next">Кийинки</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Түзмөгүңүздү жөндөөнү улантуу үчүн кулпусун ачыңыз</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Коопсуздук максатында, жөндөөнү улантуу үчүн экран кулпуңузду ырасташыңыз керек</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Экраныңыздын кулпусун ырастаңыз</string>
+    <string name="manage_data_label">Google каттоо эсеби</string>
+    <string name="master_clear_title">Баштапкы абалга кайтаруу</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="network_recommendation_service_label">Googlе</string>
+    <string name="notification_content_text_set_backup_account">Камдык көчүрмөлөр сактала турган каттоо эсебин көрсөтүңүз</string>
+    <string name="notification_content_title_set_backup_account">Камдык көчүрмөнү сактоо</string>
+    <string name="notification_ticker_set_backup_account">Бэкап эсеби керек</string>
+    <string name="permgrouplab_calendar">Жылнаама</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Байланыштар</string>
+    <string name="permgrouplab_location">Жайгашкан жер</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Дене сенсорлору</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Сактагыч</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="photo_backup_configure_account_default_summary">Учурда сүрөттөрдүн камдык көчүрмөсүн сактаган бир дагы каттоо эсеби жок</string>
+    <string name="photos_backup_title">Сүрөттөрдүн камдык көчүрмөсүн сактоо</string>
+    <string name="photos_filtering_option_all">Бардыгы</string>
+    <string name="photos_filtering_option_none">Эч нерсе жок</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Көчүрүлгөн байланыштар Google Каттоо эсебиңизге сакталат.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Көчүрүлгөн байланыштар менен жылнаамалар Google Каттоо эсебиңизге сакталат.</string>
+    <string name="restore_choice_data_disclaimer_v2">Айрым дайындар ^1 түзмөгүнө көчүрүлбөй калышы мүмкүн. <annotation id="restore_choice_data_disclaimer_learn_more">Кеңири маалымат</annotation></string>
+    <string name="restore_choice_deselect_some_content">Улантуу үчүн айрым мазмунду тандоодон чыгарыңыз</string>
+    <string name="restore_choice_learn_more_android">"Эски телефонуңуздагы айрым дайындарды автоматтык түрдө көчүрүү мүмкүн эмес:
+
+ ● Жүктөлүп алынгандар (мисалы, PDF файлдары)
+
+ ● Жашыруун куржундарда сакталган сүрөттөр, видеолор жана музыка
+
+ ● SMS билдирүү аркылуу алынган сүрөттөр, видеолор жана музыка
+
+ ● Google Play Store'дон башка жерден алынган колдонмолор
+
+ ● Колдонмонун дайындары (эгер колдонмодо Android камдык көчүрмөсү колдонулбаса)
+
+ ● Түзмөктүн белгилүү бир жөндөөлөрү
+
+ ● Google Каттоо эсебинен башка каттоо эсептери (жана аларга байланыштуу дайындар)
+
+ ● Google'дан башка кызматтарга шайкештирилген байланыштар менен жылнаамалар
+
+ ● Рингтондор
+
+ Бул дайындарды көчүрүү боюнча көбүрөөк маалымат алуу үчүн g.co/datatransferhelp дарегине баш багыңыз."</string>
+    <string name="restore_choice_learn_more_ios">"Эски телефонуңуздагы айрым дайындарды автоматтык түрдө көчүрүү мүмкүн эмес:
+
+ ● Колдонмолор жана колдонмо дайындары
+
+ ● Телефонуңузда түпнускасы сакталбаган сүрөттөр (мисалы, эгер Сактагычты оптималдаштыруу жөндөөсү күйгүзүлсө, түпнуска сүрөттөр iCloud® эстутумуна сакталат)
+
+ ● iCloud® эстутумунда сакталган файлдар менен документтер
+
+ ● Түзмөктүн Wi-Fi сырсөздөрү жана тушкагаз сыяктуу жөндөөлөрү
+
+ ● Санариптик укуктарды башкаруу (DRM) технологиясы аркылуу корголгон музыка (мисалы, 2009-жылдын апрель айына чейин сатылып алынган iTunes(R) музыкасы же музыка колдонмосунан оффлайнда угуу үчүн жүктөлүп алынган музыка)
+
+ ● Google Каттоо эсебинен башка каттоо эсептери (жана аларга байланыштуу дайындар)
+
+ ●Google же iCloud® кызматтарынан башка кызматтарга шайкештирилген байланыштар менен жылнаамалар
+
+ ● Safari® серепчисиндеги кыстармалар
+
+ iMessage® кызматындагы тиркемелер Google Фотодогу > Түзмөктүн папкалары > Билдирүүнүн тиркемелери бөлүмүндө сакталат.
+
+ Бул дайындарды көчүрүү боюнча көбүрөөк маалымат алуу үчүн g.co/datatransferhelp дарегине баш багыңыз."</string>
+    <string name="restore_choice_not_enough_space">Орун жетишсиз</string>
+    <string name="restore_choice_total_text">жеткиликтүү %1$s ичинен / %2$s өткөрүү</string>
+    <string name="restore_error_message">Калыбына келтирүүдө ката кетти. Кечиресиз.</string>
+    <string name="restore_item_appdata">Колдонмо дайындары</string>
+    <string name="restore_item_calendar">Жылнаама</string>
+    <string name="restore_item_calendar_ical_description">iOS® Жылнаама, Google Жылнаама</string>
+    <string name="restore_item_calendar_ical_off_description">Google Жылнаама шайкештириле берет</string>
+    <string name="restore_item_calendar_sync_description">Google Жылнаама шайкештирилет</string>
+    <string name="restore_item_call_logs">Чалуулар таржымалы</string>
+    <string name="restore_item_contacts">Байланыштар</string>
+    <string name="restore_item_device_settings_description">Wi-Fi сырсөздөрү жана башкалар</string>
+    <string name="restore_item_downloads">Жүктөлүп алынган нерселер</string>
+    <string name="restore_item_email">Электрондук почта</string>
+    <string name="restore_item_email_description">Gmail шайкештирилет</string>
+    <string name="restore_item_message_attachments">Билдирүү тиркемелери</string>
+    <string name="restore_item_messages">Билдирүүлөр</string>
+    <string name="restore_item_music">Музыка</string>
+    <string name="restore_item_photos">Сүрөттөр жана видеолор</string>
+    <string name="restore_item_settings">Түзмөктүн жөндөөлөрү</string>
+    <string name="restore_item_sms">SMS билдирүүлөр</string>
+    <string name="restore_item_will_be_synced_text">Дайындар телефонуңуз менен шайкештештирилет</string>
+    <string name="restore_progress_title">Калыбына келтирилүүдө…</string>
+    <string name="small_time_duration">1 мүнөттөн ашпайт</string>
+    <string name="source_connected_description">Даярдалууда…</string>
+    <string name="source_connected_title">%1$s түзмөгүңүзгө туташып турат</string>
+    <string name="source_copying_description">Сиз тандаган дайындар жаңы телефонуңузга көчүрүлүүдө</string>
+    <string name="source_copying_title">Көчүрүүлүүдө...</string>
+    <string name="source_default_target_device_name">жаңы түзмөк</string>
+    <string name="source_notification_device_disconnected">USB кабелди кайра туташтырыңыз</string>
+    <string name="source_notification_text">Телефондон телефонго өткөрүлүп жатат</string>
+    <string name="source_notification_title">Дайындарды өткөрүү</string>
+    <string name="source_success_description">Жөндөөнү %1$s түзмөгүңүздөн бүтүрүңүз.</string>
+    <string name="source_success_screen_title">Баары даяр!</string>
+    <string name="source_unplugged_description">%1$s түзмөгүңүзгө кайрадан туташтырыңыз</string>
+    <string name="source_unplugged_title">USB кабели суурулуп калды</string>
+    <string name="source_waiting_title">Жөндөөнү %1$s түзмөгүңүздөн улантыңыз</string>
+    <string name="stop_copying_dialog_continue_button">Көз жаздымда калтыруу</string>
+    <string name="stop_copying_dialog_message_before_transfer">Дайындарыңыз жаңы телефонуңузга көчүрүлгөн жок</string>
+    <string name="stop_copying_dialog_message_during_transfer">Айрым дайындарыңыз жаңы телефонуңузга көчүрүлгөн жок</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Көчүрүлбөсүн</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Токтотуу</string>
+    <string name="stop_copying_dialog_title_before_transfer">Көчүрүлбөсүнбү?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Көчүрүү токтотулсунбу?</string>
+    <string name="storage_management_wear_descriptive_text">Колдонмолор түзмөгүңүздүн сактагычы аркылуу дайындарды тагынма жабдыктарга көчүрөт.</string>
+    <string name="storage_management_wear_manage_size_label">Тагынманын сактагычын башкаруу</string>
+    <string name="storage_management_wear_size_label">Тагынманын сактагычы</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play кызматтарынын жалпы дайындары, ошондой эле издөө каражаты жана башка дайындар.</string>
+    <string name="storage_managment_clear_all_data">Бардык дайындарды тазалайт</string>
+    <string name="storage_managment_computing_size">Эсептелүүдө…</string>
+    <string name="storage_managment_icing_size_label">Издөө дайындары</string>
+    <string name="storage_managment_manage_icing_button">Издөө дайындарын башкаруу</string>
+    <string name="storage_managment_search_index_descriptive_text">Колдонмолоруңузду издөө каражаты менен камсыз кылып, түзмөгүңүздүн издөө аракетин тездетебиз.</string>
+    <string name="storage_managment_title">Google Play кызматтарынын сактагычы</string>
+    <string name="storage_managment_total_size_label">Сактагычтын жалпы көлөмү</string>
+    <string name="suw_back_button_label">Артка</string>
+    <string name="suw_more_button_label">Дагы</string>
+    <string name="suw_next_button_label">Кийинки</string>
+    <string name="target_default_source_device_model">эски түзмөк</string>
+    <string name="target_device_not_supported_cant_continue_description">Дайындарды көчүрүүнүн башка жолун тандашыңыз керек</string>
+    <string name="target_device_not_supported_cant_continue_title">Башка телефон колдоого алынбайт</string>
+    <string name="target_device_not_supported_try_restarting_description">"Эски телефонуңуздан кабелди сууруп туруп, аны өчүрүп күйгүзүңүз. Анан кабелди кайра сайып, Pixel'деги көрсөтмөлөрдү аткарыңыз.
+
+Эгер бул ката кайра эле чыга берсе, көчүрүүнүн башка жолун байкап көрүңүз."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефон колдоого алынган эмес болушу мүмкүн</string>
+    <string name="target_smart_device_timeout_add_account">КАТТОО ЭСЕБИН КОШУУ</string>
+    <string name="target_smart_device_timeout_description">Кааласаңыз каттоо эсебиңизди кол менен кошууга аракет кылыңыз</string>
+    <string name="target_smart_device_timeout_dismiss">ЖОК</string>
+    <string name="target_smart_device_timeout_title">Кыйналып жатасызбы?</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="toast_phones_connected">Телефондор туташты</string>
+    <string name="toast_reconnect_cable">USB кабелди кайра туташтырыңыз</string>
+    <string name="transfer_finished_fragment_title">Бир аз күтө туруңуз…</string>
+    <string name="transfer_summary_copied">Дайындар көчүрүлдү</string>
+    <string name="transfer_summary_fragment_description">Кабелди сууруп койсоңуз болот</string>
+    <string name="transfer_summary_fragment_finish">БҮТҮРҮҮ</string>
+    <string name="transfer_summary_fragment_title">Телефонуңуз дээрлик даяр болуп калды</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Айрым сүрөттөрүңүз көчүрүлгөн жок. <annotation id="transfer_summary_learn_more">Кеңири маалымат</annotation></string>
+    <string name="transfer_summary_not_copied">Дайындар көчүрүлгөн жок</string>
+    <string name="transfer_summary_partial">%1$s / %2$s көчүрүлдү</string>
+    <string name="transfer_summary_will_sync">Дайындар жөндөлгөндөн кийин шайкештештирилет</string>
+    <string name="transferring_fragment_calculating_remaining_time">Калган убакыт эсептелүүдө...</string>
+    <string name="transferring_fragment_header">Көчүрүүлүүдө...</string>
+    <string name="transferring_fragment_remaining_time">%1$s калды</string>
+    <string name="trust_instructions_description">Улантуу үчүн iPhone® түзмөгүңүздү текшерип, туташууга уруксат бериңиз</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari жана iTunes – АКШ жана башка өлкөлөрдө катталган Apple Inc. соода белгилери.</string>
+</resources>

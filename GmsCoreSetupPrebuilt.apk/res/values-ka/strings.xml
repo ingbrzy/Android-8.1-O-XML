@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">აპს-შიდა შენაძენები</string>
+    <string name="app_has_permissions">ნებართვები: %s</string>
+    <string name="app_has_runtime_permissions">აპი ნებართვებს მოგთხოვთ</string>
+    <string name="app_picker_app_already_installed_toast">ეს აპი უკვე დაინსტალირებულია</string>
+    <string name="app_picker_loading">იძებნება ხელმისაწვდომი აპები…</string>
+    <string name="app_picker_loading_toast">ხელმისაწვდომი აპები მალე ჩაიტვირთება</string>
+    <string name="app_picker_no_apps">აპები არჩეული არ არის</string>
+    <string name="app_picker_no_apps_found">აპები ვერ მოიძებნა</string>
+    <string name="apps_in_app_purchases_disclaimer_all">აპს-შიდა შენაძენების თქვენს ^1-ზე გადატანა არ მოხდება.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">ზოგიერთი აპს-შიდა შენაძენის თქვენს ^1-ზე გადატანა შეიძლება ვერ მოხერხდეს.</string>
+    <string name="apps_permissions_described_v2">"Android აპებთან შესაძლებელია მხოლოდ პოპულარული, უფასო iOS® აპების შესატყვისება. აპს-შიდა შენაძენების უმეტესობის გადატანა ვერ მოხერხდება. დაყენების დასრულების შემდეგ Play Store-ში მეტი აპის პოვნას შეძლებთ.
+
+კონკრეტულ შესაძლებლობებზე ან თქვენს მოწყობილობაზე არსებულ ინფორმაციაზე წვდომის მიზნით, ზოგიერთი აპისთვის ნებართვის მიცემა შეიძლება წინასწარ დაგჭირდეთ. ნებართვები ორგანიზებულია ნებართვების ჯგუფების მიხედვით. ამ აპების ინსტალაციის არჩევით, თქვენ ეთანხმებით თითოეულ ჯგუფში შემავალ ნებართვებს. ნებართვების თითოეული ჯგუფის აღწერა მოცემულია ქვემოთ.
+
+ზოგიერთმა აპმა შეიძლება არ მოითხოვოს ნებართვები წინასწარ. ამგვარი აპების გამოყენებისას მათთვის ცალკეული ნებართვის მიცემა ან აკრძალვა შეგეძლებათ, სანამ აპი შესაბამისი ტიპის მონაცემებს გამოიყენებს.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">თითოეული აპის დაინსტალირებით თქვენ მის ნებართვებს ეთანხმებით. <annotation id="apps_permissions_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="auto_restore_summary">აპის ხელახალი ინსტალაციისას, პარამეტრებისა და მონაცემების აღდგენა სარეზერვო ასლიდან</string>
+    <string name="auto_restore_title">ავტომატური აღდგენა</string>
+    <string name="backup_configure_account_default_summary">მონაცემთა სარეზერვო ასლებს ამჟამად არცერთი ანგარიში არ ინახავს</string>
+    <string name="backup_configure_account_title">სარეზერვო ანგარიში</string>
+    <string name="backup_data_summary">აპების მონაცემების, Wi-Fi-ს პაროლებისა და სხვა პარამეტრების სარეზერვო ასლების შექმნა Google Drive-ზე</string>
+    <string name="backup_data_summary_full">"მოწყობილობის მონაცემების (მათ შორის, Wi-Fi-ს პაროლებისა და საუბრის ისტორიის) და აპების მონაცემების (მათ შორის, აპების მიერ შენახული პარამეტრებისა და ფაილების) დისტანციური სარეზერვო ასლების ავტომატურად შექმნა.
+
+სარეზერვო ასლების ავტომატურად შექმნის ჩართვის შემთხვევაში, მოწყობილობისა და აპების მონაცემები, გარკვეული პერიოდულობით, დისტანციურად შეინახება. აპების მონაცემები გულისხმობს ამა თუ იმ აპის მიერ შენახულ ნებისმიერ მონაცემს (დამოკიდებულია დეველოპერის პარამეტრებზე). ეს შეიძლება იყოს ისეთი კონფიდენციალური მონაცემებიც, როგორიცაა კონტაქტები, შეტყობინებები და ფოტოები"</string>
+    <string name="backup_data_title">Google Drive-ზე დამარქაფება</string>
+    <string name="backup_erase_dialog_message">გსურთ, შეწყდეს თქვენი Wi‑Fi პაროლების, სანიშნეების, აპების მონაცემებისა და სხვა პარამეტრების სარეზერვო კოპირება და, ამასთანავე, ამოიშალოს Google Drive-ზე არსებული ყველა ასლი?</string>
+    <string name="backup_erase_dialog_message_full">გსურთ, შეწყდეს მოწყობილობის მონაცემებისა (მათ შორის, Wi-Fi-ს პაროლებისა და საუბრის ისტორიის) და აპების მონაცემების (მათ შორის, აპების მიერ შენახული პარამეტრებისა და ფაილების) სარეზერვო კოპირება და, ამასთანავე, ამოიშალოს Google Drive-ზე არსებული ყველა ასლი?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Photos-ის პარამეტრების გახსნისას წარმოიქმნა შეცდომა</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"სარეზერვო ასლების ავტომატურად შექმნის ჩართვის შემთხვევაში:
+
+ ● მოწყობილობის პარამეტრები და აპების მონაცემები პერიოდულად შეინახება Google Drive-ზე არსებულ პირად საქაღალდეში. აპების მონაცემები გულისხმობს ამა თუ იმ აპის მიერ შენახულ ნებისმიერ მონაცემებს (დამოკიდებულია დეველოპერის პარამეტრებზე). ეს შეიძლება იყოს ისეთი კონფიდენციალური მონაცემებიც, როგორიცაა კონტაქტები, შეტყობინებები და ფოტოები.
+
+ დიდი ზომის ფაილები, ან ფაილები, რომლებიც დეველოპერების მიერ სერვისიდან გამოირიცხა, არ დაკოპირდება.
+
+ ● ამ მოწყობილობაზე არსებული ფოტოები და ვიდეოჩანაწერები სინქრონიზებული იქნება თქვენს Google Photos ბიბლიოთეკასთან, რათა მათი მოძიება, რედაქტირება, წაშლა და გაზიარება ნებისმიერი თქვენი მოწყობილობიდან შეძლოთ.
+
+ ნაგულისხმევად, ფოტოები და ვიდეოები სრული გარჩევადობით აიტვირთება. ისინი Drive-ზე თქვენთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს.
+
+ ● ამ მოწყობილობაზე არსებული კონტაქტები და დაკავშირებული მონაცემები სინქრონიზებული იქნება Google Contacts-თან. კონტაქტების ნებისმიერი თქვენი მოწყობილობიდან მოსაძიებლად, დასარედაქტირებლად, წასაშლელად და გასაზიარებლად, Google Contacts აპის გამოყენება შეგიძლიათ.
+
+ ● ამ მოწყობილობაზე არსებული კალენდრის ჩანაწერები და დაკავშირებული მონაცემები სინქრონიზებული იქნება Google Calendar-თან. ამ ჩანაწერების ნებისმიერი თქვენი მოწყობილობიდან მოსაძიებლად, დასარედაქტირებლად, წასაშლელად და გასაზიარებლად, Google Calendar აპის გამოყენება შეგიძლიათ.
+
+ სარეზერვო მონაცემები Drive-ზე თქვენთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"სარეზერვო ასლების ავტომატურად შექმნის ჩართვის შემთხვევაში:
+
+ ● მოწყობილობის პარამეტრები და აპების მონაცემები პერიოდულად შეინახება Google Drive-ზე არსებულ პირად საქაღალდეში. აპების მონაცემები გულისხმობს ამა თუ იმ აპის მიერ შენახულ ნებისმიერ მონაცემებს (დამოკიდებულია დეველოპერის პარამეტრებზე). ეს შეიძლება იყოს ისეთი კონფიდენციალური მონაცემებიც, როგორიცაა კონტაქტები, შეტყობინებები და ფოტოები.
+
+ დიდი ზომის ფაილები ან ფაილები, რომლებიც დეველოპერების მიერ სერვისიდან გამოირიცხა, არ დაკოპირდება.
+
+ ● ამ მოწყობილობაზე არსებული კონტაქტები და დაკავშირებული მონაცემები სინქრონიზებული იქნება Google Contacts-თან. კონტაქტების ნებისმიერი თქვენი მოწყობილობიდან მოსაძიებლად, დასარედაქტირებლად, წასაშლელად და გასაზიარებლად Google Contacts აპის გამოყენება შეგიძლიათ.
+
+ ● ამ მოწყობილობაზე არსებული კალენდრის ჩანაწერები და დაკავშირებული მონაცემები სინქრონიზებული იქნება Google Calendar-თან. ამ ჩანაწერების ნებისმიერი თქვენი მოწყობილობიდან მოსაძიებლად, დასარედაქტირებლად, წასაშლელად და გასაზიარებლად Google Calendar აპის გამოყენება შეგიძლიათ.
+
+ სარეზერვო მონაცემები Drive-ზე თქვენთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="backup_opt_in_backup_description_extra">კალენდარი, კონტაქტები, ფოტოები და ვიდეოები სინქრონიზებულია თქვენს Google ანგარიშთან და მათი გამოყენება სხვადასხვა სერვისში არის შესაძლებელი.</string>
+    <string name="backup_opt_in_backup_description_v2">ავტომატური სარეზერვო კოპირების მეშვეობით თქვენ ნებისმიერ დროს, მარტივად მოახერხებთ ტელეფონების აღდგენას ან შეცვლას. <annotation id="backup_opt_in_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"ეს მოქმედება გამორთავს შემდეგი კონტენტის სარეზერვო ასლების შექმნას:
+
+აპები და აპების მონაცემები
+საუბრის ისტორია
+მოწყობილობის პარამეტრები
+ფოტოები და ვიდეობი
+SMS შეტყობინებები
+
+კალენდრისა და კონტაქტების თქვენს Google ანგარიშთან სინქრონიზაცია კვლავინდებურად გაგრძელდება. დაყენების დასრულების შემდეგ, სინქრონიზაციის პარამეტრების შესაცვლელად, გადადით აქ: "<annotation id="backup_opt_in_settings_instructions">პარამეტრები > ანგარიშები > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">გსურთ სარეზერვო კოპირების გამორთვა?</string>
+    <string name="backup_opt_in_backup_list">"აპები და აპების მონაცემები
+კალენდარი
+საუბრის ისტორია
+კონტაქტები
+მოწყობილობის პარამეტრები (Wi-Fi პაროლების ჩათვლით)
+ფოტოები და ვიდეობი
+SMS შეტყობინებები"</string>
+    <string name="backup_opt_in_backup_list_header">სარეზერვო ასლში შედის:</string>
+    <string name="backup_opt_in_backup_title">Google Drive-ზე დამარქაფება</string>
+    <string name="backup_opt_in_disable_backup">სარეზერვო კოპირების გამორთვა</string>
+    <string name="backup_photos_update">გთხოვთ, განაახლოთ Google Photos</string>
+    <string name="backup_settings_activity_backup_title">სარეზერვო კოპირება</string>
+    <string name="backup_settings_activity_title">სარეზერვო კოპირება და გადაყენება</string>
+    <string name="byteShort">ბაიტი</string>
+    <string name="cancel_copy_button_text">არ დაკოპირდეს</string>
+    <string name="close_button_label">დახურვა</string>
+    <string name="cloud_restore_app_picker_button">აღდგენა</string>
+    <string name="cloud_restore_app_picker_description_no_apps">თქვენი სარეზერვო ასლი აპებს არ შეიცავს</string>
+    <string name="cloud_restore_app_picker_title">აირჩიეთ აღსადგენი აპები</string>
+    <string name="common_accept">მიღება</string>
+    <string name="common_add_account_label">ანგარიშის დამატება</string>
+    <string name="common_ads_settings_title">რეკლამები</string>
+    <string name="common_agree">ვეთანხმები</string>
+    <string name="common_app_name">Google Play სერვისები</string>
+    <string name="common_asm_preferences_settings_title">ანგარიშის პარამეტრები</string>
+    <string name="common_asm_privacy_settings_title">კონფიდენციალურობის პარამეტრები</string>
+    <string name="common_asm_security_settings_title">შესვლა და უსაფრთხოება</string>
+    <string name="common_audience_edit_button_label">რედაქტირება</string>
+    <string name="common_cancel">გაუქმება</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ვერ ეშვება (ნებართვის შეცდომა).</string>
+    <string name="common_car_permission_desc">მანქანის სერვისზე წვდომა.</string>
+    <string name="common_car_permission_label">მანქანის სერვისი</string>
+    <string name="common_chips_label_empty_circles">წრეებია არ არის</string>
+    <string name="common_chips_label_extended_circles">გაფართოებული წრეები</string>
+    <string name="common_chips_label_only_you">მხოლოდ თქვენ</string>
+    <string name="common_chips_label_public">საჯარო</string>
+    <string name="common_chips_label_your_circles">თქვენი წრეები</string>
+    <string name="common_choose_account_label">ანგარიშის არჩევა</string>
+    <string name="common_clear_app_data_menu_item">აპის მონაცემების გასუფთავება</string>
+    <string name="common_connected">დაკავშირებულია</string>
+    <string name="common_connected_apps_settings_title">დაკავშირებული აპები</string>
+    <string name="common_connecting">დაკავშირება…</string>
+    <string name="common_continue">გაგრძელება</string>
+    <string name="common_disagree">არ ვეთანხმები</string>
+    <string name="common_disconnect">გათიშვა</string>
+    <string name="common_done">მზადაა</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">გამგზავნი:</string>
+    <string name="common_games_settings_title">თამაშები</string>
+    <string name="common_get_started">დაწყება</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">ჩართვა</string>
+    <string name="common_google_play_services_enable_text">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="common_google_play_services_enable_title">Google Play Services-ის ჩართვა</string>
+    <string name="common_google_play_services_error_dialog_title">შეცდომა</string>
+    <string name="common_google_play_services_install_button">ინსტალაცია</string>
+    <string name="common_google_play_services_install_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="common_google_play_services_install_title">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_google_play_services_update_text">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_google_play_services_update_title">განაახლეთ Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="common_google_play_services_updating_title">Google Play Services ახლდება</string>
+    <string name="common_google_play_services_wear_update_text">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play სერვისები არასწორი არქიტექტურით დაყენდა.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play სერვისები დაყენდა ისეთი არქიტექტურით (%1$s), რომელიც განსხვავდება თქვენი მოწყობილობის არქიტექტურისგან (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">არასწორი არქიტექტურა</string>
+    <string name="common_google_settings">Google პარამეტრები</string>
+    <string name="common_google_settings_account">ანგარიში</string>
+    <string name="common_google_settings_credentials_title">Smart Lock პაროლებისთვის</string>
+    <string name="common_google_settings_developer">დეველოპერი</string>
+    <string name="common_google_settings_services">სერვისები</string>
+    <string name="common_got_it">გასაგებია</string>
+    <string name="common_install">ინსტალაცია</string>
+    <string name="common_learn_more">შეიტყვეთ მეტი</string>
+    <string name="common_list_apps_menu_help">დახმარება</string>
+    <string name="common_list_apps_menu_help_and_feedback">დახმარება და გამოხმაურება</string>
+    <string name="common_loading">იტვირთება…</string>
+    <string name="common_location_settings_title">მდებარეობა</string>
+    <string name="common_magictether_settings_title">მყისიერი ტეტერინგი</string>
+    <string name="common_maps_settings_title">Maps და Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">არ არსებობს მაჩვენებელი გარე URL-ის საჩვენებლად.</string>
+    <string name="common_more_options">სხვა ვარიანტები</string>
+    <string name="common_networking_settings_title">მუშაობა ქსელში</string>
+    <string name="common_no_browser_for_restricted_url">წვდომა შეზღუდულია. ბრაუზერი ვერ მოიძებნა.</string>
+    <string name="common_no_devices_found">მოწყობილობები ვერ მოიძებნა</string>
+    <string name="common_no_network">მიუწვდომელია, რადგან მოწყობილობა ხაზგარე რეჟიმშია</string>
+    <string name="common_no_thanks">არა, გმადლობთ</string>
+    <string name="common_not_now">ახლა არა</string>
+    <string name="common_off">გამორთული</string>
+    <string name="common_ok">კარგი</string>
+    <string name="common_on">ჩართული</string>
+    <string name="common_open_on_phone">ტელეფონში გახსნა</string>
+    <string name="common_open_source_licenses">ღია კოდის ლიცენზიები</string>
+    <string name="common_people_settings_title">კონტაქტები</string>
+    <string name="common_permissions_enable_in_settings">პარამეტრებში ჩართვა</string>
+    <string name="common_permissions_missing_end">გასაგრძელებლად, გახსენით პარამეტრები, შემდეგ — ნებართვები და დაუშვით ყველა მითითებული ერთეული.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ჩასართავად, გადადით აქ:
+პარამეტრები >
+ნებართვები >
+Google Play სერვისები"</string>
+    <string name="common_permissions_missing_start">ეს აპი არ იმუშავებს გამართულად, სანამ Google Play სერვისებისთვის შემდეგ ნებართვებზე წვდომას არ დაუშვებთ:</string>
+    <string name="common_permissions_open_settings">პარამეტრების გახსნა</string>
+    <string name="common_phone">ტელეფონი</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">კონფიდენციალურობის დებულება</string>
+    <string name="common_restore">აღდგენა</string>
+    <string name="common_retry">ხელახლა ცდა</string>
+    <string name="common_search_settings_title">Search</string>
+    <string name="common_security_ootp_setting_title">უსაფრთხოების კოდი</string>
+    <string name="common_security_settings_title">უსაფრთხოება</string>
+    <string name="common_send">გაგზავნა</string>
+    <string name="common_sending">იგზავნება…</string>
+    <string name="common_set_up_nearby_device_settings_title">ახლოს მდებარე მოწყობილობის დაყენება</string>
+    <string name="common_settings">პარამეტრები</string>
+    <string name="common_signin_button_text">შესვლა</string>
+    <string name="common_signin_button_text_long">Google-ით შესვლა</string>
+    <string name="common_something_went_wrong">წარმოიქმნა შეფერხება</string>
+    <string name="common_system_info">სისტემის ინფორმაცია</string>
+    <string name="common_take_photo_label">ფოტოს გადაღება</string>
+    <string name="common_terms_of_service">მომსახურების პირობები</string>
+    <string name="common_try_again">ხელახლა ცდა</string>
+    <string name="common_turn_on_bluetooth">Bluetooth-ის ჩართვა</string>
+    <string name="common_ui_confirm_deleting_button">წაშლა</string>
+    <string name="common_ui_confirm_deleting_checkbox">მესმის და მსურს წაშლა</string>
+    <string name="common_unknown">უცნობი</string>
+    <string name="common_update">განახლება</string>
+    <string name="common_url_load_unsuccessful_message">თქვენი Android მოწყობილობა არ არის დაკავშირებული მობილური ინტერნეტის სერვისთან. ამ ინფორმაციის ახლა სანახავად, მოინახულეთ %s ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">თქვენი Android მოწყობილობა არ არის დაკავშირებული Wi-Fi ქსელთან. ამ ინფორმაციის ახლავე სანახავად, მოინახულეთ %s ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="common_url_login_notice">%1$s-ად შესვლა</string>
+    <string name="common_usage_and_diagnostics">გამოყენება და დიაგნოსტიკა</string>
+    <string name="common_yesterday">გუშინ</string>
+    <string name="confirm_copy_button_text">კოპირება</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d მოწყობილობის</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts, %1$d iCloud®, %2$d მოწყობილობის</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts, %1$d SIM, %2$d მოწყობილობის</string>
+    <string name="contacts_number_device_with_google">Google Contacts, %1$d მოწყობილობის</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacts, %1$d SIM</string>
+    <string name="copy_confirmation_description">თქვენს ახალ ტელეფონზე ისეთი მონაცემები დაკოპირდება, როგორიცაა თქვენი Google ანგარიში და აპები</string>
+    <string name="copy_confirmation_title">გსურთ თქვენს ახალ ტელეფონზე კოპირება?</string>
+    <string name="d2d_app_picker_description_no_apps">აპები ვერ მოიძებნა</string>
+    <string name="d2d_app_picker_title">აპები</string>
+    <string name="d2d_migration_canceled_on_source">კოპირება გაუქმდა</string>
+    <string name="data_copied_fragment_description">თქვენი მონაცემები დაკოპირდა ახალ ტელეფონზე. შეგიძლიათ გამოაერთოთ კაბელი.</string>
+    <string name="data_copied_fragment_description_cancel">თქვენს ახალ ტელეფონზე მხოლოდ ზოგიერთი მონაცემი დაკოპირდა, რადგან კოპირების შეწყვეტა აირჩიეთ.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">თქვენს ახალ ტელეფონზე არაფერი დაკოპირდა, რადგან კოპირების შეწყვეტა აირჩიეთ.</string>
+    <string name="data_copied_fragment_description_error">წარმოიქმნა შეფერხება და ყველაფრის კოპირება ვერ მოხერხდა.</string>
+    <string name="data_copied_fragment_description_error_no_data">წარმოიქმნა შეფერხება და თქვენი მონაცემების კოპირება ვერ მოხერხდა.</string>
+    <string name="data_copied_fragment_no_data_title">კოპირება ვერ მოხერხდა</string>
+    <string name="data_copied_fragment_some_data_title">მონაცემები ნაწილობრივ დაკოპირდა</string>
+    <string name="data_copied_fragment_title">მონაცემები დაკოპირდა</string>
+    <string name="device_backup_title">მოწყობილობის სარეზერვო კოპირება</string>
+    <string name="device_not_supported_fragment_new_device">თქვენ ახალ ტელეფონს დაუკავშირდით. გასაგრძელებლად, ხელახლა დაუკავშირდით წინა ტელეფონს.</string>
+    <string name="device_not_supported_fragment_new_device_title">ხელახლა დაუკავშირდით წინა ტელეფონს</string>
+    <string name="device_not_supported_fragment_no_data_cable">ამ კაბელს მონაცემთა გადატანა არ შეუძლია. გთხოვთ, დააკავშიროთ სხვა კაბელი და ცადოთ ხელახლა.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ცადეთ სხვა კაბელის გამოყენება</string>
+    <string name="device_not_supported_fragment_retry_description">დარწმუნდით, რომ თქვენი ძველი ტელეფონი განბლოკილია, ხოლო შემდეგ, გამოაერთეთ და ხელახლა მიუერთეთ კაბელი</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">წარმოიქმნა შეფერხება</string>
+    <string name="device_not_supported_ios_supervised_description">იქიდან გამომდინარე, რომ თქვენი iPhone® მართული მოწყობილობაა, მონაცემთა კოპირების სხვა ხერხი უნდა აირჩიოთ</string>
+    <string name="device_picker_description">სარეზერვო ასლები Google Drive-ზე ინახება</string>
+    <string name="device_picker_empty">%1$s-თან მიბმული სარეზერვო ასლები არ არის.</string>
+    <string name="device_picker_empty_title">სარეზერვო ასლები ვერ მოიძებნა</string>
+    <string name="device_picker_item">%1$s-ის სარეზერვო ასლი</string>
+    <string name="device_picker_last_used">ბოლო გამოყენება: ^1</string>
+    <string name="device_picker_skip">არ მსურს აღდგენა</string>
+    <string name="device_picker_title">აირჩიეთ აღსადგენი სარეზერვო ასლი</string>
+    <string name="disabled_by_admin_summary_text">იმართება ადმინისტრატორის მიერ</string>
+    <string name="download_msg_error_invalid">ჩამოტვირთვა არასწორად იქნა კონფიგურირებული.</string>
+    <string name="download_msg_in_progress">მიმდინარეობს ჩამოტვირთვა.</string>
+    <string name="download_msg_not_allowed_space">ჩამოტვირთვისათვის საკმარისი სივრცე არ არის.</string>
+    <string name="download_msg_pending">ჩამოტვირთვა რიგშია.</string>
+    <string name="download_notification_description">%1$s-ის მოთხოვნით.</string>
+    <string name="download_notification_title">დამატებით მონაცემების მოძიება</string>
+    <string name="drive_backup_account">ანგარიში</string>
+    <string name="drive_backup_apps_in_backup">აპის მონაცემების სარეზერვო ასლი</string>
+    <string name="drive_backup_apps_last_backup">ბოლო სარეზერვო კოპირება</string>
+    <string name="drive_backup_apps_loading">იტვირთება…</string>
+    <string name="drive_backup_apps_screen_title">აპის მონაცემები</string>
+    <string name="drive_backup_content_apps_title">აპის მონაცემები</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Calendar-ში შექმნილი მოვლენები სინქრონიზებული იქნება ყველა იმ მოწყობილობასთან, რომელიც შესულია თქვენს Google ანგარიშში.</string>
+    <string name="drive_backup_content_calendar_title">კალენდარი</string>
+    <string name="drive_backup_content_callhistory_dialog_message">სარეზერვო ასლი შეიცავს თარიღებსა და განხორციელებული თუ მიღებული ზარების შესახებ ინფორმაციას.</string>
+    <string name="drive_backup_content_callhistory_title">საუბრის ისტორია</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Contacts-ში შექმნილი კონტაქტები სინქრონიზებული იქნება ყველა იმ მოწყობილობასთან, რომელიც შესულია თქვენს Google ანგარიშში.</string>
+    <string name="drive_backup_content_contacts_title">კონტაქტები</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">სარეზერვო ასლი შეიცავს მოწყობილობის კონფიგურაციას, როგორიცაა, მაგალითად, ინფორმაცია ფონის, Wi-Fi პაროლებისა და ნაგულისხმევი აპების შესახებ.</string>
+    <string name="drive_backup_content_devicesettings_title">მოწყობილობის პარამეტრები</string>
+    <string name="drive_backup_content_header">კონტენტი</string>
+    <string name="drive_backup_content_photos_dialog_message">თქვენი ძირითადი სარეზერვო ანგარიში შეიცვალა. სურვილისამებრ, Google Photos-ის სარეზერვო ანგარიშის %s-ზე შეცვლაც შეგიძლიათ.</string>
+    <string name="drive_backup_content_photos_dialog_no">დახურვა</string>
+    <string name="drive_backup_content_photos_dialog_title">ფოტოებისა და ვიდეოების ანგარიშის შეცვლაც გსურთ?</string>
+    <string name="drive_backup_content_photos_dialog_yes">შეცვლა</string>
+    <string name="drive_backup_content_photos_title">ფოტოები და ვიდეოები</string>
+    <string name="drive_backup_content_sms_dialog_message">სარეზერვო ასლი შეიცავს გაგზავნილ და მიღებულ შეტყობინებებს. ეს არ გულისხმობს MMS მედია-ფაილებს.</string>
+    <string name="drive_backup_content_sms_title">ტექსტური SMS შეტყობინებები</string>
+    <string name="drive_backup_content_status_dolly_action">გასაგებია</string>
+    <string name="drive_backup_content_status_error">შეცდომა ბოლო სინქრონიზაციის თარიღის მიღებისას</string>
+    <string name="drive_backup_content_status_lastsaved">ბოლო სარეზერვო ასლის შექმნის დრო: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">ბოლო სინქრონიზაცია: %1$s</string>
+    <string name="drive_backup_content_status_never">სარეზერვო კოპირების მოლოდინში</string>
+    <string name="drive_backup_content_status_sync_adapter_action">სინქრონიზაციის პარამეტრები</string>
+    <string name="drive_backup_content_status_sync_off">სინქრონიზაცია გამორთულია</string>
+    <string name="drive_backup_content_status_updating">მიმდინარეობს სტატუსის შემოწმება…</string>
+    <string name="drive_backup_disabled_backuplist">"სარეზერვო ასლში შედის:
+\u0009— აპები და აპების მონაცემები
+\u0009— საუბრის ისტორია
+\u0009— მოწყობილობის პარამეტრები (Wi-Fi პაროლების ჩათვლით)
+\u0009— Google Calendar
+\u0009— Google Contacts
+\u0009— ფოტოები და ვიდეობი
+\u0009— SMS შეტყობინებები"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"სარეზერვო ასლში შედის:
+\u0009— აპები და აპების მონაცემები
+\u0009— საუბრის ისტორია
+\u0009— მოწყობილობის პარამეტრები (Wi-Fi პაროლების ჩათვლით)
+\u0009— Google Calendar
+\u0009— Google Contacts
+\u0009— SMS შეტყობინებები"</string>
+    <string name="drive_backup_disabled_by_device_owner">გათიშულია თქვენი ადმინისტრატორის მიერ</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Calendar, Google Contacts, ფოტოები და ვიდეოები სინქრონიზებულია თქვენს Google ანგარიშთან და მათი გამოყენება სხვადასხვა სერვისში შეგიძლიათ.
+
+სინქრონიზაციის ჩართვა შეიძლება მაშინაც კი, თუ სარეზერვო კოპირება გამორთულია. სინქრონიზაციის პარამეტრების შესაცვლელად, გადადით აქ: პარამეტრები > ანგარიშები > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Calendar და Google Contacts სინქრონიზებულია თქვენს Google ანგარიშთან და მათი გამოყენება სხვადასხვა სერვისში შეგიძლიათ.
+
+სინქრონიზაციის ჩართვა შეიძლება მაშინაც კი, თუ სარეზერვო კოპირება გამორთულია. სინქრონიზაციის პარამეტრების შესაცვლელად, გადადით აქ: პარამეტრები > ანგარიშები > Google."</string>
+    <string name="drive_backup_disabled_introduction">ავტომატური სარეზერვო კოპირების მეშვეობით, თქვენ ნებისმიერ დროს, მარტივად მოახერხებთ ტელეფონების აღდგენას ან შეცვლას.</string>
+    <string name="drive_backup_settings_title">სარეზერვო კოპირება</string>
+    <string name="drive_backup_state">Google Drive-ზე დამარქაფება</string>
+    <string name="drive_backup_state_dialog_message">"ამ მოწყობილობის Google Drive-ზე არსებული სარეზერვო მონაცემები სამუდამოდ წაიშლება.
+
+სარეზერვო ასლების მქონე ფოტოები და ვიდეოები Google Drive-ზე კვლავ იქნება ხელმისაწვდომი.
+
+Google Calendar-ისა და Google Contacts-ის თქვენს Google ანგარიშთან სინქრონიზაცია არ შეჩერდება. სინქრონიზაციის პარამეტრების შეცვლა შესაძლებელია აქ: პარამეტრები > ანგარიშები > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"ამ მოწყობილობის Google Drive-ზე არსებული სარეზერვო მონაცემები სამუდამოდ წაიშლება.
+
+Google Calendar-ისა და Google Contacts-ის თქვენს Google ანგარიშთან სინქრონიზაცია არ შეჩერდება. სინქრონიზაციის პარამეტრების შეცვლა შესაძლებელია აქ: პარამეტრები > ანგარიშები > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">გამორთვა და წაშლა</string>
+    <string name="drive_backup_state_dialog_title">გსურთ გამორთვა და სარეზერვო ასლის წაშლა?</string>
+    <string name="durationDayHour">%1$d დღ და %2$d სთ</string>
+    <string name="durationDayHours">%1$d დღ და %2$d სთ</string>
+    <string name="durationDays">%1$d დღე</string>
+    <string name="durationHourMinute">%1$d სთ და %2$d წთ</string>
+    <string name="durationHourMinutes">%1$d სთ და %2$d წთ</string>
+    <string name="durationHours">%1$d საათი</string>
+    <string name="durationMinute">%1$d წუთი</string>
+    <string name="durationMinuteSecond">%1$d წთ და %2$d წმ</string>
+    <string name="durationMinuteSeconds">%1$d წთ და %2$d წმ</string>
+    <string name="durationMinutes">%1$d წუთი</string>
+    <string name="durationSecond">%1$d წამი</string>
+    <string name="durationSeconds">%1$d წამი</string>
+    <string name="encryption_warning_fragment_description">"თქვენს iPhone®-ზე ჩართულია სარეზერვო ასლების დაშიფვრა. თუ ის თავად არ ჩაგირთავთ, ეს შეიძლება თქვენს IT ადმინისტრატორს გაეკეთებინა.
+
+ამის გამო მხოლოდ ფოტოების, ვიდეოებისა და მუსიკის კოპირება მოხერხდება. დამატებითი ინფორმაციისთვის, მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">სარეზერვო ასლების დაშიფვრა</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ადაპტერს ვერ ვპოულობ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"იპოვეთ Quick Switch Adapter, რომელიც თქვენს ^1-ს კომპლექტში მოჰყვა.
+
+მიუერთეთ კაბელი ადაპტერს."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">დააკავშირეთ ადაპტერი და კაბელი</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">განბლოკეთ თქვენი ძველი ტელეფონი, ხოლო შემდეგ მიუერთეთ ადაპტერი ამ ტელეფონს.</string>
+    <string name="fragment_usb_connect_both_phones_title">დააკავშირეთ ორივე ტელეფონი</string>
+    <string name="fragment_usb_dialog_cancel_description">კაბელის გამოყენების შემთხვევაში კონტენტის უმეტესობის გადატანას შეძლებთ. თუ კომპლექტში არსებული კაბელები თქვენს ძველ ტელეფონს არ მოერგება, ცადეთ დამტენის ან მონაცემთა გადაცემის იმ კაბელის გამოყენება, რომელიც მასთან მუშაობს.</string>
+    <string name="fragment_usb_dialog_cancel_title">გსურთ მონაცემთა სხვა გზით კოპირება?</string>
+    <string name="fragment_usb_dont_have_cable">კაბელი არ მაქვს</string>
+    <string name="fragment_usb_dont_have_old_phone">ძველი ტელეფონი არ მაქვს</string>
+    <string name="fragment_usb_find_cable_description">გამოიყენეთ კაბელი, რომელიც თქვენს ძველ ტელეფონს მოერგება, მაგალითად, მონაცემთა გადაცემის ან დამტენის კაბელი.</string>
+    <string name="fragment_usb_find_cable_title">იპოვეთ საჭირო კაბელი</string>
+    <string name="fragment_usb_initial_description">მონაცემების თქვენი ძველი ტელეფონიდან ამ ^1-ზე გადმოტანა.</string>
+    <string name="fragment_usb_initial_title">შევუდგეთ თქვენი მონაცემების კოპირებას</string>
+    <string name="fragment_usb_legacy_description">"უმეტეს შემთხვევაში, ეს მონაცემთა გადატანის ყველაზე სწრაფი ხერხია.
+
+იპოვეთ ადაპტერი, რომელიც კომპლექტს მოჰყვა, და მიუერთეთ ის ახალ ტელეფონს. დააკავშირეთ ტელეფონები კაბელით, ხოლო შემდეგ, განბლოკეთ თქვენი ძველი ტელეფონი."</string>
+    <string name="fragment_usb_other_ways">კაბელის გარეშე კოპირება</string>
+    <string name="fragment_usb_plug_cable">მიუერთეთ კაბელი თქვენს ძველ ტელეფონს</string>
+    <string name="fragment_waiting_title">ერთი წამით…</string>
+    <string name="gigabyteShort">გბაიტი</string>
+    <string name="google_contacts_static_text">Google Contacts სინქრონიზებული იქნება</string>
+    <string name="google_contacts_static_text_off">Google Contacts მაინც იქნება სინქრონიზებული</string>
+    <string name="header_set_backup_account">სარეზერვო ანგარიშის დაყენება</string>
+    <string name="i_message_dialog_message">"iPhone®-ის მომხმარებლებისგან SMS-შეტყობინებების მიღების გასაგრძელებლად, iMessage® უნდა გამორთოთ.
+
+ინსტრუქციისთვის, მოინახულეთ: "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">გააგრძელეთ თქვენს სხვა ტელეფონზე</string>
+    <string name="ios_connected_fragment_description">"შემდეგ ეკრანზე თქვენს Google ანგარიშში შესვლას ან ახლის შექმნას შეძლებთ.
+
+თუ თქვენს Google ანგარიშს არ დაამატებთ, თქვენი iOS Calendar®-ის მოვლენების გადატანა არ მოხდება."</string>
+    <string name="ios_message_attachment_explanation">[თქვენი შეტყობინებების დანართები ინახება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachment_failed_explanation">[ზოგიერთი დანართის კოპირება ვერ მოხერხდა. გადმოტანილი დანართები ინახება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachment_placeholder">[დანართი, რომელიც შენახულია აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachments_placeholder">[დანართები, რომელიც შენახულია აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_migration_default_calendar_title">კალენდარი</string>
+    <string name="ios_migration_other_contact_relation">სხვა</string>
+    <string name="ios_photos_dialog_message">"iCloud®-ში შენახული ფოტოების დაკოპირება ვერ მოხერხდება.
+
+აღნიშნული ფოტოების თქვენს ^1-ზე გადასატანად, დააინსტალირეთ Google Photos აპი თქვენს iPhone®-ზე და ჩართეთ სარეზერვო კოპირება და სინქრონიზაცია. დამატებითი ინსტრუქციისთვის, მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">კბაიტი</string>
+    <string name="list_item_add_account">ანგარიშის დამატება</string>
+    <string name="lockscreen_smartdevice_action_next">შემდეგი</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">დაყენების გასაგრძელებლად, განბლოკეთ თქვენი ტელეფონი</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">დაყენების გასაგრძელებლად, ეკრანის დაბლოკვის მეთოდი უნდა დაადასტუროთ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">დაადასტურეთ თქვენი ეკრანის დაბლოკვის მეთოდი</string>
+    <string name="manage_data_label">Google ანგარიში</string>
+    <string name="master_clear_title">ქარხნული მონაცემების აღდგენა</string>
+    <string name="megabyteShort">მბაიტი</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">საჭიროა სარეზერვო კოპირებისთვის ანგარიშის დაყენება</string>
+    <string name="notification_content_title_set_backup_account">სარეზერვო კოპირება</string>
+    <string name="notification_ticker_set_backup_account">საჭიროა სარეზერვო ანგარიში</string>
+    <string name="permgrouplab_calendar">კალენდარი</string>
+    <string name="permgrouplab_camera">კამერა</string>
+    <string name="permgrouplab_contacts">კონტაქტები</string>
+    <string name="permgrouplab_location">მდებარეობა</string>
+    <string name="permgrouplab_microphone">მიკროფონი</string>
+    <string name="permgrouplab_phone">ტელეფონი</string>
+    <string name="permgrouplab_sensors">სხეულის სენსორები</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">მეხსიერება</string>
+    <string name="petabyteShort">პბაიტი</string>
+    <string name="photo_backup_configure_account_default_summary">ფოტოების სარეზერვო ასლებს ამჟამად არცერთი ანგარიში არ ინახავს</string>
+    <string name="photos_backup_title">ფოტოების სარეზერვო კოპირება</string>
+    <string name="photos_filtering_option_all">ყველა</string>
+    <string name="photos_filtering_option_none">არცერთი</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">დაკოპირებული კონტაქტები თქვენს Google ანგარიშში შეინახება.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">დაკოპირებული კონტაქტები და კალენდრები თქვენს Google ანგარიშში შეინახება.</string>
+    <string name="restore_choice_data_disclaimer_v2">ზოგიერთი მონაცემი შეიძლება ვერ დაკოპირებულიყო თქვენს ^1-ზე. <annotation id="restore_choice_data_disclaimer_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="restore_choice_deselect_some_content">გასაგრძელებლად, გააუქმეთ მონიშვნა კონტენტის ნაწილზე</string>
+    <string name="restore_choice_learn_more_android">"თქვენი ძველი ტელეფონიდან ზოგიერთი მონაცემი ავტომატურად ვერ დაკოპირდა:
+
+ ● ჩამოტვირთვები (როგორიცაა PDF ფაილები)
+
+ ● დამალულ საქაღალდეებში შენახული ფოტოები, ვიდეოები და მუსიკა
+
+ ● ტექსტური შეტყობინებების მეშვეობით მიღებული ფოტოები, ვიდეოები და მუსიკა
+
+ ● Google Play Store-ისგან განსხვავებული წყაროებიდან დაინსტალირებული აპები
+
+ ● აპების მონაცემები (თუ აპი Android-ის სარეზერვო კოპირების ფუნქციას არ იყენებს)
+
+ ● მოწყობილობის კონკრეტული
+
+ ● Google ანგარიშებისგან განსხვავებული ანგარიშები (და დაკავშირებული მონაცემები)
+
+ ● Google-ისგან განსხვავებულ სერვისებთან სინქრონიზებული კონტაქტები და კალენდრები
+
+ ● ზარები
+
+ დამატებითი ინფორმაციისთვის და ზოგიერთი აღნიშნული მონაცემის კოპირებასთან დაკავშირებით დახმარების მისაღებად, მოინახულეთ: g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"თქვენი ძველი ტელეფონიდან ზოგიერთი მონაცემი ავტომატურად ვერ დაკოპირდა:
+
+ ● აპები და აპების მონაცემები
+
+ ● ფოტოები, რომელთა ორიგინალებიც თქვენს ტელეფონზე არ ინახება (მაგალითად, თუ მეხსიერების ოპტიმიზაციის პარამეტრი ჩართულია, ორიგინალი ფოტოები iCloud®-ში ინახება)
+
+ ● iCloud®-ში შენახული ფაილები და დოკუმენტები
+
+ ● მოწყობილობის პარამეტრები (როგორიცაა Wi-Fi ქსელების პაროლები და ფონი)
+
+ ● ციფრული უფლებების მართვის (DRM) სქემით დაცული მუსიკა (მაგალითად, iTunes®-დან 2009 წლის აპრილამდე შეძენილი მუსიკა, ან მუსიკის სტრიმინგის აპიდან ხაზგარეშე რეჟიმში მოსასმენად ჩამოტვირთული მუსიკა)
+
+ ● Google ანგარიშებისგან განსხვავებული ანგარიშები (და დაკავშირებული მონაცემები)
+
+ ● Google-ისა და iCloud®-ისგან განსხვავებულ სერვისებთან სინქრონიზებული კონტაქტები და კალენდრები
+
+ ● Safari®-ს სანიშნეები
+
+ iMessage®-ის დანართები ხელმისაწვდომი იქნება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები.
+
+ დამატებითი ინფორმაციისთვის და ზოგიერთი აღნიშნული მონაცემის კოპირებასთან დაკავშირებით დახმარების მისაღებად, მოინახულეთ: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">მეხსიერება არასაკმარისია</string>
+    <string name="restore_choice_total_text">ხელმისაწვდომი %1$s-დან (გადატანის ხანგრძლივობა: %2$s)</string>
+    <string name="restore_error_message">სამწუხაროდ, აღდგენისას წარმოიქმნა შეფერხება.</string>
+    <string name="restore_item_appdata">აპების მონაცემები</string>
+    <string name="restore_item_calendar">კალენდარი</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar მაინც იქნება სინქრონიზებული</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar სინქრონიზებული იქნება</string>
+    <string name="restore_item_call_logs">საუბრის ისტორია</string>
+    <string name="restore_item_contacts">კონტაქტები</string>
+    <string name="restore_item_device_settings_description">Wi-Fi პაროლები და სხვა</string>
+    <string name="restore_item_downloads">ჩამოტვირთვები</string>
+    <string name="restore_item_email">ელფოსტა</string>
+    <string name="restore_item_email_description">Gmail სინქრონიზებული იქნება</string>
+    <string name="restore_item_message_attachments">შეტყობინებების დანართები</string>
+    <string name="restore_item_messages">შეტყობინებები</string>
+    <string name="restore_item_music">მუსიკა</string>
+    <string name="restore_item_photos">ფოტოები და ვიდეოები</string>
+    <string name="restore_item_settings">მოწყობილობის პარამეტრები</string>
+    <string name="restore_item_sms">SMS შეტყობინებები</string>
+    <string name="restore_item_will_be_synced_text">ეს თქვენს ტელეფონთან იქნება სინქრონიზებული</string>
+    <string name="restore_progress_title">მიმდინარეობს აღდგენა…</string>
+    <string name="small_time_duration">1 წუთზე ნაკლები</string>
+    <string name="source_connected_description">მზადდება...</string>
+    <string name="source_connected_title">დაკავშირებულია თქვენს %1$s-თან</string>
+    <string name="source_copying_description">ახალ ტელეფონზე თქვენ მიერ არჩეული მონაცემები კოპირდება</string>
+    <string name="source_copying_title">მიმდინარეობს კოპირება...</string>
+    <string name="source_default_target_device_name">ახალი მოწყობილობა</string>
+    <string name="source_notification_device_disconnected">ხელახლა მიუერთეთ კაბელი</string>
+    <string name="source_notification_text">მიმდინარეობს ტელეფონიდან ტელეფონზე გადატანა</string>
+    <string name="source_notification_title">მონაცემთა გადატანა</string>
+    <string name="source_success_description">დაასრულეთ დაყენება თქვენს %1$s-ზე.</string>
+    <string name="source_success_screen_title">ყველაფერი მზად არის!</string>
+    <string name="source_unplugged_description">ხელახლა დაუკავშირდით თქვენს %1$s-ს</string>
+    <string name="source_unplugged_title">კაბელი გამოერთებულია</string>
+    <string name="source_waiting_title">გააგრძელეთ დაყენება თქვენს %1$s-ზე</string>
+    <string name="stop_copying_dialog_continue_button">დახურვა</string>
+    <string name="stop_copying_dialog_message_before_transfer">თქვენი მონაცემები ახალ ტელეფონზე არ დაკოპირებულა</string>
+    <string name="stop_copying_dialog_message_during_transfer">ზოგიერთი თქვენი მონაცემი ახალ ტელეფონზე არ დაკოპირებულა</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">არ დაკოპირდეს</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">შეწყვეტა</string>
+    <string name="stop_copying_dialog_title_before_transfer">არ დაკოპირდეს?</string>
+    <string name="stop_copying_dialog_title_during_transfer">გსურთ კოპირების შეწყვეტა?</string>
+    <string name="storage_management_wear_descriptive_text">მონაცემთა ტარებად მოწყობილობაზე რეპლიკაციისათვის, აპები თქვენი მოწყობილობის საცავს იყენებს.</string>
+    <string name="storage_management_wear_manage_size_label">ტარებადი მოწყობილობის საცავის მართვა</string>
+    <string name="storage_management_wear_size_label">ტარებადი მოწყობილობის საცავი</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play Services-ის მიერ გამოყენებული მონაცემები, საძიებო სისტემისა და სხვა მონაცემების ჩათვლით.</string>
+    <string name="storage_managment_clear_all_data">ყველა მონაცემის გასუფთავება</string>
+    <string name="storage_managment_computing_size">გამოთვლა…</string>
+    <string name="storage_managment_icing_size_label">ძების მონაცემები</string>
+    <string name="storage_managment_manage_icing_button">ძების მონაცემების მართვა</string>
+    <string name="storage_managment_search_index_descriptive_text">მოწყობილობაზე ძიების ასაჩქარებლად თქვენი აპებისთვის საძიებო სისტემას გაწვდით.</string>
+    <string name="storage_managment_title">Google Play services საცავი</string>
+    <string name="storage_managment_total_size_label">მეხსიერების საერთო მოცულობა</string>
+    <string name="suw_back_button_label">უკან</string>
+    <string name="suw_more_button_label">დამატებით</string>
+    <string name="suw_next_button_label">შემდეგი</string>
+    <string name="target_default_source_device_model">ძველი მოწყობილობა</string>
+    <string name="target_device_not_supported_cant_continue_description">მონაცემთა კოპირების სხვა ხერხი უნდა აირჩიოთ</string>
+    <string name="target_device_not_supported_cant_continue_title">სხვა ტელეფონი მხარდაუჭერელია</string>
+    <string name="target_device_not_supported_try_restarting_description">"გამოაერთეთ კაბელი და გადატვირთეთ თქვენი ძველი ტელეფონი, შემდეგ კი, ხელახლა მიუერთეთ ის და მიჰყევით ინსტრუქციას თქვენს Pixel-ზე.
+
+თუ ეს შეცდომა კვლავ შეგხვდებათ, შეიძლება სხვა გზით კოპირება მოგიწიოთ."</string>
+    <string name="target_device_not_supported_try_restarting_title">ტელეფონი შეიძლება მხარდაუჭერელი იყოს</string>
+    <string name="target_smart_device_timeout_add_account">ანგარიშის დამატება</string>
+    <string name="target_smart_device_timeout_description">სურვილისამებრ, თქვენი ანგარიშის ხელით დამატება შეგიძლიათ</string>
+    <string name="target_smart_device_timeout_dismiss">დახურვა</string>
+    <string name="target_smart_device_timeout_title">პრობლემა გაქვთ?</string>
+    <string name="terabyteShort">ტბაიტი</string>
+    <string name="toast_phones_connected">ტელეფონები დაკავშირებულია</string>
+    <string name="toast_reconnect_cable">ხელახლა მიუერთეთ კაბელი</string>
+    <string name="transfer_finished_fragment_title">მიმდინარეობს ბოლო შტრიხების შეტანა...</string>
+    <string name="transfer_summary_copied">მონაცემები დაკოპირდა</string>
+    <string name="transfer_summary_fragment_description">შეგიძლიათ გამოაერთოთ კაბელი.</string>
+    <string name="transfer_summary_fragment_finish">დასრულება</string>
+    <string name="transfer_summary_fragment_title">თქვენი ტელეფონი თითქმის მზად არის</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">თქვენი ზოგიერთი ფოტო არ დაკოპირდა. <annotation id="transfer_summary_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="transfer_summary_not_copied">მონაცემები არ დაკოპირდა</string>
+    <string name="transfer_summary_partial">დაკოპირდა %2$s-დან %1$s</string>
+    <string name="transfer_summary_will_sync">მონაცემების სინქრონიზაცია დაყენების შემდეგ განხორციელდება</string>
+    <string name="transferring_fragment_calculating_remaining_time">მიმდინარეობს დარჩენილი დროის გამოთვლა...</string>
+    <string name="transferring_fragment_header">მიმდინარეობს კოპირება...</string>
+    <string name="transferring_fragment_remaining_time">დარჩენილია %1$s</string>
+    <string name="trust_instructions_description">გასაგრძელებლად, შეამოწმეთ თქვენი iPhone® და დაადასტურეთ დაკავშირება</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari და iTunes Apple Inc.-ის აშშ-ში და სხვა ქვეყნებში რეგისტრირებული სავაჭრო ნიშნებია.</string>
+</resources>

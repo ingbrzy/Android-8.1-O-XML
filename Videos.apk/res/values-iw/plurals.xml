@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">מדורג %1$s כוכבים על ידי %2$d אנשים</item>
+        <item quantity="one">מדורג %1$s כוכבים על ידי אדם אחד</item>
+        <item quantity="two">מדורג %1$s כוכבים על ידי %2$d אנשים</item>
+        <item quantity="many">מדורג %1$s כוכבים על ידי %2$d אנשים</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">התוקף יפוג בעוד %1$d ימים</item>
+        <item quantity="one">התוקף יפוג בעוד יום %1$d</item>
+        <item quantity="two">התוקף יפוג בעוד %1$d ימים</item>
+        <item quantity="many">התוקף יפוג בעוד %1$d ימים</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">התוקף יפוג בעוד %1$d שעות</item>
+        <item quantity="one">התוקף יפוג בעוד שעה %1$d</item>
+        <item quantity="two">התוקף יפוג בעוד %1$d שעות</item>
+        <item quantity="many">התוקף יפוג בעוד %1$d שעות</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">עוד %1$d</item>
+        <item quantity="one">עוד %1$d</item>
+        <item quantity="two">עוד %1$d</item>
+        <item quantity="many">עוד %1$d</item>
+    </plurals>
+</resources>

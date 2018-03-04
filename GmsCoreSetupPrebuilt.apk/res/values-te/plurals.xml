@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">మొత్తం %1$d అనువర్తనాలు</item>
+        <item quantity="one">1 అనువర్తనం</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d అనువర్తనాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">1 అనువర్తనం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d అనువర్తనాలు ఇప్పటికే ఇన్‌స్టాల్ చేయబడ్డాయి</item>
+        <item quantity="one">1 అనువర్తనం ఇప్పటికే ఇన్‌స్టాల్ చేయబడింది</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">మీ బ్యాకప్‌లో %1$d అనువర్తనాలు ఉన్నాయి. వీటిలో కొన్నింటిని ఎంచుకోండి లేదా అన్నింటినీ పునరుద్ధరించండి.</item>
+        <item quantity="one">మీ బ్యాకప్‌లో %1$d అనువర్తనం ఉంది.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d పరికరం పరిచయాలు</item>
+        <item quantity="one">1 పరికరం పరిచయం</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d పరికరం</item>
+        <item quantity="one">%1$d SIM, %2$d పరికరం</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® పరిచయాలు</item>
+        <item quantity="one">1 iCloud® పరిచయం</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM పరిచయాలు</item>
+        <item quantity="one">1 SIM పరిచయం</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">మేము %1$d అనువర్తనాలను కనుగొన్నాము. వీటిలో కొన్నింటిని ఎంచుకోండి లేదా అన్నింటినీ పునరుద్ధరించండి.</item>
+        <item quantity="one">మేము %1$d అనువర్తనాన్ని కనుగొన్నాము. మీరు దీన్ని పునరుద్ధరించాలనుకుంటున్నారా?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">మేము మీ iOS® అనువర్తనాల్లో %1$d వాటికి సరిపోలినవి కనుగొన్నాము. మీరు ఒక్కో అనువర్తనాన్ని ఇన్‌స్టాల్ చేయడం ద్వారా, దాని అనుమతులకు అంగీకరిస్తారు. &lt;annotation id="apps_permissions_learn_more">మరింత తెలుసుకోండి&lt;/annotation></item>
+        <item quantity="one">మేము మీ iOS® అనువర్తనాల్లో ఒకదానికి సరిపోలినది కనుగొన్నాము. మీరు ఈ అనువర్తనాన్ని ఇన్‌స్టాల్ చేయడం ద్వారా దాని అనుమతులకు అంగీకరిస్తారు. &lt;annotation id="apps_permissions_learn_more">మరింత తెలుసుకోండి&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d అంశాలు మిగిలి ఉన్నాయి…</item>
+        <item quantity="one">%1$d అంశం మిగిలి ఉంది…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">ముందస్తు హెచ్చరిక! ఈ ఈవెంట్‌కు హాజరయ్యే వారిలో ఇప్పుడు క్రింది వ్యక్తులు తీసివేయబడ్డారు:</item>
+        <item quantity="one">ముందస్తు హెచ్చరిక! ఈ ఈవెంట్‌కు హాజరయ్యే వారిలో ఇప్పుడు క్రింది వ్యక్తి తీసివేయబడ్డారు:</item>
+    </plurals>
+</resources>

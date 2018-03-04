@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="app_has_in_app_purchases">Покупки в приложении</string>
+    <string name="app_has_permissions">Разрешения: %s</string>
+    <string name="app_has_runtime_permissions">Вам потребуется предоставить приложению все необходимые разрешения</string>
+    <string name="app_picker_loading">Поиск доступных приложений…</string>
+    <string name="app_picker_loading_toast">Приложения скоро загрузятся</string>
+    <string name="app_picker_no_apps">Приложения не выбраны</string>
+    <string name="app_picker_no_apps_found">Нет доступных приложений</string>
+    <string name="apps_permissions_described_v2">"Вам могут быть предложены аналоги только популярных бесплатных приложений для iOS®. Большинство покупок, сделанных в приложениях, перенесены не будут. По окончании настройки вы сможете скачать другие приложения из Google Play.
+
+Некоторым приложениям ещё при установке нужно предоставить разрешения на доступ к определенным функциям устройства или данным. Разрешения разделены по группам. Устанавливая эти приложения, вы предоставляете им разрешения из указанных групп. Описания всех групп представлены ниже.
+
+Некоторые приложения запрашивают разрешения не при установке, а во время работы. При этом вы можете принять или отклонить каждый запрос.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Передача данных</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Нет</string>
+    <string name="close_button_label">Закрыть</string>
+    <string name="cloud_restore_app_picker_button">Перенести</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Приложения не найдены</string>
+    <string name="cloud_restore_app_picker_title">Выберите приложения</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d в iCloud®, %2$d на устройстве</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Контакты, %1$d в iCloud®, %2$d на устройстве</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Контакты, %1$d на SIM-карте, %2$d на устройстве</string>
+    <string name="contacts_number_device_with_google">Google Контакты, %1$d на устройстве</string>
+    <string name="contacts_number_icloud_with_google">Google Контакты, %1$d в iCloud</string>
+    <string name="contacts_number_sim_with_google">Google Контакты, %1$d на SIM-карте</string>
+    <string name="copy_confirmation_description">Ваши данные (например, аккаунт Google и приложения) будут перенесены на новый телефон</string>
+    <string name="copy_confirmation_title">Копировать на новый телефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Приложения не найдены</string>
+    <string name="d2d_app_picker_title">Приложения</string>
+    <string name="d2d_migration_canceled_on_source">Копирование отменено</string>
+    <string name="data_copied_fragment_description">Данные скопированы на новый телефон. Можно отключить кабель.</string>
+    <string name="data_copied_fragment_description_cancel">Копирование остановлено. Некоторые данные не скопированы.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Операция остановлена. Данные не скопированы на новый телефон.</string>
+    <string name="data_copied_fragment_description_error">Не удалось скопировать некоторые данные.</string>
+    <string name="data_copied_fragment_description_error_no_data">Не удалось скопировать данные.</string>
+    <string name="data_copied_fragment_no_data_title">Не удалось скопировать данные</string>
+    <string name="data_copied_fragment_some_data_title">Данные скопированы частично</string>
+    <string name="data_copied_fragment_title">Данные скопированы</string>
+    <string name="device_not_supported_fragment_new_device">Вы подключили кабель к новому устройству. Чтобы продолжить, подключите его ещё раз к предыдущему телефону.</string>
+    <string name="device_not_supported_fragment_new_device_title">Подключите кабель к предыдущему устройству</string>
+    <string name="device_not_supported_fragment_no_data_cable">Невозможно передать данные по этому кабелю. Подключите другой и повторите попытку.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Попробуйте подключить другой кабель</string>
+    <string name="device_not_supported_fragment_retry_description">Убедитесь, что ваш старый телефон разблокирован, а затем отключите и снова подключите кабель.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Произошла ошибка</string>
+    <string name="device_not_supported_ios_supervised_description">У вас сопровождаемое устройство. Выберите другой способ копирования данных.</string>
+    <string name="device_picker_skip">Не восстанавливать</string>
+    <string name="durationDayHour">%1$d день %2$d ч.</string>
+    <string name="durationDayHours">%1$d день %2$d ч.</string>
+    <string name="durationDays">%1$d дн.</string>
+    <string name="durationHourMinute">%1$d ч. %2$d мин.</string>
+    <string name="durationHourMinutes">%1$d ч. %2$d мин.</string>
+    <string name="durationHours">%1$d ч.</string>
+    <string name="durationMinute">%1$d мин.</string>
+    <string name="durationMinutes">%1$d мин.</string>
+    <string name="encryption_warning_fragment_description">"На устройстве iPhone включено шифрование резервных копий. Это могли сделать вы или ваш системный администратор.
+
+Скопировать можно только фото, музыку и видео. Дополнительную информацию вы найдете на странице "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифрование резервных копий</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Не могу найти адаптер</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Найдите Quick Switch Adapter в коробке ^1.
+
+Подключите кабель к адаптеру."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Подключите адаптер к кабелю</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Разблокируйте старый телефон и подсоедините адаптер к новому устройству.</string>
+    <string name="fragment_usb_connect_both_phones_title">Подключите телефоны друг к другу</string>
+    <string name="fragment_usb_dialog_cancel_description">С помощью кабеля можно скопировать большую часть данных. Если кабель из коробки не подходит к старому телефону, воспользуйтесь собственным.</string>
+    <string name="fragment_usb_dialog_cancel_title">Скопировать данные другим способом?</string>
+    <string name="fragment_usb_dont_copy">Не копировать</string>
+    <string name="fragment_usb_dont_have_cable">У меня нет кабеля</string>
+    <string name="fragment_usb_dont_have_old_phone">Старого телефона нет под рукой?</string>
+    <string name="fragment_usb_find_cable_description">Используйте кабель, который подходит к вашему старому телефону (например, кабель для передачи данных или зарядки).</string>
+    <string name="fragment_usb_find_cable_title">Выберите кабель</string>
+    <string name="fragment_usb_initial_description">Включите и разблокируйте устройство Android или iPhone, которым вы пользовались раньше.</string>
+    <string name="fragment_usb_initial_title">Возьмите старый телефон</string>
+    <string name="fragment_usb_legacy_description">"Это самый быстрый способ перенести максимум данных.
+
+Найдите в коробке адаптер и подключите его к новому телефону. Соедините телефоны с помощью кабеля, а затем разблокируйте старое устройство."</string>
+    <string name="fragment_usb_missing_data_description">Ждать не придется – вы сможете продолжить настройку устройства Pixel во время переноса.</string>
+    <string name="fragment_usb_missing_data_title">Скопируйте данные</string>
+    <string name="fragment_usb_other_ways">Скопировать другим способом</string>
+    <string name="fragment_usb_plug_cable">Подключите кабель к старому телефону</string>
+    <string name="fragment_waiting_title">Подождите…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_contacts_static_text">Будет выполнена синхронизация Google Контактов</string>
+    <string name="google_contacts_static_text_off">Google Контакты будут синхронизированы</string>
+    <string name="i_message_dialog_message">"Чтобы продолжать получать SMS с устройств iPhone®, вам потребуется отключить службу iMessage®.
+
+Подробная информация о том, как это сделать, представлена здесь: "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Возьмите другой телефон</string>
+    <string name="ios_connected_fragment_description">"На следующем этапе вы сможете войти в свой аккаунт Google или создать новый.
+
+Если вы не добавите аккаунт Google, события Календаря iOS® перенесены не будут."</string>
+    <string name="ios_message_attachment_explanation">[Чтобы увидеть файлы из сообщений, выберите Google Фото > Папки устройства > Файлы из сообщений]</string>
+    <string name="ios_message_attachment_failed_explanation">[Не удалось скопировать некоторые данные. Чтобы увидеть сохраненные файлы, выберите Google Фото > Папки устройства > Файлы из сообщений]</string>
+    <string name="ios_message_attachment_placeholder">[Файл, сохраненный в Google Фото > Папки устройства > Файлы из сообщений]</string>
+    <string name="ios_message_attachments_placeholder">[Файл, сохраненный в Google Фото > Папки устройства > Файлы из сообщений]</string>
+    <string name="ios_migration_default_calendar_title">Календарь</string>
+    <string name="ios_migration_other_contact_relation">Другое</string>
+    <string name="ios_photos_dialog_message">"Снимки, хранящиеся в iCloud, скопировать невозможно.
+
+Чтобы перенести их на ^1, установите на iPhone приложение \"Google Фото\" и включите в нем автозагрузку и синхронизацию. Подробные инструкции можно найти на сайте "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="lockscreen_smartdevice_action_next">Далее</string>
+    <string name="megabyteShort">МБ</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photos_filtering_option_all">Все</string>
+    <string name="photos_filtering_option_none">Не копировать</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Скопированные контакты сохранятся в вашем аккаунте Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Скопированные контакты и календари сохранятся в вашем аккаунте Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Некоторые данные нельзя скопировать на устройство \"^1\". <annotation id="restore_choice_data_disclaimer_learn_more">Подробнее…</annotation></string>
+    <string name="restore_choice_deselect_some_content">Недостаточно места. Выберите меньше данных.</string>
+    <string name="restore_choice_learn_more_android">"Некоторые данные с вашего старого телефона не удастся автоматически скопировать:
+
+ ● загрузки (например, файлы PDF);
+
+ ● музыку, видео и фото, хранящиеся в скрытых папках;
+
+ ● музыку, видео и фото, полученные с помощью текстовых сообщений;
+
+ ● приложения не из Google Play;
+
+ ● данные приложений, не использующих Android ackup;
+
+ ● некоторые настройки устройства;
+
+ ● другие аккаунты помимо Google (и связанные с ними данные);
+
+ ● контакты и календари, синхронизированные с другими сервисами помимо Google;
+
+ ● рингтоны.
+
+ Чтобы познакомиться с подробной информацией о копировании этих данных, перейдите на g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Со старого телефона нельзя автоматически скопировать следующие файлы: 
+
+ ● приложения и их данные;
+
+ ● фотографии, оригиналы которых не сохранены на устройстве (например, при включенной настройке \"Оптимизация хранилища\" оригиналы фотографий хранятся в iCloud®);
+
+ ● файлы и документы, сохраненные в iCloud®;
+
+ ● настройки устройства (например, пароли от сетей Wi-Fi и обои);
+
+ ● музыка, защищенная параметрами управления цифровыми правами (DRM) (например, приобретенная в iTunes® до апреля 2009 года или скачанная в приложении для прослушивания музыки офлайн);
+
+ ● аккаунты за пределами Google (и любые связанные с ними данные);
+
+ ● контакты и календари, синхронизированные с другими сервисами помимо Google и iCloud®;
+
+ ● закладки из Safari®.
+
+ Чтобы увидеть прикрепленные файлы из сообщений iMessage®, нажмите \"Google Фото > Папки на устройстве > Файлы из сообщений\".
+
+ Подробнее о копировании этих данных рассказано на странице g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Недостаточно места.</string>
+    <string name="restore_choice_total_text">из %1$s (перенос займет %2$s)</string>
+    <string name="restore_item_appdata">Данные приложений</string>
+    <string name="restore_item_calendar">Календарь</string>
+    <string name="restore_item_calendar_ical_description">Календарь iOS®, Google Календарь</string>
+    <string name="restore_item_calendar_ical_off_description">Будет выполнена синхронизация Google Календаря</string>
+    <string name="restore_item_calendar_sync_description">Будет выполнена синхронизация Google Календаря</string>
+    <string name="restore_item_call_logs">Журнал звонков</string>
+    <string name="restore_item_contacts">Контакты</string>
+    <string name="restore_item_device_settings_description">Пароли от Wi-Fi и прочее</string>
+    <string name="restore_item_downloads">Скачивания</string>
+    <string name="restore_item_email">Электронная почта</string>
+    <string name="restore_item_email_description">Будет выполнена синхронизация Gmail</string>
+    <string name="restore_item_message_attachments">Файлы из сообщений</string>
+    <string name="restore_item_messages">Сообщения</string>
+    <string name="restore_item_music">Музыка</string>
+    <string name="restore_item_photos">Фото и видео</string>
+    <string name="restore_item_settings">Настройки устройства</string>
+    <string name="restore_item_sms">SMS</string>
+    <string name="restore_item_will_be_synced_text">Данные будут синхронизированы с телефоном</string>
+    <string name="restore_progress_title">Восстановление…</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="small_time_duration">Меньше 1 минуты</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_copying_dialog_continue_button">Продолжить</string>
+    <string name="stop_copying_dialog_message_before_transfer">Данные не были скопированы на новый телефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Некоторые данные не были скопированы на новый телефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не копировать</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Остановить</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не копировать?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Остановить копирование?</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Ещё</string>
+    <string name="suw_next_button_label">Далее</string>
+    <string name="target_default_source_device_model">старое устройство</string>
+    <string name="target_device_not_supported_cant_continue_description">Выберите другой способ копирования данных</string>
+    <string name="target_device_not_supported_cant_continue_title">Другой телефон не поддерживается</string>
+    <string name="target_device_not_supported_try_restarting_description">"Отключите кабель и перезапустите старый телефон. Затем подсоедините кабель и следуйте инструкциям на экране Pixel.
+
+Если ошибка повторится, попробуйте другой способ копирования."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефон может не поддерживаться</string>
+    <string name="target_pixelmigrate_notification_description">Доступен или выполняется</string>
+    <string name="target_pixelmigrate_notification_title">Перенос данных</string>
+    <string name="target_smart_device_timeout_add_account">ДОБАВИТЬ АККАУНТ</string>
+    <string name="target_smart_device_timeout_description">Вы можете добавить аккаунт вручную.</string>
+    <string name="target_smart_device_timeout_dismiss">ЗАКРЫТЬ</string>
+    <string name="target_smart_device_timeout_title">Возникли проблемы?</string>
+    <string name="terabyteShort">TБ</string>
+    <string name="toast_phones_connected">Телефоны подключены</string>
+    <string name="toast_reconnect_cable">Подключите кабель</string>
+    <string name="transfer_finished_fragment_title">Подождите…</string>
+    <string name="transfer_summary_copied">Данные скопированы</string>
+    <string name="transfer_summary_fragment_description">Кабель можно отключить.</string>
+    <string name="transfer_summary_fragment_finish">ГОТОВО</string>
+    <string name="transfer_summary_fragment_title">Телефон почти готов</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Скопированы не все фотографии. <annotation id="transfer_summary_learn_more">Подробнее…</annotation></string>
+    <string name="transfer_summary_not_copied">Данные не скопированы</string>
+    <string name="transfer_summary_partial">Скопировано: %1$s из %2$s</string>
+    <string name="transfer_summary_will_sync">Данные будут синхронизированы после настройки</string>
+    <string name="transferring_fragment_calculating_remaining_time">Вычисление оставшегося времени…</string>
+    <string name="transferring_fragment_header">Копирование...</string>
+    <string name="transferring_fragment_remaining_time">Копирование завершится через %1$s</string>
+    <string name="trust_instructions_description">Чтобы продолжить, возьмите iPhone® и подтвердите подключение</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari и iTunes являются товарными знаками компании Apple Inc., зарегистрированными в США и других странах.</string>
+</resources>

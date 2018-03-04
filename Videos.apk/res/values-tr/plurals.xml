@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d kişi tarafından %1$s yıldızla değerlendirildi</item>
+        <item quantity="one">Bir kişi tarafından %1$s yıldızla değerlendirildi</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d gün içinde sona eriyor</item>
+        <item quantity="one">%1$d gün içinde sona eriyor</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d saat içinde sona eriyor</item>
+        <item quantity="one">%1$d saat içinde sona eriyor</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d tane daha</item>
+        <item quantity="one">%1$d tane daha</item>
+    </plurals>
+</resources>

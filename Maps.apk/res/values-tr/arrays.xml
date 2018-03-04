@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Tümü</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Tüm fiyat seviyeleri</item>
+        <item>Pahalı değil</item>
+        <item>Biraz pahalı</item>
+        <item>Pahalı</item>
+        <item>Çok pahalı</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Tümü</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Tüm yıldız puanları</item>
+        <item>İki veya daha fazla yıldız</item>
+        <item>Üç veya daha fazla yıldız</item>
+        <item>Dört veya daha fazla yıldız</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Tümü</item>
+        <item>3 yıldızlı</item>
+        <item>4 yıldızlı</item>
+        <item>5 yıldızlı</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Tümü</item>
+        <item>Üç yıldızlı</item>
+        <item>Dört yıldızlı</item>
+        <item>Beş yıldızlı</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Hiç beğenmedim</item>
+        <item>Beğenmedim</item>
+        <item>Fena değil</item>
+        <item>Beğendim</item>
+        <item>Çok beğendim</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>Yakınlaştırırken ve uzaklaştırırken</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Bu yerden neden hiç hoşlanmadığınızı diğer kullanıcılara anlatın.</item>
+        <item>Bu yeri neden sevmediğinizi diğer kullanıcılara anlatın.</item>
+        <item>Bu yeri neden idare eder olarak düşündüğünüzü diğer kullanıcılara anlatın.</item>
+        <item>Bu yeri neden sevdiğinizi diğer kullanıcılara anlatın.</item>
+        <item>Bu yeri neden çok sevdiğinizi diğer kullanıcılara anlatın.</item>
+    </string-array>
+</resources>

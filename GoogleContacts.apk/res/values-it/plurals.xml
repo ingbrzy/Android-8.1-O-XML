@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">"%1$d contatti aggiunti all'etichetta %2$s"</item>
+        <item quantity="one">"%1$d contatto aggiunto all'etichetta %2$s"</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">"Aggiunta di %1$d contatti all'etichetta %2$s"</item>
+        <item quantity="one">"Aggiunta di %1$d contatto all'etichetta %2$s"</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">La revisione ha suggerito informazioni per %d contatti</item>
+        <item quantity="one">La revisione ha suggerito informazioni per %d contatto</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d contatti indesiderati</item>
+        <item quantity="one">%d contatto indesiderato</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d contatti duplicati</item>
+        <item quantity="one">1 contatto duplicato</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">"%1$d chiamate recenti • L'ultima in data %2$s"</item>
+        <item quantity="one">"%1$d chiamata recente • L'ultima in data %2$s"</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">"Contatti già aggiunti all'etichetta %1$s"</item>
+        <item quantity="one">"Contatto già aggiunto all'etichetta %1$s"</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d contatti</item>
+        <item quantity="one">%d contatto</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d contatti · %2$s</item>
+        <item quantity="one">%1$d contatto · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d contatti eliminati</item>
+        <item quantity="one">%1$d contatto eliminato</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Questi contatti verranno rimossi da Contatti Google e da tutti i tuoi dispositivi sincronizzati.</item>
+        <item quantity="one">Questo contatto verrà rimosso da Contatti Google e da tutti i tuoi dispositivi sincronizzati.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d contatti nei tuoi altri account</item>
+        <item quantity="one">Un contatto nei tuoi altri account</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d contatti</item>
+        <item quantity="one">1 contatto</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 contatti • ^2</item>
+        <item quantity="one">^1 contatto • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Spostare le informazioni di questi %1$d contatti in %2$s?</item>
+        <item quantity="one">Spostare le informazioni di questo contatto in %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d contatti spostati</item>
+        <item quantity="one">%d contatto spostato</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Spostamento di %d contatti terminato</item>
+        <item quantity="one">Spostamento del contatto terminato</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Spostamento di %d contatti</item>
+        <item quantity="one">Spostamento del contatto</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Backup di %1$d contatti in %2$s effettuato</item>
+        <item quantity="one">Backup di %1$d contatto in %2$s effettuato</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importa da schede SIM</item>
+        <item quantity="one">Importa da scheda SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contatti</item>
+        <item quantity="one">1 contatto</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d contatti della SIM importati</item>
+        <item quantity="one">1 contatto della SIM importato</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Condividi contatti tramite</item>
+        <item quantity="one">Condividi contatto tramite</item>
+    </plurals>
+</resources>

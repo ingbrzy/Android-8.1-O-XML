@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Vaša ocena: %1$s zvezdic</item>
+        <item quantity="one">Vaša ocena: %1$s zvezdica</item>
+        <item quantity="two">Vaša ocena: %1$s zvezdici</item>
+        <item quantity="few">Vaša ocena: %1$s zvezdice</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d mnenj</item>
+        <item quantity="one">%1$d mnenje</item>
+        <item quantity="two">%1$d mnenji</item>
+        <item quantity="few">%1$d mnenja</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d mnenj za oceno s toliko zvezdicami: %2$d</item>
+        <item quantity="one">%1$d mnenje za oceno s toliko zvezdicami: %2$d</item>
+        <item quantity="two">%1$d mnenji za oceno s toliko zvezdicami: %2$d</item>
+        <item quantity="few">%1$d mnenja za oceno s toliko zvezdicami: %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Namestitve zaustavljene</item>
+        <item quantity="one">Namestitve zaustavljene</item>
+        <item quantity="two">Namestitve zaustavljene</item>
+        <item quantity="few">Namestitve zaustavljene</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Aplikacije so bile pregledane pred %1$d dnevi</item>
+        <item quantity="one">Aplikacije so bile pregledane pred %1$d dnem</item>
+        <item quantity="two">Aplikacije so bile pregledane pred %1$d dnevoma</item>
+        <item quantity="few">Aplikacije so bile pregledane pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Odstranjenih je %1$d škodljivih aplikacij. %2$s.</item>
+        <item quantity="one">Odstranjena je %1$d škodljiva aplikacija. %2$s.</item>
+        <item quantity="two">Odstranjeni sta %1$d škodljivi aplikaciji. %2$s.</item>
+        <item quantity="few">Odstranjene so %1$d škodljive aplikacije. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d posodobitev zahteva odobritev</item>
+        <item quantity="one">%1$d posodobitev zahteva odobritev</item>
+        <item quantity="two">%1$d posodobitvi zahtevata odobritev</item>
+        <item quantity="few">%1$d posodobitve zahtevajo odobritev</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d novih posodobitev</item>
+        <item quantity="one">%1$d nova posodobitev</item>
+        <item quantity="two">%1$d novi posodobitvi</item>
+        <item quantity="few">%1$d nove posodobitve</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Na voljo je %1$d posodobitev</item>
+        <item quantity="one">Na voljo je %1$d posodobitev</item>
+        <item quantity="two">Na voljo sta %1$d posodobitvi</item>
+        <item quantity="few">Na voljo so %1$d posodobitve</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Posodobi vse</item>
+        <item quantity="one">Posodobi vse</item>
+        <item quantity="two">Posodobi vse</item>
+        <item quantity="few">Posodobi vse</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d posodobljenih aplikacij</item>
+        <item quantity="one">%1$d posodobljena aplikacija</item>
+        <item quantity="two">%1$d posodobljeni aplikaciji</item>
+        <item quantity="few">%1$d posodobljene aplikacije</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvezdic</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvezdica</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s zvezdici</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s zvezdice</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvezdic – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvezdica – %3$s</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s zvezdici – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s zvezdice – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s zvezdic – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s zvezdica – %3$s – %4$s</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s zvezdici – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s zvezdice – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d uporabnikom se je zdelo to mnenje uporabno. Označite mnenje kot uporabno.</item>
+        <item quantity="one">%1$d uporabniku se je zdelo to mnenje uporabno. Označite mnenje kot uporabno.</item>
+        <item quantity="two">%1$d uporabnikoma se je zdelo to mnenje uporabno. Označite mnenje kot uporabno.</item>
+        <item quantity="few">%1$d uporabnikom se je zdelo to mnenje uporabno. Označite mnenje kot uporabno.</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d uporabnikom se je zdelo to mnenje uporabno. Odznačite mnenje kot uporabno.</item>
+        <item quantity="one">%1$d uporabniku se je zdelo to mnenje uporabno. Odznačite mnenje kot uporabno.</item>
+        <item quantity="two">%1$d uporabnikoma se je zdelo to mnenje uporabno. Odznačite mnenje kot uporabno.</item>
+        <item quantity="few">%1$d uporabnikom se je zdelo to mnenje uporabno. Odznačite mnenje kot uporabno.</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Ocena: &lt;b>%1$s zvezdic&lt;/b></item>
+        <item quantity="one">Ocena: &lt;b>%1$s zvezdica&lt;/b></item>
+        <item quantity="two">Ocena: &lt;b>%1$s zvezdici&lt;/b></item>
+        <item quantity="few">Ocena: &lt;b>%1$s zvezdice&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">v %1$s mnenjih</item>
+        <item quantity="one">v %1$s mnenju</item>
+        <item quantity="two">v %1$s mnenjih</item>
+        <item quantity="few">v %1$s mnenjih</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s zvezdic&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s zvezdica&lt;/b> %2$s</item>
+        <item quantity="two">&lt;b>%1$s zvezdici&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b>%1$s zvezdice&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Nazadnje uporabljeno pred %1$d dnevi</item>
+        <item quantity="one">Nazadnje uporabljeno pred %1$d dnevom</item>
+        <item quantity="two">Nazadnje uporabljeno pred %1$d dnevoma</item>
+        <item quantity="few">Nazadnje uporabljeno pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Obnovitev izbranih %1$d aplikacij</item>
+        <item quantity="one">Obnovitev izbrane %1$d aplikacije</item>
+        <item quantity="two">Obnovitev izbranih %1$d aplikacij</item>
+        <item quantity="few">Obnovitev izbranih %1$d aplikacij</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">zvezdic</item>
+        <item quantity="one">zvezdica</item>
+        <item quantity="two">zvezdici</item>
+        <item quantity="few">zvezdice</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Aplikacije bodo kmalu nameščene.</item>
+        <item quantity="one">Aplikacije bodo kmalu nameščene.</item>
+        <item quantity="two">Aplikacije bodo kmalu nameščene.</item>
+        <item quantity="few">Aplikacije bodo kmalu nameščene.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Posodobitve aplikacij bodo kmalu nameščene.</item>
+        <item quantity="one">Posodobitve aplikacij bodo kmalu nameščene.</item>
+        <item quantity="two">Posodobitve aplikacij bodo kmalu nameščene.</item>
+        <item quantity="few">Posodobitve aplikacij bodo kmalu nameščene.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Nazadnje uporabljeno pred %1$d dnevi</item>
+        <item quantity="one">Nazadnje uporabljeno pred %1$d dnevom</item>
+        <item quantity="two">Nazadnje uporabljeno pred %1$d dnevoma</item>
+        <item quantity="few">Nazadnje uporabljeno pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Nazadnje uporabljeno pred %1$d meseci</item>
+        <item quantity="one">Nazadnje uporabljeno pred %1$d mesecem</item>
+        <item quantity="two">Nazadnje uporabljeno pred %1$d mesecema</item>
+        <item quantity="few">Nazadnje uporabljeno pred %1$d meseci</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v nastavitvah shrambe.</item>
+        <item quantity="one">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v nastavitvah shrambe.</item>
+        <item quantity="two">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v nastavitvah shrambe.</item>
+        <item quantity="few">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v nastavitvah shrambe.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v &lt;a href=\"\">Nastavitve > Shramba&lt;/a>.</item>
+        <item quantity="one">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v &lt;a href=\"\">Nastavitve > Shramba&lt;/a>.</item>
+        <item quantity="two">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v &lt;a href=\"\">Nastavitve > Shramba&lt;/a>.</item>
+        <item quantity="few">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v &lt;a href=\"\">Nastavitve > Shramba&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v »Nastavitve > Shramba«.</item>
+        <item quantity="one">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v »Nastavitve > Shramba«.</item>
+        <item quantity="two">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v »Nastavitve > Shramba«.</item>
+        <item quantity="few">Če želite v tej napravi namestiti aplikacije ali posodobitve, izbrišite aplikacije, ki jih ne potrebujete več. Prostor lahko sprostite tudi z brisanjem predstavnostnih datotek v »Nastavitve > Shramba«.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">+%d ακόμη</item>
+        <item quantity="one">+1 ακόμη</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Με τη μετακίνηση αυτών των στοιχείων στον κάδο απορριμμάτων θα καταργηθούν επίσης από</item>
+        <item quantity="one">Με τη μετακίνηση αυτού του στοιχείου στον κάδο απορριμμάτων θα καταργηθεί επίσης από</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="zero">0 λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+        <item quantity="two">2 λεπτά</item>
+        <item quantity="few">%1$d λεπτά</item>
+        <item quantity="many">%1$d λεπτά</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="zero">0 δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+        <item quantity="two">2 δευτερόλεπτα</item>
+        <item quantity="few">%1$d δευτερόλεπτα</item>
+        <item quantity="many">%1$d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Αυτά τα στοιχεία είναι πολύ μεγάλα για τον κάδο απορριμμάτων της συσκευής σας. Εάν τα διαγράψετε, θα καταργηθούν οριστικά από τη συσκευή και το λογαριασμό σας.</item>
+        <item quantity="one">Αυτό το στοιχείο είναι πολύ μεγάλο για τον κάδο απορριμμάτων της συσκευής σας. Εάν το διαγράψετε, θα καταργηθεί οριστικά από τη συσκευή και το λογαριασμό σας.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d στοιχεία σαρώθηκαν</item>
+        <item quantity="one">%1$d στοιχείο σαρώθηκε</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">Επιλέχτηκαν %1$d στοιχεία</item>
+        <item quantity="one">Επιλέχτηκε %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+        <item quantity="zero">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+        <item quantity="one">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+        <item quantity="two">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+        <item quantity="few">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+        <item quantity="many">Δεν ήταν δυνατή η σάρωση %1$d από τα βίντεο.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="zero">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+        <item quantity="two">%1$d λεπτά</item>
+        <item quantity="few">%1$d λεπτά</item>
+        <item quantity="many">%1$d λεπτά</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">Επιλέχτηκαν %1$d</item>
+        <item quantity="zero">Επιλέχτηκαν %1$d</item>
+        <item quantity="one">Επιλέχτηκε %1$d</item>
+        <item quantity="two">Επιλέχτηκαν %1$d</item>
+        <item quantity="few">Επιλέχτηκαν %1$d</item>
+        <item quantity="many">Επιλέχτηκαν %1$d</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="zero">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+        <item quantity="two">%1$d δευτερόλεπτα</item>
+        <item quantity="few">%1$d δευτερόλεπτα</item>
+        <item quantity="many">%1$d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">Δεν ήταν δυνατή η χρήση αυτών των βίντεο. Η διάρκειά τους είναι μικρή ή η μορφή τους δεν υποστηρίζεται.</item>
+        <item quantity="zero">Δεν ήταν δυνατή η χρήση αυτών των βίντεο. Η διάρκειά τους είναι μικρή ή η μορφή τους δεν υποστηρίζεται.</item>
+        <item quantity="one">Δεν ήταν δυνατή η χρήση αυτού του βίντεο. Η διάρκειά του είναι μικρή ή η μορφή του δεν υποστηρίζεται.</item>
+        <item quantity="two">Δεν ήταν δυνατή η χρήση αυτών των βίντεο. Η διάρκειά τους είναι μικρή ή η μορφή τους δεν υποστηρίζεται.</item>
+        <item quantity="few">Δεν ήταν δυνατή η χρήση αυτών των βίντεο. Η διάρκειά τους είναι μικρή ή η μορφή τους δεν υποστηρίζεται.</item>
+        <item quantity="many">Δεν ήταν δυνατή η χρήση αυτών των βίντεο. Η διάρκειά τους είναι μικρή ή η μορφή τους δεν υποστηρίζεται.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Το νέο μέγεθος λευκώματος θα ξεπερνούσε το τρέχον όριο %1$d στοιχείων.</item>
+        <item quantity="one">Το νέο μέγεθος λευκώματος θα ξεπερνούσε το τρέχον όριο %1$d στοιχείου.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Το λεύκωμα θα είχε %1$d στοιχεία.</item>
+        <item quantity="one">Το λεύκωμα θα είχε %1$d στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">Να καταργηθούν %1$d στοιχεία από το λεύκωμα;</item>
+        <item quantity="one">Να καταργηθεί %1$d στοιχείο από το λεύκωμα;</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">Κατάργηση %d στοιχείων από το λεύκωμα…</item>
+        <item quantity="one">Κατάργηση %d στοιχείου από το λεύκωμα…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d τοποθεσίες προστέθηκαν</item>
+        <item quantity="one">%d τοποθεσία προστέθηκε</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d τοποθεσίες</item>
+        <item quantity="one">%d τοποθεσία</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d χάρτες</item>
+        <item quantity="one">%d χάρτης</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d χάρτες προστέθηκαν</item>
+        <item quantity="one">%d χάρτης προστέθηκε</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Κατάργηση στοιχείων από αυτό το λεύκωμα…</item>
+        <item quantity="one">Κατάργηση στοιχείου από αυτό το λεύκωμα…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Καταργήθηκαν %d στοιχεία</item>
+        <item quantity="one">Καταργήθηκε %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Κατάργηση φωτογραφιών από αυτό το λεύκωμα…</item>
+        <item quantity="one">Κατάργηση φωτογραφίας από αυτό το λεύκωμα…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Κατάργηση βίντεο από αυτό το λεύκωμα…</item>
+        <item quantity="one">Κατάργηση βίντεο από αυτό το λεύκωμα…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Διαγραφή από τη συσκευή (%d)</item>
+        <item quantity="one">Διαγραφή από τη συσκευή (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Διαγραφή όλων από τη συσκευή (%d)</item>
+        <item quantity="one">Διαγραφή όλων από τη συσκευή (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">Διαγραφή αντιγράφων συσκευής;</item>
+        <item quantity="one">Διαγραφή αντιγράφου συσκευής;</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">"Δεν δημιουργήθηκαν αντίγραφα ασφαλείας γι' αυτά τα στοιχεία στη βιβλιοθήκη των Φωτογραφιών σας και η διαγραφή τους τώρα τα καταργεί οριστικά από τις Φωτογραφίες"</item>
+        <item quantity="one">"Δεν δημιουργήθηκε αντίγραφο ασφαλείας γι' αυτό το στοιχείο στη βιβλιοθήκη των Φωτογραφιών σας και η διαγραφή του τώρα το καταργεί οριστικά από τις Φωτογραφίες"</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Στον κάδο απορ. (%d)</item>
+        <item quantity="one">Στον κάδο απορ. (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d αρχειοθετήθηκαν</item>
+        <item quantity="one">%d στοιχείο αρχειοθετήθηκε</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">Αναιρέθηκε η αρχειοθέτηση %d στοιχείων</item>
+        <item quantity="one">Αναιρέθηκε η αρχειοθέτηση %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="one">%d επιλεγμένο</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">%1$s ακόμα</item>
+        <item quantity="one">%1$s ακόμα</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">πρόσθεσαν %1$d φωτογραφίες</item>
+        <item quantity="one">πρόσθεσαν %1$d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Μεταφόρτωση %d στοιχείων</item>
+        <item quantity="one">Μεταφόρτωση %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">Κατάργηση %d στοιχείων…</item>
+        <item quantity="one">Κατάργηση %d στοιχείου…</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Απομένουν %d φωτογραφίες</item>
+        <item quantity="one">Απομένει %d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d φωτογραφίες για δημιούργία αντιγράφου</item>
+        <item quantity="one">%d φωτογραφία για δημιούργία αντιγράφου</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%d φωτογραφίες ενδέχεται να χαθούν</item>
+        <item quantity="one">%d φωτογραφία ενδέχεται να χαθεί</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d φωτογραφίες χωρίς αντίγραφα ασφαλείας</item>
+        <item quantity="one">%1$d φωτογραφία χωρίς αντίγραφο ασφαλείας</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Προστασία %1$d φωτογραφιών</item>
+        <item quantity="one">Προστασία %1$d φωτογραφίας</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Μεταφόρτωση %d στοιχείων</item>
+        <item quantity="one">Μεταφόρτωση %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Μεταφόρτωση %d βίντεο</item>
+        <item quantity="one">Μεταφόρτωση %d βίντεο</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d στοιχεία για μεταφόρτωση</item>
+        <item quantity="one">%d στοιχείο για μεταφόρτωση</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d βίντεο για μεταφόρτωση</item>
+        <item quantity="one">%d βίντεο για μεταφόρτωση</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Σύνολο %d φωτογραφίες</item>
+        <item quantity="one">Σύνολο %dCOUNT_0 φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d φωτογραφίες δεν αποθηκεύτηκαν</item>
+        <item quantity="one">%d φωτογρ. δεν αποθηκεύτηκε</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">Το νέο μέγεθος λευκώματος θα ξεπερνούσε το τρέχον όριο %1$d στοιχείων.</item>
+        <item quantity="one">Το νέο μέγεθος λευκώματος θα ξεπερνούσε το τρέχον όριο %1$d στοιχείου.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Το λεύκωμα θα είχε %1$d στοιχεία.</item>
+        <item quantity="one">Το λεύκωμα θα είχε %1$d στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">Προστέθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Προστέθηκε %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">%d λεύκωμα μπορεί να περιέχει το πολύ ένα στοιχεία.</item>
+        <item quantity="one">%d λεύκωμα μπορεί να περιέχει το πολύ ένα στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Επιλέξτε το πολύ %d στοιχεία.</item>
+        <item quantity="one">Επιλέξτε έως %d στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Επιλέξτε τουλάχιστον %d στοιχεία.</item>
+        <item quantity="one">Επιλέξτε τουλάχιστον %d στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Επιλέξτε στοιχεία εντός εύρους %d ημερών.</item>
+        <item quantity="one">Επιλέξτε στοιχεία εντός εύρους %d ημέρας.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">Προσθήκη %d στοιχείων στο λεύκωμα…</item>
+        <item quantity="one">Προσθήκη %d στοιχείου στο λεύκωμα…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">Προστέθηκαν %d στοιχεία</item>
+        <item quantity="one">Προστέθηκε %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dώρες</item>
+        <item quantity="one">%dώρα</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">%d ώρα πριν</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dεβδομάδες</item>
+        <item quantity="one">%dεβδομάδα</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d εβδομάδες πριν</item>
+        <item quantity="one">%d εβδομάδα πριν</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dλεπτά</item>
+        <item quantity="one">%dλεπτό</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d λεπτό πριν</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dημέρες</item>
+        <item quantity="one">%dημέρα</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Κατάργ. %1$d στοιχείων;</item>
+        <item quantity="one">Κατάργ. %1$d στοιχείου;</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Γίνεται κατάργηση %1$d αρχικών φωτογραφιών και βίντεο</item>
+        <item quantity="one">Γίνεται κατάργηση %1$d αρχικής φωτογραφίας ή βίντεο</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d νέες κάρτες</item>
+        <item quantity="one">1 νέα κάρτα</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d ενημερώσεις</item>
+        <item quantity="one">%1$d ενημέρωση</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d σχόλια</item>
+        <item quantity="one">%1$d σχόλιο</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Αποθήκευση στοιχείων στη βιβλιοθήκη…</item>
+        <item quantity="one">Αποθήκευση στοιχείου στη βιβλιοθήκη…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">Προστέθηκαν %d στοιχεία</item>
+        <item quantity="one">Προστέθηκε %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Μπορείτε να προσθέσετε μόνο %d ακόμη στοιχεία.</item>
+        <item quantity="one">Μπορείτε να προσθέσετε μόνο %d ακόμη στοιχείο.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Διαγραφή του φακέλου και των %d στοιχείων που περιέχονται σε αυτόν</item>
+        <item quantity="one">Διαγραφή του φακέλου και του %d στοιχείου που περιέχεται σε αυτόν</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Διαγραφή (%d) από τη συσκευή</item>
+        <item quantity="one">Διαγραφή (%d) από τη συσκευή</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Παρουσιάστηκε πρόβλημα κατά την αντιγραφή %d στοιχείων</item>
+        <item quantity="one">Παρουσιάστηκε πρόβλημα κατά την αντιγραφή %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">Αντιγράφηκαν %d στοιχεία</item>
+        <item quantity="one">Αντιγράφηκε %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Παρουσιάστηκε πρόβλημα κατά τη μετακίνηση %d στοιχείων</item>
+        <item quantity="one">Παρουσιάστηκε πρόβλημα κατά τη μετακίνηση %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">Μετακινήθηκαν %d στοιχεία</item>
+        <item quantity="one">Μετακινήθηκε %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Προσθήκη στο λεύκωμα που μοιράζεστε με %1$d ακόμη άτομα;</item>
+        <item quantity="one">Προσθήκη στο λεύκωμα που μοιράζεστε με %1$d ακόμη άτομο;</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Προσθ. στο λεύκ. που μοιρ. με τον χρήστη %1$s και άλλους %2$d χρήστες;</item>
+        <item quantity="one">Προσθ. στο λεύκ. που μοιράζ. με τον χρήστη %1$s και ακόμη %2$d χρήστη;</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Προσθ. στο λεύκωμα που μοιράζ. με τους %1$s, %2$s και άλλους %3$d χρήστες;</item>
+        <item quantity="one">Προσθ. στο λεύκωμα που μοιράζ. με τους %1$s, %2$s και ακόμη %3$d χρήστη;</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Να σταλεί στον χρήστη %1$s και άλλους %2$d χρήστες;</item>
+        <item quantity="one">Να σταλεί στον χρήστη %1$s και ακόμη %2$d χρήστη;</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Να σταλεί στους χρήστες %1$s, %2$s και άλλους %3$d χρήστες;</item>
+        <item quantity="one">Να σταλεί στους χρήστες %1$s, %2$s και ακόμη %3$d χρήστη;</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">Φωτογραφίες %d ατόμων</item>
+        <item quantity="one">Φωτογραφίες %d ατόμου</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Φωτογραφίες %d επιλεγμένων ατόμων</item>
+        <item quantity="one">Φωτογραφίες %dNUM_SELECTED_FACES_0 επιλεγμένου ατόμου</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="one">%d επιλεγμένο</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Επιλέχθηκαν %d πρόσωπα</item>
+        <item quantity="one">Επιλέχθηκε %d πρόσωπο</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Φωτογραφίες %1$d επιλεγμένων ατόμων, από τις %2$s</item>
+        <item quantity="one">Φωτογραφίες %1$d επιλεγμένου ατόμου, από τις %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Φωτογραφίες %d επιλεγμένων ατόμων</item>
+        <item quantity="one">Φωτογραφίες %dNUM_SELECTED_FACES_0 επιλεγμένου ατόμου</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Καταργήθηκαν %1$d φωτογραφίες</item>
+        <item quantity="one">Καταργήθηκε %1$d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d επιπλέον σελίδες</item>
+        <item quantity="one">%d επιπλέον σελίδα</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">%d σελίδες</item>
+        <item quantity="one">%d σελίδα</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">%d βιβλία με σκληρό εξώφυλλο</item>
+        <item quantity="one">%d βιβλίο με σκληρό εξώφυλλο</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">%d βιβλία με μαλακό εξώφυλλο</item>
+        <item quantity="one">%d βιβλίο με μαλακό εξώφυλλο</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Προσθέστε %d ακόμη φωτογραφίες για να παραγγείλετε αυτό το άλμπουμ φωτογραφιών</item>
+        <item quantity="one">Προσθέστε %d ακόμη φωτογραφία για να παραγγείλετε αυτό το άλμπουμ φωτογραφιών</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Προστέθηκαν %d φωτογραφίες</item>
+        <item quantity="one">Προστέθηκε %d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Ενδέχεται να έχει γίνει διαγραφή ή κατάργηση κοινοποίησης των φωτογραφιών</item>
+        <item quantity="one">Ενδέχεται να έχει γίνει διαγραφή ή κατάργηση κοινοποίησης της φωτογραφίας</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d φωτογραφίες δεν είναι πλέον διαθέσιμες</item>
+        <item quantity="one">%d φωτογραφία δεν είναι πλέον διαθέσιμη</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Καταργήθηκαν %d φωτογραφίες</item>
+        <item quantity="one">Καταργήθηκε %d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">Το άλμπουμ σας πρέπει να διαθέτει %d σελίδες προκειμένου να εμφανίζεται το κείμενο ράχης. Προσπαθήστε να προσθέσετε περισσότερες φωτογραφίες ή να αναβαθμίσετε σε ένα άλμπουμ με σκληρό εξώφυλλο.</item>
+        <item quantity="one">Το άλμπουμ σας πρέπει να διαθέτει %d σελίδα προκειμένου να εμφανίζεται το κείμενο ράχης. Προσπαθήστε να προσθέσετε περισσότερες φωτογραφίες ή να αναβαθμίσετε σε ένα άλμπουμ με σκληρό εξώφυλλο.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d επιπλέον σελίδες</item>
+        <item quantity="one">%d επιπλέον σελίδα</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d σελίδες</item>
+        <item quantity="one">%d σελίδα</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Μπορούν να εκτυπωθούν μόνο %d φωτογραφίες, </item>
+        <item quantity="one">Μπορεί να εκτυπωθεί μόνο %d φωτογραφία, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Προτάθηκαν %d φωτογραφίες σε εσάς</item>
+        <item quantity="one">Προτάθηκε %d φωτογραφία σε εσάς</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">Προτάθηκαν %d φωτογραφίες</item>
+        <item quantity="one">Προτάθηκε %d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d επιλέχθηκαν</item>
+        <item quantity="one">%d επιλέχθηκε</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">φωτογραφίες ή βίντεο</item>
+        <item quantity="one">φωτογραφία ή βίντεο</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">φωτογραφίες</item>
+        <item quantity="one">φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">βίντεο</item>
+        <item quantity="one">βίντεο</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Συν %1$d μέρη στις φωτογραφίες σας</item>
+        <item quantity="one">Και %1$d μέρος στις φωτογραφίες σας</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Συν %1$d πράγματα στις φωτογραφίες σας</item>
+        <item quantity="one">Και %1$d πράγμα στις φωτογραφίες σας</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Και %1$d μέρη και πράγματα στις φωτογραφίες σας</item>
+        <item quantity="one">Και %1$d μέρη και πράγματα στις φωτογραφίες σας</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Βρέθηκαν %1$d άτομα</item>
+        <item quantity="one">Βρέθηκε %1$d άτομο</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Βρέθηκαν %1$d μέρη</item>
+        <item quantity="one">Βρέθηκε %1$d μέρος</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Βρέθηκαν %1$d πράγματα</item>
+        <item quantity="one">Βρέθηκε %1$d πράγμα</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="one">%d επιλεγμένο</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">Δεν ήταν δυνατή η διαγραφή %d φωτογραφιών και βίντεο</item>
+        <item quantity="one">Δεν ήταν δυνατή η διαγραφή %d φωτογραφίας ή βίντεο</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">Κατάργηση %d στοιχείων…</item>
+        <item quantity="one">Κατάργηση %d στοιχείου…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d στοιχεία προστέθηκαν στο λεύκωμα</item>
+        <item quantity="one">%d στοιχείο προστέθηκε στο λεύκωμα</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Μεταφόρτωση %d στοιχείων</item>
+        <item quantity="one">Μεταφόρτωση %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d στοιχεία θα ανέβουν όταν υπάρχει σύνδεση</item>
+        <item quantity="one">%d στοιχείο θα ανέβει όταν υπάρχει σύνδεση</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s και %2$d ακόμα</item>
+        <item quantity="one">%1$s και %2$d ακόμα</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Να προστεθούν %d σχετικές φωτογραφίες;</item>
+        <item quantity="one">Να προστεθεί %d σχετική φωτογραφία;</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d νέες φωτογραφίες</item>
+        <item quantity="one">%1$d νέα φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s πρόσθεσε %2$d νέες φωτογραφίες</item>
+        <item quantity="one">%1$s πρόσθεσε %2$d νέα φωτογραφία</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%1$d άτομο</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">%1$s και %2$d ακόμα</item>
+        <item quantity="one">%1$s και %2$d ακόμα</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Δεν είναι δυνατή η διαγραφή των στοιχείων</item>
+        <item quantity="one">Δεν είναι δυνατή η διαγραφή ενός στοιχείου</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">Αδυναμία διαγραφής των αντιγράφων συσκευής</item>
+        <item quantity="one">Αδυναμία διαγραφής του αντιγράφου συσκευής</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">Τα αντίγραφα της συσκευής διαγράφηκαν</item>
+        <item quantity="one">Το αντίγραφο της συσκευής διαγράφηκε</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Δεν είναι δυνατή η διαγραφή %d στοιχείων</item>
+        <item quantity="one">Δεν είναι δυνατή η διαγραφή %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Δεν είναι δυνατή η οριστική διαγραφή %d στοιχείων</item>
+        <item quantity="one">Δεν είναι δυνατή η οριστική διαγραφή %d στοιχείου</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Οριστική διαγραφή στοιχείων…</item>
+        <item quantity="one">Οριστική διαγραφή στοιχείου…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">Διαγράφηκαν οριστικά %d στοιχεία</item>
+        <item quantity="one">Διαγράφηκε οριστικά %d στοιχείο</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d διαγράφηκαν από τη συσκευή</item>
+        <item quantity="one">%d διαγράφηκε από τη συσκευή</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Επαναφορά στοιχείων…</item>
+        <item quantity="one">Επαναφορά στοιχείου…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Δεν είναι δυνατή η επαναφορά %d στοιχείων</item>
+        <item quantity="one">Δεν είναι δυνατή η επαναφορά %dCOUNT_0 στοιχείου</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">Ανακτήθηκαν %d στοιχείων από τον κάδο απορριμμάτων</item>
+        <item quantity="one">Ανακτήθηκαν %d στοιχείου από τον κάδο απορριμμάτων</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Να διαγραφούν οριστικά τα στοιχεία;</item>
+        <item quantity="one">Να διαγραφεί οριστικά το στοιχείο;</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Η διαγραφή των στοιχείων από τον κάδο απορριμμάτων είναι οριστική</item>
+        <item quantity="one">Η διαγραφή του στοιχείου από τον κάδο απορριμμάτων είναι οριστική</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Διαγραφή στοιχείων;</item>
+        <item quantity="one">Διαγραφή στοιχείου;</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Οριστική διαγραφή %d στοιχείων</item>
+        <item quantity="one">Οριστική διαγραφή 1 στοιχείου</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Απομένουν %d ημέρες για τη λήξη αυτής της έκδοσης. Για να συνεχίσετε να χρησιμοποιείτε τις Φωτογραφίες Google, κάντε ενημέρωση τώρα.</item>
+        <item quantity="one">Απομένει 1 ημέρα για τη λήξη αυτής της έκδοσης. Για να συνεχίσετε να χρησιμοποιείτε τις Φωτογραφίες Google, κάντε ενημέρωση τώρα.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Θα χρησιμοποιήσετε περίπου %s από τα δεδομένα σας για να δημιουργήσετε αντίγραφα ασφαλείας για αυτά τα στοιχεία τώρα. Συνδεθείτε σε δίκτυο Wi-Fi για να αποφύγετε τη χρήση δεδομένων.</item>
+        <item quantity="one">Θα χρησιμοποιήσετε περίπου %s από τα δεδομένα σας για να δημιουργήσετε αντίγραφα ασφαλείας για αυτό το στοιχείο τώρα. Συνδεθείτε σε δίκτυο Wi-Fi για να αποφύγετε τη χρήση δεδομένων.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Θα χρησιμοποιηθούν κάποια από τα δεδομένα σας για τη δημιουργία αντιγράφων ασφαλείας για αυτά τα στοιχεία. Συνδεθείτε σε δίκτυο Wi-Fi για να αποφύγετε τη χρήση δεδομένων.</item>
+        <item quantity="one">Θα χρησιμοποιηθούν κάποια από τα δεδομένα σας για τη δημιουργία αντιγράφων ασφαλείας για αυτό το στοιχείο. Συνδεθείτε σε δίκτυο Wi-Fi για να αποφύγετε τη χρήση δεδομένων.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Μεταφόρτωση…Απέμειναν %d</item>
+        <item quantity="one">Μεταφόρτωση… Απέμεινε%d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d αρχεία</item>
+        <item quantity="one">%d αρχείο</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s φωτογραφίες</item>
+        <item quantity="one">%s φωτογραφία</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s στοιχεία</item>
+        <item quantity="one">%s στοιχείο</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s βίντεο</item>
+        <item quantity="one">%s βίντεο</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Επιλέξτε φωτογραφίες</item>
+        <item quantity="one">Επιλέξτε μια φωτογραφία</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Επιλέξτε στοιχεία</item>
+        <item quantity="one">Επιλέξτε ένα στοιχείο</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Επιλέξτε βίντεο</item>
+        <item quantity="one">Επιλέξτε ένα βίντεο</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">και %d άλλα άτομα</item>
+        <item quantity="one">και %d άλλο άτομο</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d τρόποι επικοινωνίας</item>
+        <item quantity="one">%1$s. %2$d τρόπος επικοινωνίας</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d μέλη</item>
+        <item quantity="one">%d μέλος</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">Επιλέχθηκαν %d</item>
+        <item quantity="one">Επιλέχθηκε %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Επιλέχτηκαν %1$d από %2$d μέλη</item>
+        <item quantity="one">Επιλέχτηκε %1$d από %2$d μέλος</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Επιλέχτηκαν %d μέλη</item>
+        <item quantity="one">Επιλέχτηκε %d μέλος</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Ο κάδος απορριμμάτων της συσκευής σας είναι πλήρης. Εάν διαγράψετε αυτά τα στοιχεία, θα καταργηθούν οριστικά από τη συσκευή και το λογαριασμό σας.</item>
+        <item quantity="one">Ο κάδος απορριμμάτων της συσκευής σας είναι πλήρης. Εάν διαγράψετε αυτό το στοιχείο, θα καταργηθεί οριστικά από τη συσκευή και το λογαριασμό σας.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">[+%d öţĥéŕš one two]</item>
+        <item quantity="one">[+1 ḿöŕé one two]</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">[ḾöVîñĝ ţĥéšé îţéḿš ţö ţĥé ţŕåšĥ ŵîļļ åļšö ŕéḿöVé ţĥéḿ ƒŕöḿ one two three four five six seven]</item>
+        <item quantity="one">[ḾöVîñĝ ţĥîš îţéḿ ţö ţĥé ţŕåšĥ ŵîļļ åļšö ŕéḿöVé îţ ƒŕöḿ one two three four five six seven]</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">[%1$d ḿîñûţéš one two]</item>
+        <item quantity="zero">[0 ḿîñûţéš one two]</item>
+        <item quantity="one">[1 ḿîñûţé one two]</item>
+        <item quantity="two">[2 ḿîñûţéš one two]</item>
+        <item quantity="few">[%1$d ḿîñûţéš one two]</item>
+        <item quantity="many">[%1$d ḿîñûţéš one two]</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">[%1$d šéçöñðš one two]</item>
+        <item quantity="zero">[0 šéçöñðš one two]</item>
+        <item quantity="one">[1 šéçöñð one two]</item>
+        <item quantity="two">[2 šéçöñðš one two]</item>
+        <item quantity="few">[%1$d šéçöñðš one two]</item>
+        <item quantity="many">[%1$d šéçöñðš one two]</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">"[Ţĥéšé îţéḿš åŕé ţöö ɓîĝ ƒöŕ ýöûŕ ðéVîçé'š ţŕåšĥ. Îƒ ýöû ðéļéţé ţĥéḿ, ţĥéý'ļļ ɓé ŕéḿöVéð þéŕḿåñéñţļý ƒŕöḿ ýöûŕ ðéVîçé &amp; åççöûñţ. one two three four five six seven eight nine ten eleven twelve thirteen]"</item>
+        <item quantity="one">"[Ţĥîš îţéḿ îš ţöö ɓîĝ ƒöŕ ýöûŕ ðéVîçé'š ţŕåšĥ. Îƒ ýöû ðéļéţé îţ, îţ ŵîļļ ɓé ŕéḿöVéð þéŕḿåñéñţļý ƒŕöḿ ýöûŕ ðéVîçé &amp; åççöûñţ. one two three four five six seven eight nine ten eleven twelve]"</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">[»%1$d« îţéḿš šçåññéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿš šçåññéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šçåññéð one two]</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">"[ Çöûļðñ'ţ šçåñ »%1$d« öƒ ţĥé Vîðéöš. one two three four]"</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">[ %1$d ḿîñûţéš one two]</item>
+        <item quantity="one">[ %1$d ḿîñûţé one two]</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">[»%1$d« šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">[ %1$d šéçöñðš one two]</item>
+        <item quantity="one">[ %1$d šéçöñð one two]</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">"[ Çöûļðñ'ţ ûšé åñý öƒ ţĥöšé Vîðéöš. Ţĥéý'ŕé éîţĥéŕ ţöö šĥöŕţ, öŕ åñ ûñšûþþöŕţéð ƒöŕḿåţ. one two three four five six seven eight nine]"</item>
+        <item quantity="one">"[ Çöûļðñ'ţ ûšé ţĥåţ Vîðéö. Îţ'š éîţĥéŕ ţöö šĥöŕţ, öŕ åñ ûñšûþþöŕţéð ƒöŕḿåţ. one two three four five six seven eight]"</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">[%d çöḿḿéñţš one two]</item>
+        <item quantity="one">[%d çöḿḿéñţ one two]</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">[Ñéŵ åļɓûḿ šîžé ŵöûļð ĥåVé ɓééñ ļåŕĝéŕ ţĥåñ çûŕŕéñţ ļîḿîţ öƒ %1$d îţéḿš. one two three four five six seven eight]</item>
+        <item quantity="one">[Ñéŵ åļɓûḿ šîžé ŵöûļð ĥåVé ɓééñ ļåŕĝéŕ ţĥåñ çûŕŕéñţ ļîḿîţ öƒ %1$d îţéḿ. one two three four five six seven eight]</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">[Åļɓûḿ ŵöûļð ĥåVé %1$d îţéḿš. one two three]</item>
+        <item quantity="one">[Åļɓûḿ ŵöûļð ĥåVé %1$d îţéḿ. one two three]</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">[ŔéḿöVé %1$d îţéḿš ƒŕöḿ åļɓûḿ¿ one two three]</item>
+        <item quantity="one">[ŔéḿöVé %1$d îţéḿ ƒŕöḿ åļɓûḿ¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">[ŔéḿöVîñĝ »%d« îţéḿš ƒŕöḿ åļɓûḿ… one two three four]</item>
+        <item quantity="one">[ŔéḿöVîñĝ »%d« îţéḿ ƒŕöḿ åļɓûḿ… one two three four]</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">[»%d« ļöçåţîöñš åððéð one two three]</item>
+        <item quantity="one">[»%d« ļöçåţîöñ åððéð one two three]</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">[»%d« ļöçåţîöñš one two]</item>
+        <item quantity="one">[»%d« ļöçåţîöñ one two]</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">[»%d« ḿåþš one]</item>
+        <item quantity="one">[»%d« ḿåþ one]</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">[»%d« ḿåþš åððéð one two]</item>
+        <item quantity="one">[»%d« ḿåþ åððéð one two]</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">[ŔéḿöVîñĝ îţéḿš ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+        <item quantity="one">[ŔéḿöVîñĝ îţéḿ ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">[»%d« îţéḿš ŕéḿöVéð one two three]</item>
+        <item quantity="one">[»%d« îţéḿ ŕéḿöVéð one two]</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">[ŔéḿöVîñĝ þĥöţöš ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+        <item quantity="one">[ŔéḿöVîñĝ þĥöţö ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">[ŔéḿöVîñĝ Vîðéöš ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+        <item quantity="one">[ŔéḿöVîñĝ Vîðéö ƒŕöḿ ţĥîš åļɓûḿ… one two three four]</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">[%1$d îţéḿš one two]</item>
+        <item quantity="one">[%1$d îţéḿ one]</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">[%d îţéḿš one two]</item>
+        <item quantity="one">[%d îţéḿ one]</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">[ Ðéļéţé ƒŕöḿ ðéVîçé (%d) one two three]</item>
+        <item quantity="one">[ Ðéļéţé ƒŕöḿ ðéVîçé (%d) one two three]</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">[ Ðéļéţé åļļ ƒŕöḿ ðéVîçé (%d) one two three four]</item>
+        <item quantity="one">[ Ðéļéţé åļļ ƒŕöḿ ðéVîçé (%d) one two three four]</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">[Ðéļéţé ðéVîçé çöþîéš¿ one two three]</item>
+        <item quantity="one">[Ðéļéţé ðéVîçé çöþý¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">"[Ţĥéšé îţéḿš åŕéñ'ţ ɓåçķéð ûþ ţö ýöûŕ Þĥöţöš ļîɓŕåŕý åñð ðéļéţîñĝ ţĥéḿ ñöŵ ŕéḿöVéš ţĥéḿ þéŕḿåñéñţļý ƒŕöḿ Þĥöţöš one two three four five six seven eight nine ten eleven]"</item>
+        <item quantity="one">"[Ţĥîš îţéḿ îšñ'ţ ɓåçķéð ûþ ţö ýöûŕ Þĥöţöš ļîɓŕåŕý åñð ðéļéţîñĝ îţ ñöŵ ŕéḿöVéš îţ þéŕḿåñéñţļý ƒŕöḿ Þĥöţöš one two three four five six seven eight nine ten eleven]"</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">[ ḾöVé ţö ţŕåšĥ (%d) one two three]</item>
+        <item quantity="one">[ ḾöVé ţö ţŕåšĥ (%d) one two three]</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">[%d åŕçĥîVéð one two]</item>
+        <item quantity="one">[%d îţéḿ åŕçĥîVéð one two three]</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">[%d ûñåŕçĥîVéð one two]</item>
+        <item quantity="one">[%d îţéḿ ûñåŕçĥîVéð one two three]</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">[%d šéļéçţéð one two]</item>
+        <item quantity="one">[%d šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">[%1$s öţĥéŕš one two]</item>
+        <item quantity="one">[%1$s öţĥéŕ one two]</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">[åððéð %1$d þĥöţöš one two]</item>
+        <item quantity="one">[åððéð %1$d þĥöţö one two]</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">[Ûþļöåðîñĝ %d îţéḿš one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ %d îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">[ŔéḿöVîñĝ %d îţéḿš… one two three]</item>
+        <item quantity="one">[ŔéḿöVîñĝ %d îţéḿ… one two three]</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">[%d þĥöţöš ļéƒţ one two]</item>
+        <item quantity="one">[%d þĥöţö ļéƒţ one two]</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">[ %d þĥöţöš ļéƒţ ţö ɓåçķ ûþ one two three]</item>
+        <item quantity="one">[ %d þĥöţö ļéƒţ ţö ɓåçķ ûþ one two three]</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">[ %d þĥöţöš çöûļð ɓé ļöšţ one two three]</item>
+        <item quantity="one">[ %d þĥöţö çöûļð ɓé ļöšţ one two three]</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">"[%1$d þĥöţöš ĥåVéñ'ţ ɓééñ ɓåçķéð ûþ one two three four]"</item>
+        <item quantity="zero">"[%1$d þĥöţöš ĥåVéñ'ţ ɓééñ ɓåçķéð ûþ one two three four]"</item>
+        <item quantity="one">"[%1$d þĥöţö ĥåšñ'ţ ɓééñ ɓåçķéð ûþ one two three four]"</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">[Ķééþ %1$d þĥöţöš šåƒé one two three]</item>
+        <item quantity="zero">[Ķééþ %1$d þĥöţöš šåƒé one two three]</item>
+        <item quantity="one">[Ķééþ %1$d þĥöţö šåƒé one two three]</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">[Ûþļöåðîñĝ %d îţéḿš one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ %d îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">[Ûþļöåðîñĝ %d Vîðéöš one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ %d Vîðéö one two three]</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">[%d îţéḿš ţö ûþļöåð one two three]</item>
+        <item quantity="one">[%d îţéḿ ţö ûþļöåð one two three]</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">[%d Vîðéöš ţö ûþļöåð one two three]</item>
+        <item quantity="one">[%d Vîðéö ţö ûþļöåð one two three]</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">[Åļļ %d þĥöţöš one two]</item>
+        <item quantity="one">[Åļļ %d þĥöţö one two]</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">[%d þĥöţöš ñöţ ɓåçķéð ûþ one two three]</item>
+        <item quantity="one">[%d þĥöţö ñöţ ɓåçķéð ûþ one two three]</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">[Ñéŵ åļɓûḿ šîžé ŵöûļð ĥåVé ɓééñ ļåŕĝéŕ ţĥåñ çûŕŕéñţ ļîḿîţ öƒ %1$d îţéḿš. one two three four five six seven eight]</item>
+        <item quantity="one">[Ñéŵ åļɓûḿ šîžé ŵöûļð ĥåVé ɓééñ ļåŕĝéŕ ţĥåñ çûŕŕéñţ ļîḿîţ öƒ %1$d îţéḿ. one two three four five six seven eight]</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">[Åļɓûḿ ŵöûļð ĥåVé %1$d îţéḿš. one two three]</item>
+        <item quantity="one">[Åļɓûḿ ŵöûļð ĥåVé %1$d îţéḿ. one two three]</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">[%1$d îţéḿš åððéð one two]</item>
+        <item quantity="one">[%1$d îţéḿ åððéð one two]</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">[»%d« îţéḿš îš ţĥé ḿöšţ åñ åļɓûḿ çåñ ĥöļð. one two three four five]</item>
+        <item quantity="one">[»%d« îţéḿ îš ţĥé ḿöšţ åñ åļɓûḿ çåñ ĥöļð. one two three four five]</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">[Šéļéçţ åţ ḿöšţ »%d« îţéḿš. one two three]</item>
+        <item quantity="one">[Šéļéçţ åţ ḿöšţ »%d« îţéḿ. one two three]</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">[Šéļéçţ åţ ļéåšţ »%d« îţéḿš. one two three]</item>
+        <item quantity="one">[Šéļéçţ åţ ļéåšţ »%d« îţéḿ. one two three]</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">[Þļéåšé šéļéçţ îţéḿš ŵîţĥîñ å »%d« ðåý ŕåñĝé. one two three four five]</item>
+        <item quantity="one">[Þļéåšé šéļéçţ îţéḿš ŵîţĥîñ å »%d« ðåý ŕåñĝé. one two three four five]</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">[Åððîñĝ »%d« îţéḿš ţö åļɓûḿ… one two three]</item>
+        <item quantity="one">[Åððîñĝ »%d« îţéḿ ţö åļɓûḿ… one two three]</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">[»%d« îţéḿš åððéð one two]</item>
+        <item quantity="one">[»%d« îţéḿ åððéð one two]</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">[%d ðåýš åĝö one two]</item>
+        <item quantity="one">[%d ðåý åĝö one two]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">[%dĥ one]</item>
+        <item quantity="one">[%dĥ one]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">[%d ĥöûŕš åĝö one two]</item>
+        <item quantity="one">[%d ĥöûŕ åĝö one two]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">[%dŵ one]</item>
+        <item quantity="one">[%dŵ one]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">[%d ŵééķš åĝö one two]</item>
+        <item quantity="one">[%d ŵééķ åĝö one two]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">[%dḿ one]</item>
+        <item quantity="one">[%dḿ one]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">[%d ḿîñûţéš åĝö one two]</item>
+        <item quantity="one">[%d ḿîñûţé åĝö one two]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">[%dð one]</item>
+        <item quantity="one">[%dð one]</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">[%d ðåýš åĝö one two]</item>
+        <item quantity="one">[%d ðåý åĝö one two]</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">[ŔéḿöVé %1$d îţéḿš¿ one two three]</item>
+        <item quantity="one">[ŔéḿöVé %1$d îţéḿ¿ one two]</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">[ŔéḿöVîñĝ %1$d öŕîĝîñåļ þĥöţöš &amp; Vîðéöš one two three four]</item>
+        <item quantity="one">[ŔéḿöVîñĝ »%1$d« öŕîĝîñåļ þĥöţö öŕ Vîðéö one two three four]</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">[»%d« ñéŵ çåŕðš one two]</item>
+        <item quantity="one">[1 ñéŵ çåŕð one two]</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">[%1$d ûþðåţéš one two]</item>
+        <item quantity="one">[%1$d ûþðåţé one two]</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">[%1$d çöḿḿéñţš one two]</item>
+        <item quantity="one">[%1$d çöḿḿéñţ one two]</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">[ŠåVîñĝ îţéḿš ţö ļîɓŕåŕý… one two three]</item>
+        <item quantity="one">[ŠåVîñĝ îţéḿ ţö ļîɓŕåŕý… one two three]</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">[»%d« îţéḿš åððéð one two]</item>
+        <item quantity="one">[»%d« îţéḿ åððéð one two]</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">[Ýöû çåñ öñļý åðð %d ḿöŕé îţéḿš. one two three four]</item>
+        <item quantity="one">[Ýöû çåñ öñļý åðð %d ḿöŕé îţéḿ. one two three four]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">[Ðéļéţé ƒöļðéŕ åñð »%d« îţéḿš îñ îţ one two three four]</item>
+        <item quantity="one">[Ðéļéţé ƒöļðéŕ åñð »%d« îţéḿ îñ îţ one two three four]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">[Ðéļéţé ƒŕöḿ ðéVîçé (»%d«) one two three]</item>
+        <item quantity="one">[Ðéļéţé ƒŕöḿ ðéVîçé (»%d«) one two three]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">[Ţŕöûɓļé çöþýîñĝ »%d« îţéḿš one two three]</item>
+        <item quantity="one">[Ţŕöûɓļé çöþýîñĝ »%d« îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">[»%d« îţéḿš çöþîéð one two]</item>
+        <item quantity="one">[»%d« îţéḿ çöþîéð one two]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">[Ţŕöûɓļé ḿöVîñĝ »%d« îţéḿš one two three]</item>
+        <item quantity="one">[Ţŕöûɓļé ḿöVîñĝ »%d« îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">[»%d« îţéḿš ḿöVéð one two]</item>
+        <item quantity="one">[»%d« îţéḿ ḿöVéð one two]</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$d þéöþļé¿ one two three four]</item>
+        <item quantity="one">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$d þéŕšöñ¿ one two three four]</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$s &amp; %2$d öţĥéŕš¿ one two three four]</item>
+        <item quantity="one">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$s &amp; %2$d öţĥéŕ¿ one two three four]</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$s, %2$s &amp; %3$d öţĥéŕš¿ one two three four five]</item>
+        <item quantity="one">[Åðð ţö šĥåŕéð åļɓûḿ ŵîţĥ %1$s, %2$s &amp; %3$d öţĥéŕ¿ one two three four five]</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">[Šéñð ţö %1$s &amp; %2$d öţĥéŕš¿ one two three]</item>
+        <item quantity="one">[Šéñð ţö %1$s &amp; %2$d öţĥéŕ¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">[Šéñð ţö %1$s, %2$s &amp; %3$d öţĥéŕš¿ one two three]</item>
+        <item quantity="one">[Šéñð ţö %1$s, %2$s &amp; %3$d öţĥéŕ¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">[Þĥöţöš öƒ %d þéöþļé one two three]</item>
+        <item quantity="one">[Þĥöţöš öƒ %d þéŕšöñ one two three]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">[Þĥöţöš öƒ %d šéļéçţéð þéöþļé one two three four]</item>
+        <item quantity="one">[Þĥöţöš öƒ %d šéļéçţéð þéŕšöñ one two three four]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">[%d šéļéçţéð one two]</item>
+        <item quantity="one">[%d šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">[%d þéöþļé šéļéçţéð one two three]</item>
+        <item quantity="one">[%d þéŕšöñ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">[Þĥöţöš öƒ %1$d šéļéçţéð þéöþļé, šîñçé %2$s one two three four]</item>
+        <item quantity="one">[Þĥöţöš öƒ %1$d šéļéçţéð þéŕšöñ, šîñçé %2$s one two three four]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">[Þĥöţöš öƒ %d šéļéçţéð þéöþļé one two three four]</item>
+        <item quantity="one">[Þĥöţöš öƒ %d šéļéçţéð þéŕšöñ one two three four]</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">[%1$d þĥöţöš ŕéḿöVéð one two three]</item>
+        <item quantity="one">[%1$d þĥöţö ŕéḿöVéð one two three]</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">[»%d« éхţŕå þåĝéš one two]</item>
+        <item quantity="one">[»%d« éхţŕå þåĝé one two]</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">[%d þåĝéš one two]</item>
+        <item quantity="one">[%d þåĝé one]</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">[»%d« ĤåŕðçöVéŕ ɓööķš one two three]</item>
+        <item quantity="one">[»%d« ĤåŕðçöVéŕ ɓööķ one two three]</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">[»%d« ŠöƒţçöVéŕ ɓööķš one two three]</item>
+        <item quantity="one">[»%d« ŠöƒţçöVéŕ ɓööķ one two three]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">[Åðð %d ḿöŕé þĥöţöš ţö öŕðéŕ ţĥîš þĥöţö ɓööķ one two three four five]</item>
+        <item quantity="one">[Åðð %d ḿöŕé þĥöţö ţö öŕðéŕ ţĥîš þĥöţö ɓööķ one two three four five]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">[%d þĥöţöš åððéð one two]</item>
+        <item quantity="one">[%d þĥöţö åððéð one two]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">[Ţĥé þĥöţöš ḿåý ĥåVé ɓééñ ðéļéţéð öŕ ûñšĥåŕéð one two three four five]</item>
+        <item quantity="one">[Ţĥé þĥöţö ḿåý ĥåVé ɓééñ ðéļéţéð öŕ ûñšĥåŕéð one two three four five]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">[%d þĥöţöš åŕé ñö ļöñĝéŕ åVåîļåɓļé one two three four]</item>
+        <item quantity="one">[%d þĥöţö îš ñö ļöñĝéŕ åVåîļåɓļé one two three four]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">[%d þĥöţöš ŕéḿöVéð one two three]</item>
+        <item quantity="one">[%d þĥöţö ŕéḿöVéð one two three]</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">[Ýöûŕ ɓööķ ñééðš ţö ĥåVé %d þåĝéš ţö šĥöŵ šþîñé ţéхţ. Ţŕý åððîñĝ ḿöŕé þĥöţöš öŕ ûþĝŕåðé ţö å ĥåŕðçöVéŕ ɓööķ. one two three four five six seven eight nine ten eleven]</item>
+        <item quantity="one">[Ýöûŕ ɓööķ ñééðš ţö ĥåVé %d þåĝé ţö šĥöŵ šþîñé ţéхţ. Ţŕý åððîñĝ ḿöŕé þĥöţöš öŕ ûþĝŕåðé ţö å ĥåŕðçöVéŕ ɓööķ. one two three four five six seven eight nine ten eleven]</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">[%d éхţŕå þåĝéš one two]</item>
+        <item quantity="one">[%d éхţŕå þåĝé one two]</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">[%d þåĝéš one two]</item>
+        <item quantity="one">[%d þåĝé one]</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">[Öñļý %d þĥöţöš çåñ ɓé þŕîñţéð,  one two three four]</item>
+        <item quantity="one">[Öñļý %d þĥöţö çåñ ɓé þŕîñţéð,  one two three four]</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">[%d þĥöţöš ĥåVé ɓééñ šûĝĝéšţéð ƒöŕ ýöû one two three four]</item>
+        <item quantity="one">[%d þĥöţö ĥåš ɓééñ šûĝĝéšţéð ƒöŕ ýöû one two three four]</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">[%d þĥöţöš šûĝĝéšţéð one two three]</item>
+        <item quantity="one">[%d þĥöţö šûĝĝéšţéð one two three]</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">[%d šéļéçţéð one two]</item>
+        <item quantity="one">[%d šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">[þĥöţöš öŕ Vîðéöš one two three]</item>
+        <item quantity="one">[þĥöţö öŕ Vîðéö one two three]</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">[þĥöţöš one two]</item>
+        <item quantity="one">[þĥöţö one]</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">[Vîðéöš one two]</item>
+        <item quantity="one">[Vîðéö one]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">[Þļûš %1$d þļåçéš îñ ýöûŕ þĥöţöš one two three four]</item>
+        <item quantity="one">[Þļûš %1$d þļåçé îñ ýöûŕ þĥöţöš one two three four]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">[Þļûš %1$d ţĥîñĝš îñ ýöûŕ þĥöţöš one two three four]</item>
+        <item quantity="one">[Þļûš %1$d ţĥîñĝ îñ ýöûŕ þĥöţöš one two three four]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">[Þļûš %1$d þļåçéš &amp; ţĥîñĝš îñ ýöûŕ þĥöţöš one two three four]</item>
+        <item quantity="one">[Þļûš %1$d þļåçéš &amp; ţĥîñĝš îñ ýöûŕ þĥöţöš one two three four]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">[%1$d þéöþļé ƒöûñð one two]</item>
+        <item quantity="one">[%1$d þéŕšöñ ƒöûñð one two]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">[%1$d þļåçéš ƒöûñð one two]</item>
+        <item quantity="one">[%1$d þļåçé ƒöûñð one two]</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">[%1$d ţĥîñĝš ƒöûñð one two]</item>
+        <item quantity="one">[%1$d ţĥîñĝ ƒöûñð one two]</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">[%d þĥöţöš one two]</item>
+        <item quantity="one">[%d þĥöţö one two]</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="zero">[»%1$d« îţéḿš šéļéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« îţéḿ šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">[%d šéļéçţéð one two]</item>
+        <item quantity="one">[%d šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">"[Çöûļðñ'ţ ðéļéţé %d þĥöţöš &amp; Vîðéöš one two three four]"</item>
+        <item quantity="one">"[Çöûļðñ'ţ ðéļéţé %d þĥöţö öŕ Vîðéö one two three four]"</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">[ŔéḿöVîñĝ %d îţéḿš… one two three]</item>
+        <item quantity="one">[ŔéḿöVîñĝ %d îţéḿ… one two three]</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">[»%d« îţéḿš åððéð ţö ţĥé åļɓûḿ one two three]</item>
+        <item quantity="one">[»%d« îţéḿ åððéð ţö ţĥé åļɓûḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">[Ûþļöåðîñĝ »%d« îţéḿš one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ »%d« îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">[»%d« îţéḿš ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð one two three four]</item>
+        <item quantity="one">[»%d« îţéḿ ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð one two three four]</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">[%1$s &amp; %2$d öţĥéŕš one two]</item>
+        <item quantity="one">[%1$s &amp; %2$d öţĥéŕ one two]</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">[%d îţéḿš one two]</item>
+        <item quantity="one">[%d îţéḿ one]</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">[Åðð %d ŕéļåţéð þĥöţöš¿ one two three]</item>
+        <item quantity="one">[Åðð %d ŕéļåţéð þĥöţö¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">[%1$d ñéŵ þĥöţöš one two]</item>
+        <item quantity="one">[%1$d ñéŵ þĥöţö one two]</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">[%1$s åððéð %2$d ñéŵ þĥöţöš one two three]</item>
+        <item quantity="one">[%1$s åððéð %2$d ñéŵ þĥöţö one two three]</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">[%1$d þéöþļé one two]</item>
+        <item quantity="one">[%1$d þéŕšöñ one two]</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">[%1$s, &amp; %2$d öţĥéŕš one two]</item>
+        <item quantity="one">[%1$s, &amp; %2$d öţĥéŕ one two]</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">"[Çåñ'ţ ðéļéţé îţéḿš one two three]"</item>
+        <item quantity="one">"[Çåñ'ţ ðéļéţé îţéḿ one two three]"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">"[Çåñ'ţ ðéļéţé ðéVîçé çöþîéš one two three]"</item>
+        <item quantity="one">"[Çåñ'ţ ðéļéţé ðéVîçé çöþý one two three]"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">[Ðéļéţéð ðéVîçé çöþîéš one two three]</item>
+        <item quantity="one">[Ðéļéţéð ðéVîçé çöþý one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">"[Çåñ'ţ ðéļéţé %d îţéḿš one two three]"</item>
+        <item quantity="one">"[Çåñ'ţ ðéļéţé %d îţéḿ one two three]"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">"[Çåñ'ţ þéŕḿåñéñţļý ðéļéţé %d îţéḿš one two three four]"</item>
+        <item quantity="one">"[Çåñ'ţ þéŕḿåñéñţļý ðéļéţé %d îţéḿ one two three four]"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">[Þéŕḿåñéñţļý ðéļéţîñĝ îţéḿš… one two three four]</item>
+        <item quantity="one">[Þéŕḿåñéñţļý ðéļéţîñĝ îţéḿ… one two three four]</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">[%d îţéḿš þéŕḿåñéñţļý ðéļéţéð one two three four]</item>
+        <item quantity="one">[%d îţéḿ þéŕḿåñéñţļý ðéļéţéð one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">[»%d« ðéļéţéð ƒŕöḿ ðéVîçé one two three]</item>
+        <item quantity="one">[»%d« ðéļéţéð ƒŕöḿ ðéVîçé one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">[Ŕéšţöŕîñĝ îţéḿš… one two three]</item>
+        <item quantity="one">[Ŕéšţöŕîñĝ îţéḿ… one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">"[Çåñ'ţ ŕéšţöŕé %d îţéḿš one two three]"</item>
+        <item quantity="one">"[Çåñ'ţ ŕéšţöŕé %d îţéḿ one two three]"</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">[%d îţéḿš ŕéšţöŕéð ƒŕöḿ ţŕåšĥ one two three four]</item>
+        <item quantity="one">[%d îţéḿ ŕéšţöŕéð ƒŕöḿ ţŕåšĥ one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">[Ðéļéţé îţéḿš þéŕḿåñéñţļý¿ one two three]</item>
+        <item quantity="one">[Ðéļéţé îţéḿ þéŕḿåñéñţļý¿ one two three]</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">[Ðéļéţîñĝ îţéḿš ƒŕöḿ ţĥé ţŕåšĥ îš þéŕḿåñéñţ one two three four five]</item>
+        <item quantity="one">[Ðéļéţîñĝ îţéḿ ƒŕöḿ ţĥé ţŕåšĥ îš þéŕḿåñéñţ one two three four five]</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">[Ðéļéţé îţéḿš¿ one two]</item>
+        <item quantity="one">[Ðéļéţé îţéḿ¿ one two]</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">[Þéŕḿåñéñţļý ðéļéţé »%d« îţéḿš one two three]</item>
+        <item quantity="one">[Þéŕḿåñéñţļý ðéļéţé 1 îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">[»%d« ðåýš ļéƒţ ûñţîļ ţĥîš Véŕšîöñ éхþîŕéš. Ţö çöñţîñûé ûšîñĝ Ĝööĝļé Þĥöţöš, ûþðåţé ñöŵ. one two three four five six seven eight nine ten]</item>
+        <item quantity="one">[1 ðåý ļéƒţ ûñţîļ ţĥîš Véŕšîöñ éхþîŕéš. Ţö çöñţîñûé ûšîñĝ Ĝööĝļé Þĥöţöš, ûþðåţé ñöŵ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">[Ûþļöåðîñĝ %d îţéḿš one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ %d îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">[%d îţéḿš ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð one two three four]</item>
+        <item quantity="one">[%d îţéḿ ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð one two three four]</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">[%d îţéḿš ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð ţö Ŵî-Fî one two three four five]</item>
+        <item quantity="one">[%d îţéḿ ŵîļļ ûþļöåð ŵĥéñ çöññéçţéð ţö Ŵî-Fî one two three four five]</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">"[Ýöû'ļļ ûšé åɓöûţ %s öƒ ðåţå ţö ɓåçķûþ ţĥéšé îţéḿš ñöŵ. Çöññéçţ ţö Ŵî-Fî ţö åVöîð ûšîñĝ ðåţå. one two three four five six seven eight nine ten]"</item>
+        <item quantity="one">"[Ýöû'ļļ ûšé åɓöûţ %s öƒ ðåţå ţö ɓåçķûþ ţĥîš îţéḿ ñöŵ. Çöññéçţ ţö Ŵî-Fî ţö åVöîð ûšîñĝ ðåţå. one two three four five six seven eight nine]"</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">[βåçķîñĝ ûþ ţĥéšé îţéḿš ŵîļļ ûšé šöḿé öƒ ýöûŕ ðåţå. Çöññéçţ ţö Ŵî-Fî ţö åVöîð ûšîñĝ ðåţå. one two three four five six seven eight nine ten]</item>
+        <item quantity="one">[βåçķîñĝ ûþ ţĥîš îţéḿ ŵîļļ ûšé šöḿé öƒ ýöûŕ ðåţå. Çöññéçţ ţö Ŵî-Fî ţö åVöîð ûšîñĝ ðåţå. one two three four five six seven eight nine]</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">[Ûþļöåðîñĝ…%d ļéƒţ one two three]</item>
+        <item quantity="one">[Ûþļöåðîñĝ…%d ļéƒţ one two three]</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">[%d ƒîļéš one two]</item>
+        <item quantity="one">[%d ƒîļé one]</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">[»%s« þĥöţöš one two]</item>
+        <item quantity="one">[»%s« þĥöţö one two]</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">[»%s« îţéḿš one two]</item>
+        <item quantity="one">[»%s« îţéḿ one]</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">[»%s« Vîðéöš one two]</item>
+        <item quantity="one">[»%s« Vîðéö one two]</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">[Šéļéçţ þĥöţöš one two]</item>
+        <item quantity="one">[Šéļéçţ å þĥöţö one two three]</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">[Šéļéçţ îţéḿš one two]</item>
+        <item quantity="one">[Šéļéçţ åñ îţéḿ one two three]</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">[Šéļéçţ Vîðéöš one two]</item>
+        <item quantity="one">[Šéļéçţ å Vîðéö one two three]</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">[åñð %d öţĥéŕš one two]</item>
+        <item quantity="one">[åñð %d öţĥéŕ one two]</item>
+        <item quantity="two">[åñð %d öţĥéŕš one two]</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_recipient_limit_error">
+        <item quantity="other">[Ýöû çåñ öñļý šéļéçţ %d þéöþļé¡ one two three four]</item>
+        <item quantity="one">[Ýöû çåñ öñļý šéļéçţ %d þéŕšöñ¡ one two three four]</item>
+        <item quantity="two">[Ýöû çåñ öñļý šéļéçţ %d þéöþļé¡ one two three four]</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">[%1$s. %2$d çöñţåçţ ḿéţĥöðš one two three]</item>
+        <item quantity="one">[%1$s. %2$d çöñţåçţ ḿéţĥöð one two three]</item>
+        <item quantity="two">[%1$s. %2$d çöñţåçţ ḿéţĥöðš one two three]</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">[%d ḿéḿɓéŕš one two]</item>
+        <item quantity="one">[%d ḿéḿɓéŕ one two]</item>
+        <item quantity="two">[%d ḿéḿɓéŕš one two]</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">[%d šéļéçţéð one two]</item>
+        <item quantity="one">[%d šéļéçţéð one two]</item>
+        <item quantity="two">[%d šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">[%1$d öƒ %2$d ḿéḿɓéŕš šéļéçţéð one two three]</item>
+        <item quantity="one">[%1$d öƒ %2$d ḿéḿɓéŕ šéļéçţéð one two three]</item>
+        <item quantity="two">[%1$d öƒ %2$d ḿéḿɓéŕš šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">[%d ḿéḿɓéŕš šéļéçţéð one two three]</item>
+        <item quantity="one">[%d ḿéḿɓéŕ šéļéçţéð one two three]</item>
+        <item quantity="two">[%d ḿéḿɓéŕš šéļéçţéð one two three]</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">"[Ýöûŕ ðéVîçé'š ţŕåšĥ îš ƒûļļ. Îƒ ýöû ðéļéţé ţĥéšé îţéḿš, ţĥéý'ļļ ɓé ŕéḿöVéð þéŕḿåñéñţļý ƒŕöḿ ýöûŕ ðéVîçé &amp; åççöûñţ. one two three four five six seven eight nine ten eleven twelve]"</item>
+        <item quantity="one">"[Ýöûŕ ðéVîçé'š ţŕåšĥ îš ƒûļļ. Îƒ ýöû ðéļéţé ţĥîš îţéḿ, îţ ŵîļļ ɓé ŕéḿöVéð þéŕḿåñéñţļý ƒŕöḿ ýöûŕ ðéVîçé &amp; åççöûñţ. one two three four five six seven eight nine ten eleven twelve]"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d مخاطب به برچسب %2$s اضافه شد</item>
+        <item quantity="one">%1$d مخاطب به برچسب %2$s اضافه شد</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">افزودن %1$d مخاطب به برچسب %2$s</item>
+        <item quantity="one">افزودن %1$d مخاطب به برچسب %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">مرور اطلاعات پیشنهادی برای %d مخاطب</item>
+        <item quantity="one">مرور اطلاعات پیشنهادی برای %d مخاطب</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d مخاطب ناخواسته</item>
+        <item quantity="one">%d مخاطب ناخواسته</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d مخاطب تکراری</item>
+        <item quantity="one">%d مخاطب تکراری</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d تماس اخیر • آخرین مورد در %2$s</item>
+        <item quantity="one">%1$d تماس اخیر • آخرین مورد در %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">مخاطب قبلاً به برچسب اضافه شده است %1$s</item>
+        <item quantity="one">مخاطب قبلاً به برچسب اضافه شده است %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d مخاطب</item>
+        <item quantity="one">%d مخاطب</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d مخاطب · %2$s</item>
+        <item quantity="one">%1$d مخاطب · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d مخاطب حذف شد</item>
+        <item quantity="one">%1$d مخاطب حذف شد</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">‏این مخاطبین از Google Contacts و همه دستگاه‌های همگام‌سازی‌شده‌تان برداشته می‌شوند</item>
+        <item quantity="one">‏این مخاطبین از Google Contacts و همه دستگاه‌های همگام‌سازی‌شده‌تان برداشته می‌شوند</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d مخاطب در حساب‌های دیگر شما</item>
+        <item quantity="one">%1$d مخاطب در حساب‌های دیگر شما</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d مخاطب</item>
+        <item quantity="one">%1$d مخاطب</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 مخاطب • ^2</item>
+        <item quantity="one">^1 مخاطب • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">این %1$d مخاطب به %2$s منتقل شوند؟</item>
+        <item quantity="one">این %1$d مخاطب به %2$s منتقل شوند؟</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d مخاطب منتقل شد</item>
+        <item quantity="one">%d مخاطب منتقل شد</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">انتقال %d مخاطب تمام شد</item>
+        <item quantity="one">انتقال %d مخاطب تمام شد</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">درحال انتقال %d مخاطب</item>
+        <item quantity="one">درحال انتقال %d مخاطب</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d مخاطب در %2$s پشتیبان‌گیری شدند</item>
+        <item quantity="one">%1$d مخاطب در %2$s پشتیبان‌گیری شدند</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">وارد کردن از سیم کارت‌ها</item>
+        <item quantity="one">وارد کردن از سیم کارت‌ها</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d مخاطب</item>
+        <item quantity="one">%d مخاطب</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d مخاطب سیم کارت وارد شد</item>
+        <item quantity="one">%d مخاطب سیم کارت وارد شد</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">اشتراک‌گذاری مخاطبین از طریق</item>
+        <item quantity="one">اشتراک‌گذاری مخاطبین از طریق</item>
+    </plurals>
+</resources>

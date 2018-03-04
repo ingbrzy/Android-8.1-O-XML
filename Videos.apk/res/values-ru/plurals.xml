@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d пользователя оценили фильм на %1$s</item>
+        <item quantity="one">Оценка %1$s (%2$d пользователь)</item>
+        <item quantity="few">Оценка %1$s (%2$d пользователя)</item>
+        <item quantity="many">Оценка %1$s (%2$d пользователей)</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Истекает через %1$d дня</item>
+        <item quantity="one">Истекает через %1$d день</item>
+        <item quantity="few">Истекает через %1$d дня</item>
+        <item quantity="many">Истекает через %1$d дней</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Истекает через %1$d часа</item>
+        <item quantity="one">Истекает через %1$d час</item>
+        <item quantity="few">Истекает через %1$d часа</item>
+        <item quantity="many">Истекает через %1$d часов</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Ещё %1$d</item>
+        <item quantity="one">Ещё %1$d</item>
+        <item quantity="few">Ещё %1$d</item>
+        <item quantity="many">Ещё %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">ਐਪ-ਵਿੱਚ ਖਰੀਦਾਂ</string>
+    <string name="app_has_permissions">ਇਜਾਜ਼ਤਾਂ: %s</string>
+    <string name="app_has_runtime_permissions">ਐਪ ਇਜਾਜ਼ਤਾਂ ਲਈ ਕਹੇਗੀ</string>
+    <string name="app_picker_app_already_installed_toast">ਇਹ ਐਪ ਪਹਿਲਾਂ ਹੀ ਸਥਾਪਤ ਕੀਤੀ ਹੋਈ ਹੈ</string>
+    <string name="app_picker_loading">ਉਪਲਬਧ ਐਪਾਂ ਲੱਭੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</string>
+    <string name="app_picker_loading_toast">ਉਪਲਬਧ ਐਪਾਂ ਜਲਦ ਹੀ ਲੋਡ ਹੋ ਜਾਣਗੀਆਂ</string>
+    <string name="app_picker_no_apps">ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਚੁਣੀਆਂ</string>
+    <string name="app_picker_no_apps_found">ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਲੱਭੀਆਂ</string>
+    <string name="apps_in_app_purchases_disclaimer_all">"ਐਪ-ਵਿੱਚ ਖਰੀਦਾਂ ਨੂੰ ਤੁਹਾਡੀ ^1 'ਤੇ ਤਬਦੀਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"</string>
+    <string name="apps_in_app_purchases_disclaimer_some">"ਹੋ ਸਕਦਾ ਹੈ ਕੁਝ ਐਪ-ਵਿੱਚ ਖਰੀਦਾਂ ਨੂੰ ਤੁਹਾਡੀ ^1 'ਤੇ ਤਬਦੀਲ ਨਾ ਕੀਤਾ ਜਾ ਸਕੇ।"</string>
+    <string name="apps_permissions_described_v2">"ਸਿਰਫ਼ ਪ੍ਰਸਿੱਧ, ਮੁਫ਼ਤ iOS® ਐਪਾਂ ਦਾ Android ਐਪਾਂ ਨਾਲ ਮੇਲ ਕਰਾਇਆ ਜਾ ਸਕਦਾ ਹੈ। ਜ਼ਿਆਦਾਤਰ ਐਪ-ਵਿੱਚ ਖਰੀਦਾਂ ਦਾ ਤਬਾਦਲਾ ਨਹੀਂ ਹੋਵੇਗਾ। ਇੱਕ ਵਾਰ ਸਥਾਪਨਾ ਮੁਕੰਮਲ ਹੋਣ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ Play ਸਟੋਰ ਵਿੱਚ ਹੋਰ ਐਪਾਂ ਲੱਭ ਸਕਦੇ ਹੋ।
+
+ਤੁਹਾਨੂੰ ਆਪਣੀ ਡੀਵਾਈਸ 'ਤੇ ਵਿਸ਼ੇਸ਼ ਸਮਰੱਥਾਵਾਂ ਜਾਂ ਜਾਣਕਾਰੀ 'ਤੇ ਪਹੁੰਚ ਲਈ ਕੁਝ ਐਪਾਂ ਨੂੰ ਸਪੱਸ਼ਟ ਇਜਾਜ਼ਤ ਦੇਣ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ। ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਇਜਾਜ਼ਤ ਗਰੁੱਪਾਂ ਵਿੱਚ ਸੰਗਠਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਇਹਨਾਂ ਐਪਾਂ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਦੀ ਚੋਣ ਕਰਨ ਦੁਆਰਾ, ਤੁਸੀਂ ਉਹਨਾਂ ਇਜਾਜ਼ਤਾਂ ਲਈ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ ਜੋ ਕਿ ਹਰੇਕ ਗਰੁੱਪ ਦਾ ਹਿੱਸਾ ਹਨ। ਹਰੇਕ ਇਜਾਜ਼ਤਾਂ ਗਰੁੱਪ ਦਾ ਇੱਕ ਵਰਣਨ ਹੇਠਾਂ ਮੁਹੱਈਆ ਕੀਤਾ ਗਿਆ ਹੈ।
+
+ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਐਪਾਂ ਨੂੰ ਸਪੱਸ਼ਟ ਇਜਾਜ਼ਤਾਂ ਸਵੀਕਾਰ ਕਰਨ ਦੀ ਲੋੜ ਨਾ ਹੋਵੇ। ਜਦੋਂ ਤੁਸੀਂ ਇਹਨਾਂ ਅੈਪਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇੱਕ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਐਪ ਵੱਲੋਂ ਉਸ ਕਿਸਮ ਦੇ ਡੈਟੇ ਦੀ ਵਰਤੋਂ ਕੀਤੇ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਵਿਅਕਤੀਗਤ ਇਜਾਜ਼ਤ ਦੀ ਆਗਿਆ ਦੇ ਸਕਦੇ ਹੋ ਜਾਂ ਉਸਨੂੰ ਅਸਵੀਕਾਰ ਕਰ ਸਕਦੇ ਹੋ।
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">ਹਰੇਕ ਐਪ ਸਥਾਪਤ ਕਰਕੇ, ਤੁਸੀਂ ਇਸ ਦੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। <annotation id="apps_permissions_learn_more">ਹੋਰ ਜਾਣੋ</annotation></string>
+    <string name="auto_restore_summary">ਕਿਸੇ ਐਪ ਨੂੰ ਮੁੜ ਸਥਾਪਤ ਕਰਨ ਦੌਰਾਨ, ਉਹਨਾਂ ਸੈਟਿੰਗਾਂ ਅਤੇ ਡੈਟੇ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ ਜਿੰਨ੍ਹਾਂ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਹੋਇਆ ਹੈ</string>
+    <string name="auto_restore_title">ਸਵੈਚਾਲਿਤ ਮੁੜ-ਬਹਾਲੀ</string>
+    <string name="backup_configure_account_default_summary">"ਵਰਤਮਾਨ ਤੌਰ 'ਤੇ ਕੋਈ ਖਾਤਾ ਉਸ ਡੈਟੇ ਨੂੰ ਸਟੋਰ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ, ਜਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਗਿਆ ਹੈ"</string>
+    <string name="backup_configure_account_title">ਬੈਕਅੱਪ ਖਾਤਾ</string>
+    <string name="backup_data_summary">"Google ਡਰਾਈਵ 'ਤੇ ਐਪ ਡੈਟੇ, Wi‑Fi ਪਾਸਵਰਡਾਂ, ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ"</string>
+    <string name="backup_data_summary_full">"ਡੀਵਾਈਸ ਡੈਟੇ (ਜਿਵੇਂ ਕਿ Wi-Fi ਪਾਸਵਰਡਾਂ ਅਤੇ ਕਾਲ ਇਤਿਹਾਸ) ਅਤੇ ਐਪ ਡੈਟੇ (ਜਿਵੇਂ ਕਿ ਐਪਾਂ ਵੱਲੋਂ ਸਟੋਰ ਕੀਤੀਆਂ ਸੈਟਿੰਗਾਂ ਅਤੇ ਫ਼ਾਈਲਾਂ) ਦਾ ਰੀਮੋਟਲੀ  ਆਪਣੇ-ਆਪ ਬੈਕਅੱਪ ਲੈਣਾ।
+
+ਜਦੋਂ ਤੁਸੀਂ ਸਵੈਚਾਲਿਤ ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ, ਤਾਂ ਐਪ ਡੈਟਾ ਸਮੇਂ-ਸਮੇਂ 'ਤੇ ਰੀਮੋਟਲੀ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਐਪ ਡੈਟਾ, ਐਪ ਵੱਲੋਂ ਰੱਖਿਅਤ ਕੀਤਾ ਕੋਈ ਵੀ ਡੈਟਾ ਹੋ ਸਕਦਾ ਹੈ (ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਦੇ ਆਧਾਰ 'ਤੇ), ਜਿਸ ਵਿੱਚ ਸੰਭਾਵੀ ਤੌਰ 'ਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡੈਟਾ ਜਿਵੇਂ ਕਿ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਅਤੇ ਫ਼ੋਟੋਆਂ ਸ਼ਾਮਲ ਹਨ।"</string>
+    <string name="backup_data_title">"Google ਡਰਾਈਵ 'ਤੇ ਬੈਕਅੱਪ ਲਓ"</string>
+    <string name="backup_erase_dialog_message">"ਕੀ ਆਪਣੇ Wi‑Fi ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ, ਹੋਰ ਸੈਟਿੰਗਾਂ, ਅਤੇ ਐਪ ਡੈਟੇ ਦਾ ਬੈਕਅੱਪ ਲੈਣਾ ਬੰਦ ਕਰਨਾ ਹੈ, ਅਤੇ ਇਸਦੇ ਨਾਲ ਹੀ Google ਡਰਾਈਵ 'ਤੇ ਸਾਰੀਆਂ ਕਾਪੀਆਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+    <string name="backup_erase_dialog_message_full">"ਕੀ ਡੀਵਾਈਸ ਡੈਟੇ (ਜਿਵੇਂ ਕਿ Wi-Fi ਪਾਸਵਰਡਾਂ ਅਤੇ ਕਾਲ ਇਤਿਹਾਸ) ਅਤੇ ਐਪ ਡੈਟੇ (ਜਿਵੇਂ ਕਿ ਐਪਾਂ ਦੁਆਰਾ ਸਟੋਰ ਕੀਤੀਆਂ ਗਈਆਂ ਸੈਟਿੰਗਾਂ ਅਤੇ ਫ਼ਾਈਲਾਂ) ਦਾ ਬੈਕਅੱਪ ਲੈਣਾ ਬੰਦ ਕਰਨਾ ਹੈ, ਅਤੇ ਇਸਦੇ ਨਾਲ ਹੀ Google ਡਰਾਈਵ 'ਤੇ ਸਾਰੀਆਂ ਕਾਪੀਆਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">ਫ਼ੋਟੋਆਂ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਇੱਕ ਗੜਬੜ ਹੋ ਗਈ ਸੀ</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"ਜਦੋਂ ਤੁਸੀਂ ਸਵੈਚਲਿਤ ਬੈਕਅੱਪ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ:
+
+ ● ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ ਅਤੇ ਐਪ ਡੈਟਾ ਸਮੇਂ-ਸਮੇਂ 'ਤੇ Google ਡਰਾਈਵ ਵਿੱਚ ਕਿਸੇ ਨਿੱਜੀ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਐਪ ਡੈਟਾ ਅਜਿਹਾ ਕੋਈ ਵੀ ਡੈਟਾ ਹੋ ਸਕਦਾ ਹੈ ਜੋ ਕਿਸੇ ਐਪ ਵੱਲੋਂ (ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਦੇ ਆਧਾਰ 'ਤੇ) ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਸੰਭਾਵੀ ਤੌਰ 'ਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡੈਟਾ ਜਿਵੇਂ ਕਿ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਅਤੇ ਫ਼ੋਟੋਆਂ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ।
+
+ ਵੱਡੀਆਂ ਫ਼ਾਈਲਾਂ, ਜਾਂ ਜਿੰਨ੍ਹਾਂ ਫ਼ਾਈਲਾਂ ਨੂੰ ਡਿਵੈਲਪਰਾਂ ਨੇ ਬਾਹਰ ਰੱਖਣਾ ਚੁਣਿਆ ਹੋਵੇ, ਉਹਨਾਂ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ।
+
+ ● ਇਸ ਡੀਵਾਈਸ ਦੀਆਂ ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਤੁਹਾਡੀ Google ਫ਼ੋਟੋਆਂ ਲਾਇਬ੍ਰੇਰੀ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡੀ ਕਿਸੇ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਖੋਜਿਆ, ਸੰਪਾਦਨ ਕੀਤਾ, ਮਿਟਾਇਆ, ਅਤੇ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਸਕੇ।
+
+ ਪੂਰਵ-ਨਿਰਧਾਰਤ ਤੌਰ 'ਤੇ, ਪੂਰੀ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਵਾਲੀਆਂ ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ ਅੱਪਲੋਡ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡੇ ਡਰਾਈਵ ਸਟੋਰੇਜ ਕੋਟੇ ਵਿੱਚ ਨਹੀਂ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ।
+
+ ● ਇਸ ਡੀਵਾਈਸ ਦੇ ਸੰਪਰਕਾਂ ਅਤੇ ਸਬੰਧਿਤ ਡੈਟੇ ਨੂੰ Google ਸੰਪਰਕ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੀ ਕਿਸੇ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਸੰਪਰਕਾਂ ਨੂੰ ਖੋਜਣ, ਉਹਨਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰਨ, ਮਿਟਾਉਣ, ਅਤੇ ਸਾਂਝੇ ਕਰਨ ਲਈ Google ਸੰਪਰਕ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।
+
+ ● ਇਸ ਡੀਵਾਈਸ ਦੇ ਕੈਲੰਡਰ ਇੰਦਰਾਜ਼ਾਂ ਅਤੇ ਸਬੰਧਿਤ ਡੈਟੇ ਨੂੰ Google ਕੈਲੰਡਰ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੀ ਕਿਸੇ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਕੈਲੰਡਰ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਖੋਜਣ, ਉਹਨਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰਨ, ਮਿਟਾਉਣ, ਅਤੇ ਸਾਂਝੇ ਕਰਨ ਲਈ Google ਕੈਲੰਡਰ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।
+
+ ਬੈਕਅੱਪ ਲਏ ਡੈਟੇ ਨੂੰ ਤੁਹਾਡੇ ਡਰਾਈਵ ਸਟੋਰੇਜ ਕੋਟੇ ਵਿੱਚ ਨਹੀਂ ਗਿਣਿਆ ਜਾਵੇਗਾ।"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"ਜਦੋਂ ਤੁਸੀਂ ਸਵੈਚਲਿਤ ਬੈਕਅੱਪ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ:
+
+ ● ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ ਅਤੇ ਐਪ ਡੈਟਾ ਨਿਯਤ ਅੰਤਰਾਲ ਬਾਅਦ Google ਡਰਾਈਵ ਵਿੱਚ ਕਿਸੇ ਨਿੱਜੀ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਐਪ ਡੈਟਾ ਅਜਿਹਾ ਕੋਈ ਵੀ ਡੈਟਾ ਹੋ ਸਕਦਾ ਹੈ ਜੋ ਕਿਸੇ ਐਪ ਵੱਲੋਂ (ਵਿਕਾਸਕਾਰ ਸੈਟਿੰਗਾਂ ਦੇ ਆਧਾਰ 'ਤੇ) ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਸੰਭਾਵੀ ਤੌਰ 'ਤੇ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਅਤੇ ਫ਼ੋਟੋਆਂ ਵਰਗਾ ਸੰਵੇਦਨਸ਼ੀਲ ਡੈਟਾ ਵੀ ਸ਼ਾਮਲ ਹੈ।
+
+ ਵੱਡੀਆਂ ਫ਼ਾਈਲਾਂ, ਜਾਂ ਜਿੰਨ੍ਹਾਂ ਫ਼ਾਈਲਾਂ ਨੂੰ ਵਿਕਾਸਕਾਰਾਂ ਨੇ ਬਾਹਰ ਰੱਖਣਾ ਚੁਣਿਆ ਹੋਵੇ, ਉਹਨਾਂ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ।
+
+ ● ਇਸ ਡੀਵਾਈਸ ਦੇ ਸੰਪਰਕਾਂ ਅਤੇ ਸਬੰਧਿਤ ਡੈਟੇ ਨੂੰ \"Google ਸੰਪਰਕ\" ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੀ ਕਿਸੇ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਸੰਪਰਕਾਂ ਨੂੰ ਖੋਜਣ, ਉਹਨਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰਨ, ਮਿਟਾਉਣ, ਅਤੇ ਸਾਂਝੇ ਕਰਨ ਲਈ \"Google ਸੰਪਰਕ\" ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।
+
+ ● ਇਸ ਡੀਵਾਈਸ ਦੇ ਕੈਲੰਡਰ ਇੰਦਰਾਜ਼ਾਂ ਅਤੇ ਸਬੰਧਿਤ ਡੈਟੇ ਨੂੰ Google ਕੈਲੰਡਰ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਆਪਣੀ ਕਿਸੇ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਕੈਲੰਡਰ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਖੋਜਣ, ਉਹਨਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰਨ, ਮਿਟਾਉਣ, ਅਤੇ ਸਾਂਝੇ ਕਰਨ ਲਈ Google ਕੈਲੰਡਰ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।
+
+ ਬੈਕਅੱਪ ਲਏ ਡੈਟੇ ਨੂੰ ਤੁਹਾਡੇ ਡਰਾਈਵ ਸਟੋਰੇਜ ਕੋਟੇ ਵਿੱਚ ਨਹੀਂ ਗਿਣਿਆ ਜਾਵੇਗਾ।"</string>
+    <string name="backup_opt_in_backup_description_extra">ਕੈਲੰਡਰ, ਸੰਪਰਕ, ਫ਼ੋਟੋਆਂ, ਅਤੇ ਵੀਡੀਓ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਇਹਨਾਂ ਦੀ ਵਰਤੋਂ ਸੇਵਾਵਾਂ ਵਿਚਕਾਰ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।</string>
+    <string name="backup_opt_in_backup_description_v2">ਸਵੈਚਲਿਤ ਬੈਕਅੱਪ ਇਹ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਆਸਾਨੀ ਨਾਲ ਫ਼ੋਨ ਮੁੜ-ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਬਦਲੀ ਕਰ ਸਕਦੇ ਹੋ। <annotation id="backup_opt_in_learn_more">ਹੋਰ ਜਾਣੋ</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"ਇਸ ਨਾਲ ਇਹਨਾਂ ਦਾ ਬੈਕਅੱਪ ਬੰਦ ਹੋ ਜਾਵੇਗਾ:
+
+ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ
+ਕਾਲ ਇਤਿਹਾਸ
+ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ
+ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ
+SMS
+
+ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕਰਨਾ ਜਾਰੀ ਰੱਖਿਆ ਜਾਵੇਗਾ। ਸਥਾਪਨਾ ਦੇ ਮੁਕੰਮਲ ਹੋਣ 'ਤੇ, ਤੁਸੀਂ "<annotation id="backup_opt_in_settings_instructions">ਸੈਟਿੰਗਾਂ > ਖਾਤੇ > Google</annotation>" 'ਤੇ ਜਾਣ ਦੁਆਰਾ ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">ਕੀ ਬੈਕਅੱਪ ਬੰਦ ਕਰਨਾ ਹੈ?</string>
+    <string name="backup_opt_in_backup_list">"ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ
+ਕੈਲੰਡਰ
+ਕਾਲ ਇਤਿਹਾਸ
+ਸੰਪਰਕ
+ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ (Wi-Fi ਪਾਸਵਰਡਾਂ ਸਮੇਤ)
+ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">ਬੈਕਅੱਪ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹੈ:</string>
+    <string name="backup_opt_in_backup_title">"Google ਡਰਾਈਵ 'ਤੇ ਬੈਕਅੱਪ ਲਓ"</string>
+    <string name="backup_opt_in_disable_backup">ਬੈਕਅੱਪ ਬੰਦ ਕਰੋ</string>
+    <string name="backup_photos_update">ਕਿਰਪਾ ਕਰਕੇ Google ਫ਼ੋਟੋਆਂ ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="backup_settings_activity_backup_title">ਬੈਕਅੱਪ</string>
+    <string name="backup_settings_activity_title">ਬੈਕਅੱਪ ਲਓ ਅਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">ਕਾਪੀ ਨਾ ਕਰੋ</string>
+    <string name="close_button_label">ਬੰਦ ਕਰੋ</string>
+    <string name="cloud_restore_app_picker_button">ਮੁੜ-ਬਹਾਲ ਕਰੋ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ਤੁਹਾਡੇ ਬੈਕਅੱਪ ਵਿੱਚ ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਹਨ</string>
+    <string name="cloud_restore_app_picker_title">ਮੁੜ-ਬਹਾਲ ਕਰਨ ਲਈ ਐਪਾਂ ਚੁਣੋ</string>
+    <string name="common_accept">ਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="common_add_account_label">ਇੱਕ ਖਾਤਾ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="common_ads_settings_title">ਇਸ਼ਤਿਹਾਰ</string>
+    <string name="common_agree">ਸਹਿਮਤ</string>
+    <string name="common_app_name">Google Play ਸੇਵਾਵਾਂ</string>
+    <string name="common_asm_preferences_settings_title">ਖਾਤੇ ਸਬੰਧੀ ਤਰਜੀਹਾਂ</string>
+    <string name="common_asm_privacy_settings_title">ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਅਤੇ ਪਰਦੇਦਾਰੀ</string>
+    <string name="common_asm_security_settings_title">ਸਾਈਨ-ਇਨ ਅਤੇ ਸੁਰੱਖਿਆ</string>
+    <string name="common_audience_edit_button_label">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="common_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ਚਾਲੂ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ (ਅਨੁਮਤੀ ਅਸ਼ੁੱਧੀ)।</string>
+    <string name="common_car_permission_desc">ਕਾਰ ਸਰਵਿਸ ਤੱਕ ਪਹੁੰਚ।</string>
+    <string name="common_car_permission_label">ਕਾਰ ਸਰਵਿਸ</string>
+    <string name="common_chips_label_empty_circles">ਕੋਈ ਦਾਇਰਾ ਨਹੀਂ</string>
+    <string name="common_chips_label_extended_circles">ਵਿਸਤ੍ਰਿਤ ਸਰਕਲ</string>
+    <string name="common_chips_label_only_you">ਸਿਰਫ਼ ਤੁਸੀਂ</string>
+    <string name="common_chips_label_public">ਜਨਤਕ</string>
+    <string name="common_chips_label_your_circles">ਤੁਹਾਡੇ ਸਰਕਲ</string>
+    <string name="common_choose_account_label">ਇੱਕ ਖਾਤਾ ਚੁਣੋ</string>
+    <string name="common_clear_app_data_menu_item">ਐਪ ਡੈਟਾ ਹਟਾਓ</string>
+    <string name="common_connected">ਕਨੈਕਟ ਕੀਤਾ</string>
+    <string name="common_connected_apps_settings_title">ਕਨੈਕਟ ਕੀਤੀਆਂ ਐਪਾਂ</string>
+    <string name="common_connecting">ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ…</string>
+    <string name="common_continue">ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="common_disagree">ਅਸਹਿਮਤ</string>
+    <string name="common_disconnect">ਡਿਸਕਨੈਕਟ ਕਰੋ</string>
+    <string name="common_done">ਹੋ ਗਿਆ</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">ਵੱਲੋਂ:</string>
+    <string name="common_games_settings_title">Play ਗੇਮਾਂ</string>
+    <string name="common_get_started">ਸ਼ੁਰੂਆਤ ਕਰੋ</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">ਯੋਗ ਬਣਾਓ</string>
+    <string name="common_google_play_services_enable_text">%1$s ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਯੋਗ ਨਹੀਂ ਬਣਾਉਂਦੇ ਹੋ।</string>
+    <string name="common_google_play_services_enable_title">Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਯੋਗ ਬਣਾਓ</string>
+    <string name="common_google_play_services_error_dialog_title">ਅਸ਼ੁੱਧੀ</string>
+    <string name="common_google_play_services_install_button">ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="common_google_play_services_install_text">%1$s Google Play ਸੇਵਾਵਾਂ ਤੋਂ ਬਿਨਾਂ ਨਹੀਂ ਚੱਲੇਗੀ, ਜੋ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਤੋਂ ਗੁੰਮ ਹਨ।</string>
+    <string name="common_google_play_services_install_title">Google Play ਸੇਵਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ਸੇਵਾਵਾਂ ਅਸ਼ੁੱਧੀ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ਨੂੰ Google Play ਸੇਵਾਵਾਂ ਨਾਲ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s Google Play ਸੇਵਾਵਾਂ ਤੋਂ ਬਿਨਾਂ ਨਹੀਂ ਚੱਲ ਸਕੇਗੀ, ਜੋ ਤੁਹਾਡੀ ਡੀਵਾਈਸ 'ਤੇ ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ।"</string>
+    <string name="common_google_play_services_update_button">ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="common_google_play_services_update_text">%1$s ਨਹੀਂ ਚੱਲੇਗਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਅਪਡੇਟ ਨਹੀਂ ਕਰਦੇ।</string>
+    <string name="common_google_play_services_update_title">Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="common_google_play_services_updating_text">%1$s Google Play ਸੇਵਾਵਾਂ ਤੋਂ ਬਿਨਾਂ ਨਹੀਂ ਚੱਲੇਗਾ, ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਅਪਡੇਟ ਹੋ ਰਹੀਆਂ ਹਨ।</string>
+    <string name="common_google_play_services_updating_title">Google Play ਸੇਵਾਵਾਂ ਅੱਪਡੇਟ ਹੋ ਰਹੀਆਂ ਹਨ</string>
+    <string name="common_google_play_services_wear_update_text">Google Play ਸੇਵਾਵਾਂ ਦੇ ਨਵਾਂ ਸੰਸਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਇਹ ਛੇਤੀ ਹੀ ਆਪਣੇ ਆਪ ਅਪਡੇਟ ਕਰੇਗਾ।</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">ਗਲਤ ਆਰਕੀਟੈਕਚਰ ਦੇ ਨਾਲ Google Play ਸੇਵਾਵਾਂ ਸਥਾਪਿਤ ਕੀਤੀ ਗਈ।</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play ਸੇਵਾਵਾਂ ਕਿਸੇ ਆਰਕੀਟੈਕਚਰ (%1$s) ਦੇ ਨਾਲ ਸਥਾਪਿਤ ਕੀਤੀ ਗਈਆਂ ਹਨ ਜੋ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਦੇ ਆਰਕੀਟੈਕਚਰ (%2$s) ਤੋਂ ਵੱਖਰਾ ਹੈ।</string>
+    <string name="common_google_play_services_wrong_architecture_title">ਗਲਤ ਆਰਕੀਟੈਕਚਰ</string>
+    <string name="common_google_settings">Google ਸੈਟਿੰਗਾਂ</string>
+    <string name="common_google_settings_account">ਖਾਤਾ</string>
+    <string name="common_google_settings_credentials_title">ਪਾਸਵਰਡਾਂ ਲਈ ਸਮਾਰਟ ਲੌਕ</string>
+    <string name="common_google_settings_developer">ਵਿਕਾਸਕਾਰ</string>
+    <string name="common_google_settings_services">ਸੇਵਾਵਾਂ</string>
+    <string name="common_got_it">ਸਮਝ ਲਿਆ</string>
+    <string name="common_install">ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="common_learn_more">ਹੋਰ ਜਾਣੋ</string>
+    <string name="common_list_apps_menu_help">ਮਦਦ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ਮਦਦ ਅਤੇ ਪ੍ਰਤੀਕਰਮ</string>
+    <string name="common_loading">ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="common_location_settings_title">ਟਿਕਾਣਾ</string>
+    <string name="common_magictether_settings_title">ਤਤਕਾਲ ਟੈਦਰਿੰਗ</string>
+    <string name="common_maps_settings_title">ਨਕਸ਼ੇ ਅਤੇ ਅਕਸ਼ਾਂਸ਼</string>
+    <string name="common_mdm_feature_name">Android ਡੀਵਾਈਸ ਪ੍ਰਬੰਧਕ</string>
+    <string name="common_missing_url_viewer">ਇੱਕ ਬਾਹਰੀ url ਦਿਖਾਉਣ ਲਈ ਗਾਇਬ ਵਿਊਅਰ।</string>
+    <string name="common_more_options">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="common_networking_settings_title">ਨੈਟਵਰਕਿੰਗ</string>
+    <string name="common_no_browser_for_restricted_url">ਪ੍ਰਤਿਬੰਧਿਤ ਪਹੁੰਚ। ਕੋਈ ਬ੍ਰਾਊਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ ਸੀ।</string>
+    <string name="common_no_devices_found">ਕੋਈ ਡੀਵਾਈਸਾਂ ਨਹੀਂ ਮਿਲੀਆਂ</string>
+    <string name="common_no_network">ਅਣਉਪਬਧ ਕਿਉਂਕਿ ਡੀਵਾਈਸ ਔਫਲਾਈਨ ਹੈ</string>
+    <string name="common_no_thanks">ਨਹੀਂ ਧੰਨਵਾਦ</string>
+    <string name="common_not_now">ਹੁਣੇ ਨਹੀਂ</string>
+    <string name="common_off">ਬੰਦ</string>
+    <string name="common_ok">ਠੀਕ</string>
+    <string name="common_on">ਚਾਲੂ</string>
+    <string name="common_open_on_phone">"ਫ਼ੋਨ 'ਤੇ ਖੋਲ੍ਹੋ"</string>
+    <string name="common_open_source_licenses">ਖੁੱਲ੍ਹਾ ਸਰੋਤ ਲਾਇਸੰਸ</string>
+    <string name="common_people_settings_title">ਸੰਪਰਕ</string>
+    <string name="common_permissions_enable_in_settings">ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਯੋਗ ਬਣਾਓ</string>
+    <string name="common_permissions_missing_end">ਜਾਰੀ ਰੱਖਣ ਲਈ, ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ, ਫਿਰ ਇਜਾਜ਼ਤਾਂ, ਅਤੇ ਸਾਰੀਆਂ ਸੂਚੀਬੱਧ ਆਈਟਮਾਂ ਨੂੰ ਆਗਿਆ ਦਿਓ।</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ਯੋਗ ਬਣਾਉਣ ਲਈ,
+ਸੈਟਿੰਗਾਂ >
+ਇਜਾਜ਼ਤਾਂ >
+Google Play ਸੇਵਾਵਾਂ 'ਤੇ ਜਾਓ"</string>
+    <string name="common_permissions_missing_start">"ਇਹ ਐਪ ਉਦੋਂ ਤੱਕ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ Google Play ਸੇਵਾਵਾਂ ਦੀ ਅੱਗੇ ਦਿੱਤੀਆਂ ਚੀਜ਼ਾਂ 'ਤੇ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਦਿੰਦੇ:"</string>
+    <string name="common_permissions_open_settings">ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ</string>
+    <string name="common_phone">ਫ਼ੋਨ ਨੰਬਰ</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</string>
+    <string name="common_restore">ਮੁੜ-ਬਹਾਲ ਕਰੋ</string>
+    <string name="common_retry">ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="common_search_settings_title">ਖੋਜ</string>
+    <string name="common_security_ootp_setting_title">ਸੁਰੱਖਿਆ ਕੋਡ</string>
+    <string name="common_security_settings_title">ਸੁਰੱਖਿਆ</string>
+    <string name="common_send">ਭੇਜੋ</string>
+    <string name="common_sending">ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="common_set_up_nearby_device_settings_title">ਨੇੜਲੀ ਡੀਵਾਈਸ ਨੂੰ ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="common_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="common_signin_button_text">ਸਾਈਨ ਇਨ ਕਰੇ</string>
+    <string name="common_signin_button_text_long">Google ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="common_something_went_wrong">ਕੁਝ ਗੜਬੜ ਹੋ ਗਈ</string>
+    <string name="common_system_info">ਸਿਸਟਮ ਜਾਣਕਾਰੀ</string>
+    <string name="common_take_photo_label">ਫ਼ੋਟੋ ਖਿੱਚੋ</string>
+    <string name="common_terms_of_service">ਸੇਵਾ ਦੀਆਂ ਮਦਾਂ</string>
+    <string name="common_try_again">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="common_turn_on_bluetooth">ਬਲੂਟੁੱਥ ਚਾਲੂ ਕਰੋ</string>
+    <string name="common_ui_confirm_deleting_button">ਮਿਟਾਓ</string>
+    <string name="common_ui_confirm_deleting_checkbox">ਮੈਂ ਸਮਝ ਲਿਆ ਹੈ ਅਤੇ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ</string>
+    <string name="common_unknown">ਅਗਿਆਤ</string>
+    <string name="common_update">ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="common_url_load_unsuccessful_message">ਤੁਹਾਡੀ Android ਡੀਵਾਈਸ ਇੱਕ ਡੈਟਾ ਸੇਵਾ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ। ਹੁਣ ਇਸ ਜਾਣਕਾਰੀ ਨੂੰ ਦੇਖਣ ਲਈ, ਇੱਕ ਵੈਬ ਬ੍ਰਾਊਜ਼ਰ ਵਾਲੇ %s ਤੇ ਜਾਓ।</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"ਤੁਹਾਡੀ Android ਡੀਵਾਈਸ ਕਿਸੇ Wi-Fi ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ। ਇਸ ਜਾਣਕਾਰੀ ਨੂੰ ਹੁਣੇ ਵੇਖਣ ਲਈ, ਕਿਸੇ ਵੈੱਬ ਬ੍ਰਾਊਜ਼ਰ ਨਾਲ %s 'ਤੇ ਜਾਓ।"</string>
+    <string name="common_url_login_notice">%1$s ਵਜੋਂ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="common_usage_and_diagnostics">ਵਰਤੋਂ ਅਤੇ ਨਿਦਾਨ</string>
+    <string name="common_yesterday">ਕੱਲ੍ਹ</string>
+    <string name="confirm_copy_button_text">ਕਾਪੀ ਕਰੋ</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d ਡੀਵਾਈਸ</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google ਸੰਪਰਕ, %1$d iCloud®, %2$d ਡੀਵਾਈਸ</string>
+    <string name="contacts_number_device_and_sim_with_google">Google ਸੰਪਰਕ, %1$d SIM, %2$d ਡੀਵਾਈਸ</string>
+    <string name="contacts_number_device_with_google">Google ਸੰਪਰਕ, %1$d ਡੀਵਾਈਸ</string>
+    <string name="contacts_number_icloud_with_google">Google ਸੰਪਰਕ, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google ਸੰਪਰਕ, %1$d SIM</string>
+    <string name="copy_confirmation_description">"ਤੁਸੀਂ ਆਪਣੇ Google ਖਾਤੇ ਅਤੇ ਐਪਾਂ ਵਰਗੇ ਡੈਟੇ ਨੂੰ ਆਪਣੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਕਰੋਂਗੇ"</string>
+    <string name="copy_confirmation_title">"ਕੀ ਆਪਣੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਕਰਨਾ ਹੈ?"</string>
+    <string name="d2d_app_picker_description_no_apps">ਅਸੀਂ ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਲੱਭ ਸਕੇ</string>
+    <string name="d2d_app_picker_title">ਐਪਾਂ</string>
+    <string name="d2d_migration_canceled_on_source">ਕਾਪੀ ਕਰਨਾ ਰੱਦ ਕੀਤਾ ਗਿਆ</string>
+    <string name="data_copied_fragment_description">"ਤੁਹਾਡਾ ਡੈਟਾ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਸੀਂ ਕੇਬਲ ਨੂੰ ਕੱਢ ਸਕਦੇ ਹੋ।"</string>
+    <string name="data_copied_fragment_description_cancel">"ਤੁਸੀਂ ਕਾਪੀ ਕਰਨ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚੁਣਿਆ, ਇਸ ਲਈ ਸਿਰਫ਼ ਕੁਝ ਡੈਟਾ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ ਹੈ।"</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"ਤੁਸੀਂ ਕਾਪੀ ਕਰਨ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚੁਣਿਆ ਸੀ, ਇਸ ਕਰਕੇ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕੁਝ ਵੀ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।"</string>
+    <string name="data_copied_fragment_description_error">ਕੁਝ ਗੜਬੜ ਹੋ ਗਈ ਹੈ, ਇਸ ਲਈ ਅਸੀਂ ਸਭ ਕੁਝ ਕਾਪੀ ਨਹੀਂ ਕਰ ਸਕੇ।</string>
+    <string name="data_copied_fragment_description_error_no_data">ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ, ਇਸ ਕਰਕੇ ਅਸੀਂ ਤੁਹਾਡੇ ਡੈਟੇ ਨੂੰ ਕਾਪੀ ਨਹੀਂ ਕਰ ਸਕੇ।</string>
+    <string name="data_copied_fragment_no_data_title">ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ</string>
+    <string name="data_copied_fragment_some_data_title">ਕੁਝ ਡੈਟਾ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="data_copied_fragment_title">ਡੈਟਾ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="device_backup_title">ਡੀਵਾਈਸ ਬੈਕਅੱਪ</string>
+    <string name="device_not_supported_fragment_new_device">ਤੁਸੀਂ ਇੱਕ ਨਵੇਂ ਫ਼ੋਨ ਨਾਲ ਕਨੈਕਟ ਹੋ। ਜਾਰੀ ਰੱਖਣ ਲਈ, ਆਪਣੇ ਪਹਿਲਾਂ ਵਾਲੇ ਫ਼ੋਨ ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ।</string>
+    <string name="device_not_supported_fragment_new_device_title">ਪਹਿਲਾਂ ਵਾਲੇ ਫ਼ੋਨ ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ਇਹ ਕੇਬਲ ਡੈਟੇ ਦਾ ਤਬਾਦਲਾ ਨਹੀਂ ਕਰ ਸਕਦੀ। ਕਿਸੇ ਵੱਖਰੀ ਕੇਬਲ ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ਕਿਸੇ ਹੋਰ ਕੇਬਲ ਨੂੰ ਅਜ਼ਮਾਓ</string>
+    <string name="device_not_supported_fragment_retry_description">ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਡਾ ਪੁਰਾਣਾ ਫ਼ੋਨ ਅਨਲੌਕ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਫਿਰ ਕੇਬਲ ਨੂੰ ਡਿਸਕਨੈਕਟ ਕਰੋ ਅਤੇ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ</string>
+    <string name="device_not_supported_ios_supervised_description">ਕਿਉਂਕਿ ਤੁਹਾਡੀ iPhone® ਡੀਵਾਈਸ ਨਿਗਰਾਨੀ-ਅਧੀਨ ਹੈ, ਇਸ ਲਈ ਤੁਹਾਨੂੰ ਡੈਟਾ ਕਾਪੀ ਕਰਨ ਲਈ ਕਿਸੇ ਹੋਰ ਤਰੀਕੇ ਨੂੰ ਚੁਣਨ ਦੀ ਲੋੜ ਪਵੇਗੀ</string>
+    <string name="device_picker_description">ਬੈਕਅੱਪ Google ਡਰਾਈਵ ਵਿੱਚ ਸਟੋਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ</string>
+    <string name="device_picker_empty">%1$s ਨਾਲ ਕੋਈ ਬੈਕਅੱਪ ਲਿੰਕ ਨਹੀਂ ਕੀਤੇ ਗਏ।</string>
+    <string name="device_picker_empty_title">ਕੋਈ ਬੈਕਅੱਪ ਨਹੀਂ ਮਿਲੇ</string>
+    <string name="device_picker_item">%1$s ਬੈਕਅੱਪ</string>
+    <string name="device_picker_last_used">ਪਿਛਲੀ ਵਾਰ ਵਰਤਿਆ ਗਿਆ ^1</string>
+    <string name="device_picker_skip">ਮੁੜ-ਬਹਾਲ ਨਾ ਕਰੋ</string>
+    <string name="device_picker_title">ਮੁੜ-ਬਹਾਲ ਕਰਨ ਲਈ ਇੱਕ ਬੈਕਅੱਪ ਚੁਣੋ</string>
+    <string name="disabled_by_admin_summary_text">ਪ੍ਰਸ਼ਾਸਕ ਵੱਲੋਂ ਕੰਟਰੋਲ ਕੀਤੀ ਗਈ</string>
+    <string name="download_msg_error_invalid">ਡਾਊਨਲੋਡ ਗ਼ਲਤ ਢੰਗ ਨਾਲ ਕੌਂਫਿਗਰ ਕੀਤੀ ਗਈ ਸੀ।</string>
+    <string name="download_msg_in_progress">ਡਾਊਨਲੋਡ ਪ੍ਰਗਤੀ ਵਿੱਚ ਹੈ।</string>
+    <string name="download_msg_not_allowed_space">ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਪੂਰਾ ਸਪੇਸ ਨਹੀਂ ਹੈ।</string>
+    <string name="download_msg_pending">ਡਾਊਨਲੋਡ ਵਿਚਾਰ ਅਧੀਨ ਹੈ।</string>
+    <string name="download_notification_description">%1$s ਨੇ ਇਸਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ।</string>
+    <string name="download_notification_title">ਹੋਰ ਡੈਟਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ</string>
+    <string name="drive_backup_account">ਖਾਤਾ</string>
+    <string name="drive_backup_apps_in_backup">ਬੈਕਅੱਪ ਲਿਆ ਗਿਆ ਐਪ ਡੈਟਾ</string>
+    <string name="drive_backup_apps_last_backup">ਪਿਛਲਾ ਬੈਕਅੱਪ</string>
+    <string name="drive_backup_apps_loading">ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="drive_backup_apps_screen_title">ਐਪ ਡੈਟਾ</string>
+    <string name="drive_backup_content_apps_title">ਐਪ ਡੈਟਾ</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google ਕੈਲੰਡਰ ਵਿੱਚ ਬਣਾਏ ਗਏ ਵਰਤਾਰਿਆਂ ਨੂੰ ਤੁਹਾਡੀਆਂ ਉਹਨਾਂ ਸਾਰੀਆਂ ਡੀਵਾਈਸਾਂ ਵਿੱਚ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ ਜਿੰਨ੍ਹਾਂ ਰਾਹੀਂ ਤੁਸੀਂ ਆਪਣੇ Google ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕੀਤਾ ਹੋਇਆ ਹੈ।</string>
+    <string name="drive_backup_content_calendar_title">ਕੈਲੰਡਰ</string>
+    <string name="drive_backup_content_callhistory_dialog_message">ਬੈਕਅੱਪ ਵਿੱਚ ਭੇਜੀਆਂ ਅਤੇ ਪ੍ਰਾਪਤ ਕੀਤੀਆਂ ਕਾਲਾਂ ਦੀ ਮਿਤੀ ਅਤੇ ਪ੍ਰਾਪਤਕਰਤਾ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ।</string>
+    <string name="drive_backup_content_callhistory_title">ਕਾਲ ਇਤਿਹਾਸ</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google ਸੰਪਰਕ ਵਿੱਚ ਬਣਾਏ ਗਏ ਸੰਪਰਕਾਂ ਨੂੰ ਉਹਨਾਂ ਸਾਰੀਆਂ ਡੀਵਾਈਸਾਂ ਵਿੱਚ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ ਜਿੰਨ੍ਹਾਂ ਰਾਹੀਂ ਤੁਸੀਂ ਆਪਣੇ Google ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕੀਤਾ ਹੋਇਆ ਹੈ।</string>
+    <string name="drive_backup_content_contacts_title">ਸੰਪਰਕ</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">ਬੈਕਅੱਪ ਵਿੱਚ ਡੀਵਾਈਸ ਸੰਰੂਪਣ ਸ਼ਾਮਲ ਹੈ, ਜਿਵੇਂ ਕਿ ਵਾਲਪੇਪਰ, Wi-Fi ਪਾਸਵਰਡ, ਅਤੇ ਪੂਰਵ-ਨਿਰਧਾਰਤ ਐਪਾਂ।</string>
+    <string name="drive_backup_content_devicesettings_title">ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ</string>
+    <string name="drive_backup_content_header">ਸਮੱਗਰੀ</string>
+    <string name="drive_backup_content_photos_dialog_message">ਤੁਹਾਡੇ ਪ੍ਰਾਇਮਰੀ ਬੈਕਅੱਪ ਖਾਤੇ ਨੂੰ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਸੀਂ Google ਫ਼ੋਟੋਆਂ ਬੈਕਅੱਪ ਖਾਤੇ ਨੂੰ ਵੀ ਬਦਲਕੇ %s ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="drive_backup_content_photos_dialog_no">ਖਾਰਜ ਕਰੋ</string>
+    <string name="drive_backup_content_photos_dialog_title">ਕੀ ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ ਖਾਤੇ ਨੂੰ ਵੀ ਬਦਲਣਾ ਹੈ?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ਬਦਲੋ</string>
+    <string name="drive_backup_content_photos_title">ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ</string>
+    <string name="drive_backup_content_sms_dialog_message">ਬੈਕਅੱਪ ਵਿੱਚ ਭੇਜੇ ਗਏ ਅਤੇ ਪ੍ਰਾਪਤ ਕੀਤੇ ਸੁਨੇਹੇ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ। ਇਸ ਵਿੱਚ MMS ਮੀਡੀਆ ਸ਼ਾਮਲ ਨਹੀਂ ਹੁੰਦਾ ਹੈ।</string>
+    <string name="drive_backup_content_sms_title">SMS ਲਿਖਤ ਸੁਨੇਹੇ</string>
+    <string name="drive_backup_content_status_dolly_action">ਸਮਝ ਲਿਆ</string>
+    <string name="drive_backup_content_status_error">ਪਿਛਲੇ ਸਮਕਾਲੀਕਰਨ ਦੀ ਮਿਤੀ ਪ੍ਰਾਪਤ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ</string>
+    <string name="drive_backup_content_status_lastsaved">ਪਿਛਲੇ ਬੈਕਅੱਪ ਦਾ ਸਮਾਂ: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">ਪਿਛਲੇ ਸਮਕਾਲੀਕਰਨ ਦਾ ਸਮਾਂ: %1$s</string>
+    <string name="drive_backup_content_status_never">ਬੈਕਅੱਪ ਲਈ ਉਡੀਕ ਹੋ ਰਹੀ ਹੈ</string>
+    <string name="drive_backup_content_status_sync_adapter_action">ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ</string>
+    <string name="drive_backup_content_status_sync_off">ਸਮਕਾਲੀਕਰਨ ਬੰਦ ਹੈ</string>
+    <string name="drive_backup_content_status_updating">ਅਵਸਥਾ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...</string>
+    <string name="drive_backup_disabled_backuplist">"ਬੈਕਅੱਪ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹਨ:
+\u0009- ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ
+\u0009- ਕਾਲ ਇਤਿਹਾਸ
+\u0009- ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ (Wi-Fi ਪਾਸਵਰਡਾਂ ਸਮੇਤ)
+\u0009- Google ਕੈਲੰਡਰ
+\u0009- Google ਸੰਪਰਕ
+\u0009- ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"ਬੈਕਅੱਪ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹਨ:
+\u0009- ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ
+\u0009- ਕਾਲ ਇਤਿਹਾਸ
+\u0009- ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ (Wi-Fi ਪਾਸਵਰਡਾਂ ਸਮੇਤ)
+\u0009- Google ਕੈਲੰਡਰ
+\u0009- Google ਸੰਪਰਕ
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">ਤੁਹਾਡੇ ਪ੍ਰਸ਼ਾਸਕ ਵੱਲੋਂ ਅਯੋਗ ਬਣਾਇਆ ਗਿਆ</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google ਕੈਲੰਡਰ, Google ਸੰਪਰਕ, ਫ਼ੋਟੋਆਂ, ਅਤੇ ਵੀਡੀਓ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਇਹਨਾਂ ਦੀ ਵਰਤੋਂ ਸਾਰੀਆਂ ਸੇਵਾਵਾਂ ਵਿੱਚ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+
+ਬੈਕਅੱਪ ਦੇ ਬੰਦ ਕੀਤੇ ਜਾਣ 'ਤੇ ਵੀ ਸਮਕਾਲੀਕਰਨ ਯੋਗ ਬਣਾਇਆ ਹੋ ਸਕਦਾ ਹੈ। ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਟਿੰਗਾਂ > ਖਾਤੇ > Google ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google ਕੈਲੰਡਰ ਅਤੇ Google ਸੰਪਰਕ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਇਹਨਾਂ ਦੀ ਵਰਤੋਂ ਸੇਵਾਵਾਂ ਵਿੱਚ ਵੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+
+ਬੈਕਅੱਪ ਦੇ ਬੰਦ ਕੀਤੇ ਜਾਣ 'ਤੇ ਵੀ ਸਮਕਾਲੀਕਰਨ ਨੂੰ ਯੋਗ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ। ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਟਿੰਗਾਂ > ਖਾਤੇ > Google ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="drive_backup_disabled_introduction">ਸਵੈਚਲਿਤ ਬੈਕਅੱਪ ਇਹ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਆਸਾਨੀ ਨਾਲ ਡੈਟਾ ਮੁੜ-ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਫ਼ੋਨ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="drive_backup_settings_title">ਬੈਕਅੱਪ ਲਓ</string>
+    <string name="drive_backup_state">"Google ਡਰਾਈਵ 'ਤੇ ਬੈਕਅੱਪ ਲਓ"</string>
+    <string name="drive_backup_state_dialog_message">"Google ਡਰਾਈਵ ਵਿੱਚ ਇਸ ਡੀਵਾਈਸ ਦੇ ਬੈਕਅੱਪ ਡੈਟੇ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਇਆ ਜਾਵੇਗਾ।
+
+ਜਿੰਨ੍ਹਾਂ ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ ਦਾ ਬੈਕਅੱਪ ਪਹਿਲਾਂ ਤੋਂ ਲਿਆ ਗਿਆ ਹੋਵੇ ਉਹ ਹਾਲੇ ਵੀ Google ਡਰਾਈਵ ਵਿੱਚ ਉਪਲਬਧ ਹੋਣਗੇ।
+
+Google ਕੈਲੰਡਰ ਅਤੇ Google ਸੰਪਰਕ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਜਾਣੇ ਜਾਰੀ ਰਹਿਣਗੇ। ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਟਿੰਗਾਂ > ਖਾਤੇ > Google ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Google ਡਰਾਈਵ ਵਿੱਚ ਰੱਖੇ ਇਸ ਡੀਵਾਈਸ ਦੇ ਬੈਕਅੱਪ ਡੈਟੇ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਇਆ ਜਾਵੇਗਾ।
+
+Google ਕੈਲੰਡਰ ਅਤੇ Google ਸੰਪਰਕ ਤੁਹਾਡੇ Google ਖਾਤੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਹੋਣਾ ਜਾਰੀ ਰਹਿਣਗੇ। ਸਮਕਾਲੀਕਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਟਿੰਗਾਂ > ਖਾਤੇ > Google ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="drive_backup_state_dialog_okaction">ਬੰਦ ਕਰੋ ਅਤੇ ਮਿਟਾਓ</string>
+    <string name="drive_backup_state_dialog_title">ਕੀ ਬੈਕਅੱਪ ਬੰਦ ਕਰਨਾ ਅਤੇ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="durationDayHour">%1$d ਦਿਨ %2$d ਘੰਟਾ</string>
+    <string name="durationDayHours">%1$d ਦਿਨ %2$d ਘੰਟੇ</string>
+    <string name="durationDays">%1$d ਦਿਨ</string>
+    <string name="durationHourMinute">%1$d ਘੰਟਾ %2$d ਮਿੰਟ</string>
+    <string name="durationHourMinutes">%1$d ਘੰਟਾ %2$d ਮਿੰਟ</string>
+    <string name="durationHours">%1$d ਘੰਟੇ</string>
+    <string name="durationMinute">%1$d ਮਿੰਟ</string>
+    <string name="durationMinuteSecond">%1$d ਮਿੰਟ %2$d ਸਕਿੰਟ</string>
+    <string name="durationMinuteSeconds">%1$d ਮਿੰਟ %2$d ਸਕਿੰਟ</string>
+    <string name="durationMinutes">%1$d ਮਿੰਟ</string>
+    <string name="durationSecond">%1$d ਸਕਿੰਟ</string>
+    <string name="durationSeconds">%1$d ਸਕਿੰਟ</string>
+    <string name="encryption_warning_fragment_description">"ਤੁਹਾਡੀ iPhone® ਡੀਵਾਈਸ ਲਈ ਬੈਕਅੱਪ ਇਨਕ੍ਰਿਪਸ਼ਨ ਚਾਲੂ ਕੀਤੀ ਗਈ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਖੁਦ ਚਾਲੂ ਨਹੀਂ ਕੀਤਾ ਸੀ, ਤਾਂ ਹੋ ਸਕਦਾ ਹੈ ਇਸਨੂੰ ਤੁਹਾਡੇ IT ਪ੍ਰਸ਼ਾਸਕ ਦੁਆਰਾ ਚਾਲੂ ਕੀਤਾ ਗਿਆ ਹੋਵੇ।
+
+ਇਸ 'ਤੇ ਸਿਰਫ਼ ਫ਼ੋਟੋਆਂ, ਸੰਗੀਤ ਅਤੇ ਵੀਡੀਓ ਨੂੰ ਕਾਪੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, "<b>g.co/datatransferhelp</b>" 'ਤੇ ਜਾਓ।"</string>
+    <string name="encryption_warning_fragment_title">ਬੈਕਅੱਪ ਇਨਕ੍ਰਿਪਸ਼ਨ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ਮੈਨੂੰ ਅਡਾਪਟਰ ਨਹੀਂ ਲੱਭ ਰਿਹਾ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Quick Switch Adapter ਨੂੰ ਲੱਭੋ ਜੋ ਤੁਹਾਡੇ ^1 ਵਾਲੇ ਬਾਕਸ ਵਿੱਚ ਆਇਆ ਸੀ।
+
+ਕੇਬਲ ਨੂੰ ਅਡਾਪਟਰ ਵਿੱਚ ਲਗਾਓ।"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ਅਡਾਪਟਰ ਅਤੇ ਕੇਬਲ ਨੂੰ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ਆਪਣੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਨੂੰ ਅਨਲੌਕ ਕਰੋ, ਫਿਰ ਅਡਾਪਟਰ ਦਾ ਪਲੱਗ ਇਸ ਫ਼ੋਨ ਵਿੱਚ ਲਗਾਓ।</string>
+    <string name="fragment_usb_connect_both_phones_title">ਦੋਵਾਂ ਫ਼ੋਨਾਂ ਨੂੰ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="fragment_usb_dialog_cancel_description">ਜੇਕਰ ਤੁਸੀਂ ਇੱਕ ਕੇਬਲ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਜ਼ਿਆਦਾ ਸਮੱਗਰੀ ਪ੍ਰਾਪਤ ਕਰੋਂਗੇ। ਜੇਕਰ ਬਕਸੇ ਵਿਚਲੀਆਂ ਕੇਬਲਾਂ ਅਨੁਕੂਲ ਨਹੀਂ ਹਨ, ਤਾਂ ਉਸ ਚਾਰਜ਼ਿੰਗ ਜਾਂ ਡੈਟਾ ਕੇਬਲ ਦੀ ਵਰਤੋਂ ਕਰੋ ਜੋ ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਨਾਲ ਕੰਮ ਕਰਦੀ ਹੋਵੇ।</string>
+    <string name="fragment_usb_dialog_cancel_title">ਕੀ ਕਿਸੇ ਹੋਰ ਢੰਗ ਨਾਲ ਡੈਟਾ ਕਾਪੀ ਕਰਨਾ ਹੈ?</string>
+    <string name="fragment_usb_dont_have_cable">ਮੇਰੇ ਕੋਲ ਕੋਈ ਕੇਬਲ ਨਹੀਂ ਹੈ</string>
+    <string name="fragment_usb_dont_have_old_phone">ਮੇਰੇ ਕੋਲ ਮੇਰਾ ਪੁਰਾਣਾ ਫ਼ੋਨ ਨਹੀਂ ਹੈ</string>
+    <string name="fragment_usb_find_cable_description">ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਦੇ ਅਨੁਕੂਲ ਇੱਕ ਕੇਬਲ ਦੀ ਵਰਤੋ ਕਰੋ, ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੀ ਡੈਟਾ ਜਾਂ ਚਾਰਜਿੰਗ ਕੇਬਲ।</string>
+    <string name="fragment_usb_find_cable_title">ਸਹੀ ਕੇਬਲ ਲੱਭੋ</string>
+    <string name="fragment_usb_initial_description">ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਤੋਂ ਡੈਟੇ ਨੂੰ ਇਸ ^1 ਵਿੱਚ ਤਬਦੀਲ ਕਰੋ।</string>
+    <string name="fragment_usb_initial_title">ਚੱਲੋ ਤੁਹਾਡੇ ਡੈਟੇ ਨੂੰ ਕਾਪੀ ਕਰੀਏ</string>
+    <string name="fragment_usb_legacy_description">"ਜ਼ਿਆਦਾਤਰ ਡੈਟੇ ਨੂੰ ਲਿਆਉਣ ਦਾ ਇਹ ਸਭ ਤੋਂ ਤੇਜ਼ ਤਰੀਕਾ ਹੈ।
+
+ਬਕਸੇ ਵਿੱਚ ਅਡਾਪਟਰ ਨੂੰ ਲੱਭੋ ਅਤੇ ਉਸਨੂੰ ਆਪਣੇ ਨਵੇਂ ਫ਼ੋਨ ਵਿੱਚ ਪਲੱਗ ਇਨ ਕਰੋ। ਇੱਕ ਕੇਬਲ ਦੀ ਵਰਤੋਂ ਨਾਲ ਫ਼ੋਨਾਂ ਨੂੰ ਕਨੈਕਟ ਕਰੋ, ਫਿਰ ਆਪਣੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਨੂੰ ਅਨਲੌਕ ਕਰੋ।"</string>
+    <string name="fragment_usb_other_ways">ਕਿਸੇ ਕੇਬਲ ਤੋਂ ਬਿਨਾਂ ਕਾਪੀ ਕਰੋ</string>
+    <string name="fragment_usb_plug_cable">ਆਪਣੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਵਿੱਚ ਕੇਬਲ ਲਗਾਓ</string>
+    <string name="fragment_waiting_title">ਬੱਸ ਇੱਕ ਸਕਿੰਟ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google ਸੰਪਰਕਾਂ ਨੂੰ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ</string>
+    <string name="google_contacts_static_text_off">Google ਸੰਪਰਕ ਹਾਲੇ ਵੀ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਜਾਣਗੇ</string>
+    <string name="header_set_backup_account">ਬੈਕਅਪ ਖਾਤਾ ਸੈੱਟ ਕਰੋ</string>
+    <string name="i_message_dialog_message">"iPhone® ਡੀਵਾਈਸ ਵਰਤੋਂਕਾਰਾਂ ਤੋਂ SMS ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਕਰਨਾ ਜਾਰੀ ਰੱਖਣ ਲਈ, ਤੁਹਾਨੂੰ iMessage® ਨੂੰ ਬੰਦ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ।
+
+ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਲਈ "<b>g.co/iMessageHelp</b>" 'ਤੇ ਜਾਓ।"</string>
+    <string name="instructions_fragment_title">"ਆਪਣੇ ਦੂਜੇ ਫ਼ੋਨ 'ਤੇ ਜਾਰੀ ਰੱਖੋ"</string>
+    <string name="ios_connected_fragment_description">"ਅਗਲੀ ਸਕ੍ਰੀਨ ’ਤੇ, ਤੁਸੀਂ ਆਪਣੇ Google ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ ਇੱਕ ਨਵਾਂ ਖਾਤਾ ਬਣਾ ਸਕਦੇ ਹੋ।
+
+ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ Google ਖਾਤਾ ਸ਼ਾਮਲ ਨਹੀਂ ਕਰਦੇ, ਤਾਂ ਤੁਹਾਡੇ iOS Calendar® ਵਰਤਾਰਿਆਂ ਦਾ ਤਬਾਦਲਾ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"</string>
+    <string name="ios_message_attachment_explanation">[ਤੁਹਾਡੀਆਂ ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ Google ਫ਼ੋਟੋਆਂ > ਡੀਵਾਈਸ ਫੋਲਡਰ > ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ ਵਿੱਚ ਹਨ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ਕੁਝ ਅਟੈਚਮੈਂਟਾਂ ਕਾਪੀ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ। ਤਬਦੀਲ ਕੀਤੀਆਂ ਗਈਆਂ ਅਟੈਚਮੈਂਟਾਂ, Google ਫ਼ੋਟੋਆਂ > ਡੀਵਾਈਸ ਫੋਲਡਰ > ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ ਵਿੱਚ ਲੱਭੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ]</string>
+    <string name="ios_message_attachment_placeholder">[ਅਟੈਚਮੈਂਟ ਨੂੰ Google ਫ਼ੋਟੋਆਂ > ਡੀਵਾਈਸ ਫੋਲਡਰ > ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ ਵਿੱਚ ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ]</string>
+    <string name="ios_message_attachments_placeholder">[ਅਟੈਚਮੈਂਟਾਂ ਨੂੰ Google ਫ਼ੋਟੋਆਂ > ਡੀਵਾਈਸ ਫੋਲਡਰ > ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ ਵਿੱਚ ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ]</string>
+    <string name="ios_migration_default_calendar_title">ਕੈਲੰਡਰ</string>
+    <string name="ios_migration_other_contact_relation">ਹੋਰ</string>
+    <string name="ios_photos_dialog_message">"iCloud® ਵਿੱਚ ਸਟੋਰ ਕੀਤੀਆਂ ਫ਼ੋਟੋਆਂ ਨੂੰ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।
+
+ਇਹਨਾਂ ਫ਼ੋਟੋਆਂ ਨੂੰ ਆਪਣੇ ^1ਵਿੱਚ ਲਿਆਉਣ ਲਈ, ਆਪਣੀ iPhone® ਡੀਵਾਈਸ 'ਤੇ Google ਫ਼ੋਟੋਆਂ ਐਪ ਸਥਾਪਤ ਕਰੋ, ਅਤੇ ਬੈਕਅੱਪ ਅਤੇ ਸਮਕਾਲੀਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ। ਹੋਰ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਲਈ "<b>g.co/datatransferhelp</b>" 'ਤੇ ਜਾਓ।"</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">ਖਾਤਾ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="lockscreen_smartdevice_action_next">ਅੱਗੇ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਸਥਾਪਨਾ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅਨਲੌਕ ਕਰੋ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ, ਤੁਹਾਨੂੰ ਸਥਾਪਨਾ ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣੇ ਸਕ੍ਰੀਨ ਲੌਕ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">ਆਪਣੇ ਸਕ੍ਰੀਨ ਲੌਕ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="manage_data_label">Google ਖਾਤਾ</string>
+    <string name="master_clear_title">ਫੈਕਟਰੀ ਡੈਟਾ ਮੁੜ-ਸੈੱਟ ਕਰੋ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">ਬੈਕਅੱਪ ਖਾਤਾ ਸੈੱਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="notification_content_title_set_backup_account">ਬੈਕਅੱਪ</string>
+    <string name="notification_ticker_set_backup_account">ਬੈਕਅਪ ਖਾਤਾ ਲੁੜੀਂਦਾ</string>
+    <string name="permgrouplab_calendar">ਕੈਲੰਡਰ</string>
+    <string name="permgrouplab_camera">ਕੈਮਰਾ</string>
+    <string name="permgrouplab_contacts">ਸੰਪਰਕ</string>
+    <string name="permgrouplab_location">ਟਿਕਾਣਾ</string>
+    <string name="permgrouplab_microphone">ਮਾਈਕ੍ਰੋਫੋਨ</string>
+    <string name="permgrouplab_phone">ਫੋਨ</string>
+    <string name="permgrouplab_sensors">ਸਰੀਰ ਸੰਵੇਦਕ</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">ਸਟੋਰੇਜ</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">"ਵਰਤਮਾਨ ਤੌਰ 'ਤੇ ਕੋਈ ਵੀ ਖਾਤਾ ਉਹਨਾਂ ਫ਼ੋਟੋਆਂ ਨੂੰ ਸਟੋਰ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ, ਜਿੰਨ੍ਹਾਂ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਗਿਆ ਹੈ"</string>
+    <string name="photos_backup_title">ਫ਼ੋਟੋਆਂ ਦਾ ਬੈਕਅੱਪ</string>
+    <string name="photos_filtering_option_all">ਸਭ</string>
+    <string name="photos_filtering_option_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">"ਕਾਪੀ ਕੀਤੇ ਸੰਪਰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ Google ਖਾਤੇ 'ਤੇ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਵੇਗਾ।"</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">"ਕਾਪੀ ਕੀਤੇ ਸੰਪਰਕਾਂ ਅਤੇ ਕੈਲੰਡਰਾਂ ਨੂੰ ਤੁਹਾਡੇ Google ਖਾਤੇ 'ਤੇ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਵੇਗਾ।"</string>
+    <string name="restore_choice_data_disclaimer_v2">"ਹੋ ਸਕਦਾ ਹੈ ਤੁਹਾਡਾ ਕੁਝ ਡੈਟਾ ਤੁਹਾਡੇ ^1 'ਤੇ ਕਾਪੀ ਨਾ ਕੀਤਾ ਜਾ ਸਕੇ। "<annotation id="restore_choice_data_disclaimer_learn_more">ਹੋਰ ਜਾਣੋ</annotation></string>
+    <string name="restore_choice_deselect_some_content">ਜਾਰੀ ਰੱਖਣ ਲਈ ਕੁਝ ਸਮੱਗਰੀ ਨੂੰ ਅਣ-ਚੁਣਿਆ ਕਰੋ</string>
+    <string name="restore_choice_learn_more_android">"ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਤੋਂ ਕੁਝ ਡੈਟਾ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ:
+
+ ● ਡਾਊਨਲੋਡ (ਜਿਵੇਂ ਕਿ PDF ਫ਼ਾਈਲਾਂ)
+
+ ● ਲੁਕੇ ਹੋਏ ਫੋਲਡਰਾਂ ਵਿੱਚ ਸਟੋਰ ਕੀਤੀਆਂ ਫ਼ੋਟੋਆਂ, ਵੀਡੀਓ ਅਤੇ ਸੰਗੀਤ
+
+ ● ਲਿਖਤ ਸੁਨੇਹੇ ਰਾਹੀਂ ਪ੍ਰਾਪਤ ਹੋਈਆਂ ਫ਼ੋਟੋਆਂ, ਵੀਡੀਓ ਅਤੇ ਸੰਗੀਤ
+
+ ● ਉਹ ਐਪਾਂ ਜੋ Google Play ਸਟੋਰ ਤੋਂ ਨਹੀਂ ਹਨ
+
+ ● ਐਪ ਡੈਟਾ (ਜੇਕਰ ਐਪ Android ਬੈਕਅੱਪ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰਦੀ ਹੈ)
+
+ ● ਕੁਝ ਖਾਸ ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ
+
+ ● Google ਖਾਤਿਆਂ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਖਾਤੇ (ਅਤੇ ਕੋਈ ਵੀ ਸਬੰਧਿਤ ਡੈਟਾ)
+
+ ● Google ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਸੇਵਾਵਾਂ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਸੰਪਰਕ ਅਤੇ ਕੈਲੰਡਰ
+
+ ● ਰਿੰਗਟੋਨਾਂ
+
+ ਹੋਰ ਵੇਰਵਿਆਂ ਅਤੇ ਇਸ ਡੈਟੇ ਵਿੱਚੋਂ ਕੁਝ ਨੂੰ ਕਾਪੀ ਕਰਨ ਵਿੱਚ ਮਦਦ ਲਈ, g.co/datatransferhelp 'ਤੇ ਜਾਓ।"</string>
+    <string name="restore_choice_learn_more_ios">"ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਫ਼ੋਨ ਤੋਂ ਕੁਝ ਡੈਟਾ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ:
+
+ ● ਐਪਾਂ ਅਤੇ ਐਪ ਡੈਟਾ
+
+ ● ਉਹ ਫ਼ੋਟੋਆਂ ਜੋ ਅਸਲ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਫ਼ੋਨ 'ਤੇ ਸਟੋਰ ਨਹੀਂ ਹਨ (ਉਦਾਹਰਨ ਲਈ, ਜੇਕਰ ਔਪਟੀਮਾਈਜ਼ ਸਟੋਰੇਜ ਸੈਟਿੰਗ ਚਾਲੂ ਹੈ, ਤਾਂ ਮੂਲ ਫ਼ੋਟੋਆਂ iCloud® ਵਿੱਚ ਸਟੋਰ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ)
+
+ ● iCloud® ਵਿੱਚ ਸਟੋਰ ਕੀਤੀਆਂ ਗਈਆਂ ਫ਼ਾਈਲਾਂ ਅਤੇ ਦਸਤਾਵੇਜ਼
+
+ ● ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ (ਜਿਵੇਂ ਕਿ Wi-Fi ਪਾਸਵਰਡ ਅਤੇ ਵਾਲਪੇਪਰ)
+
+ ● ਡਿਜੀਟਲ ਅਧਿਕਾਰ ਪ੍ਰਬੰਧਨ (DRM) ਸੁਰੱਖਿਆ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ ਸੰਗੀਤ (ਉਦਾਹਰਨ ਲਈ, iTunes® ਵਾਲਾ ਸੰਗੀਤ ਜੋ ਅਪ੍ਰੈਲ 2009 ਤੋਂ ਪਹਿਲਾਂ ਖਰੀਦਿਆ ਗਿਆ ਹੋਵੇ ਜਾਂ ਕਿਸੇ ਸੰਗੀਤ ਸਟ੍ਰੀਮਿੰਗ ਐਪ ਵਿੱਚ ਔਫਲਾਈਨ ਸੁਣਨ ਲਈ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ ਸੰਗੀਤ)
+
+ ● Google ਖਾਤਿਆਂ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਖਾਤੇ (ਅਤੇ ਕੋਈ ਵੀ ਸਬੰਧਿਤ ਡੈਟਾ)
+
+ ● Google ਜਾਂ iCloud® ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਸੇਵਾਵਾਂ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਸੰਪਰਕ ਅਤੇ ਕੈਲੰਡਰ
+
+ ● Safari® ਤੋਂ ਬੁੱਕਮਾਰਕ
+
+ iMessage® ਅਟੈਚਮੈਂਟਾਂ Google ਫ਼ੋਟੋਆਂ > ਡੀਵਾਈਸ ਫੋਲਡਰ > ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੋਣਗੀਆਂ।
+
+ ਹੋਰ ਵੇਰਵਿਆਂ ਅਤੇ ਇਸ ਡੈਟੇ ਵਿੱਚੋਂ ਕੁਝ ਨੂੰ ਕਾਪੀ ਕਰਨ ਵਿੱਚ ਮਦਦ ਲਈ, g.co/datatransferhelp 'ਤੇ ਜਾਓ।"</string>
+    <string name="restore_choice_not_enough_space">ਲੋੜੀਂਦੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ</string>
+    <string name="restore_choice_total_text">ਤੁਹਾਡੀ ਕੁੱਲ ਉਪਲਬਧ %1$s ਸਟੋਰੇਜ ਵਿੱਚੋਂ / ਤਬਾਦਲਾ %2$s ਵਿੱਚ ਹੋ ਜਾਵੇਗਾ</string>
+    <string name="restore_error_message">ਮੁੜ-ਬਹਾਲ ਕਰਨ ਦੌਰਾਨ ਕੁਝ ਗੜਬੜ ਹੋ ਗਈ। ਮਾਫ਼ ਕਰਨਾ।</string>
+    <string name="restore_item_appdata">ਐਪ ਡੈਟਾ</string>
+    <string name="restore_item_calendar">ਕੈਲੰਡਰ</string>
+    <string name="restore_item_calendar_ical_description">iOS® ਕੈਲੰਡਰ, Google ਕੈਲੰਡਰ</string>
+    <string name="restore_item_calendar_ical_off_description">Google ਕੈਲੰਡਰ ਹਾਲੇ ਵੀ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ</string>
+    <string name="restore_item_calendar_sync_description">Google ਕੈਲੰਡਰ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ਼</string>
+    <string name="restore_item_call_logs">ਕਾਲ ਇਤਿਹਾਸ</string>
+    <string name="restore_item_contacts">ਸੰਪਰਕ</string>
+    <string name="restore_item_device_settings_description">Wi-Fi ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ</string>
+    <string name="restore_item_downloads">ਡਾਊਨਲੋਡ</string>
+    <string name="restore_item_email">ਈਮੇਲ</string>
+    <string name="restore_item_email_description">Gmail ਨੂੰ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ</string>
+    <string name="restore_item_message_attachments">ਸੁਨੇਹਾ ਅਟੈਚਮੈਂਟਾਂ</string>
+    <string name="restore_item_messages">ਸੁਨੇਹੇ</string>
+    <string name="restore_item_music">ਸੰਗੀਤ</string>
+    <string name="restore_item_photos">ਫ਼ੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓ</string>
+    <string name="restore_item_settings">ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ</string>
+    <string name="restore_item_sms">SMS ਸੁਨੇਹੇ</string>
+    <string name="restore_item_will_be_synced_text">ਇਸਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ</string>
+    <string name="restore_progress_title">ਮੁੜ-ਬਹਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="small_time_duration">1 ਮਿੰਟ ਤੋਂ ਘੱਟ</string>
+    <string name="source_connected_description">ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="source_connected_title">ਤੁਹਾਡੇ %1$s ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="source_copying_description">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਚੁਣਿਆ ਗਿਆ ਡੈਟਾ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
+    <string name="source_copying_title">ਕਾਪੀ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="source_default_target_device_name">ਨਵੀਂ ਡੀਵਾਈਸ</string>
+    <string name="source_notification_device_disconnected">ਤੁਹਾਡੀ ਕੇਬਲ ਨੂੰ ਮੁੜ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="source_notification_text">ਫ਼ੋਨ ਤੋਂ ਫ਼ੋਨ ਤਬਾਦਲਾ ਜਾਰੀ ਹੈ</string>
+    <string name="source_notification_title">ਡੈਟਾ ਤਬਾਦਲਾ</string>
+    <string name="source_success_description">"ਆਪਣੇ %1$s 'ਤੇ ਸਥਾਪਨਾ ਪੂਰੀ ਕਰੋ।"</string>
+    <string name="source_success_screen_title">ਸਭ ਹੋ ਗਿਆ!</string>
+    <string name="source_unplugged_description">ਆਪਣੇ %1$s ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="source_unplugged_title">ਕੇਬਲ ਡਿਸਕਨੈਕਟ ਕੀਤੀ ਗਈ ਹੈ</string>
+    <string name="source_waiting_title">"ਆਪਣੇ %1$s 'ਤੇ ਸਥਾਪਨਾ ਜਾਰੀ ਰੱਖੋ"</string>
+    <string name="stop_copying_dialog_continue_button">ਖਾਰਜ ਕਰੋ</string>
+    <string name="stop_copying_dialog_message_before_transfer">"ਤੁਹਾਡਾ ਡੈਟਾ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ"</string>
+    <string name="stop_copying_dialog_message_during_transfer">"ਤੁਹਾਡਾ ਕੁਝ ਡੈਟਾ ਤੁਹਾਡੇ ਨਵੇਂ ਫ਼ੋਨ 'ਤੇ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ"</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">ਕਾਪੀ ਨਾ ਕਰੋ</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ਬੰਦ ਕਰੋ</string>
+    <string name="stop_copying_dialog_title_before_transfer">ਕੀ ਕਾਪੀ ਨਹੀਂ ਕਰਨਾ ਹੈ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">ਕੀ ਕਾਪੀ ਕਰਨਾ ਬੰਦ ਕਰਨਾ ਹੈ?</string>
+    <string name="storage_management_wear_descriptive_text">ਐਪਸ ਇੱਕ ਵੀਅਰੇਬਲ ਵਿੱਚ ਡੈਟਾ ਦੀ ਨਕਲ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਸਟੋਰੇਜ ਵਰਤਦੇ ਹਨ।</string>
+    <string name="storage_management_wear_manage_size_label">ਵੀਅਰੇਬਲ ਸਟੋਰੇਜ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="storage_management_wear_size_label">ਵੀਅਰੇਬਲ ਸਟੋਰੇਜ</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play ਸੇਵਾਵਾਂ ਵੱਲੋਂ ਵਰਤਿਆ ਕੁੱਲ ਡੈਟਾ, ਇੰਜਣ ਅਤੇ ਹੋਰ ਡੈਟਾ ਸਮੇਤ।</string>
+    <string name="storage_managment_clear_all_data">ਸਾਰਾ ਡੈਟਾ ਹਟਾਓ</string>
+    <string name="storage_managment_computing_size">ਹਿਸਾਬ ਲਗਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="storage_managment_icing_size_label">ਖੋਜ ਡੈਟਾ</string>
+    <string name="storage_managment_manage_icing_button">ਖੋਜ ਡੈਟਾ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="storage_managment_search_index_descriptive_text">"ਅਸੀਂ ਤੁਹਾਡੀਆਂ ਐਪਾਂ ਨੂੰ ਵਰਤੋਂ ਲਈ ਇੱਕ ਖੋਜ ਇੰਜਣ ਮੁਹੱਈਆ ਕਰਵਾਉਣ ਦੁਆਰਾ ਤੁਹਾਡੀ ਡੀਵਾਈਸ 'ਤੇ ਖੋਜ ਨੂੰ ਐਕਸੇਲਰੇਟ ਕਰਦੇ ਹਾਂ।"</string>
+    <string name="storage_managment_title">Google Play ਸੇਵਾਵਾਂ ਸਟੋਰੇਜ</string>
+    <string name="storage_managment_total_size_label">ਕੁੱਲ ਸਟੋਰੇਜ</string>
+    <string name="suw_back_button_label">ਪਿੱਛੇ</string>
+    <string name="suw_more_button_label">ਹੋਰ</string>
+    <string name="suw_next_button_label">ਅੱਗੇ</string>
+    <string name="target_default_source_device_model">ਪੁਰਾਣੀ ਡੀਵਾਈਸ</string>
+    <string name="target_device_not_supported_cant_continue_description">ਤੁਹਾਨੂੰ ਡੈਟਾ ਕਾਪੀ ਕਰਨ ਲਈ ਕਿਸੇ ਹੋਰ ਤਰੀਕੇ ਨੂੰ ਚੁਣਨ ਦੀ ਲੋੜ ਪਵੇਗੀ</string>
+    <string name="target_device_not_supported_cant_continue_title">ਦੂਜਾ ਫ਼ੋਨ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ</string>
+    <string name="target_device_not_supported_try_restarting_description">"ਕੇਬਲ ਡਿਸਕਨੈਕਟ ਕਰੋ ਅਤੇ ਆਪਣਾ ਪੁਰਾਣਾ ਫ਼ੋਨ ਮੁੜ-ਚਾਲੂ ਕਰੋ, ਫਿਰ ਕੇਬਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਆਪਣੇ Pixel 'ਤੇ ਨਿਰਦੇਸ਼ਾਂ ਦਾ ਅਨੁਸਰਣ ਕਰੋ।
+
+ਜੇਕਰ ਤੁਹਾਨੂੰ ਵਾਰ-ਵਾਰ ਇਹ ਗੜਬੜ ਪੇਸ਼ ਆ ਰਹੀ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਦੂਸਰੇ ਤਰੀਕੇ ਨਾਲ ਕਾਪੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਦੀ ਲੋੜ ਪੈ ਸਕਦੀ ਹੈ।"</string>
+    <string name="target_device_not_supported_try_restarting_title">ਹੋ ਸਕਦਾ ਹੈ ਫ਼ੋਨ ਸਮਰਥਿਤ ਨਾ ਹੋਵੇ</string>
+    <string name="target_smart_device_timeout_add_account">ਖਾਤਾ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="target_smart_device_timeout_description">ਜੇਕਰ ਤੁਸੀਂ ਚਾਹੋ, ਤਾਂ ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਹੱਥੀਂ ਸ਼ਾਮਲ ਕਰਨ ਨੂੰ ਅਜ਼ਮਾ ਸਕਦੇ ਹੋ</string>
+    <string name="target_smart_device_timeout_dismiss">ਖਾਰਜ ਕਰੋ</string>
+    <string name="target_smart_device_timeout_title">ਕੀ ਸਮੱਸਿਆ ਪੇਸ਼ ਆ ਰਹੀ ਹੈ?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ਫ਼ੋਨ ਕਨੈਕਟ ਹਨ</string>
+    <string name="toast_reconnect_cable">ਤੁਹਾਡੀ ਕੇਬਲ ਨੂੰ ਮੁੜ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="transfer_finished_fragment_title">ਅੰਤਿਮ ਰੂਪ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="transfer_summary_copied">ਡੈਟਾ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="transfer_summary_fragment_description">ਤੁਸੀਂ ਕੇਬਲ ਡਿਸਕਨੈਕਟ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="transfer_summary_fragment_finish">ਸਮਾਪਤ ਕਰੋ</string>
+    <string name="transfer_summary_fragment_title">ਤੁਹਾਡਾ ਫ਼ੋਨ ਲਗਭਗ ਤਿਆਰ ਹੈ</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">ਤੁਹਾਡੀਆਂ ਕੁਝ ਫ਼ੋਟੋਆਂ ਕਾਪੀ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ। <annotation id="transfer_summary_learn_more">ਹੋਰ ਜਾਣੋ</annotation></string>
+    <string name="transfer_summary_not_copied">ਡੈਟਾ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਗਿਆ</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ਨੂੰ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="transfer_summary_will_sync">ਡੈਟਾ ਸਥਾਪਨਾ ਤੋਂ ਬਾਅਦ ਸਮਕਾਲੀਕਿਰਤ ਹੋਵੇਗਾ</string>
+    <string name="transferring_fragment_calculating_remaining_time">ਬਾਕੀ ਬਚੇ ਸਮੇਂ ਦੀ ਗਣਨਾ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...</string>
+    <string name="transferring_fragment_header">ਕਾਪੀ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="transferring_fragment_remaining_time">%1$s ਬਾਕੀ</string>
+    <string name="trust_instructions_description">ਜਾਰੀ ਰੱਖਣ ਲਈ, ਆਪਣੀ iPhone® ਡੀਵਾਈਸ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਕਨੈਕਸ਼ਨ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰੋ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, ਅਤੇ iTunes Apple Inc. ਦੇ ਟ੍ਰੇਡਮਾਰਕ ਹਨ, ਜੋ U.S. ਅਤੇ ਹੋਰ ਦੇਸ਼ਾਂ ਵਿੱਚ ਪੰਜੀਕਿਰਤ ਹਨ।</string>
+</resources>

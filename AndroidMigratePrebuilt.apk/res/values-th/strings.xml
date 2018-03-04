@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="app_has_in_app_purchases">การซื้อในแอป</string>
+    <string name="app_has_permissions">สิทธิ์: %s</string>
+    <string name="app_has_runtime_permissions">แอปจะขอสิทธิ์</string>
+    <string name="app_picker_loading">กำลังค้นหาแอปที่พร้อมใช้งาน…</string>
+    <string name="app_picker_loading_toast">แอปที่พร้อมใช้งานจะโหลดในไม่ช้า</string>
+    <string name="app_picker_no_apps">ไม่มีแอปที่เลือกไว้</string>
+    <string name="app_picker_no_apps_found">ไม่พบแอป</string>
+    <string name="apps_permissions_described_v2">"ระบบสามารถจับคู่แอป iOS® ฟรียอดนิยมกับแอป Android เท่านั้น การซื้อในแอปส่วนใหญ่จะไม่โอนไปด้วย คุณสามารถค้นหาแอปเพิ่มเติมใน Play Store เมื่อตั้งค่าเสร็จสมบูรณ์แล้ว
+
+คุณอาจต้องให้สิทธิ์โดยชัดแจ้งในการเข้าถึงความสามารถหรือข้อมูลที่เจาะจงในอุปกรณ์แก่แอปบางแอป ระบบจะจัดระเบียบสิทธิ์โดยแบ่งเป็นกลุ่มสิทธิ์ การเลือกติดตั้งแอปเหล่านี้หมายความว่าคุณยอมรับสิทธิ์ที่เป็นส่วนหนึ่งของแต่ละกลุ่ม คำอธิบายของแต่ละกลุ่มสิทธิ์อยู่ทางด้านล่าง
+
+บางแอปอาจไม่ต้องใช้สิทธิ์ที่ยอมรับโดยชัดแจ้ง เมื่อคุณใช้แอปใดแอปหนึ่งเหล่านี้ คุณสามารถอนุญาตหรือปฏิเสธสิทธิ์ของแต่ละแอปก่อนที่แอปจะใช้ข้อมูลประเภทดังกล่าว
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">เครื่องมือสำหรับโอนข้อมูล</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">ไม่คัดลอก</string>
+    <string name="close_button_label">ปิด</string>
+    <string name="cloud_restore_app_picker_button">คืนค่า</string>
+    <string name="cloud_restore_app_picker_description_no_apps">คุณไม่มีแอปที่สำรองข้อมูลไว้เลย</string>
+    <string name="cloud_restore_app_picker_title">เลือกแอปที่จะคืนค่า</string>
+    <string name="common_cancel">ยกเลิก</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_ok">ตกลง</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d รายการใน iCloud®, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts, %1$d รายการใน iCloud®, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts, %1$d รายการในซิม, %2$d รายการในเครื่อง</string>
+    <string name="contacts_number_device_with_google">Google Contacts, %1$d รายการในเครื่อง</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d รายการใน iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacts, %1$d รายการในซิม</string>
+    <string name="copy_confirmation_description">ระบบจะคัดลอกข้อมูลอย่างเช่นบัญชี Google และแอปต่างๆ ไปยังโทรศัพท์เครื่องใหม่ของคุณ</string>
+    <string name="copy_confirmation_title">คัดลอกไปยังโทรศัพท์เครื่องใหม่ใช่ไหม</string>
+    <string name="d2d_app_picker_description_no_apps">เราไม่พบแอปใดๆ เลย</string>
+    <string name="d2d_app_picker_title">แอป</string>
+    <string name="d2d_migration_canceled_on_source">ยกเลิกการคัดลอกแล้ว</string>
+    <string name="data_copied_fragment_description">คัดลอกข้อมูลของคุณลงในโทรศัพท์เครื่องใหม่เสร็จแล้ว คุณสามารถถอดสายได้เลย</string>
+    <string name="data_copied_fragment_description_cancel">คุณเลือกที่จะหยุดคัดลอก จึงมีข้อมูลเพียงบางส่วนได้รับการคัดลอกไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_cancel_no_data">คุณเลือกที่จะหยุดคัดลอก จึงไม่มีการคัดลอกข้อมูลใดๆ ไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="data_copied_fragment_description_error">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกทุกอย่างได้</string>
+    <string name="data_copied_fragment_description_error_no_data">มีข้อผิดพลาดเกิดขึ้น เราจึงไม่สามารถคัดลอกข้อมูลได้</string>
+    <string name="data_copied_fragment_no_data_title">ไม่สามารถคัดลอก</string>
+    <string name="data_copied_fragment_some_data_title">คัดลอกข้อมูลได้บางส่วน</string>
+    <string name="data_copied_fragment_title">คัดลอกข้อมูลแล้ว</string>
+    <string name="device_not_supported_fragment_new_device">คุณเชื่อมต่ออยู่กับโทรศัพท์เครื่องใหม่ ในการดำเนินการต่อ ให้เชื่อมต่อใหม่กับเครื่องก่อนหน้า</string>
+    <string name="device_not_supported_fragment_new_device_title">เชื่อมต่อใหม่กับโทรศัพท์เครื่องก่อนหน้า</string>
+    <string name="device_not_supported_fragment_no_data_cable">สายประเภทนี้ไม่สามารถโอนข้อมูล เชื่อมต่อใหม่โดยใช้สายประเภทอื่นแล้วลองอีกครั้ง</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ลองใช้สายประเภทอื่น</string>
+    <string name="device_not_supported_fragment_retry_description">ตรวจสอบว่าโทรศัพท์เครื่องเก่าปลดล็อกอยู่ จากนั้นถอดสายและเชื่อมต่อสายใหม่อีกครั้ง</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">มีข้อผิดพลาดเกิดขึ้น</string>
+    <string name="device_not_supported_ios_supervised_description">เนื่องจากอุปกรณ์ iPhone® ของคุณอยู่ภายใต้การดูแล คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="device_picker_skip">ไม่คืนค่า</string>
+    <string name="durationDayHour">%1$d วัน %2$d ชม.</string>
+    <string name="durationDayHours">%1$d วัน %2$d ชั่วโมง</string>
+    <string name="durationDays">%1$d วัน</string>
+    <string name="durationHourMinute">%1$d ชั่วโมง %2$d นาที</string>
+    <string name="durationHourMinutes">%1$d ชั่วโมง %2$d นาที</string>
+    <string name="durationHours">%1$d ชั่วโมง</string>
+    <string name="durationMinute">%1$d นาที</string>
+    <string name="durationMinutes">%1$d นาที</string>
+    <string name="encryption_warning_fragment_description">"การเข้ารหัสข้อมูลสำรองเปิดอยู่ในอุปกรณ์ iPhone® ของคุณ หากคุณไม่ได้เปิดฟีเจอร์นี้เอง ผู้ดูแลระบบไอทีของคุณอาจเป็นผู้เปิดใช้งาน
+
+มีเพียงรูปถ่าย เพลง และวิดีโอเท่านั้นที่สามารถคัดลอกไปได้ สำหรับข้อมูลเพิ่มเติม โปรดไปที่ "<b>g.c/datatransferhelp</b></string>
+    <string name="encryption_warning_fragment_title">การเข้ารหัสข้อมูลสำรอง</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ฉันไม่พบอะแดปเตอร์</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"หา Quick Switch Adapter ที่บรรจุมาในกล่องเดียวกับ ^1
+
+เสียบสายเข้ากับอะแดปเตอร์"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">เชื่อมต่ออะแดปเตอร์และสาย</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ปลดล็อกโทรศัพท์เครื่องเก่า แล้วเสียบอะแดปเตอร์เข้ากับโทรศัพท์เครื่องนี้</string>
+    <string name="fragment_usb_connect_both_phones_title">เชื่อมต่อโทรศัพท์ทั้ง 2 เครื่อง</string>
+    <string name="fragment_usb_dialog_cancel_description">คุณจะโอนเนื้อหาส่วนใหญ่ไปได้ถ้าใช้สาย ถ้าสายในกล่องใช้ด้วยกันไม่ได้ ให้ลองใช้สายชาร์จหรือสายเชื่อมต่อข้อมูลที่ใช้กับโทรศัพท์เครื่องเก่าได้</string>
+    <string name="fragment_usb_dialog_cancel_title">คัดลอกข้อมูลด้วยวิธีอื่นไหม</string>
+    <string name="fragment_usb_dont_copy">ไม่คัดลอก</string>
+    <string name="fragment_usb_dont_have_cable">ฉันไม่มีสาย</string>
+    <string name="fragment_usb_dont_have_old_phone">หากไม่สามารถใช้โทรศัพท์เครื่องเดิม</string>
+    <string name="fragment_usb_find_cable_description">ใช้สายที่ใช้กับโทรศัพท์เครื่องเก่าได้ เช่น สายเชื่อมต่อข้อมูลหรือสายชาร์จ</string>
+    <string name="fragment_usb_find_cable_title">หาสายที่เหมาะสม</string>
+    <string name="fragment_usb_initial_description">คุณต้องใช้อุปกรณ์ Android หรือ iPhone® เครื่องเดิม โดยเปิดเครื่องและปลดล็อกไว้ตลอด</string>
+    <string name="fragment_usb_initial_title">รับข้อมูลจากโทรศัพท์เดิม</string>
+    <string name="fragment_usb_legacy_description">"นี่คือวิธีที่เร็วที่สุดในการนำข้อมูลมาให้ได้มากที่สุด
+
+หาอะแดปเตอร์ในกล่องและเสียบเข้ากับโทรศัพท์เครื่องใหม่ เชื่อมต่อโทรศัพท์ทั้งสองเข้าด้วยกันด้วยสาย แล้วปลดล็อกโทรศัพท์เครื่องเก่า"</string>
+    <string name="fragment_usb_missing_data_description">คุณสามารถตั้งค่า Pixel ต่อไปได้ในระหว่างการโอน</string>
+    <string name="fragment_usb_missing_data_title">คัดลอกข้อมูลกันเลย</string>
+    <string name="fragment_usb_other_ways">คัดลอกโดยไม่ใช้สาย</string>
+    <string name="fragment_usb_plug_cable">เสียบสายเข้ากับโทรศัพท์เครื่องเก่า</string>
+    <string name="fragment_waiting_title">รอสักครู่…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Contacts จะซิงค์</string>
+    <string name="google_contacts_static_text_off">Google Contacts จะยังคงซิงค์อยู่</string>
+    <string name="i_message_dialog_message">"หากต้องการรับข้อความ SMS จากผู้ใช้อุปกรณ์ iPhone® ต่อไป คุณต้องปิด iMessage®
+
+ไปที่ "<b>g.co/iMessageHelp</b> เพื่อดูวิธีการ</string>
+    <string name="instructions_fragment_title">ดำเนินการต่อบนโทรศัพท์อีกเครื่อง</string>
+    <string name="ios_connected_fragment_description">"บนหน้าจอถัดไป คุณสามารถลงชื่อเข้าใช้บัญชี Google หรือสร้างบัญชีใหม่ได้
+
+ หากคุณไม่เพิ่มบัญชี Google กิจกรรมของคุณใน iOS Calendar® จะไม่ถูกโอนไป"</string>
+    <string name="ios_message_attachment_explanation">[ไฟล์แนบของข้อความจะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ไม่สามารถคัดลอกไฟล์แนบบางรายการได้ ไฟล์แนบที่โอนแล้วจะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachment_placeholder">[ไฟล์แนบที่บันทึกไว้ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_message_attachments_placeholder">[ไฟล์แนบที่บันทึกไว้ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบของข้อความ]</string>
+    <string name="ios_migration_default_calendar_title">ปฏิทิน</string>
+    <string name="ios_migration_other_contact_relation">อื่นๆ</string>
+    <string name="ios_photos_dialog_message">"รูปภาพที่จัดเก็บใน iCloud® ไม่สามารถคัดลอกได้
+
+หากต้องการนำรูปเหล่านี้ไปไว้ใน ^1 ให้ติดตั้งแอป Google Photosในอุปกรณ์ iPhone® และเปิด \"สำรองข้อมูลและซิงค์\" ไปที่ "<b>g.co/datatransferhelp</b> เพื่อดูคำแนะนำเพิ่มเติม</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">ถัดไป</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">ทั้งหมด</string>
+    <string name="photos_filtering_option_none">ไม่มี</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">รายชื่อติดต่อที่คัดลอกจะบันทึกลงในบัญชี Google ของคุณ</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">รายชื่อติดต่อและปฏิทินที่คัดลอกจะบันทึกลงในบัญชี Google ของคุณ</string>
+    <string name="restore_choice_data_disclaimer_v2">ข้อมูลบางส่วนของคุณอาจไม่ได้คัดลอกไปยัง ^1 <annotation id="restore_choice_data_disclaimer_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="restore_choice_deselect_some_content">ยกเลิกการเลือกเนื้อหาบางอย่างเพื่อดำเนินการต่อ</string>
+    <string name="restore_choice_learn_more_android">"ไม่สามารถคัดลอกข้อมูลบางอย่างต่อไปนี้จากโทรศัพท์เครื่องเก่าของคุณโดยอัตโนมัติได้:
+
+ ● การดาวน์โหลด (เช่นไฟล์ PDF)
+
+ ● รูปภาพ วิดีโอ และเพลงที่จัดเก็บอยู่ในโฟลเดอร์ที่ซ่อนไว้
+
+ ● รูปภาพ วิดีโอ และเพลงที่ได้รับทางข้อความ
+
+ ● แอปที่ไม่ได้มาจาก Google Play Store
+
+ ● ข้อมูลในแอป (หากแอปไม่ได้ใช้การสำรองข้อมูลของ Android)
+
+ ● การตั้งค่าบางอย่างของอุปกรณ์
+
+ ● บัญชีนอกเหนือจากบัญชี Google (และข้อมูลที่เชื่อมโยงใดๆ)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google
+
+ ● เสียงเรียกเข้า
+
+ สำหรับรายละเอียดเพิ่มเติมและความช่วยเหลือในการคัดลอกข้อมูลบางอย่าง โปรดไปที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios">"ข้อมูลบางส่วนจากโทรศัพท์เครื่องเก่าของคุณไม่สามารถคัดลอกโดยอัตโนมัติ ซึ่งได้แก่:
+
+ ● แอปและข้อมูลในแอป
+
+ ● รูปภาพที่ต้นฉบับไม่ได้เก็บไว้ในโทรศัพท์ (เช่น หากเปิดการตั้งค่า \"เพิ่มประสิทธิภาพพื้นที่จัดเก็บข้อมูล\" รูปต้นฉบับจะจัดเก็บอยู่ใน iCloud®)
+
+ ● ไฟล์และเอกสารที่จัดเก็บใน iCloud®
+
+ ● การตั้งค่าอุปกรณ์ (เช่น รหัสผ่าน Wi-Fi และวอลเปเปอร์)
+
+ ● เพลงที่ได้รับการคุ้มครองจากการจัดการสิทธิ์ดิจิทัล (DRM) (เช่น เพลงจาก iTunes® ที่ซื้อก่อนเดือนเมษายน 2009 หรือเพลงที่ดาวน์โหลดไว้ฟังแบบออฟไลน์จากแอปสตรีมเพลง)
+
+ ● บัญชีที่นอกเหนือจากบัญชี Google (และข้อมูลที่เชื่อมโยงใดๆ)
+
+ ● รายชื่อติดต่อและปฏิทินที่ซิงค์กับบริการที่ไม่ใช่ Google หรือ iCloud®
+
+ ● บุ๊กมาร์กจาก Safari®
+
+ ไฟล์แนบจาก iMessage® จะอยู่ใน Google Photos > โฟลเดอร์อุปกรณ์ > ไฟล์แนบในข้อความ
+
+ สำหรับรายละเอียดเพิ่มเติมและความช่วยเหลือในการคัดลอกข้อมูลบางอย่างข้างต้น โปรดไปที่ g.co/datatransferhelp"</string>
+    <string name="restore_choice_not_enough_space">พื้นที่จัดเก็บไม่พอ</string>
+    <string name="restore_choice_total_text">จากพื้นที่ว่าง %1$s /ใช้เวลาโอน %2$s</string>
+    <string name="restore_item_appdata">ข้อมูลแอป</string>
+    <string name="restore_item_calendar">ปฏิทิน</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google ปฏิทิน</string>
+    <string name="restore_item_calendar_ical_off_description">Google ปฏิทินจะยังซิงค์</string>
+    <string name="restore_item_calendar_sync_description">Google ปฏิทินจะซิงค์</string>
+    <string name="restore_item_call_logs">ประวัติการโทร</string>
+    <string name="restore_item_contacts">รายชื่อติดต่อ</string>
+    <string name="restore_item_device_settings_description">รหัสผ่าน Wi-Fi และอื่นๆ</string>
+    <string name="restore_item_downloads">การดาวน์โหลด</string>
+    <string name="restore_item_email">อีเมล</string>
+    <string name="restore_item_email_description">Gmail จะซิงค์</string>
+    <string name="restore_item_message_attachments">ไฟล์แนบของข้อความ</string>
+    <string name="restore_item_messages">ข้อความ</string>
+    <string name="restore_item_music">เพลง</string>
+    <string name="restore_item_photos">รูปภาพและวิดีโอ</string>
+    <string name="restore_item_settings">การตั้งค่าอุปกรณ์</string>
+    <string name="restore_item_sms">ข้อความ SMS</string>
+    <string name="restore_item_will_be_synced_text">ข้อมูลนี้จะซิงค์กับโทรศัพท์ของคุณ</string>
+    <string name="restore_progress_title">กำลังคืนค่า...</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="small_time_duration">น้อยกว่า 1 นาที</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">ปิด</string>
+    <string name="stop_copying_dialog_message_before_transfer">ยังไม่ได้คัดลอกข้อมูลของคุณไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_message_during_transfer">ยังไม่ได้คัดลอกข้อมูลบางส่วนของคุณไปยังโทรศัพท์เครื่องใหม่</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">ไม่คัดลอก</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">หยุด</string>
+    <string name="stop_copying_dialog_title_before_transfer">ไม่คัดลอกใช่ไหม</string>
+    <string name="stop_copying_dialog_title_during_transfer">หยุดคัดลอกไหม</string>
+    <string name="suw_back_button_label">กลับ</string>
+    <string name="suw_more_button_label">เพิ่มเติม</string>
+    <string name="suw_next_button_label">ถัดไป</string>
+    <string name="target_default_source_device_model">อุปกรณ์เก่า</string>
+    <string name="target_device_not_supported_cant_continue_description">คุณต้องเลือกการคัดลอกข้อมูลวิธีอื่น</string>
+    <string name="target_device_not_supported_cant_continue_title">ไม่สนับสนุนโทรศัพท์อื่น</string>
+    <string name="target_device_not_supported_try_restarting_description">"ถอดสายแล้วรีสตาร์ทโทรศัพท์เครื่องเก่า จากนั้นเสียบสายใหม่และทำตามวิธีการในโทรศัพท์ Pixel
+
+หากยังเห็นข้อผิดพลาดนี้อยู่ คุณอาจต้องลองคัดลอกด้วยวิธีอื่น"</string>
+    <string name="target_device_not_supported_try_restarting_title">อาจไม่รองรับโทรศัพท์</string>
+    <string name="target_pixelmigrate_notification_description">พร้อมใช้งานหรืออยู่ระหว่างดำเนินการ</string>
+    <string name="target_pixelmigrate_notification_title">การโอนข้อมูล</string>
+    <string name="target_smart_device_timeout_add_account">เพิ่มบัญชี</string>
+    <string name="target_smart_device_timeout_description">คุณอาจลองเพิ่มบัญชีด้วยตนเองหากต้องการ</string>
+    <string name="target_smart_device_timeout_dismiss">ปิด</string>
+    <string name="target_smart_device_timeout_title">หากพบปัญหา</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">เชื่อมต่อโทรศัพท์แล้ว</string>
+    <string name="toast_reconnect_cable">เชื่อมต่อสายอีกครั้ง</string>
+    <string name="transfer_finished_fragment_title">กำลังเพิ่มการดำเนินการขั้นสุดท้าย...</string>
+    <string name="transfer_summary_copied">คัดลอกข้อมูลแล้ว</string>
+    <string name="transfer_summary_fragment_description">คุณสามารถถอดสายออกได้</string>
+    <string name="transfer_summary_fragment_finish">เสร็จสิ้น</string>
+    <string name="transfer_summary_fragment_title">โทรศัพท์เกือบพร้อมใช้งานแล้ว</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">ไม่ได้คัดลอกรูปภาพบางรายการ <annotation id="transfer_summary_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="transfer_summary_not_copied">ไม่ได้คัดลอกข้อมูล</string>
+    <string name="transfer_summary_partial">คัดลอกแล้ว %1$s/%2$s รายการ</string>
+    <string name="transfer_summary_will_sync">ข้อมูลจะซิงค์หลังการตั้งค่า</string>
+    <string name="transferring_fragment_calculating_remaining_time">กำลังคำนวณเวลาที่เหลือ...</string>
+    <string name="transferring_fragment_header">กำลังคัดลอก...</string>
+    <string name="transferring_fragment_remaining_time">เหลืออีก %1$s</string>
+    <string name="trust_instructions_description">หากต้องการดำเนินการต่อ ให้ตรวจสอบอุปกรณ์ iPhone® และอนุมัติการเชื่อมต่อ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari และ iTunes เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+</resources>

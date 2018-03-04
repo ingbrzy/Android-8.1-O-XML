@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Din bedømmelse: %1$s stjerner</item>
+        <item quantity="one">Din bedømmelse: %1$s stjerner</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d anmeldelser</item>
+        <item quantity="one">%1$d anmeldelser</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d anmeldelser for stjernebedømmelsen %2$d</item>
+        <item quantity="one">%1$d anmeldelser for stjernebedømmelsen %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Installationer er sat på pause</item>
+        <item quantity="one">Installationen er sat på pause</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Applikationerne blev scannet for %1$d dage siden</item>
+        <item quantity="one">Applikationerne blev scannet for %1$d dag siden</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d skadelige apps blev fjernet. %2$s.</item>
+        <item quantity="one">%1$d skadelig app blev fjernet. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d opdateringer skal godkendes</item>
+        <item quantity="one">%1$d opdatering skal godkendes</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nye opdateringer</item>
+        <item quantity="one">%1$d nye opdateringer</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d tilgængelige opdateringer</item>
+        <item quantity="one">%1$d tilgængelige opdateringer</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Opdater alle</item>
+        <item quantity="one">Opdater alle</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d applikationer blev opdateret</item>
+        <item quantity="one">%1$d applikation blev opdateret</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjerner</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjerner</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjerner – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjerner – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjerner – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjerner – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d brugere fandt denne anmeldelse nyttig. Markér kommentaren som nyttig</item>
+        <item quantity="one">%1$d brugere fandt denne anmeldelse nyttig. Markér kommentaren som nyttig</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d brugere fandt denne anmeldelse nyttig. Fjern markeringen af kommentaren som nyttig</item>
+        <item quantity="one">%1$d brugere fandt denne anmeldelse nyttig. Fjern markeringen af kommentaren som nyttig</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Har givet &lt;b>%1$s stjerner&lt;/b></item>
+        <item quantity="one">Har givet &lt;b>%1$s stjerner&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">i %1$s anmeldelser</item>
+        <item quantity="one">i %1$s anmeldelse</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s stjerner&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s stjerner&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Sidst brugt for %1$d dage siden</item>
+        <item quantity="one">Sidst brugt for %1$d dag siden</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Gendan de %1$d valgte apps</item>
+        <item quantity="one">Gendan %1$d app, der er valgt</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">stjerner</item>
+        <item quantity="one">stjerner</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Applikationerne installeres snart.</item>
+        <item quantity="one">Appen installeres snart.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Appopdateringerne installeres snart.</item>
+        <item quantity="one">Appopdateringen installeres snart.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Sidst brugt for %1$d dage siden</item>
+        <item quantity="one">Sidst brugt for %1$d dag siden</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Sidst brugt for %1$d måneder siden</item>
+        <item quantity="one">Sidst brugt for %1$d måned siden</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Slet apps, du ikke længere behøver, for at installere apps eller opdateringer på denne enhed. Du kan også frigøre plads ved at slette mediefiler under Indstillinger for lager.</item>
+        <item quantity="one">Slet apps, du ikke længere behøver, for at installere en app eller opdatering på denne enhed. Du kan også frigøre plads ved at slette mediefiler under Indstillinger for lager.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Slet apps, du ikke længere behøver, for at installere apps eller opdateringer på denne enhed. Du kan også frigøre plads ved at slette mediefiler under &lt;a href=\"\">Indstillinger > Lager&lt;/a>.</item>
+        <item quantity="one">Slet apps, du ikke længere behøver, for at installere en app eller opdatering på denne enhed. Du kan også frigøre plads ved at slette mediefiler under &lt;a href=\"\">Indstillinger > Lager&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Slet apps, du ikke længere behøver, for at installere apps eller opdateringer på denne enhed. Du kan også frigøre plads ved at slette mediefiler under Indstillinger > Lager.</item>
+        <item quantity="one">Slet apps, du ikke længere behøver, for at installere en app eller opdatering på denne enhed. Du kan også frigøre plads ved at slette mediefiler under Indstillinger > Lager.</item>
+    </plurals>
+</resources>

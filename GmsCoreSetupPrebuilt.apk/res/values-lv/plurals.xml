@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Visas lietotnes (%1$d)</item>
+        <item quantity="zero">Visas lietotnes (%1$d)</item>
+        <item quantity="one">Visas lietotnes (%1$d)</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Atlasītas %1$d lietotnes</item>
+        <item quantity="zero">Atlasītas %1$d lietotnes</item>
+        <item quantity="one">Atlasīta %1$d lietotne</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d lietotnes ir jau instalētas</item>
+        <item quantity="zero">%1$d lietotnes ir jau instalētas</item>
+        <item quantity="one">%1$d lietotne ir jau instalēta</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Jūsu dublējumā ir %1$d lietotnes. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+        <item quantity="zero">Jūsu dublējumā ir %1$d lietotnes. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+        <item quantity="one">Jūsu dublējumā ir %1$d lietotne. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontaktpersonas ierīcē</item>
+        <item quantity="zero">%1$d kontaktpersonu ierīcē</item>
+        <item quantity="one">%1$d kontaktpersona ierīcē</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d — SIM kartē, %2$d — ierīcē</item>
+        <item quantity="zero">%1$d — SIM kartē, %2$d — ierīcē</item>
+        <item quantity="one">%1$d — SIM kartē, %2$d — ierīcē</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d kontaktpersonas pakalpojumā iCloud®</item>
+        <item quantity="zero">%1$d kontaktpersonas pakalpojumā iCloud®</item>
+        <item quantity="one">%1$d kontaktpersona pakalpojumā iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kontaktpersonas SIM kartē</item>
+        <item quantity="zero">%1$d kontaktpersonu SIM kartē</item>
+        <item quantity="one">%1$d kontaktpersona SIM kartē</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Tika atrastas %1$d lietotnes. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+        <item quantity="zero">Tika atrastas %1$d lietotnes. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+        <item quantity="one">Tika atrasta %1$d lietotne. Izvēlieties dažas vai pārvietojiet tās visas.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Mēs atradām atbilstību %1$d jūsu iOS® lietotnēm. Instalējot katru lietotni, jūs piekrītat tās atļaujām. &lt;annotation id="apps_permissions_learn_more">Uzziniet vairāk&lt;/annotation>.</item>
+        <item quantity="zero">Mēs atradām atbilstību %1$d jūsu iOS® lietotnēm. Instalējot katru lietotni, jūs piekrītat tās atļaujām. &lt;annotation id="apps_permissions_learn_more">Uzziniet vairāk&lt;/annotation>.</item>
+        <item quantity="one">Mēs atradām atbilstību %1$d jūsu iOS® lietotnei. Instalējot katru lietotni, jūs piekrītat tās atļaujām. &lt;annotation id="apps_permissions_learn_more">Uzziniet vairāk&lt;/annotation>.</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Atlikuši %1$d vienumi…</item>
+        <item quantity="zero">Atlikuši %1$d vienumi…</item>
+        <item quantity="one">Atlicis %1$d vienums…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Uzmanību! Šajā pasākumā vairs nepiedalīsies tālāk norādītie dalībnieki:</item>
+        <item quantity="zero">Uzmanību! Šajā pasākumā vairs nepiedalīsies tālāk norādītie dalībnieki:</item>
+        <item quantity="one">Uzmanību! Šajā pasākumā vairs nepiedalīsies tālāk norādītie dalībnieki:</item>
+    </plurals>
+</resources>

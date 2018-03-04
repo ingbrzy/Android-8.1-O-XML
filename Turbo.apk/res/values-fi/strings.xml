@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Tyhjennä haku.</string>
+    <string name="place_autocomplete_search_hint">Haku</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string name="anomaly_entry_system">Android-järjestelmä</string>
+    <string name="background_battery_usage_description">Korkea virran taustakulutus havaittu</string>
+    <string name="battery_history_days">%1$d pv %2$d t %3$d min %4$d s</string>
+    <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
+    <string name="battery_history_minutes">%1$d min %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d pv %2$d t %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d t %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Ilmoitus akun loppumisesta</string>
+    <string name="time_remaining_warning_subtext">Noin %1$s jäljellä käytön perusteella</string>
+    <string name="time_remaining_warning_text">Akku voi loppua pian.</string>
+    <string name="usage_alerts_empty_state">Ei ilmoituksia akun täyteen lataamisen jälkeen</string>
+    <string name="usage_alerts_title">Käyttöilmoitukset</string>
+</resources>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_capital_off">ВИМК.</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="app_has_in_app_purchases">Покупки через додаток</string>
+    <string name="app_has_permissions">Дозволи: %s</string>
+    <string name="app_has_runtime_permissions">Додаток запитуватиме дозволи</string>
+    <string name="app_picker_app_already_installed_toast">Цей додаток уже встановлено</string>
+    <string name="app_picker_loading">Пошук доступних додатків…</string>
+    <string name="app_picker_loading_toast">Доступні додатки невдовзі завантажаться</string>
+    <string name="app_picker_no_apps">Додатки не вибрано</string>
+    <string name="app_picker_no_apps_found">Немає додатків</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Покупки через додаток не буде перенесено на пристрій ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Деякі покупки через додаток можуть не перенестися на пристрій ^1.</string>
+    <string name="apps_permissions_described_v2">"Лише для популярних безкоштовних додатків iOS® можна знайти відповідні додатки Android. Більшість покупок через додатки не буде перенесено. Після налаштування більше додатків можна знайти в Play Маркеті.
+
+Можливо, деяким додаткам потрібно буде надати доступ до певних функцій або інформації на пристрої. Дозволи впорядковано за групами. Установлюючи ці додатки, ви приймаєте дозволи в кожній групі. Опис груп дозволів наведено нижче.
+
+Для деяких додатків не потрібно приймати дозволи. Ви можете надавати або відхиляти окремі дозволи додатків.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Установлюючи кожний додаток, ви приймаєте його дозволи. <annotation id="apps_permissions_learn_more">Докладніше</annotation></string>
+    <string name="auto_restore_summary">Коли додаток перевстановлюється, відновлювати налаштування та дані з резервних копій</string>
+    <string name="auto_restore_title">Автоматичне відновлення</string>
+    <string name="backup_configure_account_default_summary">Зараз в облікових записах немає резервних копій даних</string>
+    <string name="backup_configure_account_title">Резервний обліковий запис</string>
+    <string name="backup_data_summary">Створювати резервні копії даних додатків, паролів Wi-Fi та інших налаштувань на Google Диску</string>
+    <string name="backup_data_summary_full">"Автоматично створюйте резервні копії даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і даних додатків (як-от налаштувань і збережених файлів). Це можна робити віддалено.
+
+Коли ви вмикаєте автоматичне резервне копіювання, дані пристроїв і додатків віддалено зберігаються через певні проміжки часу. Дані додатків – це будь-яка інформація, яка в них зберігається (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії."</string>
+    <string name="backup_data_title">Завантажувати на Google Диск</string>
+    <string name="backup_erase_dialog_message">Припинити резервне копіювання паролів Wi-Fi, закладок, інших налаштувань і даних додатків, а також стерти всі копії з Google Диска?</string>
+    <string name="backup_erase_dialog_message_full">Припинити резервне копіювання даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і даних додатків (як-от налаштувань і збережених файлів), а також стерти всі копії з Google Диска?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Не вдалося відкрити налаштування фотографій</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Що відбувається, коли ввімкнено автоматичне резервне копіювання
+
+ ● Налаштування пристрою та дані додатків періодично зберігаються в приватній папці на Google Диску. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення й фото.
+
+ Великі файли або файли, які розробники виключили з цієї служби, не копіюються.
+
+ ● Фото й відео синхронізуються з бібліотекою Google Фото, щоб ви могли шукати, редагувати, надсилати та видаляти їх на всіх своїх пристроях.
+
+ За умовчанням фото й відео завантажуються з повною роздільною здатністю. Вони не займають квоту пам’яті на Диску.
+
+ ● Контакти й пов’язані дані з цього пристрою синхронізуються з Контактами Google. За допомогою додатка Контакти Google ви можете шукати, редагувати, надсилати та видаляти контакти на всіх своїх пристроях.
+
+ ● Записи календаря й пов’язані дані з цього пристрою синхронізуються з Календарем Google. За допомогою додатка Календар Google ви можете шукати, редагувати, надсилати та видаляти контакти на всіх своїх пристроях.
+
+ Резервні копії даних не займають квоту пам’яті на Диску."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Переваги автоматичного резервного копіювання
+
+ ● Налаштування пристрою та дані додатків періодично зберігаються в приватну папку на Google Диску. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема потенційно конфіденційні дані, як-от контакти, повідомлення та фотографії.
+
+ Не створюються резервні копії великих файлів або файлів, які виключили розробники.
+
+ ● Контакти та пов’язані з ними дані з цього пристрою синхронізуються з Контактами Google. У додатку Контакти Google ви можете шукати, редагувати, видаляти або надсилати контакти на всіх своїх пристроях.
+
+ ● Записи календаря та пов’язані з ними дані на цьому пристрої синхронізуються з Google Календарем. У додатку Google Календар ви можете шукати, редагувати, видаляти та надсилати контакти на всіх своїх пристроях.
+
+ Резервні копії даних не зменшують обсяг пам’яті на вашому Диску."</string>
+    <string name="backup_opt_in_backup_description_extra">Календар, контакти, фото й відео синхронізуються з вашим обліковим записом Google. Ними можна користуватися в усіх службах.</string>
+    <string name="backup_opt_in_backup_description_v2">Завдяки автоматичному резервному копіюванню ви можете будь-коли легко відновити свої дані або перенести їх на новий телефон. <annotation id="backup_opt_in_learn_more">Докладніше</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Вимкнеться резервне копіювання:
+
+додатків і їх даних;
+історії викликів;
+налаштувань пристрою;
+фотографій і відео;
+SMS.
+
+Календар і контакти продовжуватимуть синхронізуватися з обліковим записом Google. Коли налаштування завершиться, ви зможете змінити параметри синхронізації в меню "<annotation id="backup_opt_in_settings_instructions">Налаштування > Облікові записи > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Вимкнути резервне копіювання?</string>
+    <string name="backup_opt_in_backup_list">"додатки та їх дані
+календар
+історію дзвінків
+контакти
+налаштування пристрою (зокрема паролі Wi-Fi)
+фото й відео
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Резервна копія включає:</string>
+    <string name="backup_opt_in_backup_title">Створити резервні копії на Google Диску</string>
+    <string name="backup_opt_in_disable_backup">Вимкнути резервне копіювання</string>
+    <string name="backup_photos_update">Оновіть Google Фото</string>
+    <string name="backup_settings_activity_backup_title">Резервне копіювання</string>
+    <string name="backup_settings_activity_title">Резервне копіювання та скидання</string>
+    <string name="byteShort">б</string>
+    <string name="cancel_copy_button_text">Не копіювати</string>
+    <string name="close_button_label">Закрити</string>
+    <string name="cloud_restore_app_picker_button">Відновити</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Немає резервних копій додатків</string>
+    <string name="cloud_restore_app_picker_title">Виберіть додатки для відновлення</string>
+    <string name="common_accept">Прийняти</string>
+    <string name="common_add_account_label">Додати обліковий запис</string>
+    <string name="common_ads_settings_title">Реклама</string>
+    <string name="common_agree">Прийняти</string>
+    <string name="common_app_name">Сервіси Google Play</string>
+    <string name="common_asm_preferences_settings_title">Налаштування облікового запису</string>
+    <string name="common_asm_privacy_settings_title">Особисте та конфіденційність</string>
+    <string name="common_asm_security_settings_title">Вхід і безпека</string>
+    <string name="common_audience_edit_button_label">Редагувати</string>
+    <string name="common_cancel">Скасувати</string>
+    <string name="common_cannot_start_hangouts_security_exception">Не вдалося запустити Hangouts (помилка дозволу).</string>
+    <string name="common_car_permission_desc">Доступ до автомобільної служби.</string>
+    <string name="common_car_permission_label">Автомобільна служба</string>
+    <string name="common_chips_label_empty_circles">Без кіл</string>
+    <string name="common_chips_label_extended_circles">Розширені кола</string>
+    <string name="common_chips_label_only_you">Лише ви</string>
+    <string name="common_chips_label_public">Загальнодоступна</string>
+    <string name="common_chips_label_your_circles">Ваші кола</string>
+    <string name="common_choose_account_label">Виберіть обліковий запис</string>
+    <string name="common_clear_app_data_menu_item">Очистити дані програми</string>
+    <string name="common_connected">Під’єднано</string>
+    <string name="common_connected_apps_settings_title">Підключені додатки</string>
+    <string name="common_connecting">З’єднання…</string>
+    <string name="common_continue">Продовжити</string>
+    <string name="common_disagree">Відхилити</string>
+    <string name="common_disconnect">Від’єднати</string>
+    <string name="common_done">Готово</string>
+    <string name="common_fitness_settings_title">Google Фітнес</string>
+    <string name="common_from">Від:</string>
+    <string name="common_games_settings_title">Play Ігри</string>
+    <string name="common_get_started">Почати</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Увімкнути</string>
+    <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Помилка</string>
+    <string name="common_google_play_services_install_button">Установити</string>
+    <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+    <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
+    <string name="common_google_play_services_updating_text">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="common_google_play_services_updating_title">Сервіси Google Play оновлюються</string>
+    <string name="common_google_play_services_wear_update_text">Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Установлено сервіси Google Play із неправильною архітектурою.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Установлено сервіси Google Play з архітектурою (%1$s), яка відрізняється від архітектури вашого пристрою (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Неправильна архітектура</string>
+    <string name="common_google_settings">Налаштування Google</string>
+    <string name="common_google_settings_account">Обліковий запис</string>
+    <string name="common_google_settings_credentials_title">Smart Lock для паролів</string>
+    <string name="common_google_settings_developer">Для розробників</string>
+    <string name="common_google_settings_services">Сервіси</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Установити</string>
+    <string name="common_learn_more">Докладніше</string>
+    <string name="common_list_apps_menu_help">Довідка</string>
+    <string name="common_list_apps_menu_help_and_feedback">Довідка й відгуки</string>
+    <string name="common_loading">Завантаження…</string>
+    <string name="common_location_settings_title">Місцезнаходження</string>
+    <string name="common_magictether_settings_title">Миттєва точка доступу</string>
+    <string name="common_maps_settings_title">Карти та Latitude</string>
+    <string name="common_mdm_feature_name">Диспетчер пристрою Android</string>
+    <string name="common_missing_url_viewer">Немає засобу перегляду зовнішньої URL-адреси.</string>
+    <string name="common_more_options">Більше опцій</string>
+    <string name="common_networking_settings_title">Мережі</string>
+    <string name="common_no_browser_for_restricted_url">Обмежений доступ. Веб-переглядач не знайдено.</string>
+    <string name="common_no_devices_found">Пристроїв не знайдено</string>
+    <string name="common_no_network">Недоступно, оскільки пристрій офлайн</string>
+    <string name="common_no_thanks">Ні, дякую</string>
+    <string name="common_not_now">Не зараз</string>
+    <string name="common_off">Вимк.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Увімк.</string>
+    <string name="common_open_on_phone">Відкрити на телефоні</string>
+    <string name="common_open_source_licenses">Ліцензії відкритого коду</string>
+    <string name="common_people_settings_title">Контакти</string>
+    <string name="common_permissions_enable_in_settings">Увімкнути</string>
+    <string name="common_permissions_missing_end">Щоб продовжити, відкрийте \"Налаштування > Дозволи\" та надайте потрібні дозволи.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Щоб увімкнути, перейдіть у
+Налаштування >
+Дозволи >
+Сервіси Google Play"</string>
+    <string name="common_permissions_missing_start">Щоб додаток працював належним чином, сервісам Google Play потрібно надати такі дозволи:</string>
+    <string name="common_permissions_open_settings">Налаштування</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Політика конфіденційності</string>
+    <string name="common_restore">Відновити</string>
+    <string name="common_retry">Повторити</string>
+    <string name="common_search_settings_title">Пошук</string>
+    <string name="common_security_ootp_setting_title">Код безпеки</string>
+    <string name="common_security_settings_title">Безпека</string>
+    <string name="common_send">Надіслати</string>
+    <string name="common_sending">Надсилання…</string>
+    <string name="common_set_up_nearby_device_settings_title">Налаштувати пристрій поруч</string>
+    <string name="common_settings">Налаштування</string>
+    <string name="common_signin_button_text">Увійти</string>
+    <string name="common_signin_button_text_long">Увійти в облік. запис Google</string>
+    <string name="common_something_went_wrong">Сталася помилка</string>
+    <string name="common_system_info">Інформація про систему</string>
+    <string name="common_take_photo_label">Зробити фото</string>
+    <string name="common_terms_of_service">Умови використання</string>
+    <string name="common_try_again">Повторити</string>
+    <string name="common_turn_on_bluetooth">Увімкнути Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Видалити</string>
+    <string name="common_ui_confirm_deleting_checkbox">Так, видалити</string>
+    <string name="common_unknown">Невідомо</string>
+    <string name="common_update">Оновити</string>
+    <string name="common_url_load_unsuccessful_message">Пристрій Android не під’єднано до служби передавання даних. Щоб переглянути цю інформацію зараз, перейдіть на %s у веб-переглядачі.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Пристрій Android не під’єднано до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть на сторінку %s у веб-переглядачі.</string>
+    <string name="common_url_login_notice">Увійти як %1$s</string>
+    <string name="common_usage_and_diagnostics">Використання та діагностика</string>
+    <string name="common_yesterday">Учора</string>
+    <string name="confirm_copy_button_text">Копіювати</string>
+    <string name="contacts_number_device_and_icloud">%1$d на iCloud®, %2$d на пристрої</string>
+    <string name="contacts_number_device_and_icloud_with_google">Контакти Google, %1$d на iCloud®, %2$d на пристрої</string>
+    <string name="contacts_number_device_and_sim_with_google">Контакти Google, %1$d на SIM-карті, %2$d на пристрої</string>
+    <string name="contacts_number_device_with_google">Контакти Google, %1$d на пристрої</string>
+    <string name="contacts_number_icloud_with_google">Контакти Google, %1$d на iCloud®</string>
+    <string name="contacts_number_sim_with_google">Контакти Google, %1$d на SIM-карті</string>
+    <string name="copy_confirmation_description">Дані облікового запису Google і додатків буде скопійовано на новий телефон</string>
+    <string name="copy_confirmation_title">Скопіювати дані на новий телефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Немає додатків</string>
+    <string name="d2d_app_picker_title">Додатки</string>
+    <string name="d2d_migration_canceled_on_source">Копіювання скасовано</string>
+    <string name="data_copied_fragment_description">Дані скопійовано на новий телефон. Можете від’єднати кабель.</string>
+    <string name="data_copied_fragment_description_cancel">Ви припинили копіювання, тому на новий телефон скопійовано лише деякі дані.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Ви припинили копіювання, тому дані не скопійовано на новий телефон.</string>
+    <string name="data_copied_fragment_description_error">Сталася помилка. Не вдалося скопіювати всі дані.</string>
+    <string name="data_copied_fragment_description_error_no_data">Сталася помилка. Не вдалося скопіювати дані.</string>
+    <string name="data_copied_fragment_no_data_title">Не вдалося скопіювати дані</string>
+    <string name="data_copied_fragment_some_data_title">Скопійовано деякі дані</string>
+    <string name="data_copied_fragment_title">Дані скопійовано</string>
+    <string name="device_backup_title">Резервне копіювання даних пристрою</string>
+    <string name="device_not_supported_fragment_new_device">Ви під’єдналися до нового телефона. Щоб продовжити, під’єднайтеся до попереднього телефона.</string>
+    <string name="device_not_supported_fragment_new_device_title">Під’єднайтеся до попереднього телефона</string>
+    <string name="device_not_supported_fragment_no_data_cable">Через цей кабель не можна передавати дані. Під’єднайтеся за допомогою іншого кабелю та повторіть спробу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Спробуйте інший кабель</string>
+    <string name="device_not_supported_fragment_retry_description">Переконайтеся, що старий телефон розблоковано. Після цього від’єднайте та знову під’єднайте кабель</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Сталася помилка</string>
+    <string name="device_not_supported_ios_supervised_description">Оскільки вашим пристроєм iPhone® керує адміністратор, виберіть інший спосіб копіювання даних</string>
+    <string name="device_picker_description">Резервні копії зберігаються на Google Диску</string>
+    <string name="device_picker_empty">Немає резервних копій, зв’язаних з обліковим записом %1$s.</string>
+    <string name="device_picker_empty_title">Немає резервних копій</string>
+    <string name="device_picker_item">Резервна копія даних пристрою %1$s</string>
+    <string name="device_picker_last_used">Востаннє використано ^1</string>
+    <string name="device_picker_skip">Не відновлювати</string>
+    <string name="device_picker_title">Виберіть резервну копію даних для відновлення</string>
+    <string name="disabled_by_admin_summary_text">Керує адміністратор</string>
+    <string name="download_msg_error_invalid">Неправильно налаштовано завантаження.</string>
+    <string name="download_msg_in_progress">Триває завантаження.</string>
+    <string name="download_msg_not_allowed_space">Замало місця для завантаження.</string>
+    <string name="download_msg_pending">Очікується завантаження.</string>
+    <string name="download_notification_description">Додаток %1$s надіслав запит на ці дані.</string>
+    <string name="download_notification_title">Отримання додаткових даних</string>
+    <string name="drive_backup_account">Обліковий запис</string>
+    <string name="drive_backup_apps_in_backup">Резервні копії даних додатків</string>
+    <string name="drive_backup_apps_last_backup">Останнє резервне копіювання</string>
+    <string name="drive_backup_apps_loading">Завантаження…</string>
+    <string name="drive_backup_apps_screen_title">Дані додатків</string>
+    <string name="drive_backup_content_apps_title">Дані додатків</string>
+    <string name="drive_backup_content_calendar_dialog_message">Події, створені в Google Календарі, буде синхронізовано на всіх пристроях, на яких ви ввійшли в обліковий запис Google.</string>
+    <string name="drive_backup_content_calendar_title">Календар</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Резервна копія включає дату й ім’я одержувача вихідних і вхідних викликів.</string>
+    <string name="drive_backup_content_callhistory_title">Історія дзвінків</string>
+    <string name="drive_backup_content_contacts_dialog_message">Контакти, створені в Контактах Google, буде синхронізовано на всіх пристроях, на яких ви ввійшли в обліковий запис Google.</string>
+    <string name="drive_backup_content_contacts_title">Контакти</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Резервна копія включає конфігурацію пристрою, як-от фоновий малюнок, паролі Wi-Fi і додатки за умовчанням.</string>
+    <string name="drive_backup_content_devicesettings_title">Налаштування пристрою</string>
+    <string name="drive_backup_content_header">Вміст</string>
+    <string name="drive_backup_content_photos_dialog_message">Ваш основний обліковий запис для резервного копіювання змінено. Ви також можете змінити обліковий запис для резервного копіювання вмісту Google Фото на %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ЗАКРИТИ</string>
+    <string name="drive_backup_content_photos_dialog_title">Також змінити обліковий запис для фото та відео?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ЗМІНИТИ</string>
+    <string name="drive_backup_content_photos_title">Фото й відео</string>
+    <string name="drive_backup_content_sms_dialog_message">Резервна копія включає надіслані й отримані повідомлення, але не MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Не вдалось отримати дату останньої синхронізації</string>
+    <string name="drive_backup_content_status_lastsaved">Останнє резервне копіювання: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Остання синхронізація: %1$s</string>
+    <string name="drive_backup_content_status_never">Очікується резервне копіювання</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Налаштування синхронізації</string>
+    <string name="drive_backup_content_status_sync_off">Синхронізацію ВИМКНЕНО</string>
+    <string name="drive_backup_content_status_updating">Перевірка стану…</string>
+    <string name="drive_backup_disabled_backuplist">"Резервне копіювання включає:
+\u0009- додатки та їх дані
+\u0009- історію дзвінків
+\u0009- налаштування пристрою (зокрема паролі Wi-Fi)
+\u0009- Google Календар
+\u0009- Контакти Google
+\u0009- фото й відео
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Резервна копія містить:
+\u0009- додатки та їх дані
+\u0009- історію викликів
+\u0009- налаштування пристрою (зокрема паролі Wi-Fi)
+\u0009- дані Google Календаря
+\u0009- дані Контактів Google
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Вимкнув адміністратор</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Календар, Контакти Google, фото та відео синхронізуються з вашим обліковим записом Google і можуть використовуватись у всіх службах.
+
+Синхронізація може бути ввімкнена, навіть якщо резервне копіювання вимкнено. Параметри синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Дані Google Календаря та Контактів Google синхронізуються з вашим обліковим записом Google. Їх можна використовувати в усіх службах.
+
+Синхронізацію можна ввімкнути, навіть якщо вимкнено резервне копіювання. Налаштування синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_disabled_introduction">Завдяки автоматичному резервному копіюванню ви можете легко відновити свої дані або перенести їх на новий телефон.</string>
+    <string name="drive_backup_settings_title">Резервне копіювання</string>
+    <string name="drive_backup_state">Завантажувати на Google Диск</string>
+    <string name="drive_backup_state_dialog_message">"Резервні копії даних цього пристрою буде назавжди видалено з Google Диска.
+
+Фото та відео, резервні копії яких уже створено, залишатимуться доступними на Google Диску.
+
+Google Календар і Контакти Google продовжуватимуть синхронізуватися з обліковим записом Google. Параметри синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Резервну копію даних цього пристрою буде назавжди видалено з Google Диска.
+
+Дані Google Календаря та Контактів Google надалі синхронізуватимуться з вашим обліковим записом Google. Налаштування синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_state_dialog_okaction">Вимкнути та видалити</string>
+    <string name="drive_backup_state_dialog_title">Вимкнути та видалити резервні копії?</string>
+    <string name="durationDayHour">%1$d дн. %2$d год</string>
+    <string name="durationDayHours">%1$d дн. %2$d год</string>
+    <string name="durationDays">%1$d дн.</string>
+    <string name="durationHourMinute">%1$d год %2$d хв</string>
+    <string name="durationHourMinutes">%1$d год %2$d хв</string>
+    <string name="durationHours">%1$d год</string>
+    <string name="durationMinute">%1$d хв</string>
+    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
+    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
+    <string name="durationMinutes">%1$d хв</string>
+    <string name="durationSecond">%1$d с</string>
+    <string name="durationSeconds">%1$d с</string>
+    <string name="encryption_warning_fragment_description">"На вашому пристрої iPhone® увімкнено шифрування резервних копій. Якщо ви не вмикали це налаштування, можливо, його ввімкнув ваш IT-адміністратор.
+
+Можна копіювати лише фотографії, музику та відео. Докладніше читайте на сторінці "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифрування резервних копій</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Я не можу знайти адаптер</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Знайдіть Quick Switch Adapter у коробці телефона Pixel.^1.
+
+Під’єднайте кабель до адаптера."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Під’єднайте адаптер і кабель</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Розблокуйте старий телефон і підключіть до нього адаптер.</string>
+    <string name="fragment_usb_connect_both_phones_title">З’єднайте обидва телефони</string>
+    <string name="fragment_usb_dialog_cancel_description">За допомогою кабелю ви зможете перенести більшість вмісту. Якщо кабелі з комплекту не підходять, скористайтеся кабелем від старого телефона, як от кабелем для заряджання або передавання даних.</string>
+    <string name="fragment_usb_dialog_cancel_title">Копіювати дані іншим способом?</string>
+    <string name="fragment_usb_dont_have_cable">Я не маю кабелю</string>
+    <string name="fragment_usb_dont_have_old_phone">Я не маю старого телефона</string>
+    <string name="fragment_usb_find_cable_description">Скористайтеся кабелем від старого телефона, як от кабелем для заряджання або передавання даних.</string>
+    <string name="fragment_usb_find_cable_title">Знайдіть потрібний кабель</string>
+    <string name="fragment_usb_initial_description">Перенесіть дані зі старого телефона на цей ^1.</string>
+    <string name="fragment_usb_initial_title">Скопіюйте дані</string>
+    <string name="fragment_usb_legacy_description">"Це найшвидший спосіб скопіювати більшість даних.
+
+Знайдіть адаптер у комплекті та під’єднайте його до нового телефона. Підключіть телефони за допомогою кабелю та розблокуйте старий телефон."</string>
+    <string name="fragment_usb_other_ways">Копіювати без кабелю</string>
+    <string name="fragment_usb_plug_cable">Під’єднайте кабель до старого телефона</string>
+    <string name="fragment_waiting_title">Зачекайте…</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="google_contacts_static_text">Контакти Google синхронізуватимуться</string>
+    <string name="google_contacts_static_text_off">Контакти Google усе одно синхронізуватимуться</string>
+    <string name="header_set_backup_account">Резервний обліковий запис</string>
+    <string name="i_message_dialog_message">"Щоб надалі отримувати SMS-повідомлення від користувачів пристрою iPhone®, потрібно вимкнути iMessage®.
+
+Перегляньте вказівки на сторінці "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Продовжте на іншому телефоні</string>
+    <string name="ios_connected_fragment_description">"На наступному екрані ви можете ввійти у свій обліковий запис Google або створити новий.
+
+Якщо ви не додасте обліковий запис Google, події iOS Calendar® не перенесуться."</string>
+    <string name="ios_message_attachment_explanation">[Ваші вкладення в повідомленнях зберігаються в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленнях\"]</string>
+    <string name="ios_message_attachment_failed_explanation">[Не вдалося скопіювати деякі вкладення. Перенесені вкладення можна знайти в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленнях\"]</string>
+    <string name="ios_message_attachment_placeholder">[Вкладений файл збережено в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленні\"]</string>
+    <string name="ios_message_attachments_placeholder">[Вкладені файли збережено в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленні\"]</string>
+    <string name="ios_migration_default_calendar_title">Календар</string>
+    <string name="ios_migration_other_contact_relation">Інше</string>
+    <string name="ios_photos_dialog_message">"Фотографії з iCloud® не можна копіювати.
+
+Щоб перенести ці фотографії на свій ^1, установіть додаток Google Фото на пристрої iPhone® і ввімкніть резервне копіювання та синхронізацію. Докладніше на сторінці "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="list_item_add_account">Додати обліковий запис</string>
+    <string name="lockscreen_smartdevice_action_next">Далі</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Розблокуйте телефон, щоб продовжити налаштування</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">З міркувань безпеки потрібно підтвердити пароль для розблокування екрана, щоб продовжити налаштування</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Підтвердьте блокування екрана</string>
+    <string name="manage_data_label">Обліковий запис Google</string>
+    <string name="master_clear_title">Відновлення заводських налаштувань</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Потрібно налаштувати резервний обліковий запис</string>
+    <string name="notification_content_title_set_backup_account">Резервне копіювання</string>
+    <string name="notification_ticker_set_backup_account">Потрібен резервний обліковий запис</string>
+    <string name="permgrouplab_calendar">Календар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакти</string>
+    <string name="permgrouplab_location">Місцезнаходження</string>
+    <string name="permgrouplab_microphone">Мікрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Датчики на тілі</string>
+    <string name="permgrouplab_sms">SMS-повідомлення</string>
+    <string name="permgrouplab_storage">Пам’ять</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="photo_backup_configure_account_default_summary">Зараз в облікових записах немає резервних копій фотографій</string>
+    <string name="photos_backup_title">Резервне копіювання фотографій</string>
+    <string name="photos_filtering_option_all">Усе</string>
+    <string name="photos_filtering_option_none">Нічого</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Скопійовані контакти буде збережено в обліковому записі Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Скопійовані контакти та календарі буде збережено в обліковому записі Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Деякі дані можуть не скопіюватися на пристрій ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Докладніше</annotation></string>
+    <string name="restore_choice_deselect_some_content">Щоб продовжити, виберіть менше вмісту</string>
+    <string name="restore_choice_learn_more_android">"Деякі дані з вашого старого телефона не можна скопіювати автоматично:
+
+ ● завантаження (як-от файли PDF);
+
+ ● фотографії, відео та музику, що зберігаються в схованих папках;
+
+ ● фотографії, відео та музику, отримані в текстових повідомленнях;
+
+ ● додатки, завантажені не з Google Play;
+
+ ● дані додатків (якщо додаток не використовує резервне копіювання Android);
+
+ ● певні налаштування пристрою;
+
+ ● облікові записи, які не належать Google (і всі пов’язані з ними дані);
+
+ ● контакти та календарі, синхронізовані зі службами, які не належать Google;
+
+ ● мелодії дзвінка.
+
+ Щоб дізнатися більше про копіювання, відвідайте сайт g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"З вашого старого телефона не можна автоматично скопіювати деякі дані:
+
+ ● додатки та їх дані;
+
+ ● фотографії, оригіналів яких немає на телефоні (наприклад, якщо ввімкнено оптимізацію пам’яті, оригінальні фотографії зберігаються в iCloud®);
+
+ ● файли та документи, що зберігаються в iCloud®;
+
+ ● налаштування пристрою (як-от паролі Wi-Fi та фоновий малюнок);
+
+ ● музику, захищену технологією керування цифровими правами (DRM) (наприклад, музику, придбану в iTunes® до квітня 2009 року або завантажену для відтворення офлайн у додатку для трансляції музики);
+
+ ● облікові записи, які не належать Google (і всі пов’язані з ними дані);
+
+ ● контакти та календарі, синхронізовані із сервісами, які не належать Google або iCloud®;
+
+ ● закладки з веб-переглядача Safari®.
+
+ Вкладення з iMessage® можна буде переглянути в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення з повідомлень\".
+
+ Щоб дізнатися більше про копіювання цих даних і отримати допомогу, відвідайте сторінку g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Недостатньо місця</string>
+    <string name="restore_choice_total_text">з %1$s доступного обсягу. Перенесення займе %2$s</string>
+    <string name="restore_error_message">На жаль, під час відновлення сталася помилка.</string>
+    <string name="restore_item_appdata">Дані додатків</string>
+    <string name="restore_item_calendar">Календар</string>
+    <string name="restore_item_calendar_ical_description">iOS® Календар, Google Календар</string>
+    <string name="restore_item_calendar_ical_off_description">Google Календар все одно синхронізуватиметься</string>
+    <string name="restore_item_calendar_sync_description">Google Календар синхронізуватиметься</string>
+    <string name="restore_item_call_logs">Історія дзвінків</string>
+    <string name="restore_item_contacts">Контакти</string>
+    <string name="restore_item_device_settings_description">Паролі Wi-Fi тощо</string>
+    <string name="restore_item_downloads">Завантаження</string>
+    <string name="restore_item_email">Електронні листи</string>
+    <string name="restore_item_email_description">Gmail синхронізуватиметься</string>
+    <string name="restore_item_message_attachments">Вкладення з повідомлень</string>
+    <string name="restore_item_messages">Повідомлення</string>
+    <string name="restore_item_music">Музика</string>
+    <string name="restore_item_photos">Фото й відео</string>
+    <string name="restore_item_settings">Налаштування пристрою</string>
+    <string name="restore_item_sms">SMS-повідомлення</string>
+    <string name="restore_item_will_be_synced_text">Дані синхронізуватимуться з телефоном</string>
+    <string name="restore_progress_title">Відновлення…</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="small_time_duration">Менше 1 хвилини</string>
+    <string name="source_connected_description">Підготовка…</string>
+    <string name="source_connected_title">Під’єднано до пристрою %1$s</string>
+    <string name="source_copying_description">Вибрані дані копіюються на новий телефон</string>
+    <string name="source_copying_title">Копіювання…</string>
+    <string name="source_default_target_device_name">новий пристрій</string>
+    <string name="source_notification_device_disconnected">Знову під’єднайте кабель</string>
+    <string name="source_notification_text">Триває передавання даних між телефонами</string>
+    <string name="source_notification_title">Передавання даних</string>
+    <string name="source_success_description">Завершіть налаштування на пристрої %1$s.</string>
+    <string name="source_success_screen_title">Готово.</string>
+    <string name="source_unplugged_description">Під’єднайте пристрій %1$s ще раз</string>
+    <string name="source_unplugged_title">Кабель від’єднано</string>
+    <string name="source_waiting_title">Продовжіть налаштування на пристрої %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Відхилити</string>
+    <string name="stop_copying_dialog_message_before_transfer">Дані не було скопійовано на новий телефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Деякі дані не було скопійовано на новий телефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не копіювати</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Припинити</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не копіювати?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Припинити копіювання?</string>
+    <string name="storage_management_wear_descriptive_text">Додатки використовують пам’ять пристрою, щоб копіювати дані на носій.</string>
+    <string name="storage_management_wear_manage_size_label">Керувати пам’яттю носія</string>
+    <string name="storage_management_wear_size_label">Пам’ять носія</string>
+    <string name="storage_managment_all_storage_descriptive_text">Усі дані, які використовують сервіси Google Play, зокрема пошукова система.</string>
+    <string name="storage_managment_clear_all_data">Очистити всі дані</string>
+    <string name="storage_managment_computing_size">Обчислення…</string>
+    <string name="storage_managment_icing_size_label">Дані пошуку</string>
+    <string name="storage_managment_manage_icing_button">Керувати даними пошуку</string>
+    <string name="storage_managment_search_index_descriptive_text">Щоб пошук працював швидше, додатки на вашому пристрої можуть використовувати пошукову систему.</string>
+    <string name="storage_managment_title">Пам’ять сервісів Google Play</string>
+    <string name="storage_managment_total_size_label">Загальний обсяг пам’яті</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Більше</string>
+    <string name="suw_next_button_label">Далі</string>
+    <string name="target_default_source_device_model">старий пристрій</string>
+    <string name="target_device_not_supported_cant_continue_description">Виберіть інший спосіб копіювання даних</string>
+    <string name="target_device_not_supported_cant_continue_title">Інший телефон не підтримується</string>
+    <string name="target_device_not_supported_try_restarting_description">"Від’єднайте кабель, перезавантажте старий телефон, під’єднайте кабель знову та виконайте вказівки на телефоні Pixel.
+
+Якщо повідомлення про помилку не зникає, спробуйте копіювати іншим способом."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефон може не підтримуватися</string>
+    <string name="target_smart_device_timeout_add_account">ДОДАТИ ОБЛІК. ЗАПИС</string>
+    <string name="target_smart_device_timeout_description">Ви можете додати обліковий запис вручну</string>
+    <string name="target_smart_device_timeout_dismiss">ЗАКРИТИ</string>
+    <string name="target_smart_device_timeout_title">Виникли проблеми?</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="toast_phones_connected">Телефони під’єднано</string>
+    <string name="toast_reconnect_cable">Знову під’єднайте кабель</string>
+    <string name="transfer_finished_fragment_title">Налаштування…</string>
+    <string name="transfer_summary_copied">Дані скопійовано</string>
+    <string name="transfer_summary_fragment_description">Можна від’єднати кабель.</string>
+    <string name="transfer_summary_fragment_finish">ГОТОВО</string>
+    <string name="transfer_summary_fragment_title">Дані майже перенесено на телефон</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Деякі фотографії не скопійовано. <annotation id="transfer_summary_learn_more">Докладніше</annotation></string>
+    <string name="transfer_summary_not_copied">Дані не скопійовано</string>
+    <string name="transfer_summary_partial">Скопійовано %1$s з %2$s</string>
+    <string name="transfer_summary_will_sync">Дані синхронізуватимуться після налаштування</string>
+    <string name="transferring_fragment_calculating_remaining_time">Обчислюється час до завершення…</string>
+    <string name="transferring_fragment_header">Копіювання…</string>
+    <string name="transferring_fragment_remaining_time">Залишилося %1$s</string>
+    <string name="trust_instructions_description">Щоб продовжити, виберіть свій пристрій iPhone® і схваліть підключення</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari та iTunes є торговельними марками корпорації Apple Inc., зареєстрованої в США й інших країнах.</string>
+</resources>

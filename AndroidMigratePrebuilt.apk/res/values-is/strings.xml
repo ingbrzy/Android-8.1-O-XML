@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Fara heim</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_menu_overflow_description">Fleiri valkostir</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_activity_chooser_view_see_all">Sjá allt</string>
+    <string name="abc_activitychooserview_choose_application">Veldu forrit</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_query">Leitarfyrirspurn</string>
+    <string name="abc_searchview_description_search">Leita</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_shareactionprovider_share_with">Deila með</string>
+    <string name="abc_shareactionprovider_share_with_application">Deila með %s</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="app_has_in_app_purchases">Innkaup í forriti</string>
+    <string name="app_has_permissions">Heimildir: %s</string>
+    <string name="app_has_runtime_permissions">Forrit mun biðja um heimildir</string>
+    <string name="app_picker_loading">Leitar að tiltækum forritum…</string>
+    <string name="app_picker_loading_toast">Tiltæk forrit verða sótt von bráðar</string>
+    <string name="app_picker_no_apps">Engin forrit valin</string>
+    <string name="app_picker_no_apps_found">Engin forrit fundust</string>
+    <string name="apps_permissions_described_v2">"Aðeins er hægt að finna samsvörun fyrir vinsæl og ókeypis iOS®-forrit við Android forrit. Flest innkaup í forritum flytjast ekki á milli. Þú getur fundið fleiri forrit í Play Store eftir að uppsetningu er lokið.
+
+Hugsanlega þarftu að veita sumum forritum fyrirframaðgang að sérstökum eiginleikum eða upplýsingum í tækinu þínu. Heimildir eru flokkaðar í heimildahópa. Þegar þú velur að setja þessi forrit upp samþykkirðu heimildir viðkomandi hópa. Lýsingu á hverjum heimildahópi er að finna hér að neðan.
+
+Hugsanlega þarftu ekki að samþykkja fyrirframheimildir fyrir sum forrit. Þegar þú notar slík forrit geturðu samþykkt eða hafnað heimildum áður en viðkomandi forrit notar þá gerð gagna.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Gagnaflutningsverkfæri</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ekki afrita</string>
+    <string name="close_button_label">Loka</string>
+    <string name="cloud_restore_app_picker_button">Endurheimta</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Það eru engin forrit í öryggisafritinu þínu</string>
+    <string name="cloud_restore_app_picker_title">Veldu forrit sem á að endurheimta</string>
+    <string name="common_cancel">Hætta við</string>
+    <string name="common_google_play_services_enable_button">Kveikja</string>
+    <string name="common_google_play_services_enable_text">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_install_button">Setja upp</string>
+    <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="common_google_play_services_wear_update_text">Nýja útgáfu af þjónustu Google Play vantar. Hún uppfærir sig sjálf innan skamms.</string>
+    <string name="common_ok">Í lagi</string>
+    <string name="common_open_on_phone">Opna í símanum</string>
+    <string name="common_signin_button_text">Skrá inn</string>
+    <string name="common_signin_button_text_long">Skrá inn með Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d á iCloud®, %2$d í tæki</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google tengiliðir, %1$d á iCloud®, %2$d í tæki</string>
+    <string name="contacts_number_device_and_sim_with_google">Google tengiliðir, %1$d á SIM-korti, %2$d í tæki</string>
+    <string name="contacts_number_device_with_google">Google tengiliðir, %1$d í tæki</string>
+    <string name="contacts_number_icloud_with_google">Google tengiliðir, %1$d á iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google tengiliðir, %1$d á SIM-korti</string>
+    <string name="copy_confirmation_description">Þú munt afrita gögn eins og Google reikninginn og forrit yfir í nýja símann</string>
+    <string name="copy_confirmation_title">Afrita yfir í nýja símann?</string>
+    <string name="d2d_app_picker_description_no_apps">Við fundum engin forrit</string>
+    <string name="d2d_app_picker_title">Forrit</string>
+    <string name="d2d_migration_canceled_on_source">Hætt við afritun</string>
+    <string name="data_copied_fragment_description">Gögnin hafa verið afrituð á nýja símann. Þú getur tekið snúruna úr sambandi.</string>
+    <string name="data_copied_fragment_description_cancel">Þú hættir afritun þannig að einungis hluti af gögnunum hefur verið afritaður á nýja símann.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Þú hættir afritun þannig að ekkert hefur verið afritað yfir á nýja símann.</string>
+    <string name="data_copied_fragment_description_error">Eitthvað fór úrskeiðis og því var ekki hægt að afrita allt.</string>
+    <string name="data_copied_fragment_description_error_no_data">Eitthvað fór úrskeiðis og því var ekki hægt að afrita gögnin þín.</string>
+    <string name="data_copied_fragment_no_data_title">Gat ekki afritað</string>
+    <string name="data_copied_fragment_some_data_title">Einhver gögn afrituð</string>
+    <string name="data_copied_fragment_title">Gögn afrituð</string>
+    <string name="device_not_supported_fragment_new_device">Þú ert tengd(ur) við nýjan síma. Tengdu aftur við gamla símann til að halda áfram.</string>
+    <string name="device_not_supported_fragment_new_device_title">Tengdu aftur við fyrri símann</string>
+    <string name="device_not_supported_fragment_no_data_cable">Þessi snúra getur ekki flutt gögn. Notaðu aðra snúru og reyndu aftur.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prófaðu aðra snúru</string>
+    <string name="device_not_supported_fragment_retry_description">Gakktu úr skugga um að gamli síminn sé opinn, taktu síðan snúruna úr sambandi og settu hana svo aftur í samband.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Eitthvað fór úrskeiðis</string>
+    <string name="device_not_supported_ios_supervised_description">Þar sem iPhone®-tækinu er stýrt þarftu að velja aðra aðferð fyrir afritun á gögnum</string>
+    <string name="device_picker_skip">Engin enduruppsetning</string>
+    <string name="durationDayHour">%1$d d. %2$d klst.</string>
+    <string name="durationDayHours">%1$d d. %2$d klst.</string>
+    <string name="durationDays">%1$d dagar</string>
+    <string name="durationHourMinute">%1$d kl. %2$d mín.</string>
+    <string name="durationHourMinutes">%1$d kl. %2$d mín.</string>
+    <string name="durationHours">%1$d klst.</string>
+    <string name="durationMinute">%1$d mín.</string>
+    <string name="durationMinutes">%1$d mín.</string>
+    <string name="encryption_warning_fragment_description">"Kveikt er á dulkóðun öryggisafrita í iPhone® tækinu þínu. Ef þú kveiktir ekki á þessu gæti kerfisstjórinn þinn hafa gert það.
+
+Einungis er hægt að afrita myndir, tónlist og myndskeið. Frekari upplýsingar má finna á "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Dulkóðun öryggisafrita</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ég finn ekki millistykkið</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Finndu Quick Switch Adapter millistykkið sem var í sama kassa og ^1 síminn þinn.
+
+Stingdu snúrunni í samband við millistykkið."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Tengdu millistykkið og snúruna</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Taktu lásinn af gamla símanum og stingdu síðan millistykkinu í samband við þennan síma.</string>
+    <string name="fragment_usb_connect_both_phones_title">Tengdu símana</string>
+    <string name="fragment_usb_dialog_cancel_description">Þú getur flutt flest efni með því að nota snúru. Ef snúrurnar í kassanum passa ekki skaltu prófa að nota hleðslu- eða gagnasnúru sem virkar með gamla símanum.</string>
+    <string name="fragment_usb_dialog_cancel_title">Afrita gögn með annarri leið?</string>
+    <string name="fragment_usb_dont_copy">Ekki afrita</string>
+    <string name="fragment_usb_dont_have_cable">Ég er ekki með snúru</string>
+    <string name="fragment_usb_dont_have_old_phone">geturðu ekki notað gamla símann?</string>
+    <string name="fragment_usb_find_cable_description">Notaðu snúru sem passar í gamla símann, eins og gagna- eða hleðslusnúru.</string>
+    <string name="fragment_usb_find_cable_title">Finndu rétta snúru</string>
+    <string name="fragment_usb_initial_description">Þú þarft gamla Android eða iPhone® tækið þitt. Kveiktu á því og haltu tækinu opnu.</string>
+    <string name="fragment_usb_initial_title">Náðu í gamla símann þinn</string>
+    <string name="fragment_usb_legacy_description">"Þetta er fljótlegasta leiðin til að flytja sem flest gögn.
+
+Finndu millistykkið í kassanum og stingdu því í nýja símann. Tengdu símana með snúru og taktu síðan lásinn af gamla símanum."</string>
+    <string name="fragment_usb_missing_data_description">Þú getur haldið áfram að setja upp Pixel á meðan flutningnum stendur.</string>
+    <string name="fragment_usb_missing_data_title">Nú skulum við afrita gögnin þín</string>
+    <string name="fragment_usb_other_ways">Afrita án snúru</string>
+    <string name="fragment_usb_plug_cable">Stingdu snúrunni í gamla símann</string>
+    <string name="fragment_waiting_title">Augnablik…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google tengiliðir verða samstilltir</string>
+    <string name="google_contacts_static_text_off">Google tengiliðir verða áfram samstilltir</string>
+    <string name="i_message_dialog_message">"Til að fá áfram SMS-skilaboð frá notendum iPhone®-tækja þarftu að slökkva á iMessage®.
+
+Leiðbeiningar er að finna á "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Haltu áfram í hinum símanum</string>
+    <string name="ios_connected_fragment_description">"Á næsta skjá geturðu skráð þig inn á Google reikninginn þinn eða stofnað nýjan.
+
+Ef þú bætir ekki við Google reikningi verða viðburðirnir þínir í iOS Calendar® ekki fluttir."</string>
+    <string name="ios_message_attachment_explanation">[Viðhengi skeyta vistuð í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_message_attachment_failed_explanation">[Ekki var hægt að afrita sum viðhengi. Viðhengi sem voru flutt má finna í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_message_attachment_placeholder">[Viðhengi vistað í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_message_attachments_placeholder">[Viðhengi vistuð í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_migration_default_calendar_title">Dagatal</string>
+    <string name="ios_migration_other_contact_relation">Annað</string>
+    <string name="ios_photos_dialog_message">"Ekki er hægt að afrita myndir sem eru vistaðar í iCloud®.
+
+Til að flytja þessar myndir á ^1 símann skaltu setja upp forritið Google myndir á iPhone® tækinu og kveikja á „Afrita og samstilla“. Ítarlegri leiðbeiningar má finna á "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">Áfram</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Allt</string>
+    <string name="photos_filtering_option_none">Engin</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Afritaðir tengiliðir verða vistaðir á Google reikningnum þínum.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Afritaðir tengiliðir og dagatöl verða vistuð á Google reikningnum þínum.</string>
+    <string name="restore_choice_data_disclaimer_v2">Sum gögnin þín gætu verið afrituð yfir á ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Frekari upplýsingar</annotation></string>
+    <string name="restore_choice_deselect_some_content">Hættu við að velja eitthvað af efninu til að halda áfram</string>
+    <string name="restore_choice_learn_more_android">"Ekki er hægt að afrita öll gögn sjálfkrafa úr gamla símanum:
+
+ ● Niðurhal (t.d. PDF-skrár)
+
+ ● Myndir, myndskeið og tónlist í földum möppum
+
+ ● Myndir, myndskeið og tónlist úr SMS-skilaboðum
+
+ ● Forrit sem eru ekki úr Google Play Store
+
+ ● Forritagögn (ef forritið notar ekki Android-öryggisafrit)
+
+ ● Tilteknar stillingar tækis
+
+ ● Aðrir reikningar en Google reikningar (og tengd gögn)
+
+ ● Tengiliðir og dagatöl sem samstillt eru við aðra þjónustu en Google
+
+ ● Hringitónar
+
+ Frekari upplýsingar um og hjálp við afritun sumra þessara gagna er að finna á g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Ekki er hægt að afrita öll gögn sjálfkrafa úr gamla símanum:
+
+ ● Forrit og forritagögn
+
+ ● Myndir, þegar upprunalegt eintak er ekki geymt í símanum (t.d. ef kveikt er á „Optimize Storage“ eru upprunalegar myndir vistaðar í iCloud®)
+
+ ● Skrár og skjöl sem vistuð eru í iCloud®
+
+ ● Stillingar tækis (svo sem aðgangsorð Wi-Fi og veggfóður)
+
+ ● DRM-varin tónlist (t.d. tónlist úr iTunes® sem keypt var fyrir apríl 2009 eða tónlist sem sótt er fyrir spilun án nettengingar í straumspilunarforriti)
+
+ ● Aðrir reikningar en Google reikningar (og tengd gögn)
+
+ ● Tengiliðir og dagatöl sem samstillt eru við aðra þjónustu en Google eða iCloud®
+
+ ● Bókamerki úr Safari®
+
+ iMessage® viðhengi er hægt að opna í Google myndir > Tækismöppur > Viðhengi skeyta.
+
+ Frekari upplýsingar um og hjálp við afritun einhverra ofantalinna gagna er að finna á g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Ekki nægt pláss</string>
+    <string name="restore_choice_total_text">af tiltæku plássi í %1$s / %2$s flutningi</string>
+    <string name="restore_item_appdata">Forritsgögn</string>
+    <string name="restore_item_calendar">Dagatal</string>
+    <string name="restore_item_calendar_ical_description">iOS® dagatalið, Google dagatalið</string>
+    <string name="restore_item_calendar_ical_off_description">Google dagatal verður samt samstillt</string>
+    <string name="restore_item_calendar_sync_description">Google dagatal verður samstillt</string>
+    <string name="restore_item_call_logs">Símtalaferill</string>
+    <string name="restore_item_contacts">Tengiliðir</string>
+    <string name="restore_item_device_settings_description">Wi-Fi aðgangsorð og fleira</string>
+    <string name="restore_item_downloads">Niðurhal</string>
+    <string name="restore_item_email">Tölvupóstur</string>
+    <string name="restore_item_email_description">Gmail verður samstillt</string>
+    <string name="restore_item_message_attachments">Viðhengi skeyta</string>
+    <string name="restore_item_messages">Skilaboð</string>
+    <string name="restore_item_music">Tónlist</string>
+    <string name="restore_item_photos">Myndir og myndskeið</string>
+    <string name="restore_item_settings">Stillingar tækis</string>
+    <string name="restore_item_sms">SMS-skilaboð</string>
+    <string name="restore_item_will_be_synced_text">Þetta samstillist við símann</string>
+    <string name="restore_progress_title">Endurheimtir…</string>
+    <string name="search_menu_title">Leita</string>
+    <string name="small_time_duration">Innan við ein mínúta</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Hunsa</string>
+    <string name="stop_copying_dialog_message_before_transfer">Gögnin voru ekki afrituð yfir í nýja símann</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sum gögn voru ekki afrituð yfir í nýja símann</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ekki afrita</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stöðva</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ekki afrita?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Hætta afritun?</string>
+    <string name="suw_back_button_label">Til baka</string>
+    <string name="suw_more_button_label">Meira</string>
+    <string name="suw_next_button_label">Áfram</string>
+    <string name="target_default_source_device_model">gamla tækið</string>
+    <string name="target_device_not_supported_cant_continue_description">Þú þarft að velja aðra leið til að afrita gögn</string>
+    <string name="target_device_not_supported_cant_continue_title">Hinn síminn er ekki studdur</string>
+    <string name="target_device_not_supported_try_restarting_description">"Taktu snúruna úr sambandi og endurræstu gamla símann, tengdu síðan snúruna aftur og fylgdu leiðbeiningunum í Pixel símanum.
+
+Ef þú sérð þessa villu ítrekað gætirðu þurft að afrita á annan máta."</string>
+    <string name="target_device_not_supported_try_restarting_title">Síminn er mögulega ekki studdur</string>
+    <string name="target_pixelmigrate_notification_description">Í boði eða stendur yfir</string>
+    <string name="target_pixelmigrate_notification_title">Gagnaflutningur</string>
+    <string name="target_smart_device_timeout_add_account">BÆTA REIKNINGI VIÐ</string>
+    <string name="target_smart_device_timeout_description">Þú getur reynt að bæta reikningnum við handvirkt ef þú vilt</string>
+    <string name="target_smart_device_timeout_dismiss">HUNSA</string>
+    <string name="target_smart_device_timeout_title">Áttu í vandræðum?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Símarnir eru tengdir</string>
+    <string name="toast_reconnect_cable">Tengdu snúruna aftur</string>
+    <string name="transfer_finished_fragment_title">Gengur frá...</string>
+    <string name="transfer_summary_copied">Gögn afrituð</string>
+    <string name="transfer_summary_fragment_description">Þú getur tekið snúruna úr sambandi.</string>
+    <string name="transfer_summary_fragment_finish">LJÚKA</string>
+    <string name="transfer_summary_fragment_title">Síminn er næstum tilbúinn</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Sumar myndirnar þínar voru ekki afritaðar. <annotation id="transfer_summary_learn_more">Frekari upplýsingar</annotation></string>
+    <string name="transfer_summary_not_copied">Gögn ekki afrituð</string>
+    <string name="transfer_summary_partial">%1$s/%2$s afrituð</string>
+    <string name="transfer_summary_will_sync">Gögn verða samstillt eftir uppsetningu</string>
+    <string name="transferring_fragment_calculating_remaining_time">Reiknar út tímann sem er eftir...</string>
+    <string name="transferring_fragment_header">Afritar...</string>
+    <string name="transferring_fragment_remaining_time">%1$s eftir</string>
+    <string name="trust_instructions_description">Athugaðu iPhone® tækið þitt og samþykktu tenginguna til að halda áfram</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes eru vörumerki í eigu Apple Inc., skráð í Bandaríkjunum og öðrum löndum.</string>
+</resources>

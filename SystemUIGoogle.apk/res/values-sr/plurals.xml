@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Нетачан PIN кôд за SIM. Имате још %d покушаја.</item>
+        <item quantity="one">Нетачан PIN кôд за SIM. Имате још %d покушај.</item>
+        <item quantity="few">Нетачан PIN кôд за SIM. Имате још %d покушаја.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Нетачан PUK кôд за SIM. Имате још %d покушаја пре него што SIM картица постане трајно неупотребљива.</item>
+        <item quantity="one">Нетачан PUK кôд за SIM. Имате још %d покушај пре него што SIM картица постане трајно неупотребљива.</item>
+        <item quantity="few">Нетачан PUK кôд за SIM. Имате још %d покушаја пре него што SIM картица постане трајно неупотребљива.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Нисте откључали уређај %d сати. Потврдите лозинку.</item>
+        <item quantity="one">Нисте откључали уређај %d сат. Потврдите лозинку.</item>
+        <item quantity="few">Нисте откључали уређај %d сата. Потврдите лозинку.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Нисте откључали уређај %d сати. Потврдите шаблон.</item>
+        <item quantity="one">Нисте откључали уређај %d сат. Потврдите шаблон.</item>
+        <item quantity="few">Нисте откључали уређај %d сата. Потврдите шаблон.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Нисте откључали уређај %d сати. Потврдите PIN.</item>
+        <item quantity="one">Нисте откључали уређај %d сат. Потврдите PIN.</item>
+        <item quantity="few">Нисте откључали уређај %d сата. Потврдите PIN.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s и још %3$d</item>
+        <item quantity="one">%1$s, %2$s и још %3$d</item>
+        <item quantity="few">%1$s, %2$s и још %3$d</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Још %s обавештења у групи.</item>
+        <item quantity="one">Још %s обавештење у групи.</item>
+        <item quantity="few">Још %s обавештења у групи.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 од %s категорија обавештења за ову апликацију</item>
+        <item quantity="one">1 од %s категорије обавештења за ову апликацију</item>
+        <item quantity="few">1 од %s категорије обавештења за ову апликацију</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d сати</item>
+        <item quantity="one">%d сат</item>
+        <item quantity="few">%d сата</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d екрана у Прегледу</item>
+        <item quantity="one">%d екран у Прегледу</item>
+        <item quantity="few">%d екрана у Прегледу</item>
+    </plurals>
+</resources>

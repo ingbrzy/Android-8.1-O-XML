@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">הבא</string>
+    <string name="suw_back_button_label">חזרה</string>
+    <string name="suw_more_button_label">עוד</string>
+    <string name="vzw_wfc_activation_error">‏לא ניתן להפעיל שיחות Wi-Fi. נסה שוב מאוחר יותר.</string>
+    <string name="vzw_address_update_error">לא ניתן לעדכן את הכתובת למקרה חירום בשלב זה. נסה שוב מאוחר יותר.</string>
+    <string name="emergency_address_app_label">ניהול כתובת למקרה חירום</string>
+    <string name="progress_text">המתן…</string>
+    <string name="vzw_tos_title">‏הפעלת שיחות Wi-Fi</string>
+    <string name="cancel">ביטול</string>
+    <string name="vzw_tos_text">"‏התכונה 'שיחות Wi-Fi' מאפשרת לך לבצע שיחות באמצעות Wi-Fi כאשר הרשת הסלולרית לא זמינה.
+
+כדי להגדיר שיחות Wi-Fi, תצטרך להזין כתובת. כתובת זו תשמש את שירותי החירום במיקום שלך במקרה שתבצע שיחת חירום ברשת Wi-Fi מהטלפון הזה.
+
+מומלץ לשנות כתובת זו כשאתה מבצע שיחות באמצעות רשת Wi-Fi אחרת, כדי שפרטי המיקום שלך יהיו מדויקים. תוכל לשנות את מיקומך בכל עת על-ידי מעבר לתפריט ההגדרות של שיחות Wi-Fi."</string>
+    <string name="vzw_tos_link">תנאים והגבלות</string>
+    <string name="tos_continue">המשך</string>
+    <string name="vzw_e911_title">פרטי מיקום למקרה חירום</string>
+    <string name="vzw_e911_description">‏<b>חשוב - נדרשת כתובת למקרה חירום</b>"
+כדי להפעיל שיחות Wi-Fi, הזן את הכתובת בארה\"ב שאליה תרצה שיישלחו שירותי החירום במקרה שתתקשר למספר החירום. תוכל תמיד לעבור להגדרות ולשנות כתובת זו. חשוב מאוד לעדכן כתובת זו בכל פעם שאתה עובר למקום אחר."</string>
+    <string name="vzw_e911_warning">‏<b>אזהרות – מגבלות שיחה למספר החירום</b>"
+כשאתה מתקשר למספר החירום, תמיד אמור למוקדן איפה אתה נמצא. שיחת החירום תתבצע דרך רשת Wi-Fi רק אם הרשת הסלולרית לא זמינה. שיחה למספר חירום שבוצעה דרך רשת Wi-Fi עשויה להתעכב או להיכשל. למשל, אם מערכת החירום לא מזהה את הכתובת, אם אין חשמל או אם החיבור לרשת Wi-Fi לא פועל. שירותי החירום יישלחו לכתובת שציינת למעלה. לכן, עליך לעדכן אותה כשאתה עובר למקום אחר."</string>
+    <string name="house_number">מספר הבית</string>
+    <string name="street">רחוב</string>
+    <string name="apt_suite_number">"מספר דירה, משרד וכד'"</string>
+    <string name="city">עיר</string>
+    <string name="state">מדינה (בארה\"ב)</string>
+    <string name="zip_code">מיקוד</string>
+    <string name="save">שמור</string>
+    <string name="vzw_address_confirm_text_part1">לא הצלחנו למצוא את הכתובת שהזנת. ייתכן שהרחוב לא מופיע במפה או שהעיר, המדינה או המיקוד שגויים.</string>
+    <string name="vzw_address_confirm_text_part2">אם העיר, המדינה או המיקוד שגויים, הקש על %1$s, אחרת הקש על %2$s.</string>
+    <string name="save_anyway">שמור בכל מקרה</string>
+    <string name="edit_address">ערוך כתובת</string>
+    <string name="ok">אישור</string>
+    <string name="vzw_address_select_text">לא ניתן היה למצוא את הכתובת שהזנת:</string>
+    <string name="vzw_address_alternate_text">האם התכוונת ל:</string>
+    <string name="vzw_partial_confirm_head">לספקים של שירותי החירום לא הייתה אפשרות לאמת את הכתובת שהוזנה.</string>
+    <string name="vzw_partial_confirm_text">האם ברצונך להשתמש בכתובת זו למקרה חירום?</string>
+    <string name="vzw_partial_failure_text_part1">ייתכן שהעיר, המדינה או המיקוד שהזנת שגויים.</string>
+    <string name="vzw_partial_failure_text_part2">בדוק את הכתובת ונסה שוב.</string>
+    <string name="vzw_address_update_success_toast">הכתובת למקרה חירום עודכנה</string>
+    <string name="connect_to_wifi_or_web_portal_title">‏Wi-Fi כבוי</string>
+    <string name="connect_to_wifi_or_web_portal_message">‏ניתן להגדיר שיחות Wi-Fi דרך רשת סלולרית, אבל תצטרך להפעיל Wi-Fi ולהתחבר לרשת כדי להשתמש בתכונה זו.</string>
+    <string name="button_turn_on_wifi">‏הפעל את ה-Wi-Fi</string>
+    <string name="button_setup_web_portal">המשך בהגדרה</string>
+</resources>

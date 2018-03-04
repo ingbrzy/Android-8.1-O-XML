@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Përpara</string>
+    <string name="suw_back_button_label">Prapa</string>
+    <string name="suw_more_button_label">Më shumë</string>
+    <string name="vzw_wfc_activation_error">Nuk mund të aktivizohet telefonata me Wi-Fi. Provo përsëri më vonë.</string>
+    <string name="vzw_address_update_error">Nuk mund të përditësohet adresa aktuale e urgjencës në këtë moment. Provo sërish më vonë.</string>
+    <string name="emergency_address_app_label">Menaxhimi i adresës së urgjencës</string>
+    <string name="progress_text">Qëndro në pritje...</string>
+    <string name="vzw_tos_title">Aktivizo \"Telefonatën me Wi-Fi\"</string>
+    <string name="cancel">Anulo</string>
+    <string name="vzw_tos_text">"\"Telefonata me Wi-Fi\" të lejon të kryesh telefonata duke përdorur Wi-Fi kur rrjeti celular nuk është i disponueshëm.
+
+Për të konfiguruar \"Telefonatën me Wi-Fi\", do të jetë e nevojshme të fusësh një adresë në SHBA. Kjo adresë do të përdoret nga shërbimet e urgjencës në vendndodhjen tënde në rast se kryen një telefonatë urgjence (E911) përmes Wi-Fi nga ky telefon brenda SHBA-së.
+
+Rekomandojmë që këtë adresë ta ndryshosh kur të kryesh telefonat duke përdorur një rrjet të ndryshëm Wi-Fi në mënyrë që informacioni yt i vendndodhjes të jetë i saktë. Vendndodhjen tënde mund ta ndryshosh në çdo moment duke shkuar te menyja e cilësimeve të \"Telefonatës me Wi-Fi\"."</string>
+    <string name="vzw_tos_link">Kushtet e përgjithshme</string>
+    <string name="tos_continue">Vazhdo</string>
+    <string name="vzw_e911_title">Informacioni i vendndodhjes së urgjencës</string>
+    <string name="vzw_e911_description"><b>E RËNDËSISHME - KËRKOHET ADRESA E URGJENCËS 911</b>"
+Për të aktivizuar \"Telefonatën me Wi-Fi\", fut një adresë në SHBA ku dëshiron që të dërgohen shërbimet e urgjencës në rast se telefonon 911. Mund të shkosh te \"Cilësimet\" dhe ta ndryshosh këtë adresë në çdo moment. Është shumë e rëndësishme që ta përditësosh këtë adresë sa herë që ndryshon vendndodhjen tënde."</string>
+    <string name="vzw_e911_warning"><b>PARALAJMËRIME - KUFIZIMET E TELEFONATËS SË URGJENCËS 911</b>"
+Kur telefonon 911, tregoji gjithmonë operatorit se ku ndodhesh. Telefonata jote në 911 do të kalojë përmes Wi-Fi vetëm nëse rrjeti celular është i padisponueshëm. Telefonata në 911 që kryhet me Wi-Fi mund të vonohet ose mund të jetë e pasuksesshme; për shembull, nëse sistemi i 911 nuk e njeh adresën, nëse ka ndërprerje të energjisë elektrike ose nëse lidhja jote Wi-Fi nuk funksionon. Shërbimet e urgjencës do të dërgohen tek adresa që ke dhënë më lart, prandaj përditësoje atë kur ndryshon vendndodhjet."</string>
+    <string name="house_number">Numri i adresës</string>
+    <string name="street">Rruga</string>
+    <string name="apt_suite_number">Ap./Suita, etj.</string>
+    <string name="city">Qyteti</string>
+    <string name="state">Shteti</string>
+    <string name="zip_code">Kodi postar</string>
+    <string name="save">Ruaj</string>
+    <string name="vzw_address_confirm_text_part1">Nuk mundëm ta gjejmë adresën që fute sepse nuk mund të gjendej adresa e rrugës ose qyteti, shteti dhe kodi postar mund të mos jenë të saktë.</string>
+    <string name="vzw_address_confirm_text_part2">Nëse qyteti, shteti dhe kodi yt postar janë të pasaktë, trokit %1$s, ndryshe trokit %2$s.</string>
+    <string name="save_anyway">Ruaje gjithsesi</string>
+    <string name="edit_address">Redakto adresën</string>
+    <string name="ok">Në rregull</string>
+    <string name="vzw_address_select_text">Nuk mundëm të gjejmë adresën që fute:</string>
+    <string name="vzw_address_alternate_text">Dëshiroje të thoshe:</string>
+    <string name="vzw_partial_confirm_head">Adresa e dhënë nuk mund të verifikohej nga \"Ofruesit e Shërbimit të Urgjencës\".</string>
+    <string name="vzw_partial_confirm_text">Je i sigurt që dëshiron të përdorësh këtë adresë në rast urgjence?</string>
+    <string name="vzw_partial_failure_text_part1">Qyteti, shteti ose kodi postar që fute mund të mos jetë i saktë.</string>
+    <string name="vzw_partial_failure_text_part2">Kontrollo adresën dhe provo sërish.</string>
+    <string name="vzw_address_update_success_toast">Adresa e urgjencës u përditësua</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi është çaktivizuar</string>
+    <string name="connect_to_wifi_or_web_portal_message">"Mund t'i konfigurosh \"Telefonatat me Wi-Fi\" duke përdorur rrjetin celular, por do të duhet të aktivizosh Wi-Fi dhe të lidhesh me një rrjet për ta përdorur këtë funksion."</string>
+    <string name="button_turn_on_wifi">Aktivizo Wi-Fi</string>
+    <string name="button_setup_web_portal">Vazhdo konfigurimin</string>
+</resources>

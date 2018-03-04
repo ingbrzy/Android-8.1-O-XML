@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Вашата оценка: %1$s звезди</item>
+        <item quantity="one">Вашата оценка: %1$s звезда</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d отзива</item>
+        <item quantity="one">%1$d отзив</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d отзива за %2$d-звездната оценка</item>
+        <item quantity="one">%1$d отзив за %2$d-звездната оценка</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Инсталиранията са на пауза</item>
+        <item quantity="one">Инсталирането е на пауза</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Приложенията бяха сканирани преди %1$d дни</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Премахнати са %1$d опасни приложения. %2$s.</item>
+        <item quantity="one">Премахнато е %1$d опасно приложение. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Нужно е одобрение за %1$d актуал.</item>
+        <item quantity="one">Нужно е одобрение за %1$d актуал.</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d нови актуализации</item>
+        <item quantity="one">%1$d нова актуализация</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Налице са %1$d актуализации</item>
+        <item quantity="one">Налице е %1$d актуализация</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Актуализ. на всички</item>
+        <item quantity="one">Актуализиране</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d приложения са актуализирани</item>
+        <item quantity="one">%1$d приложение е актуализирано</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звезди</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звезда</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звезди – „%3$s“</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звезда – „%3$s“</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звезди – „%3$s“ – „%4$s“</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звезда – „%3$s“ – „%4$s“</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d потребители са сметнали този отзив за полезен. Означаване на коментара като полезен</item>
+        <item quantity="one">%1$d потребител е сметнал този отзив за полезен. Означаване на коментара като полезен</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d потребители са сметнали този отзив за полезен. Премахване на означаването на коментара като полезен</item>
+        <item quantity="one">%1$d потребител е сметнал този отзив за полезен. Премахване на означаването на коментара като полезен</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Оценено с &lt;b>%1$s звезди&lt;/b></item>
+        <item quantity="one">Оценено с &lt;b>%1$s звезда&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">в %1$s отзива</item>
+        <item quantity="one">в %1$s отзив</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s звезди&lt;/b> „%2$s“</item>
+        <item quantity="one">&lt;b>%1$s звезда&lt;/b> „%2$s“</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Последно използване преди %1$d дни</item>
+        <item quantity="one">Последно използване преди %1$d ден</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Възстановяване на избраните %1$d приложения</item>
+        <item quantity="one">Възстановяване на избраното приложение</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">звезди</item>
+        <item quantity="one">звезда</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Приложенията скоро ще се инсталират.</item>
+        <item quantity="one">Приложението скоро ще се инсталира.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Актуализациите на приложенията скоро ще се инсталират.</item>
+        <item quantity="one">Актуализацията на приложението скоро ще се инсталира.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Последно използване преди %1$d дни</item>
+        <item quantity="one">Последно използване преди %1$d ден</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Последно използване преди %1$d месеца</item>
+        <item quantity="one">Последно използване преди %1$d месец</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">За да инсталирате или актуализирате приложения на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от настройките на хранилището.</item>
+        <item quantity="one">За да инсталирате или актуализирате приложение на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от настройките на хранилището.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">За да инсталирате или актуализирате приложения на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от &lt;a href=\"\">Настройки > Хранилище&lt;/a>.</item>
+        <item quantity="one">За да инсталирате или актуализирате приложение на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от &lt;a href=\"\">Настройки > Хранилище&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">За да инсталирате или актуализирате приложения на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от „Настройки“ > „Хранилище“.</item>
+        <item quantity="one">За да инсталирате или актуализирате приложение на устройството, изтрийте тези, които не използвате. Можете да освободите място и като премахнете мултимедийни файлове от „Настройки“ > „Хранилище“.</item>
+    </plurals>
+</resources>

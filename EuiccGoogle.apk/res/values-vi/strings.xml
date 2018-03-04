@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="add_profile_title">Thêm nhà cung cấp dịch vụ</string>
+    <string name="available_space">Dung lượng còn trống</string>
+    <string name="cancel_button">Hủy</string>
+    <string name="carrier_policy_info_1">Bạn không thể kích hoạt nhà cung cấp dịch vụ nào khác trên thiết bị này trừ khi đặt lại nhà cung cấp dịch vụ.</string>
+    <string name="carrier_policy_info_2">Bạn không thể xóa nhà cung cấp dịch vụ này khỏi thiết bị này trừ khi đặt lại nhà cung cấp dịch vụ.</string>
+    <string name="carrier_policy_info_3">Bạn có thể đặt lại nhà cung cấp dịch vụ bất cứ lúc nào trong Cài đặt nhưng thao tác này sẽ xóa tất cả nhà cung cấp dịch vụ khỏi thiết bị của bạn.</string>
+    <string name="carrier_policy_text">%1$s đã chuẩn bị một eSIM có thể tải xuống cho thiết bị của bạn. Bằng việc tiếp tục, bạn đồng ý với chính sách của nhà cung cấp dịch vụ %1$s:</string>
+    <string name="checking_code">Đang kiểm tra mã…</string>
+    <string name="choose_carrier_add_button">Thêm nhà cung cấp dịch vụ khác</string>
+    <string name="choose_carrier_title">Chọn nhà cung cấp dịch vụ của bạn</string>
+    <string name="common_google_play_services_enable_button">Bật</string>
+    <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string name="common_google_play_services_update_button">Cập nhật</string>
+    <string name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="confirmation_code_text">Nhập mã xác nhận mà nhà cung cấp dịch vụ đã cấp cho bạn. Nhà cung cấp dịch vụ yêu cầu bạn phải thực hiện bước này.</string>
+    <string name="confirmation_code_title">Mã xác nhận của nhà cung cấp dịch vụ</string>
+    <string name="confirmation_code_what">Mục đích của việc này là gì?</string>
+    <string name="connect_button">Kết nối</string>
+    <string name="connect_carrier_confirm_title">Kết nối với mạng di động %1$s?</string>
+    <string name="continue_button">Tiếp tục</string>
+    <string name="device_locked_dialog_text">Hãy hỏi %1$s xem họ có thể mở khóa thiết bị này không.</string>
+    <string name="device_locked_dialog_title">Không thể tải xuống eSIM</string>
+    <string name="device_password_text">Nhập mật khẩu thiết bị của bạn để tiếp tục.</string>
+    <string name="device_password_title">Xác nhận mật khẩu của bạn</string>
+    <string name="disable_carrier_dialog_text">"Bạn sẽ ngắt kết nối thiết bị này khỏi mạng ngay lập tức.
+
+Thao tác này sẽ không hủy gói dịch vụ trên thẻ SIM của bạn."</string>
+    <string name="disable_carrier_dialog_title">Tắt nhà cung cấp dịch vụ?</string>
+    <string name="disable_fail_text">Đã xảy ra lỗi do đó bạn không thể tắt nhà cung cấp dịch vụ.</string>
+    <string name="disable_fail_title">Không thể tắt nhà cung cấp dịch vụ</string>
+    <string name="disable_profile_title">Tắt</string>
+    <string name="disabled_profiles_title">Các nhà cung cấp dịch vụ hiện có</string>
+    <string name="disabling_carrier">Đang tắt nhà cung cấp dịch vụ…</string>
+    <string name="download_fail_dialog_text">Không thể tải xuống eSIM do lỗi. Hãy thử lại và nếu sự cố tiếp diễn, hãy liên hệ với %1$s.</string>
+    <string name="download_fail_dialog_text_no_carrier_name">Không thể tải xuống eSIM do lỗi. Hãy thử lại và nếu sự cố tiếp diễn, hãy liên hệ với nhà cung cấp dịch vụ của bạn.</string>
+    <string name="download_fail_dialog_title">Không thể tải xuống eSIM</string>
+    <string name="download_sub_text">Thiết bị của bạn đang tải eSIM xuống từ %1$s. Quá trình này có thể mất một chút thời gian.</string>
+    <string name="download_sub_text_no_carrier_name">Thiết bị của bạn đang tải xuống eSIM. Quá trình này có thể mất một chút thời gian.</string>
+    <string name="download_sub_title">Đang tải xuống…</string>
+    <string name="download_sub_transform_title">Đang kiểm tra dịch vụ…</string>
+    <string name="eid_title">EID</string>
+    <string name="enable_carrier_dialog_text">"Bạn sẽ kết nối với %1$s thay vì %2$s.
+
+Thao tác này sẽ không hủy gói dịch vụ %2$s của bạn."</string>
+    <string name="enable_carrier_dialog_text_from_removable">"Bạn sẽ kết nối với %1$s thay vì nhà cung cấp dịch vụ trên thẻ SIM của mình.
+
+Thao tác này sẽ không hủy gói dịch vụ di động trên thẻ SIM của bạn."</string>
+    <string name="enable_carrier_dialog_text_to_removable">"Bạn sẽ kết nối với nhà cung cấp dịch vụ trên thẻ SIM của mình thay vì %1$s.
+
+Thao tác này sẽ không hủy gói dịch vụ %1$s của bạn."</string>
+    <string name="enable_carrier_dialog_title">Chuyển nhà cung cấp dịch vụ?</string>
+    <string name="enable_fail_policy_text">Do chính sách của nhà cung cấp dịch vụ %1$s, bạn sẽ không thể kích hoạt nhà cung cấp dịch vụ mới này nếu chưa đặt lại các nhà cung cấp dịch vụ của mình.</string>
+    <string name="enable_fail_text">Không thể chuyển nhà cung cấp dịch vụ do lỗi.</string>
+    <string name="enable_fail_title">Không thể chuyển nhà cung cấp dịch vụ</string>
+    <string name="enable_profile_title">Bật</string>
+    <string name="enabling_carrier">Đang chuyển nhà cung cấp dịch vụ…</string>
+    <string name="erasing_carriers">Đang đặt lại nhà cung cấp dịch vụ…</string>
+    <string name="euicc_settings_title">Cài đặt phần cứng</string>
+    <string name="euicc_title">Trình quản lý eSIM</string>
+    <string name="fireware_version">Phiên bản chương trình cơ sở</string>
+    <string name="get_default_sub_title">Đang kiểm tra thông tin…</string>
+    <string name="get_metadata_fail_title">Không tải được siêu dữ liệu hồ sơ</string>
+    <string name="nickname_title">Biệt hiệu</string>
+    <string name="no_qr_code_info_text_1">Mã của bạn có thể ở trong mảnh giấy đi kèm với thiết bị hoặc có thể ở trong email từ nhà cung cấp dịch vụ.</string>
+    <string name="no_qr_code_info_text_2">Nếu nhà cung cấp dịch vụ cung cấp cho bạn thẻ SIM thực, hãy lắp thẻ ngay để bắt đầu.</string>
+    <string name="no_qr_code_info_title_1">Nơi tìm mã QR của bạn</string>
+    <string name="no_qr_code_info_title_2">Lắp thẻ SIM</string>
+    <string name="no_qr_code_scan_button">Quét mã QR</string>
+    <string name="no_qr_code_title">Bạn không có mã QR?</string>
+    <string name="notification_channel_ota_update">Cập nhật nhà cung cấp dịch vụ</string>
+    <string name="ota_error_notification_msg">Dịch vụ di động sẽ tiếp tục sau khi khởi động lại.</string>
+    <string name="ota_error_notification_title">Không cập nhật được nhà cung cấp dịch vụ</string>
+    <string name="ota_notification_msg">Dịch vụ di động sẽ tiếp tục sau khi cập nhật</string>
+    <string name="ota_notification_title">Đang hoàn tất cập nhật nhà cung cấp dịch vụ…</string>
+    <string name="phone_number_title">Số điện thoại</string>
+    <string name="profile_disabled">Đã tắt</string>
+    <string name="profile_enabled">Đã bật</string>
+    <string name="profile_list_action_bar_title">Nhà cung cấp dịch vụ</string>
+    <string name="reboot_button_title">Khởi động lại điện thoại</string>
+    <string name="remove_carrier_dialog_text">"Thiết bị này sẽ ngay lập tức ngắt kết nối khỏi mạng.
+
+Thao tác này sẽ không hủy gói dịch vụ %1$s của bạn."</string>
+    <string name="remove_carrier_dialog_title">Xóa nhà cung cấp dịch vụ?</string>
+    <string name="remove_fail_policy_text">Do chính sách của nhà cung cấp dịch vụ %1$s, bạn sẽ không thể xóa nhà cung cấp dịch vụ này nếu chưa đặt lại các nhà cung cấp dịch vụ của mình.</string>
+    <string name="remove_fail_text">Đã xảy ra lỗi do đó bạn không thể xóa nhà cung cấp dịch vụ.</string>
+    <string name="remove_fail_title">Không thể xóa nhà cung cấp dịch vụ</string>
+    <string name="remove_profile_title">Xóa</string>
+    <string name="removing_carrier">Đang xóa nhà cung cấp dịch vụ…</string>
+    <string name="res_continue_info_item_1">"Bạn có thể cần hoàn tất thêm một bước nữa để kích hoạt dịch vụ của mình
+"</string>
+    <string name="res_continue_info_item_2">Nếu bạn không có dịch vụ, hãy liên hệ với %1$s để được trợ giúp</string>
+    <string name="res_continue_info_item_2_no_carrier_name">Nếu bạn chưa có dịch vụ, hãy liên hệ với nhà cung cấp dịch vụ để được trợ giúp</string>
+    <string name="res_continue_text">"Bạn đã tải xuống eSIM từ %1$s.
+"</string>
+    <string name="res_continue_text_no_carrier_name">Bạn đã tải xuống eSIM.</string>
+    <string name="res_continue_title">Tải xuống hoàn tất</string>
+    <string name="res_download_button">Tải xuống</string>
+    <string name="res_download_text">%1$s đã chuẩn bị một eSIM có thể tải xuống cho thiết bị của bạn.</string>
+    <string name="res_download_text_no_carrier_name">Nhà cung cấp dịch vụ của bạn đã chuẩn bị eSIM có thể tải xuống cho thiết bị của bạn.</string>
+    <string name="res_download_title">Tải xuống eSIM</string>
+    <string name="reset_button">Đặt lại</string>
+    <string name="reset_dialog_carriers_body">Bạn muốn xóa tất cả nhà cung cấp dịch vụ khỏi thiết bị của mình? Bạn không thể hoàn tác tác vụ này.</string>
+    <string name="reset_dialog_carriers_title">Đặt lại nhà cung cấp dịch vụ?</string>
+    <string name="reset_dialog_reset_button">Đặt lại</string>
+    <string name="reset_euicc_title">Đặt lại nhà cung cấp dịch vụ</string>
+    <string name="reset_fail_text">Đã xảy ra lỗi do đó bạn không thể đặt lại nhà cung cấp dịch vụ.</string>
+    <string name="reset_fail_title">Không thể đặt lại nhà cung cấp dịch vụ</string>
+    <string name="reset_screen_enabled_carrier_name">%1$s (Đã bật)</string>
+    <string name="reset_screen_text_bottom">Thao tác này sẽ không hủy bất kỳ gói dịch vụ di động nào của bạn.</string>
+    <string name="reset_screen_text_top">Thao tác này sẽ xóa tất cả nhà cung cấp dịch vụ khỏi thiết bị của bạn, bao gồm:</string>
+    <string name="reset_screen_title">Đặt lại nhà cung cấp dịch vụ</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="sim_card_label">Thẻ SIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_title">Trạng thái</string>
+    <string name="suw_activate_notification_text">Sử dụng ứng dụng của nhà cung cấp dịch vụ %1$s để thiết lập cuộc gọi, tin nhắn và dữ liệu.</string>
+    <string name="suw_activate_notification_title">Kích hoạt dịch vụ của bạn</string>
+    <string name="suw_back_button_label">Quay lại</string>
+    <string name="suw_failed_msg">"Rất tiếc, chúng tôi không thể kích hoạt dịch vụ %1$s của bạn ngay bây giờ.
+
+Bạn sẽ được nhắc kích hoạt ngay khi thiết lập xong thiết bị của mình."</string>
+    <string name="suw_failed_msg_activate_later">"Rất tiếc, chúng tôi không thể kích hoạt dịch vụ %1$s của bạn ngay bây giờ.
+
+Hãy sử dụng ứng dụng của nhà cung cấp dịch vụ %1$s để kích hoạt dịch vụ vào thời điểm khác."</string>
+    <string name="suw_failed_title">Kích hoạt dịch vụ vào thời điểm khác</string>
+    <string name="suw_more_button_label">Khác</string>
+    <string name="suw_next_button_label">Tiếp theo</string>
+    <string name="suw_setting_up_phone_info">"Chỉ còn chưa đầy một phút nữa
+
+Nhờ có eSIM tích hợp sẵn trên điện thoại, bạn không cần thẻ SIM để sử dụng %1$s. Tuy nhiên, bạn vẫn có thể sử dụng thẻ SIM trên điện thoại này bất cứ lúc nào."</string>
+    <string name="suw_setting_up_phone_title">Đang thiết lập điện thoại của bạn…</string>
+    <string name="switch_button">Chuyển đổi</string>
+    <string name="switch_carrier_confirm_title">Chuyển sang mạng di động %1$s?</string>
+    <string name="switch_confirm_option_1">Chuyển sang %1$s</string>
+    <string name="switch_confirm_option_2">Tiếp tục kết nối với %1$s</string>
+    <string name="switch_confirm_text">Thao tác chuyển sẽ không hủy gói dịch vụ di động %1$s của bạn.</string>
+    <string name="sys_notification_selected_btn">Chuyển sang %1$s</string>
+    <string name="sys_notification_selected_text">Nhấn để xem tùy chọn</string>
+    <string name="sys_notification_switch_to_esim_btn_no_carrier_name">Chuyển sang mạng</string>
+    <string name="sys_notification_switch_to_esim_title">Có sẵn mạng %1$s</string>
+    <string name="sys_notification_switch_to_esim_title_no_carrier_name">Có sẵn mạng di động</string>
+    <string name="sys_notification_switch_to_psim_btn_no_carrier_name">Chuyển sang thẻ SIM</string>
+    <string name="sys_notification_switch_to_psim_title">Đã lắp thẻ SIM %1$s</string>
+    <string name="sys_notification_switch_to_psim_title_no_carrier_name">Đã lắp thẻ SIM</string>
+    <string name="sys_notification_switched_btn">Chuyển lại về %1$s</string>
+    <string name="sys_notification_switched_btn_no_carrier_name">Chuyển trở lại</string>
+    <string name="sys_notification_switched_text">eSIM %1$s của bạn không còn hoạt động nữa</string>
+    <string name="sys_notification_switched_text_no_carrier_name">eSIM của nhà cung cấp dịch vụ trước không còn hoạt động nữa</string>
+    <string name="sys_notification_switched_title">Đã chuyển sang %1$s</string>
+    <string name="sys_notification_switched_title_no_carrier_name">Đã chuyển sang nhà cung cấp dịch vụ khác</string>
+    <string name="sys_notification_title">Chuyển nhà cung cấp dịch vụ</string>
+    <string name="wrong_code_dialog_text">Một số nhà cung cấp dịch vụ yêu cầu mã xác nhận để tăng cường bảo mật. Mã của bạn có thể ở trong mảnh giấy đi kèm với thiết bị hoặc có thể ở trong email từ nhà cung cấp dịch vụ.</string>
+    <string name="msg_camera_framework_bug">Rất tiếc, máy ảnh Android đã gặp sự cố. Bạn có thể cần khởi động lại thiết bị.</string>
+    <string name="msg_default_status">Đưa mã QR vào bên trong hình chữ nhật của kính ngắm để quét mã.</string>
+</resources>

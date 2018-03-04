@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_keep_suggestion_fmt">Keep suggestion \"%s\"</string>
+    <string name="a11y_keep_suggestion_picked">Suggestion was kept.</string>
+    <string name="a11y_remove_suggestion_fmt">Remove suggestion \"%s\"</string>
+    <string name="a11y_remove_suggestion_picked">Suggestion was removed.</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_key_popup_emoji_data">smiley</string>
+    <string name="action_key_popup_emoticon_data">emoticon</string>
+    <string name="assets_theme_no_background">assets:theme_package_metadata_no_background.binarypb</string>
+    <string name="capslock_enabled_mode_content_desc">Caps lock enabled</string>
+    <string name="care_of_key_content_desc">Care of</string>
+    <string name="cd_key_alphabet_abc">ABC</string>
+    <string name="cd_key_alphabet_capitalize">capitalize</string>
+    <string name="cd_key_alphabet_def">DEF</string>
+    <string name="cd_key_alphabet_ghi">GHI</string>
+    <string name="cd_key_alphabet_jkl">JKL</string>
+    <string name="cd_key_alphabet_mno">MNO</string>
+    <string name="cd_key_alphabet_pqrs">PQRS</string>
+    <string name="cd_key_alphabet_tuv">TUV</string>
+    <string name="cd_key_alphabet_wxyz">WXYZ</string>
+    <string name="cd_key_kana_line_a">A column</string>
+    <string name="cd_key_kana_line_ha">HA column</string>
+    <string name="cd_key_kana_line_ka">KA column</string>
+    <string name="cd_key_kana_line_ma">MA column</string>
+    <string name="cd_key_kana_line_na">NA column</string>
+    <string name="cd_key_kana_line_ra">RA column</string>
+    <string name="cd_key_kana_line_sa">SA column</string>
+    <string name="cd_key_kana_line_ta">TA column</string>
+    <string name="cd_key_kana_line_wa">WA column</string>
+    <string name="cd_key_kana_line_ya">YA column</string>
+    <string name="cd_key_kana_modifier">voiced sound mark</string>
+    <string name="cd_key_kana_punctuation">punctuation</string>
+    <string name="cd_key_left">left</string>
+    <string name="cd_key_right">right</string>
+    <string name="cd_key_uchar_ideographic_comma">comma</string>
+    <string name="cd_key_uchar_ideographic_full_stop">period</string>
+    <string name="cd_key_uchar_katakana_hiragana_prolonged_sound_mark">prolonged sound mark</string>
+    <string name="cd_key_undo">undo</string>
+    <string name="cd_keyboard_alphabet">Alphabet keyboard</string>
+    <string name="cd_keyboard_kana">Kana keyboard</string>
+    <string name="check_mark_key_content_desc">Check mark</string>
+    <string name="close_access_points_menu_content_desc">Close features menu</string>
+    <string name="close_activities_or_extensions">Close %s</string>
+    <string name="close_popup_content_desc">Alternatives are dismissed</string>
+    <string name="colon_key_content_desc">Colon</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="date_time_ime_label">Date time keyboard</string>
+    <string name="delete_key_content_desc">Delete</string>
+    <string name="digit_keyboard_key_content_desc">Digit keyboard</string>
+    <string name="digit_keyboard_label">Digit keyboard</string>
+    <string name="done_key_content_desc">Done</string>
+    <string name="dot_china_key_content_desc">Dot 中国</string>
+    <string name="dot_cn_key_content_desc">Dot cn</string>
+    <string name="dot_com_key_content_desc">Dot com</string>
+    <string name="dot_content_desc">Dot</string>
+    <string name="dot_edu_key_content_desc">Dot edu</string>
+    <string name="dot_gov_key_content_desc">Dot gov</string>
+    <string name="dot_hk_key_content_desc">Dot hk</string>
+    <string name="dot_net_key_content_desc">Dot net</string>
+    <string name="dot_org_key_content_desc">Dot org</string>
+    <string name="dot_tw_key_content_desc">Dot tw</string>
+    <string name="double_left_book_title_key_content_desc">Double left book title mark</string>
+    <string name="double_right_book_title_key_content_desc">Double right book title mark</string>
+    <string name="down_arrow_key_content_desc">Down arrow</string>
+    <string name="edit_keyboard_desc">Change keyboard size or position</string>
+    <string name="ellipsis_key_content_desc">Ellipsis</string>
+    <string name="emoji_keyboard_key_content_desc">Emoji keyboard</string>
+    <string name="emoticon_category_displeasure_content_desc">Displeasure</string>
+    <string name="emoticon_category_sadness_content_desc">Sadness</string>
+    <string name="emoticon_category_smile_content_desc">Smile</string>
+    <string name="emoticon_category_surprise_content_desc">Surprise</string>
+    <string name="emoticon_category_sweat_content_desc">Sweat</string>
+    <string name="emoticon_keyboard_key_content_desc">Emoticon keyboard</string>
+    <string name="emoticon_keyboard_label">Emoticon keyboard</string>
+    <string name="emoticon_keyboard_persist_states_pref_key">emoticon_keyboard_subcategory_selected</string>
+    <string name="engine_reload_complete_toast_message">Google Japanese Input data updated</string>
+    <string name="english_keyboard_key_content_desc">English keyboard</string>
+    <string name="english_language_id">en</string>
+    <string name="english_qwerty_ime_label">English keyboard</string>
+    <string name="enter_key_content_desc">Enter</string>
+    <string name="equals_key_content_desc">Equals</string>
+    <string name="exclamation_key_content_desc">Exclamation</string>
+    <string name="exit_editing_keyboard_content_desc">Finish changing keyboard size and position</string>
+    <string name="exiting_keyboard_editing_view">Exiting keyboard editing view</string>
+    <string name="exiting_one_handed_keyboard">Exiting one handed keyboard</string>
+    <string name="expand_access_points_hint_close">GOT IT</string>
+    <string name="expand_access_points_hint_title">Drag to customize</string>
+    <string name="expand_keyboard_button_left_bottom_content_desc">Resize keyboard on the bottom left corner</string>
+    <string name="expand_keyboard_button_left_top_content_desc">Resize keyboard on the top left corner</string>
+    <string name="expand_keyboard_button_right_bottom_content_desc">Resize keyboard on the bottom right corner</string>
+    <string name="expand_keyboard_button_right_top_content_desc">Resize keyboard on the top right corner</string>
+    <string name="expand_keyboard_content_desc">Exit one handed mode</string>
+    <string name="first_run_enable_description">Select &lt;b>%s&lt;/b> in your Language &amp;amp; input settings</string>
+    <string name="first_run_enable_hint">ENABLE IN SETTINGS</string>
+    <string name="first_run_notification_channel_id">com.google.android.apps.inputmethod.libs.framework.firstrun</string>
+    <string name="first_run_notification_channel_name">Setup Wizard</string>
+    <string name="first_run_notification_text">Finish setting up the keyboard</string>
+    <string name="first_run_page_permissions_description">For better typing suggestions, please grant following permissions to &lt;b>%1$s&lt;/b>:</string>
+    <string name="first_run_page_user_metrics">Send anonymous usage statistics to help improve &lt;b>%s&lt;/b></string>
+    <string name="first_run_select_input_method_description">Select &lt;b>%s&lt;/b> as your default input method</string>
+    <string name="first_run_select_input_method_hint">SELECT INPUT METHOD</string>
+    <string name="first_run_setup_done_hint">Done!</string>
+    <string name="full_width_colon_key_content_desc">Full width colon</string>
+    <string name="full_width_comma_key_content_desc">Full width comma</string>
+    <string name="full_width_exclamation_key_content_desc">Full width exclamation</string>
+    <string name="full_width_left_parenthesis_key_content_desc">Full width left parenthesis</string>
+    <string name="full_width_left_square_bracket_key_content_desc">Full width left square bracket</string>
+    <string name="full_width_period_key_content_desc">Full width period</string>
+    <string name="full_width_question_mark_key_content_desc">Full width question mark</string>
+    <string name="full_width_right_parenthesis_key_content_desc">Full width right parenthesis</string>
+    <string name="full_width_right_square_bracket_key_content_desc">Full width right square bracket</string>
+    <string name="full_width_semicolon_key_content_desc">Full width semicolon</string>
+    <string name="full_width_tilde_key_content_desc">Full width tilde</string>
+    <string name="go_key_content_desc">Go</string>
+    <string name="help_userdictionary_dictionary_name">Input dictionary name</string>
+    <string name="help_userdictionary_edit_word_key">Input reading</string>
+    <string name="help_userdictionary_edit_word_value">Input word</string>
+    <string name="hide_keyboard_key_content_desc">Hide keyboard</string>
+    <string name="hide_more_candidates_key_content_desc">Hide more candidates</string>
+    <string name="hint_text_choose_keyboard_layout">Please select keyboard layout</string>
+    <string name="hint_text_reset_keyboard_layout">Tap here to reset keyboard layout</string>
+    <string name="hint_text_tap_to_google_search_and_more">Tap to Google Search and more</string>
+    <string name="id_access_point_one_handed">access_point_one_handed</string>
+    <string name="id_access_point_search">access_point_search</string>
+    <string name="id_access_point_settings">access_point_settings</string>
+    <string name="id_access_point_sticker">access_point_sticker</string>
+    <string name="id_access_point_textediting">access_point_textediting</string>
+    <string name="id_access_point_theme_setting">access_point_theme_setting</string>
+    <string name="id_access_point_translate">access_point_translate</string>
+    <string name="id_more_access_points">more_access_points</string>
+    <string name="ime_name">Google Japanese Input</string>
+    <string name="japanese_language_id">ja-JP</string>
+    <string name="japanese_omaha_client_id">81568145-65FE-4938-98B0-F39BB0D0165B</string>
+    <string name="japanese_pos_abbreviation">Abbreviation</string>
+    <string name="japanese_pos_adjective">Adjective</string>
+    <string name="japanese_pos_adjective_verbal_noun">Adjective verbal noun</string>
+    <string name="japanese_pos_adverb">Adverb</string>
+    <string name="japanese_pos_alphabet">Alphabet</string>
+    <string name="japanese_pos_ba_group1_verb">BA-Group1 verb</string>
+    <string name="japanese_pos_conjunction">Conjunction</string>
+    <string name="japanese_pos_counter_suffix">Counter suffix</string>
+    <string name="japanese_pos_emoticon">Emoticon</string>
+    <string name="japanese_pos_family_name">Family name</string>
+    <string name="japanese_pos_first_name">First name</string>
+    <string name="japanese_pos_for_dictionary_export_abbreviation">短縮よみ</string>
+    <string name="japanese_pos_for_dictionary_export_adjective">形容詞</string>
+    <string name="japanese_pos_for_dictionary_export_adjective_verbal_noun">名詞形動</string>
+    <string name="japanese_pos_for_dictionary_export_adverb">副詞</string>
+    <string name="japanese_pos_for_dictionary_export_alphabet">アルファベット</string>
+    <string name="japanese_pos_for_dictionary_export_ba_group1_verb">動詞バ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_conjunction">接続詞</string>
+    <string name="japanese_pos_for_dictionary_export_counter_suffix">助数詞</string>
+    <string name="japanese_pos_for_dictionary_export_emoticon">顔文字</string>
+    <string name="japanese_pos_for_dictionary_export_family_name">姓</string>
+    <string name="japanese_pos_for_dictionary_export_first_name">名</string>
+    <string name="japanese_pos_for_dictionary_export_free_standing_word">独立語</string>
+    <string name="japanese_pos_for_dictionary_export_ga_group1_verb">動詞ガ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_generic_suffix">接尾一般</string>
+    <string name="japanese_pos_for_dictionary_export_group2_verb">動詞一段</string>
+    <string name="japanese_pos_for_dictionary_export_ha_group1_verb">動詞ハ行四段</string>
+    <string name="japanese_pos_for_dictionary_export_interjection">感動詞</string>
+    <string name="japanese_pos_for_dictionary_export_ka_group1_verb">動詞カ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_kuru_group3_verb">動詞カ変</string>
+    <string name="japanese_pos_for_dictionary_export_ma_group1_verb">動詞マ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_na_group1_verb">動詞ナ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_noun">名詞</string>
+    <string name="japanese_pos_for_dictionary_export_number">数字</string>
+    <string name="japanese_pos_for_dictionary_export_organization_name">組織</string>
+    <string name="japanese_pos_for_dictionary_export_person_name_suffix">接尾人名</string>
+    <string name="japanese_pos_for_dictionary_export_personal_name">人名</string>
+    <string name="japanese_pos_for_dictionary_export_place_name">地名</string>
+    <string name="japanese_pos_for_dictionary_export_place_name_suffix">接尾地名</string>
+    <string name="japanese_pos_for_dictionary_export_prefix">接頭語</string>
+    <string name="japanese_pos_for_dictionary_export_prenoun_adjectival">連体詞</string>
+    <string name="japanese_pos_for_dictionary_export_proper_noun">固有名詞</string>
+    <string name="japanese_pos_for_dictionary_export_punctuation">句読点</string>
+    <string name="japanese_pos_for_dictionary_export_ra_group1_verb">動詞ラ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_ru_group3_verb">動詞ラ変</string>
+    <string name="japanese_pos_for_dictionary_export_sa_group1_verb">動詞サ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_sa_irregular_conjugation_noun">名詞サ変</string>
+    <string name="japanese_pos_for_dictionary_export_sentence_ending_particle">終助詞</string>
+    <string name="japanese_pos_for_dictionary_export_suggestion_only">サジェストのみ</string>
+    <string name="japanese_pos_for_dictionary_export_suppression_word">抑制単語</string>
+    <string name="japanese_pos_for_dictionary_export_suru_group3_verb">動詞サ変</string>
+    <string name="japanese_pos_for_dictionary_export_symbol">記号</string>
+    <string name="japanese_pos_for_dictionary_export_ta_group1_verb">動詞タ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_wa_group1_verb">動詞ワ行五段</string>
+    <string name="japanese_pos_for_dictionary_export_zuru_group3_verb">動詞ザ変</string>
+    <string name="japanese_pos_free_standing_word">Free standing word</string>
+    <string name="japanese_pos_ga_group1_verb">GA-Group1 verb</string>
+    <string name="japanese_pos_generic_suffix">Generic suffix</string>
+    <string name="japanese_pos_group2_verb">Group2 verb</string>
+    <string name="japanese_pos_ha_group1_verb">HA-Group1 verb</string>
+    <string name="japanese_pos_interjection">Interjection</string>
+    <string name="japanese_pos_ka_group1_verb">KA-Group1 verb</string>
+    <string name="japanese_pos_kuru_group3_verb">Kuru-Group3 verb</string>
+    <string name="japanese_pos_ma_group1_verb">MA-Group1 verb</string>
+    <string name="japanese_pos_na_group1_verb">NA-Group1 verb</string>
+    <string name="japanese_pos_noun">Noun</string>
+    <string name="japanese_pos_number">Number</string>
+    <string name="japanese_pos_organization_name">Organization name</string>
+    <string name="japanese_pos_person_name_suffix">Person name suffix</string>
+    <string name="japanese_pos_personal_name">Personal name</string>
+    <string name="japanese_pos_place_name">Place name</string>
+    <string name="japanese_pos_place_name_suffix">Place name suffix</string>
+    <string name="japanese_pos_prefix">Prefix</string>
+    <string name="japanese_pos_prenoun_adjectival">Prenoun adjectival</string>
+    <string name="japanese_pos_proper_noun">Proper noun</string>
+    <string name="japanese_pos_punctuation">Punctuation</string>
+    <string name="japanese_pos_ra_group1_verb">RA-Group1 verb</string>
+    <string name="japanese_pos_ru_group3_verb">Ru-Group3 verb</string>
+    <string name="japanese_pos_sa_group1_verb">SA-Group1 verb</string>
+    <string name="japanese_pos_sa_irregular_conjugation_noun">SA-irregular conjugation noun</string>
+    <string name="japanese_pos_sentence_ending_particle">Sentence ending particle</string>
+    <string name="japanese_pos_suggestion_only">Suggestion only</string>
+    <string name="japanese_pos_suppression_word">Suppression word</string>
+    <string name="japanese_pos_suru_group3_verb">Suru-Group3 verb</string>
+    <string name="japanese_pos_symbol">Symbol</string>
+    <string name="japanese_pos_ta_group1_verb">TA-Group1 verb</string>
+    <string name="japanese_pos_wa_group1_verb">WA-Group1 verb</string>
+    <string name="japanese_pos_zuru_group3_verb">Zuru-Group3 verb</string>
+    <string name="kb_theme_color_black">Black Theme</string>
+    <string name="kb_theme_color_blue">Blue Theme</string>
+    <string name="kb_theme_color_blue_grey">Blue Grey Theme</string>
+    <string name="kb_theme_color_brown">Brown Theme</string>
+    <string name="kb_theme_color_cyan">Cyan Theme</string>
+    <string name="kb_theme_color_deep_purple">Deep Purple Theme</string>
+    <string name="kb_theme_color_green">Green Theme</string>
+    <string name="kb_theme_color_light_pink">Light Pink Theme</string>
+    <string name="kb_theme_color_pink">Pink Theme</string>
+    <string name="kb_theme_color_red">Red Theme</string>
+    <string name="kb_theme_color_teal">Teal Theme</string>
+    <string name="kb_theme_google_blue_dark">Google Dark Theme</string>
+    <string name="kb_theme_google_blue_light">Google Light Theme</string>
+    <string name="kb_theme_holo_blue">Holo Blue Theme</string>
+    <string name="kb_theme_holo_white">Holo White Theme</string>
+    <string name="kb_theme_material_dark">Material Dark Theme</string>
+    <string name="kb_theme_material_light">Material Light Theme</string>
+    <string name="keyboard_hidden">%s hidden</string>
+    <string name="label_back_key">Back</string>
+    <string name="label_back_key_ja_alphabet">ABC</string>
+    <string name="label_back_key_ja_hiragana">あいう</string>
+    <string name="label_back_to_japanese_prime">あいう</string>
+    <string name="label_clear_key">Clear</string>
+    <string name="label_dot_com_long_press">.net,.org,.edu,.gov</string>
+    <string name="label_dump_debug_data">(Debug) Dump debug data (freezes seconds)</string>
+    <string name="label_ja_submit">Submit</string>
+    <string name="label_more_access_points">More features</string>
+    <string name="label_more_apps">MORE APPS</string>
+    <string name="label_one_handed_access_point">One-handed</string>
+    <string name="label_pause_key">Pause</string>
+    <string name="label_sentence_with_dot_com_long_press">.com,.net,.org,.edu,.gov</string>
+    <string name="label_setting_switch_input_method">Input Method</string>
+    <string name="label_settings_access_point">Settings</string>
+    <string name="label_settings_activity">Settings</string>
+    <string name="label_space_en">English</string>
+    <string name="label_space_ja">日本語</string>
+    <string name="label_subtype_japanese">Japanese</string>
+    <string name="label_theme_setting_access_point">Theme</string>
+    <string name="label_theme_setting_activity">Theme</string>
+    <string name="label_wait_key">Wait</string>
+    <string name="launch_activities_or_extensions">Open %s</string>
+    <string name="lb_date_separator">/</string>
+    <item type="string" name="lb_guidedactions_item_disabled_chevron_alpha">0.5</item>
+    <item type="string" name="lb_guidedactions_item_enabled_chevron_alpha">1.0</item>
+    <item type="string" name="lb_guidedactions_item_unselected_description_text_alpha">0.5</item>
+    <item type="string" name="lb_guidedactions_item_unselected_text_alpha">1.0</item>
+    <item type="string" name="lb_guidedactions_width_weight">0.71428573</item>
+    <item type="string" name="lb_guidedactions_width_weight_two_panels">1.1917808</item>
+    <item type="string" name="lb_guidedbuttonactions_width_weight">0.45</item>
+    <item type="string" name="lb_guidedstep_height_weight">2.0</item>
+    <item type="string" name="lb_guidedstep_keyline">40.0</item>
+    <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
+    <string name="lb_search_bar_hint">Search</string>
+    <string name="lb_search_bar_hint_speech">Speak to search</string>
+    <string name="lb_search_bar_hint_with_title">Search %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Speak to search %1$s</string>
+    <string name="left_arrow_key_content_desc">Left arrow</string>
+    <string name="left_black_square_bracket_key_content_desc">Left black square bracket</string>
+    <string name="left_double_quotation_key_content_desc">Left double quotation mark</string>
+    <string name="left_handed_content_desc">Switch to left handed keyboard</string>
+    <string name="left_handed_mode">Left-handed mode</string>
+    <string name="left_hexagon_bracket_key_content_desc">Left hexagon bracket</string>
+    <string name="left_parenthesis_key_content_desc">Left parenthesis</string>
+    <string name="left_single_quotation_key_content_desc">Left single quotation mark</string>
+    <string name="left_square_bracket_key_content_desc">Left square bracket</string>
+    <string name="left_vertical_double_quotation_key_content_desc">Left vertical double quotation mark</string>
+    <string name="left_vertical_single_quotation_key_content_desc">Left vertical single quotation mark</string>
+    <string name="less_than_or_equal_to_content_desc">Less than or equal to</string>
+    <string name="letter_keyboard_key_content_desc">Letter keyboard</string>
+    <string name="mail_dot_key_content_desc">mail dot</string>
+    <string name="menu_item_mushroom">Launch Mushroom</string>
+    <string name="middle_dot_key_content_desc">Middle dot</string>
+    <string name="minus_key_content_desc">Minus</string>
+    <string name="more_access_points_content_desc">More features</string>
+    <string name="more_candidates_key_content_desc">More candidates</string>
+    <string name="more_symbols_mode_content_desc">More symbols mode</string>
+    <string name="more_than_or_equal_to_content_desc">More than or equal to</string>
+    <string name="move_keyboard_content_desc">Move keyboard position</string>
+    <string name="mozc_english_keyboard">English keyboard</string>
+    <string name="mozc_japanese_keyboard">Japanese keyboard</string>
+    <string name="mozc_version">2.21.2874</string>
+    <string name="navigate_next_key_content_desc">Next</string>
+    <string name="navigate_previous_key_content_desc">Previous</string>
+    <string name="news_dot_key_content_desc">news dot</string>
+    <string name="next_language_key_content_desc">Next language</string>
+    <string name="next_page_content_desc">Next page</string>
+    <string name="nonprime_recent_content_desc">Recents</string>
+    <string name="number_ime_label">Number keyboard</string>
+    <string name="number_password_ime_label">Numeric password keyboard</string>
+    <string name="one_handed_access_point_content_desc">One handed mode</string>
+    <string name="one_handed_mode_disable">Off</string>
+    <string name="open_access_points_menu_and_search_content_desc">Search and more</string>
+    <string name="open_access_points_menu_content_desc">Open features menu</string>
+    <string name="open_popup_content_desc">Alternatives are available</string>
+    <string name="open_source_url">file:///android_asset/licenses.html</string>
+    <string name="orb_search_action">Search Action</string>
+    <string name="page_down_key_content_desc">Page down</string>
+    <string name="page_up_key_content_desc">Page up</string>
+    <string name="password_ime_label">Password keyboard</string>
+    <string name="password_number_hard_ime_label">Number keyboard</string>
+    <string name="phone_keyboard_key_content_desc">Dial keyboard</string>
+    <string name="phone_number_ime_label">Dial keyboard</string>
+    <string name="physical_keyboard_ime_label">Physical keyboard</string>
+    <string name="plus_key_content_desc">Plus</string>
+    <string name="pref_clear_category_description">Clear personalization or suggestion data.</string>
+    <string name="pref_clear_category_title">Clear history</string>
+    <string name="pref_clear_conversion_history_description">Clear conversion history.</string>
+    <string name="pref_clear_conversion_history_title">Conversion history</string>
+    <string name="pref_clear_symbol_history_description">Clear symbol input history.</string>
+    <string name="pref_clear_symbol_history_title">Symbol history</string>
+    <string name="pref_clear_user_dictionary_description">Clear user dictionary.</string>
+    <string name="pref_clear_user_dictionary_title">User dictionary</string>
+    <string name="pref_def_value_additional_keyboard_theme" />
+    <string name="pref_def_value_japanese_dictionary_personalization">@string/pref_entry_japanese_dictionary_personalization_enabled</string>
+    <string name="pref_def_value_japanese_input_style">@string/pref_entry_japanese_input_style_toggleflick</string>
+    <string name="pref_def_value_japanese_keyboard_layout">@string/pref_entry_japanese_keyboard_layout_12keys</string>
+    <string name="pref_def_value_japanese_physical_keyboard_layout">@string/pref_entry_japanese_physical_keyboard_layout_default</string>
+    <string name="pref_def_value_key_long_press_delay">300</string>
+    <string name="pref_def_value_keyboard_height_ratio">1.0</string>
+    <string name="pref_def_value_keyboard_slide_sensitivity_ratio">1.0</string>
+    <string name="pref_def_value_one_handed_mode">@string/pref_entry_normal_keyboard_mode</string>
+    <string name="pref_dictionary_personalization_description">Enable personal suggestions based on past input.</string>
+    <string name="pref_dictionary_personalization_entry_disabled">Disable</string>
+    <string name="pref_dictionary_personalization_entry_enabled">Enable</string>
+    <string name="pref_dictionary_personalization_entry_readonly">Frozen</string>
+    <string name="pref_dictionary_personalization_title">Personalization</string>
+    <string name="pref_emoji_provider_type_description">Select the Emoji provider properly to use emoji.</string>
+    <string name="pref_emoji_provider_type_docomo">NTT docomo</string>
+    <string name="pref_emoji_provider_type_kddi">KDDI (au)</string>
+    <string name="pref_emoji_provider_type_softbank">SoftBank</string>
+    <string name="pref_emoji_provider_type_title">Select Emoji provider</string>
+    <string name="pref_emoji_provider_type_unicode">Disable carrier Emoji</string>
+    <string name="pref_entry_additional_keyboard_theme_color_black">assets:theme_package_metadata_color_black.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_blue">assets:theme_package_metadata_color_blue.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_blue_grey">assets:theme_package_metadata_color_blue_grey.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_brown">assets:theme_package_metadata_color_brown.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_cyan">assets:theme_package_metadata_color_cyan.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_deep_purple">assets:theme_package_metadata_color_deep_purple.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_green">assets:theme_package_metadata_color_green.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_light_pink">assets:theme_package_metadata_color_light_pink.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_pink">assets:theme_package_metadata_color_pink.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_red">assets:theme_package_metadata_color_red.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_color_teal">assets:theme_package_metadata_color_teal.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_google_blue_dark">assets:theme_package_metadata_google_blue_dark.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_google_blue_light">assets:theme_package_metadata_google_blue_light.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_holo_blue">assets:theme_package_metadata_holo_blue.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_holo_white">assets:theme_package_metadata_holo_white.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_material_dark">assets:theme_package_metadata_material_dark.binarypb</string>
+    <string name="pref_entry_additional_keyboard_theme_material_light">assets:theme_package_metadata_material_light.binarypb</string>
+    <string name="pref_entry_base_keyboard_theme">@string/pref_entry_keyboard_material_dark_theme</string>
+    <string name="pref_entry_japanese_dictionary_personalization_disabled">NO_HISTORY</string>
+    <string name="pref_entry_japanese_dictionary_personalization_enabled">DEFAULT_HISTORY</string>
+    <string name="pref_entry_japanese_dictionary_personalization_readonly">READ_ONLY</string>
+    <string name="pref_entry_japanese_emoji_provider_type_docomo">DOCOMO</string>
+    <string name="pref_entry_japanese_emoji_provider_type_kddi">KDDI</string>
+    <string name="pref_entry_japanese_emoji_provider_type_softbank">SOFTBANK</string>
+    <string name="pref_entry_japanese_emoji_provider_type_unicode">UNICODE</string>
+    <string name="pref_entry_japanese_input_style_flick">FLICK</string>
+    <string name="pref_entry_japanese_input_style_toggle">TOGGLE</string>
+    <string name="pref_entry_japanese_input_style_toggleflick">TOGGLE_FLICK</string>
+    <string name="pref_entry_japanese_keyboard_layout_12keys">TWELVE_KEYS</string>
+    <string name="pref_entry_japanese_keyboard_layout_godan">GODAN</string>
+    <string name="pref_entry_japanese_keyboard_layout_qwerty">QWERTY</string>
+    <string name="pref_entry_japanese_physical_keyboard_layout_default">DEFAULT</string>
+    <string name="pref_entry_japanese_physical_keyboard_layout_japanese109A">JAPANESE109A</string>
+    <string name="pref_entry_keyboard_dark_theme">dark_theme</string>
+    <string name="pref_entry_keyboard_material_dark_theme">material_dark_theme</string>
+    <string name="pref_entry_keyboard_material_light_theme">material_light_theme</string>
+    <string name="pref_entry_left_handed_mode">2</string>
+    <string name="pref_entry_normal_keyboard_mode">0</string>
+    <string name="pref_entry_right_handed_mode">1</string>
+    <string name="pref_fullscreen_description">If checked, target textbox shows in fullscreen mode.</string>
+    <string name="pref_fullscreen_landscape">Enable on landscape</string>
+    <string name="pref_fullscreen_portrait">Enable on portrait</string>
+    <string name="pref_fullscreen_title">Fullscreen mode</string>
+    <string name="pref_hardware_keymap_default">System Default</string>
+    <string name="pref_hardware_keymap_description">Select key mapping for hardware keyboards.</string>
+    <string name="pref_hardware_keymap_japanese109A">Japanese 109A</string>
+    <string name="pref_hardware_title">Preferences for hardware keyboards</string>
+    <string name="pref_input_feedback_category_title">Input feedback preferences</string>
+    <string name="pref_input_style_setting_entry_flick">Flick</string>
+    <string name="pref_input_style_setting_entry_toggle">Toggle</string>
+    <string name="pref_input_style_setting_entry_toggle_and_flick">Toggle &amp; Flick</string>
+    <string name="pref_input_style_title">Input style for 12 keys layout</string>
+    <string name="pref_kana_modifier_insensitive_conversion_description">Use kana modifier insensitive conversion. Applied to 12 keys and Godan keyboard. e.g. かつこう→学校</string>
+    <string name="pref_kana_modifier_insensitive_conversion_title">Modifier insensitive conversion</string>
+    <string name="pref_key_access_points_hint_shown_times">pref_key_access_points_hint_shown_times</string>
+    <string name="pref_key_access_points_hint_shown_timestamp">pref_key_access_points_hint_shown_timestamp</string>
+    <string name="pref_key_access_points_opened">pref_key_access_points_opened</string>
+    <string name="pref_key_access_points_showing_order">pref_key_access_points_showing_order</string>
+    <string name="pref_key_additional_keyboard_theme">additional_keyboard_theme</string>
+    <string name="pref_key_allow_download_with_battery">pref_key_allow_download_with_battery</string>
+    <string name="pref_key_allow_download_with_metered_network">pref_key_allow_download_with_metered_network</string>
+    <string name="pref_key_allow_get_location">allow_get_location</string>
+    <string name="pref_key_always_false">always_false</string>
+    <string name="pref_key_always_true">always_true</string>
+    <string name="pref_key_auto_capitalization">enable_auto_capitalization</string>
+    <string name="pref_key_auto_space_smart_punctuation">enable_auto_space_smart_punctuation</string>
+    <string name="pref_key_block_offensive_words">block_offensive_words</string>
+    <string name="pref_key_bordered_theme_array_id">bordered_theme_array_id</string>
+    <string name="pref_key_contacts_first_time_delay_millis">contacts_first_time_delay_millis</string>
+    <string name="pref_key_contacts_regular_import_interval_millis">contacts_regular_import_interval_millis</string>
+    <string name="pref_key_contacts_retry_from_failure_interval_millis">contacts_retry_from_failure_interval_millis</string>
+    <string name="pref_key_contacts_task_delay_millis">contacts_task_delay_millis</string>
+    <string name="pref_key_download_notification_visibility">download_notification_visibility</string>
+    <string name="pref_key_enable_double_space_period">enable_double_space_period</string>
+    <string name="pref_key_enable_emoji_alt_physical_key">enable_emoji_alt_physical_key</string>
+    <string name="pref_key_enable_gesture_auto_commit">enable_gesture_auto_commit</string>
+    <string name="pref_key_enable_gesture_input">enable_gesture_input</string>
+    <string name="pref_key_enable_handwriting_feedback">enable_handwriting_feedback</string>
+    <string name="pref_key_enable_incognito_mode">enable_incognito_mode</string>
+    <string name="pref_key_enable_incremental_gesture_input">enable_incremental_gesture_input</string>
+    <string name="pref_key_enable_japanese_data_downloader">pref_key_omaha_download_60FA3283-7560-4962-BA8A-029C63305568</string>
+    <string name="pref_key_enable_key_border">enable_key_border</string>
+    <string name="pref_key_enable_number_row">enable_number_row</string>
+    <string name="pref_key_enable_one_tap_to_search">enable_one_tap_to_search</string>
+    <string name="pref_key_enable_orientation_aware_preference">enable_orientation_aware_preference</string>
+    <string name="pref_key_enable_popup_on_keypress">enable_popup_on_keypress</string>
+    <string name="pref_key_enable_scrub_delete">enable_scrub_delete</string>
+    <string name="pref_key_enable_scrub_move">enable_scrub_move</string>
+    <string name="pref_key_enable_share_snippets">enable_share_snippets</string>
+    <string name="pref_key_enable_shortcuts_dictionary">enable_shortcuts_dictionary</string>
+    <string name="pref_key_enable_sound_on_keypress">enable_sound_on_keypress</string>
+    <string name="pref_key_enable_spatial_model">enable_spatial_model</string>
+    <string name="pref_key_enable_user_metrics">enable_user_metrics</string>
+    <string name="pref_key_enable_vibrate_on_keypress">enable_vibrate_on_keypress</string>
+    <string name="pref_key_enable_voice_input">enable_voice_input</string>
+    <string name="pref_key_english_prediction">enable_english_prediction</string>
+    <string name="pref_key_expand_access_points_hint_shown">pref_key_expand_access_points_hint_shown</string>
+    <string name="pref_key_gesture_preview_trail">pref_gesture_preview_trail</string>
+    <string name="pref_key_hide_english_keyboard">hide_english_keyboard</string>
+    <string name="pref_key_import_user_contacts">import_user_contacts</string>
+    <string name="pref_key_japanese_dictionary_personalization">japanese_dictionary_personalization</string>
+    <string name="pref_key_japanese_emoji_provider_type">japanese_emoji_provider_type</string>
+    <string name="pref_key_japanese_fullscreen_landscape">japanese_fullscreen_landscape</string>
+    <string name="pref_key_japanese_fullscreen_portrait">japanese_fullscreen_portrait</string>
+    <string name="pref_key_japanese_incognito_mode">japanese_incognito_mode</string>
+    <string name="pref_key_japanese_input_style">japanese_input_style</string>
+    <string name="pref_key_japanese_input_style_landscape">japanese_input_style.landscape</string>
+    <string name="pref_key_japanese_input_style_portrait">japanese_input_style.portrait</string>
+    <string name="pref_key_japanese_kana_modifier_insensitive_conversion">japanese_kana_modifier_insensitive_conversion</string>
+    <string name="pref_key_japanese_keyboard_height_ratio_landscape">keyboard_height_ratio.landscape</string>
+    <string name="pref_key_japanese_keyboard_height_ratio_portrait">keyboard_height_ratio.portrait</string>
+    <string name="pref_key_japanese_keyboard_layout">japanese_keyboard_layout</string>
+    <string name="pref_key_japanese_keyboard_layout_landscape">japanese_keyboard_layout.landscape</string>
+    <string name="pref_key_japanese_keyboard_layout_portrait">japanese_keyboard_layout.portrait</string>
+    <string name="pref_key_japanese_keyboard_slide_sensitivity_ratio_landscape">keyboard_slide_sensitivity_ratio.landscape</string>
+    <string name="pref_key_japanese_keyboard_slide_sensitivity_ratio_portrait">keyboard_slide_sensitivity_ratio.portrait</string>
+    <string name="pref_key_japanese_one_handed_mode_landscape">one_handed_mode.landscape</string>
+    <string name="pref_key_japanese_one_handed_mode_portrait">one_handed_mode.portrait</string>
+    <string name="pref_key_japanese_physical_keyboard_layout">japanese_physical_keyboard_layout</string>
+    <string name="pref_key_japanese_qwerty_layout_for_alphabet">japanese_qwerty_layout_for_alphabet</string>
+    <string name="pref_key_japanese_qwerty_layout_for_alphabet_landscape">japanese_qwerty_layout_for_alphabet.landscape</string>
+    <string name="pref_key_japanese_qwerty_layout_for_alphabet_portrait">japanese_qwerty_layout_for_alphabet.portrait</string>
+    <string name="pref_key_japanese_space_character_form">japanese_space_character_form</string>
+    <string name="pref_key_key_long_press_delay">key_long_press_delay</string>
+    <string name="pref_key_keyboard_height_ratio">keyboard_height_ratio</string>
+    <string name="pref_key_keyboard_slide_sensitivity_ratio">keyboard_slide_sensitivity_ratio</string>
+    <string name="pref_key_keyboard_theme">keyboard_theme</string>
+    <string name="pref_key_last_launch_mozc_build_number">pref_last_launch_abi_independent_version_code</string>
+    <string name="pref_key_next_word_prediction">next_word_prediction</string>
+    <string name="pref_key_one_handed_mode">one_handed_mode</string>
+    <string name="pref_key_one_handed_mode_keyboard_bottom_shadow">one_handed_mode_keyboard_bottom_shadow</string>
+    <string name="pref_key_one_handed_mode_keyboard_custom_size">one_handed_mode_keyboard_custom_size</string>
+    <string name="pref_key_one_handed_mode_keyboard_left_mode_margin">one_handed_mode_keyboard_left_mode_margin</string>
+    <string name="pref_key_one_handed_mode_keyboard_padding_bottom">one_handed_mode_keyboard_padding_bottom</string>
+    <string name="pref_key_one_handed_mode_keyboard_right_mode_margin">one_handed_mode_keyboard_right_mode_margin</string>
+    <string name="pref_key_preview_input_bundles_xml_id">preview_input_bundles_xml_id</string>
+    <string name="pref_key_preview_keyboard_layout">preview_keyboard_layout</string>
+    <string name="pref_key_previous_one_handed_mode">previous_one_handed_mode</string>
+    <string name="pref_key_save_non_prime_keyboard_type">pref_key_save_non_prime_keyboard_type</string>
+    <string name="pref_key_show_emoji_switch_key">show_emoji_switch_key</string>
+    <string name="pref_key_show_english_keyboard">show_english_keyboard</string>
+    <string name="pref_key_show_language_switch_key">show_language_switch_key</string>
+    <string name="pref_key_show_launcher_icon">show_launcher_icon</string>
+    <string name="pref_key_show_recent_emoji_in_symbol_keyboard">pref_show_recent_emoji_in_symbol_keyboard</string>
+    <string name="pref_key_sound_volume_on_keypress">sound_volume</string>
+    <string name="pref_key_spell_correction">enable_spell_correction</string>
+    <string name="pref_key_suggest_emojis">enable_suggest_emojis</string>
+    <string name="pref_key_switch_to_other_imes">switch_to_other_imes</string>
+    <string name="pref_key_theme_array_id">theme_array_id</string>
+    <string name="pref_key_theme_selector_disable_key_border_option">theme_selector_disable_key_border_option</string>
+    <string name="pref_key_vibration_duration_on_keypress">vibration_duration</string>
+    <string name="pref_keyboard_layout_description">Switch keyboard layout.</string>
+    <string name="pref_keyboard_layout_description_12keys">Mobile phone layout.</string>
+    <string name="pref_keyboard_layout_description_godan">"Romaji-dedicated layout. &lt;a href='http://support.google.com/ime/japanese/bin/answer.py?hl=ja&amp;topic=25606&amp;answer=2700298'>Usage&lt;/a>"</string>
+    <string name="pref_keyboard_layout_description_qwerty">PC keyboard layout.</string>
+    <string name="pref_keyboard_layout_title">Keyboard layout</string>
+    <string name="pref_keyboard_layout_title_12keys">12 keys</string>
+    <string name="pref_keyboard_layout_title_godan">Godan Keyboard</string>
+    <string name="pref_keyboard_layout_title_qwerty">QWERTY</string>
+    <string name="pref_other_incognito_mode_description">Temporarily disable personalization, suggestions and user dictionary.</string>
+    <string name="pref_other_incognito_mode_title">Incognito mode</string>
+    <string name="pref_other_input_support_preference_category_title">Other input support preferences</string>
+    <string name="pref_other_send_report_category_conversion_quality">Conversion quality issue</string>
+    <string name="pref_other_send_report_category_new_feature">New feature request</string>
+    <string name="pref_other_send_report_category_other">Other</string>
+    <string name="pref_other_send_report_choose_report_category">What kind of report are you sending?</string>
+    <string name="pref_other_send_report_open_report_form">Open form</string>
+    <string name="pref_other_send_report_title">Send feedback</string>
+    <string name="pref_qwerty_layout_for_alphabet_description">If checked, QWERTY layout will be used for alphabet input mode regardless of main layout.</string>
+    <string name="pref_qwerty_layout_for_alphabet_title">QWERTY mode</string>
+    <string name="pref_scale_japanese_keyboard_height_ratio">0.01</string>
+    <string name="pref_scale_japanese_sound_volume_on_keypress">0.01</string>
+    <string name="pref_software_keyboard_preferences_landscape_title">Software keyboard preferences for landscape mode</string>
+    <string name="pref_software_keyboard_preferences_portrait_title">Software keyboard preferences for portrait mode</string>
+    <string name="pref_space_character_form_description">Always use half-width space, no matter the input mode.</string>
+    <string name="pref_space_character_form_title">Use half-width space</string>
+    <string name="pref_use_landscape_unique_preference_title">Use landscape unique settings</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes_debug_activity_label">PRIMES Events</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_menu_clear_all">Clear all</string>
+    <string name="primes_menu_close">Close</string>
+    <string name="primes_menu_refresh">Refresh</string>
+    <string name="primes_option_all_events">All</string>
+    <string name="primes_version">152464241</string>
+    <string name="privacy_url">https://www.google.com/policies/privacy/</string>
+    <string name="question_mark_key_content_desc">Question mark</string>
+    <string name="qwerty_popup_timing">ON_TOUCH</string>
+    <string name="recent_keyboard_label">Recent keyboard</string>
+    <string name="reset_keyboard_content_desc">Reset keyboard size and position</string>
+    <string name="right_arrow_key_content_desc">Right arrow</string>
+    <string name="right_black_square_bracket_key_content_desc">Right black square bracket</string>
+    <string name="right_double_quotation_key_content_desc">Right double quotation mark</string>
+    <string name="right_handed_content_desc">Switch to right handed keyboard</string>
+    <string name="right_handed_mode">Right-handed mode</string>
+    <string name="right_hexagon_bracket_key_content_desc">Right hexagon bracket</string>
+    <string name="right_parenthesis_key_content_desc">Right parenthesis</string>
+    <string name="right_single_quotation_key_content_desc">Right single quotation mark</string>
+    <string name="right_square_bracket_key_content_desc">Right square bracket</string>
+    <string name="right_vertical_double_quotation_key_content_desc">Right vertical double quotation mark</string>
+    <string name="right_vertical_single_quotation_key_content_desc">Right vertical single quotation mark</string>
+    <string name="rmb_key_content_desc">Notation of Yuan</string>
+    <string name="search_key_content_desc">Search</string>
+    <string name="semicolon_key_content_desc">Semicolon</string>
+    <string name="send_key_content_desc">Send</string>
+    <string name="setting_about_key">setting_about_key</string>
+    <string name="setting_about_title">About</string>
+    <string name="setting_about_version_title">Current version</string>
+    <string name="setting_allow_download_with_battery_summary">Dictionary is downloaded when running on battery</string>
+    <string name="setting_allow_download_with_battery_title">Allow download on battery</string>
+    <string name="setting_allow_download_with_metered_network_summary">Dictionary will be downloaded on metered network</string>
+    <string name="setting_allow_download_with_metered_network_title">Allow download on metered network</string>
+    <string name="setting_conversion">Conversion</string>
+    <string name="setting_dictionary_tool">Dictionary tool</string>
+    <string name="setting_download">Dictionary update</string>
+    <string name="setting_enable_japanese_data_downloader_summary">Periodically check dictionary update</string>
+    <string name="setting_enable_japanese_data_downloader_title">Enable dictionary update</string>
+    <string name="setting_input">Input</string>
+    <string name="setting_intelligent_correction_summary">Intelligently correct mistyped words</string>
+    <string name="setting_intelligent_correction_title">Intelligent correction</string>
+    <string name="setting_key_content_desc">Settings</string>
+    <string name="setting_key_long_press_delay_text_left">Short</string>
+    <string name="setting_key_long_press_delay_text_right">Long</string>
+    <string name="setting_key_long_press_delay_title">Key long press delay</string>
+    <string name="setting_keyboard_height_ratio_text_left">Short</string>
+    <string name="setting_keyboard_height_ratio_text_right">Tall</string>
+    <string name="setting_keyboard_height_ratio_title">Keyboard height</string>
+    <string name="setting_keyboard_key">setting_keyboard_key</string>
+    <string name="setting_keyboard_slide_sensitivity_ratio_text_left">Low</string>
+    <string name="setting_keyboard_slide_sensitivity_ratio_text_right">High</string>
+    <string name="setting_keyboard_slide_sensitivity_ratio_title">Slide input sensitivity</string>
+    <string name="setting_layout">Keyboard layout</string>
+    <string name="setting_license_summary">License details for open source software</string>
+    <string name="setting_license_title">Open source licenses</string>
+    <string name="setting_one_handed_mode_title">One-handed mode</string>
+    <string name="setting_other">Others</string>
+    <string name="setting_popup_on_keypress_title">Popup on keypress</string>
+    <string name="setting_privacy_description">Display the privacy policy (webpage).</string>
+    <string name="setting_privacy_title">Privacy policy</string>
+    <string name="setting_send_feedback_title">Send feedback</string>
+    <string name="setting_show_language_switch_key_title">Show language switch key</string>
+    <string name="setting_show_launcher_icon_summary">Display application icon in the launcher</string>
+    <string name="setting_show_launcher_icon_title">Show app icon</string>
+    <string name="setting_sound_on_keypress_title">Sound on keypress</string>
+    <string name="setting_sound_volume_of_keypress">Volume on keypress</string>
+    <string name="setting_theme">Theme</string>
+    <string name="setting_title">Google Japanese Input Settings</string>
+    <string name="setting_title_default">Google Input Settings</string>
+    <string name="setting_tos_description">Display the terms of service(webpage).</string>
+    <string name="setting_tos_title">Terms of service</string>
+    <string name="setting_user_metrics_title">Send usage statistics</string>
+    <string name="setting_vibrate_on_keypress_title">Vibrate on keypress</string>
+    <string name="setting_vibration_strength_on_keypress_text_left">Weak</string>
+    <string name="setting_vibration_strength_on_keypress_text_right">Strong</string>
+    <string name="setting_vibration_strength_on_keypress_title">Vibration strength on keypress</string>
+    <string name="setting_voice_input_title">Show voice input button</string>
+    <string name="settings_access_point_content_desc">Settings</string>
+    <string name="settings_content_desc">Settings</string>
+    <string name="setup_step_page_title">Step %d</string>
+    <string name="shift_disabled_mode_content_desc">Shift disabled</string>
+    <string name="shift_enabled_mode_content_desc">Shift enabled</string>
+    <string name="shift_flip_content_desc">More symbols</string>
+    <string name="shift_key_content_desc">Shift</string>
+    <string name="shift_locked_flip_content_desc">Symbols</string>
+    <string name="showing_keyboard">Showing %s</string>
+    <string name="showing_keyboard_editing_view">Showing keyboard editing view</string>
+    <string name="showing_keyboard_with_suffix">Showing %s keyboard</string>
+    <string name="showing_left_handed_keyboard">Showing left handed keyboard</string>
+    <string name="showing_right_handed_keyboard">Showing right handed keyboard</string>
+    <string name="showing_text_keyboard">Showing text keyboard</string>
+    <string name="single_left_book_title_key_content_desc">Single left book title mark</string>
+    <string name="single_right_book_title_key_content_desc">Single right book title mark</string>
+    <string name="slight_pause_mark_key_content_desc">Slight pause mark</string>
+    <string name="smiley_category_activity_content_desc">Activity</string>
+    <string name="smiley_category_animals_nature_content_desc">Animals and nature</string>
+    <string name="smiley_category_flags_content_desc">Flags</string>
+    <string name="smiley_category_food_drink_content_desc">Food and drink</string>
+    <string name="smiley_category_objects_content_desc">Objects</string>
+    <string name="smiley_category_shapes_content_desc">Shapes</string>
+    <string name="smiley_category_smiley_people_content_desc">Smiley and people</string>
+    <string name="smiley_category_travel_places_content_desc">Travel and places</string>
+    <string name="smiley_keyboard_label">Emoji keyboard</string>
+    <string name="smiley_keyboard_persist_states">ALL_SUB_CATEGORY</string>
+    <string name="smiley_keyboard_persist_states_pref_key">smiley_keyboard_subcategory_selected</string>
+    <string name="space_key_content_desc">Space</string>
+    <string name="string_id_japanese_12keys_flick_alphabet">ja_12keys_flick_alphabet</string>
+    <string name="string_id_japanese_12keys_flick_hiragana">ja_12keys_flick_hiragana</string>
+    <string name="string_id_japanese_12keys_toggle_alphabet">ja_12keys_toggle_alphabet</string>
+    <string name="string_id_japanese_12keys_toggle_hiragana">ja_12keys_toggle_hiragana</string>
+    <string name="string_id_japanese_12keys_toggleflick_alphabet">ja_12keys_toggleflick_alphabet</string>
+    <string name="string_id_japanese_12keys_toggleflick_hiragana">ja_12keys_toggleflick_hiragana</string>
+    <string name="string_id_japanese_floating_hard_qwerty_alphabet">ja_floating_hard_qwerty_alphabet</string>
+    <string name="string_id_japanese_floating_hard_qwerty_hiragana">ja_floating_hard_qwerty_hiragana</string>
+    <string name="string_id_japanese_godan">ja_godan</string>
+    <string name="string_id_japanese_hard_qwerty_alphabet">ja_hard_qwerty_alphabet</string>
+    <string name="string_id_japanese_hard_qwerty_hiragana">ja_hard_qwerty_hiragana</string>
+    <string name="string_id_japanese_qwerty_alphabet">ja_qwerty_alphabet</string>
+    <string name="string_id_japanese_qwerty_hiragana">ja_qwerty_hiragana</string>
+    <string name="string_id_japanese_tv_alphabet">ja_tv_alphabet</string>
+    <string name="string_id_japanese_tv_hiragana">ja_tv_hiragana</string>
+    <string name="symbol_arrow_content_desc">Arrows</string>
+    <string name="symbol_keyboard_key_content_desc">Symbol keyboard</string>
+    <string name="symbol_keyboard_label">Symbol keyboard</string>
+    <string name="symbol_kuohao_content_desc">Brackets</string>
+    <string name="symbol_love_content_desc">General</string>
+    <string name="symbol_math_content_desc">Mathematics</string>
+    <string name="symbol_number_content_desc">Numbers</string>
+    <string name="symbol_shape_content_desc">Shapes</string>
+    <string name="symbols_mode_content_desc">Symbols mode</string>
+    <string name="system_property_default_theme_file">ro.com.google.ime.theme_file</string>
+    <string name="system_property_default_theme_id">ro.com.google.ime.theme_id</string>
+    <string name="system_property_default_themes_dir">ro.com.google.ime.themes_dir</string>
+    <string name="system_property_enable_one_tap_to_search">ro.com.google.ime.search_icon</string>
+    <string name="system_property_keyboard_height_ratio">ro.com.google.ime.height_ratio</string>
+    <string name="text_download_failed">Download failed.</string>
+    <string name="text_keyboard_hidden">Text keyboard hidden</string>
+    <string name="theme_builder_brightness_bar_value_text_template">%d%%</string>
+    <string name="theme_builder_brightness_view_done">DONE</string>
+    <string name="theme_builder_brightness_view_text">Adjust Brightness</string>
+    <string name="theme_builder_cropping_view_instruction">Pinch to Scale, Drag to Move</string>
+    <string name="theme_builder_cropping_view_next">NEXT</string>
+    <string name="theme_builder_delete_button_text">Delete theme</string>
+    <string name="theme_builder_delete_dialog_message">Are you sure you want to delete the theme?</string>
+    <string name="theme_builder_edit_button_text">Edit theme</string>
+    <string name="theme_builder_edit_save">SAVE</string>
+    <string name="theme_builder_error_failed_to_load_image">Failed to load image.</string>
+    <string name="theme_builder_error_permission_denied">Unable to access image gallery.</string>
+    <string name="theme_builder_title">Create Keyboard Theme</string>
+    <string name="theme_details_button_title_apply">APPLY</string>
+    <string name="theme_details_button_title_key_border">Key borders</string>
+    <string name="theme_editor_title">Edit Keyboard Theme</string>
+    <string name="theme_listing_item_description">%1$s theme %2$d</string>
+    <string name="theme_listing_section_title_builtin_theme">Colors</string>
+    <string name="theme_listing_section_title_recent_theme">Recently used</string>
+    <string name="theme_listing_section_title_system_theme">System</string>
+    <string name="theme_listing_section_title_user_theme">Custom</string>
+    <string name="theme_listing_show_all_button">Show All</string>
+    <string name="theme_selector_key_border">Key border</string>
+    <string name="theme_selector_launch_theme_builder">My Image</string>
+    <string name="theme_selector_navigate_up">Navigate up</string>
+    <string name="theme_selector_theme_builder_launcher_content_desc">Create keyboard theme with my image</string>
+    <string name="theme_selector_title">Set Keyboard Theme</string>
+    <string name="theme_selector_untitled_theme_content_desc">Untitled theme %d</string>
+    <string name="theme_settings_access_point_content_desc">Theme settings</string>
+    <string name="tilde_key_content_desc">Tilde</string>
+    <string name="title_embedded_theme_category_landscapes">Landscapes</string>
+    <string name="toast_msg_dump_debug_data_fail">Debug dump went wrong.</string>
+    <string name="toast_msg_dump_debug_data_success">Dumped debug data successfully.</string>
+    <string name="toast_msg_permission_denied_for_action">Permission denied.</string>
+    <string name="toast_msg_permission_denied_for_features">No permission to enable:</string>
+    <string name="toast_msg_scrubbing_disabled">This application has disabled scrubbing.</string>
+    <string name="tos_url">https://www.google.com/policies/terms/</string>
+    <string name="turn_page">Page %s</string>
+    <string name="tutorial_skip">SKIP</string>
+    <string name="unicode_00A1">Inverted exclamation mark</string>
+    <string name="unicode_00AA">Feminine ordinal indicator</string>
+    <string name="unicode_00AB">Left-pointing double angle quotation mark</string>
+    <string name="unicode_00B5">Micro sign</string>
+    <string name="unicode_00B7">Middle dot</string>
+    <string name="unicode_00B9">Superscript one</string>
+    <string name="unicode_00BA">Masculine ordinal indicator</string>
+    <string name="unicode_00BB">Right-pointing double angle quotation mark</string>
+    <string name="unicode_00BF">Inverted question mark</string>
+    <string name="unicode_00DF">Sharp S</string>
+    <string name="unicode_00E0">A, grave</string>
+    <string name="unicode_00E1">A, acute</string>
+    <string name="unicode_00E2">A, circumflex</string>
+    <string name="unicode_00E3">A, tilde</string>
+    <string name="unicode_00E4">A, diaeresis</string>
+    <string name="unicode_00E5">A, ring above</string>
+    <string name="unicode_00E6">A, E, ligature</string>
+    <string name="unicode_00E7">C, cedilla</string>
+    <string name="unicode_00E8">E, grave</string>
+    <string name="unicode_00E9">E, acute</string>
+    <string name="unicode_00EA">E, circumflex</string>
+    <string name="unicode_00EB">E, diaeresis</string>
+    <string name="unicode_00EC">I, grave</string>
+    <string name="unicode_00ED">I, acute</string>
+    <string name="unicode_00EE">I, circumflex</string>
+    <string name="unicode_00EF">I, diaeresis</string>
+    <string name="unicode_00F0">Eth</string>
+    <string name="unicode_00F1">N, tilde</string>
+    <string name="unicode_00F2">O, grave</string>
+    <string name="unicode_00F3">O, acute</string>
+    <string name="unicode_00F4">O, circumflex</string>
+    <string name="unicode_00F5">O, tilde</string>
+    <string name="unicode_00F6">O, diaeresis</string>
+    <string name="unicode_00F8">O, stroke</string>
+    <string name="unicode_00F9">U, grave</string>
+    <string name="unicode_00FA">U, acute</string>
+    <string name="unicode_00FB">U, circumflex</string>
+    <string name="unicode_00FC">U, diaeresis</string>
+    <string name="unicode_00FD">Y, acute</string>
+    <string name="unicode_00FE">Thorn</string>
+    <string name="unicode_00FF">Y, diaeresis</string>
+    <string name="unicode_0101">A, macron</string>
+    <string name="unicode_0103">A, breve</string>
+    <string name="unicode_0105">A, ogonek</string>
+    <string name="unicode_0107">C, acute</string>
+    <string name="unicode_0109">C, circumflex</string>
+    <string name="unicode_010B">C, dot above</string>
+    <string name="unicode_010D">C, caron</string>
+    <string name="unicode_010F">D, caron</string>
+    <string name="unicode_0111">D, stroke</string>
+    <string name="unicode_0113">E, macron</string>
+    <string name="unicode_0115">E, breve</string>
+    <string name="unicode_0117">E, dot above</string>
+    <string name="unicode_0119">E, ogonek</string>
+    <string name="unicode_011B">E, caron</string>
+    <string name="unicode_011D">G, circumflex</string>
+    <string name="unicode_011F">G, breve</string>
+    <string name="unicode_0121">G, dot above</string>
+    <string name="unicode_0123">G, cedilla</string>
+    <string name="unicode_0125">H, circumflex</string>
+    <string name="unicode_0127">H, stroke</string>
+    <string name="unicode_0129">I, tilde</string>
+    <string name="unicode_012B">I, macron</string>
+    <string name="unicode_012D">I, breve</string>
+    <string name="unicode_012F">I, ogonek</string>
+    <string name="unicode_0131">Dotless I</string>
+    <string name="unicode_0133">I, J, ligature</string>
+    <string name="unicode_0135">J, circumflex</string>
+    <string name="unicode_0137">K, cedilla</string>
+    <string name="unicode_0138">Kra</string>
+    <string name="unicode_013A">L, acute</string>
+    <string name="unicode_013C">L, cedilla</string>
+    <string name="unicode_013E">L, caron</string>
+    <string name="unicode_0140">L, middle dot</string>
+    <string name="unicode_0142">L, stroke</string>
+    <string name="unicode_0144">N, acute</string>
+    <string name="unicode_0146">N, cedilla</string>
+    <string name="unicode_0148">N, caron</string>
+    <string name="unicode_0149">N, preceded by apostrophe</string>
+    <string name="unicode_014B">Eng</string>
+    <string name="unicode_014D">O, macron</string>
+    <string name="unicode_014F">O, breve</string>
+    <string name="unicode_0151">O, double acute</string>
+    <string name="unicode_0153">O, E, ligature</string>
+    <string name="unicode_0155">R, acute</string>
+    <string name="unicode_0157">R, cedilla</string>
+    <string name="unicode_0159">R, caron</string>
+    <string name="unicode_015B">S, acute</string>
+    <string name="unicode_015D">S, circumflex</string>
+    <string name="unicode_015F">S, cedilla</string>
+    <string name="unicode_0161">S, caron</string>
+    <string name="unicode_0163">T, cedilla</string>
+    <string name="unicode_0165">T, caron</string>
+    <string name="unicode_0167">T, stroke</string>
+    <string name="unicode_0169">U, tilde</string>
+    <string name="unicode_016B">U, macron</string>
+    <string name="unicode_016D">U, breve</string>
+    <string name="unicode_016F">U, ring above</string>
+    <string name="unicode_0171">U, double acute</string>
+    <string name="unicode_0173">U, ogonek</string>
+    <string name="unicode_0175">W, circumflex</string>
+    <string name="unicode_0177">Y, circumflex</string>
+    <string name="unicode_017A">Z, acute</string>
+    <string name="unicode_017C">Z, dot above</string>
+    <string name="unicode_017E">Z, caron</string>
+    <string name="unicode_017F">Long S</string>
+    <string name="unicode_01A1">O, horn</string>
+    <string name="unicode_01B0">U, horn</string>
+    <string name="unicode_0219">S, comma below</string>
+    <string name="unicode_021B">T, comma below</string>
+    <string name="unicode_0259">Schwa</string>
+    <string name="unicode_1EA1">A, dot below</string>
+    <string name="unicode_1EA3">A, hook above</string>
+    <string name="unicode_1EA5">A, circumflex and acute</string>
+    <string name="unicode_1EA7">A, circumflex and grave</string>
+    <string name="unicode_1EA9">A, circumflex and hook above</string>
+    <string name="unicode_1EAB">A, circumflex and tilde</string>
+    <string name="unicode_1EAD">A, circumflex and dot below</string>
+    <string name="unicode_1EAF">A, breve and acute</string>
+    <string name="unicode_1EB1">A, breve and grave</string>
+    <string name="unicode_1EB3">A, breve and hook above</string>
+    <string name="unicode_1EB5">A, breve and tilde</string>
+    <string name="unicode_1EB7">A, breve and dot below</string>
+    <string name="unicode_1EB9">E, dot below</string>
+    <string name="unicode_1EBB">E, hook above</string>
+    <string name="unicode_1EBD">E, tilde</string>
+    <string name="unicode_1EBF">E, circumflex and acute</string>
+    <string name="unicode_1EC1">E, circumflex and grave</string>
+    <string name="unicode_1EC3">E, circumflex and hook above</string>
+    <string name="unicode_1EC5">E, circumflex and tilde</string>
+    <string name="unicode_1EC7">E, circumflex and dot below</string>
+    <string name="unicode_1EC9">I, hook above</string>
+    <string name="unicode_1ECB">I, dot below</string>
+    <string name="unicode_1ECD">O, dot below</string>
+    <string name="unicode_1ECF">O, hook above</string>
+    <string name="unicode_1ED1">O, circumflex and acute</string>
+    <string name="unicode_1ED3">O, circumflex and grave</string>
+    <string name="unicode_1ED5">O, circumflex and hook above</string>
+    <string name="unicode_1ED7">O, circumflex and tilde</string>
+    <string name="unicode_1ED9">O, circumflex and dot below</string>
+    <string name="unicode_1EDB">O, horn and acute</string>
+    <string name="unicode_1EDD">O, horn and grave</string>
+    <string name="unicode_1EDF">O, horn and hook above</string>
+    <string name="unicode_1EE1">O, horn and tilde</string>
+    <string name="unicode_1EE3">O, horn and dot below</string>
+    <string name="unicode_1EE5">U, dot below</string>
+    <string name="unicode_1EE7">U, hook above</string>
+    <string name="unicode_1EE9">U, horn and acute</string>
+    <string name="unicode_1EEB">U, horn and grave</string>
+    <string name="unicode_1EED">U, horn and hook above</string>
+    <string name="unicode_1EEF">U, horn and tilde</string>
+    <string name="unicode_1EF1">U, horn and dot below</string>
+    <string name="unicode_1EF3">Y, grave</string>
+    <string name="unicode_1EF5">Y, dot below</string>
+    <string name="unicode_1EF7">Y, hook above</string>
+    <string name="unicode_1EF9">Y, tilde</string>
+    <string name="unicode_2018">Left single quotation mark</string>
+    <string name="unicode_2019">Right single quotation mark</string>
+    <string name="unicode_201A">Single low-9 quotation mark</string>
+    <string name="unicode_201C">Left double quotation mark</string>
+    <string name="unicode_201D">Right double quotation mark</string>
+    <string name="unicode_2020">Dagger</string>
+    <string name="unicode_2021">Double dagger</string>
+    <string name="unicode_2030">Per mille sign</string>
+    <string name="unicode_2032">Prime</string>
+    <string name="unicode_2033">Double prime</string>
+    <string name="unicode_2039">Single left-pointing angle quotation mark</string>
+    <string name="unicode_203A">Single right-pointing angle quotation mark</string>
+    <string name="unicode_2074">Superscript four</string>
+    <string name="unicode_207F">Superscript latin small letter n</string>
+    <string name="unicode_20B1">Peso sign</string>
+    <string name="unicode_20BD">Ruble</string>
+    <string name="unicode_2105">Care of</string>
+    <string name="unicode_2192">Rightwards arrow</string>
+    <string name="unicode_2193">Downwards arrow</string>
+    <string name="unicode_2205">Empty set</string>
+    <string name="unicode_2206">Increment</string>
+    <string name="unicode_2264">Less-than or equal to</string>
+    <string name="unicode_2265">Greater-than or equal to</string>
+    <string name="unicode_2605">Black star</string>
+    <string name="up_arrow_key_content_desc">Up arrow</string>
+    <string name="upper_case_content_desc">Capital %1$s</string>
+    <string name="user_dictionary_tool_add_entry_dialog_title">Add a new word</string>
+    <string name="user_dictionary_tool_app_name">Dictionary tool</string>
+    <string name="user_dictionary_tool_create_dictionary_dialog_title">Create a new dictionary</string>
+    <string name="user_dictionary_tool_default_dictionary_name">User Dictionary 1</string>
+    <string name="user_dictionary_tool_delete_done_message">Delete operation successful.</string>
+    <string name="user_dictionary_tool_dictionary_name_dialog_dictionary_name_label">Name of the dictionary</string>
+    <string name="user_dictionary_tool_error_delete_entries_without_check">Select the words you would like to delete.</string>
+    <string name="user_dictionary_tool_error_export_failed_to_export">Failed to export the user dictionary.</string>
+    <string name="user_dictionary_tool_error_export_no_exportable_applications">There are no applications (e.g. Google Docs) to export the user dictionary.</string>
+    <string name="user_dictionary_tool_error_import_cannot_read_import_source">Could not read the file.</string>
+    <string name="user_dictionary_tool_error_import_no_applications">There are no applications (e.g. Google Docs) to import the user dictionary.</string>
+    <string name="user_dictionary_tool_error_import_no_zip_entry">The ZIP file is empty.</string>
+    <string name="user_dictionary_tool_error_import_source_invalid_scheme">Data import only works on files.</string>
+    <string name="user_dictionary_tool_error_import_too_large_zip_entry">The ZIP file is too large.</string>
+    <string name="user_dictionary_tool_error_temp_file_failure">Failed to read import data.</string>
+    <string name="user_dictionary_tool_import_dictionary_selection_dialog_new_dictionary">Import as a new dictionary</string>
+    <string name="user_dictionary_tool_import_dictionary_selection_dialog_title">Select import destination</string>
+    <string name="user_dictionary_tool_menu_add_entry_title">New word</string>
+    <string name="user_dictionary_tool_menu_create_dictionary_title">New dictionary</string>
+    <string name="user_dictionary_tool_menu_delete_dictionary_title">Delete current dictionary</string>
+    <string name="user_dictionary_tool_menu_delete_entry_title">Delete word</string>
+    <string name="user_dictionary_tool_menu_export_dictionary_title">Export current dictionary</string>
+    <string name="user_dictionary_tool_menu_import_dictionary_title">Import dictionary</string>
+    <string name="user_dictionary_tool_menu_rename_dictionary_title">Rename current dictionary</string>
+    <string name="user_dictionary_tool_menu_undo_title">Undo</string>
+    <string name="user_dictionary_tool_rename_dictionary_dialog_title">Edit the name of the dictionary</string>
+    <string name="user_dictionary_tool_status_error_dictionary_name_contains_invalid_character">The name contains invalid character(s).</string>
+    <string name="user_dictionary_tool_status_error_dictionary_name_duplicated">The name already exists.</string>
+    <string name="user_dictionary_tool_status_error_dictionary_name_empty">Please type a dictionary name.</string>
+    <string name="user_dictionary_tool_status_error_dictionary_name_too_long">The name is too long.</string>
+    <string name="user_dictionary_tool_status_error_dictionary_size_limit_exceeded">"Can't create any more dictionaries."</string>
+    <string name="user_dictionary_tool_status_error_entry_size_limit_exceeded">"Can't create any more entries in this dictionary."</string>
+    <string name="user_dictionary_tool_status_error_file_not_found">Could not open the file.</string>
+    <string name="user_dictionary_tool_status_error_file_size_limit_exceeded">The data size exceeds the file size limit.</string>
+    <string name="user_dictionary_tool_status_error_general">The operation has failed.</string>
+    <string name="user_dictionary_tool_status_error_import_invalid_entries">Some words could not be imported.</string>
+    <string name="user_dictionary_tool_status_error_import_too_many_words">The import source contains too many words.</string>
+    <string name="user_dictionary_tool_status_error_invalid_file_format">Could not read the file.</string>
+    <string name="user_dictionary_tool_status_error_no_undo_history">No more undo-able operation.</string>
+    <string name="user_dictionary_tool_status_error_reading_contains_invalid_character">The reading contains invalid character(s).</string>
+    <string name="user_dictionary_tool_status_error_reading_empty">Please type the reading.</string>
+    <string name="user_dictionary_tool_status_error_reading_too_long">The reading is too long.</string>
+    <string name="user_dictionary_tool_status_error_word_contains_invalid_character">Thw word contains invalid character(s).</string>
+    <string name="user_dictionary_tool_status_error_word_empty">Please type the word.</string>
+    <string name="user_dictionary_tool_status_error_word_too_long">The word is too long.</string>
+    <string name="user_dictionary_tool_undo_done_message">Undo operation successful.</string>
+    <string name="user_dictionary_tool_word_register_dialog_pos_label">Category</string>
+    <string name="user_dictionary_tool_word_register_dialog_reading_label">Reading</string>
+    <string name="user_dictionary_tool_word_register_dialog_word_label">Word</string>
+    <string name="user_dictionary_tool_zip_file_selection_dialog_title">Select import source</string>
+    <string name="user_theme_name_format">Theme (%1$d) created on %2$s</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="voice_input_key_content_desc">Voice input</string>
+    <string name="voice_un_support">Google Voice Search is not supported on your device</string>
+    <string name="web_keyboard_label">Web address keyboard</string>
+    <string name="www_dot_key_content_desc">www dot</string>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_63">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64">false</item>
+    <item type="string" name="APKTOOL_DUMMY_65">false</item>
+    <item type="string" name="APKTOOL_DUMMY_66">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67">false</item>
+    <item type="string" name="APKTOOL_DUMMY_69">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_80">false</item>
+    <item type="string" name="APKTOOL_DUMMY_83">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141">false</item>
+    <item type="string" name="APKTOOL_DUMMY_142">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144">false</item>
+    <item type="string" name="APKTOOL_DUMMY_145">false</item>
+    <item type="string" name="APKTOOL_DUMMY_146">false</item>
+    <item type="string" name="APKTOOL_DUMMY_147">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_160">false</item>
+    <item type="string" name="APKTOOL_DUMMY_161">false</item>
+    <item type="string" name="APKTOOL_DUMMY_162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_164">false</item>
+    <item type="string" name="APKTOOL_DUMMY_165">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_167">false</item>
+    <item type="string" name="APKTOOL_DUMMY_168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_169">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_173">false</item>
+    <item type="string" name="APKTOOL_DUMMY_174">false</item>
+    <item type="string" name="APKTOOL_DUMMY_175">false</item>
+    <item type="string" name="APKTOOL_DUMMY_176">false</item>
+    <item type="string" name="APKTOOL_DUMMY_177">false</item>
+    <item type="string" name="APKTOOL_DUMMY_178">false</item>
+    <item type="string" name="APKTOOL_DUMMY_179">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_182">false</item>
+    <item type="string" name="APKTOOL_DUMMY_185">false</item>
+    <item type="string" name="APKTOOL_DUMMY_189">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_196">false</item>
+    <item type="string" name="APKTOOL_DUMMY_199">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_204">false</item>
+    <item type="string" name="APKTOOL_DUMMY_209">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_249">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_269">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_275">false</item>
+    <item type="string" name="APKTOOL_DUMMY_289">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_302">false</item>
+    <item type="string" name="APKTOOL_DUMMY_304">false</item>
+    <item type="string" name="APKTOOL_DUMMY_305">false</item>
+    <item type="string" name="APKTOOL_DUMMY_309">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_310">false</item>
+    <item type="string" name="APKTOOL_DUMMY_315">false</item>
+    <item type="string" name="APKTOOL_DUMMY_316">false</item>
+    <item type="string" name="APKTOOL_DUMMY_317">false</item>
+    <item type="string" name="APKTOOL_DUMMY_318">false</item>
+    <item type="string" name="APKTOOL_DUMMY_319">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_320">false</item>
+    <item type="string" name="APKTOOL_DUMMY_321">false</item>
+    <item type="string" name="APKTOOL_DUMMY_322">false</item>
+    <item type="string" name="APKTOOL_DUMMY_324">false</item>
+    <item type="string" name="APKTOOL_DUMMY_325">false</item>
+    <item type="string" name="APKTOOL_DUMMY_326">false</item>
+    <item type="string" name="APKTOOL_DUMMY_327">false</item>
+    <item type="string" name="APKTOOL_DUMMY_328">false</item>
+    <item type="string" name="APKTOOL_DUMMY_329">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_331">false</item>
+    <item type="string" name="APKTOOL_DUMMY_332">false</item>
+    <item type="string" name="APKTOOL_DUMMY_334">false</item>
+    <item type="string" name="APKTOOL_DUMMY_337">false</item>
+    <item type="string" name="APKTOOL_DUMMY_338">false</item>
+    <item type="string" name="APKTOOL_DUMMY_339">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_340">false</item>
+    <item type="string" name="APKTOOL_DUMMY_341">false</item>
+    <item type="string" name="APKTOOL_DUMMY_342">false</item>
+    <item type="string" name="APKTOOL_DUMMY_343">false</item>
+    <item type="string" name="APKTOOL_DUMMY_344">false</item>
+    <item type="string" name="APKTOOL_DUMMY_345">false</item>
+    <item type="string" name="APKTOOL_DUMMY_346">false</item>
+    <item type="string" name="APKTOOL_DUMMY_347">false</item>
+    <item type="string" name="APKTOOL_DUMMY_348">false</item>
+    <item type="string" name="APKTOOL_DUMMY_349">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_350">false</item>
+    <item type="string" name="APKTOOL_DUMMY_351">false</item>
+    <item type="string" name="APKTOOL_DUMMY_352">false</item>
+    <item type="string" name="APKTOOL_DUMMY_353">false</item>
+    <item type="string" name="APKTOOL_DUMMY_354">false</item>
+    <item type="string" name="APKTOOL_DUMMY_355">false</item>
+    <item type="string" name="APKTOOL_DUMMY_356">false</item>
+    <item type="string" name="APKTOOL_DUMMY_358">false</item>
+    <item type="string" name="APKTOOL_DUMMY_359">false</item>
+    <item type="string" name="APKTOOL_DUMMY_360">false</item>
+    <item type="string" name="APKTOOL_DUMMY_365">false</item>
+    <item type="string" name="APKTOOL_DUMMY_369">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_370">false</item>
+    <item type="string" name="APKTOOL_DUMMY_371">false</item>
+    <item type="string" name="APKTOOL_DUMMY_372">false</item>
+    <item type="string" name="APKTOOL_DUMMY_373">false</item>
+    <item type="string" name="APKTOOL_DUMMY_374">false</item>
+    <item type="string" name="APKTOOL_DUMMY_375">false</item>
+    <item type="string" name="APKTOOL_DUMMY_376">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_380">false</item>
+    <item type="string" name="APKTOOL_DUMMY_381">false</item>
+    <item type="string" name="APKTOOL_DUMMY_383">false</item>
+    <item type="string" name="APKTOOL_DUMMY_384">false</item>
+    <item type="string" name="APKTOOL_DUMMY_385">false</item>
+    <item type="string" name="APKTOOL_DUMMY_386">false</item>
+    <item type="string" name="APKTOOL_DUMMY_387">false</item>
+    <item type="string" name="APKTOOL_DUMMY_388">false</item>
+    <item type="string" name="APKTOOL_DUMMY_389">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_390">false</item>
+    <item type="string" name="APKTOOL_DUMMY_391">false</item>
+    <item type="string" name="APKTOOL_DUMMY_394">false</item>
+    <item type="string" name="APKTOOL_DUMMY_395">false</item>
+    <item type="string" name="APKTOOL_DUMMY_396">false</item>
+    <item type="string" name="APKTOOL_DUMMY_397">false</item>
+    <item type="string" name="APKTOOL_DUMMY_398">false</item>
+    <item type="string" name="APKTOOL_DUMMY_399">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_401">false</item>
+    <item type="string" name="APKTOOL_DUMMY_406">false</item>
+    <item type="string" name="APKTOOL_DUMMY_408">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_432">false</item>
+    <item type="string" name="APKTOOL_DUMMY_434">false</item>
+    <item type="string" name="APKTOOL_DUMMY_435">false</item>
+    <item type="string" name="APKTOOL_DUMMY_436">false</item>
+    <item type="string" name="APKTOOL_DUMMY_437">false</item>
+    <item type="string" name="APKTOOL_DUMMY_438">false</item>
+    <item type="string" name="APKTOOL_DUMMY_439">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_440">false</item>
+    <item type="string" name="APKTOOL_DUMMY_441">false</item>
+    <item type="string" name="APKTOOL_DUMMY_442">false</item>
+    <item type="string" name="APKTOOL_DUMMY_443">false</item>
+    <item type="string" name="APKTOOL_DUMMY_444">false</item>
+    <item type="string" name="APKTOOL_DUMMY_445">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_500">false</item>
+    <item type="string" name="APKTOOL_DUMMY_501">false</item>
+    <item type="string" name="APKTOOL_DUMMY_502">false</item>
+    <item type="string" name="APKTOOL_DUMMY_503">false</item>
+    <item type="string" name="APKTOOL_DUMMY_537">false</item>
+    <item type="string" name="APKTOOL_DUMMY_538">false</item>
+    <item type="string" name="APKTOOL_DUMMY_53d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_53f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_542">false</item>
+    <item type="string" name="APKTOOL_DUMMY_543">false</item>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправильний PIN-код SIM-карти. У вас залишилося %d спроби.</item>
+        <item quantity="one">Неправильний PIN-код SIM-карти. У вас залишилася %d спроба.</item>
+        <item quantity="few">Неправильний PIN-код SIM-карти. У вас залишилося %d спроби.</item>
+        <item quantity="many">Неправильний PIN-код SIM-карти. У вас залишилося %d спроб.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправильний PUK-код SIM-карти. У вас залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="one">Неправильний PUK-код SIM-карти. У вас залишилася %d спроба. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="few">Неправильний PUK-код SIM-карти. У вас залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="many">Неправильний PUK-код SIM-карти. У вас залишилося %d спроб. Після цього SIM-карту буде назавжди заблоковано.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте пароль.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте пароль.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте пароль.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте пароль.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте ключ.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте ключ.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте ключ.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте ключ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте PIN-код.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте PIN-код.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте PIN-код.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте PIN-код.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s і ще %3$d</item>
+        <item quantity="one">%1$s, %2$s і ще %3$d</item>
+        <item quantity="few">%1$s, %2$s і ще %3$d</item>
+        <item quantity="many">%1$s, %2$s і ще %3$d</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Ще %s сповіщення в групі.</item>
+        <item quantity="one">Ще %s сповіщення в групі.</item>
+        <item quantity="few">Ще %s сповіщення в групі.</item>
+        <item quantity="many">Ще %s сповіщень у групі.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 з %s категорії сповіщень із цього додатка</item>
+        <item quantity="one">1 з %s категорії сповіщень із цього додатка</item>
+        <item quantity="few">1 з %s категорій сповіщень із цього додатка</item>
+        <item quantity="many">1 з %s категорій сповіщень із цього додатка</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d години</item>
+        <item quantity="many">%d годин</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d хвилини</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">На панелі огляду %d екрана</item>
+        <item quantity="one">На панелі огляду %d екран</item>
+        <item quantity="few">На панелі огляду %d екрани</item>
+        <item quantity="many">На панелі огляду %d екранів</item>
+    </plurals>
+</resources>

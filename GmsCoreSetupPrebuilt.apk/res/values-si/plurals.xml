@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">සියලු යෙදුම් %1$d</item>
+        <item quantity="one">සියලු යෙදුම් %1$d</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">යෙදුම් %1$dක් තෝරන ලදී</item>
+        <item quantity="one">යෙදුම් %1$dක් තෝරන ලදී</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">යෙදුම් %1$dක් දැනටමත් ස්ථාපනය කර ඇත</item>
+        <item quantity="one">යෙදුම් %1$dක් දැනටමත් ස්ථාපනය කර ඇත</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">ඔබගේ උපස්ථයෙහි යෙදුම්%1$dක් ඇත. කීපයක් තෝරා ඒ සියල්ල ගෙන එන්න.</item>
+        <item quantity="one">ඔබගේ උපස්ථයෙහි යෙදුම්%1$dක් ඇත. කීපයක් තෝරා ඒ සියල්ල ගෙන එන්න.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">උපාංග සම්බන්ධතා %1$d</item>
+        <item quantity="one">උපාංග සම්බන්ධතා %1$d</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM %1$d, උපාංග %2$d</item>
+        <item quantity="one">SIM %1$d, උපාංග %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">iCloud® සම්බන්ධතා %1$d</item>
+        <item quantity="one">iCloud® සම්බන්ධතා %1$d</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">SIM සම්බන්ධතා %1$d</item>
+        <item quantity="one">SIM සම්බන්ධතා %1$d</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">අපට යෙදුම් %1$dක් හමු විය. කීපයක් තෝරා ඒ සියල්ල ගෙන එන්න.</item>
+        <item quantity="one">අපට යෙදුම් %1$dක් හමු විය. කීපයක් තෝරා ඒ සියල්ල ගෙන එන්න.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">අපට ඔබේ iOS® යෙදුම්වලින් %1$dක් සඳහා ගැළපීමක් හමු විය. එක් එක් යෙදුම ස්ථාපනය කිරීම මඟින්, ඔබ එහි අවසර සමඟ එකඟ වේ. &lt;annotation id="apps_permissions_learn_more">තව දැන ගන්න&lt;/annotation></item>
+        <item quantity="one">අපට ඔබේ iOS® යෙදුම්වලින් %1$dක් සඳහා ගැළපීමක් හමු විය. එක් එක් යෙදුම ස්ථාපනය කිරීම මඟින්, ඔබ එහි අවසර සමඟ එකඟ වේ. &lt;annotation id="apps_permissions_learn_more">තව දැන ගන්න&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">අයිතම %1$dක් ඉතිරිය…</item>
+        <item quantity="one">අයිතම %1$dක් ඉතිරිය…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">සූදානම් වන්න! මෙම අවස්ථාවට තවදුරටත් පහත සඳහන් සහභාගිවන්නන්ව ඇතුළත් නොකරයි:</item>
+        <item quantity="one">සූදානම් වන්න! මෙම අවස්ථාවට තවදුරටත් පහත සඳහන් සහභාගිවන්නන්ව ඇතුළත් නොකරයි:</item>
+    </plurals>
+</resources>

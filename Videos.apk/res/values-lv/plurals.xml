@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Vērtējums: %1$s zvaigznītes (no %2$d personām)</item>
+        <item quantity="zero">Vērtējums: %1$s zvaigznītes (no %2$d personām)</item>
+        <item quantity="one">Vērtējums: %1$s zvaigznītes (no %2$d personas)</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Beidzas pēc %1$d dienām</item>
+        <item quantity="zero">Beidzas pēc %1$d dienām</item>
+        <item quantity="one">Beidzas pēc %1$d dienas</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Beidzas pēc %1$d stundām</item>
+        <item quantity="zero">Beidzas pēc %1$d stundām</item>
+        <item quantity="one">Beidzas pēc %1$d stundas</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Vēl %1$d</item>
+        <item quantity="zero">Vēl %1$d</item>
+        <item quantity="one">Vēl %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Obriši pretraživanje</string>
+    <string name="place_autocomplete_search_hint">Traži</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima problema s Google Play uslugama. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">Aplikacija %1$s neće raditi ako ne omogućite Google Play usluge.</string>
+    <string name="common_google_play_services_enable_title">Omogućite Google Play usluge</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">Aplikacija %1$s neće raditi bez Google Play usluga, kojih na vašem uređaju nema.</string>
+    <string name="common_google_play_services_install_title">Nabavite Google Play usluge</string>
+    <string name="common_google_play_services_notification_ticker">Greška Google Play usluge</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s neće raditi bez Google Play usluga, koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">Aplikacija %1$s neće raditi ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje Google Play usluga</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s neće raditi bez Google Play usluga, koje se trenutno ažuriraju.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija Google Play usluga. Ubrzo će se samo ažurirati.</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_signin_button_text">Prijavi se</string>
+    <string name="common_signin_button_text_long">Prijavi se pomoću Googlea</string>
+    <string name="anomaly_entry_system">Android sistem</string>
+    <string name="background_battery_usage_description">Primijećeno je obimno korištenje baterije u pozadini</string>
+    <string name="battery_history_days">%1$d d, %2$d h, %3$d min, %4$d s</string>
+    <string name="battery_history_hours">%1$d h, %2$d min, %3$d s</string>
+    <string name="battery_history_minutes">%1$d min, %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d d, %2$d h, %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d h, %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Obavještenje o malom kapacitetu baterije</string>
+    <string name="time_remaining_warning_subtext">Preostalo je još oko %1$s, na osnovu vašeg korištenja</string>
+    <string name="time_remaining_warning_text">Baterija bi se uskoro mogla isprazniti</string>
+    <string name="usage_alerts_empty_state">Nema obavještenja od posljednjeg potpunog punjenja baterije</string>
+    <string name="usage_alerts_title">Obavještenja o upotrebi</string>
+</resources>

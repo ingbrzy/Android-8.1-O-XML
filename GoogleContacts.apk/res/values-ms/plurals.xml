@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kenalan ditambahkan pada label %2$s</item>
+        <item quantity="one">%1$d kenalan ditambahkan pada label %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Menambahkan %1$d kenalan pada label %2$s</item>
+        <item quantity="one">Menambahkan %1$d kenalan pada label %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Semak maklumat yang dicadangkan untuk %d kenalan</item>
+        <item quantity="one">Semak maklumat yang dicadangkan untuk %d kenalan</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d kenalan sarap</item>
+        <item quantity="one">%d kenalan sarap</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kenalan pendua</item>
+        <item quantity="one">1 kenalan pendua</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d panggilan terbaharu • Terakhir pada %2$s</item>
+        <item quantity="one">%1$d panggilan terbaharu • Terakhir pada %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Kenalan sudah pun ditambahkan pada label %1$s</item>
+        <item quantity="one">Kenalan sudah pun ditambahkan pada label %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kenalan</item>
+        <item quantity="one">%d kenalan</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kenalan · %2$s</item>
+        <item quantity="one">%1$d kenalan · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kenalan dipadamkan</item>
+        <item quantity="one">%1$d kenalan dipadamkan</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Kenalan ini akan dialih keluar daripada Kenalan Google dan semua peranti anda yang disegerakkan</item>
+        <item quantity="one">Kenalan ini akan dialih keluar daripada Kenalan Google dan semua peranti anda yang disegerakkan</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kenalan dalam akaun anda yang lain</item>
+        <item quantity="one">1 kenalan dalam akaun anda yang lain</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kenalan</item>
+        <item quantity="one">1 kenalan</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kenalan • ^2</item>
+        <item quantity="one">^1 kenalan • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Alihkan %1$d kenalan ini ke dalam %2$s?</item>
+        <item quantity="one">Alihkan kenalan ini ke dalam %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d kenalan dialihkan</item>
+        <item quantity="one">%d kenalan dialihkan</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Selesai mengalihkan %d kenalan</item>
+        <item quantity="one">Selesai mengalihkan kenalan</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Mengalihkan %d kenalan</item>
+        <item quantity="one">Mengalihkan kenalan</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kenalan disandarkan ke %2$s</item>
+        <item quantity="one">%1$d kenalan disandarkan ke %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Import daripada kad SIM</item>
+        <item quantity="one">Import daripada kad SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kenalan</item>
+        <item quantity="one">1 kenalan</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d kenalan SIM diimport</item>
+        <item quantity="one">1 kenalan SIM diimport</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Kongsi kenalan melalui</item>
+        <item quantity="one">Kongsi kenalan melalui</item>
+    </plurals>
+</resources>

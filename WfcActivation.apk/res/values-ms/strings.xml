@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Seterusnya</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="vzw_wfc_activation_error">Tidak dapat mengaktifkan panggilan Wi-Fi. Sila cuba sebentar lagi.</string>
+    <string name="vzw_address_update_error">Tidak dapat mengemas kini alamat kecemasan semasa pada masa ini. Sila cuba sebentar lagi.</string>
+    <string name="emergency_address_app_label">Pengurusan Alamat Kecemasan</string>
+    <string name="progress_text">Sila tunggu…</string>
+    <string name="vzw_tos_title">Aktifkan Panggilan Wi-Fi</string>
+    <string name="cancel">Batal</string>
+    <string name="vzw_tos_text">"Panggilan Wi-Fi membolehkan anda membuat panggilan menggunakan Wi-Fi apabila rangkaian mudah alih tidak tersedia.
+
+Untuk menyediakan Panggilan Wi-Fi, anda perlu memasukkan alamat A.S. Alamat ini akan digunakan oleh perkhidmatan kecemasan di lokasi anda jika anda membuat panggilan kecemasan (E911) melalui Wi-Fi daripada telefon ini di A.S.
+
+Kami syorkan anda menukar alamat ini apabila anda membuat panggilan melalui rangkaian Wi-Fi yang berbeza supaya maklumat lokasi anda tepat. Anda boleh menukar lokasi pada bila-bila masa dengan melawati menu tetapan Panggilan Wi-Fi."</string>
+    <string name="vzw_tos_link">Terma dan Syarat</string>
+    <string name="tos_continue">Teruskan</string>
+    <string name="vzw_e911_title">Maklumat Lokasi Kecemasan</string>
+    <string name="vzw_e911_description"><b>PENTING - KECEMASAN 911 ALAMAT DIPERLUKAN</b>"
+Untuk menghidupkan Panggilan Wi-Fi, masukkan alamat A.S. yang apabila anda memanggil 911, perkhidmatan kecemasan akan dihantar ke alamat tersebut. Anda boleh pergi ke Tetapan dan menukar alamat ini pada bila-bila masa. Anda perlu mengemas kini alamat ini setiap kali anda bertukar lokasi."</string>
+    <string name="vzw_e911_warning"><b>AMARAN - PENGEHADAN PANGGILAN KECEMASAN 911</b>"
+Beritahu lokasi anda setiap kali menghubungi 911. Panggilan 911 anda akan dibuat melalui Wi-Fi hanya sekiranya rangkaian mudah alih tidak tersedia. Panggilan 911 yang dibuat melalui Wi-Fi mungkin tertangguh atau tidak berjaya; contohnya, jika sistem 911 tidak mengenali alamat, kuasa elektrik terputus atau sambungan Wi-Fi anda tidak berfungsi. Perkhidmatan kecemasan akan dihantar ke alamat yang anda berikan di atas, jadi sila kemas kini alamat itu apabila anda bertukar lokasi."</string>
+    <string name="house_number">Nombor Alamat</string>
+    <string name="street">Jalan</string>
+    <string name="apt_suite_number">Apt, Suite, dll.</string>
+    <string name="city">Bandar</string>
+    <string name="state">Negeri</string>
+    <string name="zip_code">Poskod</string>
+    <string name="save">Simpan</string>
+    <string name="vzw_address_confirm_text_part1">Kami tidak dapat mencari alamat yang anda masukkan kerana alamat jalan tidak ditemui atau bandar, negeri dan poskod mungkin salah.</string>
+    <string name="vzw_address_confirm_text_part2">Jika bandar, negeri dan poskod anda salah, ketik %1$s, jika tidak, ketik %2$s.</string>
+    <string name="save_anyway">Simpan Juga</string>
+    <string name="edit_address">Edit Alamat</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Kami tidak dapat mencari alamat yang anda masukkan:</string>
+    <string name="vzw_address_alternate_text">Adakah anda maksudkan:</string>
+    <string name="vzw_partial_confirm_head">Alamat yang dimasukkan tidak dapat disahkan oleh Penyedia Perkhidmatan Kecemasan.</string>
+    <string name="vzw_partial_confirm_text">Adakah anda pasti mahu menggunakan alamat ini sekiranya berlaku kecemasan?</string>
+    <string name="vzw_partial_failure_text_part1">Bandar, negeri atau poskod yang anda masukkan mungkin salah.</string>
+    <string name="vzw_partial_failure_text_part2">Sila semak alamat dan cuba lagi.</string>
+    <string name="vzw_address_update_success_toast">Alamat kecemasan dikemas kini</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi dimatikan</string>
+    <string name="connect_to_wifi_or_web_portal_message">Anda boleh menyediakan panggilan Wi-Fi menggunakan rangkaian mudah alih tetapi anda perlu menghidupkan Wi-Fi dan bersambung ke rangkaian untuk menggunakan ciri ini.</string>
+    <string name="button_turn_on_wifi">Hidupkan Wi-Fi</string>
+    <string name="button_setup_web_portal">Teruskan Persediaan</string>
+</resources>

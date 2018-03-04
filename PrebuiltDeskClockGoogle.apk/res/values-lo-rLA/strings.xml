@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">A=ອາ​ບິດ​ຈານ|Africa/Abidjan</string>
+    <string name="C10">D=ດັກ​ກາ|Africa/Dakar</string>
+    <string name="C100">A=ອຳ​ມັນ|Asia/Amman</string>
+    <string name="C101">A=ອາ​ນາ​ເດີ|Asia/Anadyr</string>
+    <string name="C102">A=ອັກ​ເຕົາ|Asia/Aqtau</string>
+    <string name="C103">B=ແບັກ​ແດດ|Asia/Baghdad</string>
+    <string name="C104">B=ບາ​ເຣນ|Asia/Bahrain</string>
+    <string name="C105">B=ບາ​ກຸ|Asia/Baku</string>
+    <string name="C106">B=ບາງກອກ|Asia/Bangkok</string>
+    <string name="C107">B=ເບ​ຣຸດ|Asia/Beirut</string>
+    <string name="C108">K=ໂຄຄາທາ|Asia/Calcutta</string>
+    <string name="C109">D=ດາ​ມາ​ສ​ຄັສ|Asia/Damascus</string>
+    <string name="C11">D=ດາ​ເອ​ສ​ຊາ​ລຳ|Africa/Dar_es_Salaam</string>
+    <string name="C110">D=ດັກ​ກາ|Asia/Dhaka</string>
+    <string name="C111">D=ດູ​ໄບ|Asia/Dubai</string>
+    <string name="C112">G=ກາ​ຊ່າ|Asia/Gaza</string>
+    <string name="C113">H=ຮີບ​ຣອນ|Asia/Hebron</string>
+    <string name="C114">H=ໂຮ່​ຈິ​ມິນ|Asia/Ho_Chi_Minh</string>
+    <string name="C115">H=ຮ່ອງກົງ:|Asia/Hong_Kong</string>
+    <string name="C117">J=ຈາ​ກາຕ້າ|Asia/Jakarta</string>
+    <string name="C118">J=ເຢ​ຣູ​ຊາ​ເລັມ|Asia/Jerusalem</string>
+    <string name="C119">K=ກາ​ບູນ|Asia/Kabul</string>
+    <string name="C12">D=ດິ​ຈິ​ບູ​ຕິ|Africa/Djibouti</string>
+    <string name="C120">K=ກາ​ຣາ​ຈີ|Asia/Karachi</string>
+    <string name="C121">K=ກັດ​ມານດູ|Asia/Kathmandu</string>
+    <string name="C122">K=ກົວ​ລາ​ລຳ​ເປີ|Asia/Kuala_Lumpur</string>
+    <string name="C123">K=ກູ​ເວດ|Asia/Kuwait</string>
+    <string name="C124">M=ມາ​ເກົາ|Asia/Macau</string>
+    <string name="C125">M=ມະ​ນີ​ລາ|Asia/Manila</string>
+    <string name="C126">M=ມຸ​ສ​ກັດ|Asia/Muscat</string>
+    <string name="C127">P=ພະ​ນົມ​ເປັນ|Asia/Phnom_Penh</string>
+    <string name="C128">P=ພຽງ​ຢາງ:|Asia/Pyongyang</string>
+    <string name="C13">F=ຟ​ຣີ​ທາວ|Africa/Freetown</string>
+    <string name="C130">R=ຢ້າງ​ກຸ້ງ|Asia/Rangoon</string>
+    <string name="C131">R=ຣິ​ຢາດ|Asia/Riyadh</string>
+    <string name="C133">S=ໂຊລ|Asia/Seoul</string>
+    <string name="C134">S=ຊຽງ​ໄຮ:|Asia/Shanghai</string>
+    <string name="C135">S=ສິງ​ກະ​ໂປ|Asia/Singapore</string>
+    <string name="C136">T=ໄທ​ເປ:|Asia/Taipei</string>
+    <string name="C137">T=ເຕ​ຮາ​ຣານ|Asia/Tehran</string>
+    <string name="C138">T=ເທວ​ອາ​ວິບ|Asia/Tel_Aviv</string>
+    <string name="C139">T=ໂຕ​ກຽວ:|Asia/Tokyo</string>
+    <string name="C14">G=ກາ​ໂບ​ໂຣເນ|Africa/Gaborone</string>
+    <string name="C140">U=ອູລານ​ບາ​ຕໍ|Asia/Ulaanbaatar</string>
+    <string name="C141">B=ເບີ​ມິວ​ດາ|Atlantic/Bermuda</string>
+    <string name="C142">C=ຄາ​ນາ​ຣີ|Atlantic/Canary</string>
+    <string name="C143">C=ກາບູເວດີ|Atlantic/Cape_Verde</string>
+    <string name="C144">R=ເຣກ​ຈາ​ວິກ|Atlantic/Reykjavik</string>
+    <string name="C145">S=ສະ​ແຕນ​ເລ|Atlantic/Stanley</string>
+    <string name="C146">A=ອາ​ເດ​ໄລ​ເດ|Australia/Adelaide</string>
+    <string name="C147">B=ບ​ຣິ​ສ​ເບນ|Australia/Brisbane</string>
+    <string name="C148">C=ແຄນ​ເບີ​ຣາ|Australia/Canberra</string>
+    <string name="C149">D=ດາ​ວິນ|Australia/Darwin</string>
+    <string name="C15">H=ຮາ​ແຣ|Africa/Harare</string>
+    <string name="C150">M=ເມວ​ເບິ້ນ|Australia/Melbourne</string>
+    <string name="C151">N=ນິວ​ຊາວ​ເວວ|Australia/NSW</string>
+    <string name="C152">P=ເພີດ|Australia/Perth</string>
+    <string name="C153">Q=ຄວີນ​ສ​ແລນ|Australia/Queensland</string>
+    <string name="C154">S=ຊິດ​ນີ|Australia/Sydney</string>
+    <string name="C155">V=ວິກ​ຕໍ​ເຣຍ|Australia/Victoria</string>
+    <string name="C156">N=ນີວ​ຟາວ​ແລນ|Canada/Newfoundland</string>
+    <string name="C157">S=ຊາດ​ສະ​ກາ​ເຊວານ|Canada/Saskatchewan</string>
+    <string name="C158">E=ເກາະ​ອີ​ສ​ເຕີ|Chile/EasterIsland</string>
+    <string name="C159">A=ອຳ​ສະ​ເຕີ​ດາມ|Europe/Amsterdam</string>
+    <string name="C16">J=ໂຈ​ຮານ​ເນັ​ສ​ເບີກ|Africa/Johannesburg</string>
+    <string name="C160">A=ອັນ​ດໍ​ຣາ|Europe/Andorra</string>
+    <string name="C161">A=ເອ​ເທັນ|Europe/Athens</string>
+    <string name="C162">B=ເບ​ລ​ຟາ​ສ​ທ໌|Europe/Belfast</string>
+    <string name="C163">B=ເບ​ລ​ເກ​ຣດ|Europe/Belgrade</string>
+    <string name="C164">B=ເບີ​ລິນ|Europe/Berlin</string>
+    <string name="C165">B=ບ​ຣາ​ສ​ຕິ​ສ​ລາ​ວາ|Europe/Bratislava</string>
+    <string name="C166">B=ບ​ຣັ​ດ​ເຊ​ວ|Europe/Brussels</string>
+    <string name="C167">B=ບູ​ຊາ​ເຣັ​ສ|Europe/Bucharest</string>
+    <string name="C168">B=ບູ​ດາ​ເປັ​ສ|Europe/Budapest</string>
+    <string name="C169">C=ຄີຊີເນົາ|Europe/Chisinau</string>
+    <string name="C17">K=ກ​ຳ​ປາ​ລາ|Africa/Kampala</string>
+    <string name="C170">C=ໂຄ​ເປັນ​ເຮ​ເກັນ|Europe/Copenhagen</string>
+    <string name="C171">D=ດັບ​ລິນ|Europe/Dublin</string>
+    <string name="C172">G=ຢິບບ​ຣານ​ຕາ|Europe/Gibraltar</string>
+    <string name="C173">H=ເຮວ​ຊິນ​ກິ|Europe/Helsinki</string>
+    <string name="C174">I=ໄອ​ໂຊ​ອອບ​ແມນ|Europe/Isle_of_Man</string>
+    <string name="C175">I=ອິ​ສ​ຕານ​ບູນ|Europe/Istanbul</string>
+    <string name="C176">K=ຂຽບ|Europe/Kiev</string>
+    <string name="C177">L=ລິດ​ສບອນ|Europe/Lisbon</string>
+    <string name="C178">L=ລອນດອນ|Europe/London</string>
+    <string name="C179">L=ລຸກ​ຊຳ​ບວກ|Europe/Luxembourg</string>
+    <string name="C18">K=ຄາ​ຕູມ|Africa/Khartoum</string>
+    <string name="C180">M=ມາດ​ຣິດ|Europe/Madrid</string>
+    <string name="C181">M=ມອ​ລ​ຕ້າ|Europe/Malta</string>
+    <string name="C182">M=ມິ້ນ​ສ​ກ໌|Europe/Minsk</string>
+    <string name="C183">M=ໂມ​ນາ​ໂຄ|Europe/Monaco</string>
+    <string name="C184">M=ມົດ​ສະ​ກູ|Europe/Moscow</string>
+    <string name="C185">O=ອອ​ສ​ໂລ|Europe/Oslo</string>
+    <string name="C186">P=ປາ​ຣີ|Europe/Paris</string>
+    <string name="C187">P=ປ​ຣາກ|Europe/Prague</string>
+    <string name="C188">R=ຣິ​ກາ|Europe/Riga</string>
+    <string name="C189">R=ໂຣມ|Europe/Rome</string>
+    <string name="C19">K=ຄິ​ກາ​ລິ|Africa/Kigali</string>
+    <string name="C190">S=ຊານ​ມາ​ຣິ​ໂນ|Europe/San_Marino</string>
+    <string name="C191">S=ຊາ​ຣາ​ເຢຍ​ໂວ|Europe/Sarajevo</string>
+    <string name="C192">S=ຊິມ​ເຟີ​ໂຣ​ໂພ​ລ|Europe/Simferopol</string>
+    <string name="C193">S=ສະ​ກັອບ​ເຈ|Europe/Skopje</string>
+    <string name="C194">S=ໂຊ​ເຟຍ|Europe/Sofia</string>
+    <string name="C195">S=ສະ​ຕັອກ​ໂຮມ|Europe/Stockholm</string>
+    <string name="C196">T=ຕາ​ລ​ລິນ|Europe/Tallinn</string>
+    <string name="C197">V=ວາ​ຕິ​ກັນ|Europe/Vatican</string>
+    <string name="C198">V=ວຽນ​ນາ|Europe/Vienna</string>
+    <string name="C199">V=ວິ​ລ​ນຽດ|Europe/Vilnius</string>
+    <string name="C2">A=ອັກ​ຄ​ຣາ|Africa/Accra</string>
+    <string name="C20">K=ກິນ​ຊາ​ຊ່າ|Africa/Kinshasa</string>
+    <string name="C200">W=ວໍ​ຊໍ|Europe/Warsaw</string>
+    <string name="C201">Z=ຊາ​ເກ​ຣັບ|Europe/Zagreb</string>
+    <string name="C202">Z=ຊູ​ຣິ​ດ|Europe/Zurich</string>
+    <string name="C203">A=ອັນ​ຕານ​ນາ​ຣິ​ໂວ|Indian/Antananarivo</string>
+    <string name="C204">M=ມາ​ລ​ດິບ|Indian/Maldives</string>
+    <string name="C205">M=ໂມ​ຣິ​ຕຽ​ສ|Indian/Mauritius</string>
+    <string name="C206">A=ໂອກ​ແລນ|Pacific/Auckland</string>
+    <string name="C207">F=ຟິ​ຈິ|Pacific/Fiji</string>
+    <string name="C208">G=ກວາມ|Pacific/Guam</string>
+    <string name="C209">H=ໂຮ​ໂນ​ລູ​ລູ|Pacific/Honolulu</string>
+    <string name="C21">L=ລາກອ​ສ|Africa/Lagos</string>
+    <string name="C210">K=ກິ​ຣິ​ຕິ​ມາ​ຕິ|Pacific/Kiritimati</string>
+    <string name="C211">N=ນູ​ມີ|Pacific/Noumea</string>
+    <string name="C214">A=ແອນ​ຕິກວາ|America/Antigua</string>
+    <string name="C215">A=ອອ​ສ​ຕິນ|America/Chicago</string>
+    <string name="C216">B=ບອ​ສ​ຕັນ|America/New_York</string>
+    <string name="C217">C=ຄາ​ລ​ກາ​ຣີ|America/Denver</string>
+    <string name="C218">C=ໂຄ​ລົມ​ບັ​ສ|America/New_York</string>
+    <string name="C219">D=ດາ​ລ​ລັ​ສ|America/Chicago</string>
+    <string name="C22">M=ມາ​ເຊ​ຣຸ|Africa/Maseru</string>
+    <string name="C220">K=ນັອກ​ວິ​ລ|America/New_York</string>
+    <string name="C221">M=ເມັມ​ພິ​ສ|America/Chicago</string>
+    <string name="C222">M=ໄມ​ອະ​ມີ|America/New_York</string>
+    <string name="C223">M=ມິນ​ນາ​ໂປ​ລິ​ສ|America/Chicago</string>
+    <string name="C224">O=ອອດ​ຕາ​ວາ|America/New_York</string>
+    <string name="C225">P=ຟິ​ລາ​ເດລ​ເຟຍ|America/New_York</string>
+    <string name="C226">P=ພອດ​ແລນ|America/Los_Angeles</string>
+    <string name="C227">S=ຊານ​ດິ​ເອ​ໂກ|America/Los_Angeles</string>
+    <string name="C228">S=ຊານ ຟ​ຣານ​ຊິ​ສ​ໂກ|America/Los_Angeles</string>
+    <string name="C229">S=ຊອ​ລ​ທ໌​ເລກ​ຊິ​ຕີ|America/Denver</string>
+    <string name="C23">M=ໂມ​ກາ​ດິ​ສ​ຊູ|Africa/Mogadishu</string>
+    <string name="C230">S=ຊານ​ໂຈເຊ|America/Los_Angeles</string>
+    <string name="C231">S=ຊານ​ຊາ​ວາ​ດໍ|America/Guatemala</string>
+    <string name="C232">S=ຊີ​ອາ​ເຕິ​ລ|America/Los_Angeles</string>
+    <string name="C233">S=ເຊ້ນ​ຫຼຸຍ|America/Chicago</string>
+    <string name="C234">W=ວໍ​ຊິງ​ຕັນ​ດີ​ຊີ|America/New_York</string>
+    <string name="C235">H=ຮຸດ​ສະ​ຕັນ|America/Chicago</string>
+    <string name="C236">S=ຊານ​ແອັນ​ໂຕ​ນິ​ໂອ|America/Chicago</string>
+    <string name="C237">J=ແຈັກ​ສັນ​ວິ​ລ|America/New_York</string>
+    <string name="C238">B=ບາ​ລ​ຕິ​ມໍ|America/New_York</string>
+    <string name="C239">N=ນາ​ສວິ​ລ|America/Chicago</string>
+    <string name="C24">N=ໄນ​ໂຣ​ບີ|Africa/Nairobi</string>
+    <string name="C240">M=ມິວ​ໂວ​ກີ|America/Chicago</string>
+    <string name="C241">O=ໂອ​ກະ​ລາ​ໂຮ​ມາ​ຊິ​ຕີ|America/Chicago</string>
+    <string name="C242">L=ລາ​ສ​ເວ​ກັ​ສ|America/Los_Angeles</string>
+    <string name="C243">A=ອາ​ລ​ບູ​ເຄີ​ເຄະ|America/Denver</string>
+    <string name="C244">T=ທັກ​ສັນ|MST</string>
+    <string name="C245">S=ຊາ​ຄ​ຣາ​ເມັນ​ໂຕ|America/Los_Angeles</string>
+    <string name="C246">A=ແອັດ​ລັນ​ຕາ|America/New_York</string>
+    <string name="C247">C=ຄລີບ​ແລນ|America/New_York</string>
+    <string name="C248">N=ນິວ​ໂອ​ລີນ|America/Chicago</string>
+    <string name="C249">T=ແທມ​ປ່າ|America/New_York</string>
+    <string name="C25">S=ຊາວ​ໂຕ​ເມະ|Africa/Sao_Tome</string>
+    <string name="C250">P=ພິ​ສະ​ເບີກ|America/New_York</string>
+    <string name="C251">C=ຊິນ​ຊິນ​ນາ​ຕິ|America/New_York</string>
+    <string name="C252">M=ເມົາ​ເທ້ນ​ວິວ|America/Los_Angeles</string>
+    <string name="C253">R=ເຣ​ໂນ|America/Los_Angeles</string>
+    <string name="C254">B=ແບ​ລັກ​ຣັອກ​ຊິ​ຕີ|America/Los_Angeles</string>
+    <string name="C255">D=ໂດ​ຮາ|Asia/Riyadh</string>
+    <string name="C256">B=ປັກ​ກິ່ງ:|Asia/Shanghai</string>
+    <string name="C257">M=ມູມໄບ|Asia/Kolkata</string>
+    <string name="C258">D=ເດ​ລິ|Asia/Kolkata</string>
+    <string name="C259">O=ໂອ​ຊາ​ກະ:|Asia/Tokyo</string>
+    <string name="C26">T=ຕິມ​ບຸກ​ຕູ|Africa/Timbuktu</string>
+    <string name="C260">L=ລາ​ຮໍ|Asia/Karachi</string>
+    <string name="C261">S=ຊາ​ນາ​ອາ|Asia/Riyadh</string>
+    <string name="C262">B=ບາ​ເຊ​ໂລ​ນາ|Europe/Madrid</string>
+    <string name="C263">M=ມິວ​ນິກ|Europe/Berlin</string>
+    <string name="C264">M=ມິ​ລານ|Europe/Rome</string>
+    <string name="C265">F=ແຟ​ຣງ​ເຟີດ|Europe/Berlin</string>
+    <string name="C266">H=ຮ່າ​ໂນ້ຍ|Asia/Bangkok</string>
+    <string name="C267">A=ອັນ​ຄາ​ຣາ|Europe/Istanbul</string>
+    <string name="C268">B=ບັງ​ກາ​ລໍ|Asia/Kolkata</string>
+    <string name="C269">B=ບ​ຣາ​ຊິ​ເລຍ|America/Sao_Paulo</string>
+    <string name="C27">T=ທ​ຣິ​ໂປ​ລິ|Africa/Tripoli</string>
+    <string name="C270">C=ເຄບ​ທາວ|Africa/Johannesburg</string>
+    <string name="C271">I=ອິ​ສ​ລາ​ມາ​ບັດ|Asia/Karachi</string>
+    <string name="C272">R=ຣິ​ໂອ​ເດີ​ຈາ​ເນ​ໂຣ|America/Sao_Paulo</string>
+    <string name="C273">A=ແອນ​ອາ​ບໍ|America/Detroit</string>
+    <string name="C274">B=ບູ​ນ​ເດີ|America/Denver</string>
+    <string name="C275">C=ແຄມບ​ຣິດ​ຈ໌|America/New_York</string>
+    <string name="C276">K=ເກີກ​ແລນ|America/Los_Angeles</string>
+    <string name="C277">M=ມາ​ດິ​ສັນ|America/Chicago</string>
+    <string name="C278">G=ກວາງ​ໂຈ:|Asia/Shanghai</string>
+    <string name="C279">H=ໄຮ​ເດີ​ຣາ​ບັດ|Asia/Kolkata</string>
+    <string name="C28">T=ຕູ​ນິ​ສ|Africa/Tunis</string>
+    <string name="C280">R=ເຣັ​ສ​ຕອນ|America/New_York</string>
+    <string name="C281">B=ເບ​ໂຣ​ຮໍ​ຣິ​ຊອນ|America/Sao_Paulo</string>
+    <string name="C282">S=ຊານ​ຕິ​ເອ​ໂກ|America/Santiago</string>
+    <string name="C283">M=ມອນ​ໂຣ​ເວຍ|Africa/Monrovia</string>
+    <string name="C284">C=ໂຄ​ລົມ​ໂບ|Asia/Colombo</string>
+    <string name="C285">C=ຈິ​ຮົວ​ຮົວ|America/Chihuahua</string>
+    <string name="C286">S=ຊານ​ວາ​ດໍ|America/Sao_Paulo</string>
+    <string name="C287">G=ຄຸເຄົານ໌|Asia/Kolkata</string>
+    <string name="C288">M=ແມນ​ເຊັ​ດສະ​ເຕີ|Europe/London</string>
+    <string name="C29">A=ແອນ​ຊໍ​ເຣ​ຈ|America/Anchorage</string>
+    <string name="C290">S=ເຊ້ນ​ປີ​ເຕີ​ສະ​ເບີກ|Europe/Moscow</string>
+    <string name="C291">K=ກ​ຣາ​ໂກ|Europe/Warsaw</string>
+    <string name="C292">W=ວະ​ໂລ​ຄ​ລໍ|Europe/Warsaw</string>
+    <string name="C293">H=ຮຳ​ບູກ|Europe/Berlin</string>
+    <string name="C294">O=ອູ​ລູ|Europe/Bucharest</string>
+    <string name="C295">H=ໄຮ​ຟາ|Asia/Jerusalem</string>
+    <string name="C296">S=ຊານ​ຈວນ|America/Puerto_Rico</string>
+    <string name="C297">T=ເຕ​ກູ​ຊິ​ກາ​ລ​ປາ|America/Tegucigalpa</string>
+    <string name="C298">P=ປາ​ຣາ​ມາ​ຣິ​ໂບ|America/Paramaribo</string>
+    <string name="C299">Q=ກີ​ໂຕ|America/Panama</string>
+    <string name="C3">A=ແອດ​ດິດ ອາ​ບາ​ບ່າ|Africa/Addis_Ababa</string>
+    <string name="C300">L=ແອ​ລ​ຈຸບ​ຈານ​ນາ|Europe/Ljubljana</string>
+    <string name="C301">A=ອາຊກາບາດ|Asia/Ashgabat</string>
+    <string name="C302">A=ແອສມາຣາ|Africa/Asmara</string>
+    <string name="C303">B=ບານດາເຊຣີເບກາວັນ|Asia/Brunei</string>
+    <string name="C304">B=ບັງກີ|Africa/Bangui</string>
+    <string name="C305">B=ບັນຈູລ|Africa/Banjul</string>
+    <string name="C306">B=ບິສເຄກ|Asia/Bishkek</string>
+    <string name="C307">B=ບິສເຊົາ|Africa/Bissau</string>
+    <string name="C308">B=ບູຈູມບູຣາ|Africa/Bujumbura</string>
+    <string name="C309">D=ດີລິ|Asia/Dili</string>
+    <string name="C31">A=ອາ​ຣູ​ບາ|America/Aruba</string>
+    <string name="C310">D=ດູຊານເບ|Asia/Dushanbe</string>
+    <string name="C311">F=ຟູນາຟູຕິ|Pacific/Funafuti</string>
+    <string name="C312">H=ໂຮນີອາຣາ|Pacific/Guadalcanal</string>
+    <string name="C313">J=ຈູບາ|Africa/Juba</string>
+    <string name="C314">K=ຄິງສທາວ|America/St_Vincent</string>
+    <string name="C315">L=ລິເບຣວິລ|Africa/Libreville</string>
+    <string name="C316">L=ໂລເມ|Africa/Lome</string>
+    <string name="C317">L=ລູອັນດາ|Africa/Luanda</string>
+    <string name="C318">L=ລູຊາກາ|Africa/Lusaka</string>
+    <string name="C319">M=ມາຈູໂຣ|Pacific/Majuro</string>
+    <string name="C32">A=ອາ​ຊຸນ​ຊຽນ|America/Asuncion</string>
+    <string name="C320">M=ມາລາໂບ|Africa/Malabo</string>
+    <string name="C321">M=ມາປູໂຕ|Africa/Maputo</string>
+    <string name="C322">M=ອາມບາບາເນ|Africa/Mbabane</string>
+    <string name="C323">M=ໂມໂຣນີ|Indian/Comoro</string>
+    <string name="C324">N=ເອັນຈາເມນາ|Africa/Ndjamena</string>
+    <string name="C325">N=ເງຣູນມຸດ|Pacific/Palau</string>
+    <string name="C326">N=ນີອາເມ|Africa/Niamey</string>
+    <string name="C327">N=ນີໂຄເຊຍ|Europe/Nicosia</string>
+    <string name="C328">N=ນູແອກຊອດ|Africa/Nouakchott</string>
+    <string name="C329">N=ນູກູອະໂລຟາ|Pacific/Tongatapu</string>
+    <string name="C33">B=ບາ​ບາ​ດໍ|America/Barbados</string>
+    <string name="C330">O=ວາກາດູກູ|Africa/Ouagadougou</string>
+    <string name="C331">P=ປາລີຄີ|Pacific/Noumea</string>
+    <string name="C332">P=ຟິລິບສເບີກ|America/Lower_Princes</string>
+    <string name="C333">P=ພອດກໍຣີຊາ|Europe/Podgorica</string>
+    <string name="C334">P=ພອດມໍສບີ|Pacific/Palau</string>
+    <string name="C335">P=ພອດວິລາ|Pacific/Efate</string>
+    <string name="C336">P=ປໍໂຕ-ໂນໂວ|Africa/Porto-Novo</string>
+    <string name="C337">P=ພຣີສຕີນາ|Europe/Belgrade</string>
+    <string name="C338">R=ໂຣໂຊ|America/Dominica</string>
+    <string name="C339">T=ທາສເຄນ|Asia/Tashkent</string>
+    <string name="C34">B=ເບ​ລິ​ສ|America/Belize</string>
+    <string name="C340">T=ທະບີລີຊີ|Asia/Tbilisi</string>
+    <string name="C341">T=ທິມພູ|Asia/Thimphu</string>
+    <string name="C342">T=ທິຣານາ|Europe/Tirane</string>
+    <string name="C343">V=ວາດຸຊ|Europe/Vaduz</string>
+    <string name="C344">V=ວຽງຈັນ|Asia/Vientiane</string>
+    <string name="C345">W=ວິນຮຸກ|Africa/Windhoek</string>
+    <string name="C346">Y=ຢາອຸນເດ|Africa/Douala</string>
+    <string name="C347">Y=ເມືອງຢາເຣນ|Pacific/Nauru</string>
+    <string name="C348">Y=ເຢເຣວານ|Asia/Yerevan</string>
+    <string name="C35">B=ໂບ​ໂກ​ຕ່າ|America/Bogota</string>
+    <string name="C36">B=ບູ​ໂນ​ສ ໄອ​ເຣັ​ສ|America/Buenos_Aires</string>
+    <string name="C37">C=ກັງກຸນ|America/Cancun</string>
+    <string name="C38">C=ຄາ​ຣາ​ຄາ​ສ|America/Caracas</string>
+    <string name="C39">C=ເຄ​ແມນ|America/Cayman</string>
+    <string name="C4">A=ແອ​ລ​ເຈີ|Africa/Algiers</string>
+    <string name="C40">C=ຊິ​ກາ​ໂຄ|America/Chicago</string>
+    <string name="C42">C=ຄູ​ຣາ​ກາວ|America/Curacao</string>
+    <string name="C43">D=ດາວ​ຊັນ​ຄ​ຣິກ|America/Dawson_Creek</string>
+    <string name="C44">D=ເດັນ​ເວີ|America/Denver</string>
+    <string name="C45">D=ເດ​ຕ​ຣອຍ|America/Detroit</string>
+    <string name="C46">D=ໂດ​ມິ​ນິ​ກາ|America/Dominica</string>
+    <string name="C47">E=ເອັດ​ມອນ​ຕັນ|America/Edmonton</string>
+    <string name="C48">E=ແອ​ລ​ຊາ​ລ​ວາ​ດໍ|America/El_Salvador</string>
+    <string name="C49">F=ຟໍ​ຕາ​ເຣ​ຊາ|America/Fortaleza</string>
+    <string name="C5">B=ບະ​ລັນ​ໄທ​ຣ໌|Africa/Blantyre</string>
+    <string name="C50">G=ແກ​ຣນ​ເຕີກ|America/Grand_Turk</string>
+    <string name="C51">G=ກ​ຣີ​ນາ​ດາ|America/Grenada</string>
+    <string name="C52">G=ເມືອງ​ກົວ​ເຕ​ມາ​ລາ|America/Guatemala</string>
+    <string name="C53">G=ກາຍອານາ|America/Guyana</string>
+    <string name="C54">H=ຮາ​ລິ​ເຟັກ|America/Halifax</string>
+    <string name="C55">H=ຮາ​ວາ​ນາ|America/Havana</string>
+    <string name="C56">I=ອິນ​ດຽນ​ນາ​ໂປ​ລິ​ສ|America/Indiana/Indianapolis</string>
+    <string name="C57">K=ນັອກ​ຊ໌|America/Indiana/Knox</string>
+    <string name="C58">M=ມາ​ເຣັນ​ໂກ|America/Indiana/Marengo</string>
+    <string name="C59">P=ປີ​ເຕີ​ສ​ເບີກ|America/Indiana/Petersburg</string>
+    <string name="C6">B=ບ​ຣາ​ຊາ​ວິ​ລ|Africa/Brazzaville</string>
+    <string name="C60">T=ເທ​ລ​ຊິ​ຕີ|America/Indiana/Tell_City</string>
+    <string name="C61">V=ເວວາຍ|America/Indiana/Vevay</string>
+    <string name="C62">V=ວິນ​ເຊັນ​ເນັ​ສ|America/Indiana/Vincennes</string>
+    <string name="C63">W=ວິນ​ນາ​ແມັກ|America/Indiana/Winamac</string>
+    <string name="C64">K=ຄິງ​ສະ​ໂຕນ|America/Jamaica</string>
+    <string name="C65">N=ນິ​ສ​ະ​ຕ​ຣາ ເຊ​ໂນ​ຣາ ເດີ ລາ ປາ​ສ|America/La_Paz</string>
+    <string name="C66">L=ລິ​ມາ|America/Lima</string>
+    <string name="C67">L=ລອ​ສ​ແອງ​ເຈ​ລິ​ສ|America/Los_Angeles</string>
+    <string name="C68">L=ຫຼຸຍ​ສ໌​ວິ​ລ|America/Louisville</string>
+    <string name="C69">M=ມາ​ນາ​ກົວ|America/Managua</string>
+    <string name="C7">C=ໄຄ​ໂຣ|Africa/Cairo</string>
+    <string name="C70">M=ມາ​ຕິ​ນິກ|America/Martinique</string>
+    <string name="C71">M=ເມັນ​ໂດ​ຊ່າ|America/Mendoza</string>
+    <string name="C72">M=ເມັດ​ລາ​ກັດ​ລາ|America/Metlakatla</string>
+    <string name="C73">M=ເມັກ​ຊິ​ໂກ​ຊິ​ຕີ|America/Mexico_City</string>
+    <string name="C74">M=ມອນ​ເຕີ​ເຣ|America/Monterrey</string>
+    <string name="C75">M=ມອນ​ເຕວິ​ດີ​ໂອ|America/Montevideo</string>
+    <string name="C76">M=ມອນ​ຣຽວ|America/Montreal</string>
+    <string name="C77">N=ນາ​ສ​ໂຊ|America/Nassau</string>
+    <string name="C78">N=ນິວຢອກ|America/New_York</string>
+    <string name="C79">B=ບິວ​ລາ|America/North_Dakota/Beulah</string>
+    <string name="C8">C=ຄາ​ຊາບ​ຣັງ​ກາ|Africa/Casablanca</string>
+    <string name="C80">C=ເຊັນ​ເຕີ|America/North_Dakota/Center</string>
+    <string name="C81">N=ນິວ​ຊາ​ເລັມ|America/North_Dakota/New_Salem</string>
+    <string name="C82">P=ປາ​ນາ​ມາ|America/Panama</string>
+    <string name="C83">P=ໂຟ​ນິກ|America/Phoenix</string>
+    <string name="C84">P=ຜອດ​ອອບ​ສະ​ເປນ|America/Port_of_Spain</string>
+    <string name="C85">P=ປໍໂຕປຣິນຊ໌|America/Port-au-Prince</string>
+    <string name="C86">P=ເປີ​ໂຕ​ຣິ​ໂກ|America/Puerto_Rico</string>
+    <string name="C87">S=ຊານ​ໂຕ​ໂດ​ມິ​ນີ​ໂກ|America/Santo_Domingo</string>
+    <string name="C88">S=ເຊົາ​ເປົາ​ໂລ|America/Sao_Paulo</string>
+    <string name="C89">S=ເຊ້ນ​ຈອນ|America/St_Johns</string>
+    <string name="C9">C=ໂຄ​ນາກ​ຣີ|Africa/Conakry</string>
+    <string name="C90">S=ເຊ້ນ​ຄິດ​ສ໌|America/St_Kitts</string>
+    <string name="C91">S=ເຊ້ນ​ລູ​ເຊຍ|America/St_Lucia</string>
+    <string name="C92">S=ເຊ້ນ​ໂທ​ມັ​ສ|America/St_Thomas</string>
+    <string name="C93">T=ທິ​ຈວນ​ນາ|America/Tijuana</string>
+    <string name="C94">T=ໂຕ​ຣອນ​ໂຕ|America/Toronto</string>
+    <string name="C95">V=ແວນ​ຄູ​ເວີ|America/Vancouver</string>
+    <string name="C96">W=ວິນ​ນິ​ເປັກ|America/Winnipeg</string>
+    <string name="C97">S=ເຊົາ​ໂປ​ເລ:|Antarctica/South_Pole</string>
+    <string name="C98">L=ລອງ​ເຢຍ​ບີນ|Arctic/Longyearbyen</string>
+    <string name="C99">A=ອາ​ລ​ມາ​ຕີ|Asia/Almaty</string>
+    <string name="add_new_sound">ເພີ່ມໃໝ່</string>
+    <string name="alarm_alert_dismiss_text">ປິດ</string>
+    <string name="alarm_alert_off_text">​ປິດ​ໂມງ​ປຸກ</string>
+    <string name="alarm_alert_predismiss_title">ໂມງປຸກຖັດໄປ</string>
+    <string name="alarm_alert_snooze_text">ປິດສຽງເຕືອນຊົ່ວຄາວ</string>
+    <string name="alarm_alert_snooze_until">ປິດສຽງເຕືອນຊົ່ວຄາວຈົນກວ່າຈະຮອດ %s</string>
+    <string name="alarm_alert_snoozed_text">​ເລື່ອນ​ແລ້ວ</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">%s ໂມງ​ປຸກ​ບໍ່​ສາ​ມາດ​ປ່ອຍ​ໄວ້​ໄດ້, ຍັງ​ຫຼາຍ​ກ່​ວາ 24 ຊົ່ວ​ໂມງ</string>
+    <string name="alarm_deleted">ໂມງປຸກຖືກລຶບແລ້ວ.</string>
+    <string name="alarm_is_dismissed">%s ໂມງ​ປຸກ​ຖືກ​ປິດ​ໄວ້​ແລ້ວ</string>
+    <string name="alarm_is_set">ໂມງ​ປຸກ​ຖືກ​ຕັ້ງ​ໃນ​ເວ​ລາ %s</string>
+    <string name="alarm_is_snoozed">ເລື່ອນໂມງປຸກ %1$s ອອກໄປ %2$s</string>
+    <string name="alarm_missed_text">%1$s - %2$s</string>
+    <string name="alarm_missed_title">ໂມງປຸກທີ່ພາດ</string>
+    <string name="alarm_repeat">ປຸກຊ້ຳ</string>
+    <string name="alarm_service_desc">ຄຳສັ່ງການປະມວນຜົນຈາກການແຈ້ງເຕືອນໂມງປຸກ.</string>
+    <string name="alarm_settings">ໂມງປຸກ</string>
+    <string name="alarm_sound">ສຽງໂມງປຸກ</string>
+    <string name="alarm_today">ມື້ນີ້</string>
+    <string name="alarm_tomorrow">ມື້ອື່ນ</string>
+    <string name="alarm_undo">ຍົກເລີກ</string>
+    <string name="alarm_vibrate">ສັ່ນເຕືອນ</string>
+    <string name="alarm_volume_muted">ປິດສຽງໂມງປຸກແລ້ວ</string>
+    <string name="alarm_volume_title">ລະດັບສຽງໂມງປຸກ</string>
+    <string name="alarms_blocked_by_dnd">ຕັ້ງອຸປະກອນເປັນສຽງງຽບທັງໝົດແລ້ວ</string>
+    <string name="all_timers_stopped_notif">ແຕະເພື່ອເບິ່ງໂມງນັບຖອຍຫຼັງຂອງທ່ານ</string>
+    <string name="analog_gadget">ໂມງເຂັມ</string>
+    <string name="app_label">ໂມງ</string>
+    <string name="app_notifications_blocked">ບລັອການແຈ້ງເຕືອນໂມງແລ້ວ</string>
+    <string name="auto_silence_never">ບໍ່ໃຊ້</string>
+    <string name="auto_silence_title">ປິດສຽງຫຼັງຈາກ</string>
+    <string name="automatic_home_clock">ສະແດງໂມງທ້ອງຖິ່ນອັດຕະໂນມັດ</string>
+    <string name="automatic_home_clock_summary">ໃນລະຫວ່າງການເດີນທາງ ໃນຂົງເຂດທີ່ເຂດເວລາແຕກຕ່າງກັນ, ໃຫ້ເພີ່ມໂມງທ້ອງຖິ່ນຂອງທ່ານ</string>
+    <string name="button_alarms">ເພີ່ມໂມງປຸກ</string>
+    <string name="button_cities">ເມືອງ</string>
+    <string name="change_setting_action">ປ່ຽນແປງ</string>
+    <string name="cities_activity_title">ເມືອງ</string>
+    <string name="city_checked">%s ໄດ້​ຮັບ​ການໝາຍ​ຕິກ​ແລ້ວ</string>
+    <string name="city_unchecked">%s ບໍ່​ໄດ້​ໝາຍ​ຕິກ</string>
+    <string name="clock_settings">ໂມງ</string>
+    <string name="clock_style">ຮູບແບບ</string>
+    <string name="collapse_alarm">ຫຍໍ້ແຖບໂມງປຸກ</string>
+    <string name="confirm_remove_custom_ringtone">ໂມງປຸກ ແລະ ໂມງຈັບເວລາ</string>
+    <string name="crescendo_duration_title">ຄ່ອຍໆ​ເພີ່ມ​ລະດັບສຽງ</string>
+    <string name="custom_ringtone_lost_permissions">The sound content cannot be accessed.</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">ສຽງ​ໂມງ​ປຸກ​ຕາມຄ່າເລີ່ມຕົ້ນ</string>
+    <string name="default_label">ໂມງປຸກ</string>
+    <string name="default_timer_ringtone_title">ເຄື່ອງ​ຈັບ​ເວ​ລາ​ໝົດ​ອາ​ຍຸ​ແລ້ວ</string>
+    <string name="delete">ລຶບ</string>
+    <string name="description_direction_both">ປັດ​ໄປ​ທາງ​ຊ້າຍ​ເພື່ອ​ເລື່ອນ ຫຼື​ທາງ​ຂວາ ເພື່ອ​ປິດ​ໄວ້</string>
+    <string name="description_direction_left">​ປັດ​ໄປ​ຊ້າຍ​ເພື່ອ​ເລື່ອນ​ອອກ​ໄປ​ກ່ອນ</string>
+    <string name="description_direction_right">​ປັດ​ໄປ​ຂວາ​ເພື່ອ​ປິດ​ໄວ້</string>
+    <string name="device_sounds">ສຽງອຸປະກອນ</string>
+    <string name="digital_gadget">ໂມງດິຈິຕອນ</string>
+    <string name="dismiss_alarm">ບອກເລີກ​ການ​ເຕືອນ​</string>
+    <string name="display_clock_seconds_pref">ສະແດງເວລາພ້ອມວິນາທີ</string>
+    <string name="every_day">ທຸກໆມື້</string>
+    <string name="expand_alarm">ຂະຫຍາຍໂມງປຸກ</string>
+    <string name="home_label">ຫນ້າທໍາອິດ</string>
+    <string name="home_time_zone">ເຂດເວລາໂມງທ້ອງຖິ່ນ</string>
+    <string name="home_time_zone_title">ເຂດເວລາໂມງທ້ອງຖິ່ນ</string>
+    <string name="hours_label">ຊ</string>
+    <string name="hours_minutes_seconds">%1$d:%2$02d:%3$02d</string>
+    <string name="index_name">ຂໍ້ມູນໂມງປຸກ, ໂມງນັບຖອຍຫຼັງ ແລະ ໂມງຈັບເວລາ</string>
+    <string name="invalid_time">ເວ​ລາ​ໃຊ້​ບໍ່​ໄດ້ %1$d:%2$d %3$s</string>
+    <string name="invalid_timer_length">ຄວາມ​ຍາວ​ການ​ຕັ້ງ​ເວ​ລາ​ບໍ່​ຖື​ກ​ຕ້ອງ</string>
+    <string name="label">ປ້າຍກຳກັບ</string>
+    <string name="label_description">ປ້າຍກຳກັບ</string>
+    <string name="lap_number_double_digit">\# %02d</string>
+    <string name="lap_number_single_digit">\# %d</string>
+    <string name="loading_widget">ກຳລັງໂຫລດ…</string>
+    <string name="menu_alarm">ໂມງປຸກ</string>
+    <string name="menu_clock">ໂມງ</string>
+    <string name="menu_item_feedback">​ສົ່ງ​ຄຳ​ຕິ​ຊົມ</string>
+    <string name="menu_item_help">ຊ່ວຍເຫຼືອ</string>
+    <string name="menu_item_night_mode">ພາບພັກໜ້າຈໍ</string>
+    <string name="menu_item_settings">ຕັ້ງຄ່າ</string>
+    <string name="menu_item_sort_by_gmt_offset">ຮຽງຕາມເວລາ</string>
+    <string name="menu_item_sort_by_name">ຮຽງຕາມຊື່</string>
+    <string name="menu_stopwatch">ຈັບເວລາ</string>
+    <string name="menu_timer">ໂມງນັບຖອຍຫຼັງ</string>
+    <string name="minutes_label">ນ</string>
+    <string name="minutes_seconds">%1$d:%2$02d</string>
+    <string name="missed_alarms_channel_name">ໂມງປຸກທີ່ພາດ</string>
+    <string name="missed_named_timer_notification_label">ການຕັ້ງເວລາທີ່ພາດໄປ: %s</string>
+    <string name="missed_timer_notification_label">ການຕັ້ງເວລາທີ່ພາດໄປ</string>
+    <string name="next_alarm_description">ໂມງປຸກຄັ້ງຕໍ່ໄປ: %s</string>
+    <string name="next_timer_notif">ໂມງຈັບເວລາຄັ້ງຕໍ່ໄປ: %s</string>
+    <string name="night_mode_summary">ຜ່ອນແສງໜ້າຈໍອ່ອນໆ (ສຳລັບຫ້ອງທີ່ມືດຫຼາຍ)</string>
+    <string name="night_mode_title">ໂໝດກາງຄືນ</string>
+    <string name="no_alarm_at">ບໍ່​ມີ​ໂມງ​ປຸກ​ຕັ້ງ​ໄວ້​ໃນ​ເວ​ລາ %1$d:%2$d</string>
+    <string name="no_alarm_scheduled_for_this_time">ບໍ່​ມີໂມງ​ປຸກ​ກຳ​ນົດ​ເວ​ລາ​ໃຫ້ກັບ​ເວ​ລາ​ນີ້</string>
+    <string name="no_alarms">ບໍ່ມີການຕັ້ງໂມງປຸກ</string>
+    <string name="no_alarms_with_label">ບໍ່​ມີ​ໂມງ​ປຸກ​ຢູ່​ໃນ​ປ້າຍ​ໝາຍ</string>
+    <string name="no_firing_alarms">ບໍ່​ມີ​ສັນ​ຍານ​ເຕືອນ​ໄຟ​ໄໝ້</string>
+    <string name="no_label_specified">ບໍ່​ມີ​ປ້າຍ​ໝາຍ​ລະ​ບຸ​ໄວ້</string>
+    <string name="no_scheduled_alarms">ບໍ່​ມີ​ການ​ເຕືອນ​ກຳ​ນົດ​ໄວ້</string>
+    <string name="open_date_settings">ປ່ຽນ​ວັນ​ທີ ແລະ ເວ​ລາ</string>
+    <string name="pick_alarm_to_dismiss">ເລືອກວ່າ​ຈະ​ປິດ​ໂມງ​ປຸກ​ໃດ​ໄວ້</string>
+    <string name="remove_sound">ລຶບອອກ</string>
+    <string name="ringtone_description">ສຽງໂມງປຸກ</string>
+    <string name="screensaver_settings">ການຕັ້ງຄ່າສະກຣີນເຊບເວີ</string>
+    <string name="seconds_label">ວິ</string>
+    <string name="selected_cities_label">ເມືອງທີ່ເລືອກແລ້ວ</string>
+    <string name="settings">ຕັ້ງຄ່າ</string>
+    <string name="shortcut_new_alarm_long">ຕັ້ງໂມງປຸກໃໝ່</string>
+    <string name="shortcut_new_alarm_short">ຕັ້ງປຸກໃໝ່</string>
+    <string name="shortcut_new_timer_long">ຕັ້ງໂມງນັບຖອຍຫຼັງໃໝ່</string>
+    <string name="shortcut_new_timer_short">ຕັ້ງໂມງນັບຖອຍຫຼັງໃໝ່</string>
+    <string name="shortcut_pause_stopwatch_long">ຢຸດໂມງຈັບເວລາໄວ້ຊົ່ວຄາວ</string>
+    <string name="shortcut_pause_stopwatch_short">ຢຸດຊົ່ວຄາວ</string>
+    <string name="shortcut_start_screensaver_long">ເລີ່ມພາບພັກໜ້າຈໍ</string>
+    <string name="shortcut_start_screensaver_short">ພາບພັກໜ້າຈໍ</string>
+    <string name="shortcut_start_stopwatch_long">ເລີ່ມໂມງຈັບເວລາ</string>
+    <string name="shortcut_start_stopwatch_short">ເລີ່ມຕົ້ນ</string>
+    <string name="silent_default_alarm_ringtone">ສຽງໂມງປຸກເລີ່ມຕົ້ນແມ່ນງຽບຢູ່</string>
+    <string name="silent_ringtone_title">ປິດສຽງ</string>
+    <string name="snooze_duration_title">ຄວາມຍາວການປິດສຽງເຕືອນຊົ່ວຄາວ</string>
+    <string name="stopwatch_channel_name">ໂມງຈັບເວລາ</string>
+    <string name="stopwatch_service_desc">ປະມວນຜົນຄຳສັ່ງຕ່າງໆ ຈາກການແຈ້ງເຕືອນໂມງຈັບເວລາ.</string>
+    <string name="sw_lap_button">ຮອບ</string>
+    <string name="sw_notification_lap_number">ຮອບ %d</string>
+    <string name="sw_pause_button">ຢຸດຊົ່ວຄາວ</string>
+    <string name="sw_reset_button">ນັບໃໝ່</string>
+    <string name="sw_resume_button">ສືບຕໍ່</string>
+    <string name="sw_share_button">ແບ່ງປັນ</string>
+    <string name="sw_share_laps">ເວລາຮອບ:</string>
+    <string name="sw_share_main">ເວລາຂອງຂ້ອຍແມ່ນ %s</string>
+    <string name="sw_start_button">ເລີ່ມ</string>
+    <string name="swn_paused">ຢຸດແລ້ວ</string>
+    <string name="timer_accessibility_one_minute_added">One minute added to timer, %1$s</string>
+    <string name="timer_accessibility_started">Timer running, %1$s</string>
+    <string name="timer_accessibility_stopped">Timer paused, %1$s</string>
+    <string name="timer_add_minute">+ 1:00</string>
+    <string name="timer_add_timer">ເພີ່ມໂມງນັບຖອຍຫຼັງ</string>
+    <string name="timer_cancel">ຍົກເລີກ</string>
+    <string name="timer_canceled">​ຍົກ​ເລີກ​ການ​ຈັບ​ເວ​ລາ​ແລ້ວ</string>
+    <string name="timer_created">ສ້າງ​ການ​ຕັ້ງ​ເວ​ລາ​ແລ້ວ</string>
+    <string name="timer_delete">ລຶບ</string>
+    <string name="timer_deleted">ລຶບ​ເຄື່ອງ​ຈັບ​ເວ​ລາ​ແລ້ວ</string>
+    <string name="timer_descriptive_delete">ລຶບ %s</string>
+    <string name="timer_multi_missed">ພາດເວລາທີ່ຕັ້ງໄປ %d ເທື່ອ</string>
+    <string name="timer_multi_times_up">%d ​ໂມງ​ຈັບ​ເວ​ລາ​ໝົດ​ອາ​ຍຸ​ແລ້ວ</string>
+    <string name="timer_notification_label">ໂມງນັບຖອຍຫລັງ</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s %3$s</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">%1$s %4$s %3$s</string>
+    <string name="timer_notifications_less_min">ຍັງເຫຼືອໜ້ອຍກວ່າ 1 ນາທີ</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">%2$s %4$s %3$s</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">ຢຸດຊົ່ວຄາວ</string>
+    <string name="timer_paused">ເຄື່ອງ​ຈັບ​ເວ​ລາ​ຢຸດ​ແລ້ວ</string>
+    <string name="timer_plus_1_min">ເພີ່ມ 1 ນາທີ</string>
+    <string name="timer_plus_one">ເພີ່ມ 1 ນາທີ</string>
+    <string name="timer_remaining_multiple">ຕໍ່ຈາກນີ້</string>
+    <string name="timer_remaining_single">ຍັງ​ເຫຼືອ</string>
+    <string name="timer_reset">ນັບໃໝ່</string>
+    <string name="timer_reset_all">ຣີເຊັດໂມງນັບຖອຍຫຼັງ</string>
+    <string name="timer_service_desc">ປະມວນຜົນຄຳສັ່ງຕ່າງໆ ຈາກການແຈ້ງເຕືອນຕົວຈັບເວລາ.</string>
+    <string name="timer_settings">ໂມງ​ຈັບ​ເວ​ລາ</string>
+    <string name="timer_setup_description">%1$s, %2$s, %3$s</string>
+    <string name="timer_sound">ສຽງໂມງນັບຖອຍຫຼັງ</string>
+    <string name="timer_start">ເລີ່ມ</string>
+    <string name="timer_stop">ຢຸດ</string>
+    <string name="timer_stop_all">ຢຸດ​ທຸກ​ເວ​ລາ</string>
+    <string name="timer_times_up">ໝົດເວລາ</string>
+    <string name="timer_vibrate_title">ໂມງນັບຖອຍຫຼັງສັ່ນ</string>
+    <string name="timers_channel_name">ໂມງ​ຈັບ​ເວ​ລາ</string>
+    <string name="timers_in_use">%d ໂມງນັບຖອຍຫຼັງ</string>
+    <string name="timers_stopped">%d ເຄື່ອງ​ຈັບ​ເວ​ລາ​ຢຸດ​ແລ້ວ</string>
+    <string name="unknown_ringtone_title">​ບໍ່​ຮູ້​ຈັກ</string>
+    <string name="unmute_alarm_volume">ເຊົາປິດສຽງ</string>
+    <string name="upcoming_alarms_channel_name">ໂມງປຸກທີ່ໃກ້ຈະຮອດ</string>
+    <string name="volume_button_setting_title">ປຸ່ມປັບລະດັບສຽງ</string>
+    <string name="week_start_title">ເລີ່ມ​ຕົ້ນ​ອາ​ທິດ</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="world_hours_minutes_ahead">ຍັງເຫຼືອ %1$s %2$s</string>
+    <string name="world_hours_minutes_behind">ຍັງເຫຼືອ %1$s %2$s</string>
+    <string name="world_hours_tomorrow">ມື້ອື່ນເວລາ %1$s</string>
+    <string name="world_hours_yesterday">ມື້ວານນີ້ ເວລາ %1$s</string>
+    <string name="world_time_ahead">%1$s ahead</string>
+    <string name="world_time_behind">%1$s behind</string>
+    <string name="world_tomorrow">ມື້ອື່ນ</string>
+    <string name="world_yesterday">ວັນວານນີ້</string>
+    <string name="your_sounds">ສຽງຂອງທ່ານ</string>
+</resources>

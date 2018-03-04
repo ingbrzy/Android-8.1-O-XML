@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Semua %1$d aplikasi</item>
+        <item quantity="one">1 aplikasi</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplikasi dipilih</item>
+        <item quantity="one">1 aplikasi dipilih</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d aplikasi sudah dipasang</item>
+        <item quantity="one">1 aplikasi sudah dipasang</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Ada %1$d aplikasi yang dicadangkan. Pilih sebagian atau pindahkan semua aplikasi.</item>
+        <item quantity="one">Ada %1$d aplikasi yang dicadangkan.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontak perangkat</item>
+        <item quantity="one">1 kontak perangkat</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM, %2$d perangkat</item>
+        <item quantity="one">%1$d SIM, %2$d perangkat</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d kontak iCloud®</item>
+        <item quantity="one">1 kontak iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kontak SIM</item>
+        <item quantity="one">1 kontak SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Ditemukan %1$d aplikasi. Pilih sebagian atau pindahkan semua aplikasi.</item>
+        <item quantity="one">Ditemukan %1$d aplikasi. Pindahkan aplikasi?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Kami menemukan aplikasi yang sesuai dengan %1$d dari aplikasi iOS® Anda. Dengan memasang tiap aplikasi, berarti Anda menyetujui izinnya. &lt;annotation id="apps_permissions_learn_more">Pelajari lebih lanjut&lt;/annotation></item>
+        <item quantity="one">Kami menemukan aplikasi yang sesuai dengan salah satu aplikasi iOS® Anda. Dengan memasang aplikasi ini, berarti Anda menyetujui izinnya. &lt;annotation id="apps_permissions_learn_more">Pelajari lebih lanjut&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Sisa %1$d item…</item>
+        <item quantity="one">Sisa %1$d item…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Perhatian! Acara ini tidak lagi menyertakan peserta berikut:</item>
+        <item quantity="one">Perhatian! Acara ini tidak lagi menyertakan peserta berikut:</item>
+    </plurals>
+</resources>

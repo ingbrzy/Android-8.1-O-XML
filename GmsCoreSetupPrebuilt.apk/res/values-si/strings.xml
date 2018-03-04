@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_has_in_app_purchases">යෙදුම-තුළ මිලදී ගැනීම්</string>
+    <string name="app_has_permissions">අවසර: %s</string>
+    <string name="app_has_runtime_permissions">යෙදුම අවසර ඉල්ලනු ඇත</string>
+    <string name="app_picker_app_already_installed_toast">මෙම යෙදුම දැනටමත් ස්ථාපනය කර ඇත</string>
+    <string name="app_picker_loading">ලබා ගත හැකි යෙදුම් සොයා ගනිමින්...</string>
+    <string name="app_picker_loading_toast">ලබා ගත හැකි යෙදුම් ඉක්මනින් පූරණය කරනු ඇත</string>
+    <string name="app_picker_no_apps">යෙදුම් තෝරා නැත</string>
+    <string name="app_picker_no_apps_found">යෙදුම් හමු නොවීය</string>
+    <string name="apps_in_app_purchases_disclaimer_all">යෙදුම තුළ මිලදී ගැනීම් ඔබේ ^1 වෙත මාරු නොකරනු ඇත.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">සමහර යෙදුම තුළ මිලදී ගැනීම් ඔබේ ^1 වෙත මාරු නොකළ හැකිය.</string>
+    <string name="apps_permissions_described_v2">"ජනප්‍රිය, ගාස්තු රහිත iOS® යෙදුම් පමණක් Android යෙදුම්වලට ගැළපිය හැකිය. බොහොමයක් යෙදුම-තුළ මිලදී ගැනීම් මාරු නොවනු ඇත. පිහිටුවීම සම්පූර්ණ කළ පසු ඔබට Play Store තුළදී තවත් යෙදුම් සොයා ගත හැකිය.
+
+ඔබේ උපාංගයෙහි යම් නිශ්චිත හැකියාවන් හෝ තොරතුරුවලට පිවිසීමට ඔබ සමහර යෙදුම්වලට පූර්ව අවසර දීම අවශ්‍ය වනු ඇත. අවසර සමූහවලට අවසර සංවිධානය කෙරේ. මෙම යෙදුම් ස්ථාපනය කිරීමට තේරීමෙන්, ඔබ එක් එක් සමූහයෙහි කොටසක් වන අවසර පිළිගනියි. එක් එක් අවසර සමූහයෙහි විස්තරයක් පහත දී ඇත.
+
+සමහර යෙදුම්වලට පූර්ව අවසර පිළිගැනීම අවශ්‍ය නොවිය හැකිය. ඔබ මෙම යෙදුම්වලින් එකක් භාවිත කරන විට, යෙදුම එම වර්ගයේ දත්ත භාවිත කිරීමට පෙර ඔබට තනි අවසරය සඳහා ඉඩ දීමට හෝ එය ප්‍රතික්ෂේප කිරීමට හැකිය.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">එක් එක් යෙදුම ස්ථාපනය කිරීම මඟින්, ඔබ එහි අවසර සමඟ එකඟ වේ. <annotation id="apps_permissions_learn_more">තව දැන ගන්න</annotation></string>
+    <string name="auto_restore_summary">යෙදුමක් නැවත ස්ථාපනය කරන විට, උපස්ථ කළ සැකසීම් සහ දත්ත ප්‍රතිසාධනය කරන්න</string>
+    <string name="auto_restore_title">ස්වයංක්‍රීය ප්‍රතිසාධනය</string>
+    <string name="backup_configure_account_default_summary">දැනට කිසිම ගිණුමක් උපස්ථ කළ දත්ත ගබඩා නොකරයි</string>
+    <string name="backup_configure_account_title">උපස්ථ ගිණුම</string>
+    <string name="backup_data_summary">යෙදුම් දත්ත, Wi-Fi මුරපද, සහ අනෙකුත් සැකසීම් Google Drive වෙත උපස්ථ කරන්න</string>
+    <string name="backup_data_summary_full">"දුරස්ථව උපාංග දත්ත (Wi-Fi මුරපද හා ඇමතුම් ඉතිහාසය වැනි) සහ යෙදුම් දත්ත (යෙදුම් මඟින් ගබඩා කරන සැකසීම් සහ ගොනු) ස්වයංක්‍රියව උපස්ථ කරයි.
+
+ඔබ ස්වයංක්‍රියව උපස්ථ කිරීම ක්‍රියාත්මක කළ විට, උපාංග සහ යෙදුම් දත්ත කලින් කලට දුරස්ථව සුරකිනු ලැබේ. සම්බන්ධතා, පණිවිඩ, හා ඡායාරූප වැනි සංවේදී දත්ත ඇතුළුව යෙදුම් දත්ත ඕනෑම එකක් විය හැකි වේ (සංවර්ධක සැකසීම් මත පදනම්ව)."</string>
+    <string name="backup_data_title">Google Drive වෙත උපස්ථ කරන්න</string>
+    <string name="backup_erase_dialog_message">ඔබේ Wi-Fi මුරපද, පිටුසන්, අනෙකුත් සැකසීම් සහ යෙදුම් දත්ත උපස්ථ කිරීම නතර කර, Google Drive මත සියලු පිටපත් මකන්නද?</string>
+    <string name="backup_erase_dialog_message_full">උපාංග දත්ත (Wi-Fi මුරපද සහ ඇමතුම් ඉතිහාසය යනාදී) සහ යෙදුම් දත්ත (යෙදුම් මගින් ගබඩා කළ සැකසීම් සහ ගොනු යනාදී) උපස්ථ කිරීම සහ Google Drive වල සියලු පිටපත් මැකීම නවත්වන්නද?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">ඡායාරූප සැකසීම් විවෘත කිරීමේ දෝෂයක් ඇති විය</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"ඔබ ස්වයංක්‍රිය උපස්ථ කිරීම ක්‍රියාත්මක කළ විට:
+
+ ● උපාංග සැකසීම් සහ යෙදුම් දත්ත Google Drive තුළ ඇති ෆෝල්ඩරයකට වරින් වර සමමුහුර්ත කෙරේ. යෙදුම් දත්ත යනු සම්බන්ධතා, පණිවිඩ, සහ ඡායාරූප යනාදී විභව්‍ය වශයෙන් සංවේදී දත්ත ඇතුළුව යෙදුමක් විසින් සුරැක ඇති (සංවර්ධක සැකසීම් මත පදනම්ව) කිනම් හෝ දත්ත වේ.
+
+ විශාල ගොනු හෝ සංවර්ධකයන් විසින් සේවාවෙන් බැහැර කිරීමට තෝරන ලද ගොනු උපස්ථ නොකරනු ඇත.
+
+ ● මෙම උපාංගය වෙතින් වන ඡායාරූප සහ වීඩියෝ පටිගත කිරීම් සෙවීමට, සංස්කරණය කිරීමට, මැකීමට, සහ ඔබේ ඕනෑම උපාංගයකින් බෙදා ගැනීමට ඔබේ Google ඡායාරූප පුස්තකාලය සමග සමමුහුර්ත කෙරේ.
+
+ පෙරනිමියෙන්, පූර්ණ විභේදන ඡායාරූප සහ වීඩියෝ උඩුගත කෙරේ. මෙය ඔබේ Drive ගබඩා පංගුවට ගණන් නොගැනෙනු ඇත.
+
+ ● මෙම උපාංගය වෙතින් වන සම්බන්ධතා සහ ආශ්‍රිත දත්ත Google සම්බන්ධතා වෙත සමුමුහුර්ත කෙරේ. සෙවීමට, සංස්කරණය කිරීමට, මැකීමට, සහ ඔබේ ඕනෑම උපාංගයකින් බෙදා ගැනීමට ඔබට ඔබේ Google සම්බන්ධතා යෙදුම භාවිත කළ හැකිය.
+
+ ● මෙම උපාංගය වෙතින් වන දින දර්ශන ඇතුළත් කිරීම් සහ ආශ්‍රිත දත්ත Google දින දර්ශනය වෙත සමමුහුර්ත කෙරේ. සෙවීමට, සංස්කරණය කිරීමට, මැකීමට, සහ ඔබේ ඕනෑම උපාංගයකින් බෙදා ගැනීමට ඔබට ඔබේ Google දින දර්ශන යෙදුම භාවිත කළ හැකිය.
+
+ උපස්ථ දත්ත ඔබේ Drive ගබඩා පංගුවට ගණන් නොගැනෙනු ඇත"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"ඔබ ස්වයංක්‍රිය උපස්ථ කිරීම ක්‍රියාත්මක කළ විට:
+
+ ● Google Drive තුළ ඇති පුද්ගලික ෆෝල්ඩරයකට උපාංග සැකසීම් සහ යෙදුම් දත්ත වරින් වර සුරැකෙයි. යෙදුම් දත්ත යනු සම්බන්ධතා, පණිවිඩ, සහ ඡායාරූප යනාදී විභව්‍ය වශයෙන් සංවේදී දත්ත ඇතුළුව යෙදුමක් විසින් සුරැක ඇති (සංවර්ධක සැකසීම් මත පදනම්ව) කිනම් හෝ දත්ත වේ.
+
+ විශාල ගොනු හෝ සංවර්ධකයන් විසින් සේවාවෙන් බැහැර කිරීමට තෝරන ලද ගොනු උපස්ථ නොකරනු ඇත.
+
+ ● සම්බන්ධතා සහ මෙම උපාංගය වෙතින් වන ආශ්‍රිත දත්ත Google සම්බන්ධතා වෙත උපස්ථ කෙරේ. ඔබට ඔබේ ඕනෑම උපාංගයකින් සම්බන්ධතා සෙවීමට, සංස්කරණය කිරීමට, මැකීමට සහ බෙදා ගැනීමට Google සම්බන්ධතා යෙදුම භාවිත කළ හැකිය.
+
+ ● දින දර්ශන ඇතුළත් කිරීම් සහ මෙම උපාංගය වෙතින් වන ආශ්‍රිත දත්ත Google දින දර්ශනය වෙත උපස්ථ කෙරේ. ඔබට ඔබේ ඕනෑම උපාංගයකින් සම්බන්ධතා සෙවීමට, සංස්කරණය කිරීමට, මැකීමට සහ බෙදා ගැනීමට Google දින දර්ශන යෙදුම භාවිත කළ හැකිය.
+
+ උපස්ථ දත්ත ඔබේ Drive ගබඩා පංගුවට ගණන් නොගැනෙනු ඇත."</string>
+    <string name="backup_opt_in_backup_description_extra">දින දර්ශනය, සම්බන්ධතා, ඡායාරූප, සහ වීඩියෝ ඔබගේ Google ගිණුම වෙත සමමුහුර්ත කර ඇති අතර සේවා හරහා භාවිත කළ හැකිය.</string>
+    <string name="backup_opt_in_backup_description_v2">ස්වයංක්‍රිය උපස්ථ කිරීම ඔබට ඔබේ දුරකථනය පහසුවෙන් ප්‍රතිසාධනය කිරීමට සහ මාරු කිරීමට හැකි බව සහතික කරයි. <annotation id="backup_opt_in_learn_more">තව දැන ගන්න</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"මෙය පහත ඒවා සඳහා උපස්ථ කිරීම ක්‍රියාවිරහිත කරනු ඇත:
+
+යෙදුම් සහ යෙදුම් දත්ත
+ඇමතුම් ඉතිහාසය
+උපාංග සැකසීම්
+ඡායාරූප සහ වීඩියෝ
+SMS
+
+දින දර්ශනය සහ සම්බන්ධතා දිගටම ඔබේ Google ගිණුමට සමමුහුර්ත කරනු ඇත. පිහිටුවීම සම්පූර්ණ විට, ඔබට "<annotation id="backup_opt_in_settings_instructions">සැකසීම් > ගිණුම් > Google</annotation> වෙත යාමෙන් සමමුහුර්ත සැකසීම් වෙනස් කළ හැකිය.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">උපස්ථ කිරීම ක්‍රියා විරහිත කරන්නද?</string>
+    <string name="backup_opt_in_backup_list">"යෙදුම් හා යෙදුම් දත්ත
+දින දර්ශනය
+ඇමතුම් ඉතිහාසය
+සම්බන්ධතා
+උපාංග සැකසීම් (WiFi මුරපද ඇතුළුව)
+ඡායාරූප හා වීඩියෝ
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">උපස්ථයට ඇතුළත් වන්නේ:</string>
+    <string name="backup_opt_in_backup_title">Google Drive වෙත උපස්ථ කරන්න</string>
+    <string name="backup_opt_in_disable_backup">උපස්ථ කිරීම ක්‍රියා විරහිත කරන්න</string>
+    <string name="backup_photos_update">කරුණාකර Google ඡායාරූප යාවත්කාලීන කරන්න</string>
+    <string name="backup_settings_activity_backup_title">උපස්ථය</string>
+    <string name="backup_settings_activity_title">උපස්ථ කිරීම සහ යළි සැකසීම</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">පිටපත් නොකරන්න</string>
+    <string name="close_button_label">වසන්න</string>
+    <string name="cloud_restore_app_picker_button">ප්‍රතිසාධනය කරන්න</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ඔබගේ උපස්ථයෙහි යෙදුම් කිසිවක් නැත</string>
+    <string name="cloud_restore_app_picker_title">ප්‍රතිසාධනය කිරීමට යෙදුම් තෝරන්න</string>
+    <string name="common_accept">පිළිගන්න</string>
+    <string name="common_add_account_label">ගිණුමක් එක් කරන්න</string>
+    <string name="common_ads_settings_title">දැන්වීම්</string>
+    <string name="common_agree">එකඟ වේ</string>
+    <string name="common_app_name">Google Play සේවා</string>
+    <string name="common_asm_preferences_settings_title">ගිණුමේ මනාප</string>
+    <string name="common_asm_privacy_settings_title">පුද්ගලික තොරතුරු සහ රහස්‍යතාව</string>
+    <string name="common_asm_security_settings_title">පිරීම සහ ආරක්ෂාව</string>
+    <string name="common_audience_edit_button_label">සංස්කරණය</string>
+    <string name="common_cancel">අවලංගු කරන්න</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ආරම්භ කළ නොහැක. (අවසර දෝෂ).</string>
+    <string name="common_car_permission_desc">මොටෝරථ සේවාව ප්‍රවේශ කරන්න.</string>
+    <string name="common_car_permission_label">මොටෝරථ සේවාව</string>
+    <string name="common_chips_label_empty_circles">කව නැත</string>
+    <string name="common_chips_label_extended_circles">විශාලිත කව</string>
+    <string name="common_chips_label_only_you">ඔබට පමණි</string>
+    <string name="common_chips_label_public">පොදු</string>
+    <string name="common_chips_label_your_circles">ඔබේ කව</string>
+    <string name="common_choose_account_label">ගිණුමක් තෝරන්න</string>
+    <string name="common_clear_app_data_menu_item">යෙදුම් දත්ත හිස් කරන්න</string>
+    <string name="common_connected">සම්බන්ධිත</string>
+    <string name="common_connected_apps_settings_title">සම්බන්ධිත යෙදුම්</string>
+    <string name="common_connecting">සම්බන්ධ වෙමින්…</string>
+    <string name="common_continue">දිගටම කරගෙන යන්න</string>
+    <string name="common_disagree">එකඟ නොවේ</string>
+    <string name="common_disconnect">විසන්ධි කරන්න</string>
+    <string name="common_done">නිමයි</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">වෙතින්:</string>
+    <string name="common_games_settings_title">Play ක්‍රීඩා</string>
+    <string name="common_get_started">අරඹන්න</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">සබල කරන්න</string>
+    <string name="common_google_play_services_enable_text">ඔබ Google Play සේවා සබල කරන්නේ නම් මිස %1$s වැඩ නොකරනු ඇත.</string>
+    <string name="common_google_play_services_enable_title">Google Play සේවා සබල කරන්න</string>
+    <string name="common_google_play_services_error_dialog_title">දෝෂය</string>
+    <string name="common_google_play_services_install_button">ස්ථාපනය කරන්න</string>
+    <string name="common_google_play_services_install_text">ඔබගේ ටැබ්ලට් පරිගණකයේ නැති Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="common_google_play_services_install_title">Google Play සේවා ලබා ගන්න</string>
+    <string name="common_google_play_services_notification_ticker">Google Play සේවා දෝෂය</string>
+    <string name="common_google_play_services_unknown_issue">%1$s හට Google Play සේවා සමගින් ගැටලු ඇත. කරුණාකර නැවත උත්සාහ කරන්න.</string>
+    <string name="common_google_play_services_unsupported_text">ඔබගේ උපාංගය මගින් සහාය නොදක්වන, Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="common_google_play_services_update_button">යාවත්කාලීන කරන්න</string>
+    <string name="common_google_play_services_update_text">Google Play සේවා යාවත්කාලීන කරන්නේ නොමැතිව %1$s ධාවනය නොවේ.</string>
+    <string name="common_google_play_services_update_title">Google Play සේවා යාවත්කාලීන කරන්න</string>
+    <string name="common_google_play_services_updating_text">දැනට යාවත්කාලීන කරමින් ඇති, Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="common_google_play_services_updating_title">Google Play සේවා යාවත්කාලීන කරමින්</string>
+    <string name="common_google_play_services_wear_update_text">Google Play සේවාවල නව අනුවාදයක් අවශ්‍යයි. එය මද වේලාවකින් එය විසින්ම යාවත්කාලීන වනු ඇත.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">වැරදි නිර්මිතය ඇති Google Play සේවා ස්ථාපනය කරන ලදි.</string>
+    <string name="common_google_play_services_wrong_architecture_text">ඔබගේ උපාංග නිර්මිතය (%2$s) ට වෙනස් නිර්මිතයක් (%1$s) ඇති Google Play සේවා ස්ථාපනය කරන ලදි.</string>
+    <string name="common_google_play_services_wrong_architecture_title">වැරදි නිර්මිතය</string>
+    <string name="common_google_settings">Google සැකසීම්</string>
+    <string name="common_google_settings_account">ගිණුම</string>
+    <string name="common_google_settings_credentials_title">මුරපද සඳහා Smart Lock</string>
+    <string name="common_google_settings_developer">සංවර්ධක</string>
+    <string name="common_google_settings_services">සේවා</string>
+    <string name="common_got_it">තේරුණා</string>
+    <string name="common_install">ස්ථාපනය කරන්න</string>
+    <string name="common_learn_more">තව දැන ගන්න</string>
+    <string name="common_list_apps_menu_help">උදවු</string>
+    <string name="common_list_apps_menu_help_and_feedback">උදවු සහ ප්‍රතිපෝෂණ</string>
+    <string name="common_loading">පූරණය කරමින්…</string>
+    <string name="common_location_settings_title">ස්ථානය</string>
+    <string name="common_magictether_settings_title">ක්ෂණික ටෙදරින්</string>
+    <string name="common_maps_settings_title">සිතියම් සහ අක්ෂාංශ</string>
+    <string name="common_mdm_feature_name">Android උපාංග කළමනාකරු</string>
+    <string name="common_missing_url_viewer">බාහිර url පෙන්වීමට බලන්නා අතුරුදහන්.</string>
+    <string name="common_more_options">තවත් විකල්ප</string>
+    <string name="common_networking_settings_title">ජාල කරණය</string>
+    <string name="common_no_browser_for_restricted_url">සීමා කළ ප්‍රවේශය. බ්‍රවුසරයක් සොයා ගැනීමට නැත.</string>
+    <string name="common_no_devices_found">උපාංග හමු නොවිණි</string>
+    <string name="common_no_network">උපාංගය නොබැඳි නිසා ලබාගත නොහැක</string>
+    <string name="common_no_thanks">එපා ස්තූතියි</string>
+    <string name="common_not_now">දැන් නොවේ</string>
+    <string name="common_off">ක්‍රියාවිරහිතයි</string>
+    <string name="common_ok">හරි</string>
+    <string name="common_on">ක්‍රියාත්මකයි</string>
+    <string name="common_open_on_phone">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="common_open_source_licenses">විවෘත මූලාශ්‍ර බලපත්‍ර</string>
+    <string name="common_people_settings_title">සම්බන්ධතා</string>
+    <string name="common_permissions_enable_in_settings">සැකසීම් තුළ සබල කරන්න</string>
+    <string name="common_permissions_missing_end">දිගටම කරගෙන යාමට, සැකසීම් සහ අනතුරුව අවසර විවෘත කර, ලැයිස්තුගත සියලු අයිතමවලට ඉඩ දෙන්න.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+සබල කිරීමට, 
+සැකසීම් >
+අවසර >
+Google Play සේවා වෙත යන්න"</string>
+    <string name="common_permissions_missing_start">පහත ඒවාට පිවිසීම සඳහා වන Google Play සේවා ඉල්ලීමට ඉඩ දෙන්නේ නම් මිස මෙම යෙදුම නිසි ලෙස වැඩ නොකරනු ඇත:</string>
+    <string name="common_permissions_open_settings">සැකසීම් විවෘත කරන්න</string>
+    <string name="common_phone">දුරකථනය</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="common_restore">ප්‍රතිසාධනය කරන්න</string>
+    <string name="common_retry">නැවත උත්සාහ කරන්න</string>
+    <string name="common_search_settings_title">සෙවීම</string>
+    <string name="common_security_ootp_setting_title">ආරක්ෂක කේතය</string>
+    <string name="common_security_settings_title">ආරක්ෂාව</string>
+    <string name="common_send">යවන්න</string>
+    <string name="common_sending">යවමින්...</string>
+    <string name="common_set_up_nearby_device_settings_title">අවට ඇති උපාංගයක් සකසන්න</string>
+    <string name="common_settings">සැකසීම්</string>
+    <string name="common_signin_button_text">පුරන්න</string>
+    <string name="common_signin_button_text_long">Google සමගින් පුරන්න</string>
+    <string name="common_something_went_wrong">යම් දෙයක් වැරදී ඇත</string>
+    <string name="common_system_info">පද්ධති තොරතුරු</string>
+    <string name="common_take_photo_label">ඡායාරූපය ගන්න</string>
+    <string name="common_terms_of_service">සේවා නියම</string>
+    <string name="common_try_again">නැවත උත්සාහ කරන්න</string>
+    <string name="common_turn_on_bluetooth">බ්ලූටූත් ක්‍රියාත්මක කරන්න</string>
+    <string name="common_ui_confirm_deleting_button">මකන්න</string>
+    <string name="common_ui_confirm_deleting_checkbox">මට වැටහෙන අතර මැකීමට අවශ්‍යයි</string>
+    <string name="common_unknown">නොදනී</string>
+    <string name="common_update">යාවත්කාලීන කරන්න</string>
+    <string name="common_url_load_unsuccessful_message">ඔබගේ Android උපාංගය දත්ත සේවාවට සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රව්සරයෙන් %s වෙත යන්න.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">ඔබගේ Android උපාංගය Wi-Fi ජාලයක් වෙත සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රවුසරයෙන් %s වෙත යන්න.</string>
+    <string name="common_url_login_notice">%1$s ලෙස පුරනය වන්න</string>
+    <string name="common_usage_and_diagnostics">භාවිතය සහ දෝෂ නිර්ණ</string>
+    <string name="common_yesterday">ඊයේ</string>
+    <string name="confirm_copy_button_text">පිටපත් කරන්න</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d, උපාංග %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google සම්බන්ධතා, iCloud® %1$d, උපාංග %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Google සම්බන්ධතා, SIM %1$d, උපාංග %2$d</string>
+    <string name="contacts_number_device_with_google">Google සම්බන්ධතා, උපාංග %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google සම්බන්ධතා, iCloud® %1$d</string>
+    <string name="contacts_number_sim_with_google">Google සම්බන්ධතා, SIM %1$d</string>
+    <string name="copy_confirmation_description">ඔබ ඔබේ නව දුරකථනයට, ඔබගේ Google ගිණුම සහ යෙදුම් වැනි, දත්ත පිටපත් කරනු ඇත</string>
+    <string name="copy_confirmation_title">ඔබගේ නව දුරකථනයට පිටපත් කරන්නද?</string>
+    <string name="d2d_app_picker_description_no_apps">අපට කිසිදු යෙදුමක් සොයා ගැනීමට නොහැකි විය</string>
+    <string name="d2d_app_picker_title">යෙදුම්</string>
+    <string name="d2d_migration_canceled_on_source">පිටපත් කිරීම අවලංගු කරන ලදී</string>
+    <string name="data_copied_fragment_description">ඔබේ දත්ත ඔබේ නව දුරකතනය වෙත පිටපත් කර ඇත. ඔබ කේබලය පේනුගත කිරීමෙන් ඉවත් කළ හැකිය.</string>
+    <string name="data_copied_fragment_description_cancel">ඔබ පිටපත් කිරීම නතර කිරීමට තෝරා ඇත, එම නිසා ඔබේ නව දුරකථනයට සමහර දත්ත පමණක් පිටපත් කර ඇත.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">ඔබ පිටපත් කිරීම නතර කිරීමට තෝරා ඇත, එම නිසා ඔබේ නව දුරකථනයට කිසිවක් පිටපත් කර නැත.</string>
+    <string name="data_copied_fragment_description_error">යම් දෙයක් වැරදී ඇත, එම නිසා අපට සෑම දෙයක්ම පිටපත් කිරීමට නොහැකි විය.</string>
+    <string name="data_copied_fragment_description_error_no_data">යම් දෙයක් වැරදිණි, එම නිසා අපට ඔබේ දත්ත පිටපත් කිරීමට නොහැකි විය.</string>
+    <string name="data_copied_fragment_no_data_title">පිටපත් කිරීමට නොහැකි විය</string>
+    <string name="data_copied_fragment_some_data_title">සමහර දත්ත පිටපත් කරන ලදී</string>
+    <string name="data_copied_fragment_title">දත්ත පිටපත් කරන ලදි</string>
+    <string name="device_backup_title">උපාංග උපස්ථය</string>
+    <string name="device_not_supported_fragment_new_device">ඔබ නව දුරකථනයක් වෙත සම්බන්ධ වී ඇත. දිගටම කරගෙන යාමට, ඔබේ පෙර එකට යළි සම්බන්ධ වන්න.</string>
+    <string name="device_not_supported_fragment_new_device_title">පෙර දුරකථනය වෙත යළි සම්බන්ධ වන්න</string>
+    <string name="device_not_supported_fragment_no_data_cable">මෙම කේබලයට දත්ත මාරු කළ හැකි නොවේ. වෙනත් කේබලයක් භාවිතයෙන් යළි සම්බන්ධ වී නැවත උත්සාහ කරන්න.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">වෙනත් කේබලයක් උත්සාහ කරන්න</string>
+    <string name="device_not_supported_fragment_retry_description">ඔබේ පැරණි දුරකථනය අගුලු හැර ඇති බව සහතික කර ගන්න, අනතුරුව කේබලය විසන්ධි කර නැවත සම්බන්ධ කරන්න</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">යම් දෙයක් වැරදී ඇත</string>
+    <string name="device_not_supported_ios_supervised_description">ඔබේ iPhone® උපාංගය අධීක්ෂණය කරන බැවින්, ඔබට දත්ත පිටපත් කිරීමට වෙනත් ක්‍රමයක් තෝරා ගැනීමට සිදු වනු ඇත.</string>
+    <string name="device_picker_description">උපස්ථ Google Drive තුළ ගබඩා කෙරේ</string>
+    <string name="device_picker_empty">%1$s වෙත උපස්ථ සබැඳි කර නැත.</string>
+    <string name="device_picker_empty_title">උපස්ථ හමු නොවීය</string>
+    <string name="device_picker_item">%1$s උපස්ථය</string>
+    <string name="device_picker_last_used">අවසන් වරට භාවිත කළේ ^1</string>
+    <string name="device_picker_skip">ප්‍රතිසාධනය නොකරන්න</string>
+    <string name="device_picker_title">ප්‍රතිසාධනය කිරීමට උපස්ථයක් තෝරන්න</string>
+    <string name="disabled_by_admin_summary_text">පරිපාලක විසින් පාලනය කෙරේ</string>
+    <string name="download_msg_error_invalid">බාගැනීම වැරදිව වින්‍යාස කර තිබේ.</string>
+    <string name="download_msg_in_progress">බාගැනීම තවමත් සිදුවේ.</string>
+    <string name="download_msg_not_allowed_space">බාගැනීම ක්‍රියාත්මක කිරීමට එහි ඉඩ ඇති තරම් නැත.</string>
+    <string name="download_msg_pending">බාගැනීම වෙමින් තිබේ.</string>
+    <string name="download_notification_description">මෙය %1$s ඉල්ලන ලදි.</string>
+    <string name="download_notification_title">තව දත්ත ලබා ගනිමින්</string>
+    <string name="drive_backup_account">ගිණුම</string>
+    <string name="drive_backup_apps_in_backup">උපස්ථ කළ යෙදුම් දත්ත</string>
+    <string name="drive_backup_apps_last_backup">අවසන් උපස්ථ කිරීම</string>
+    <string name="drive_backup_apps_loading">පූරණය කරමින්…</string>
+    <string name="drive_backup_apps_screen_title">යෙදුම් දත්ත</string>
+    <string name="drive_backup_content_apps_title">යෙදුම් දත්ත</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google දින දර්ශනය තුළ සාදන ලද සිදුවීම් ඔබගේ Google ගිණුම වෙත පුරා ඇති සියලු උපාංග හරහා සමමුහුර්ත කරනු ඇත.</string>
+    <string name="drive_backup_content_calendar_title">දින දර්ශනය</string>
+    <string name="drive_backup_content_callhistory_dialog_message">උපස්ථයෙහි සිදු කළ සහ ලැබුණ ඇමතුම්වල දිනය සහ ලබන්නා ඇතුළත්ය.</string>
+    <string name="drive_backup_content_callhistory_title">ඇමතුම් ඉතිහාසය</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google සම්බන්ධතා තුළ සාදන ලද සම්බන්ධතා ඔබගේ Google ගිණුම වෙත පුරා ඇති සියලු උපාංග හරහා සමමුහුර්ත වනු ඇත.</string>
+    <string name="drive_backup_content_contacts_title">සම්බන්ධතා</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">උපස්ථ කිරීමට, වෝල්පේපරය, WiFi මුරපද, සහ පෙරනිමි යෙදුම් යනාදී උපාංග වින්‍යාසකරණය ඇතුළත්ය.</string>
+    <string name="drive_backup_content_devicesettings_title">උපාංග සැකසීම්</string>
+    <string name="drive_backup_content_header">අන්තර්ගතය</string>
+    <string name="drive_backup_content_photos_dialog_message">ඔබේ මූලික උපස්ථ ගිණුම වෙනස් කර ඇත. ඔබට Google ඡායාරූප උපස්ථ ගිණුම %s වෙත වෙනස් කිරීමටද හැකිය.</string>
+    <string name="drive_backup_content_photos_dialog_no">ඉවත ලන්න</string>
+    <string name="drive_backup_content_photos_dialog_title">ඡායාරූප සහ වීඩියෝ ගිණුම වෙනස් කරන්නද?</string>
+    <string name="drive_backup_content_photos_dialog_yes">වෙනස් කරන්න</string>
+    <string name="drive_backup_content_photos_title">ඡායාරූප සහ වීඩියෝ</string>
+    <string name="drive_backup_content_sms_dialog_message">උපස්ථයෙහි යවන ලද සහ ලැබුණ පණිවිඩ ඇතුළත්ය. මෙහි MMS මාධ්‍ය ඇතුළත් නොවේ.</string>
+    <string name="drive_backup_content_sms_title">SMS පෙළ පණිවිඩ</string>
+    <string name="drive_backup_content_status_dolly_action">හරි, තේරුණා</string>
+    <string name="drive_backup_content_status_error">අවසන් වරට සමමුහුර්ත කළ දිනය ලබා ගැනීමේ දෝෂය</string>
+    <string name="drive_backup_content_status_lastsaved">අවසන් උපස්ථ කිරීම: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">අවසන් සමමුහුර්ත කිරීම: %1$s</string>
+    <string name="drive_backup_content_status_never">උපස්ථ කිරීමට රැඳී සිටිමින්</string>
+    <string name="drive_backup_content_status_sync_adapter_action">සමමුහුර්ත කිරීමේ සැකසීම්</string>
+    <string name="drive_backup_content_status_sync_off">සමමුහුර්තකරණය ක්‍රියාවිරහිතයි</string>
+    <string name="drive_backup_content_status_updating">තත්ත්වය පරීක්ෂා කරමින්...</string>
+    <string name="drive_backup_disabled_backuplist">"උපස්ථයට ඇතුළත් වන්නේ:
+\u0009- යෙදුම් සහ යෙදුම් දත්ත
+\u0009- ඇමතුම් ඉතිහාසය
+\u0009- උපාංග සැකසීම් (Wi-Fi මුරපද ඇතුළුව)
+\u0009- Google දින දර්ශනය
+\u0009- Google සම්බන්ධතා
+\u0009- ඡායාරූප සහ වීඩියෝ
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"උපස්ථයට ඇතුළත් වන්නේ:
+\u0009- යෙදුම් සහ යෙදුම් දත්ත
+\u0009- ඇමතුම් ඉතිහාසය
+\u0009- උපාංග සැකසීම් (Wi-Fi මුරපද ඇතුළුව)
+\u0009- Google දින දර්ශනය
+\u0009- Google සම්බන්ධතා
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">ඔබගේ පරිපාලක විසින් අබල කරන ලදී</string>
+    <string name="drive_backup_disabled_detailedinfo">"දින දර්ශනය, සම්බන්ධතා, ඡායාරූප හා වීඩියෝ ඔබගේ Google ගිණුම වෙත සමමුහුර්ත කර ඇති අතර සේවා හරහා භාවිත කළ හැකිය.
+
+උපස්ථය ක්‍රියාවිරහිත විට පවා සමමුහුර්තය සබල විය හැකිය. සැකසීම් > ගිණුම් > Google තුළ සමමුහුර්ත සැකසීම් වෙනස් කළ හැකිය."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google දින දර්ශනය සහ Google සම්බන්ධතා ඔබගේ Google ගිණුම වෙත සමමුහුර්ත කර ඇති අතර සේවා හරහා භාවිත කළ හැකිය.
+
+උපස්ථය ක්‍රියාවිරහිත විට පවා සමමුහුර්තය සබල විය හැකිය. සැකසීම් > ගිණුම් > Google තුළ සමමුහුර්ත සැකසීම් වෙනස් කළ හැකිය."</string>
+    <string name="drive_backup_disabled_introduction">ස්වයංක්‍රිය උපස්ථ කිරීම ඔබට ඕනෑම අවස්ථාවක පහසුවෙන් ප්‍රතිසාධනය කිරීමට සහ දුරකථන මාරු කිරීමට හැකි බව සහතික කරයි.</string>
+    <string name="drive_backup_settings_title">උපස්ථ කිරීම</string>
+    <string name="drive_backup_state">Google Drive වෙත උපස්ථ කරන්න</string>
+    <string name="drive_backup_state_dialog_message">"Google Drive තුළ ඇති මෙම උපාංගයේ උපස්ථ දත්ත ස්ථීරවම මකනු ඇත.
+
+දැනටමත් උපස්ථ කර ඇති ඡායාරූප සහ වීඩියෝ තවදුරටත් Google Drive තුළ ලබා ගත හැකි වනු ඇත.
+
+Google දින දර්ශනය සහ Google සම්බන්ධතා ඔබේ Google ගිණුමට සමමුහුර්ත කිරීම දිගටම කරගෙන යනු ඇත. සැකසීම් > ගිණුම් > Google තුළ සමමුහුර්තකරණ සැකසීම් වෙනස් කළ හැකිය."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"මෙම උපාංගයෙහි උපස්ථ දත්ත සම්පූර්ණයෙන් මකනු ඇත.
+
+Google දින දර්ශනය සහ Google සම්බන්ධතා දිගටම ඔබේ Google ගිණුමට සමමුහුර්ත කරනු ඇත. සැකසීම් > ගිණුම් > Google තුළ සමමුහුර්ත සැකසීම් වෙනස් කළ හැකිය."</string>
+    <string name="drive_backup_state_dialog_okaction">ක්‍රියාවිරහිත කර මකන්න</string>
+    <string name="drive_backup_state_dialog_title">ක්‍රියාවිරහිත කර උපස්ථය මකන්නද?</string>
+    <string name="durationDayHour">දින %1$d පැය %2$d</string>
+    <string name="durationDayHours">දින %1$d පැය %2$d</string>
+    <string name="durationDays">දින %1$d</string>
+    <string name="durationHourMinute">පැය %1$d මිනි %2$d</string>
+    <string name="durationHourMinutes">පැය %1$d මිනි %2$d</string>
+    <string name="durationHours">පැය %1$d</string>
+    <string name="durationMinute">මිනිත්තු %1$d</string>
+    <string name="durationMinuteSecond">මිනි %1$d තත් %2$d</string>
+    <string name="durationMinuteSeconds">මිනි %1$d තත් %2$d</string>
+    <string name="durationMinutes">මිනිත්තු %1$d</string>
+    <string name="durationSecond">තත්පර %1$d</string>
+    <string name="durationSeconds">තත්පර %1$d</string>
+    <string name="encryption_warning_fragment_description">"ඔබේ iPhone® උපාංගය සඳහා උපස්ථ සංකේතනය ක්‍රියාත්මක කර ඇත. මෙය ඔබ විසින් ක්‍රියාත්මක නොකරන ලද්දේ නම්, එය ඔබේ IT පරිපාලක විසින් ක්‍රියාත්මක කරනු ලැබ තිබිය හැකිය.
+
+ඡායාරූප, සංගීතය, සහ වීඩියෝ පමණක් පිටපත් කළ හැකිය. වැඩිදුර තොරතුරු සඳහා, "<b>g.co/datatransferhelp</b> වෙත පිවිසෙන්න.</string>
+    <string name="encryption_warning_fragment_title">උපස්ථ සංකේතනය</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">මට ඇඩැප්ටරය සොයා ගත නොහැකිය</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"ඔබගේ ^1 ඇති පෙට්ටයෙහිම එන Quick Switch Adapter සොයා ගන්න.
+
+කේබලය ඇඩැප්ටරයට පේනුගත කරන්න."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ඇඩැප්ටරය සහ කේබලය සම්බන්ධ කරන්න</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ඔබේ පැරණි දුරකථනය අගුලු හැර, අනතුරුව මෙම දුරකථනයට ඇඩැප්ටරය පේනුගත කරන්න.</string>
+    <string name="fragment_usb_connect_both_phones_title">දුරකථන දෙක සම්බන්ධ කරන්න</string>
+    <string name="fragment_usb_dialog_cancel_description">ඔබ කේබලයක් භාවිත කරන්නේ නම් ඔබට බොහොමයක් අන්තර්ගතය ලැබෙනු ඇත. පෙට්ටියෙහි ඇති කේබල නොගැළපෙන්නේ නම්, ඔබට ඔබේ පැරණි දුරකථනය සමග වැඩ කරන ආරෝපණ හෝ දත්ත කේබලයක් භාවිත කිරීම උත්සාහ කළ හැකිය.</string>
+    <string name="fragment_usb_dialog_cancel_title">වෙනත් ආකාරයකින් දත්ත පිටපත් කරන්නද?</string>
+    <string name="fragment_usb_dont_have_cable">මට කේබලයක් නැහැ</string>
+    <string name="fragment_usb_dont_have_old_phone">මගේ ළඟ පැරණි දුරකථනය නැහැ</string>
+    <string name="fragment_usb_find_cable_description">ඔබේ දත්ත හෝ ආරෝපණ කේබලය වැනි, ඔබේ පැරණි දුරකථනයට ගැළපෙන කේබලයක් භාවිත කරන්න.</string>
+    <string name="fragment_usb_find_cable_title">නිවැරදි කේබලය සොයා ගන්න</string>
+    <string name="fragment_usb_initial_description">ඔබගේ පැරණි දුරකථනයෙන් මෙම ^1 වෙත දත්ත මාරු කරන්න.</string>
+    <string name="fragment_usb_initial_title">ඔබගේ දත්ත පිටපත් කරමු</string>
+    <string name="fragment_usb_legacy_description">"මෙය බොහොමයක් දත්ත ගෙන ඒමට වේගවත්ම ක්‍රමය වේ.
+
+පෙට්ටියේ ඇති ඇඩැප්ටරය සොය‍ා ගෙන එය ඔබේ නව දුරකථනයට සම්බන්ධ කරන්න. අනතුරුව, ඔබේ පැරණි දුරකථනය අගුලු හරින්න"</string>
+    <string name="fragment_usb_other_ways">කේබලයක් නොමැතිව පිටපත් කරන්න</string>
+    <string name="fragment_usb_plug_cable">ඔබගේ පැරණි දුරකථනයට කේබලය පේනුගත කරන්න</string>
+    <string name="fragment_waiting_title">තත්පරයක් ඉන්න…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google සම්බන්ධතා සමමුහුර්ත කරනු ඇත</string>
+    <string name="google_contacts_static_text_off">Google සම්බන්ධතා තවම සමමුහුර්ත කරනු ඇත</string>
+    <string name="header_set_backup_account">උපස්ථ ගිණුම සකසන්න</string>
+    <string name="i_message_dialog_message">"iPhone® උපාංග පරිශීලකයන් වෙතින් දිගටම SMS පණිවිඩ ලබා ගැනීමට, ඔබ iMessage® ක්‍රියාවිරහිත කිරීම අවශ්‍යයි.
+
+උපදෙස් සඳහා "<b>g.co/iMessageHelp</b> වෙත පිවිසෙන්න.</string>
+    <string name="instructions_fragment_title">ඔබගේ අනෙක් දුරකථනය මත දිගටම කර ගෙන යන්න</string>
+    <string name="ios_connected_fragment_description">"ඊළඟ තිරය මත, ඔබට ඔබේ Google ගිණුමට පිරීමට හෝ, අලුත් එකක් සෑදීමට හැකිය.
+
+ඔබ ඔබේ Google ගිණුම එක් නොකළහොත්, ඔබේ iOS Calendar® සිදුවීම් මාරු නොකරනු ඇත."</string>
+    <string name="ios_message_attachment_explanation">[ඔබේ පණිවිඩ ඇමුණුම් Google ඡායාරූප > උපාංග ෆෝල්ඩර > පණිවිඩ ඇමුණුම් තුළ තිබේ]</string>
+    <string name="ios_message_attachment_failed_explanation">[සමහර ඇමුණුම් පිටපත් කළ නොහැකි විය. මාරු කළ ඇමුණුම් Google ඡායාරූප > උපාංග ෆෝල්ඩර > පණිවිඩ ඇමුණුම් තුළ සොයා ගත හැකිය]</string>
+    <string name="ios_message_attachment_placeholder">[ඇමුණුම Google ඡායාරූප > උපාංග ෆෝල්ඩර > පණිවිඩ ඇමුණුම් තුළ සුරැක ඇත]</string>
+    <string name="ios_message_attachments_placeholder">[ඇමුණුම් Google ඡායාරූප > උපාංග ෆෝල්ඩර > පණිවිඩ ඇමුණුම් තුළ සුරැක ඇත]</string>
+    <string name="ios_migration_default_calendar_title">දින දර්ශනය</string>
+    <string name="ios_migration_other_contact_relation">වෙනත්</string>
+    <string name="ios_photos_dialog_message">"iCloud® තුළ ගබඩා කර ඇති ඡායාරූප පිටපත් කළ නොහැකිය.
+
+මෙම ඡායාරූප ඔබේ ^1 වෙත ගෙන ඒමට, ඔබගේ iPhone® උපාංගය මත Google ඡායාරූප යෙදුම ස්ථාපනය කර, උපස්ථ සහ සමමුහුර්ත කිරීම ක්‍රියාත්මක කරන්න. තවත් උපදෙස් සඳහා "<b>g.co/datatransferhelp</b>වෙත පිවිසෙන්න.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">ගිණුමක් එක් කරන්න</string>
+    <string name="lockscreen_smartdevice_action_next">ඊළඟ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ඔබගේ දුරකථනය පිහිටුවීම දිගටම කරගෙන යාමට අගුලු හරින්න</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ආරක්ෂාව සඳහා, පිහිටුවීම දිගටම කරගෙන යාමට ඔබගේ තිර අගුල තහවුරු කරන්න</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">ඔබගේ තිර අගුල තහවුරු කරන්න</string>
+    <string name="manage_data_label">Google ගිණුම</string>
+    <string name="master_clear_title">කර්මාන්ත ශාලා දත්ත යළි සැකසීම</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">උපස්ථ ගිණුම සැකසීමට අවශ්‍යයි</string>
+    <string name="notification_content_title_set_backup_account">උපස්ථය</string>
+    <string name="notification_ticker_set_backup_account">ආචයන ගිණුමක් අවශ්‍යයි</string>
+    <string name="permgrouplab_calendar">දින දර්ශනය</string>
+    <string name="permgrouplab_camera">කැමරාව</string>
+    <string name="permgrouplab_contacts">සම්බන්ධතා</string>
+    <string name="permgrouplab_location">ස්ථානය</string>
+    <string name="permgrouplab_microphone">මයික්‍රෝෆෝනය</string>
+    <string name="permgrouplab_phone">දුරකථනය</string>
+    <string name="permgrouplab_sensors">ශරීර සංවේදක</string>
+    <string name="permgrouplab_sms">කෙටි පණිවිඩ</string>
+    <string name="permgrouplab_storage">ගබඩාව</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">දැනට කිසිම ගිණුමක් උපස්ථ කළ ඡායාරූප ගබඩා නොකරයි</string>
+    <string name="photos_backup_title">ඡායාරූප උපස්ථය</string>
+    <string name="photos_filtering_option_all">සියලු</string>
+    <string name="photos_filtering_option_none">කිසිවක් නැත</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">පිටපත් කළ සම්බන්ධතා ඔබගේ Google ගිණුම වෙත සුරකිනු ඇත.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">පිටපත් කළ සම්බන්ධතා සහ දින දර්ශන ඔබගේ Google ගිණුම වෙත සුරකිනු ඇත.</string>
+    <string name="restore_choice_data_disclaimer_v2">ඔබේ ඇතැම් දත්ත ඔබේ ^1 වෙත පිටපත් නොවිය හැකිය. <annotation id="restore_choice_data_disclaimer_learn_more">තව දැන ගන්න</annotation></string>
+    <string name="restore_choice_deselect_some_content">දිගටම කරගෙන යාමට ඇතැම් අන්තර්ගතය තේරීම ඉවත් කරන්න</string>
+    <string name="restore_choice_learn_more_android">"ඔබේ පැරණි දුරකථනයෙන් සමහර දත්ත ස්වයංක්‍රියව පිටපත් කළ නොහැකිය:
+
+ ● බාගැනීම් (PDF යනාදී ගොනු ලෙස)
+
+ ● සඟවන ලද ෆෝල්ඩර තුළ ගබඩා කර ඇති, ඡායාරූප, වීඩියෝ සහ සංගීතය
+
+ ● පෙළ පණිවිඩ හරහා ලැබුණ ඡායාරූප, වීඩියෝ සහ සංගීතය
+
+ ● Google Play Store වෙතින් නොවන යෙදුම්
+
+ ● යෙදුම් දත්ත (යෙදුම Android උපස්ථය භාවිත නොකරන්නේ නම්)
+
+ ● ඇතැම් උපාංග සැකසීම්
+
+ ● Google ගිණුම් (සහ ඕනෑම සම්බන්ධිත දත්ත) හැර වෙනත් ගිණුම්
+
+ ● Google හැර වෙනත් සේවා වෙත සමමුහුර්ත කරන ලද සම්බන්ධතා සහ දින දර්ශන
+
+ ● රින්ග්ටෝන
+
+වැඩි විස්තර සහ මෙම දත්ත සමහරක් පිටපත් කිරීමේ උදවු සඳහා, g.co/datatransferhelp වෙත පිවිසෙන්න."</string>
+    <string name="restore_choice_learn_more_ios">"ඔබේ පැරණි දුරකථනයේ සමහර දත්ත ස්වයංක්‍රියව පිටපත් කළ නොහැකිය:
+
+ ● යෙදුම් සහ යෙදුම් දත්ත
+
+ ● මුල් ඡායාරූපය ඔබගේ දුරකථනයේ ගබඩා කර නැති ඡායාරූප (උදාහරණයක් ලෙස, ප්‍රශස්ත ගබඞා සැකසීම ක්‍රියාත්මක නම්, මුල් ඡායාරූප iCloud® තුළ ගබඩා කෙරේ)
+
+ ● iCloud® තුළ ගබඩා කර ඇති ගොනු සහ ලේඛන
+
+ ● උපාංග සැකසීම් (Wi-Fi මුරපද සහ වෝල්පේපර යනාදී)
+
+ ● ඩිජිටල් හිමිකම් කළමනාකරණ (DRM) සමගින් ආරක්ෂා කළ සංගීතය (උදාහරණය ලෙස, 2009 අප්‍රේල්වලට පෙර මිලදී ගත් iTunes® සංගීතය හෝ සංගීත ප්‍රවාහ යෙදුමක් තුළ නොබැඳි සවන් දීම සඳහා බාගත් සංගීතය)
+
+ ● Google ගිණුම් හැර වෙනත් ගිණුම් (සහ ඕනෑම සම්බන්ධිත දත්ත) හැර වෙනත් ගිණුම්
+
+ ● Google හෝ iCloud® හැර වෙනත් සේවා වෙත සමමුහුර්ත කරන ලද සම්බන්ධතා සහ දින දර්ශන
+
+ ● Safari® වෙතින් වන පිටුසන්
+
+ iMessage® ඇමුණුම් Google ඡායාරූප > උපාංග ෆෝල්ඩර > පණිවිඩ ඇමුණුම් තුළ ලබා ගත හැකි වනු ඇත.
+
+ වැඩි විස්තර සහ මෙම දත්තවලින් සමහරක් පිටපත් කිරීමේ උදවු සඳහා, g.co/datatransferhelp වෙත පිවිසෙන්න."</string>
+    <string name="restore_choice_not_enough_space">ප්‍රමාණවත් ඉඩක් නොමැත</string>
+    <string name="restore_choice_total_text">ඔබේ ලබා ගත හැකි %1$s / %2$s මාරුව</string>
+    <string name="restore_error_message">ප්‍රතිසාධනය පිළිබඳ යම් දෙයක් වැරදිණි. කනගාටුයි.</string>
+    <string name="restore_item_appdata">යෙදුම් දත්ත</string>
+    <string name="restore_item_calendar">දින දර්ශනය</string>
+    <string name="restore_item_calendar_ical_description">iOS® දින දර්ශනය, Google දින දර්ශනය</string>
+    <string name="restore_item_calendar_ical_off_description">Google දින දර්ශනය තවම සමමුහුර්ත කරනු ඇත</string>
+    <string name="restore_item_calendar_sync_description">Google දින දර්ශනය සමමුහුර්ත කරනු ඇත</string>
+    <string name="restore_item_call_logs">ඇමතුම් ඉතිහාසය</string>
+    <string name="restore_item_contacts">සම්බන්ධතා</string>
+    <string name="restore_item_device_settings_description">Wi-Fi මුරපද සහ තවත්</string>
+    <string name="restore_item_downloads">බාගැනීම්</string>
+    <string name="restore_item_email">ඊ-තැපෑල</string>
+    <string name="restore_item_email_description">Gmail සමමුහුර්ත කරනු ඇත</string>
+    <string name="restore_item_message_attachments">පණිවිඩ ඇමුණුම්</string>
+    <string name="restore_item_messages">පණිවිඩ</string>
+    <string name="restore_item_music">සංගීතය</string>
+    <string name="restore_item_photos">ඡායාරූප සහ වීඩියෝ</string>
+    <string name="restore_item_settings">උපාංග සැකසීම්</string>
+    <string name="restore_item_sms">SMS පණිවිඩ</string>
+    <string name="restore_item_will_be_synced_text">මෙය ඔබේ දුරකථනයට සමමුහුර්ත කරනු ඇත</string>
+    <string name="restore_progress_title">ප්‍රතිසාධනය කරමින්...</string>
+    <string name="small_time_duration">මිනිත්තු 1කට වඩා අඩු</string>
+    <string name="source_connected_description">සූදානම් කරමින්…</string>
+    <string name="source_connected_title">ඔබගේ %1$s වෙත සම්බන්ධ විය</string>
+    <string name="source_copying_description">ඔබ තෝරන ලද දත්ත ඔබගේ නව දුරකථනය වෙත පිටපත් කරමින් ඇත</string>
+    <string name="source_copying_title">පිටපත් කරමින්...</string>
+    <string name="source_default_target_device_name">නව උපාංගය</string>
+    <string name="source_notification_device_disconnected">ඔබගේ කේබලය යළි සම්බන්ධ කරන්න</string>
+    <string name="source_notification_text">දුරකථනයෙන් දුරකථනයට මාරුව ක්‍රියාත්මකයි</string>
+    <string name="source_notification_title">දත්ත මාරුව</string>
+    <string name="source_success_description">ඔබේ %1$s මත පිහිටුවීම අවසන් කරන්න.</string>
+    <string name="source_success_screen_title">සියල්ල නිමයි!</string>
+    <string name="source_unplugged_description">ඔබේ %1$s වෙත නැවත සම්බන්ධ කරන්න</string>
+    <string name="source_unplugged_title">කේබලය විසන්ධි විය</string>
+    <string name="source_waiting_title">ඔබේ %1$s පිහිටුවීම දිගටම කරන්න</string>
+    <string name="stop_copying_dialog_continue_button">ඉවතලන්න</string>
+    <string name="stop_copying_dialog_message_before_transfer">ඔබගේ දත්ත ඔබගේ නව දුරකථනය වෙත පිටපත් කර නැත</string>
+    <string name="stop_copying_dialog_message_during_transfer">ඔබගේ සමහර දත්ත ඔබගේ නව දුරකථනය වෙත පිටපත් කර නැත</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">පිටපත් නොකරන්න</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">නතර කරන්න</string>
+    <string name="stop_copying_dialog_title_before_transfer">පිටපත් නොකරන්නද?</string>
+    <string name="stop_copying_dialog_title_during_transfer">පිටපත් කිරීම නවත්වන්නද?</string>
+    <string name="storage_management_wear_descriptive_text">යෙදුම පළඳිය හැකි උපාංග වල ඇති දත්ත ප්‍රතිවලිත කිරීමට ඔබගේ උපාංගයේ ආචයනය භාවිත කරයි.</string>
+    <string name="storage_management_wear_manage_size_label">පළඳිය හැකි ආචයනයන් කළමනාකරණය කරන්න</string>
+    <string name="storage_management_wear_size_label">පළඳිය හැකි ආචයනය</string>
+    <string name="storage_managment_all_storage_descriptive_text">සෙවුම් එන්ජිම සහ වෙනත් දත්ත ඇතුළුව, Google Play සේවා මඟින් භාවිතා කළ සම්පූර්ණ දත්ත ප්‍රමාණය.</string>
+    <string name="storage_managment_clear_all_data">සියලු දත්ත හිස් කරන්න</string>
+    <string name="storage_managment_computing_size">ගණනය කරමින්…</string>
+    <string name="storage_managment_icing_size_label">සෙවීමේ දත්ත</string>
+    <string name="storage_managment_manage_icing_button">සෙවීම් දත්ත කළමණාකරණය කරන්න</string>
+    <string name="storage_managment_search_index_descriptive_text">ඔබගේ යෙදුම්වලට භාවිත කිරීමට සෙවීම් යාන්ත්‍රණයක් ලබා දීමෙන්, අපි ඔබගේ උපාංගයෙහි සෙවීම වේගවත් කරමු.</string>
+    <string name="storage_managment_title">Google Play සේවා ආචයනය</string>
+    <string name="storage_managment_total_size_label">මුළු ගබඩාව</string>
+    <string name="suw_back_button_label">ආපසු</string>
+    <string name="suw_more_button_label">තවත්</string>
+    <string name="suw_next_button_label">ඊළඟ</string>
+    <string name="target_default_source_device_model">පැරණි උපාංගය</string>
+    <string name="target_device_not_supported_cant_continue_description">ඔබ දත්ත පිටපත් කිරීමට වෙනත් ක්‍රමයක් තේරීම අවශ්‍ය වනු ඇත</string>
+    <string name="target_device_not_supported_cant_continue_title">අනෙක් දුරකථනය සහාය නොදක්වයි</string>
+    <string name="target_device_not_supported_try_restarting_description">"කේබලය විසන්ධි කර ඔබේ පැරණි දුරකථනය යළි ආරම්භ කරන්න, අනතුරුව කේබලය යළි සම්බන්ධ කර ඔබේ Pixel හි උපදෙස් අනුගමනය කරන්න.
+
+ඔබට දිගටම මෙම දෝෂය දිස් වන්නේ නම්, ඔබ වෙනත් ආකාරයකින් පිටපත් කිරීම අවශ්‍ය විය හැකිය."</string>
+    <string name="target_device_not_supported_try_restarting_title">දුරකථනය සහාය නොදක්වනවා විය හැකිය</string>
+    <string name="target_smart_device_timeout_add_account">ගිණුම එක් කරන්න</string>
+    <string name="target_smart_device_timeout_description">ඔබ කැමති නම්, ඔබට ඔබේ ගිණුම හස්තීයව එක් කිරීමට උත්සාහ කළ හැකිය</string>
+    <string name="target_smart_device_timeout_dismiss">ඉවත ලන්න</string>
+    <string name="target_smart_device_timeout_title">ගැටලු තිබේ ද?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">දුරකථන සම්බන්ධයි</string>
+    <string name="toast_reconnect_cable">ඔබගේ කේබලය යළි සම්බන්ධ කරන්න</string>
+    <string name="transfer_finished_fragment_title">අවසන් කිරීමේ දේවල් එක් කරමින්…</string>
+    <string name="transfer_summary_copied">දත්ත පිටපත් කරන ලදි</string>
+    <string name="transfer_summary_fragment_description">ඔබට කේබලය විසන්ධි කිරීමට හැකිය.</string>
+    <string name="transfer_summary_fragment_finish">නිම කරන්න</string>
+    <string name="transfer_summary_fragment_title">ඔබගේ දුරකථනය දැනටමත් සූදානම්ය</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">ඔබේ ඡායාරූපවලින් සමහරක් පිටපත් නොකරන ලදී. <annotation id="transfer_summary_learn_more">තව දැන ගන්න</annotation></string>
+    <string name="transfer_summary_not_copied">දත්ත පිටපත් නොකරන ලදී</string>
+    <string name="transfer_summary_partial">%1$s / %2$s පිටපත් කරන ලදී</string>
+    <string name="transfer_summary_will_sync">පිහිටුවීමෙන් පසු දත්ත සමමුහුර්ත කරනු ඇත</string>
+    <string name="transferring_fragment_calculating_remaining_time">ඉතිරි කාලය ගණනය කරමින්…</string>
+    <string name="transferring_fragment_header">පිටපත් කරමින්...</string>
+    <string name="transferring_fragment_remaining_time">%1$s ඉතිරිය</string>
+    <string name="trust_instructions_description">දිගටම කරගෙන යාමට, ඔබේ iPhone® උපාංගය පරීක්ෂා කර සම්බන්ධතාව අනුමත කරන්න</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, සහ iTunes එක්සත් ජනපදය හා වෙනත් රටවල ලියාපදිංචි Apple Inc. හි වෙළඳ ලකුණු වේ.</string>
+</resources>

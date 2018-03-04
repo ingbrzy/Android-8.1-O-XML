@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">Đã thêm %1$d liên hệ vào nhãn %2$s</item>
+        <item quantity="one">Đã thêm %1$d liên hệ vào nhãn %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Thêm %1$d liên hệ vào nhãn %2$s</item>
+        <item quantity="one">Thêm %1$d liên hệ vào nhãn %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Xem xét thông tin được đề xuất cho %d liên hệ</item>
+        <item quantity="one">Xem xét thông tin được đề xuất cho %d liên hệ</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d liên hệ rác</item>
+        <item quantity="one">%d liên hệ rác</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d liên hệ trùng lặp</item>
+        <item quantity="one">1 liên hệ trùng lặp</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d cuộc gọi gần đây • Cuộc gọi gần đây nhất vào %2$s</item>
+        <item quantity="one">%1$d cuộc gọi gần đây • Cuộc gọi gần đây nhất vào %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Liên hệ đã được thêm vào nhãn %1$s</item>
+        <item quantity="one">Liên hệ đã được thêm vào nhãn %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d liên hệ</item>
+        <item quantity="one">%d liên hệ</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d liên hệ · %2$s</item>
+        <item quantity="one">%1$d liên hệ · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Đã xóa %1$d liên hệ</item>
+        <item quantity="one">Đã xóa %1$d liên hệ</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Các liên hệ này sẽ bị xóa khỏi Danh bạ Google và tất cả các thiết bị được đồng bộ hóa của bạn</item>
+        <item quantity="one">Liên hệ này sẽ bị xóa khỏi Danh bạ Google và tất cả các thiết bị được đồng bộ hóa của bạn</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d liên hệ trong các tài khoản khác của bạn</item>
+        <item quantity="one">1 liên hệ trong các tài khoản khác của bạn</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d liên hệ</item>
+        <item quantity="one">1 liên hệ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 liên hệ • ^2</item>
+        <item quantity="one">^1 liên hệ • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Di chuyển %1$d liên hệ này vào %2$s?</item>
+        <item quantity="one">Di chuyển liên hệ này vào %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Đã di chuyển %d liên hệ</item>
+        <item quantity="one">Đã di chuyển %d liên hệ</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Đã di chuyển xong %d liên hệ</item>
+        <item quantity="one">Đã di chuyển xong liên hệ</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Đang di chuyển %d liên hệ</item>
+        <item quantity="one">Đang di chuyển liên hệ</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d liên hệ được sao lưu vào %2$s</item>
+        <item quantity="one">%1$d liên hệ được sao lưu vào %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Nhập từ các thẻ SIM</item>
+        <item quantity="one">Nhập từ thẻ SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d liên hệ</item>
+        <item quantity="one">1 liên hệ</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Đã nhập %d liên hệ trên SIM</item>
+        <item quantity="one">Đã nhập 1 liên hệ trên SIM</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Chia sẻ các liên hệ qua</item>
+        <item quantity="one">Chia sẻ liên hệ qua</item>
+    </plurals>
+</resources>

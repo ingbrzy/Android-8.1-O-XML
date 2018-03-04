@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">הדירוג שלך: %1$s כוכבים</item>
+        <item quantity="one">הדירוג שלך: כוכב %1$s</item>
+        <item quantity="two">הדירוג שלך: %1$s כוכבים</item>
+        <item quantity="many">הדירוג שלך: %1$s כוכבים</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d ביקורות</item>
+        <item quantity="one">ביקורת %1$d</item>
+        <item quantity="two">%1$d ביקורות</item>
+        <item quantity="many">%1$d ביקורות</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d ביקורות לדירוג כוכב %2$d</item>
+        <item quantity="one">ביקורת %1$d לדירוג כוכב %2$d</item>
+        <item quantity="two">%1$d ביקורות לדירוג כוכב %2$d</item>
+        <item quantity="many">%1$d ביקורות לדירוג כוכב %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">התקנות מושהות</item>
+        <item quantity="one">התקנה מושהית</item>
+        <item quantity="two">התקנות מושהות</item>
+        <item quantity="many">התקנות מושהות</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">האפליקציות נסרקו לפני %1$d ימים</item>
+        <item quantity="one"></item>
+        <item quantity="two">האפליקציות נסרקו לפני %1$d ימים</item>
+        <item quantity="many">האפליקציות נסרקו לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d אפליקציות מזיקות הוסרו. %2$s.</item>
+        <item quantity="one">%1$d אפליקציה מזיקה הוסרה. %2$s.</item>
+        <item quantity="two">%1$d אפליקציות מזיקות הוסרו. %2$s.</item>
+        <item quantity="many">%1$d אפליקציות מזיקות הוסרו. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d עדכונים זקוקים לאישור</item>
+        <item quantity="one">עדכון %1$d זקוק לאישור</item>
+        <item quantity="two">%1$d עדכונים זקוקים לאישור</item>
+        <item quantity="many">%1$d עדכונים זקוקים לאישור</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d עדכונים חדשים</item>
+        <item quantity="one">עדכון %1$d חדש</item>
+        <item quantity="two">%1$d עדכונים חדשים</item>
+        <item quantity="many">%1$d עדכונים חדשים</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d עדכונים זמינים</item>
+        <item quantity="one">עדכון %1$d זמין</item>
+        <item quantity="two">%1$d עדכונים זמינים</item>
+        <item quantity="many">%1$d עדכונים זמינים</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">עדכן הכל</item>
+        <item quantity="one">עדכן</item>
+        <item quantity="two">עדכן הכל</item>
+        <item quantity="many">עדכן הכל</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d אפליקציות עודכנו</item>
+        <item quantity="one">אפליקציה %1$d עודכנה</item>
+        <item quantity="two">%1$d אפליקציות עודכנו</item>
+        <item quantity="many">%1$d אפליקציות עודכנו</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s כוכבים</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> כוכב %2$s</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s כוכבים</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s כוכבים</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> כוכב %2$s - %3$s</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> כוכב %2$s - %3$s - %4$s</item>
+        <item quantity="two">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s - %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s כוכבים - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+        <item quantity="one">הביקורת הועילה למשתמש %1$d. סמן את התגובה כמועילה</item>
+        <item quantity="two">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+        <item quantity="many">הביקורת הועילה ל-%1$d משתמשים. סמן את התגובה כמועילה</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+        <item quantity="one">הביקורת הועילה למשתמש %1$d. הסר את סימון התגובה כמועילה</item>
+        <item quantity="two">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+        <item quantity="many">הביקורת הועילה ל-%1$d משתמשים. הסר את סימון התגובה כמועילה</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">דורג &lt;b>%1$s כוכבים&lt;/b></item>
+        <item quantity="one">דורג &lt;b>%1$s כוכב&lt;/b></item>
+        <item quantity="two">דורג &lt;b>%1$s כוכבים&lt;/b></item>
+        <item quantity="many">דורג &lt;b>%1$s כוכבים&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">ב-%1$s ביקורות</item>
+        <item quantity="one">בביקורת %1$s</item>
+        <item quantity="two">ב-%1$s ביקורות</item>
+        <item quantity="many">ב-%1$s ביקורות</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s כוכבים&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>כוכב %1$s &lt;/b> %2$s</item>
+        <item quantity="two">&lt;b>%1$s כוכבים&lt;/b> %2$s</item>
+        <item quantity="many">&lt;b>%1$s כוכבים&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="one">השימוש האחרון היה לפני יום %1$d</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="many">השימוש האחרון היה לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">שחזר את %1$d האפליקציות שנבחרו</item>
+        <item quantity="one">שחזר את האפליקציה שנבחרה</item>
+        <item quantity="two">שחזר את %1$d האפליקציות שנבחרו</item>
+        <item quantity="many">שחזר את %1$d האפליקציות שנבחרו</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">כוכבים</item>
+        <item quantity="one">כוכב</item>
+        <item quantity="two">כוכבים</item>
+        <item quantity="many">כוכבים</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">האפליקציות יותקנו בקרוב.</item>
+        <item quantity="one">האפליקציה תותקן בקרוב.</item>
+        <item quantity="two">האפליקציות יותקנו בקרוב.</item>
+        <item quantity="many">האפליקציות יותקנו בקרוב.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">עדכוני האפליקציות יותקנו בקרוב.</item>
+        <item quantity="one">עדכון האפליקציה יותקן בקרוב.</item>
+        <item quantity="two">עדכוני האפליקציות יותקנו בקרוב.</item>
+        <item quantity="many">עדכוני האפליקציות יותקנו בקרוב.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="one">השימוש האחרון היה לפני יום %1$d</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d ימים</item>
+        <item quantity="many">השימוש האחרון היה לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">השימוש האחרון היה לפני %1$d חודשים</item>
+        <item quantity="one">השימוש האחרון היה לפני חודש %1$d</item>
+        <item quantity="two">השימוש האחרון היה לפני %1$d חודשים</item>
+        <item quantity="many">השימוש האחרון היה לפני %1$d חודשים</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+        <item quantity="one">כדי להתקין אפליקציה או עדכון במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+        <item quantity="two">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+        <item quantity="many">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה בהגדרות האחסון.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה באפשרות &lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+        <item quantity="one">כדי להתקין אפליקציה או עדכון במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה באפשרות &lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+        <item quantity="two">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה באפשרות &lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+        <item quantity="many">כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה באפשרות &lt;a href=\"\">הגדרות > אחסון&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">"כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב'הגדרות' > 'אחסון'."</item>
+        <item quantity="one">"כדי להתקין אפליקציה או עדכון במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב'הגדרות' > 'אחסון'."</item>
+        <item quantity="two">"כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב'הגדרות' > 'אחסון'."</item>
+        <item quantity="many">"כדי להתקין אפליקציות או עדכונים במכשיר זה, מחק אפליקציות שכבר אין לך צורך בהן. ניתן גם לפנות מקום על ידי מחיקת קובצי מדיה ב'הגדרות' > 'אחסון'."</item>
+    </plurals>
+</resources>

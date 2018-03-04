@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign In</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="anomaly_entry_system">Android System</string>
+    <string name="background_battery_usage_description">High background battery usage detected</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$ds</string>
+    <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
+    <string name="battery_history_hours_no_seconds">%1$dh %2$dm</string>
+    <string name="battery_history_minutes_no_seconds">%1$dm</string>
+    <string name="notification_channel_name">Low battery notification</string>
+    <string name="time_remaining_warning_subtext">About %1$s left based on your usage</string>
+    <string name="time_remaining_warning_text">Battery may run out soon</string>
+    <string name="usage_alerts_empty_state">No alerts since last full battery charge</string>
+    <string name="usage_alerts_title">Usage alerts</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Vymazať vyhľadávanie</string>
+    <string name="place_autocomplete_search_hint">Vyhľadávajte</string>
+    <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
+    <string name="common_google_play_services_enable_button">Povoliť</string>
+    <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_install_button">Inštalovať</string>
+    <string name="common_google_play_services_install_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na zariadení nemáte.</string>
+    <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Aplikáciu %1$s nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje.</string>
+    <string name="common_google_play_services_update_button">Aktualizovať</string>
+    <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
+    <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="common_open_on_phone">Otvoriť v telefóne</string>
+    <string name="common_signin_button_text">Prihlásiť sa</string>
+    <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+    <string name="anomaly_entry_system">Systém Android</string>
+    <string name="background_battery_usage_description">Bolo zistené vysoké využitie batérie na pozadí</string>
+    <string name="battery_history_days">%1$d d %2$d h %3$d min %4$d s</string>
+    <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
+    <string name="battery_history_minutes">%1$d min %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Upozornenie o slabej batérii</string>
+    <string name="time_remaining_warning_subtext">Zostáva približne %1$s v závislosti od intenzity využitia</string>
+    <string name="time_remaining_warning_text">Batéria sa môže čoskoro minúť</string>
+    <string name="usage_alerts_empty_state">Žiadne upozornenia od posledného úplného nabitia batérie</string>
+    <string name="usage_alerts_title">Upozornenia na využitie</string>
+</resources>

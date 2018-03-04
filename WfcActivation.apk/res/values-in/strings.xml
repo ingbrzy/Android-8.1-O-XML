@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Berikutnya</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lainnya</string>
+    <string name="vzw_wfc_activation_error">Tidak dapat mengaktifkan panggilan Wi-Fi. Harap coba lagi nanti.</string>
+    <string name="vzw_address_update_error">Tidak dapat memperbarui alamat darurat saat ini. Coba lagi nanti.</string>
+    <string name="emergency_address_app_label">Pengelolaan Alamat Darurat</string>
+    <string name="progress_text">Harap tunggu...</string>
+    <string name="vzw_tos_title">Aktifkan Panggilan Wi-Fi</string>
+    <string name="cancel">Batal</string>
+    <string name="vzw_tos_text">"Panggilan Wi-Fi memungkinkan Anda melakukan panggilan telepon menggunakan Wi-Fi jika jaringan seluler tidak tersedia.
+
+Untuk menyiapkan Panggilan Wi-Fi, Anda harus memasukkan alamat AS. Alamat ini akan digunakan oleh layanan darurat di lokasi jika Anda melakukan panggilan darurat (E911) melalui Wi-Fi dari ponsel ini dalam wilayah AS.
+
+Sebaiknya ubah alamat ini jika Anda melakukan panggilan telepon menggunakan jaringan Wi-Fi yang berbeda agar informasi lokasi akurat. Anda dapat mengubah lokasi kapan saja dengan membuka menu setelan Panggilan Wi-Fi."</string>
+    <string name="vzw_tos_link">Persyaratan dan Ketentuan</string>
+    <string name="tos_continue">Lanjutkan</string>
+    <string name="vzw_e911_title">Informasi Lokasi Darurat</string>
+    <string name="vzw_e911_description"><b>PENTING - PERLU ALAMAT DARURAT 911</b>"
+PERINGATAN - BATASAN PANGGILAN DARURAT 911."</string>
+    <string name="vzw_e911_warning"><b>PERINGATAN - BATASAN PANGGILAN DARURAT 911</b>"
+Saat menelepon 911, selalu beri tahukan lokasi Anda kepada operator. Lakukan panggilan 911 melalui Wi-Fi hanya jika jaringan seluler tidak tersedia. Panggilan 911 yang dilakukan melalui Wi-Fi mungkin tertunda atau tidak berhasil; misalnya, jika sistem 911 tidak mengenali alamat, listrik padam, atau sambungan Wi-Fi tidak berfungsi. Layanan darurat akan dikirimkan ke alamat yang diberikan di atas, jadi update alamat jika Anda berpindah lokasi."</string>
+    <string name="house_number">Nomor Alamat</string>
+    <string name="street">Jalan</string>
+    <string name="apt_suite_number">Apt, Suite, dll.</string>
+    <string name="city">Kota</string>
+    <string name="state">Negara Bagian</string>
+    <string name="zip_code">Kode pos</string>
+    <string name="save">Simpan</string>
+    <string name="vzw_address_confirm_text_part1">Kami tidak dapat menemukan alamat yang Anda masukkan karena alamat jalan tidak dapat ditemukan, atau kota, negara bagian, dan kode pos mungkin salah.</string>
+    <string name="vzw_address_confirm_text_part2">Jika kota, negara bagian, dan kode pos salah, tap %1$s, jika sudah benar, tap %2$s.</string>
+    <string name="save_anyway">Tetap Simpan</string>
+    <string name="edit_address">Edit Alamat</string>
+    <string name="ok">Oke</string>
+    <string name="vzw_address_select_text">Kami tidak dapat menemukan alamat yang Anda masukkan:</string>
+    <string name="vzw_address_alternate_text">Mungkin maksud Anda:</string>
+    <string name="vzw_partial_confirm_head">Alamat yang dimasukkan tidak dapat divalidasi oleh Penyedia Layanan Darurat.</string>
+    <string name="vzw_partial_confirm_text">Yakin ingin menggunakan alamat ini dalam keadaan darurat?</string>
+    <string name="vzw_partial_failure_text_part1">Kota, negara bagian, atau kode pos yang Anda masukkan mungkin salah.</string>
+    <string name="vzw_partial_failure_text_part2">Periksa alamatnya, lalu coba lagi.</string>
+    <string name="vzw_address_update_success_toast">Alamat darurat diupdate</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi dinonaktifkan</string>
+    <string name="connect_to_wifi_or_web_portal_message">Anda dapat menyiapkan panggilan Wi-Fi menggunakan jaringan seluler, tetapi Anda harus mengaktifkan Wi-Fi dan menyambungkan ke jaringan agar dapat menggunakan fitur ini.</string>
+    <string name="button_turn_on_wifi">Aktifkan Wi-Fi</string>
+    <string name="button_setup_web_portal">Lanjutkan Penyiapan</string>
+</resources>

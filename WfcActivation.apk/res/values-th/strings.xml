@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">ถัดไป</string>
+    <string name="suw_back_button_label">กลับ</string>
+    <string name="suw_more_button_label">เพิ่มเติม</string>
+    <string name="vzw_wfc_activation_error">ไม่สามารถเปิดใช้งานการโทรผ่าน Wi-Fi โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="vzw_address_update_error">ไม่สามารถอัปเดตที่อยู่ฉุกเฉินปัจจุบันได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="emergency_address_app_label">การจัดการที่อยู่ฉุกเฉิน</string>
+    <string name="progress_text">โปรดรอสักครู่…</string>
+    <string name="vzw_tos_title">เปิดใช้งานการโทรผ่าน Wi-Fi</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="vzw_tos_text">"การโทรผ่าน Wi-Fi จะช่วยให้คุณโทรออกได้โดยใช้ Wi-Fi เมื่อเครือข่ายมือถือไม่พร้อมให้บริการ
+
+หากต้องการตั้งค่าการโทรผ่าน Wi-Fi คุณต้องป้อนที่อยู่ในสหรัฐอเมริกา ซึ่งที่อยู่นี้จะใช้สำหรับบริการฉุกเฉินในสถานที่ของคุณเมื่อติดต่อเหตุฉุกเฉิน (E911) ผ่าน Wi-Fi จากโทรศัพท์ที่อยู่ในสหรัฐอเมริกา
+
+ขอแนะนำให้คุณเปลี่ยนที่อยู่นี้ เมื่อคุณโทรโดยใช้เครือข่าย Wi-Fi อื่น เพื่อให้ข้อมูลสถานที่ถูกต้อง คุณสามารถเปลี่ยนสถานที่ได้ทุกเมื่อโดยไปที่เมนูการตั้งค่าการโทรผ่าน Wi-Fi"</string>
+    <string name="vzw_tos_link">ข้อกำหนดในการให้บริการ</string>
+    <string name="tos_continue">ต่อไป</string>
+    <string name="vzw_e911_title">ข้อมูลตำแหน่งของเหตุฉุกเฉิน</string>
+    <string name="vzw_e911_description"><b>สำคัญ - ต้องระบุที่อยู่เมื่อโทรฉุกเฉิน 911</b>"
+หากต้องการเปิดการโทรผ่าน Wi-Fi ให้ป้อนที่อยู่ในสหรัฐอเมริกาที่คุณต้องการให้ส่งบริการฉุกเฉินเมื่อโทร 911 คุณสามารถไปที่ \"การตั้งค่า\" แล้วเปลี่ยนที่อยู่นี้ได้ทุกเมื่อ คุณควรอัปเดตที่อยู่นี้ทุกครั้งที่เปลี่ยนที่อยู่"</string>
+    <string name="vzw_e911_warning"><b>คำเตือน - ข้อจำกัดในการโทรฉุกเฉิน 911</b>"
+เมื่อโทร 911 ให้แจ้งตำแหน่งของคุณแก่พนักงานรับโทรศัพท์ทุกครั้ง การโทร 911 จะดำเนินการผ่าน Wi-Fi เมื่อเครือข่ายมือถือไม่พร้อมใช้งานเท่านั้น การโทร 911 ผ่าน Wi-Fi อาจมีการหน่วงเวลาหรือไม่สำเร็จ เช่น หากระบบ 911 ไม่รู้จักที่อยู่ ไฟฟ้าดับ หรือการเชื่อมต่อ Wi-Fi ไม่ทำงาน จะมีการส่งบริการฉุกเฉินไปยังที่อยู่ที่คุณระบุไว้ข้างต้น ดังนั้น โปรดอัปเดตที่อยู่เมื่อคุณเปลี่ยนตำแหน่ง"</string>
+    <string name="house_number">หมายเลขที่อยู่</string>
+    <string name="street">ถนน</string>
+    <string name="apt_suite_number">อพาร์ทเมนต์ ห้องชุด ฯลฯ</string>
+    <string name="city">เมือง</string>
+    <string name="state">รัฐ</string>
+    <string name="zip_code">รหัสไปรษณีย์</string>
+    <string name="save">บันทึก</string>
+    <string name="vzw_address_confirm_text_part1">เราไม่พบที่อยู่ที่คุณป้อนเพราะไม่พบที่อยู่ หรือเมือง รัฐ และรหัสไปรษณีย์อาจไม่ถูกต้อง</string>
+    <string name="vzw_address_confirm_text_part2">หากเมือง รัฐ และรหัสไปรษณีย์ไม่ถูกต้อง ให้แตะ %1$s หรือแตะ %2$s</string>
+    <string name="save_anyway">บันทึกต่อไป</string>
+    <string name="edit_address">แก้ไขที่อยู่</string>
+    <string name="ok">ตกลง</string>
+    <string name="vzw_address_select_text">เราไม่พบที่อยู่ที่คุณป้อนไว้:</string>
+    <string name="vzw_address_alternate_text">หรือคุณหมายถึง:</string>
+    <string name="vzw_partial_confirm_head">ผู้ให้บริการฉุกเฉิน (Emergency Service Provider) ไม่สามารถยืนยันที่อยู่ที่ป้อนไว้</string>
+    <string name="vzw_partial_confirm_text">คุณแน่ใจไหมว่าต้องการใช้ที่อยู่นี้เมื่อเกิดเหตุฉุกเฉิน</string>
+    <string name="vzw_partial_failure_text_part1">เมือง รัฐ หรือรหัสไปรษณีย์ที่ป้อนไว้อาจไม่ถูกต้อง</string>
+    <string name="vzw_partial_failure_text_part2">โปรดตรวจสอบที่อยู่แล้วลองอีกครั้ง</string>
+    <string name="vzw_address_update_success_toast">อัปเดตที่อยู่ฉุกเฉินแล้ว</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi ปิดอยู่</string>
+    <string name="connect_to_wifi_or_web_portal_message">คุณสามารถตั้งค่าการโทรผ่าน Wi-Fi โดยใช้เครือข่ายมือถือ แต่จะต้องเปิด Wi-Fi และเชื่อมต่อเครือข่ายเพื่อใช้ฟีเจอร์นี้</string>
+    <string name="button_turn_on_wifi">เปิด Wi-Fi</string>
+    <string name="button_setup_web_portal">ตั้งค่าต่อ</string>
+</resources>

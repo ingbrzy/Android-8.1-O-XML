@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="DISTANCE_UNIT_ENTRIES">
+        <item>@string/UNITS_AUTOMATIC</item>
+        <item>@string/UNITS_METRIC</item>
+        <item>@string/UNITS_IMPERIAL</item>
+    </string-array>
+    <string-array name="DISTANCE_UNIT_VALUES">
+        <item></item>
+        <item>KILOMETERS</item>
+        <item>MILES</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>Any</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>Any price level</item>
+        <item>Inexpensive</item>
+        <item>Moderately expensive</item>
+        <item>Expensive</item>
+        <item>Very expensive</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>Any</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>Any star rating</item>
+        <item>Two or more stars</item>
+        <item>Three or more stars</item>
+        <item>Four or more stars</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>Any</item>
+        <item>3-star</item>
+        <item>4-star</item>
+        <item>5-star</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>Any</item>
+        <item>Three stars</item>
+        <item>Four stars</item>
+        <item>Five stars</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Hated it</item>
+        <item>Disliked it</item>
+        <item>"It's okay"</item>
+        <item>Liked it</item>
+        <item>Loved it</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>When zooming in and out</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_VALUES">
+        <item>fade</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="VOICE_LEVEL_ENTRIES">
+        <item>@string/VOICE_LEVEL_LOUDER</item>
+        <item>@string/VOICE_LEVEL_NORMAL</item>
+        <item>@string/VOICE_LEVEL_SOFTER</item>
+    </string-array>
+    <string-array name="VOICE_LEVEL_VALUES">
+        <item>LOUDER</item>
+        <item>NORMAL</item>
+        <item>SOFTER</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>Tell others why you hated this place.</item>
+        <item>Tell others why you disliked this place.</item>
+        <item>Tell others why this place was okay.</item>
+        <item>Tell others why you liked this place.</item>
+        <item>Tell others why you loved this place.</item>
+    </string-array>
+    <array name="material_google_colors">
+        <item>@color/quantum_googblue</item>
+        <item>@color/quantum_googred</item>
+        <item>@color/quantum_googyellow</item>
+        <item>@color/quantum_googgreen</item>
+    </array>
+    <item type="array" name="APKTOOL_DUMMY_5">false</item>
+    <item type="array" name="APKTOOL_DUMMY_8">false</item>
+</resources>

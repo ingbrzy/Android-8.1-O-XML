@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ወደ መነሻ ይዳስሱ</string>
+    <string name="abc_action_bar_home_description_format">%1$s፣ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s፣ %2$s፣ %3$s</string>
+    <string name="abc_action_bar_up_description">ወደ ላይ ይዳስሱ</string>
+    <string name="abc_action_menu_overflow_description">ተጨማሪ አማራጮች</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_activity_chooser_view_see_all">ሁሉንም ይመልከቱ</string>
+    <string name="abc_activitychooserview_choose_application">መተግበሪያ ይምረጡ</string>
+    <string name="abc_capital_off">ጠፍቷል</string>
+    <string name="abc_capital_on">በርቷል</string>
+    <string name="abc_search_hint">ፈልግ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_query">የፍለጋ ጥያቄ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ ያስረክቡ</string>
+    <string name="abc_searchview_description_voice">የድምፅ ፍለጋ</string>
+    <string name="abc_shareactionprovider_share_with">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="abc_shareactionprovider_share_with_application">ከ%s ጋር ያጋሩ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="app_has_in_app_purchases">የውስጠ-መተግበሪያ ግዢዎች</string>
+    <string name="app_has_permissions">ፈቃዶች፦ %s</string>
+    <string name="app_has_runtime_permissions">መተግበሪያ ፈቃዶችን ይጠይቃል</string>
+    <string name="app_picker_loading">የሚገኙ መተግበሪያዎችን በማግኘት ላይ…</string>
+    <string name="app_picker_loading_toast">የሚገኙ መተግበሪያዎች በቅርቡ ይጫናሉ</string>
+    <string name="app_picker_no_apps">ምንም መተግበሪያዎች አልተመረጡም</string>
+    <string name="app_picker_no_apps_found">ምንም መተግበሪያዎች አልተገኙም</string>
+    <string name="apps_permissions_described_v2">"ታዋቂና ነጻ የiOS® መተግበሪያዎች ብቻ ናቸው ከAndroid መተግበሪያዎች ጋር መዛመድ የሚችሉት። አብዛኛዎቹ የውስጠ-መተግበሪያ ግዢዎች አይዛወሩም። አንዴ ማዋቀር ከተጠናቀቀ በኋላ በPlay መደብር ውስጥ ተጨማሪ መተግበሪያዎችን ማግኘት ይችላሉ።
+
+አንዳንድ መተግበሪያዎች በመሣሪያዎ ላይ የተወሰኑ ችሎታዎችን ወይም መረጃን መድረስ እንዲችሉ አስቀድመው ፈቃድ መስጠት ሊኖርብዎ ይችላል። ፈቃዶች በፈቃድ ስብስቦች ነው የተደራጁት። እነዚህን መተግበሪያዎች ለመጫን በመምረጥዎ የእያንዳንዱ ስብስብ አካል የሆኑትን ፈቃዶች ተቀብለዋል። የእያንዳንዱ የፈቅዶች ስብስብ መግለጫ ከታች ቀርቧል።
+
+አንዳንድ መተግበሪያዎች አስቀድሞ ፈቃዶችን መቀበል ላያስፈልጋቸው ይችላል። ከእነዚህ መተግበሪያዎች ውስጥ አንዱን ሲጠቀሙ መተግበሪያው የዚያ አይነት ውሂብ ከመጠቀሙ በፊት ተናጠል ፈቃድን መፍቀድ ወይም መከልከል ይችላሉ።
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">የውሂብ ማዛወሪያ መሣሪያ</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">ባ</string>
+    <string name="cancel_copy_button_text">አትቅዳ</string>
+    <string name="close_button_label">ዝጋ</string>
+    <string name="cloud_restore_app_picker_button">ወደነበረበት መልስ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">የእርስዎ ምትኬ ምንም መተግበሪያዎች የሉትም</string>
+    <string name="cloud_restore_app_picker_title">ወደነበሩበት የሚመልሷቸው መተግበሪያዎችን ይምረጡ</string>
+    <string name="common_cancel">ይቅር</string>
+    <string name="common_google_play_services_enable_button">አንቃ</string>
+    <string name="common_google_play_services_enable_text">Google Play አገልግሎቶችን ካላነቁ በስተቀር %1$s አይሰራም።</string>
+    <string name="common_google_play_services_enable_title">Google Play አገልግሎቶችን ያንቁ</string>
+    <string name="common_google_play_services_install_button">ጫን</string>
+    <string name="common_google_play_services_install_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በመሣሪያዎ ላይ የሉም።</string>
+    <string name="common_google_play_services_install_title">Google Play አገልግሎቶችን ያግኙ</string>
+    <string name="common_google_play_services_notification_ticker">የGoogle Play አገልግሎቶች ስህተት</string>
+    <string name="common_google_play_services_unknown_issue">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ያለGoogle Play አገልግሎቶች አይሄድም፣ እነዚህም በመሣሪያዎ አይደገፉም።</string>
+    <string name="common_google_play_services_update_button">ያዘምኑ</string>
+    <string name="common_google_play_services_update_text">Google Play አገልግሎቶችን ካላዘመኑ በስተቀር ድረስ %1$s አይሰራም።</string>
+    <string name="common_google_play_services_update_title">Google Play አገልግሎቶችን ያዘምኑ</string>
+    <string name="common_google_play_services_updating_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በአሁኑ ጊዜ በመዘመን ላይ ናቸው።</string>
+    <string name="common_google_play_services_wear_update_text">አዲስ የGoogle Play አገልግሎቶች ስሪት ያስፈልጋል። በቅርቡ እራሱን ያዘምናል።</string>
+    <string name="common_ok">እሺ</string>
+    <string name="common_open_on_phone">ስልክ ላይ ክፈት</string>
+    <string name="common_signin_button_text">ግባ</string>
+    <string name="common_signin_button_text_long">በGoogle ይግቡ</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®፣ %2$d መሣሪያ</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google እውቂያዎች፣ %1$d iCloud®፣ %2$d መሣሪያ</string>
+    <string name="contacts_number_device_and_sim_with_google">Google እውቂያዎች፣ %1$d ሲም፣ %2$d መሣሪያ</string>
+    <string name="contacts_number_device_with_google">Google እውቂያዎች፣ %1$d መሣሪያ</string>
+    <string name="contacts_number_icloud_with_google">Google እውቂያዎች፣ %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google እውቂያዎች፣ %1$d ሲም</string>
+    <string name="copy_confirmation_description">እንደ የእርስዎ የGoogle መለያ እና መተግበሪያዎች ያለ ውሂብ ወደ አዲሱ የእርስዎ ስልክ ይቀዳሉ</string>
+    <string name="copy_confirmation_title">ወደ አዲሱ ስልክዎ ይቀዳ?</string>
+    <string name="d2d_app_picker_description_no_apps">ምንም መተግበሪያዎችን ልናገኝ አልቻልንም</string>
+    <string name="d2d_app_picker_title">መተግበሪያዎች</string>
+    <string name="d2d_migration_canceled_on_source">መቅዳት ተሰርዟል</string>
+    <string name="data_copied_fragment_description">የእርስዎ ውሂብ ወደ አዲሱ ስልክዎ ተቀድቷል። ገመዱን መንቀል ይችላሉ።</string>
+    <string name="data_copied_fragment_description_cancel">መቅዳት ለማቆም መርጠዋል፣ ስለዚህ አንዳንድ ውሂብ ብቻ ነው ወደ አዲሱ ስልክዎ የተቀዳው።</string>
+    <string name="data_copied_fragment_description_cancel_no_data">መቅዳት ለማቆም መርጠዋል፣ ስለዚህ ምንም ነገር ወደ አዲሱ ስልክዎ አልተቀዳም።</string>
+    <string name="data_copied_fragment_description_error">የሆነ ችግር ተፈጥሯል፣ ስለዚህ ሁሉንም ነገር መቅዳት አልቻልንም።</string>
+    <string name="data_copied_fragment_description_error_no_data">የሆነ ችግር ተፈጥሯል፣ በመሆኑም የእርስዎን ውሂብ መቅዳት አልቻልንም።</string>
+    <string name="data_copied_fragment_no_data_title">መቅዳት አልተቻለም</string>
+    <string name="data_copied_fragment_some_data_title">አንዳንድ ውሂብ ተቀድቷል</string>
+    <string name="data_copied_fragment_title">ውሂብ ተቀድቷል</string>
+    <string name="device_not_supported_fragment_new_device">ከአዲስ ስልክ ጋር ተገናኝተዋል። ለመቀጠል ቀዳሚውን ስልክዎ ዳግም ያገናኙት።</string>
+    <string name="device_not_supported_fragment_new_device_title">ከቀዳሚው ስልክ ጋር ዳግም ይገናኙ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ይህ ገመድ ውሂብ ማስተላለፍ አይችልም። የተለየ ገመድ ተጠቅመው ዳግም ይገናኙና እንደገና ይሞክሩ።</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ሌላ ገመድ ይሞክሩ</string>
+    <string name="device_not_supported_fragment_retry_description">የድሮ ስልክዎ መከፈቱን ያረጋግጡ፣ ከዚያ ገመዱን ይንቀሉትና ዳግም ያገናኙት</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">የሆነ ችግር ተፈጥሯል</string>
+    <string name="device_not_supported_ios_supervised_description">የእርስዎ iPhone® መሣሪያ ክትትል የሚደረግበት እንደመሆኑ መጠን ውሂብን የሚቀዱበት ሌላ መንገድ መምረጥ ይኖርብዎታል</string>
+    <string name="device_picker_skip">ወደነበረበት አትመልስ</string>
+    <string name="durationDayHour">%1$d ቀን %2$d ሰዓት</string>
+    <string name="durationDayHours">%1$d ቀን %2$d ሰዓቶች</string>
+    <string name="durationDays">%1$d ቀኖች</string>
+    <string name="durationHourMinute">%1$d ሰዓት %2$d ደቂቃ</string>
+    <string name="durationHourMinutes">%1$d ሰዓት %2$d ደቂቃዎች</string>
+    <string name="durationHours">%1$d ሰዓቶች</string>
+    <string name="durationMinute">%1$d ደቂቃ</string>
+    <string name="durationMinutes">%1$d ደቂቃዎች</string>
+    <string name="encryption_warning_fragment_description">"በiPhone® መሣሪያዎ ላይ የBackup ምስጠራ በርቷል። ይህን እርስዎ ካልሆነ ያበሩት በእርስዎ የአይቲ አስተዳዳሪ በርቶ ሊሆን ይችላል።
+
+ፎቶዎች፣ ሙዚቃ እና ቪዲዮዎች ብቻ ናቸው ሊቀዱ የሚችሉት። ተጨአምሪ መረጃ ለማግኘት "<b>g.co/datatransferhelp</b>ን ይጎብኙ።</string>
+    <string name="encryption_warning_fragment_title">የምትኬ ምስጠራ</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">አስማሚውን ማግኘት አልቻልኩም</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"እንደ የእርስዎ ^1 ሁሉ በተመሳሳይ ሳጥን የመጣውን Quick Switch Adapter ያግኙ። 
+
+ ገመዱን ወደ አስማሚው ይሰኩት።"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">አስማሚውን እና ገመዱን ያገናኙ</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">የእርስዎን አሮጌ ስልክ ይክፈቱት እና በመቀጠል አስማሚውን በዚህ ስልክ ላይ ይሰኩት።</string>
+    <string name="fragment_usb_connect_both_phones_title">ሁለቱንም ስልኮች ያገናኙ</string>
+    <string name="fragment_usb_dialog_cancel_description">ገመድ ከተጠቀሙ አብዛኛውን ይዘት ያገኛሉ። በሳጥኑ ውስጥ ያለው ገመድ ከድሮ ስልክዎ ጋር የማይገጥም ከሆነ ከድሮ ስልክዎ ጋር አብሮ የሚሰራ የኃይል መሙያ ወይም የውሂብ ገመድ ለመጠቀም ይሞክሩ።</string>
+    <string name="fragment_usb_dialog_cancel_title">በሌላ መንገድ ውሂብ ይቀዳ?</string>
+    <string name="fragment_usb_dont_copy">አትቅዳ</string>
+    <string name="fragment_usb_dont_have_cable">ገመድ የለኝም</string>
+    <string name="fragment_usb_dont_have_old_phone">የድሮውን ስልክ መጠቀም አይችሉም?</string>
+    <string name="fragment_usb_find_cable_description">እንደ የእርስዎ የውሂብ ወይም የኃይል መሙያ ገመድ ያለ ከድሮ ስልክዎ ጋር የሚገጥም ገመድ ይጠቀሙ።</string>
+    <string name="fragment_usb_find_cable_title">ትክከለኛውን ገመድ ያግኙ</string>
+    <string name="fragment_usb_initial_description">የድሮው የእርስዎ Android ወይም iPhone® መሣሪያ ያስፈልገዎታል። ያብሩትና ክፍት እንደሆነ ያቆዩት።</string>
+    <string name="fragment_usb_initial_title">የድሮ ስልክዎን ያግኙ</string>
+    <string name="fragment_usb_legacy_description">"ይሄ አብዛኛውን ውሂብ በፍጥነት ማምጣት የሚቻልበት መንገድ ነው።
+
+የድሮ ስልክዎን ገመድ በድሮው ስልክዎ ላይ ይሰኩት። በሳጥኑ ውስጥ ያለውን አስማሚ ተጠቅመው ገመዱን ከአዲሱ ስልክዎ ጋር ያገናኙት። ከዚያ የድሮው ስልክዎን ይክፈቱ።"</string>
+    <string name="fragment_usb_missing_data_description">በዝውውሩ ጊዜ የእርስዎን Pixel ማቀናበሩን መቀጠል ይችላሉ።</string>
+    <string name="fragment_usb_missing_data_title">ውሂብዎን እንቅዳ</string>
+    <string name="fragment_usb_other_ways">ያለ ገመድ ቅዳ</string>
+    <string name="fragment_usb_plug_cable">ገመድ በድሮ ስልክዎ ላይ ይሰኩ</string>
+    <string name="fragment_waiting_title">አንዴ ይጠብቁ…</string>
+    <string name="gigabyteShort">ጊባ</string>
+    <string name="google_contacts_static_text">Google እውቂያዎች ይሰምራል</string>
+    <string name="google_contacts_static_text_off">Google እውቂያዎች አሁንም ይሰምራል</string>
+    <string name="i_message_dialog_message">"ከiPhone® መሣሪያ ተጠቃሚዎች የኤስኤምኤስ መልዕክቶችን መቀበሉን ለመቀጠል iMessage®ን ማጥፋት ይኖርብዎታል።
+
+መመሪያዎችን ለማግኘት "<b>g.co/iMessageHelp</b>ን ይጎብኙ።</string>
+    <string name="instructions_fragment_title">በሌላኛው ስልክዎ ላይ ይቀጥሉ</string>
+    <string name="ios_connected_fragment_description">"በሚቀጥለው ማያ ገጽ ላይ ወደ የእርስዎ የGoogle መለያ መግባት ወይም አዲስ መለያ መፍጠር ይችላሉ።
+
+የGoogle መለያዎን ካላከሉ የእርስዎ iOS Calendar® ክስተቶች አይዛወሩም።"</string>
+    <string name="ios_message_attachment_explanation">[የእርስዎ መልእክት ዓባሪዎች በGoogle ፎቶዎች > የመሣሪያ አቃፊዎች > የመልእክት ዓባሪዎች]</string>
+    <string name="ios_message_attachment_failed_explanation">"[አንዳንድ ዓባሪዎች ሊቀዱ አልተቻሉም። የተላለፉ ዓባሪዎች  በGoogle ፎቶዎች > የመሣሪያ አቃፊዎች > የመልእክት ዓባሪዎች ውስጥ ሊገኙ ይችላሉ]"</string>
+    <string name="ios_message_attachment_placeholder">[ዓባሪ በGoogle ፎቶዎች > የመሣሪያ አቃፊዎች > የመልእክት ዓባሪዎች ውስጥ ተቀምጧል]</string>
+    <string name="ios_message_attachments_placeholder">[ዓባሪዎች በGoogle ፎቶዎች > የመሣሪያ አቃፊዎች > የመልእክት ዓባሪዎች ውስጥ ተቀምጠዋል]</string>
+    <string name="ios_migration_default_calendar_title">የቀን መቁጠሪያ</string>
+    <string name="ios_migration_other_contact_relation">ሌላ</string>
+    <string name="ios_photos_dialog_message">"በiCloud® ውስጥ የተቀመጡ ፎቶዎች ሊቀዱ አይችሉም።
+
+እነዚህን ፎቶዎች ወደ የእርስዎ ^1 ለማምጣት Google ፎቶዎች መተግበሪያን በእርስዎ iPhone® መሣሪያ ላይ ይጫኑ እና ምትኬ እና ማስመር የሚለውን ያብሩ። ለተጨማሪ መመሪያዎች "<b>g.co/datatransferhelp</b>ን ይጎብኙ።</string>
+    <string name="kilobyteShort">ኪባ</string>
+    <string name="lockscreen_smartdevice_action_next">ቀጣይ</string>
+    <string name="megabyteShort">ሜባ</string>
+    <string name="petabyteShort">ፔባ</string>
+    <string name="photos_filtering_option_all">ሁሉም</string>
+    <string name="photos_filtering_option_none">ምንም የለም</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">የተቀዱ እውቂያዎች ወደ የእርስዎ Google መለያ ይቀመጣሉ።</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">የተቀዱ እውቂያዎች እና ቀን መቁጠሪያዎች ወደ የእርስዎ Google መለያ ይቀመጣሉ።</string>
+    <string name="restore_choice_data_disclaimer_v2">አንዳንድ ውሂብዎ ወደ የእርስዎ ^1 ላይቀዳ ይችላል። <annotation id="restore_choice_data_disclaimer_learn_more">የበለጠ ለመረዳት</annotation></string>
+    <string name="restore_choice_deselect_some_content">ለመቀጠል አንዳንድ ይዘትን አይምረጡ</string>
+    <string name="restore_choice_learn_more_android">"በድሮ ስልክዎ ላይ ያለ አንዳንድ ውሂብ በራስ-ሰር ሊቀዳ አይችሉም፦
+
+ ● ውርዶች (እንደ የፒዲኤፍ ፋይሎች ያሉ)
+
+ ● በተደበቁ አቃፊዎች ውስጥ የተከማቹ ፎቶዎች፣ ቪድዮዎች እና ሙዚቃ
+
+ ● በጽሑፍ መልዕክት በኩል የመጡ ፎቶዎች፣ ቪዲዮዎች እና ሙዚቃ
+
+ ● ከGoogle Play መደብር ያልመጡ መተግበሪያዎች
+
+ ● የመተግበሪያ ውሂብ (መተግበሪያው የAndroid ምትኬን የማይጠቀም ከሆነ)
+
+ ● የተወሰኑ የመሣሪያ ቅንብሮች
+
+ ● ከGoogle መለያዎች ውጭ የሆኑ መለያዎች (እና ማንኛውም ተዛማጅ ውሂብ)
+
+ ● ከGoogle ሌላ ከሆኑ አገልግሎቶች ጋር የተሰመሩ እውቂያዎች እና ቀን መቁጠሪያዎች
+
+ ● የደወል ቅላጼዎች
+
+ ተጨማሪ ዝርዝሮችን እና አንዳንድ ይህን ውሂብ መቅዳት ላይ እገዛን ለማግኘት g.co/datatransferhelpን ይጎብኙ።"</string>
+    <string name="restore_choice_learn_more_ios">"አንዳንድ የድሮ ስልክዎ ውሂብ በራስ-ሰር ሊቀዱ አይችሉም፦ 
+
+ ● መተግበሪያዎች እና የመተግበሪያ ውሂብ
+
+ ● የመጀመሪያአቸው በስልክዎ ላይ ያልተከማቸላቸው ፎቶዎች (ለምሳሌ፣ የማከማቻን አትባ ቅንብሩ በርቶ ከሆነ፣ የመጀመሪያ ፎቶዎች የሚከማቹት በiCloud® ሲሆኑ)
+
+ ● በiCloud® ውስጥ የተከማቹ ፋይሎች እና ሰነዶች
+
+ ● የመሣሪያ ቅንብሮች (እንደ የWi-Fi ይለፍ ቃላት እና ልጣፍ ያሉ)
+
+ ● በዲጂታል መብቶች አስተዳደር (ዲአርኤም) የተጠበቀ ሙዚቃ (ለምሳሌ፦ ከኤፕሪል 2990 በፊት የተገዛ የiTunes® ሙዚቃ ወይም በሙዚቃ ዥረት መተግበሪያ ውስጥ ከመስመር ውጭ ለማደመጥ የወረደ ሙዚቃ)
+
+ ● ከGoogle መለያዎች ውጭ የሆኑ መለያዎች (እና ማንኛውም ተጓዳኝ ውሂብ)
+
+ ● ከGoogle ወይም iCloud® ውጭ ከሆኑ አገልግሎቶች ጋር የሰመሩ እውቂያዎች እና ቀን መቁጠሪያዎች
+
+ ● የSafari® ዕልባቶች
+
+ የiMessage® ዓባሪዎች በGoogle ፎቶዎች > የመሣሪያ አቃፊዎች > የመልዕክት ዓባሪዎች ውስጥ የሚገኙ ናቸው።
+
+ ተጨማሪ ዝርዝሮችን ለማግኘት እና አንዳንድ ይህን ውሂብ መቅዳት ላይ እገዛን ለማግኘት g.co/datatransferhelpን ይጎብኙ።"</string>
+    <string name="restore_choice_not_enough_space">በቂ ቦታ የለም</string>
+    <string name="restore_choice_total_text">ከሚገኘው የእርስዎ %1$s / %2$s ትልልፍ</string>
+    <string name="restore_item_appdata">የመተግበሪያ ውሂብ</string>
+    <string name="restore_item_calendar">የቀን መቁጠሪያ</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar፣ Google ቀን መቁጠሪያ</string>
+    <string name="restore_item_calendar_ical_off_description">Google ቀን መቁጠሪያ አሁንም ይሰምራል</string>
+    <string name="restore_item_calendar_sync_description">Google ቀን መቁጠሪያ ይሰምራል</string>
+    <string name="restore_item_call_logs">የጥሪ ታሪክ</string>
+    <string name="restore_item_contacts">እውቂያዎች</string>
+    <string name="restore_item_device_settings_description">የWi-Fi ይለፍ ቃላት እና ተጨማሪ</string>
+    <string name="restore_item_downloads">የወረዱ</string>
+    <string name="restore_item_email">ኢሜይል</string>
+    <string name="restore_item_email_description">Gmail ይሰምራል</string>
+    <string name="restore_item_message_attachments">የመልዕክት ዓባሪዎች</string>
+    <string name="restore_item_messages">መልእክቶች</string>
+    <string name="restore_item_music">ሙዚቃ</string>
+    <string name="restore_item_photos">ፎቶዎች እና ቪዲዮዎች</string>
+    <string name="restore_item_settings">የመሣሪያ ቅንብሮች</string>
+    <string name="restore_item_sms">የኤስኤምኤስ መልዕክቶች</string>
+    <string name="restore_item_will_be_synced_text">ይሄ ከስልክዎ ጋር ይሰምራል</string>
+    <string name="restore_progress_title">ወደነበረበት በመመለስ ላይ…</string>
+    <string name="search_menu_title">ፈልግ</string>
+    <string name="small_time_duration">ከ1 ደቂቃ ያነሰ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">አሰናብት</string>
+    <string name="stop_copying_dialog_message_before_transfer">የእርስዎ ውሂብ ወደ አዲሱ ስልክዎ አልተቀዳም</string>
+    <string name="stop_copying_dialog_message_during_transfer">አንዳንድ የእርስዎ ውሂብ ወደ አዲሱ ስልክዎ አልተቀዳም</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">አትቅዳ</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">አስቁም</string>
+    <string name="stop_copying_dialog_title_before_transfer">አይቀዳ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">መቅዳት ይቁም?</string>
+    <string name="suw_back_button_label">ተመለስ</string>
+    <string name="suw_more_button_label">ተጨማሪ</string>
+    <string name="suw_next_button_label">ቀጣይ</string>
+    <string name="target_default_source_device_model">የድሮ መሣሪያ</string>
+    <string name="target_device_not_supported_cant_continue_description">ውሂብ ለመቅዳት ሌላ መንገድ መምረጥ ያስፈልግዎታል</string>
+    <string name="target_device_not_supported_cant_continue_title">ሌላ ስልክ አይደገፍም</string>
+    <string name="target_device_not_supported_try_restarting_description">"የእርስዎን አሮጌ ስልክ እንደገና ለማስጀመር ገመዱን ይንቀሉት፣ በመቀጠል ገመዱን መልሰው ያገናኙ እና በእርስዎ Pixel ላይ ያሉትን መመሪያዎች ይከተሉ።
+
+ይህን መልእክት መመልከትዎን ከቀጠሉ፣ በሌላ መንገድ ለመቅዳት መሞከር ሊኖርብዎት ይችል ይሆናል።"</string>
+    <string name="target_device_not_supported_try_restarting_title">ስልክ ምናልባት ላይደገፍ ይችላል</string>
+    <string name="target_pixelmigrate_notification_description">የሚገኝ ወይም በሂደት ላይ ያለ</string>
+    <string name="target_pixelmigrate_notification_title">የውሂብ ዝውውር</string>
+    <string name="target_smart_device_timeout_add_account">መለያ አክል</string>
+    <string name="target_smart_device_timeout_description">ከፈለጉ መለያዎን ራስዎ ማከል ይችላሉ</string>
+    <string name="target_smart_device_timeout_dismiss">አሰናብት</string>
+    <string name="target_smart_device_timeout_title">ችግር እያጋጠመዎት ነው?</string>
+    <string name="terabyteShort">ቴባ</string>
+    <string name="toast_phones_connected">ስልኮች ተገናኝተዋል</string>
+    <string name="toast_reconnect_cable">የእርስዎን ገመድ ዳግም ያገናኙ</string>
+    <string name="transfer_finished_fragment_title">የመጨረሻ የማሳመሪያ ንክኪዎችን በማከል ላይ...</string>
+    <string name="transfer_summary_copied">ውሂብ ተቀድቷል</string>
+    <string name="transfer_summary_fragment_description">ገመዱን መንቀል ይችላሉ።</string>
+    <string name="transfer_summary_fragment_finish">አጠናቅቅ</string>
+    <string name="transfer_summary_fragment_title">ስልክዎ ዝግጁ ሊሆን ትንሽ ነው የቀረው</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">አንዳንድ ፎቶዎችዎ አልተቀዱም። <annotation id="transfer_summary_learn_more">የበለጠ ለመረዳት</annotation></string>
+    <string name="transfer_summary_not_copied">ውሂብ አልተቀዳም</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ተቀድቷል</string>
+    <string name="transfer_summary_will_sync">ውሂብ ከማዋቀር በኋላ ይሰምራል</string>
+    <string name="transferring_fragment_calculating_remaining_time">ቀሪ ጊዜውን በማስላት ላይ...</string>
+    <string name="transferring_fragment_header">በመቅዳት ላይ...</string>
+    <string name="transferring_fragment_remaining_time">%1$s ቀርቷል</string>
+    <string name="trust_instructions_description">ለመቀጠል የእርስዎን የiPhone® መሣሪያ ይፈትሹ እና ግንኙነቱን ያጽድቁ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone፣ iPad፣ iOS፣ iMessage፣ iCloud፣ Safari እና iTunes በአሜሪካ እና ሌሎች አገሮች የተመዘገቡ የApple Inc. ንግድ ምልክቶች ናቸው።</string>
+</resources>

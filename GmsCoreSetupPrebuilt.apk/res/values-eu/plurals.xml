@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d aplikazioak</item>
+        <item quantity="one">1 aplikazio</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplikazio hautatu dira</item>
+        <item quantity="one">Aplikazio bat hautatu da</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d aplikazio instalatu dira dagoeneko</item>
+        <item quantity="one">1 aplikazio instalatu da dagoeneko</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d aplikazio daude babeskopian. Aukeratu hemen izan nahi dituzunak edo ekarri guztiak.</item>
+        <item quantity="one">%1$d aplikazio dago babeskopian.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontaktu gailuan</item>
+        <item quantity="one">1 kontaktu gailuan</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d SIM txartelean, %2$d gailuan</item>
+        <item quantity="one">%1$d SIM txartelean, %2$d gailuan</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® kontaktu</item>
+        <item quantity="one">1 iCloud® kontaktu</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">SIM txarteleko %1$d kontaktu</item>
+        <item quantity="one">SIM txarteleko kontaktu bat</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d aplikazio aurkitu ditugu. Aukeratu hemen izan nahi dituzunak edo ekarri guztiak.</item>
+        <item quantity="one">%1$d aplikazio aurkitu dugu. Hona ekarri nahi duzu?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">%1$d iOS® aplikaziorekin bat datozen aplikazio batzuk aurkitu dugu. Aplikazioak instalatzearekin bakoitzari dagozkion baimenak onartzen dituzula adierazten duzu. &lt;annotation id="apps_permissions_learn_more">Lortu informazio gehiago&lt;/annotation></item>
+        <item quantity="one">iOS® aplikazioetako batekin bat datorren aplikazio bat aurkitu dugu. Aplikazioa instalatzearekin, hari dagozkion baimenak onartzen dituzula adierazten duzu. &lt;annotation id="apps_permissions_learn_more">Lortu informazio gehiago&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d gauza falta dira…</item>
+        <item quantity="one">%1$d gauza falta da…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Jakin dezazun: Jada ez daude gertaeran parte-hartzaile hauek:</item>
+        <item quantity="one">Jakin dezazun: Jada ez dago gertaeran parte-hartzaile hau:</item>
+    </plurals>
+</resources>

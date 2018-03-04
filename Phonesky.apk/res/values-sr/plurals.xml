@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Оцена: %1$s звездица</item>
+        <item quantity="one">Оцена: %1$s звездица</item>
+        <item quantity="few">Оцена: %1$s звездице</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d коментара</item>
+        <item quantity="one">%1$d коментар</item>
+        <item quantity="few">%1$d коментара</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d рецензија за оцену у звездицама %2$d</item>
+        <item quantity="one">%1$d рецензија за оцену у звездицама %2$d</item>
+        <item quantity="few">%1$d рецензије за оцену у звездицама %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Инсталирања су паузирана</item>
+        <item quantity="one">Инсталирања су паузирана</item>
+        <item quantity="few">Инсталирања су паузирана</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Апликације су скениране пре %1$d дана</item>
+        <item quantity="one">Апликације су скениране пре %1$d дан</item>
+        <item quantity="few">Апликације су скениране пре %1$d дана</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d штетних апликација је уклоњено. %2$s.</item>
+        <item quantity="one">%1$d штетна апликација је уклоњена. %2$s.</item>
+        <item quantity="few">%1$d штетне апликације су уклоњене. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ажурирања тражи одобрење</item>
+        <item quantity="one">%1$d ажурирање тражи одобрење</item>
+        <item quantity="few">%1$d ажурирања траже одобрење</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d нових ажурирања</item>
+        <item quantity="one">%1$d ново ажурирање</item>
+        <item quantity="few">%1$d нова ажурирања</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d ажурирања је доступно</item>
+        <item quantity="one">%1$d ажурирање је доступно</item>
+        <item quantity="few">%1$d ажурирања су доступна</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Ажурирај све</item>
+        <item quantity="one">Ажурирај све</item>
+        <item quantity="few">Ажурирај све</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d апликација је ажурирано</item>
+        <item quantity="one">%1$d апликација је ажурирана</item>
+        <item quantity="few">%1$d апликација су ажуриране</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звездица</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звездица</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s звездице</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звездица – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звездица – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s звездице – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s звездица – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s звездица – %3$s -– %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s звездице – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d корисника сматра да је ова рецензија корисна. Означи коментар као користан</item>
+        <item quantity="one">%1$d корисник сматра да је ова рецензија корисна. Означи коментар као користан</item>
+        <item quantity="few">%1$d корисника сматрају да је ова рецензија корисна. Означи коментар као користан</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d корисника сматра да је ова рецензија корисна. Уклоните ознаку да је коментар користан</item>
+        <item quantity="one">%1$d корисник сматра да је ова рецензија корисна. Уклоните ознаку да је коментар користан</item>
+        <item quantity="few">%1$d корисника сматрају да је ова рецензија корисна. Уклоните ознаку да је коментар користан</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Дао/ла је оцену од &lt;b>%1$s звездица&lt;/b></item>
+        <item quantity="one">Дао/ла је оцену од &lt;b>%1$s звездице&lt;/b></item>
+        <item quantity="few">Дао/ла је оцену од &lt;b>%1$s звездице&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">у %1$s рецензија</item>
+        <item quantity="one">у %1$s рецензији</item>
+        <item quantity="few">у %1$s рецензије</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s звездица&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s звездица&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b>%1$s звездице&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Последњи пут је коришћен пре %1$d дана</item>
+        <item quantity="one">Последњи пут је коришћен пре %1$d дан</item>
+        <item quantity="few">Последњи пут је коришћен пре %1$d дана</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Врати %1$d изабраних апликација</item>
+        <item quantity="one">Врати %1$d изабрану апликацију</item>
+        <item quantity="few">Врати %1$d изабране апликације</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">звездица</item>
+        <item quantity="one">звездица</item>
+        <item quantity="few">звездице</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Апликације ће ускоро бити инсталиране.</item>
+        <item quantity="one">Апликације ће ускоро бити инсталиране.</item>
+        <item quantity="few">Апликације ће ускоро бити инсталиране.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Ажурирања апликација ће ускоро бити инсталирана.</item>
+        <item quantity="one">Ажурирања апликација ће ускоро бити инсталирана.</item>
+        <item quantity="few">Ажурирања апликација ће ускоро бити инсталирана.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Последњи пут је коришћена пре %1$d дана</item>
+        <item quantity="one">Последњи пут је коришћена пре %1$d дан</item>
+        <item quantity="few">Последњи пут је коришћена пре %1$d дана</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Последњи пут je коришћена пре %1$d месеци</item>
+        <item quantity="one">Последњи пут je коришћена пре %1$d месец</item>
+        <item quantity="few">Последњи пут je коришћена пре %1$d месеца</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Простор можете да ослободите и брисањем медијских датотека у одељку Подешавања меморијског простора.</item>
+        <item quantity="one">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Простор можете да ослободите и брисањем медијских датотека у одељку Подешавања меморијског простора.</item>
+        <item quantity="few">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Простор можете да ослободите и брисањем медијских датотека у одељку Подешавања меморијског простора.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку &lt;a href=\"\">Подешавања > Меморијски простор&lt;/a>.</item>
+        <item quantity="one">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку &lt;a href=\"\">Подешавања > Меморијски простор&lt;/a>.</item>
+        <item quantity="few">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку &lt;a href=\"\">Подешавања > Меморијски простор&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку Подешавања > Меморијски простор.</item>
+        <item quantity="one">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку Подешавања > Меморијски простор.</item>
+        <item quantity="few">Да бисте инсталирали апликације или ажурирања на овом уређају, избришите сувишне апликације. Можете и да избришете медијске датотеке у одељку Подешавања > Меморијски простор.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Weiter</string>
+    <string name="suw_back_button_label">Zurück</string>
+    <string name="suw_more_button_label">Mehr</string>
+    <string name="vzw_wfc_activation_error">WLAN-Anrufe können nicht aktiviert werden. Bitte versuche es später noch einmal.</string>
+    <string name="vzw_address_update_error">Die aktuelle Notfalladresse kann momentan nicht aktualisiert werden. Bitte versuche es später noch einmal.</string>
+    <string name="emergency_address_app_label">Verwaltung der Notfalladressen</string>
+    <string name="progress_text">Bitte warten…</string>
+    <string name="vzw_tos_title">WLAN-Anrufe aktivieren</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="vzw_tos_text">"Mit WLAN-Anrufen kannst du über WLAN telefonieren, wenn das Mobilfunknetz nicht verfügbar ist.
+
+Zum Einrichten der WLAN-Anrufe musst du eine Adresse in den USA angeben. Diese Adresse wird von Notfalldiensten an deinem Standort genutzt, wenn du einen Notruf (E911) über WLAN von diesem Smartphone aus absetzt.
+
+Wir empfehlen dir, diese Adresse zu ändern, wenn du über ein anderes WLAN anrufst, damit deine Standortinformationen korrekt sind. Du kannst deinen Standort jederzeit über das Einstellungsmenü für WLAN-Anrufe ändern."</string>
+    <string name="vzw_tos_link">Nutzungsbedingungen</string>
+    <string name="tos_continue">Weiter</string>
+    <string name="vzw_e911_title">Informationen zum Notfallstandort</string>
+    <string name="vzw_e911_description"><b>WICHTIG – NOTFALLADRESSE ERFORDERLICH</b>"
+Um WLAN-Anrufe zu aktivieren, gib die US-Adresse an, an die die Notfalldienste geschickt werden sollen, wenn du 911 wählst. Diese Adresse kannst du jederzeit unter \"Einstellungen\" ändern. Es ist sehr wichtig, dass du diese Adresse aktualisierst, sobald du deinen Standort wechselst."</string>
+    <string name="vzw_e911_warning"><b>ACHTUNG – EINSCHRÄNKUNGEN BEIM NOTRUF</b>"
+Wenn du den Notruf wählst, sag der Leitstelle immer, wo du bist. Dein Notruf geht nur über WLAN, wenn das Mobilfunknetz nicht verfügbar ist. Bei Notrufen über WLAN kann es zu Verzögerungen oder Fehlern kommen, zum Beispiel wenn das Notrufsystem die Adresse nicht erkennt, der Strom ausgefallen ist oder deine WLAN-Verbindung nicht funktioniert. Die Notfalldienste werden an die oben angegebene Adresse geschickt. Bitte aktualisiere daher die Adresse, sobald du den Standort wechselst."</string>
+    <string name="house_number">Hausnummer</string>
+    <string name="street">Straße</string>
+    <string name="apt_suite_number">Apartment, Wohnung usw.</string>
+    <string name="city">Ort</string>
+    <string name="state">Bundesstaat/-land</string>
+    <string name="zip_code">Postleitzahl</string>
+    <string name="save">Speichern</string>
+    <string name="vzw_address_confirm_text_part1">Wir konnten die eingegebene Adresse nicht finden. Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
+    <string name="vzw_address_confirm_text_part2">Wenn der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt ist, tippe auf %1$s. Tippe ansonsten auf %2$s.</string>
+    <string name="save_anyway">Trotzdem speichern</string>
+    <string name="edit_address">Adresse bearbeiten</string>
+    <string name="ok">Okay</string>
+    <string name="vzw_address_select_text">Wir konnten die eingegebene Adresse nicht finden:</string>
+    <string name="vzw_address_alternate_text">Meintest du:</string>
+    <string name="vzw_partial_confirm_head">Die eingegebene Adresse konnte von den Notfalldienstanbietern nicht bestätigt werden.</string>
+    <string name="vzw_partial_confirm_text">Möchtest du diese Adresse wirklich in einem Notfall nutzen?</string>
+    <string name="vzw_partial_failure_text_part1">Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
+    <string name="vzw_partial_failure_text_part2">Überprüfe die Adresse und versuche es noch einmal.</string>
+    <string name="vzw_address_update_success_toast">Notfalladresse wurde aktualisiert</string>
+    <string name="connect_to_wifi_or_web_portal_title">WLAN ist deaktiviert</string>
+    <string name="connect_to_wifi_or_web_portal_message">Du kannst Anrufe über WLAN über das Mobilfunknetz einrichten. Um diese Funktion zu nutzen, musst du jedoch das WLAN aktivieren und eine Verbindung zu einem Netzwerk herstellen.</string>
+    <string name="button_turn_on_wifi">WLAN aktivieren</string>
+    <string name="button_setup_web_portal">Einrichtung fortsetzen</string>
+</resources>

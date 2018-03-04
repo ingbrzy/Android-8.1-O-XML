@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">Dar %d kitų</item>
+        <item quantity="one">Dar %d kitas</item>
+        <item quantity="few">Dar %d kiti</item>
+        <item quantity="many">+%d others</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Perkėlus šiuos elementus į šiukšliadėžę jie bus pašalinti ir iš</item>
+        <item quantity="one">Perkėlus šiuos elementus į šiukšliadėžę jie bus pašalinti ir iš</item>
+        <item quantity="few">Perkėlus šiuos elementus į šiukšliadėžę jie bus pašalinti ir iš</item>
+        <item quantity="many">Perkėlus šiuos elementus į šiukšliadėžę jie bus pašalinti ir iš</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minučių</item>
+        <item quantity="zero">0 minučių</item>
+        <item quantity="one">1 minutė</item>
+        <item quantity="two">2 minutės</item>
+        <item quantity="few">%1$d minutės</item>
+        <item quantity="many">%1$d minutės</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d sekundžių</item>
+        <item quantity="zero">0 sekundžių</item>
+        <item quantity="one">1 sekundė</item>
+        <item quantity="two">2 sekundės</item>
+        <item quantity="few">%1$d sekundės</item>
+        <item quantity="many">%1$d sekundės</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Šie elementai įrenginio šiukšliadėžei per dideli. Jei juos ištrinsite, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="one">Šie elementai įrenginio šiukšliadėžei per dideli. Jei juos ištrinsite, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="few">Šie elementai įrenginio šiukšliadėžei per dideli. Jei juos ištrinsite, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="many">Šie elementai įrenginio šiukšliadėžei per dideli. Jei juos ištrinsite, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Nuskaityta %1$d elementų</item>
+        <item quantity="one">Nuskaitytas %1$d elementas</item>
+        <item quantity="few">Nuskaityti %1$d elementai</item>
+        <item quantity="many">%1$d items scanned</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">Pasirinkta %1$d elementų</item>
+        <item quantity="one">Pasirinktas %1$d elementas</item>
+        <item quantity="few">Pasirinkti %1$d elementai</item>
+        <item quantity="many">%1$d items selected</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+        <item quantity="zero">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+        <item quantity="one">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+        <item quantity="two">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+        <item quantity="few">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+        <item quantity="many">Vaizdo įrašai, kurių nepavyko nuskaityti: %1$d.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="zero">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="two">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="zero">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="two">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="zero">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="two">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">Nepavyko panaudoti šių vaizdo įrašų. Jie per trumpi, arba jų formatas nepalaikomas.</item>
+        <item quantity="zero">Nepavyko panaudoti šių vaizdo įrašų. Jie per trumpi, arba jų formatas nepalaikomas.</item>
+        <item quantity="one">Nepavyko panaudoti šio vaizdo įrašo. Jis per trumpas, arba jo formatas nepalaikomas.</item>
+        <item quantity="two">Nepavyko panaudoti šių vaizdo įrašų. Jie per trumpi, arba jų formatas nepalaikomas.</item>
+        <item quantity="few">Nepavyko panaudoti šių vaizdo įrašų. Jie per trumpi, arba jų formatas nepalaikomas.</item>
+        <item quantity="many">Nepavyko panaudoti šių vaizdo įrašų. Jie per trumpi, arba jų formatas nepalaikomas.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d komentarų</item>
+        <item quantity="one">%d komentaras</item>
+        <item quantity="few">%d komentarai</item>
+        <item quantity="many">%d comments</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elementų apribojimas.</item>
+        <item quantity="one">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elemento apribojimas.</item>
+        <item quantity="few">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elementų apribojimas.</item>
+        <item quantity="many">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elemento apribojimas.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albume būtų %1$d elementų.</item>
+        <item quantity="one">Albume būtų %1$d elementas.</item>
+        <item quantity="few">Albume būtų %1$d elementai.</item>
+        <item quantity="many">Albume būtų %1$d elemento.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">Pašalinti iš albumo %1$d elementų?</item>
+        <item quantity="one">Pašalinti iš albumo %1$d elementą?</item>
+        <item quantity="few">Pašalinti iš albumo %1$d elementus?</item>
+        <item quantity="many">Pašalinti iš albumo %1$d elemento?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">%d elementų šalinama iš albumo…</item>
+        <item quantity="one">%d elementas šalinamas iš albumo…</item>
+        <item quantity="few">%d elementai šalinami iš albumo…</item>
+        <item quantity="many">%d elemento šalinama iš albumo…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d vietų pridėta</item>
+        <item quantity="one">%d vieta pridėta</item>
+        <item quantity="few">%d vietos pridėtos</item>
+        <item quantity="many">%d vietos pridėta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d vietų</item>
+        <item quantity="one">%d vieta</item>
+        <item quantity="few">%d vietos</item>
+        <item quantity="many">%d vietos</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d žemėlapių</item>
+        <item quantity="one">%d žemėlapis</item>
+        <item quantity="few">%d žemėlapiai</item>
+        <item quantity="many">%d žemėlapio</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d žemėlapių pridėta</item>
+        <item quantity="one">%d žemėlapis pridėtas</item>
+        <item quantity="few">%d žemėlapiai pridėti</item>
+        <item quantity="many">%d žemėlapio pridėta</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Elementai pašalinami iš šio albumo…</item>
+        <item quantity="one">Elementai pašalinami iš šio albumo…</item>
+        <item quantity="few">Elementai pašalinami iš šio albumo…</item>
+        <item quantity="many">Elementai pašalinami iš šio albumo…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d elementų pašalinta</item>
+        <item quantity="one">%d elementas pašalintas</item>
+        <item quantity="few">%d elementai pašalinti</item>
+        <item quantity="many">%d elemento pašalinta</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Nuotraukos pašalinamos iš šio albumo…</item>
+        <item quantity="one">Nuotraukos pašalinamos iš šio albumo…</item>
+        <item quantity="few">Nuotraukos pašalinamos iš šio albumo…</item>
+        <item quantity="many">Nuotraukos pašalinamos iš šio albumo…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Vaizdo įrašai pašalinami iš šio albumo…</item>
+        <item quantity="one">Vaizdo įrašai pašalinami iš šio albumo…</item>
+        <item quantity="few">Vaizdo įrašai pašalinami iš šio albumo…</item>
+        <item quantity="many">Vaizdo įrašai pašalinami iš šio albumo…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d elementų</item>
+        <item quantity="one">%1$d elementas</item>
+        <item quantity="few">%1$d elementai</item>
+        <item quantity="many">%1$d elemento</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d elementų</item>
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="one">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="few">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="many">Ištrinti iš įrenginio (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Ištrinti visus iš įrenginio (%d)</item>
+        <item quantity="one">Ištrinti visus iš įrenginio (%d)</item>
+        <item quantity="few">Ištrinti visus iš įrenginio (%d)</item>
+        <item quantity="many">Ištrinti visus iš įrenginio (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">Trinti kopijas įrenginyje?</item>
+        <item quantity="one">Trinti kopijas įrenginyje?</item>
+        <item quantity="few">Trinti kopijas įrenginyje?</item>
+        <item quantity="many">Trinti kopijas įrenginyje?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">Atsarginės šių elementų kopijos Nuotraukų bibliotekoje nesukurtos. Jei dabar juos ištrinsite, jie bus pašalinti iš Nuotraukų visam laikui</item>
+        <item quantity="one">Atsarginės šių elementų kopijos Nuotraukų bibliotekoje nesukurtos. Jei dabar juos ištrinsite, jie bus pašalinti iš Nuotraukų visam laikui</item>
+        <item quantity="few">Atsarginės šių elementų kopijos Nuotraukų bibliotekoje nesukurtos. Jei dabar juos ištrinsite, jie bus pašalinti iš Nuotraukų visam laikui</item>
+        <item quantity="many">Atsarginės šių elementų kopijos Nuotraukų bibliotekoje nesukurtos. Jei dabar juos ištrinsite, jie bus pašalinti iš Nuotraukų visam laikui</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Kelti į šiukšliadėžę (%d)</item>
+        <item quantity="one">Kelti į šiukšliadėžę (%d)</item>
+        <item quantity="few">Kelti į šiukšliadėžę (%d)</item>
+        <item quantity="many">Kelti į šiukšliadėžę (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">Suarchyvuota: %d</item>
+        <item quantity="one">Suarchyvuota: %d</item>
+        <item quantity="few">Suarchyvuota: %d</item>
+        <item quantity="many">Suarchyvuota: %d</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">Išarchyvuota: %d</item>
+        <item quantity="one">Išarchyvuota: %d</item>
+        <item quantity="few">Išarchyvuota: %d</item>
+        <item quantity="many">Išarchyvuota: %d</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d pasirinktų</item>
+        <item quantity="one">%d pasirinktas</item>
+        <item quantity="few">%d pasirinkti</item>
+        <item quantity="many">%d pasirinkta</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_other_actors">
+        <item quantity="other">Ir dar %1$s</item>
+        <item quantity="one">Ir dar %1$s</item>
+        <item quantity="few">Ir dar %1$s</item>
+        <item quantity="many">Ir dar %1$s</item>
+    </plurals>
+    <plurals name="photos_assistant_cardui_photos_added">
+        <item quantity="other">pridėjo %1$d nuotraukų</item>
+        <item quantity="one">pridėjo %1$d nuotrauką</item>
+        <item quantity="few">pridėjo %1$d nuotraukas</item>
+        <item quantity="many">pridėjo %1$d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Įkeliama %d elementų</item>
+        <item quantity="one">Įkeliamas %d elementas</item>
+        <item quantity="few">Įkeliami %d elementai</item>
+        <item quantity="many">Įkeliama %d elemento</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_deleting_progress_title">
+        <item quantity="other">Pašalinama %d elementų…</item>
+        <item quantity="one">Pašalinamas %d elementas…</item>
+        <item quantity="few">Pašalinami %d elementai…</item>
+        <item quantity="many">Pašalinama %d elemento…</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Liko %d nuotraukų</item>
+        <item quantity="one">Liko %d nuotrauka</item>
+        <item quantity="few">Liko %d nuotraukos</item>
+        <item quantity="many">Liko %d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Liko sukurti %d nuotraukų atsargines kopijas</item>
+        <item quantity="one">Liko sukurti %d nuotraukos atsargines kopijas</item>
+        <item quantity="few">Liko sukurti %d nuotraukų atsargines kopijas</item>
+        <item quantity="many">Liko sukurti %d nuotraukos atsargines kopijas</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">Gali būti prarasta %d nuotraukų</item>
+        <item quantity="one">Gali būti prarasta %d nuotrauka</item>
+        <item quantity="few">Gali būti prarastos %d nuotraukos</item>
+        <item quantity="many">Gali būti prarasta %d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d nuotraukų atsarginės kopijos nesukurtos</item>
+        <item quantity="one">%1$d nuotraukos atsarginė kopija nesukurta</item>
+        <item quantity="few">%1$d nuotraukų atsarginės kopijos nesukurtos</item>
+        <item quantity="many">%1$d nuotraukos atsarginė kopija nesukurta</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Apsaugoti %1$d nuotraukų</item>
+        <item quantity="one">Apsaugoti %1$d nuotrauką</item>
+        <item quantity="few">Apsaugoti %1$d nuotraukas</item>
+        <item quantity="many">Apsaugoti %1$d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Įkeliama %d elementų</item>
+        <item quantity="one">Įkeliamas %d elementas</item>
+        <item quantity="few">Įkeliami %d elementai</item>
+        <item quantity="many">Įkeliama %d elemento</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Įkeliama %d vaizdo įrašų</item>
+        <item quantity="one">Įkeliamas %d vaizdo įrašas</item>
+        <item quantity="few">Įkeliami %d vaizdo įrašai</item>
+        <item quantity="many">Įkeliama %d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d įkeliamų elementų</item>
+        <item quantity="one">%d įkeliamas elementas</item>
+        <item quantity="few">%d įkeliami elementai</item>
+        <item quantity="many">%d įkeliamo elemento</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d įkeliamų vaizdo įrašų</item>
+        <item quantity="one">%d įkeliamas vaizdo įrašas</item>
+        <item quantity="few">%d įkeliami vaizdo įrašai</item>
+        <item quantity="many">%d įkeliamo vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Visos %d nuotraukų</item>
+        <item quantity="one">Visos %d nuotraukos</item>
+        <item quantity="few">Visos %d nuotraukos</item>
+        <item quantity="many">Visos %d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">Nesukurta %d nuotraukų atsarginė kopija</item>
+        <item quantity="one">Nesukurta %d nuotraukos atsarginė kopija</item>
+        <item quantity="few">Nesukurta %d nuotraukų atsarginė kopija</item>
+        <item quantity="many">Nesukurta %d nuotraukos atsarginė kopija</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elementų apribojimas.</item>
+        <item quantity="one">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elemento apribojimas.</item>
+        <item quantity="few">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elementų apribojimas.</item>
+        <item quantity="many">Naujojo albumo dydis būtų didesnis nei dabartinis %1$d elemento apribojimas.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albume būtų %1$d elementų.</item>
+        <item quantity="one">Albume būtų %1$d elementas.</item>
+        <item quantity="few">Albume būtų %1$d elementai.</item>
+        <item quantity="many">Albume būtų %1$d elemento.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d elementų pridėta</item>
+        <item quantity="one">%1$d elementas pridėtas</item>
+        <item quantity="few">%1$d elementai pridėti</item>
+        <item quantity="many">%1$d elemento pridėta</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Albume daugiausia gali būti %d elementų.</item>
+        <item quantity="one">Albume daugiausia gali būti %d elementas.</item>
+        <item quantity="few">Albume daugiausia gali būti %d elementai.</item>
+        <item quantity="many">Albume daugiausia gali būti %d elemento.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Pasirinkite daugiausia %d elementų.</item>
+        <item quantity="one">Pasirinkite daugiausia %d elementą.</item>
+        <item quantity="few">Pasirinkite daugiausia %d elementus.</item>
+        <item quantity="many">Pasirinkite daugiausia %d elemento.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Pasirinkite bent %d elementų.</item>
+        <item quantity="one">Pasirinkite bent %d elementą.</item>
+        <item quantity="few">Pasirinkite bent %d elementus.</item>
+        <item quantity="many">Pasirinkite bent %d elemento.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Pasirinkite elementus, kurie pakliūna į %d d. intervalą.</item>
+        <item quantity="one">Pasirinkite elementus, kurie pakliūna į %d d. intervalą.</item>
+        <item quantity="few">Pasirinkite elementus, kurie pakliūna į %d d. intervalą.</item>
+        <item quantity="many">Pasirinkite elementus, kurie pakliūna į %d d. intervalą.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">%d elementų pridedama prie albumo…</item>
+        <item quantity="one">%d elementas pridedamas prie albumo…</item>
+        <item quantity="few">%d elementai pridedami prie albumo…</item>
+        <item quantity="many">%d elemento pridedama prie albumo…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d elementų pridėta</item>
+        <item quantity="one">%d elementas pridėtas</item>
+        <item quantity="few">%d elementai pridėti</item>
+        <item quantity="many">%d elemento pridėta</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Prieš %d d.</item>
+        <item quantity="one">Prieš %d d.</item>
+        <item quantity="few">Prieš %d d.</item>
+        <item quantity="many">Prieš %d d.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Prieš %d val.</item>
+        <item quantity="one">Prieš %d val.</item>
+        <item quantity="few">Prieš %d val.</item>
+        <item quantity="many">Prieš %d val.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d sav.</item>
+        <item quantity="one">%d sav.</item>
+        <item quantity="few">%d sav.</item>
+        <item quantity="many">%d sav.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Prieš %d sav.</item>
+        <item quantity="one">Prieš %d sav.</item>
+        <item quantity="few">Prieš %d sav.</item>
+        <item quantity="many">Prieš %d sav.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Prieš %d min.</item>
+        <item quantity="one">Prieš %d min.</item>
+        <item quantity="few">Prieš %d min.</item>
+        <item quantity="many">Prieš %d min.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Prieš %d d.</item>
+        <item quantity="one">Prieš %d d.</item>
+        <item quantity="few">Prieš %d d.</item>
+        <item quantity="many">Prieš %d d.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Pašalinti %1$d elementų?</item>
+        <item quantity="one">Pašalinti %1$d elementą?</item>
+        <item quantity="few">Pašalinti %1$d elementus?</item>
+        <item quantity="many">Pašalinti %1$d elemento?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Pašalinama %1$d originalių nuotraukų arba vaizdo įrašų</item>
+        <item quantity="one">Pašalinama %1$d originali nuotrauka arba vaizdo įrašas</item>
+        <item quantity="few">Pašalinamos %1$d originalios nuotraukos arba vaizdo įrašai</item>
+        <item quantity="many">Pašalinama %1$d originalios nuotraukos arba vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d naujų kortelių</item>
+        <item quantity="one">%d nauja kortelė</item>
+        <item quantity="few">%d naujos kortelės</item>
+        <item quantity="many">%d naujų kortelių</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d naujinių</item>
+        <item quantity="one">%1$d naujinys</item>
+        <item quantity="few">%1$d naujiniai</item>
+        <item quantity="many">%1$d naujinio</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d komentarų</item>
+        <item quantity="one">%1$d komentaras</item>
+        <item quantity="few">%1$d komentarai</item>
+        <item quantity="many">%1$d komentaro</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Elementai išsaugomi bibliotekoje…</item>
+        <item quantity="one">Elementai išsaugomi bibliotekoje…</item>
+        <item quantity="few">Elementai išsaugomi bibliotekoje…</item>
+        <item quantity="many">Elementai išsaugomi bibliotekoje…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d elementų pridėta</item>
+        <item quantity="one">%d elementas pridėtas</item>
+        <item quantity="few">%d elementai pridėti</item>
+        <item quantity="many">%d elemento pridėta</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Galite pridėti tik dar %d elementų.</item>
+        <item quantity="one">Galite pridėti tik dar %d elementą.</item>
+        <item quantity="few">Galite pridėti tik dar %d elementus.</item>
+        <item quantity="many">Galite pridėti tik dar %d elemento.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Ištrinti aplanką ir %d jo elementų</item>
+        <item quantity="one">Ištrinti aplanką ir %d jo elementą</item>
+        <item quantity="few">Ištrinti aplanką ir %d jo elementus</item>
+        <item quantity="many">Ištrinti aplanką ir %d jo elemento</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="one">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="few">Ištrinti iš įrenginio (%d)</item>
+        <item quantity="many">Ištrinti iš įrenginio (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Kopijuojant %d elementų kilo problema</item>
+        <item quantity="one">Kopijuojant %d elementą kilo problema</item>
+        <item quantity="few">Kopijuojant %d elementus kilo problema</item>
+        <item quantity="many">Kopijuojant %d elemento kilo problema</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d elementų nukopijuota</item>
+        <item quantity="one">%d elementas nukopijuotas</item>
+        <item quantity="few">%d elementai nukopijuoti</item>
+        <item quantity="many">%d elemento nukopijuota</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Perkeliant %d elementų kilo problema</item>
+        <item quantity="one">Perkeliant %d elementą kilo problema</item>
+        <item quantity="few">Perkeliant %d elementus kilo problema</item>
+        <item quantity="many">Perkeliant %d elemento kilo problema</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d elementų perkelta</item>
+        <item quantity="one">%d elementas perkeltas</item>
+        <item quantity="few">%d elementai perkelti</item>
+        <item quantity="many">%d elemento perkelta</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Pridėti albume, kuris bendrinamas su %1$d žmonių?</item>
+        <item quantity="one">Pridėti albume, kuris bendrinamas su %1$d žmogumi?</item>
+        <item quantity="few">Pridėti albume, kuris bendrinamas su %1$d žmonėmis?</item>
+        <item quantity="many">Pridėti albume, kuris bendrinamas su %1$d žmogaus?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Pridėti albume, kuris bendrinamas su %1$s ir dar %2$d?</item>
+        <item quantity="one">Pridėti albume, kuris bendrinamas su %1$s ir dar %2$d?</item>
+        <item quantity="few">Pridėti albume, kuris bendrinamas su %1$s ir dar %2$d?</item>
+        <item quantity="many">Pridėti albume, kuris bendrinamas su %1$s ir dar %2$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Pridėti albume, kuris bendrinamas su %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="one">Pridėti albume, kuris bendrinamas su %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="few">Pridėti albume, kuris bendrinamas su %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="many">Pridėti albume, kuris bendrinamas su %1$s, %2$s ir dar %3$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Siųsti %1$s ir dar %2$d?</item>
+        <item quantity="one">Siųsti %1$s ir dar %2$d?</item>
+        <item quantity="few">Siųsti %1$s ir dar %2$d?</item>
+        <item quantity="many">Siųsti %1$s ir dar %2$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Siųsti %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="one">Siųsti %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="few">Siųsti %1$s, %2$s ir dar %3$d?</item>
+        <item quantity="many">Siųsti %1$s, %2$s ir dar %3$d?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_autosave_auto_save_num_people">
+        <item quantity="other">%d asmenų nuotraukos</item>
+        <item quantity="one">%d asmens nuotraukos</item>
+        <item quantity="few">%d asmenų nuotraukos</item>
+        <item quantity="many">%d asmens nuotraukos</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">%d pasirinktų žmonių nuotraukos</item>
+        <item quantity="one">%d pasirinkto žmogaus nuotraukos</item>
+        <item quantity="few">%d pasirinktų žmonių nuotraukos</item>
+        <item quantity="many">%d pasirinkto žmogaus nuotraukos</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d pasirinktų</item>
+        <item quantity="one">%d pasirinktas</item>
+        <item quantity="few">%d pasirinkti</item>
+        <item quantity="many">%d pasirinkto</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Pasirinkta %d žmonių</item>
+        <item quantity="one">Pasirinktas %d žmogus</item>
+        <item quantity="few">Pasirinkti %d žmonės</item>
+        <item quantity="many">Pasirinkta %d žmogaus</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%1$d pasirinktų žmonių nuotraukos nuo %2$s</item>
+        <item quantity="one">%1$d pasirinkto žmogaus nuotraukos nuo %2$s</item>
+        <item quantity="few">%1$d pasirinktų žmonių nuotraukos nuo %2$s</item>
+        <item quantity="many">%1$d pasirinkto žmogaus nuotraukos nuo %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">%d pasirinktų žmonių nuotraukos</item>
+        <item quantity="one">%d pasirinkto žmogaus nuotraukos</item>
+        <item quantity="few">%d pasirinktų žmonių nuotraukos</item>
+        <item quantity="many">%d pasirinkto žmogaus nuotraukos</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d nuotraukų pašalinta</item>
+        <item quantity="one">%1$d nuotrauka pašalinta</item>
+        <item quantity="few">%1$d nuotraukos pašalintos</item>
+        <item quantity="many">%1$d nuotraukos pašalintos</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d papildomų puslapių</item>
+        <item quantity="one">%d papildomas puslapis</item>
+        <item quantity="few">%d papildomi puslapiai</item>
+        <item quantity="many">%d papildomo puslapio</item>
+    </plurals>
+    <plurals name="photos_photobook_checkout_page_count">
+        <item quantity="other">%d puslapių</item>
+        <item quantity="one">%d puslapis</item>
+        <item quantity="few">%d puslapiai</item>
+        <item quantity="many">%d puslapio</item>
+    </plurals>
+    <plurals name="photos_photobook_core_hard_cover_name_with_count">
+        <item quantity="other">%d knygų kietu viršeliu</item>
+        <item quantity="one">%d knyga kietu viršeliu</item>
+        <item quantity="few">%d knygos kietu viršeliu</item>
+        <item quantity="many">%d knygos kietu viršeliu</item>
+    </plurals>
+    <plurals name="photos_photobook_core_soft_cover_name_with_count">
+        <item quantity="other">%d knygų minkštu viršeliu</item>
+        <item quantity="one">%d knyga minkštu viršeliu</item>
+        <item quantity="few">%d knygos minkštu viršeliu</item>
+        <item quantity="many">%d knygos minkštu viršeliu</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Pridėkite dar %d nuotraukų, kad galėtumėte užsisakyti šią nuotraukų knygą</item>
+        <item quantity="one">Pridėkite dar %d nuotrauką, kad galėtumėte užsisakyti šią nuotraukų knygą</item>
+        <item quantity="few">Pridėkite dar %d nuotraukas, kad galėtumėte užsisakyti šią nuotraukų knygą</item>
+        <item quantity="many">Pridėkite dar %d nuotraukos, kad galėtumėte užsisakyti šią nuotraukų knygą</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Pridėta %d nuotraukų</item>
+        <item quantity="one">Pridėta %d nuotrauka</item>
+        <item quantity="few">Pridėtos %d nuotraukos</item>
+        <item quantity="many">Pridėta %d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Nuotraukos gali būti ištrintos arba nebebendrinamos</item>
+        <item quantity="one">Nuotraukos gali būti ištrintos arba nebebendrinamos</item>
+        <item quantity="few">Nuotraukos gali būti ištrintos arba nebebendrinamos</item>
+        <item quantity="many">Nuotraukos gali būti ištrintos arba nebebendrinamos</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d nuotraukų nebepasiekiama</item>
+        <item quantity="one">%d nuotrauka nebepasiekiama</item>
+        <item quantity="few">%d nuotraukos nebepasiekiamos</item>
+        <item quantity="many">%d nuotraukos nebepasiekiama</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d nuotraukų pašalinta</item>
+        <item quantity="one">%d nuotrauka pašalinta</item>
+        <item quantity="few">%d nuotraukos pašalintos</item>
+        <item quantity="many">%d nuotraukos pašalintos</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_spine_text_minimum_page_notice_dialog_message">
+        <item quantity="other">Knygoje turi būti %d puslapių, kad nugarėlėje būtų rodomas tekstas. Pabandykite pridėti daugiau nuotraukų arba naujovinkite į knygą kietais viršeliais.</item>
+        <item quantity="one">Knygoje turi būti %d puslapis, kad nugarėlėje būtų rodomas tekstas. Pabandykite pridėti daugiau nuotraukų arba naujovinkite į knygą kietais viršeliais.</item>
+        <item quantity="few">Knygoje turi būti %d puslapiai, kad nugarėlėje būtų rodomas tekstas. Pabandykite pridėti daugiau nuotraukų arba naujovinkite į knygą kietais viršeliais.</item>
+        <item quantity="many">Knygoje turi būti %d puslapio, kad nugarėlėje būtų rodomas tekstas. Pabandykite pridėti daugiau nuotraukų arba naujovinkite į knygą kietais viršeliais.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d papild. psl.</item>
+        <item quantity="one">%d papild. psl.</item>
+        <item quantity="few">%d papild. psl.</item>
+        <item quantity="many">%d papild. psl.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d puslapių</item>
+        <item quantity="one">%d puslapis</item>
+        <item quantity="few">%d puslapiai</item>
+        <item quantity="many">%d puslapio</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Galima spausdinti tik %d nuotraukų. </item>
+        <item quantity="one">Galima spausdinti tik %d nuotrauką. </item>
+        <item quantity="few">Galima spausdinti tik %d nuotraukas. </item>
+        <item quantity="many">Galima spausdinti tik %d nuotraukos. </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Jums pasiūlyta %d nuotraukų</item>
+        <item quantity="one">Jums pasiūlyta %d nuotrauka</item>
+        <item quantity="few">Jums pasiūlytos %d nuotraukos</item>
+        <item quantity="many">Jums pasiūlyta %d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d pasiūlytų nuotraukų</item>
+        <item quantity="one">%d pasiūlyta nuotrauka</item>
+        <item quantity="few">%d pasiūlytos nuotraukos</item>
+        <item quantity="many">%d pasiūlytos nuotraukos</item>
+    </plurals>
+    <plurals name="photos_picker_impl_n_selected">
+        <item quantity="other">%d pasirinktų</item>
+        <item quantity="one">%d pasirinkta</item>
+        <item quantity="few">%d pasirinktos</item>
+        <item quantity="many">%d pasirinkta</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">nuotraukų ar vaizdo įrašų</item>
+        <item quantity="one">nuotrauka ar vaizdo įrašas</item>
+        <item quantity="few">nuotraukos ar vaizdo įrašai</item>
+        <item quantity="many">nuotraukos ar vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">nuotraukų</item>
+        <item quantity="one">nuotrauka</item>
+        <item quantity="few">nuotraukos</item>
+        <item quantity="many">nuotraukos</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">vaizdo įrašų</item>
+        <item quantity="one">vaizdo įrašas</item>
+        <item quantity="few">vaizdo įrašai</item>
+        <item quantity="many">vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Dar %1$d vietų jūsų nuotraukose</item>
+        <item quantity="one">Dar %1$d vieta jūsų nuotraukose</item>
+        <item quantity="few">Dar %1$d vietos jūsų nuotraukose</item>
+        <item quantity="many">Dar %1$d vietos jūsų nuotraukose</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Dar %1$d dalykų jūsų nuotraukose</item>
+        <item quantity="one">Dar %1$d dalykas jūsų nuotraukose</item>
+        <item quantity="few">Dar %1$d dalykai jūsų nuotraukose</item>
+        <item quantity="many">Dar %1$d dalyko jūsų nuotraukose</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Dar %1$d vietų ir dalykų jūsų nuotraukose</item>
+        <item quantity="one">Dar %1$d vieta ir dalykas jūsų nuotraukose</item>
+        <item quantity="few">Dar %1$d vietos ir dalykai jūsų nuotraukose</item>
+        <item quantity="many">Dar %1$d vietos ir dalyko jūsų nuotraukose</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Surasta %1$d žmonių</item>
+        <item quantity="one">Surastas %1$d žmogus</item>
+        <item quantity="few">Surasti %1$d žmonės</item>
+        <item quantity="many">Surasta %1$d žmogaus</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Surasta %1$d vietų</item>
+        <item quantity="one">Surasta %1$d vieta</item>
+        <item quantity="few">Surastos %1$d vietos</item>
+        <item quantity="many">Surasta %1$d vietos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Surasta %1$d dalykų</item>
+        <item quantity="one">Surastas %1$d dalykas</item>
+        <item quantity="few">Surasti %1$d dalykai</item>
+        <item quantity="many">Surasta %1$d dalyko</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d nuotraukų</item>
+        <item quantity="one">%d nuotrauka</item>
+        <item quantity="few">%d nuotraukos</item>
+        <item quantity="many">%d nuotraukos</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Pasirinkta %1$d elementų</item>
+        <item quantity="one">Pasirinktas %1$d elementas</item>
+        <item quantity="few">Pasirinkti %1$d elementai</item>
+        <item quantity="many">Pasirinkta %1$d elemento</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d pasirinktų</item>
+        <item quantity="one">%d pasirinktas</item>
+        <item quantity="few">%d pasirinkti</item>
+        <item quantity="many">%d pasirinkto</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">Nepavyko ištrinti %d nuotraukų ir vaizdo įrašų</item>
+        <item quantity="one">Nepavyko ištrinti %d nuotraukos ir vaizdo įrašo</item>
+        <item quantity="few">Nepavyko ištrinti %d nuotraukų ir vaizdo įrašų</item>
+        <item quantity="many">Nepavyko ištrinti %d nuotraukos ir vaizdo įrašo</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">Pašalinama %d elementų…</item>
+        <item quantity="one">Pašalinamas %d elementas…</item>
+        <item quantity="few">Pašalinami %d elementai…</item>
+        <item quantity="many">Pašalinama %d elemento…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d elementų pridėta prie albumo</item>
+        <item quantity="one">%d elementas pridėtas prie albumo</item>
+        <item quantity="few">%d elementai pridėti prie albumo</item>
+        <item quantity="many">%d elemento pridėta prie albumo</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Įkeliama %d elementų</item>
+        <item quantity="one">Įkeliamas %d elementas</item>
+        <item quantity="few">Įkeliami %d elementai</item>
+        <item quantity="many">Įkeliama %d elemento</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Prisijungus bus įkelta %d elementų</item>
+        <item quantity="one">Prisijungus bus įkeltas %d elementas</item>
+        <item quantity="few">Prisijungus bus įkelti %d elementai</item>
+        <item quantity="many">Prisijungus bus įkelta %d elemento</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s ir dar %2$d</item>
+        <item quantity="one">%1$s ir dar %2$d</item>
+        <item quantity="few">%1$s ir dar %2$d</item>
+        <item quantity="many">%1$s ir dar %2$d</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d elementų</item>
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Pridėti %d susijusių nuotraukų?</item>
+        <item quantity="one">Pridėti %d susijusią nuotrauką?</item>
+        <item quantity="few">Pridėti %d susijusias nuotraukas?</item>
+        <item quantity="many">Pridėti %d susijusios nuotraukos?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d naujų nuotraukų</item>
+        <item quantity="one">%1$d nauja nuotrauka</item>
+        <item quantity="few">%1$d naujos nuotraukos</item>
+        <item quantity="many">%1$d naujos nuotraukos</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s pridėjo %2$d naujų nuotraukų</item>
+        <item quantity="one">%1$s pridėjo %2$d naują nuotrauką</item>
+        <item quantity="few">%1$s pridėjo %2$d naujas nuotraukas</item>
+        <item quantity="many">%1$s pridėjo %2$d naujos nuotraukos</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_count_string">
+        <item quantity="other">%1$d žmonių</item>
+        <item quantity="one">%1$d žmogus</item>
+        <item quantity="few">%1$d žmonės</item>
+        <item quantity="many">%1$d žmogaus</item>
+    </plurals>
+    <plurals name="photos_sharingtab_picker_impl_recipient_list">
+        <item quantity="other">%1$s ir dar %2$d</item>
+        <item quantity="one">%1$s ir dar %2$d</item>
+        <item quantity="few">%1$s ir dar %2$d</item>
+        <item quantity="many">%1$s ir dar %2$d</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Negalima ištrinti elementų</item>
+        <item quantity="one">Negalima ištrinti elementų</item>
+        <item quantity="few">Negalima ištrinti elementų</item>
+        <item quantity="many">Negalima ištrinti elementų</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">Negalima ištrinti kopijų įrenginyje</item>
+        <item quantity="one">Negalima ištrinti kopijų įrenginyje</item>
+        <item quantity="few">Negalima ištrinti kopijų įrenginyje</item>
+        <item quantity="many">Negalima ištrinti kopijų įrenginyje</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">Kopijos įrenginyje ištrintos</item>
+        <item quantity="one">Kopijos įrenginyje ištrintos</item>
+        <item quantity="few">Kopijos įrenginyje ištrintos</item>
+        <item quantity="many">Kopijos įrenginyje ištrintos</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Negalima ištrinti %d elementų</item>
+        <item quantity="one">Negalima ištrinti %d elemento</item>
+        <item quantity="few">Negalima ištrinti %d elementų</item>
+        <item quantity="many">Negalima ištrinti %d elemento</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d elementų negalima ištrinti visam laikui</item>
+        <item quantity="one">%d elemento negalima ištrinti visam laikui</item>
+        <item quantity="few">%d elementų negalima ištrinti visam laikui</item>
+        <item quantity="many">%d elemento negalima ištrinti visam laikui</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Elementai ištrinami visam laikui…</item>
+        <item quantity="one">Elementai ištrinami visam laikui…</item>
+        <item quantity="few">Elementai ištrinami visam laikui…</item>
+        <item quantity="many">Elementai ištrinami visam laikui…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d elementų ištrinta visam laikui</item>
+        <item quantity="one">%d elementas ištrintas visam laikui</item>
+        <item quantity="few">%d elementai ištrinti visam laikui</item>
+        <item quantity="many">%d elemento ištrinta visam laikui</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d ištrintų iš įrenginio</item>
+        <item quantity="one">%d ištrintas iš įrenginio</item>
+        <item quantity="few">%d ištrinti iš įrenginio</item>
+        <item quantity="many">%d ištrinto iš įrenginio</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Elementai atkuriami…</item>
+        <item quantity="one">Elementai atkuriami…</item>
+        <item quantity="few">Elementai atkuriami…</item>
+        <item quantity="many">Elementai atkuriami…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Negalima atkurti %d elementų</item>
+        <item quantity="one">Negalima atkurti %d elemento</item>
+        <item quantity="few">Negalima atkurti %d elementų</item>
+        <item quantity="many">Negalima atkurti %d elemento</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d elementų atkurta iš šiukšliadėžės</item>
+        <item quantity="one">%d elementas atkurtas iš šiukšliadėžės</item>
+        <item quantity="few">%d elementai atkurti iš šiukšliadėžės</item>
+        <item quantity="many">%d elemento atkurta iš šiukšliadėžės</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Ištrinti elementus visam laikui?</item>
+        <item quantity="one">Ištrinti elementus visam laikui?</item>
+        <item quantity="few">Ištrinti elementus visam laikui?</item>
+        <item quantity="many">Ištrinti elementus visam laikui?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Elementai iš šiukšliadėžės ištrinami visam laikui</item>
+        <item quantity="one">Elementai iš šiukšliadėžės ištrinami visam laikui</item>
+        <item quantity="few">Elementai iš šiukšliadėžės ištrinami visam laikui</item>
+        <item quantity="many">Elementai iš šiukšliadėžės ištrinami visam laikui</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Ištrinti elementus?</item>
+        <item quantity="one">Ištrinti elementus?</item>
+        <item quantity="few">Ištrinti elementus?</item>
+        <item quantity="many">Ištrinti elementus?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Visam laikui ištrinti %d elementų</item>
+        <item quantity="one">Visam laikui ištrinti %d elementą</item>
+        <item quantity="few">Visam laikui ištrinti %d elementus</item>
+        <item quantity="many">Visam laikui ištrinti %d elemento</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Ši versija baigs galioti po %d dienų. Jei norite toliau naudotis „Google“ nuotraukomis, atnaujinkite versiją dabar.</item>
+        <item quantity="one">Ši versija baigs galioti po %d dienos. Jei norite toliau naudotis „Google“ nuotraukomis, atnaujinkite versiją dabar.</item>
+        <item quantity="few">Ši versija baigs galioti po %d dienų. Jei norite toliau naudotis „Google“ nuotraukomis, atnaujinkite versiją dabar.</item>
+        <item quantity="many">Ši versija baigs galioti po %d dienos. Jei norite toliau naudotis „Google“ nuotraukomis, atnaujinkite versiją dabar.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Išnaudosite apie %s duomenų, jei dabar kursite atsargines šių elementų kopijas. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="one">Išnaudosite apie %s duomenų, jei dabar kursite atsargines šių elementų kopijas. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="few">Išnaudosite apie %s duomenų, jei dabar kursite atsargines šių elementų kopijas. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="many">Išnaudosite apie %s duomenų, jei dabar kursite atsargines šių elementų kopijas. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Kuriant atsargines šių elementų kopijas bus naudojami duomenys. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="one">Kuriant atsargines šių elementų kopijas bus naudojami duomenys. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="few">Kuriant atsargines šių elementų kopijas bus naudojami duomenys. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+        <item quantity="many">Kuriant atsargines šių elementų kopijas bus naudojami duomenys. Prisijunkite prie „Wi-Fi“, jei nenorite naudoti duomenų.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Įkeliama… Liko %d</item>
+        <item quantity="one">Įkeliama… Liko %d</item>
+        <item quantity="few">Įkeliama… Liko %d</item>
+        <item quantity="many">Įkeliama… Liko %d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d failų</item>
+        <item quantity="one">%d failas</item>
+        <item quantity="few">%d failai</item>
+        <item quantity="many">%d failo</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s nuotraukų</item>
+        <item quantity="one">%s nuotrauka</item>
+        <item quantity="few">%s nuotraukos</item>
+        <item quantity="many">%s nuotraukos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s elementų</item>
+        <item quantity="one">%s elementas</item>
+        <item quantity="few">%s elementai</item>
+        <item quantity="many">%s elemento</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s vaizdo įrašų</item>
+        <item quantity="one">%s vaizdo įrašas</item>
+        <item quantity="few">%s vaizdo įrašai</item>
+        <item quantity="many">%s vaizdo įrašo</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Pasirinkite nuotraukas</item>
+        <item quantity="one">Pasirinkite nuotraukas</item>
+        <item quantity="few">Pasirinkite nuotraukas</item>
+        <item quantity="many">Pasirinkite nuotraukas</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Pasirinkite elementus</item>
+        <item quantity="one">Pasirinkite elementus</item>
+        <item quantity="few">Pasirinkite elementus</item>
+        <item quantity="many">Pasirinkite elementus</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Pasirinkite vaizdo įrašus</item>
+        <item quantity="one">Pasirinkite vaizdo įrašus</item>
+        <item quantity="few">Pasirinkite vaizdo įrašus</item>
+        <item quantity="many">Pasirinkite vaizdo įrašus</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">ir dar %d</item>
+        <item quantity="one">ir dar %d</item>
+        <item quantity="few">ir dar %d</item>
+        <item quantity="many">ir dar %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d susisiekimo būdų</item>
+        <item quantity="one">%1$s. %2$d susisiekimo būdas</item>
+        <item quantity="few">%1$s. %2$d susisiekimo būdai</item>
+        <item quantity="many">%1$s. %2$d susisiekimo būdo</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d narių</item>
+        <item quantity="one">%d narys</item>
+        <item quantity="few">%d nariai</item>
+        <item quantity="many">%d nario</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas %d elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Pasirinkta %1$d narių iš %2$d</item>
+        <item quantity="one">Pasirinktas %1$d narys iš %2$d</item>
+        <item quantity="few">Pasirinkti %1$d nariai iš %2$d</item>
+        <item quantity="many">Pasirinkta %1$d nario iš %2$d</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Pasirinkta %d narių</item>
+        <item quantity="one">Pasirinktas %d narys</item>
+        <item quantity="few">Pasirinkti %d nariai</item>
+        <item quantity="many">Pasirinkta %d nario</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Jūsų įrenginio šiukšliadėžė pilna. Jei ištrinsite šiuos elementus, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="one">Jūsų įrenginio šiukšliadėžė pilna. Jei ištrinsite šiuos elementus, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="few">Jūsų įrenginio šiukšliadėžė pilna. Jei ištrinsite šiuos elementus, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+        <item quantity="many">Jūsų įrenginio šiukšliadėžė pilna. Jei ištrinsite šiuos elementus, jie bus visam laikui pašalinti iš jūsų įrenginio ir paskyros.</item>
+    </plurals>
+</resources>

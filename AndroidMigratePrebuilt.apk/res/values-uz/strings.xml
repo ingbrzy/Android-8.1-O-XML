@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Boshiga o‘tish</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yuqoriga o‘tish</string>
+    <string name="abc_action_menu_overflow_description">Boshqa parametrlar</string>
+    <string name="abc_action_mode_done">Tayyor</string>
+    <string name="abc_activity_chooser_view_see_all">Barchasini ko‘rish</string>
+    <string name="abc_activitychooserview_choose_application">Dastur tanlang</string>
+    <string name="abc_capital_off">O‘CHIQ</string>
+    <string name="abc_capital_on">YONIQ</string>
+    <string name="abc_search_hint">Qidirish…</string>
+    <string name="abc_searchview_description_clear">So‘rovni tozalash</string>
+    <string name="abc_searchview_description_query">So‘rovni izlash</string>
+    <string name="abc_searchview_description_search">Qidirish</string>
+    <string name="abc_searchview_description_submit">So‘rov yaratish</string>
+    <string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+    <string name="abc_shareactionprovider_share_with">Ruxsat berish</string>
+    <string name="abc_shareactionprovider_share_with_application">%sga ruxsat berish</string>
+    <string name="abc_toolbar_collapse_description">Yig‘ish</string>
+    <string name="app_has_in_app_purchases">Ichida pulli kontent bor</string>
+    <string name="app_has_permissions">Ruxsatlar: %s</string>
+    <string name="app_has_runtime_permissions">Ilova uchun ruxsatlar kerak</string>
+    <string name="app_picker_loading">Mavjud ilovalar topilmoqda…</string>
+    <string name="app_picker_loading_toast">Mavjud ilovalar tez orada yuklanadi</string>
+    <string name="app_picker_no_apps">Hech narsa tanlanmadi</string>
+    <string name="app_picker_no_apps_found">Hech qanday ilova topilmadi</string>
+    <string name="apps_permissions_described_v2">"Faqat mashhur, bepul iOS® ilovalarning Android versiyalari topilishi mumkin. Aksariyat ilovalar ichidagi xaridlarni o‘tkazib bo‘lmaydi. Sozlash tugallanganidan keyin Play Market orqali boshqa ilovalarni topish mumkin.
+
+Ba’zi ilovalarga qurilmadagi ayrim imkoniyatlar yoki ma’lumotlardan foydalanish uchun oldindan ruxsat berish kerak bo‘ladi. Ruxsatlar guruhlarga bo‘lingan. Ushbu ilovalarni o‘rnatishda har bir guruhlarga alohida rozilik bildirish kerak bo‘ladi. Har bir guruhlarning ta’rifi quyida berilgan.
+
+Ba’zi ilovalar ruxsatlarga rozilikni oldindan so‘ramasligi mumkin. Bu ilovalardan birini ishlatayotganingizda aynan kerakli ma’lumotni ishlatishdan oldin alohida ruxsatlarga rozilik bildirishingiz yoki rad etishingiz mumkin.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Ma’lumotlarni uzatish vositasi</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nusxalanmasin</string>
+    <string name="close_button_label">Yopish</string>
+    <string name="cloud_restore_app_picker_button">Qayta tiklash</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Zaxirada hech qanday ilova yo‘q</string>
+    <string name="cloud_restore_app_picker_title">Tiklash uchun ilovalarni tanlang</string>
+    <string name="common_cancel">Bekor qilish</string>
+    <string name="common_google_play_services_enable_button">Yoqish</string>
+    <string name="common_google_play_services_enable_text">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="common_google_play_services_enable_title">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_install_button">O‘rnatish</string>
+    <string name="common_google_play_services_install_text">%1$s ishlashi uchun qurilmangizda Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_title">Google Play xizmatlarini o‘rnatish</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xizmatlari xatosi</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ilovasini Google Play xizmatlariga ulab bo‘lmadi. Qaytadan urinib ko‘ring.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi.</string>
+    <string name="common_google_play_services_update_button">Yangilash</string>
+    <string name="common_google_play_services_update_text">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="common_google_play_services_update_title">Google Play xizmatlarini yangilash</string>
+    <string name="common_google_play_services_updating_text">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xizmatlarining yangi versiyasi zarur. U o‘zini qisqa vaqt ichida yangilaydi.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">Telefonda ochish</string>
+    <string name="common_signin_button_text">Kirish</string>
+    <string name="common_signin_button_text_long">Google orqali kirish</string>
+    <string name="contacts_number_device_and_icloud">%1$d ta iCloud® kontakti, qurilmada %2$d ta kontakt</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontaktlar, %1$d ta iCloud® kontakti, qurilmada %2$d ta kontakt</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontaktlar, SIM kartada %1$d ta kontakt, qurilmada %2$d ta kontakt</string>
+    <string name="contacts_number_device_with_google">Google Kontaktlar, qurilmada %1$d ta kontakt</string>
+    <string name="contacts_number_icloud_with_google">Google Kontaktlar, %1$d ta iCloud® kontakti</string>
+    <string name="contacts_number_sim_with_google">Google Kontaktlar, SIM kartada %1$d ta kontakt</string>
+    <string name="copy_confirmation_description">Yangi telefonga Google hisobingiz va ilovalar kabi ma’lumotlar nusxalanadi</string>
+    <string name="copy_confirmation_title">Yangi telefoningizga nusxalansinmi?</string>
+    <string name="d2d_app_picker_description_no_apps">Hech qanday ilova topilmadi</string>
+    <string name="d2d_app_picker_title">Ilovalar</string>
+    <string name="d2d_migration_canceled_on_source">Nusxalash bekor qilindi</string>
+    <string name="data_copied_fragment_description">Ma’lumotlar yangi telefonga nusxalandi. Kabelni uzishingiz mumkin.</string>
+    <string name="data_copied_fragment_description_cancel">Nusxalashni to‘xtatdingiz, lekin yangi telefonga allaqachon bir qancha ma’lumotlar nusxalandi.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Nusxalashni to‘xtatdingiz, shuning uchun yangi telefonga hech narsa nusxalanmadi.</string>
+    <string name="data_copied_fragment_description_error">Xatolik yuz berdi. Barcha ma’lumotlarni nusxalab bo‘lmadi.</string>
+    <string name="data_copied_fragment_description_error_no_data">Xatolik yuz berdi. Ma’lumotlarni nusxalab bo‘lmadi.</string>
+    <string name="data_copied_fragment_no_data_title">Nusxalab bo‘lmadi</string>
+    <string name="data_copied_fragment_some_data_title">Ba’zi ma’lumotlar nusxalandi</string>
+    <string name="data_copied_fragment_title">Ma’lumotlar nusxalandi</string>
+    <string name="device_not_supported_fragment_new_device">Yangi telefonga ulanildi. Davom ettirish uchun avvalgi telefonga qayta ulang.</string>
+    <string name="device_not_supported_fragment_new_device_title">Avvalgi telefonga qayta ulang</string>
+    <string name="device_not_supported_fragment_no_data_cable">Bu kabel orqali ma’lumotlarni uzatib bo‘lmaydi. Boshqa kabelni ulab, qaytadan urinib ko‘ring.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Boshqa kabeldan foydalanib ko‘ring</string>
+    <string name="device_not_supported_fragment_retry_description">Eski telefon qulfdan chiqarilganligini tekshirib, kabelni uzing va qayta ulang</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Noma’lum xatolik yuz berdi</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® qurilmangiz nazorat ostida bo‘lgani uchun ma’lumotlarni nusxalash uchun boshqa usulni tanlashingiz lozim</string>
+    <string name="device_picker_skip">Qayta tiklanmasin</string>
+    <string name="durationDayHour">%1$d kun %2$d soat</string>
+    <string name="durationDayHours">%1$d kun %2$d soat</string>
+    <string name="durationDays">%1$d kun</string>
+    <string name="durationHourMinute">%1$d soat %2$d daqiqa</string>
+    <string name="durationHourMinutes">%1$d soat %2$d daqiqa</string>
+    <string name="durationHours">%1$d soat</string>
+    <string name="durationMinute">%1$d daqiqa</string>
+    <string name="durationMinutes">%1$d daqiqa</string>
+    <string name="encryption_warning_fragment_description">"iPhone® qurilmasida zaxira nusxalarni shifrlash funksiyasi yoqilgan. Agar bu funksiyani o‘zingiz yoqmagan bo‘lsangiz, uni administratoringiz yoqqan bo‘lishi mumkin.
+
+Faqat musiqa, video va suratlardan nusxa olish mumkin. Batafsil ma’lumot: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Zaxira shifrlangan</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Adapterni topa olmayapman</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"^1 qutisidagi Quick Switch Adapter adapterini toping.
+
+Kabelni adapterga ulang."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Adapter va kabelni ulang</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Eski telefonni qulfdan chiqarib, unga adapterni suqing.</string>
+    <string name="fragment_usb_connect_both_phones_title">Ikkala telefonni ulang</string>
+    <string name="fragment_usb_dialog_cancel_description">Kabel bilan ko‘proq narsalarni o‘tkazish mumkin. Agar qutidagi kabel mos kelmasa, eski telefon bilan ishlaydigan quvvatlash yoki axborot uzatish kabelidan foydalanish mumkin.</string>
+    <string name="fragment_usb_dialog_cancel_title">Ma’lumotlar boshqa usulda nusxalansinmi?</string>
+    <string name="fragment_usb_dont_copy">Nusxalanmasin</string>
+    <string name="fragment_usb_dont_have_cable">Menda kabel yo‘q</string>
+    <string name="fragment_usb_dont_have_old_phone">eski telefoningiz yoningizda emasmi?</string>
+    <string name="fragment_usb_find_cable_description">Eski telefonga mos keladigan quvvatlash yoki axborot uzatish kabelidan foydalaning.</string>
+    <string name="fragment_usb_find_cable_title">Kerakli kabelni toping</string>
+    <string name="fragment_usb_initial_description">Eski Android yoki iPhone® qurilmangiz lozim. Uni yoqing va qulfdan chiqaring.</string>
+    <string name="fragment_usb_initial_title">Eski telefoningizni oling</string>
+    <string name="fragment_usb_legacy_description">"Bu ko‘proq ma’lumotlarni ko‘chirib o‘tkazishning eng tezkor usulidir.
+
+Qutidan adapterni topib, uni yangi telefonga suqing. Kabel orqali telefonlarni ulab, eski telefonni qulfdan chiqaring."</string>
+    <string name="fragment_usb_missing_data_description">Ma’lumotlarni uzatish paytida Pixel qurilmangizni sozlashda davom etishingiz mumkin.</string>
+    <string name="fragment_usb_missing_data_title">Ma’lumotlaringizni nusxalang</string>
+    <string name="fragment_usb_other_ways">Kabelsiz nusxalash</string>
+    <string name="fragment_usb_plug_cable">Kabelni eski telefonga suqing</string>
+    <string name="fragment_waiting_title">Iltimos, kuting…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontaktlar sinxronlanadi</string>
+    <string name="google_contacts_static_text_off">Google Kontaktlar sinxronlanadi</string>
+    <string name="i_message_dialog_message">"iPhone foydalanuvchilaridan SMS olib turish uchun iMessage® xizmatini o‘chirib qo‘yish kerak bo‘ladi.
+
+Ko‘rsatmalarni ko‘rish uchun "<b>g.co/iMessageHelp</b> sahifasiga tashrif buyuring.</string>
+    <string name="instructions_fragment_title">Boshqa telefonda davom ettirish</string>
+    <string name="ios_connected_fragment_description">"Keyingi ekranda Google hisobingizga kirish yoki yangi hisob yaratish mumkin.
+
+Agar Google hisobingiz qo'shilmasa, iOS Taqvim® tadbirlarini o‘tkazib bo‘lmaydi."</string>
+    <string name="ios_message_attachment_explanation">[Xatga biriktirilgan fayllar Google Photos > Qurilma jildlari > Xat biriktirmalarida joylashgan]</string>
+    <string name="ios_message_attachment_failed_explanation">[Ba’zi biriktirilgan fayllarni nusxalab bo‘lmadi. Ko‘chirib o‘tkazilgan biriktirmalar Google Photos > Qurilma jildlari > Xat biriktirmalarida joylashgan]</string>
+    <string name="ios_message_attachment_placeholder">[Fayl mana bu yerga saqlandi: Google Photos > Qurilmadagi jildlar > Xatlardagi fayllar]</string>
+    <string name="ios_message_attachments_placeholder">[Xatga biriktirilgan fayllar Google Photos > Qurilma jildlari > Xat biriktirmalariga saqlandi]</string>
+    <string name="ios_migration_default_calendar_title">Taqvim</string>
+    <string name="ios_migration_other_contact_relation">Boshqa</string>
+    <string name="ios_photos_dialog_message">"iCloud® xizmatiga saqlangan suratlarni nusxalab bo‘lmaydi.
+
+Bu suratlarni ^1 qurilmangizga olib o‘tish uchun iPhone® telefoningizga Google Photos ilovasini o‘rnating va “Avtomatik yuklash va sinxronizatsiya” funksiyasini yoqing. Qo‘shimcha ma’lumot uchun: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">Keyingisi</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Hammasi</string>
+    <string name="photos_filtering_option_none">Hech qaysi</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Nusxa olingan kontaktlar Google hisobingizda saqlanadi.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Nusxa olingan kontakt va taqvim ma’lumotlari Google hisobingizda saqlanadi.</string>
+    <string name="restore_choice_data_disclaimer_v2">Ba’zi ma’lumotlarni ^1 qurilmangizga nusxalab bo‘lmadi. <annotation id="restore_choice_data_disclaimer_learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="restore_choice_deselect_some_content">Davom ettirish uchun ba’zi tanlangan kontentlarni bekor qiling</string>
+    <string name="restore_choice_learn_more_android">"Eski telefondagi ba’zi ma’lumotlarni avtomatik ravishda nusxalab bo‘lmaydi:
+
+ ● Yuklanmalar (masalan, PDF fayllar)
+
+ ● Yashirin jildlardagi musiqa, video va suratlar
+
+ ● Matnli xabarlar orqali qabul qilingan video, musiqa va suratlar
+
+ ● Google Play Market orqali o‘rnatilmagan ilovalar
+
+ ● Ilovaga tegishli ma’lumotlar (agar ilova Android zaxiralash xizmatidan foydalanmasa)
+
+ ● Ayrim qurilma sozlamalari
+
+ ● Google hisobidan boshqa hisoblar (hamda ular bilan bog‘liq ma’lumotlar)
+
+ ● Google xizmatlaridan boshqa xizmatlarga sinxronlangan kontakt va taqvim ma’lumotlari
+
+ ● Ringtonlar
+
+ Qo‘shimcha ma’lumotlar: g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Eski telefondagi ba’zi ma’lumotlarni avtomatik ravishda nusxalab bo‘lmaydi:
+
+ ● Ilovalar va ularga tegishli ma’lumotlar
+
+ ● Telefonda asli saqlanmagan suratlar (masalan, agar “Xotirani optimallashtirish” sozlamasi yoqilgan bo‘lsa, asl suratlar iCloud® xizmatida saqlanadi)
+
+ ● iCloud® xizmatida saqlangan fayl va hujjatlar
+
+ ● Qurilma sozlamalari (masalan, Wi-Fi parollari va fon rasmlari)
+
+ ● Raqamli huquqlar boshqaruvi (DRM) orqali himoyalangan qo‘shiqlar (masalan, iTunes® orqali 2009-yil, aprel oyidan oldin xarid qilingan qo‘shiqlar yoki musiqa ta’minotchisi ilovasida oflayn eshitish uchun yuklab olingan qo‘shiqlar)
+
+ ● Google hisobidan boshqa hisoblar (hamda ular bilan bog‘liq ma’lumotlar)
+
+ ● iCloud® yoki Google xizmatlaridan boshqa xizmatlarga sinxronlangan kontakt va taqvim ma’lumotlari
+
+ ● Safari® brauzeridagi xatcho‘plar
+
+ iMessage® biriktirmalarini Google Photos > Qurilma jildlari > Xat biriktirmalari orqali ko‘rish mumkin.
+
+ Qo‘shimcha ma’lumotlar: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Joy yetarli emas</string>
+    <string name="restore_choice_total_text">bo‘sh joy: %1$s / o‘tkazish vaqti: %2$s</string>
+    <string name="restore_item_appdata">Ilovaga tegishli ma’lumotlar</string>
+    <string name="restore_item_calendar">Taqvim</string>
+    <string name="restore_item_calendar_ical_description">iOS® Taqvim, Google Taqvim</string>
+    <string name="restore_item_calendar_ical_off_description">Google Taqvim sinxronlanadi</string>
+    <string name="restore_item_calendar_sync_description">Google Taqvim sinxronlanadi</string>
+    <string name="restore_item_call_logs">Chaqiruvlar tarixi</string>
+    <string name="restore_item_contacts">Kontaktlar</string>
+    <string name="restore_item_device_settings_description">Wi-Fi parollari va boshqalar</string>
+    <string name="restore_item_downloads">Yuklanmalar</string>
+    <string name="restore_item_email">E-pochta</string>
+    <string name="restore_item_email_description">Gmail sinxronlanadi</string>
+    <string name="restore_item_message_attachments">Xatga biriktirilgan fayllar</string>
+    <string name="restore_item_messages">Xabarlar</string>
+    <string name="restore_item_music">Musiqa</string>
+    <string name="restore_item_photos">Rasm va videolar</string>
+    <string name="restore_item_settings">Qurilma sozlamalari</string>
+    <string name="restore_item_sms">SMS xabarlar</string>
+    <string name="restore_item_will_be_synced_text">Ma’lumotlar telefon bilan sinxronlanadi</string>
+    <string name="restore_progress_title">Tiklanmoqda…</string>
+    <string name="search_menu_title">Qidirish</string>
+    <string name="small_time_duration">1 daqiqadan kamroq</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Yopish</string>
+    <string name="stop_copying_dialog_message_before_transfer">Ma’lumotlaringiz yangi telefonga nusxalanmadi.</string>
+    <string name="stop_copying_dialog_message_during_transfer">Ba’zi ma’lumotlar yangi telefonga nusxalangani yo‘q</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nusxalanmasin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">To‘xtatish</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nusxalanmasinmi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Nusxalash to‘xtatilsinmi?</string>
+    <string name="suw_back_button_label">Orqaga</string>
+    <string name="suw_more_button_label">Yana</string>
+    <string name="suw_next_button_label">Keyingisi</string>
+    <string name="target_default_source_device_model">eski qurilma</string>
+    <string name="target_device_not_supported_cant_continue_description">Ma’lumotlarni nusxalash uchun boshqa usulni tanlashingiz lozim</string>
+    <string name="target_device_not_supported_cant_continue_title">Boshqa telefon qo‘llab-quvvatlanmaydi</string>
+    <string name="target_device_not_supported_try_restarting_description">"Kabelni uzib, eski telefonni o‘chirib yoqing, keyin kabelni qayta ulang va Pixel telefonidagi ko‘rsatmalarga amal qiling.
+
+Agar bu xato yana takrorlansa, nusxalashni boshqa usulda amalga oshirishingiz kerak bo‘ladi."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon qo‘llab-quvvatlanmasligi mumkin</string>
+    <string name="target_pixelmigrate_notification_description">Mavjud yoki bajarilmoqda</string>
+    <string name="target_pixelmigrate_notification_title">Ma’lumotlarni uzatish</string>
+    <string name="target_smart_device_timeout_add_account">HISOB QO‘SHISH</string>
+    <string name="target_smart_device_timeout_description">Agar xohlasangiz, hisobingizni qo‘lda kiritishingiz mumkin</string>
+    <string name="target_smart_device_timeout_dismiss">YOPISH</string>
+    <string name="target_smart_device_timeout_title">Muammoga duch keldingizmi?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonlar bir-biriga ulandi</string>
+    <string name="toast_reconnect_cable">Kabelni qayta ulang</string>
+    <string name="transfer_finished_fragment_title">Qurilma deyarli sozlandi…</string>
+    <string name="transfer_summary_copied">Ma’lumotlar nusxalandi</string>
+    <string name="transfer_summary_fragment_description">Kabelni uzishingiz mumkin.</string>
+    <string name="transfer_summary_fragment_finish">TAYYOR</string>
+    <string name="transfer_summary_fragment_title">Telefon deyarli tayyor</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Ba’zi suratlarni nusxalab bo‘lmadi. <annotation id="transfer_summary_learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="transfer_summary_not_copied">Ma’lumotlar nusxalanmadi</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ta nusxalandi</string>
+    <string name="transfer_summary_will_sync">Sozlab bo‘lgach, ma’lumotlar sinxronlanadi</string>
+    <string name="transferring_fragment_calculating_remaining_time">Qolgan vaqt hisoblanmoqda…</string>
+    <string name="transferring_fragment_header">Nusxalanmoqda…</string>
+    <string name="transferring_fragment_remaining_time">%1$s qoldi</string>
+    <string name="trust_instructions_description">Davom etish uchun iPhone® qurilmasini tekshiring va ulanishni tasdiqlang</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari va iTunes – Apple Inc. kompaniyasining AQSH va boshqa mamlakatlarda qayd qilingan savdo belgilari hisoblanadi.</string>
+</resources>

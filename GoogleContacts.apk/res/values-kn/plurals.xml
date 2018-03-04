@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಲೇಬಲ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಲೇಬಲ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಲೇಬಲ್‌ಗೆ ಸೇರಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಲೇಬಲ್‌ಗೆ ಸೇರಿಸಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳಿಗೆ ಸೂಚಿಸಲಾದ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳಿಗೆ ಸೂಚಿಸಲಾದ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d ಜಂಕ್ ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%d ಜಂಕ್ ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d ನಕಲಿ ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%d ನಕಲಿ ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d ಇತ್ತೀಚಿನ ಕರೆಗಳು • ಕೊನೆಯದಾಗಿ %2$s</item>
+        <item quantity="one">%1$d ಇತ್ತೀಚಿನ ಕರೆಗಳು • ಕೊನೆಯದಾಗಿ %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">%1$s ಲೇಬಲ್‌ಗೆ ಸಂಪರ್ಕಗಳನ್ನು ಈಗಾಗಲೇ ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$s ಲೇಬಲ್‌ಗೆ ಸಂಪರ್ಕಗಳನ್ನು ಈಗಾಗಲೇ ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳು · %2$s</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳು · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">ಈ ಸಂಪರ್ಕಗಳನ್ನು Google ಸಂಪರ್ಕಗಳು ಮತ್ತು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಿಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ</item>
+        <item quantity="one">ಈ ಸಂಪರ್ಕಗಳನ್ನು Google ಸಂಪರ್ಕಗಳು ಮತ್ತು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಿಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">ನಿಮ್ಮ ಇತರ ಖಾತೆಗಳಲ್ಲಿ %1$d ಸಂಪರ್ಕಗಳಿವೆ</item>
+        <item quantity="one">ನಿಮ್ಮ ಇತರ ಖಾತೆಗಳಲ್ಲಿ %1$d ಸಂಪರ್ಕಗಳಿವೆ</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 ಸಂಪರ್ಕಗಳು • ^2</item>
+        <item quantity="one">^1 ಸಂಪರ್ಕಗಳು • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">ಈ %1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಗೆ ಸರಿಸುವುದೇ?</item>
+        <item quantity="one">ಈ %1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಗೆ ಸರಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸುವುದು ಮುಗಿದಿದೆ</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸುವುದು ಮುಗಿದಿದೆ</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳನ್ನು ಸರಿಸಲಾಗುತ್ತಿದೆ</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕಗಳನ್ನು %2$s ಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">ಸಿಮ್‌ ಕಾರ್ಡ್‌‌ಗಳಿಂದ ಆಮದು ಮಾಡಿ</item>
+        <item quantity="one">ಸಿಮ್‌ ಕಾರ್ಡ್‌‌ಗಳಿಂದ ಆಮದು ಮಾಡಿ</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%d ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d ಸಿಮ್ ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಸಿಮ್ ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">ಸಂಪರ್ಕಗಳನ್ನು ಈ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಿ</item>
+        <item quantity="one">ಸಂಪರ್ಕಗಳನ್ನು ಈ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಿ</item>
+    </plurals>
+</resources>

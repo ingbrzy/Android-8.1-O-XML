@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>sen asunto</item>
+        <item>sen asunto</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Si</item>
+        <item>Non</item>
+        <item>Aceptar</item>
+        <item>He he</item>
+        <item>Grazas</item>
+        <item>Acepto</item>
+        <item>Excelente</item>
+        <item>Vou de camiño</item>
+        <item>De acordo, póñome en contacto contigo máis tarde</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS cunha ligazón</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Reenviar sempre como SMS</item>
+        <item>Reenviar como SMS cando non estea en itinerancia</item>
+        <item>Preguntar antes de reenviar</item>
+        <item>Non reenviar nunca como SMS</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Reenviar sempre como SMS ou MMS</item>
+        <item>Reenviar como SMS ou MMS cando non estea en itinerancia</item>
+        <item>Preguntar antes de reenviar</item>
+        <item>Non reenviar nunca como SMS ou MMS</item>
+    </string-array>
+</resources>

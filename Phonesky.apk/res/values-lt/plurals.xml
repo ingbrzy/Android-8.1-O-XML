@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Jūsų įvertinimas: %1$s žvaigždučių</item>
+        <item quantity="one">Jūsų įvertinimas: %1$s žvaigždutė</item>
+        <item quantity="few">Jūsų įvertinimas: %1$s žvaigždutės</item>
+        <item quantity="many">Jūsų įvertinimas: %1$s žvaigždutės</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d atsiliepimų</item>
+        <item quantity="one">%1$d atsiliepimas</item>
+        <item quantity="few">%1$d atsiliepimai</item>
+        <item quantity="many">%1$d atsiliepimo</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d atsiliepimų, įvertinimas žvaigždutėmis: %2$d</item>
+        <item quantity="one">%1$d atsiliepimas, įvertinimas žvaigždutėmis: %2$d</item>
+        <item quantity="few">%1$d atsiliepimai, įvertinimas žvaigždutėmis: %2$d</item>
+        <item quantity="many">%1$d atsiliepimo, įvertinimas žvaigždutėmis: %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Diegimo procesai pristabdyti</item>
+        <item quantity="one">Diegimo procesai pristabdyti</item>
+        <item quantity="few">Diegimo procesai pristabdyti</item>
+        <item quantity="many">Diegimo procesai pristabdyti</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Programos nuskaitytos prieš %1$d dienų</item>
+        <item quantity="one">Programos nuskaitytos prieš %1$d dieną</item>
+        <item quantity="few">Programos nuskaitytos prieš %1$d dienas</item>
+        <item quantity="many">Programos nuskaitytos prieš %1$d dienos</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Pašalinta %1$d žalingų programų. %2$s.</item>
+        <item quantity="one">Pašalinta %1$d žalinga programa. %2$s.</item>
+        <item quantity="few">Pašalintos %1$d žalingos programos. %2$s.</item>
+        <item quantity="many">Pašalinta %1$d žalingos programos. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Reikia patvirtinti %1$d naujinių</item>
+        <item quantity="one">Reikia patvirtinti %1$d naujinį</item>
+        <item quantity="few">Reikia patvirtinti %1$d naujinius</item>
+        <item quantity="many">Reikia patvirtinti %1$d naujinio</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d naujų naujinių</item>
+        <item quantity="one">%1$d naujas naujinys</item>
+        <item quantity="few">%1$d nauji naujiniai</item>
+        <item quantity="many">%1$d naujo naujinio</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Pasiekiama %1$d naujinių</item>
+        <item quantity="one">Pasiekiamas %1$d naujinys</item>
+        <item quantity="few">Pasiekiami %1$d naujiniai</item>
+        <item quantity="many">Pasiekiama %1$d naujinio</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Atnaujinti visas</item>
+        <item quantity="one">Atnaujinti visas</item>
+        <item quantity="few">Atnaujinti visas</item>
+        <item quantity="many">Atnaujinti visas</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Atnaujinta %1$d programų</item>
+        <item quantity="one">Atnaujinta %1$d programa</item>
+        <item quantity="few">Atnaujintos %1$d programos</item>
+        <item quantity="many">Atnaujinta %1$d programos</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s žvaigždučių</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s žvaigždutė</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s žvaigždutės</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s žvaigždutės</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s žvaigždučių – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s žvaigždutė – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s žvaigždutės – %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s žvaigždutės – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s žvaigždučių – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s žvaigždutė – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b> %2$s žvaigždutės – %3$s – %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b> %2$s žvaigždutės – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">Šis atsiliepimas buvo naudingas %1$d naudotojų. Pažymėti komentarą kaip naudingą</item>
+        <item quantity="one">Šis atsiliepimas buvo naudingas %1$d naudotojui. Pažymėti komentarą kaip naudingą</item>
+        <item quantity="few">Šis atsiliepimas buvo naudingas %1$d naudotojams. Pažymėti komentarą kaip naudingą</item>
+        <item quantity="many">Šis atsiliepimas buvo naudingas %1$d naudotojo. Pažymėti komentarą kaip naudingą</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">Šis atsiliepimas buvo naudingas %1$d naudotojų. Atžymėkite komentarą kaip naudingą</item>
+        <item quantity="one">Šis atsiliepimas buvo naudingas %1$d naudotojui. Atžymėkite komentarą kaip naudingą</item>
+        <item quantity="few">Šis atsiliepimas buvo naudingas %1$d naudotojams. Atžymėkite komentarą kaip naudingą</item>
+        <item quantity="many">Šis atsiliepimas buvo naudingas %1$d naudotojo. Atžymėkite komentarą kaip naudingą</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Įvertinta &lt;b>%1$s žvaigžd.&lt;/b></item>
+        <item quantity="one">Įvertinta &lt;b>%1$s žvaigždute&lt;/b></item>
+        <item quantity="few">Įvertinta &lt;b>%1$s žvaigžd.&lt;/b></item>
+        <item quantity="many">Įvertinta &lt;b>%1$s žvaigžd.&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s atsiliepimų</item>
+        <item quantity="one">%1$s atsiliepime</item>
+        <item quantity="few">%1$s atsiliepimuose</item>
+        <item quantity="many">%1$s atsiliepimo</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s žvaigždučių&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s žvaigždutė&lt;/b> %2$s</item>
+        <item quantity="few">&lt;b>%1$s žvaigždutės&lt;/b> %2$s</item>
+        <item quantity="many">&lt;b>%1$s žvaigždutės&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Paskutinį kartą naudota prieš %1$d d.</item>
+        <item quantity="one">Paskutinį kartą naudota prieš %1$d d.</item>
+        <item quantity="few">Paskutinį kartą naudota prieš %1$d d.</item>
+        <item quantity="many">Paskutinį kartą naudota prieš %1$d d.</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Atkurti %1$d pasirinktų programų</item>
+        <item quantity="one">Atkurti %1$d pasirinktą programą</item>
+        <item quantity="few">Atkurti %1$d pasirinktas programas</item>
+        <item quantity="many">Atkurti %1$d pasirinktos programos</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">žvaigždučių</item>
+        <item quantity="one">žvaigždutė</item>
+        <item quantity="few">žvaigždutės</item>
+        <item quantity="many">žvaigždutės</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Programos bus netrukus įdiegtos.</item>
+        <item quantity="one">Programos bus netrukus įdiegtos.</item>
+        <item quantity="few">Programos bus netrukus įdiegtos.</item>
+        <item quantity="many">Programos bus netrukus įdiegtos.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Programų naujiniai bus netrukus įdiegti.</item>
+        <item quantity="one">Programų naujiniai bus netrukus įdiegti.</item>
+        <item quantity="few">Programų naujiniai bus netrukus įdiegti.</item>
+        <item quantity="many">Programų naujiniai bus netrukus įdiegti.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Paskutinį kartą naudota prieš %1$d dienų</item>
+        <item quantity="one">Paskutinį kartą naudota prieš %1$d dieną</item>
+        <item quantity="few">Paskutinį kartą naudota prieš %1$d dienas</item>
+        <item quantity="many">Paskutinį kartą naudota prieš %1$d dienos</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Paskutinį kartą naudota prieš %1$d mėnesių</item>
+        <item quantity="one">Paskutinį kartą naudota prieš %1$d mėnesį</item>
+        <item quantity="few">Paskutinį kartą naudota prieš %1$d mėnesius</item>
+        <item quantity="many">Paskutinį kartą naudota prieš %1$d mėnesio</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus dalyje „Saugyklos nustatymai“.</item>
+        <item quantity="one">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus dalyje „Saugyklos nustatymai“.</item>
+        <item quantity="few">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus dalyje „Saugyklos nustatymai“.</item>
+        <item quantity="many">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus dalyje „Saugyklos nustatymai“.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje &lt;a href=\"\">Nustatymai > Saugykla&lt;/a>.</item>
+        <item quantity="one">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje &lt;a href=\"\">Nustatymai > Saugykla&lt;/a>.</item>
+        <item quantity="few">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje &lt;a href=\"\">Nustatymai > Saugykla&lt;/a>.</item>
+        <item quantity="many">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje &lt;a href=\"\">Nustatymai > Saugykla&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje „Nustatymai“ > „Saugykla“.</item>
+        <item quantity="one">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje „Nustatymai“ > „Saugykla“.</item>
+        <item quantity="few">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje „Nustatymai“ > „Saugykla“.</item>
+        <item quantity="many">Jei norite įdiegti programas arba naujinius šiame įrenginyje, ištrinkite nebereikalingas programas. Taip pat galite atlaisvinti vietos ištrindami medijos failus skiltyje „Nustatymai“ > „Saugykla“.</item>
+    </plurals>
+</resources>

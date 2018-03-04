@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d பேர் %1$s நட்சத்திரம் என மதிப்பிட்டுள்ளனர்</item>
+        <item quantity="one">ஒருவர் %1$s நட்சத்திரம் என மதிப்பிட்டுள்ளார்</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d நாட்களில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d நாளில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d மணிநேரத்தில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d மணிநேரத்தில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">மேலும் %1$d</item>
+        <item quantity="one">மேலும் %1$d</item>
+    </plurals>
+    <plurals name="details_some_episodes_available">
+        <item quantity="other">%1$s எபிசோடுகள் கிடைக்கின்றன</item>
+        <item quantity="one">1 எபிசோடு கிடைக்கிறது</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d kontaktpersoner blev føjet til etiketten %2$s</item>
+        <item quantity="one">%1$d kontaktperson blev føjet til etiketten %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">%1$d kontaktpersoner føjes til etiketten %2$s</item>
+        <item quantity="one">%1$d kontaktperson føjes til etiketten %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Tjek foreslåede oplysninger om %d kontaktpersoner</item>
+        <item quantity="one">Tjek foreslåede oplysninger om %d kontaktperson</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d uønskede kontaktpersoner</item>
+        <item quantity="one">%d uønsket kontaktperson</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontaktdubletter</item>
+        <item quantity="one">%d kontaktdublet</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nylige opkald • Senest den %2$s</item>
+        <item quantity="one">%1$d nyligt opkald • Senest den %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Etiketten %1$s er allerede blevet føjet til kontaktpersonerne</item>
+        <item quantity="one">Etiketten %1$s er allerede blevet føjet til kontaktpersonen</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktpersoner</item>
+        <item quantity="one">%d kontaktperson</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktpersoner · %2$s</item>
+        <item quantity="one">%1$d kontaktperson · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d kontaktpersoner blev slettet</item>
+        <item quantity="one">%1$d kontaktperson blev slettet</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Disse kontaktpersoner bliver fjernet fra Google Kontaktpersoner og alle dine synkroniserede enheder</item>
+        <item quantity="one">Denne kontaktperson bliver fjernet fra Google Kontaktpersoner og alle dine synkroniserede enheder</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d kontaktpersoner på dine andre konti</item>
+        <item quantity="one">%1$d kontaktperson på dine andre konti</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktpersoner</item>
+        <item quantity="one">%1$d kontaktperson</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktpersoner • ^2</item>
+        <item quantity="one">^1 kontaktperson • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Vil du flytte oplysninger om %1$d kontaktpersoner til %2$s?</item>
+        <item quantity="one">Vil du flytte oplysninger om %1$d kontaktperson til %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d kontaktpersoner blev flyttet</item>
+        <item quantity="one">%d kontaktperson blev flyttet</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Flytningen af %d kontaktpersoner blev udført</item>
+        <item quantity="one">Flytningen af %d kontaktperson blev udført</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%d kontaktpersoner flyttes</item>
+        <item quantity="one">%d kontaktperson flyttes</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d kontaktpersoner er sikkerhedskopieret til %2$s</item>
+        <item quantity="one">%1$d kontaktperson er sikkerhedskopieret til %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importér fra SIM-kort</item>
+        <item quantity="one">Importér fra SIM-kort</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktpersoner</item>
+        <item quantity="one">%d kontaktperson</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d kontaktpersoner på SIM-kortet blev importeret</item>
+        <item quantity="one">%d kontaktperson på SIM-kortet blev importeret</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Del kontaktpersonerne via</item>
+        <item quantity="one">Del kontaktpersonen via</item>
+    </plurals>
+</resources>

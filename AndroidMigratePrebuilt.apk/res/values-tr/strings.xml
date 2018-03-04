@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="app_has_in_app_purchases">Uygulama içi satın alma işlemleri</string>
+    <string name="app_has_permissions">İzinler: %s</string>
+    <string name="app_has_runtime_permissions">Uygulama bazı izinler isteyecektir</string>
+    <string name="app_picker_loading">Kullanılabilir uygulamalar bulunuyor…</string>
+    <string name="app_picker_loading_toast">Kullanılabilir uygulamalar yakında yüklenecek</string>
+    <string name="app_picker_no_apps">Hiçbir uygulama seçilmedi</string>
+    <string name="app_picker_no_apps_found">Uygulama bulunamadı</string>
+    <string name="apps_permissions_described_v2">"Yalnızca ücretsiz popüler iOS® uygulamaları Android uygulamalarıyla eşleşebilir. Uygulama içi satın alma işlemlerinin çoğu aktarılmayacaktır. Kurulum tamamlandıktan sonra Play Store'da daha fazla uygulama bulabilirsiniz.
+
+Bazı uygulamaların cihazınızdaki belirli özelliklere veya bilgilere erişmesi için önceden izin vermeniz gerekebilir. İzinler, izin grupları halinde organize edilir. Bu uygulamaları yüklemeyi seçerek izinlerin ait olduğu her grubu kabul etmiş olursunuz.
+
+Bazı uygulamalar izinlerin önceden kabul edilmesini gerektirmeyebilir. Böyle bir uygulamayı kullandığınızda, uygulamanın söz konusu veri türünü kullanmasından önce ilgili izni bağımsız olarak onaylayabilir veya reddebilirsiniz.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Veri Aktarım Aracı</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Kopyalama</string>
+    <string name="close_button_label">Kapat</string>
+    <string name="cloud_restore_app_picker_button">Geri yükle</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Yedeklenmiş herhangi bir uygulama yok</string>
+    <string name="cloud_restore_app_picker_title">Geri yüklenecek uygulamaları seçin</string>
+    <string name="common_cancel">İptal</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_ok">Tamam</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="contacts_number_device_and_icloud">iCloud® üzerinde %1$d, cihazda %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kişiler, iCloud® üzerinde %1$d, cihazda %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">"Google Kişiler, SIM'de %1$d, cihazda %2$d"</string>
+    <string name="contacts_number_device_with_google">Google Kişiler, cihazda %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google Kişiler, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Kişiler, %1$d SIM</string>
+    <string name="copy_confirmation_description">Google Hesabınız ve uygulamalarınız gibi verileri yeni telefonunuza kopyalayacaksınız.</string>
+    <string name="copy_confirmation_title">Yeni telefonunuza kopyalansın mı?</string>
+    <string name="d2d_app_picker_description_no_apps">Uygulama bulunamadı</string>
+    <string name="d2d_app_picker_title">Uygulamalar</string>
+    <string name="d2d_migration_canceled_on_source">Kopyalama işlemi iptal edildi</string>
+    <string name="data_copied_fragment_description">Verileriniz yeni telefonunuza kopyalandı. Kabloyu çıkarabilirsiniz.</string>
+    <string name="data_copied_fragment_description_cancel">Kopyalamayı durdurmayı seçtiniz. Bu nedenle, verilerin yalnızca bir kısmı yeni telefonunuza kopyalandı.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Kopyalamayı durdurmayı seçtiğinizden yeni telefonunuza hiçbir veri kopyalanmadı.</string>
+    <string name="data_copied_fragment_description_error">Bir sorun oluştuğundan her şey kopyalanamadı.</string>
+    <string name="data_copied_fragment_description_error_no_data">Bir sorun oluştuğundan verileriniz kopyalanamadı.</string>
+    <string name="data_copied_fragment_no_data_title">Kopyalanamadı</string>
+    <string name="data_copied_fragment_some_data_title">Bazı veriler kopyalandı</string>
+    <string name="data_copied_fragment_title">Veri kopyalandı</string>
+    <string name="device_not_supported_fragment_new_device">Yeni bir telefona bağlandınız. Devam etmek için önceki telefonunuza tekrar bağlanın.</string>
+    <string name="device_not_supported_fragment_new_device_title">Önceki telefona yeniden bağlanın</string>
+    <string name="device_not_supported_fragment_no_data_cable">Bu kablodan veri aktarımı yapılamaz. Farklı bir kablo kullanarak yeniden bağlayın ve tekrar deneyin.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Başka bir kablo deneyin</string>
+    <string name="device_not_supported_fragment_retry_description">Eski telefonunuzun kilidinin açık olduğundan emin olun ve sonra kabloyu çıkartıp yeniden takın</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Bir sorun oluştu</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® cihazınız denetlenen bir cihaz olduğundan verileri kopyalamak için başka bir yol bulmanız gerekecek</string>
+    <string name="device_picker_skip">Geri yükleme</string>
+    <string name="durationDayHour">%1$d gün %2$d saat</string>
+    <string name="durationDayHours">%1$d gün %2$d saat</string>
+    <string name="durationDays">%1$d gün</string>
+    <string name="durationHourMinute">%1$d saat %2$d dakika</string>
+    <string name="durationHourMinutes">%1$d saat %2$d dakika</string>
+    <string name="durationHours">%1$d saat</string>
+    <string name="durationMinute">%1$d dakika</string>
+    <string name="durationMinutes">%1$d dakika</string>
+    <string name="encryption_warning_fragment_description">"iPhone® cihazınızda yedekleme şifreleme özelliği açık. Bu özelliği siz açmadıysanız BT yöneticiniz tarafından açılmış olabilir.
+
+Yalnızca fotoğraf, müzik ve videolar kopyalanabilir. Daha fazla bilgi edinmek için "<b>g.co/datatransferhelp</b> adresini ziyaret edin.</string>
+    <string name="encryption_warning_fragment_title">Yedekleme şifreleme özelliği</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Adaptörü bulamıyorum</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"^1 cihazınızla birlikte verilen Quick Switch Adapter'ı bulun.
+
+Kabloyu adaptöre takın."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Adaptör ve kabloyu bağlayın</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Eski telefonunuzun kilidini açın ve ardından adaptörü bu telefona takın.</string>
+    <string name="fragment_usb_connect_both_phones_title">Telefonları birbirine bağlayın</string>
+    <string name="fragment_usb_dialog_cancel_description">En çok içeriği kablo kullanarak alırsınız. Ürünle birlikte verilen kablolar uymazsa eski telefonunuzda çalışan bir şarj veya veri kablosunu kullanabilirsiniz.</string>
+    <string name="fragment_usb_dialog_cancel_title">Veriler başka bir yöntemle kopyalansın mı?</string>
+    <string name="fragment_usb_dont_copy">Kopyalama</string>
+    <string name="fragment_usb_dont_have_cable">Kablom yok</string>
+    <string name="fragment_usb_dont_have_old_phone">eski telefonu kullanamıyor musunuz?</string>
+    <string name="fragment_usb_find_cable_description">Veri veya şarj kablonuz gibi eski telefonunuza uyan bir kablo kullanın.</string>
+    <string name="fragment_usb_find_cable_title">Doğru kabloyu bulun</string>
+    <string name="fragment_usb_initial_description">Eski Android veya iPhone® cihazınıza ihtiyacınız olacak. Eski cihazı açın ve kilidini açık tutun.</string>
+    <string name="fragment_usb_initial_title">Eski telefonunuzu alın</string>
+    <string name="fragment_usb_legacy_description">"Bu, en fazla veriyi en hızlı şekilde aktarma yöntemidir.
+
+Ürünle birlikte verilen adaptörü yeni telefonunuza takın. Telefonları bir kabloyla bağlayın ve ardından eski telefonunuzun kilidini açın."</string>
+    <string name="fragment_usb_missing_data_description">"Aktarım sırasında Pixel'inizi kurma işlemine devam edebilirsiniz."</string>
+    <string name="fragment_usb_missing_data_title">Şimdi verilerinizi kopyalayalım</string>
+    <string name="fragment_usb_other_ways">Kablo kullanmadan kopyala</string>
+    <string name="fragment_usb_plug_cable">Kabloyu eski telefonunuza takın</string>
+    <string name="fragment_waiting_title">Bir saniye…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kişiler senkronize edilecek</string>
+    <string name="google_contacts_static_text_off">Google Kişiler yine de senkronize edilecek</string>
+    <string name="i_message_dialog_message">"iPhone® cihaz kullanıcılarından SMS mesajları almaya devam etmek için iMessage® hizmetini kapatmanız gerekir.
+
+Talimatlar için "<b>g.co/iMessageHelp</b> adresini ziyaret edin.</string>
+    <string name="instructions_fragment_title">Diğer telefonunuzda devam edin</string>
+    <string name="ios_connected_fragment_description">"Sonraki ekranda Google Hesabınızda oturum açabilir veya yeni bir hesap oluşturabilirsiniz.
+
+Google Hesabınızı eklemezseniz iOS Calendar® etkinlikleri aktarılmaz."</string>
+    <string name="ios_message_attachment_explanation">"[İletideki ekler, Google Fotoğraflar > Cihaz klasörleri > İleti ekleri'ne kaydedildi]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Bazı ekler kopyalanamadı. Aktarılan ekler Google Fotoğraflar > Cihaz klasörleri > İleti ekleri'nde bulunabilir]"</string>
+    <string name="ios_message_attachment_placeholder">"[Ek, Google Fotoğraflar > Cihaz klasörleri > İleti ekleri'ne kaydedildi]"</string>
+    <string name="ios_message_attachments_placeholder">"[Ekler, Google Fotoğraflar > Cihaz klasörleri > İleti ekleri'ne kaydedildi]"</string>
+    <string name="ios_migration_default_calendar_title">Takvim</string>
+    <string name="ios_migration_other_contact_relation">Diğer</string>
+    <string name="ios_photos_dialog_message">"iCloud® üzerinde depolanan fotoğraflar kopyalanamaz.
+
+Bu fotoğrafları ^1 cihazınıza almak için iPhone® cihazınızda Google Fotoğraflar uygulamasını yükleyin ve Yedekle ve senkronize et seçeneğini açın. Daha fazla talimat için "<b>g.co/datatransferhelp</b> adresini ziyaret edin.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_smartdevice_action_next">Sonraki</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Tümü</string>
+    <string name="photos_filtering_option_none">Hiçbiri</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopyalanan kişiler Google Hesabınıza kaydedilecek.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopyalanan kişiler ve takvimler Google Hesabınıza kaydedilecek.</string>
+    <string name="restore_choice_data_disclaimer_v2">Bazı verileriniz ^1 cihazınıza kopyalanmamış olabilir. <annotation id="restore_choice_data_disclaimer_learn_more">Daha fazla bilgi</annotation></string>
+    <string name="restore_choice_deselect_some_content">Devam etmek için bazı içeriklerin seçimini kaldırın</string>
+    <string name="restore_choice_learn_more_android">"Eski telefonunuzdaki bazı veriler otomatik olarak kopyalanamıyor:
+
+ ● İndirilenler (ör. PDF dosyaları)
+
+ ● Gizli klasörlerde saklanan fotoğraflar, videolar ve müzik
+
+ ● Kısa mesaj yoluyla alınan fotoğraflar, videolar ve müzik
+
+ ● Google Play Store'dan olmayan uygulamalar
+
+ ● Uygulama verileri (uygulama Android yedeklemesini kullanmıyorsa)
+
+ ● Belirli cihaz ayarları
+
+ ● Google Hesapları dışındaki hesaplar (ve bunlarla ilişkilendirilen veriler)
+
+ ● Google dışındaki hizmetlerle senkronize edilen kişiler ve takvimler
+
+ ● Zil sesleri
+
+ Daha ayrıntılı bilgi ve bu verilerin bazılarının kopyalanmasıyla ilgili yardım için g.co/datatransferhelp adresini ziyaret edin."</string>
+    <string name="restore_choice_learn_more_ios">"Eski telefonunuzdaki bazı veriler otomatik olarak kopyalanamıyor:
+
+ ● Uygulamalar ve uygulama verileri
+
+ ● Telefonunuzda orijinali bulunmayan fotoğraflar (örneğin, Depolama Alanını Optimize Et ayarı açıksa orijinal fotoğraflar iCloud®'da saklanır)
+
+ ● iCloud®'da saklanan dosyalar ve dokümanlar
+
+ ● Cihaz ayarları (ör. kablosuz ağ şifreleri ve duvar kağıdı)
+
+ ● Dijital Haklar Yönetimi (DRM) korumasıyla korunan müzikler (örneğin, Nisan 2009'dan önce satın alınmış iTunes® müzikleri veya bir müzik akışı uygulamasında çevrimdışı dinlemek için indirilen müzikler)
+
+ ● Google Hesapları dışındaki hesaplar (ve bunlarla ilişkilendirilen veriler)
+
+ ● Google veya iCloud® dışındaki hizmetlerle senkronize edilen kişiler ve takvimler
+
+ ● Safari®'deki yer işaretleri
+
+ iMessage® ekleri, Google Fotoğraflar > Cihaz klasörleri > Mesaj ekleri seçeneğinde bulunabilir.
+
+ Daha ayrıntılı bilgi ve bu verilerin bazılarının kopyalanmasıyla ilgili yardım için g.co/datatransferhelp adresini ziyaret edin."</string>
+    <string name="restore_choice_not_enough_space">Yeterli alan yok</string>
+    <string name="restore_choice_total_text">(kullanılabilir toplam alanınız: %1$s) / aktarım süresi: %2$s</string>
+    <string name="restore_item_appdata">Uygulama verileri</string>
+    <string name="restore_item_calendar">Takvim</string>
+    <string name="restore_item_calendar_ical_description">iOS® Takvim, Google Takvim</string>
+    <string name="restore_item_calendar_ical_off_description">Google Takvim yine de senkronize edilecek</string>
+    <string name="restore_item_calendar_sync_description">Google Takvim senkronize edilecek</string>
+    <string name="restore_item_call_logs">Çağrı geçmişi</string>
+    <string name="restore_item_contacts">Kişiler</string>
+    <string name="restore_item_device_settings_description">Kablosuz bağlantı şifreleri ve diğer ayarlar</string>
+    <string name="restore_item_downloads">İndirilenler</string>
+    <string name="restore_item_email">E-posta</string>
+    <string name="restore_item_email_description">Gmail senkronize edilecek</string>
+    <string name="restore_item_message_attachments">İleti ekleri</string>
+    <string name="restore_item_messages">İletiler</string>
+    <string name="restore_item_music">Müzik</string>
+    <string name="restore_item_photos">Fotoğraflar ve videolar</string>
+    <string name="restore_item_settings">Cihaz ayarları</string>
+    <string name="restore_item_sms">SMS mesajları</string>
+    <string name="restore_item_will_be_synced_text">Bu işlem, verileri telefonunuzla senkronize edecek</string>
+    <string name="restore_progress_title">Geri yükleniyor…</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="small_time_duration">1 dakikadan az</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Kapat</string>
+    <string name="stop_copying_dialog_message_before_transfer">Verileriniz yeni telefonunuza kopyalanmadı</string>
+    <string name="stop_copying_dialog_message_during_transfer">Verilerinizden bazıları yeni telefonunuza kopyalanmadı</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Kopyalama</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Durdur</string>
+    <string name="stop_copying_dialog_title_before_transfer">Kopyalanmasın mı?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopyalama durdurulsun mu?</string>
+    <string name="suw_back_button_label">Geri</string>
+    <string name="suw_more_button_label">Diğer</string>
+    <string name="suw_next_button_label">İleri</string>
+    <string name="target_default_source_device_model">eski cihaz</string>
+    <string name="target_device_not_supported_cant_continue_description">Verileri kopyalamak için başka bir yöntem seçmelisiniz</string>
+    <string name="target_device_not_supported_cant_continue_title">Diğer telefon desteklenmiyor</string>
+    <string name="target_device_not_supported_try_restarting_description">"Kabloyu çıkarın ve eski telefonunuzu yeniden başlatın, ardından kabloyu yeniden bağlayıp Pixel'inizdeki talimatları uygulayın.
+
+Bu hatayı görmeye devam ederseniz kopyalama işlemini başka bir şekilde yapmanız gerekebilir."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon desteklenmeyebilir</string>
+    <string name="target_pixelmigrate_notification_description">Kullanılabilir veya işlem devam ediyor</string>
+    <string name="target_pixelmigrate_notification_title">Veri aktarımı</string>
+    <string name="target_smart_device_timeout_add_account">HESAP EKLE</string>
+    <string name="target_smart_device_timeout_description">İsterseniz hesabınızı manuel olarak eklemeyi deneyebilirsiniz</string>
+    <string name="target_smart_device_timeout_dismiss">KAPAT</string>
+    <string name="target_smart_device_timeout_title">Sorun mu yaşıyorsunuz?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonlar bağlandı</string>
+    <string name="toast_reconnect_cable">Kablonuzu yeniden takın</string>
+    <string name="transfer_finished_fragment_title">Son rötuşlar yapılıyor...</string>
+    <string name="transfer_summary_copied">Veriler kopyalandı</string>
+    <string name="transfer_summary_fragment_description">Kablonun bağlantısını kesebilirsiniz.</string>
+    <string name="transfer_summary_fragment_finish">SON</string>
+    <string name="transfer_summary_fragment_title">Telefonunuz neredeyse hazır</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Fotoğraflarınızdan bazıları kopyalanmadı. <annotation id="transfer_summary_learn_more">Daha fazla bilgi</annotation></string>
+    <string name="transfer_summary_not_copied">Veriler kopyalanmadı</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Kopyalandı</string>
+    <string name="transfer_summary_will_sync">Veriler kurulumdan sonra senkronize edilecek</string>
+    <string name="transferring_fragment_calculating_remaining_time">Kalan süre hesaplanıyor...</string>
+    <string name="transferring_fragment_header">Kopyalanıyor...</string>
+    <string name="transferring_fragment_remaining_time">%1$s kaldı</string>
+    <string name="trust_instructions_description">Devam etmek için iPhone® cihazınızı kontrol edin ve bağlantıyı onaylayın</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari ve iTunes, Apple Inc. şirketinin ABD'de ve diğer ülkelerde tescilli ticari markalarıdır."</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Isilinganiso sakho: %1$s izinkanyezi</item>
+        <item quantity="one">Isilinganiso sakho: %1$s izinkanyezi</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d izibuyekezo</item>
+        <item quantity="one">%1$d izibuyekezo</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d izibuyekezo zesilinganiso senkanyezi %2$d</item>
+        <item quantity="one">%1$d izibuyekezo zesilinganiso senkanyezi %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Ukufaka kumiswe kancane</item>
+        <item quantity="one">Ukufaka kumiswe kancane</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Izinhlelo zokusebenza ziskenwe ezinsukwini ezingu-%1$d ezedlule</item>
+        <item quantity="one">Izinhlelo zokusebenza ziskenwe ezinsukwini ezingu-%1$d ezedlule</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d izinhlelo zokusebenza eziyingozi zisusiwe. %2$s.</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza eziyingozi zisusiwe. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d izibuyekezo zidinga imvume</item>
+        <item quantity="one">%1$d izibuyekezo zidinga imvume</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d izibuyekezo</item>
+        <item quantity="one">%1$d izibuyekezo</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d izibuyekezo ziyatholakala</item>
+        <item quantity="one">%1$d izibuyekezo ziyatholakala</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Buyekeza konke</item>
+        <item quantity="one">Buyekeza konke</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d izinhlelo zokusebenza zibuyekeziwe</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza zibuyekeziwe</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s izinkanyezi</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s izinkanyezi</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s izinkanyezi - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s izinkanyezi - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s izinkanyezi - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s izinkanyezi - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d abasebenzis bathole lesi sibuyekezo silusizo. Maka amazwana njengalusizo</item>
+        <item quantity="one">%1$d abasebenzis bathole lesi sibuyekezo silusizo. Maka amazwana njengalusizo</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d abasebenzis bathole lesi sibuyekezo silusizo. Susa ukumaka amazwana njengalusizo</item>
+        <item quantity="one">%1$d abasebenzis bathole lesi sibuyekezo silusizo. Susa ukumaka amazwana njengalusizo</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Uyilinganisele &lt;b>%1$s izinkanyezi&lt;/b></item>
+        <item quantity="one">Uyilinganisele &lt;b>%1$s izinkanyezi&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">kuzibuyekezo ezingu-%1$s</item>
+        <item quantity="one">kuzibuyekezo ezingu-%1$s</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s izinkanyezi&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s izinkanyezi&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Kusetshenziswe kokugcina izinsuku ezingu-%1$d ezedlule</item>
+        <item quantity="one">Kusetshenziswe kokugcina izinsuku ezingu-%1$d ezedlule</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Buyisela izinhlelo zokusebenza ezikhethiwe ezingu-%1$d</item>
+        <item quantity="one">Buyisela izinhlelo zokusebenza ezikhethiwe ezingu-%1$d</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">izinkanyezi</item>
+        <item quantity="one">izinkanyezi</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Izinhlelo zokusebenza zizofakwa maduze.</item>
+        <item quantity="one">Izinhlelo zokusebenza zizofakwa maduze.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Izibuyekezo zohlelo lokusebenza luzofakwa maduze.</item>
+        <item quantity="one">Izibuyekezo zohlelo lokusebenza luzofakwa maduze.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Kusetshenziswe kokugcina izinsuku ezingu-%1$d ezedlule</item>
+        <item quantity="one">Kusetshenziswe kokugcina izinsuku ezingu-%1$d ezedlule</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Kusetshenzisiwe kokugcina izinyanga ezingu-%1$d ezedlule</item>
+        <item quantity="one">Kusetshenzisiwe kokugcina izinyanga ezingu-%1$d ezedlule</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Futhi ungakhulula isikhala ngokususa amafayela emidiya Kuzilungiselelo Zesitoreji.</item>
+        <item quantity="one">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Futhi ungakhulula isikhala ngokususa amafayela emidiya</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Futhi ungakhulula isikhala ngokususa amafayela emidiya &lt;a href=\"\">Kuzilungiselelo > Isitoreji&lt;/a>.</item>
+        <item quantity="one">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Futhi ungakhulula isikhala ngokususa amafayela emidiya &lt;a href=\"\">Kuzilungiselelo > Isitoreji&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Ungaphinda ukhulule isikhala ngokususa amafayela emidiya Kuzilungiselelo > Isitoreji.</item>
+        <item quantity="one">Ukuze ufake izinhlelo zokusebenza noma ufake izibuyekezo kule divayisi, sula izinhlelo zokusebenza ongasazidingi. Ungaphinda ukhulule isikhala ngokususa amafayela emidiya Kuzilungiselelo > Isitoreji.</item>
+    </plurals>
+</resources>

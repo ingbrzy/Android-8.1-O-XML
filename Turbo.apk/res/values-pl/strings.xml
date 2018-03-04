@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">Wyczyść wyszukiwanie</string>
+    <string name="place_autocomplete_search_hint">Szukaj</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
+    <string name="common_google_play_services_enable_button">Włącz</string>
+    <string name="common_google_play_services_enable_text">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
+    <string name="common_google_play_services_enable_title">Włącz Usługi Google Play</string>
+    <string name="common_google_play_services_install_button">Zainstaluj</string>
+    <string name="common_google_play_services_install_text">%1$s nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play.</string>
+    <string name="common_google_play_services_install_title">Pobierz Usługi Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Błąd Usług Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie.</string>
+    <string name="common_google_play_services_update_button">Aktualizuj</string>
+    <string name="common_google_play_services_update_text">Aplikacja %1$s nie będzie działać, jeśli nie zaktualizujesz Usług Google Play.</string>
+    <string name="common_google_play_services_update_title">Zaktualizuj Usługi Google Play</string>
+    <string name="common_google_play_services_updating_text">Aplikacja %1$s nie będzie działać bez Usług Google Play, które są obecnie aktualizowane.</string>
+    <string name="common_google_play_services_wear_update_text">Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja.</string>
+    <string name="common_open_on_phone">Otwórz na telefonie</string>
+    <string name="common_signin_button_text">Zaloguj się</string>
+    <string name="common_signin_button_text_long">Zaloguj się przez Google</string>
+    <string name="anomaly_entry_system">System Android</string>
+    <string name="background_battery_usage_description">Wykryto wysokie wykorzystanie baterii w tle</string>
+    <string name="battery_history_days">%1$d d. %2$d godz. %3$d min %4$d s</string>
+    <string name="battery_history_hours">%1$d godz. %2$d min %3$d s</string>
+    <string name="battery_history_minutes">%1$d min %2$d s</string>
+    <string name="battery_history_seconds">%1$d s</string>
+    <string name="battery_history_days_no_seconds">%1$d d. %2$d godz. %3$d min</string>
+    <string name="battery_history_hours_no_seconds">%1$d godz. %2$d min</string>
+    <string name="battery_history_minutes_no_seconds">%1$d min</string>
+    <string name="notification_channel_name">Powiadomienie o słabej baterii</string>
+    <string name="time_remaining_warning_subtext">Jeszcze około %1$s (na podstawie Twojego sposobu korzystania)</string>
+    <string name="time_remaining_warning_text">Bateria może się wkrótce wyczerpać</string>
+    <string name="usage_alerts_empty_state">Brak alertów od ostatniego pełnego naładowania baterii</string>
+    <string name="usage_alerts_title">Alerty dotyczące baterii</string>
+</resources>

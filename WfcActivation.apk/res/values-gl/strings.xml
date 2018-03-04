@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Seguinte</string>
+    <string name="suw_back_button_label">Atrás</string>
+    <string name="suw_more_button_label">Máis</string>
+    <string name="vzw_wfc_activation_error">Non se puideron activar as chamadas por wifi. Téntao de novo máis tarde.</string>
+    <string name="vzw_address_update_error">Produciuse un erro ao actualizar o enderezo de urxencia actual neste momento. Téntao de novo máis tarde.</string>
+    <string name="emergency_address_app_label">Xestión do enderezo de urxencia</string>
+    <string name="progress_text">Agarda...</string>
+    <string name="vzw_tos_title">Activar Chamadas por wifi</string>
+    <string name="cancel">Cancelar</string>
+    <string name="vzw_tos_text">"A función Chamadas por wifi permíteche chamar mediante unha conexión wifi cando a rede de telefonía móbil non estea dispoñible.
+
+Para configurar Chamadas por wifi, debes introducir un enderezo estadounidense. Os servizos de urxencias da túa localización utilizarano se realizas unha chamada de urxencia (E911) por wifi desde este teléfono en Estados Unidos.
+
+É recomendable que cambies este enderezo se chamas desde outra rede wifi, para que os datos de localización sexan precisos. Podes cambiar a localización en calquera momento no menú de configuración Chamadas por wifi."</string>
+    <string name="vzw_tos_link">Termos e condicións</string>
+    <string name="tos_continue">Continuar</string>
+    <string name="vzw_e911_title">Datos de localización para urxencias</string>
+    <string name="vzw_e911_description"><b>IMPORTANTE: O ENDEREZO DE URXENCIA PARA O 911 É OBRIGATORIO</b>"
+Para activar Chamadas por wifi, introduce o enderezo estadounidense ao que queiras que acudan os servizos de urxencias se chamas ao 911. Podes cambiar o enderezo en calquera momento en Configuración. É moi importante que o actualices sempre que cambies de localización."</string>
+    <string name="vzw_e911_warning"><b>ADVERTENCIA: RESTRICIÓNS DE CHAMADAS DE URXENCIA AO 911</b>"
+Se chamas ao 911, indícalle sempre ao operador onde estás. A chamada ao 911 só se realizará por wifi se a rede de telefonía móbil non está dispoñible. As chamadas por wifi ao 911 poden fallar ou sufrir atrasos, por exemplo, se o sistema do 911 non recoñece o enderezo, se hai cortes de electricidade ou se a túa conexión wifi non funciona. Os servizos de urxencias dirixiranse ao enderezo que indicaches anteriormente, polo que debes actualizalo se cambias de localización."</string>
+    <string name="house_number">Número de enderezo</string>
+    <string name="street">Rúa</string>
+    <string name="apt_suite_number">Apartamento, suite, etc.</string>
+    <string name="city">Cidade</string>
+    <string name="state">Estado</string>
+    <string name="zip_code">Código postal</string>
+    <string name="save">Gardar</string>
+    <string name="vzw_address_confirm_text_part1">Non se puido atopar o enderezo que introduciches porque non se encontrou o enderezo postal ou porque posiblemente a cidade, o estado ou o código postal sexan incorrectos.</string>
+    <string name="vzw_address_confirm_text_part2">Se é así, toca %1$s; en caso contrario, toca %2$s.</string>
+    <string name="save_anyway">Gardar de todas formas</string>
+    <string name="edit_address">Editar enderezo</string>
+    <string name="ok">ACEPTAR</string>
+    <string name="vzw_address_select_text">Non se puido atopar o enderezo que introduciches:</string>
+    <string name="vzw_address_alternate_text">Quizais querías dicir:</string>
+    <string name="vzw_partial_confirm_head">Os fornecedores de servizo de urxencias non puideron validar o enderezo introducido.</string>
+    <string name="vzw_partial_confirm_text">Seguro que queres utilizar este enderezo en caso de urxencia?</string>
+    <string name="vzw_partial_failure_text_part1">É posible que a cidade, o estado ou o código postal que introduciches sexan incorrectos.</string>
+    <string name="vzw_partial_failure_text_part2">Comproba o enderezo e téntao de novo.</string>
+    <string name="vzw_address_update_success_toast">Actualizouse o enderezo de urxencias</string>
+    <string name="connect_to_wifi_or_web_portal_title">A wifi está desactivada</string>
+    <string name="connect_to_wifi_or_web_portal_message">Coa rede de telefonía móbil podes configurar a opción Chamadas por wifi, pero terás que activar a wifi e conectarte a unha rede para utilizar esta función.</string>
+    <string name="button_turn_on_wifi">Activar wifi</string>
+    <string name="button_setup_web_portal">Continuar coa configuración</string>
+</resources>

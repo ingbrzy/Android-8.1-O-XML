@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Suivant</string>
+    <string name="suw_back_button_label">Précédent</string>
+    <string name="suw_more_button_label">Plus</string>
+    <string name="vzw_wfc_activation_error">"Impossible d'activer les appels Wi-Fi. Veuillez réessayer plus tard."</string>
+    <string name="vzw_address_update_error">"Impossible de mettre à jour l'adresse d'urgence actuelle pour le moment. Veuillez réessayer plus tard."</string>
+    <string name="emergency_address_app_label">"Gestion des adresses d'urgence"</string>
+    <string name="progress_text">Veuillez patienter…</string>
+    <string name="vzw_tos_title">Activer les appels Wi-Fi</string>
+    <string name="cancel">Annuler</string>
+    <string name="vzw_tos_text">"Les appels Wi-Fi vous permettent de faire des appels téléphoniques à l’aide d’un réseau Wi-Fi lorsque votre connexion cellulaire n'est pas accessible.
+
+Pour configurer les appels Wi-Fi, vous devez entrer une adresse. Cette adresse sera utilisée par les services d'urgence de votre région (911) si vous les appelez à partir de ce téléphone à l'intérieur des États-Unis.
+
+Nous vous recommandons d'actualiser cette adresse si vous faites des appels à partir d’un autre réseau Wi-Fi, afin que votre position soit connue. Vous pouvez changer votre adresse à tout moment dans le menu des paramètres des appels Wi-Fi."</string>
+    <string name="vzw_tos_link">"Conditions d'utilisation"</string>
+    <string name="tos_continue">Continuer</string>
+    <string name="vzw_e911_title">"Données sur l'adresse d'urgence"</string>
+    <string name="vzw_e911_description"><b>"IMPORTANT – ADRESSE D'URGENCE REQUISE POUR LE 911"</b>"
+Pour activer les appels Wi-Fi, entrez l'adresse où vous souhaitez que les services d'urgence arrivent si vous appelez des secours. Vous pouvez modifier cette adresse à tout moment dans vos paramètres. Il est important de la tenir à jour chaque fois que vous déménagez."</string>
+    <string name="vzw_e911_warning"><b>"AVERTISSEMENTS – LIMITE APPLICABLE AUX APPELS D'URGENCE AU 911"</b>"
+Lorsque vous composez un numéro d'urgence, indiquez toujours à l'opérateur où vous vous trouvez. Votre appel ne sera transféré sur Wi-Fi que si le réseau cellulaire n'est pas disponible. Les appels d'urgence effectués sur Wi-Fi peuvent être retardés, voire échouer (par exemple, si le système des numéros d'urgence ne reconnaît pas l'adresse, s'il y a une panne d'électricité, ou si votre connexion Wi-Fi ne fonctionne pas). Les services d'urgence seront envoyés à l'adresse fournie ci-dessus, alors veillez à la mettre à jour chaque fois que vous déménagez."</string>
+    <string name="house_number">Numéro municipal</string>
+    <string name="street">Rue</string>
+    <string name="apt_suite_number">Appartement, bureau, etc.</string>
+    <string name="city">Ville</string>
+    <string name="state">État</string>
+    <string name="zip_code">Code postal</string>
+    <string name="save">Enregistrer</string>
+    <string name="vzw_address_confirm_text_part1">"Nous n'avons pas trouvé l'adresse que vous avez entrée, car le numéro et le nom de la voie sont introuvables, ou la ville, l'État et le code postal sont incorrects."</string>
+    <string name="vzw_address_confirm_text_part2">Si votre ville, votre État et votre code postal sont incorrects, touchez %1$s. Sinon, touchez %2$s.</string>
+    <string name="save_anyway">Enregistrer quand même</string>
+    <string name="edit_address">"Modifier l'adresse"</string>
+    <string name="ok">Ok</string>
+    <string name="vzw_address_select_text">"Nous n'avons pas pu trouver l'adresse que vous avez entrée :"</string>
+    <string name="vzw_address_alternate_text">Vouliez-vous plutôt dire :</string>
+    <string name="vzw_partial_confirm_head">"L'adresse indiquée n'a pas pu être validée par les fournisseurs de services d'urgence."</string>
+    <string name="vzw_partial_confirm_text">"Voulez-vous vraiment utiliser cette adresse en cas d'urgence?"</string>
+    <string name="vzw_partial_failure_text_part1">"La ville, l'État ou le code postal entrés sont peut-être incorrects."</string>
+    <string name="vzw_partial_failure_text_part2">"Veuillez vérifier l'adresse, puis réessayez."</string>
+    <string name="vzw_address_update_success_toast">"Adresse d'urgence mise à jour"</string>
+    <string name="connect_to_wifi_or_web_portal_title">Le Wi-Fi est désactivé</string>
+    <string name="connect_to_wifi_or_web_portal_message">"Vous pouvez configurer les appels Wi-Fi à l'aide du réseau cellulaire, mais vous devez activer le Wi-Fi et vous connecter à un réseau pour utiliser cette fonctionnalité."</string>
+    <string name="button_turn_on_wifi">Activer le Wi-Fi</string>
+    <string name="button_setup_web_portal">Poursuivre la configuration</string>
+</resources>

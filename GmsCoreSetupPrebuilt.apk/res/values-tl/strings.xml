@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi sa/kay %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="app_has_in_app_purchases">Mga in-app na pagbili</string>
+    <string name="app_has_permissions">Mga Pahintulot: %s</string>
+    <string name="app_has_runtime_permissions">Hihingi ang app ng mga pahintulot</string>
+    <string name="app_picker_app_already_installed_toast">Na-install na ang app na ito</string>
+    <string name="app_picker_loading">Naghahanap ng mga available na app…</string>
+    <string name="app_picker_loading_toast">Malapit nang mag-load ang mga available na app</string>
+    <string name="app_picker_no_apps">Walang mga napiling app</string>
+    <string name="app_picker_no_apps_found">Walang nakitang app</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Hindi maililipat sa iyong ^1 ang mga in-app na pagbili.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Maaaring hindi malipat sa iyong ^1 ang ilang in-app na pagbili.</string>
+    <string name="apps_permissions_described_v2">"Tanging mga sikat at libreng iOS® app lang ang maitutugma sa mga Android app. Hindi maililipat ang karamihan ng mga in-app na pagbili. Makakakita ka ng higit pang app sa Play Store kapag tapos na ang pag-set up.
+
+Maaaring kailanganin mong bigyan ang ilang app ng paunang pahintulot na i-access ang mga partikular na kakayahan o impormasyon sa iyong device. Nakaayos ang mga pahintulot ayon sa mga pangkat ng pahintulot. Sa pamamagitan ng pagpili na i-install ang mga app na ito, tinatanggap mo ang mga pahintulot na bahagi ng bawat pangkat. Nasa ibaba ang paglalarawan ng bawat pangkat ng mga pahintulot.
+
+Maaaring hindi kailangan ng ilang app ng paunang pagtanggap ng mga pahintulot. Kapag ginamit mo ang isa sa mga app na ito, maaari mong payagan o tanggihan ang indibidwal na pahintulot bago gamitin ng app ang ganoong uri ng data.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Sa pamamagitan ng pag-install sa bawat app, sumasang-ayon ka sa mga pahintulot nito. <annotation id="apps_permissions_learn_more">Matuto pa</annotation></string>
+    <string name="auto_restore_summary">Kapag muling nag-i-install ng isang app, i-restore ang mga na-backup na setting at data</string>
+    <string name="auto_restore_title">Awtomatikong pag-restore</string>
+    <string name="backup_configure_account_default_summary">Sa kasalukuyan, walang account na nag-iimbak ng na-backup na data</string>
+    <string name="backup_configure_account_title">I-back up ang account</string>
+    <string name="backup_data_summary">I-back up ang data ng app, mga password ng Wi‑Fi at iba pang mga setting sa Google Drive</string>
+    <string name="backup_data_summary_full">"Awtomatikong i-back up ang data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at ang data ng app (gaya ng mga setting at file na naimbak ng mga app) nang malayuan.
+
+Kapag na-on mo ang awtomatikong pag-backup, pana-panahong mase-save ang data ng device at app nang malayuan. Ang data ng app ay maaaring maging anumang data na na-save ng isang app (batay sa mga setting ng developer), kasama ang potensyal na sensitibong data gaya ng mga contact, mensahe at larawan."</string>
+    <string name="backup_data_title">I-back up sa Google Drive</string>
+    <string name="backup_erase_dialog_message">Gusto mo bang ihinto ang pagba-backup sa mga password ng iyong Wi‑Fi, bookmark, iba pang mga setting at data ng app, at burahin ang lahat ng kopya sa Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Gusto mo bang ihinto ang pagba-back up sa data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at data ng app (gaya ng mga setting at file na naimbak ng mga app), at burahin ang lahat ng kopya sa Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Nagkaroon ng error sa pagbubukas sa mga setting ng mga larawan</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kapag na-on mo ang awtomatikong pag-back up:
+
+ ● Paminsan-minsang nase-save ang mga setting ng device at data ng app sa isang pribadong folder sa Google Drive. Ang data ng app ay maaaring kahit anong data na na-save ng isang app (batay sa mga setting ng developer), kasama na ang mga posibleng sensitibong data gaya ng mga contact, mensahe at larawan.
+
+ Hindi iba-back up ang malalaking file o mga file na napili ng mga developer na hindi isama sa serbisyo.
+
+ ● Naka-sync sa iyong library sa Google Photos ang mga larawan at video recording na nasa device na ito upang maghanap, mag-edit, mag-delete at magbahagi mula sa alinman sa iyong mga device.
+
+ Bilang default, ina-upload ang mga larawan at video na may full resolution. Hindi ibinabawas sa quota ng storage ng iyong Drive ang mga ito.
+
+ ● Naka-sync sa Google Contacts ang mga contact at nauugnay na data na nasa device na ito. Magagamit mo ang Google Contacts app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa alinman sa iyong mga device.
+
+ ● Naka-sync sa Google Calendar ang mga entry sa kalendaryo at nauugnay na data na nasa device na ito. Magagamit mo ang Google Calendar app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa alinman sa iyong mga device.
+
+ Hindi ibabawas sa quota ng storage ng iyong Drive ang data sa pag-back up."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kapag na-on mo ang awtomatikong pag-backup:
+
+ ● Pana-panahong sine-save sa isang pribadong folder sa Google Drive ang mga setting ng device at data ng app. Ang data ng app ay maaaring anumang data na na-save ng app (batay sa mga setting ng developer), kabilang ang potensyal na sensitibong data tulad ng mga contact, mensahe at larawan.
+
+ Hindi maba-back up ang malalaking file o mga file na pinili ng mga developer na hindi isama sa serbisyo.
+
+ ● Sini-sync sa Google Contacts ang mga contact at nauugnay na data mula sa device na ito. Maaari mong gamitin ang Google Contacts app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa anuman sa iyong mga device.
+
+ ● Sini-sync sa Google Calendar ang mga entry sa kalendaryo at nauugnay na data. Maaari mong gamitin ang Google Calendar app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa anuman sa iyong mga device.
+
+ Hindi mabibilang ang data ng backup sa iyong quota sa storage ng Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">Naka-sync sa iyong Google Account ang kalendaryo, mga contact, mga larawan at mga video, at maaaring gamitin ang mga ito sa lahat ng serbisyo.</string>
+    <string name="backup_opt_in_backup_description_v2">Tinitiyak ng awtomatikong pag-backup na madali kang makakapag-restore o makakapagpalit ng mga telepono anumang oras. <annotation id="backup_opt_in_learn_more">Matuto pa</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Io-off nito ang pag-back up para sa:
+
+Mga app at data ng app
+History ng tawag
+Mga setting ng device
+Mga larawan at video
+SMS
+
+Patuloy na masi-sync sa iyong Google Account ang kalendaryo at mga contact. Kapag tapos na ang pag-set up, maaari mong baguhin ang mga setting ng pag-sync sa pamamagitan ng pagpunta sa "<annotation id="backup_opt_in_settings_instructions">Mga Setting > Mga Account > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">I-off ang backup?</string>
+    <string name="backup_opt_in_backup_list">"Mga app at data ng app
+Kalendaryo
+History ng tawag
+Mga Contact
+Mga setting ng device (kasama ang mga password sa Wi-Fi)
+Mga larawan at video
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Kasama sa backup ang:</string>
+    <string name="backup_opt_in_backup_title">I-back up sa Google Drive</string>
+    <string name="backup_opt_in_disable_backup">I-off ang backup</string>
+    <string name="backup_photos_update">Paki-update ang Google Photos</string>
+    <string name="backup_settings_activity_backup_title">Pag-back up</string>
+    <string name="backup_settings_activity_title">I-backup at i-reset</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Huwag kopyahin</string>
+    <string name="close_button_label">Isara</string>
+    <string name="cloud_restore_app_picker_button">I-restore</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Walang mga app ang iyong backup</string>
+    <string name="cloud_restore_app_picker_title">Pumili ng mga app na ire-restore</string>
+    <string name="common_accept">Tanggapin</string>
+    <string name="common_add_account_label">Magdagdag ng account</string>
+    <string name="common_ads_settings_title">Mga Ad</string>
+    <string name="common_agree">Sumasang-ayon</string>
+    <string name="common_app_name">Mga serbisyo ng Google Play</string>
+    <string name="common_asm_preferences_settings_title">Mga kagustuhan sa account</string>
+    <string name="common_asm_privacy_settings_title">Personal na info at privacy</string>
+    <string name="common_asm_security_settings_title">Pag-sign in at seguridad</string>
+    <string name="common_audience_edit_button_label">I-edit</string>
+    <string name="common_cancel">Kanselahin</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hindi masimulan ang Hangouts (error sa pahintulot).</string>
+    <string name="common_car_permission_desc">Access sa serbisyo ng kotse.</string>
+    <string name="common_car_permission_label">Serbisyo ng Kotse</string>
+    <string name="common_chips_label_empty_circles">Walang mga lupon</string>
+    <string name="common_chips_label_extended_circles">Mga extended na circle</string>
+    <string name="common_chips_label_only_you">Ikaw lang</string>
+    <string name="common_chips_label_public">Pampubliko</string>
+    <string name="common_chips_label_your_circles">Iyong mga circle</string>
+    <string name="common_choose_account_label">Pumili ng account</string>
+    <string name="common_clear_app_data_menu_item">I-clear ang data ng app</string>
+    <string name="common_connected">Nakakonekta</string>
+    <string name="common_connected_apps_settings_title">Mga nakakonektang app</string>
+    <string name="common_connecting">Kumokonekta…</string>
+    <string name="common_continue">Magpatuloy</string>
+    <string name="common_disagree">Hindi Sumasang-ayon</string>
+    <string name="common_disconnect">Idiskonekta</string>
+    <string name="common_done">Tapos Na</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Mula sa:</string>
+    <string name="common_games_settings_title">Mga Laro sa Play</string>
+    <string name="common_get_started">Magsimula</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">I-enable</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_title">I-enable ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_install_button">I-install</string>
+    <string name="common_google_play_services_install_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device.</string>
+    <string name="common_google_play_services_install_title">Kunin ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Nagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukang muli.</string>
+    <string name="common_google_play_services_unsupported_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device.</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_updating_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="common_google_play_services_updating_title">Serbisyo ng Google Play, nag-a-update</string>
+    <string name="common_google_play_services_wear_update_text">Kailangan ang bagong bersyon ng mga serbisyo ng Google Play. Mag-a-update itong mag-isa sa ilang sandali.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Na-install ang mga serbisyo ng Google Play na may maling architecture.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Na-install ang mga serbisyo ng Google Play na may architecture (%1$s) na naiiba sa architecture ng iyong device (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Maling architecture</string>
+    <string name="common_google_settings">Mga Setting ng Google</string>
+    <string name="common_google_settings_account">Account</string>
+    <string name="common_google_settings_credentials_title">Smart Lock para sa Mga Password</string>
+    <string name="common_google_settings_developer">Developer</string>
+    <string name="common_google_settings_services">Mga Serbisyo</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">I-install</string>
+    <string name="common_learn_more">Matuto pa</string>
+    <string name="common_list_apps_menu_help">Tulong</string>
+    <string name="common_list_apps_menu_help_and_feedback">Tulong at feedback</string>
+    <string name="common_loading">Naglo-load…</string>
+    <string name="common_location_settings_title">Lokasyon</string>
+    <string name="common_magictether_settings_title">Instant na Pagte-tether</string>
+    <string name="common_maps_settings_title">Maps at Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">Walang viewer upang magpakita ng external na url.</string>
+    <string name="common_more_options">Higit pang mga opsyon</string>
+    <string name="common_networking_settings_title">Networking</string>
+    <string name="common_no_browser_for_restricted_url">Pinaghihigpitan ang access. Walang nakitang browser.</string>
+    <string name="common_no_devices_found">Walang nakitang device</string>
+    <string name="common_no_network">Hindi available dahil offline ang device</string>
+    <string name="common_no_thanks">Hindi, salamat</string>
+    <string name="common_not_now">Hindi ngayon</string>
+    <string name="common_off">Naka-off</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Naka-on</string>
+    <string name="common_open_on_phone">Buksan sa telepono</string>
+    <string name="common_open_source_licenses">Mga open source na lisensya</string>
+    <string name="common_people_settings_title">Mga Contact</string>
+    <string name="common_permissions_enable_in_settings">I-enable sa Setting</string>
+    <string name="common_permissions_missing_end">Upang magpatuloy, buksan ang Mga Setting, pagkatapos ay ang Mga Pahintulot at payagan ang lahat ng nakalistang item.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Upang i-enable, pumunta sa
+Mga Setting >
+Mga Pahintulot >
+Mga serbisyo ng Google Play"</string>
+    <string name="common_permissions_missing_start">Hindi gagana nang maayos ang app na ito, maliban na lang kung papayagan mo ang kahilingan ng mga serbisyo ng Google Play na i-access ang mga sumusunod:</string>
+    <string name="common_permissions_open_settings">Buksan ang Setting</string>
+    <string name="common_phone">Telepono</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Patakaran sa privacy</string>
+    <string name="common_restore">I-restore</string>
+    <string name="common_retry">Subukang Muli</string>
+    <string name="common_search_settings_title">Maghanap</string>
+    <string name="common_security_ootp_setting_title">Panseguridad na code</string>
+    <string name="common_security_settings_title">Seguridad</string>
+    <string name="common_send">Ipadala</string>
+    <string name="common_sending">Ipinapadala…</string>
+    <string name="common_set_up_nearby_device_settings_title">Mag-set up ng kalapit na device</string>
+    <string name="common_settings">Mga Setting</string>
+    <string name="common_signin_button_text">Mag-sign in</string>
+    <string name="common_signin_button_text_long">Mag-sign in sa Google</string>
+    <string name="common_something_went_wrong">Nagkaroon ng problema</string>
+    <string name="common_system_info">Impormasyon ng system</string>
+    <string name="common_take_photo_label">Kumuha ng larawan</string>
+    <string name="common_terms_of_service">Mga tuntunin ng serbisyo</string>
+    <string name="common_try_again">Subukang muli</string>
+    <string name="common_turn_on_bluetooth">I-on ang Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">I-delete</string>
+    <string name="common_ui_confirm_deleting_checkbox">Nauunawaan ko at gusto ko itong i-delete</string>
+    <string name="common_unknown">Hindi Alam</string>
+    <string name="common_update">I-update</string>
+    <string name="common_url_load_unsuccessful_message">Hindi nakakonekta ang iyong Android device sa isang serbisyo ng data. Upang tingnan ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Hindi nakakonekta ang iyong Android device sa isang Wi-Fi network. Upang makita ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_login_notice">Mag-sign in bilang %1$s</string>
+    <string name="common_usage_and_diagnostics">Paggamit at diagnostics</string>
+    <string name="common_yesterday">Kahapon</string>
+    <string name="confirm_copy_button_text">Kopyahin</string>
+    <string name="contacts_number_device_and_icloud">%1$d (na) contact sa iCloud®, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts, %1$d (na) contact sa iCloud®, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts, %1$d (na) contact sa SIM, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_with_google">Google Contacts, %1$d (na) contact sa device</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d (na) contact sa iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacts, %1$d (na) contact sa SIM</string>
+    <string name="copy_confirmation_description">Kokopya ka ng data, tulad ng iyong Google Account at mga app, patungo sa bago mong telepono</string>
+    <string name="copy_confirmation_title">Kopyahin sa bago mong telepono?</string>
+    <string name="d2d_app_picker_description_no_apps">Wala kaming makitang anumang mga app</string>
+    <string name="d2d_app_picker_title">Mga App</string>
+    <string name="d2d_migration_canceled_on_source">Kinansela ang pagkopya</string>
+    <string name="data_copied_fragment_description">Nakopya na sa bago mong telepono ang iyong data. Maaari mo nang i-unplug ang cable.</string>
+    <string name="data_copied_fragment_description_cancel">Pinili mong huminto sa pagkopya, kaya ilang data lang ang nakopya sa bago mong telepono.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Pinili mong ihinto ang pagkopya, kaya walang nakopya sa bago mong telepono.</string>
+    <string name="data_copied_fragment_description_error">Nagkaproblema, kaya hindi namin makopya ang lahat.</string>
+    <string name="data_copied_fragment_description_error_no_data">Nagkaproblema, kaya hindi namin makopya ang iyong data.</string>
+    <string name="data_copied_fragment_no_data_title">Hindi makopya</string>
+    <string name="data_copied_fragment_some_data_title">Nakopya ang ilang data</string>
+    <string name="data_copied_fragment_title">Nakopya ang data</string>
+    <string name="device_backup_title">Pag-backup ng device</string>
+    <string name="device_not_supported_fragment_new_device">Nakakonekta ka sa isang bagong telepono. Upang magpatuloy, muling kumonekta sa naunang telepono.</string>
+    <string name="device_not_supported_fragment_new_device_title">Muling kumonekta sa naunang telepono</string>
+    <string name="device_not_supported_fragment_no_data_cable">Hindi nakakapaglipat ng data ang cable na ito. Muling kumonekta gamit ang ibang cable at subukang muli.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Sumubok ng isa pang cable</string>
+    <string name="device_not_supported_fragment_retry_description">Tiyaking naka-unlock ang iyong lumang telepono, pagkatapos ay idiskonekta at ikonektang muli ang cable</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Nagkaroon ng problema</string>
+    <string name="device_not_supported_ios_supervised_description">Dahil pinamamahalaan ang iyong iPhone® device, kakailanganin mong pumili ng iba pang paraan ng pagkopya ng data</string>
+    <string name="device_picker_description">Nakaimbak sa Google Drive ang mga backup</string>
+    <string name="device_picker_empty">Walang backup na naka-link sa %1$s.</string>
+    <string name="device_picker_empty_title">Walang nakitang backup</string>
+    <string name="device_picker_item">Backup ng %1$s</string>
+    <string name="device_picker_last_used">Huling ginamit ^1</string>
+    <string name="device_picker_skip">Huwag i-restore</string>
+    <string name="device_picker_title">Pumili ng backup na ire-restore</string>
+    <string name="disabled_by_admin_summary_text">Pinamamahalaan ng admin</string>
+    <string name="download_msg_error_invalid">Hindi na-configure nang wasto ang pag-download.</string>
+    <string name="download_msg_in_progress">Kasalukuyang nagda-download.</string>
+    <string name="download_msg_not_allowed_space">Wala nang sapat na espasyo upang isagawa ang pag-download.</string>
+    <string name="download_msg_pending">Nakabinbin ang pag-download.</string>
+    <string name="download_notification_description">Hiniling ito ng %1$s.</string>
+    <string name="download_notification_title">Kumukuha ng higit pang data</string>
+    <string name="drive_backup_account">Account</string>
+    <string name="drive_backup_apps_in_backup">Naka-back up na data ng app</string>
+    <string name="drive_backup_apps_last_backup">Huling pag-back up</string>
+    <string name="drive_backup_apps_loading">Naglo-load…</string>
+    <string name="drive_backup_apps_screen_title">Data ng app</string>
+    <string name="drive_backup_content_apps_title">Data ng app</string>
+    <string name="drive_backup_content_calendar_dialog_message">Masi-sync ang mga event na ginawa sa Google Calendar sa lahat ng device na naka-sign in sa iyong Google Account.</string>
+    <string name="drive_backup_content_calendar_title">Kalendaryo</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Kasama sa pag-backup ang petsa at tatanggap ng mga napadala at natanggap na tawag.</string>
+    <string name="drive_backup_content_callhistory_title">History ng tawag</string>
+    <string name="drive_backup_content_contacts_dialog_message">Masi-sync ang mga contact na ginawa sa Google Contacts sa lahat ng device na naka-sign in sa iyong Google Account.</string>
+    <string name="drive_backup_content_contacts_title">Mga Contact</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Kasama sa pag-backup ang configuration ng device, tulad ng wallpaper, mga password sa WiFi at mga default na app.</string>
+    <string name="drive_backup_content_devicesettings_title">Mga setting ng device</string>
+    <string name="drive_backup_content_header">Content</string>
+    <string name="drive_backup_content_photos_dialog_message">Napalitan ang iyong pangunahing backup na account. Maaari mo ring palitan ng %s ang back up na account ng Google Photos.</string>
+    <string name="drive_backup_content_photos_dialog_no">I-DISMISS</string>
+    <string name="drive_backup_content_photos_dialog_title">Gusto mo rin bang baguhin ang account ng mga larawan at video?</string>
+    <string name="drive_backup_content_photos_dialog_yes">BAGUHIN</string>
+    <string name="drive_backup_content_photos_title">Mga larawan at video</string>
+    <string name="drive_backup_content_sms_dialog_message">Kasama sa pag-backup ang mga napadala at natanggap na mensahe. Hindi nito isinasama ang media ng MMS.</string>
+    <string name="drive_backup_content_sms_title">Mga text message na SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Nagkaroon ng error sa pagkuha ng petsa ng huling pag-sync</string>
+    <string name="drive_backup_content_status_lastsaved">Huling pag-backup: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Huling pag-sync: %1$s</string>
+    <string name="drive_backup_content_status_never">Naghihintay na i-backup</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Mga setting ng pag-sync</string>
+    <string name="drive_backup_content_status_sync_off">NAKA-OFF ang pag-sync</string>
+    <string name="drive_backup_content_status_updating">Tinitingnan ang status…</string>
+    <string name="drive_backup_disabled_backuplist">"Kasama sa backup ang:
+\u0009- Mga app at data ng app
+\u0009- History ng tawag
+\u0009- Mga setting ng device (kasama ang mga password ng Wi-Fi)
+\u0009- Google Calendar
+\u0009- Google Contacts
+\u0009- Mga larawan at video
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Kasama sa iba-backup ang:
+\u0009- Mga app at data ng mga app
+\u0009- History ng tawag
+\u0009- Mga setting ng device (kasama ang mga password sa Wi-Fi)
+\u0009- Google Calendar
+\u0009- Google Contacts
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Na-disable ng iyong admin</string>
+    <string name="drive_backup_disabled_detailedinfo">"Sini-sync ang Google Calendar, Google Contacts, mga larawan at video sa iyong Google Account at maaaring gamitin ang mga ito sa mga serbisyo.
+
+Maaaring i-enable ang pag-sync kahit na naka-off ang pag-backup. Maaaring baguhin ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Sini-sync sa iyong Google Account ang Google Calendar at Google Contacts at magagamit sa mga serbisyo.
+
+Maaaring naka-enable ang pag-sync kahit na naka-off ang pag-backup. Maaaring baguhin ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_disabled_introduction">Tinitiyak ng awtomatikong pag-backup na madali kang makakapag-restore o makakalipat ng telepono anumang oras.</string>
+    <string name="drive_backup_settings_title">Pag-backup</string>
+    <string name="drive_backup_state">I-back up sa Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Permanenteng made-delete ang data ng backup ng device na ito sa Google Drive.
+
+Mananatiling available sa Google Drive ang mga larawan at video na na-back up na.
+
+Patuloy na masi-sync ang Google Calendar at Google Contacts sa iyong Google Account. Mababago ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Permanenteng made-delete ang data ng backup ng device na ito sa Google Drive.
+
+Patuloy na masi-sync sa iyong Google Account ang Google Calendar at Google Contacts. Mababago ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">I-off at i-delete</string>
+    <string name="drive_backup_state_dialog_title">I-off at i-delete ang backup?</string>
+    <string name="durationDayHour">%1$d araw %2$d oras</string>
+    <string name="durationDayHours">%1$d araw %2$d oras</string>
+    <string name="durationDays">%1$d (na) araw</string>
+    <string name="durationHourMinute">%1$d oras %2$d minuto</string>
+    <string name="durationHourMinutes">%1$d oras %2$d minuto</string>
+    <string name="durationHours">%1$d (na) oras</string>
+    <string name="durationMinute">%1$d minuto</string>
+    <string name="durationMinuteSecond">%1$d minuto %2$d segundo</string>
+    <string name="durationMinuteSeconds">%1$d minuto %2$d segundo</string>
+    <string name="durationMinutes">%1$d minuto</string>
+    <string name="durationSecond">%1$d segundo</string>
+    <string name="durationSeconds">%1$d segundo</string>
+    <string name="encryption_warning_fragment_description">"Naka-on ang pag-encrypt ng backup para sa iyong iPhone® device. Kung hindi ikaw mismo ang gumawa nito, maaaring na-on ito ng iyong IT admin.
+
+Tanging mga larawan lang, musika at video ang maaaring kopyahin. Para sa higit pang impormasyon, bisitahin ang "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Pag-encrypt ng backup</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Hindi ko mahanap ang adapter</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Hanapin ang Quick Switch Adapter na kasama sa parehong kahon ng iyong ^1.
+
+Ikabit ang cable sa adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Ikonekta ang adapter at cable</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">I-unlock ang luma mong telepono, pagkatapos ay isaksak ang adapter sa teleponong ito.</string>
+    <string name="fragment_usb_connect_both_phones_title">Ikonekta ang dalawang telepono</string>
+    <string name="fragment_usb_dialog_cancel_description">Mas marami kang content na makukuha kung gagamit ka ng cable. Kung hindi kasya ang mga cable na nasa kahon, subukang gumamit ng cable para sa pag-charge o data cable na gumagana sa luma mong telepono.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kopyahin ang data sa ibang paraan?</string>
+    <string name="fragment_usb_dont_have_cable">Wala akong cable</string>
+    <string name="fragment_usb_dont_have_old_phone">Wala sa akin ang luma kong telepono</string>
+    <string name="fragment_usb_find_cable_description">Gumamit ng cable na kasya sa luma mong telepono, gaya ng iyong data cable o cable para sa pag-charge.</string>
+    <string name="fragment_usb_find_cable_title">Hanapin ang tamang cable</string>
+    <string name="fragment_usb_initial_description">Maglipat ng data mula sa luma mong telepono patungo sa ^1 na ito.</string>
+    <string name="fragment_usb_initial_title">Kopyahin natin ang iyong data</string>
+    <string name="fragment_usb_legacy_description">"Ito ang pinakamabilis na paraan upang maipadala ang pinakamaraming data.
+
+Hanapin ang adapter sa kahon at ikabit ito sa bago mong telepono. Pagkonektahin ang mga telepono gamit ang isang cable, pagkatapos ay i-unlock ang luma mong telepono."</string>
+    <string name="fragment_usb_other_ways">Kopyahin nang walang cable</string>
+    <string name="fragment_usb_plug_cable">Ikabit ang cable sa luma mong telepono</string>
+    <string name="fragment_waiting_title">Sandali lang…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Magsi-sync ang Google Contacts</string>
+    <string name="google_contacts_static_text_off">Magsi-sync pa rin ang Google Contacts</string>
+    <string name="header_set_backup_account">Mag-set ng backup account</string>
+    <string name="i_message_dialog_message">"Upang patuloy na makatanggap ng mga SMS message mula sa mga user ng iPhone® device, kakailanganin mong i-off ang iMessage®.
+
+Bisitahin ang "<b>g.co/iMessageHelp</b> para sa mga tagubilin.</string>
+    <string name="instructions_fragment_title">Magpatuloy sa isa mo pang telepono</string>
+    <string name="ios_connected_fragment_description">"Sa susunod na screen, maaari kang mag-sign in sa iyong Google Account, o gumawa ng bago.
+
+Kung hindi mo idaragdag ang iyong Google Account, hindi malilipat ang mga kaganapan mo sa iOS Calendar®."</string>
+    <string name="ios_message_attachment_explanation">[Ang mga attachment sa iyong mensahe ay nasa Google Photos > Mga folder ng device > Mga attachment sa mensahe]</string>
+    <string name="ios_message_attachment_failed_explanation">[Hindi makopya ang ilang attachment. Ang mga attachment na nailipat ay makikita sa Google Photos > Mga folder ng device > Mga attachment sa mensahe]</string>
+    <string name="ios_message_attachment_placeholder">[Naka-save ang attachment sa Google Photos > Mga folder ng device > Mga attachment ng mensahe]</string>
+    <string name="ios_message_attachments_placeholder">[Naka-save ang mga attachment sa Google Photos > Mga folder ng device > Mga attachment ng mensahe]</string>
+    <string name="ios_migration_default_calendar_title">Kalendaryo</string>
+    <string name="ios_migration_other_contact_relation">Iba Pa</string>
+    <string name="ios_photos_dialog_message">"Hindi makokopya ang mga larawang nakaimbak sa iCloud®.
+
+Upang mailagay ang mga larawang ito sa iyong ^1, i-install ang Google Photos app sa iyong iPhone® device at i-on ang Pag-back up at pag-sync. Bisitahin ang "<b>g.co/datatransferhelp</b> para sa higit pang tagubilin.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Magdagdag ng account</string>
+    <string name="lockscreen_smartdevice_action_next">Susunod</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">I-unlock upang magpatuloy sa pagse-set up sa iyong telepono</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Para sa seguridad, kakailanganin mong kumpirmahin ang iyong lock ng screen upang magpatuloy sa pag-setup</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Kumpirmahin ang iyong lock ng screen</string>
+    <string name="manage_data_label">Google Account</string>
+    <string name="master_clear_title">Pag-reset ng factory data</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Kailangang itakda ang pang-backup na account</string>
+    <string name="notification_content_title_set_backup_account">Mag-backup</string>
+    <string name="notification_ticker_set_backup_account">Kailangan ng backup account</string>
+    <string name="permgrouplab_calendar">Kalendaryo</string>
+    <string name="permgrouplab_camera">Camera</string>
+    <string name="permgrouplab_contacts">Mga Contact</string>
+    <string name="permgrouplab_location">Lokasyon</string>
+    <string name="permgrouplab_microphone">Mikropono</string>
+    <string name="permgrouplab_phone">Telepono</string>
+    <string name="permgrouplab_sensors">Mga Sensor sa Katawan</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Storage</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Sa kasalukuyan, walang account na nag-iimbak ng mga na-backup na larawan</string>
+    <string name="photos_backup_title">Pag-backup ng mga larawan</string>
+    <string name="photos_filtering_option_all">Lahat</string>
+    <string name="photos_filtering_option_none">Wala</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Mase-save sa iyong Google Account ang mga nakopyang contact.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Mase-save sa iyong Google Account ang nakopyang mga contact at kalendaryo.</string>
+    <string name="restore_choice_data_disclaimer_v2">Maaaring hindi makopya sa iyong ^1 ang ilan sa iyong data. <annotation id="restore_choice_data_disclaimer_learn_more">Matuto pa</annotation></string>
+    <string name="restore_choice_deselect_some_content">Alisin sa pagkakapili ang ilang content upang magpatuloy</string>
+    <string name="restore_choice_learn_more_android">"Hindi awtomatikong makokopya ang ilang data mula sa luma mong telepono:
+
+ ● Mga Download (tulad ng mga PDF file)
+
+ ● Mga larawan, video at musikang nakaimbak sa mga nakatagong folder
+
+ ● Mga larawan, video at musikang natanggap sa pamamagitan ng text message
+
+ ● Mga app na hindi mula sa Google Play Store
+
+ ● Data ng app (kung hindi gumagamit ang app ng Android backup)
+
+ ● Ilang setting ng device
+
+ ● Mga account bukod sa Mga Google Account (at anumang nauugnay na data)
+
+ ● Mga contact at kalendaryo na na-sync sa mga serbisyo bukod sa Google
+
+ ● Mga ringtone
+
+ Para sa higit pang mga detalye at tulong sa pagkopya ng ilan sa data na ito, bisitahin ang g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Hindi maaaring kopyahin nang awtomatiko ang ilang data mula sa iyong lumang telepono:
+
+ ● Mga app at data ng app
+
+ ● Mga larawan kung saan walang orihinal na nakalagay sa iyong telepono (halimbawa, kung naka-on ang setting na I-optimize ang Storage, inilalagay ang mga orihinal na larawan sa iCloud®)
+
+ ● Mga file at dokumentong nakalagay sa iCloud®
+
+ ● Mga setting ng device (gaya ng mga password ng Wi-Fi at wallpaper)
+
+ ● Musikang pinoprotektahan ng Digital Rights Management (DRM) (halimbawa, musika sa iTunes® na binili bago ang Abril 2009 o musikang na-download para sa offline na pakikinig sa isang app ng pag-ii-stream ng musika)
+
+ ● Mga account maliban sa mga Google Account (at anumang nauugnay na data)
+
+ ● Mga contact at kalendaryong sini-sync sa mga serbisyo maliban sa Google o iCloud®
+
+ ● Mga bookmark mula sa Safari®
+
+ Ang mga attachment ng iMessage® ay magiging available sa Google Photos > Mga folder ng device > Mga attachment ng mensahe.
+
+ Para sa higit pang mga detalye at tulong sa pagkopya sa ilan sa data na ito, bisitahin ang g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Walang sapat na espasyo</string>
+    <string name="restore_choice_total_text">ng iyong available na %1$s / %2$s na paglipat</string>
+    <string name="restore_error_message">Nagkaroon ng problema sa pag-restore. Paumanhin.</string>
+    <string name="restore_item_appdata">Data ng app</string>
+    <string name="restore_item_calendar">Kalendaryo</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Magsi-sync pa rin ang Google Calendar</string>
+    <string name="restore_item_calendar_sync_description">Magsi-sync ang Google Calendar</string>
+    <string name="restore_item_call_logs">History ng tawag</string>
+    <string name="restore_item_contacts">Mga Contact</string>
+    <string name="restore_item_device_settings_description">Mga password ng Wi-Fi at marami pang iba</string>
+    <string name="restore_item_downloads">Mga Download</string>
+    <string name="restore_item_email">Email</string>
+    <string name="restore_item_email_description">Magsi-sync ang Gmail</string>
+    <string name="restore_item_message_attachments">Mga attachment sa mensahe</string>
+    <string name="restore_item_messages">Mga Mensahe</string>
+    <string name="restore_item_music">Musika</string>
+    <string name="restore_item_photos">Mga larawan at video</string>
+    <string name="restore_item_settings">Mga setting ng device</string>
+    <string name="restore_item_sms">Mga mensaheng SMS</string>
+    <string name="restore_item_will_be_synced_text">Masi-sync ito sa iyong telepono</string>
+    <string name="restore_progress_title">Nire-restore…</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="small_time_duration">Mas maikli sa 1 minuto</string>
+    <string name="source_connected_description">Inihahanda...</string>
+    <string name="source_connected_title">Nakakonekta sa iyong %1$s</string>
+    <string name="source_copying_description">Ang data na pinili mo ay kinokopya sa bago mong telepono</string>
+    <string name="source_copying_title">Kinokopya...</string>
+    <string name="source_default_target_device_name">bagong device</string>
+    <string name="source_notification_device_disconnected">Muling ikonekta ang iyong cable</string>
+    <string name="source_notification_text">Isinasagawa ang paglilipat sa mga telepono</string>
+    <string name="source_notification_title">Paglilipat ng Data</string>
+    <string name="source_success_description">Tapusin ang pag-set up sa iyong %1$s.</string>
+    <string name="source_success_screen_title">Tapos na ang lahat!</string>
+    <string name="source_unplugged_description">Muling kumonekta sa iyong %1$s</string>
+    <string name="source_unplugged_title">Hindi nakakonekta ang cable</string>
+    <string name="source_waiting_title">Ipagpatuloy ang pag-setup sa iyong %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">I-dismiss</string>
+    <string name="stop_copying_dialog_message_before_transfer">Hindi pa nakopya sa bago mong telepono ang iyong data</string>
+    <string name="stop_copying_dialog_message_during_transfer">Hindi pa nakopya sa bago mong telepono ang ilan sa iyong data</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Huwag Kopyahin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Ihinto</string>
+    <string name="stop_copying_dialog_title_before_transfer">Huwag kopyahin?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Ihinto ang pagkopya?</string>
+    <string name="storage_management_wear_descriptive_text">Ginagamit ng mga app ang storage ng iyong device upang kumopya ng data patungo sa isang wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Pamahalaan ang wearable storage</string>
+    <string name="storage_management_wear_size_label">Wearable storage</string>
+    <string name="storage_managment_all_storage_descriptive_text">Kabuuang data na ginagamit ng mga serbisyo ng Google Play, kabilang ang search engine at iba pang data.</string>
+    <string name="storage_managment_clear_all_data">I-clear ang lahat ng data</string>
+    <string name="storage_managment_computing_size">Kino-compute…</string>
+    <string name="storage_managment_icing_size_label">Data ng Paghahanap</string>
+    <string name="storage_managment_manage_icing_button">Pamahalaan ang data ng paghahanap</string>
+    <string name="storage_managment_search_index_descriptive_text">Pinapabilis namin ang paghahanap sa iyong device sa pamamagitan ng pagbibigay ng search engine na magagamit ng iyong Mga App.</string>
+    <string name="storage_managment_title">Storage ng mga serbisyo ng Google Play</string>
+    <string name="storage_managment_total_size_label">Kabuuang storage</string>
+    <string name="suw_back_button_label">Bumalik</string>
+    <string name="suw_more_button_label">Higit pa</string>
+    <string name="suw_next_button_label">Susunod</string>
+    <string name="target_default_source_device_model">lumang device</string>
+    <string name="target_device_not_supported_cant_continue_description">Kakailanganin mong pumili ng iba pang paraan ng pagkopya ng data</string>
+    <string name="target_device_not_supported_cant_continue_title">Hindi sinusuportahan ang kabilang telepono</string>
+    <string name="target_device_not_supported_try_restarting_description">"Idiskonekta ang cable at i-restart ang luma mong telepono, pagkatapos ay muling ikonekta ang cable at sundin ang mga tagubilin sa iyong Pixel.
+
+Kung nakikita mo pa rin ang error na ito, maaaring kailangan mong sumubok ng ibang paraan ng pagkopya."</string>
+    <string name="target_device_not_supported_try_restarting_title">Maaaring hindi sinusuportahan ang telepono</string>
+    <string name="target_smart_device_timeout_add_account">MAGDAGDAG NG ACCOUNT</string>
+    <string name="target_smart_device_timeout_description">Kung gusto mo itong gawin, maaari mong subukang idagdag ang iyong account nang manual</string>
+    <string name="target_smart_device_timeout_dismiss">I-DISMISS</string>
+    <string name="target_smart_device_timeout_title">Nagkakaproblema ka ba?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Magkakonekta ang mga telepono</string>
+    <string name="toast_reconnect_cable">Muling ikonekta ang iyong cable</string>
+    <string name="transfer_finished_fragment_title">Mayroon lang ilang tinatapos pa...</string>
+    <string name="transfer_summary_copied">Nakopya ang data</string>
+    <string name="transfer_summary_fragment_description">Maaari mong idiskonekta ang cable.</string>
+    <string name="transfer_summary_fragment_finish">TAPUSIN</string>
+    <string name="transfer_summary_fragment_title">Malapit nang maging handa ang iyong telepono</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Hindi nakopya ang ilan sa iyong mga larawan. <annotation id="transfer_summary_learn_more">Matuto pa</annotation></string>
+    <string name="transfer_summary_not_copied">Hindi nakopya ang data</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ang Nakopya</string>
+    <string name="transfer_summary_will_sync">Magsi-sync ang data pagkatapos ng pag-set up</string>
+    <string name="transferring_fragment_calculating_remaining_time">Kinakalkula ang natitirang oras...</string>
+    <string name="transferring_fragment_header">Kinokopya...</string>
+    <string name="transferring_fragment_remaining_time">%1$s pa</string>
+    <string name="trust_instructions_description">Upang magpatuloy, tingnan ang iyong iPhone® device at aprubahan ang koneksyon</string>
+    <string name="trust_instructions_trademark_disclaimer">Ang iPhone, iPad, iOS, iMessage, iCloud, Safari at iTunes ay mga trademark ng Apple Inc., na nakarehistro sa U.S. at iba pang mga bansa.</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Ձեր գնահատականը՝ %1$s աստղ</item>
+        <item quantity="one">Your rating: %1$s stars</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d կարծիք</item>
+        <item quantity="one">%1$d reviews</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d կարծիք %2$d գնահատականով</item>
+        <item quantity="one">%1$d reviews for star rating %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Տեղադրումները դադարեցվեցին</item>
+        <item quantity="one">Installs paused</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Հավելվածները ստուգվել են %1$d օր առաջ</item>
+        <item quantity="one">Apps scanned %1$d days ago</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Հեռացվել է %1$d վնասատու հավելված։ %2$s:</item>
+        <item quantity="one">%1$d harmful apps removed. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Անհրաժեշտ է հաստատել %1$d թարմացում</item>
+        <item quantity="one">%1$d updates need approval</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d նոր թարմացում</item>
+        <item quantity="one">%1$d new updates</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Հասանելի է %1$d թարմացում</item>
+        <item quantity="one">%1$d updates available</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Թարմացնել բոլորը</item>
+        <item quantity="one">Update all</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Թարմացվել է %1$d հավելված</item>
+        <item quantity="one">%1$d applications updated</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s աստղ</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stars</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s աստղ - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stars - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;/b>%1$s%2$s աստղ - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stars - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d օգտատեր այս կարծիքն օգտակար է համարել: Նշել մեկնաբանությունը որպես օգտակար</item>
+        <item quantity="one">%1$d users found this review helpful. Նշել մեկնաբանությունը որպես օգտակար</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d օգտատեր այս կարծիքն օգտակար է համարել: Հեռացնել «օգտակար» նշումը</item>
+        <item quantity="one">%1$d users found this review helpful. Unmark comment as helpful</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Գնահատական՝ &lt;b>%1$s աստղ&lt;/b></item>
+        <item quantity="one">Rated it &lt;b>%1$s stars&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s կարծիք</item>
+        <item quantity="one">in %1$s reviews</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">%1$s աստղ&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s stars&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+        <item quantity="one">Last used %1$d days ago</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Վերականգնել ընտրված %1$d հավելվածները</item>
+        <item quantity="one">Restore selected %1$d apps</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">աստղ</item>
+        <item quantity="one">stars</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Հավելվածները շուտով կտեղադրվեն:</item>
+        <item quantity="one">Apps will be installed soon.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Հավելվածները շուտով կթարմացվեն:</item>
+        <item quantity="one">App updates will be installed soon.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d օր առաջ</item>
+        <item quantity="one">Last used %1$d days ago</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Վերջին անգամ օգտագործվել է %1$d ամիս առաջ</item>
+        <item quantity="one">Last used %1$d months ago</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Հավելվածներ տեղադրելու կամ թարմացնելու համար ջնջեք չօգտագործվող հավելվածները: Տարածք կարող եք ազատել նաև հիշողության կարգավորումներում մեդիա ֆայլեր ջնջելով։</item>
+        <item quantity="one">To install apps or updates on this device, delete apps you no longer need. You can also free up space by deleting media files in Storage Settings.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Հավելվածներ տեղադրելու կամ թարմացնելու համար ջնջեք չօգտագործվող հավելվածները: Տարածք կարող եք ազատել նաև՝ անցնելով &lt;a href=\"\">Կարգավորումներ > Պահեստ&lt;/a> և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+        <item quantity="one">To install apps or updates on this device, delete apps you no longer need. You can also free up space by deleting media files in &lt;a href=\"\">Settings > Storage&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Հավելվածներ տեղադրելու կամ թարմացնելու համար ջնջեք չօգտագործվող հավելվածները: Տարածք կարող եք ազատել նաև՝ անցնելով Կարգավորումներ > Պահեստ և հեռացնելով որոշ մեդիա ֆայլեր:</item>
+        <item quantity="one">To install apps or updates on this device, delete apps you no longer need. You can also free up space by deleting media files in Settings > Storage.</item>
+    </plurals>
+</resources>

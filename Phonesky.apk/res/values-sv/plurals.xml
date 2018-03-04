@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Ditt betyg: %1$s stjärnor</item>
+        <item quantity="one">Ditt betyg: %1$s stjärna</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d recensioner</item>
+        <item quantity="one">%1$d recension</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d recensioner för betyget %2$d stjärnor</item>
+        <item quantity="one">%1$d recension för betyget %2$d stjärnor</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Installationerna har pausats</item>
+        <item quantity="one">Installationen har pausats</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Apparna genomsöktes för %1$d dagar sedan</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d skadliga appar har tagits bort. %2$s.</item>
+        <item quantity="one">%1$d skadlig app har tagits bort. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d uppdateringar måste godkännas</item>
+        <item quantity="one">%1$d uppdatering måste godkännas</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d nya uppdateringar</item>
+        <item quantity="one">%1$d ny uppdatering</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Det finns %1$d uppdateringar</item>
+        <item quantity="one">Det finns %1$d uppdatering</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Uppdatera alla</item>
+        <item quantity="one">Uppdatera</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d appar uppdaterades</item>
+        <item quantity="one">%1$d app uppdaterades</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjärnor</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjärna</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjärnor – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjärna – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s stjärnor – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s stjärna – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d användare tyckte att den här recensionen var till hjälp. Markera kommentaren som användbar</item>
+        <item quantity="one">%1$d användare tyckte att den här recensionen var till hjälp. Markera kommentaren som användbar</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d användare tyckte att den här recensionen var till hjälp. Ta bort markeringen att kommentaren är användbar</item>
+        <item quantity="one">%1$d användare tyckte att den här recensionen var till hjälp. Ta bort markeringen att kommentaren är användbar</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Har gett betyget &lt;b>%1$s stjärnor&lt;/b></item>
+        <item quantity="one">Har gett betyget &lt;b>%1$s stjärna&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">I %1$s recensioner</item>
+        <item quantity="one">i %1$s recension</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s stjärnor&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s stjärna&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Användes senast för %1$d dagar sedan</item>
+        <item quantity="one">Användes senast för %1$d dag sedan</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Återställ de %1$d markerade apparna</item>
+        <item quantity="one">Återställ den markerade appen</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">stjärnor</item>
+        <item quantity="one">stjärna</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Apparna installeras inom kort.</item>
+        <item quantity="one">Appen installeras inom kort.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Appuppdateringarna installeras inom kort.</item>
+        <item quantity="one">Appuppdateringen installeras inom kort.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Användes senast för %1$d dagar sedan</item>
+        <item quantity="one">Användes senast för %1$d dag sedan</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Användes senast för %1$d månader sedan</item>
+        <item quantity="one">Användes senast för %1$d månad sedan</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Radera appar som du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i lagringsinställningarna.</item>
+        <item quantity="one">Radera appar som du inte längre behöver om du vill installera en app eller uppdatering på enheten. Du kan också frigöra utrymme genom att radera mediefiler i lagringsinställningarna.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Radera appar som du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i &lt;a href=\"\"> Inställningar > Lagringsutrymme&lt;/a>.</item>
+        <item quantity="one">Radera appar som du inte längre behöver om du vill installera en app eller uppdatering på enheten. Du kan också frigöra utrymme genom att radera mediefiler i &lt;a href=\"\"> Inställningar > Lagringsutrymme&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Radera appar som du inte längre behöver om du vill installera appar eller uppdateringar på enheten. Du kan också frigöra utrymme genom att radera mediefiler i Inställningar > Lagringsutrymme.</item>
+        <item quantity="one">Radera appar som du inte längre behöver om du vill installera en app eller uppdatering på enheten. Du kan också frigöra utrymme genom att radera mediefiler i Inställningar > Lagringsutrymme.</item>
+    </plurals>
+</resources>

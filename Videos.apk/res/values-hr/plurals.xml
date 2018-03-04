@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Ocjenu %1$s zvj. dalo je %2$d ljudi</item>
+        <item quantity="one">Ocjenu %1$s zvj. dala je %2$d osoba</item>
+        <item quantity="few">Ocjenu %1$s zvj. dalo je %2$d ljudi</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Istječe za %1$d dana</item>
+        <item quantity="one">Istječe za %1$d dan</item>
+        <item quantity="few">Istječe za %1$d dana</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Istječe za %1$d sati</item>
+        <item quantity="one">Istječe za %1$d sat</item>
+        <item quantity="few">Istječe za %1$d sata</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Još %1$d</item>
+        <item quantity="one">Još %1$d</item>
+        <item quantity="few">Još %1$d</item>
+    </plurals>
+</resources>

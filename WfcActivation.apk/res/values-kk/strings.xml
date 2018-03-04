@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Келесі</string>
+    <string name="suw_back_button_label">Артқа</string>
+    <string name="suw_more_button_label">Тағы</string>
+    <string name="vzw_wfc_activation_error">Wi-Fi қоңыраулары іске қосылмады. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="vzw_address_update_error">Ағымдағы төтенше жағдай мекенжайы дәл қазір жаңартылмайды. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="emergency_address_app_label">Төтенше жағдайлар мекенжайын басқару</string>
+    <string name="progress_text">Күте тұрыңыз…</string>
+    <string name="vzw_tos_title">Wi-Fi қоңырауын іске қосу</string>
+    <string name="cancel">Жабу</string>
+    <string name="vzw_tos_text">"Wi-Fi қоңыраулары мобильдік желі қолжетімді болмаған кезде Wi-Fi көмегімен қоңырау шалуға мүмкіндік береді.
+
+Wi-Fi қоңырауларын орнату үшін АҚШ аумағындағы мекенжайды енгізу қажет. Егер сіз АҚШ аумағында осы телефоннан Wi-Fi желісі арқылы төтенше жағдайлар қызметіне (E911) қоңырау шалсаңыз, аталған қызметтің жергілікті бөлімі осы мекенжайды пайдаланады.
+
+Орналасқан жеріңіз туралы ақпарат дұрыс болуы үшін, басқа Wi-Fi желісін пайдаланған сайын бұл мекенжайды өзгертіп тұрғаныңыз жөн. \"Wi-Fi қоңыраулары\" параметрлер мәзіріне өтіп, орналасқан жеріңіз туралы ақпаратты өзгерте аласыз."</string>
+    <string name="vzw_tos_link">Талаптар мен шарттар</string>
+    <string name="tos_continue">Жалғастыру</string>
+    <string name="vzw_e911_title">Төтенше жағдай орын алған жер ақпараты</string>
+    <string name="vzw_e911_description"><b>МАҢЫЗДЫ! 911 ҚЫЗМЕТІНЕ ТӨТЕНШЕ ЖАҒДАЙ ОРЫН АЛҒАН ЖЕРДІҢ МЕКЕНЖАЙЫ ҚАЖЕТ</b>"
+Wi-Fi қоңырауларын қосу үшін 911 нөміріне қоңырау шалған кезде, төтенше жағдайлар қызметі келуі керек АҚШ аумағындағы мекенжайды енгізіңіз. Кез келген уақытта \"Параметрлер\" тармағына өтіп, бұл мекенжайды өзгерте аласыз. Тұрғылықты орныңызды ауыстырған сайын, бұл мекенжайды да өзгертіп тұру аса маңызды."</string>
+    <string name="vzw_e911_warning"><b>ЕСКЕРТУ. ТӨТЕНШЕ ЖАҒДАЙЛАР ҚЫЗМЕТІНЕ (911) ҚОҢЫРАУ ШАЛУ ШЕКТЕУЛЕРІ</b>"
+911 нөміріне қоңырау шалғанда, операторға өзіңіздің қайда екеніңізді айту керек. Мобильдік желі қолжетімді болмағанда ғана қоңырау 911 нөміріне Wi-Fi желісі арқылы шалынады. 911 жүйесі мекенжайды танымағанда, электр қуаты ажыратылғанда немесе Wi-Fi байланысы болмағанда, Wi-Fi желісі арқылы шалынған қоңырау кідіртілуі не үзілуі мүмкін. Төтенше жағдайлар қызметінің мамандары жоғарыда көрсетілген мекенжайға жіберіледі, сол себепті тұрғылықты орныңызды ауыстырған сайын, бұл мәліметті де өзгертіп тұрыңыз."</string>
+    <string name="house_number">Үй нөмірі</string>
+    <string name="street">Көше</string>
+    <string name="apt_suite_number">Үй, пәтер, т.б.</string>
+    <string name="city">Қала</string>
+    <string name="state">Штат</string>
+    <string name="zip_code">Индекс</string>
+    <string name="save">Сақтау</string>
+    <string name="vzw_address_confirm_text_part1">Енгізілген мекенжайды іздеу нәтиже бермеді – мекенжай табылмады немесе қала, штат және индекс дұрыс емес болуы мүмкін.</string>
+    <string name="vzw_address_confirm_text_part2">Егер көрсетілген қала, штат және индекс дұрыс емес болса, %1$s түймесін, басқа жағдайда %2$s түймесін түртіңіз.</string>
+    <string name="save_anyway">Бәрібір сақтау</string>
+    <string name="edit_address">Мекенжайды өңдеу</string>
+    <string name="ok">Жарайды</string>
+    <string name="vzw_address_select_text">Енгізілген мекенжай табылмады:</string>
+    <string name="vzw_address_alternate_text">Мынаны меңзедіңіз бе:</string>
+    <string name="vzw_partial_confirm_head">Енгізілген мекенжайды төтенше жағдайлар қызметін көрсетушілер тексере алмады.</string>
+    <string name="vzw_partial_confirm_text">Төтенше жағдай орын алғанда, шынымен осы мекенжайды пайдаланғыңыз келе ме?</string>
+    <string name="vzw_partial_failure_text_part1">Енгізілген қала, штат немесе индекс дұрыс емес болуы мүмкін.</string>
+    <string name="vzw_partial_failure_text_part2">Мекенжайды тексеріп, әрекетті қайталаңыз.</string>
+    <string name="vzw_address_update_success_toast">Төтенше жағдайлар мекенжайы жаңартылды</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi өшірулі</string>
+    <string name="connect_to_wifi_or_web_portal_message">Мобильдік желіні пайдалана отырып, Wi-Fi қоңырауларын реттеуге болады. Бірақ бұл функцияны қолдану үшін Wi-Fi желісін қосып, желімен байланыс орнату қажет.</string>
+    <string name="button_turn_on_wifi">Wi-Fi функциясын қосу</string>
+    <string name="button_setup_web_portal">Реттеуді жалғастыру</string>
+</resources>

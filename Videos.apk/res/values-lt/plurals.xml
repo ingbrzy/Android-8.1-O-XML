@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">%2$d žmonių įvertino %1$s žvaigžd.</item>
+        <item quantity="one">%2$d žmogus įvertino %1$s žvaigžd.</item>
+        <item quantity="few">%2$d žmonės įvertino %1$s žvaigžd.</item>
+        <item quantity="many">%2$d žmogaus įvertino %1$s žvaigžd.</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Galiojimas baigiasi po %1$d dienų</item>
+        <item quantity="one">Galiojimas baigiasi po %1$d dienos</item>
+        <item quantity="few">Galiojimas baigiasi po %1$d dienų</item>
+        <item quantity="many">Galiojimas baigiasi po %1$d dienos</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Galiojimas baigiasi %1$d valandų</item>
+        <item quantity="one">Galiojimas baigiasi %1$d valandos</item>
+        <item quantity="few">Galiojimas baigiasi %1$d valandų</item>
+        <item quantity="many">Galiojimas baigiasi %1$d valandos</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Dar %1$d</item>
+        <item quantity="one">Dar %1$d</item>
+        <item quantity="few">Dar %1$d</item>
+        <item quantity="many">Dar %1$d</item>
+    </plurals>
+</resources>

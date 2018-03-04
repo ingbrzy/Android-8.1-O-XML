@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CALLOUT_ALPHABETIC_LABELS">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL">
+        <item>ทุกระดับ</item>
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+        <item>$$$$</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_PRICE_LEVEL_DESCRIPTIONS">
+        <item>ทุกระดับราคา</item>
+        <item>ไม่แพง</item>
+        <item>แพงพอสมควร</item>
+        <item>แพง</item>
+        <item>แพงมาก</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS">
+        <item>ทุกระดับ</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="RESTRICTION_ALLOWED_STARS_DESCRIPTIONS">
+        <item>ทุกระดับดาว</item>
+        <item>สองดาวขึ้นไป</item>
+        <item>สามดาวขึ้นไป</item>
+        <item>สี่ดาวขึ้นไป</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES">
+        <item>ทุกระดับ</item>
+        <item>3 ดาว</item>
+        <item>4 ดาว</item>
+        <item>5 ดาว</item>
+    </string-array>
+    <string-array name="RESTRICTION_HOTEL_CLASSES_DESCRIPTIONS">
+        <item>ทุกระดับ</item>
+        <item>สามดาว</item>
+        <item>สี่ดาว</item>
+        <item>ห้าดาว</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>ไม่ชอบเลย</item>
+        <item>ไม่ค่อยชอบ</item>
+        <item>พอใช้ได้</item>
+        <item>ชอบ</item>
+        <item>ชอบที่สุด</item>
+    </string-array>
+    <string-array name="SHOW_SCALEBAR_ENTRIES">
+        <item>เมื่อซูมเข้าและออก</item>
+        <item>ตลอดเวลา</item>
+    </string-array>
+    <string-array name="WRITE_REVIEW_HINTS_FOR_RATING_STARS">
+        <item>บอกผู้อื่นว่าคุณเกลียดสถานที่นี้เพราะอะไร</item>
+        <item>บอกผู้อื่นว่าคุณไม่ชอบสถานที่นี้เพราะอะไร</item>
+        <item>บอกผู้อื่นว่าสถานที่นี้พอใช้ได้เพราะอะไร</item>
+        <item>บอกผู้อื่นว่าคุณชอบสถานที่นี้เพราะอะไร</item>
+        <item>บอกผู้อื่นว่าคุณหลงรักสถานที่นี้เพราะอะไร</item>
+    </string-array>
+</resources>

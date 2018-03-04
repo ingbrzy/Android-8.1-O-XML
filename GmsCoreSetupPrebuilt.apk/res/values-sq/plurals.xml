@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Të %1$d aplikacionet</item>
+        <item quantity="one">1 aplikacion</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplikacione të përzgjedhura</item>
+        <item quantity="one">1 aplikacion i përzgjedhur</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d aplikacione janë të instaluara tashmë</item>
+        <item quantity="one">1 aplikacion është i instaluar tashmë</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Rezervimi yt ka %1$d aplikacione. Zgjidh disa ose merri të gjitha.</item>
+        <item quantity="one">Rezervimi yt ka %1$d aplikacion.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontakte në pajisje</item>
+        <item quantity="one">1 kontakt në pajisje</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d në SIM, %2$d në pajisje</item>
+        <item quantity="one">%1$d në SIM, %2$d në pajisje</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d kontakte në iCloud®</item>
+        <item quantity="one">1 kontakt në iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kontakte të kartës SIM</item>
+        <item quantity="one">1 kontakt të kartës SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Gjetëm %1$d aplikacione. Zgjidh disa ose merri të gjitha.</item>
+        <item quantity="one">Gjetëm %1$d aplikacion. Dëshiron që ta marrësh?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Gjetëm një përputhje për %1$d nga aplikacionet e tua të iOS®. Duke instaluar secilin aplikacion, ti bie dakord me lejet që kërkon ai. &lt;annotation id="apps_permissions_learn_more">Mëso më shumë&lt;/annotation></item>
+        <item quantity="one">Gjetëm një përputhje për një prej aplikacioneve të tua të iOS®. Duke instaluar këtë aplikacion, ti bie dakord me lejet që kërkon ai. &lt;annotation id="apps_permissions_learn_more">Mëso më shumë&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d artikuj të mbetur…</item>
+        <item quantity="one">%1$d artikull i mbetur…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Njoftim! Kjo ngjarje nuk i përfshin më pjesëmarrësit e mëposhtëm:</item>
+        <item quantity="one">Njoftim! Kjo ngjarje nuk e përfshin më pjesëmarrësin e mëposhtëm:</item>
+    </plurals>
+</resources>

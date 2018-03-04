@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir á páxina de inicio</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Desprazarse cara arriba</string>
+    <string name="abc_action_menu_overflow_description">Máis opcións</string>
+    <string name="abc_action_mode_done">Feito</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todas</string>
+    <string name="abc_activitychooserview_choose_application">Escoller unha aplicación</string>
+    <string name="abc_capital_off">DESACTIVAR</string>
+    <string name="abc_capital_on">ACTIVAR</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de busca</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Busca por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="app_has_in_app_purchases">Compras integradas na aplicación</string>
+    <string name="app_has_permissions">Permisos: %s</string>
+    <string name="app_has_runtime_permissions">A aplicación solicitará permisos</string>
+    <string name="app_picker_loading">Buscando aplicacións dispoñibles…</string>
+    <string name="app_picker_loading_toast">As aplicacións dispoñibles cargaranse pronto</string>
+    <string name="app_picker_no_apps">Ningunha aplicación seleccionada</string>
+    <string name="app_picker_no_apps_found">Non se atoparon aplicacións</string>
+    <string name="apps_permissions_described_v2">"Só as aplicacións iOS® populares e gratuítas poden coincidir con aplicacións Android. A maioría das compras integradas na aplicación non se transferirán. Podes atopar máis aplicacións en Play Store en canto se complete a configuración.
+
+É posible que algunhas aplicacións necesiten o teu permiso previo para acceder a información ou funcións específicas do teu dispositivo. Os permisos organízanse en grupos. Se decides instalar estas aplicacións, aceptas os permisos que forman parte de cada grupo. A continuación, indícase unha descrición de cada grupo de permisos.
+
+É posible que algunhas aplicacións non precisen aceptar o teu permiso previo. Cando utilices unha destas aplicacións, podes permitir ou denegar o permiso individualmente antes de que a aplicación utilice ese tipo de datos.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Ferramenta transferencia datos</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Non copiar</string>
+    <string name="close_button_label">Pechar</string>
+    <string name="cloud_restore_app_picker_button">Restaurar</string>
+    <string name="cloud_restore_app_picker_description_no_apps">A túa copia de seguranza non ten aplicacións</string>
+    <string name="cloud_restore_app_picker_title">Selecciona as aplicacións que queres restaurar</string>
+    <string name="common_cancel">Cancelar</string>
+    <string name="common_google_play_services_enable_button">Activar</string>
+    <string name="common_google_play_services_enable_text">%1$s non funcionará a menos que actives os servizos de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activar servizos de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s non se executará se o teu dispositivo non ten instalados os servizos de Google Play.</string>
+    <string name="common_google_play_services_install_title">Descargar servizos de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erro nos servizos de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ten problemas cos servizos de Google Play. Téntao de novo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non se executará sen os servizos de Google Play, que non son compatibles co teu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s non se executará a menos que actualices os servizos de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizar os servizos de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s non se executará sen os servizos de Google Play, que se están actualizando neste momento.</string>
+    <string name="common_google_play_services_wear_update_text">Necesítase a nova versión dos servizos de Google Play. Actualizarase en breve.</string>
+    <string name="common_ok">Aceptar</string>
+    <string name="common_open_on_phone">Abrir no teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d de iCloud® e %2$d do dispositivo</string>
+    <string name="contacts_number_device_and_icloud_with_google">Contactos de Google, %1$d de iCloud® e %2$d do dispositivo</string>
+    <string name="contacts_number_device_and_sim_with_google">Contactos de Google, %1$d da SIM e %2$d do dispositivo</string>
+    <string name="contacts_number_device_with_google">Contactos de Google e %1$d do dispositivo</string>
+    <string name="contacts_number_icloud_with_google">Contactos de Google e %1$d de iCloud®</string>
+    <string name="contacts_number_sim_with_google">Contactos de Google e %1$d da SIM</string>
+    <string name="copy_confirmation_description">Copiaranse datos como a túa conta de Google e as túas aplicacións no teléfono novo</string>
+    <string name="copy_confirmation_title">Queres copiar os datos no novo teléfono?</string>
+    <string name="d2d_app_picker_description_no_apps">Non se puido atopar ningunha aplicación</string>
+    <string name="d2d_app_picker_title">Aplicacións</string>
+    <string name="d2d_migration_canceled_on_source">Cancelouse a copia</string>
+    <string name="data_copied_fragment_description">Copiáronse os datos no teu novo teléfono. Podes desconectar o cable.</string>
+    <string name="data_copied_fragment_description_cancel">Decidiches deter a copia, polo que só se copiaron algúns datos no teu teléfono novo.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Decidiches deter a copia, polo que non se copiou nada no teu teléfono novo.</string>
+    <string name="data_copied_fragment_description_error">Produciuse un erro e non se puido copiar todo.</string>
+    <string name="data_copied_fragment_description_error_no_data">Produciuse un erro e non se puideron copiar os teus datos.</string>
+    <string name="data_copied_fragment_no_data_title">Non se puido copiar o contido</string>
+    <string name="data_copied_fragment_some_data_title">Copiáronse algúns datos</string>
+    <string name="data_copied_fragment_title">Datos copiados</string>
+    <string name="device_not_supported_fragment_new_device">Estás conectado a un novo teléfono. Para continuar, volve conectarte ao anterior.</string>
+    <string name="device_not_supported_fragment_new_device_title">Volve conectarte ao teléfono anterior</string>
+    <string name="device_not_supported_fragment_no_data_cable">Este cable non pode transferir datos. Volve conectar o dispositivo usando un cable diferente e téntao de novo.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Proba con outro cable</string>
+    <string name="device_not_supported_fragment_retry_description">Asegúrate de que o teléfono antigo estea desbloqueado e, a continuación, desconecta e volve conectar o cable</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Produciuse un erro</string>
+    <string name="device_not_supported_ios_supervised_description">Como o teu dispositivo iPhone® está supervisado, tes que seleccionar outro método para copiar os datos</string>
+    <string name="device_picker_skip">Non restaurar</string>
+    <string name="durationDayHour">%1$d día %2$d hora</string>
+    <string name="durationDayHours">%1$d día %2$d horas</string>
+    <string name="durationDays">%1$d días</string>
+    <string name="durationHourMinute">%1$d hora %2$d minuto</string>
+    <string name="durationHourMinutes">%1$d hora %2$d minutos</string>
+    <string name="durationHours">%1$d horas</string>
+    <string name="durationMinute">%1$d minuto</string>
+    <string name="durationMinutes">%1$d minutos</string>
+    <string name="encryption_warning_fragment_description">"O teu dispositivo iPhone® ten activada a encriptación da copia de seguranza. Se ti non a activaches, é posible que o fixese o administrador de TI.
+
+Só se poden copiar fotos, vídeos e música. Para obter máis información, accede a "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Encriptación da copia de seguranza</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Non atopo o adaptador</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Busca o Quick Switch Adapter que viña na mesma caixa que o ^1.
+
+Conecta o cable ao adaptador."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Conecta o adaptador e o cable</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Desbloquea o teu teléfono antigo e conecta o adaptador neste teléfono.</string>
+    <string name="fragment_usb_connect_both_phones_title">Conecta os dous teléfonos</string>
+    <string name="fragment_usb_dialog_cancel_description">Transferirás a maior parte do contido se utilizas un cable. Se os cables que veñen na caixa non se adaptan ao teléfono, proba a usar un cable de datos ou de carga que funcione co teu antigo teléfono.</string>
+    <string name="fragment_usb_dialog_cancel_title">Queres copiar os datos doutra forma?</string>
+    <string name="fragment_usb_dont_copy">Non realizar a copia</string>
+    <string name="fragment_usb_dont_have_cable">Non teño cable</string>
+    <string name="fragment_usb_dont_have_old_phone">Non podes usar o teu teléfono antigo?</string>
+    <string name="fragment_usb_find_cable_description">Utiliza un cable que se adapte ao teu antigo teléfono, como o cable de datos ou de carga.</string>
+    <string name="fragment_usb_find_cable_title">Busca o cable adecuado</string>
+    <string name="fragment_usb_initial_description">Precisas o dispositivo Android ou iPhone® antigo. Acéndeo e manteno desbloqueado.</string>
+    <string name="fragment_usb_initial_title">Consigue os datos do teu teléfono antigo</string>
+    <string name="fragment_usb_legacy_description">"Esta é a forma máis rápida de transferir a maioría dos datos.
+
+Busca o adaptador na caixa e enchúfao ao novo teléfono. Conecta os teléfonos usando un cable e, a continuación, desbloquea o teu antigo teléfono."</string>
+    <string name="fragment_usb_missing_data_description">Podes seguir configurando o teléfono Pixel durante a transferencia.</string>
+    <string name="fragment_usb_missing_data_title">Vamos copiar os datos</string>
+    <string name="fragment_usb_other_ways">Copiar sen cable</string>
+    <string name="fragment_usb_plug_cable">Enchufa o cable ao teu antigo teléfono</string>
+    <string name="fragment_waiting_title">Un segundo…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Sincronizaranse os contactos de Google</string>
+    <string name="google_contacts_static_text_off">Seguirase sincronizando a información de Contactos de Google</string>
+    <string name="i_message_dialog_message">"Para seguir recibindo mensaxes SMS dos usuarios de dispositivos iPhone®, precisarás desactivar iMessage®.
+
+Accede a "<b>g.co/iMessageHelp</b> para consultar as instrucións.</string>
+    <string name="instructions_fragment_title">Continúa no outro teléfono</string>
+    <string name="ios_connected_fragment_description">"Na seguinte pantalla podes iniciar sesión na túa conta de Google ou crear unha nova.
+
+Se non engades a túa conta de Google, non se transferirán os teus eventos de iOS Calendar®."</string>
+    <string name="ios_message_attachment_explanation">[Gardáronse os anexos das mensaxes en Google Fotos > Cartafoles do dispositivo > Anexos da mensaxe]</string>
+    <string name="ios_message_attachment_failed_explanation">[Non se puideron copiar algúns anexos. Os que se transferiron pódense atopar en Google Fotos > Cartafoles do dispositivo > Anexos da mensaxe]</string>
+    <string name="ios_message_attachment_placeholder">[Gardouse o anexo en Google Fotos > Cartafoles do dispositivo > Anexos da mensaxe]</string>
+    <string name="ios_message_attachments_placeholder">[Gardáronse os anexos en Google Fotos > Cartafoles do dispositivo > Anexos da mensaxe]</string>
+    <string name="ios_migration_default_calendar_title">Calendario</string>
+    <string name="ios_migration_other_contact_relation">Outro</string>
+    <string name="ios_photos_dialog_message">"Non se poden copiar as fotos almacenadas en iCloud®.
+
+Para transferir estas fotos ao ^1, instala a aplicación Google Fotos no teu dispositivo iPhone® e activa a opción Copia de seguranza e sincronización. Se queres obter máis instrucións, accede a "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="lockscreen_smartdevice_action_next">Seguinte</string>
+    <string name="megabyteShort">MB</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photos_filtering_option_all">Todo</string>
+    <string name="photos_filtering_option_none">Nada</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Os contactos copiados gardaranse na túa conta de Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Os calendarios e os contactos copiados gardaranse na túa conta de Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">É posible que algúns dos datos non se copien no ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Máis información</annotation></string>
+    <string name="restore_choice_deselect_some_content">Deselecciona algún contido para continuar</string>
+    <string name="restore_choice_learn_more_android">"Algúns datos do teléfono anterior non se poden copiar automaticamente:
+
+ ● As descargas (como ficheiros PDF)
+
+ ● As fotos, os vídeos e a música almacenados en cartafoles ocultos
+
+ ● As fotos, os vídeos e a música recibidos a través dunha mensaxe de texto
+
+ ● As aplicacións que non pertencen a Google Play Store
+
+ ● Os datos de aplicacións (se a aplicación non utiliza a copia de seguranza de Android)
+
+ ● Algunhas opcións de configuración do dispositivo
+
+ ● As contas que non son contas de Google (e os datos asociados)
+
+ ● Os contactos e os calendarios sincronizados en servizos diferentes de Google
+
+ ● Os tons de chamada
+
+ Para obter máis información e axuda coa copia dalgúns destes datos, accede a g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Algúns datos do teu antigo teléfono non se poden copiar automaticamente:
+
+ ● As aplicacións e os datos de aplicacións
+
+ ● As fotos sen versión orixinal almacenada no teu teléfono (por exemplo, se está activada a opción de configuración Optimizar almacenamento, as fotos orixinais almacénanse en iCloud®)
+
+ ● Os ficheiros e os documentos almacenados en iCloud®®
+
+ ● A configuración do dispositivo (como o fondo de pantalla e os contrasinais wifi)
+
+ ● Música protexida con Xestión de dereitos dixitais (DRM) (por exemplo, a música de iTunes® que se comprou antes de abril de 2009 ou a música descargada para escoitar sen conexión nunha aplicación de reprodución en tempo real)
+
+ ● As contas que non son contas de Google (e os datos asociados)
+
+ ● Os contactos e os calendarios sincronizados con outros servizos que non sexan Google ou iCloud®
+
+ ● Os marcadores de Safari®
+
+ Os anexos de iMessage® estarán dispoñibles en Google Fotos > Cartafoles do dispositivo > Anexos da mensaxe.
+
+ Para obter máis información e axuda coa copia dalgúns destes datos, accede a g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Sen espazo suficiente</string>
+    <string name="restore_choice_total_text">do espazo dispoñible de %1$s. Duración estimada da transferencia: %2$s</string>
+    <string name="restore_item_appdata">Datos da aplicación</string>
+    <string name="restore_item_calendar">Calendario</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar seguirá sincronizándose</string>
+    <string name="restore_item_calendar_sync_description">Sincronizarase Google Calendar</string>
+    <string name="restore_item_call_logs">Historial de chamadas</string>
+    <string name="restore_item_contacts">Contactos</string>
+    <string name="restore_item_device_settings_description">Contrasinais wifi e moito máis</string>
+    <string name="restore_item_downloads">Descargas</string>
+    <string name="restore_item_email">Correo electrónico</string>
+    <string name="restore_item_email_description">Sincronizarase Gmail</string>
+    <string name="restore_item_message_attachments">Anexos da mensaxe</string>
+    <string name="restore_item_messages">Mensaxes</string>
+    <string name="restore_item_music">Música</string>
+    <string name="restore_item_photos">Fotos e vídeos</string>
+    <string name="restore_item_settings">Configuración do dispositivo</string>
+    <string name="restore_item_sms">Mensaxes SMS</string>
+    <string name="restore_item_will_be_synced_text">Estes datos sincronizaranse no teu teléfono</string>
+    <string name="restore_progress_title">Restaurando…</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="small_time_duration">Menos de 1 minuto</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_copying_dialog_continue_button">Ignorar</string>
+    <string name="stop_copying_dialog_message_before_transfer">Os datos non se copiaron no teléfono novo</string>
+    <string name="stop_copying_dialog_message_during_transfer">Algúns datos non se copiaron no teléfono novo</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Non copiar</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Deter</string>
+    <string name="stop_copying_dialog_title_before_transfer">Non queres realizar a copia?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Queres deter a copia?</string>
+    <string name="suw_back_button_label">Atrás</string>
+    <string name="suw_more_button_label">Máis</string>
+    <string name="suw_next_button_label">Seguinte</string>
+    <string name="target_default_source_device_model">antigo dispositivo</string>
+    <string name="target_device_not_supported_cant_continue_description">Terás que seleccionar outro método para copiar os datos</string>
+    <string name="target_device_not_supported_cant_continue_title">O outro teléfono non é compatible</string>
+    <string name="target_device_not_supported_try_restarting_description">"Desconecta o cable e reinicia o teléfono antigo, despois volve conectar o cable e sigue as instrucións que se mostran no dispositivo Pixel.
+
+Se continúas vendo este erro, podes tentar copiar os datos doutra forma."</string>
+    <string name="target_device_not_supported_try_restarting_title">É posible que o teléfono non sexa compatible</string>
+    <string name="target_pixelmigrate_notification_description">Dispoñible ou en curso</string>
+    <string name="target_pixelmigrate_notification_title">Transferencia de datos</string>
+    <string name="target_smart_device_timeout_add_account">ENGADIR CONTA</string>
+    <string name="target_smart_device_timeout_description">Se queres, pode tentar engadir a conta manualmente</string>
+    <string name="target_smart_device_timeout_dismiss">IGNORAR</string>
+    <string name="target_smart_device_timeout_title">Tes problemas?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Os teléfonos están conectados</string>
+    <string name="toast_reconnect_cable">Volve conectar o cable</string>
+    <string name="transfer_finished_fragment_title">Engadindo os últimos retoques…</string>
+    <string name="transfer_summary_copied">Copiáronse os datos</string>
+    <string name="transfer_summary_fragment_description">Podes desconectar o cable.</string>
+    <string name="transfer_summary_fragment_finish">FINALIZAR</string>
+    <string name="transfer_summary_fragment_title">O teléfono case está listo</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Non se copiaron algunhas das túas fotos. <annotation id="transfer_summary_learn_more">Máis información</annotation></string>
+    <string name="transfer_summary_not_copied">Non se copiaron os datos</string>
+    <string name="transfer_summary_partial">Elementos copiados: %1$s/%2$s</string>
+    <string name="transfer_summary_will_sync">Os datos sincronizaranse despois da configuración</string>
+    <string name="transferring_fragment_calculating_remaining_time">Calculando o tempo restante...</string>
+    <string name="transferring_fragment_header">Copiando...</string>
+    <string name="transferring_fragment_remaining_time">Tempo restante: %1$s</string>
+    <string name="trust_instructions_description">Para continuar, consulta o teu dispositivo iPhone® e aproba a conexión</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari e iTunes son marcas de Apple Inc. rexistradas nos EUA e noutros países.</string>
+</resources>

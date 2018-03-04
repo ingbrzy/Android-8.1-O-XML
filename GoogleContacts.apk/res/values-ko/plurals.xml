@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">연락처 %1$d개가 라벨 %2$s에 추가됨</item>
+        <item quantity="one">연락처 %1$d개가 라벨 %2$s에 추가됨</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">연락처 %1$d개를 %2$s 라벨에 추가</item>
+        <item quantity="one">연락처 %1$d개를 %2$s 라벨에 추가</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">연락처 %d개에 따른 추천 정보를 확인하세요.</item>
+        <item quantity="one">연락처 %d개에 따른 추천 정보를 확인하세요.</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">스팸 연락처 %d개</item>
+        <item quantity="one">스팸 연락처 %d개</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">중복 연락처 %d개</item>
+        <item quantity="one">중복 연락처 1개</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">최근 통화 %1$d개 • 마지막 통화: %2$s</item>
+        <item quantity="one">최근 통화 %1$d개 • 마지막 통화: %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">연락처가 이미 라벨 %1$s에 추가되었습니다.</item>
+        <item quantity="one">연락처가 이미 라벨 %1$s에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">연락처 %d개</item>
+        <item quantity="one">연락처 %d개</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">연락처 %1$d개 · %2$s</item>
+        <item quantity="one">연락처 %1$d개 · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">연락처 %1$d개 삭제됨</item>
+        <item quantity="one">연락처 %1$d개 삭제됨</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">이 연락처는 Google 주소록 및 동기화된 모든 기기에서 삭제됩니다.</item>
+        <item quantity="one">이 연락처는 Google 주소록 및 동기화된 모든 기기에서 삭제됩니다.</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">다른 계정의 연락처 %1$d개</item>
+        <item quantity="one">다른 계정의 연락처 1개</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">연락처 %1$d개</item>
+        <item quantity="one">연락처 1개</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">연락처 ^1개 • ^2</item>
+        <item quantity="one">연락처 ^1개 • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">%1$d개의 연락처를 %2$s(으)로 이동하시겠습니까?</item>
+        <item quantity="one">이 연락처를 %2$s(으)로 이동하시겠습니까?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">연락처 %d개를 이동함</item>
+        <item quantity="one">연락처 %d개를 이동함</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">연락처 %d개 이동 완료</item>
+        <item quantity="one">연락처 이동 완료</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">연락처 %d개 이동 중</item>
+        <item quantity="one">연락처 이동 중</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">연락처 %1$d개가 %2$s에 백업됨</item>
+        <item quantity="one">연락처 %1$d개가 %2$s에 백업됨</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">SIM 카드에서 가져오기</item>
+        <item quantity="one">SIM 카드에서 가져오기</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">연락처 %d개</item>
+        <item quantity="one">연락처 1개</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">SIM 연락처 %d개를 가져옴</item>
+        <item quantity="one">SIM 연락처 1개를 가져옴</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">연락처 공유에 사용할 애플리케이션:</item>
+        <item quantity="one">연락처 공유에 사용할 애플리케이션:</item>
+    </plurals>
+</resources>

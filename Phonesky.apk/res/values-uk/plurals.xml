@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Ваша оцінка: %1$s зірочки</item>
+        <item quantity="one">Ваша оцінка: %1$s зірочка</item>
+        <item quantity="few">Ваша оцінка: %1$s зірочки</item>
+        <item quantity="many">Ваша оцінка: %1$s зірочок</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d відгуку</item>
+        <item quantity="one">%1$d відгук</item>
+        <item quantity="few">%1$d відгуки</item>
+        <item quantity="many">%1$d відгуків</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d відгуку з оцінкою %2$d</item>
+        <item quantity="one">%1$d відгук з оцінкою %2$d</item>
+        <item quantity="few">%1$d відгуки з оцінкою %2$d</item>
+        <item quantity="many">%1$d відгуків з оцінкою %2$d</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Встановлення призупинено</item>
+        <item quantity="one">Встановлення призупинено</item>
+        <item quantity="few">Встановлення призупинено</item>
+        <item quantity="many">Встановлення призупинено</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Додатки проскановано %1$d дня тому</item>
+        <item quantity="one">Додатки проскановано %1$d день тому</item>
+        <item quantity="few">Додатки проскановано %1$d дні тому</item>
+        <item quantity="many">Додатки проскановано %1$d днів тому</item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">Видалено %1$d шкідливого додатка. %2$s.</item>
+        <item quantity="one">Видалено %1$d шкідливий додаток. %2$s.</item>
+        <item quantity="few">Видалено %1$d шкідливі додатки. %2$s.</item>
+        <item quantity="many">Видалено %1$d шкідливих додатків. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Потрібно схвалити %1$d оновлення</item>
+        <item quantity="one">Потрібно схвалити %1$d оновлення</item>
+        <item quantity="few">Потрібно схвалити %1$d оновлення</item>
+        <item quantity="many">Потрібно схвалити %1$d оновлень</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d нового оновлення</item>
+        <item quantity="one">%1$d нове оновлення</item>
+        <item quantity="few">%1$d нові оновлення</item>
+        <item quantity="many">%1$d нових оновлень</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Доступні %1$d оновлення</item>
+        <item quantity="one">Доступне %1$d оновлення</item>
+        <item quantity="few">Доступні %1$d оновлення</item>
+        <item quantity="many">Доступні %1$d оновлень</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Оновити всі</item>
+        <item quantity="one">Оновити всі</item>
+        <item quantity="few">Оновити всі</item>
+        <item quantity="many">Оновити всі</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Оновлено %1$d додатка</item>
+        <item quantity="one">Оновлено %1$d додаток</item>
+        <item quantity="few">Оновлено %1$d додатки</item>
+        <item quantity="many">Оновлено %1$d додатків</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s зірочки</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s зірочка</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s зірочки</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s зірочок</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s зірочки – %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s зірочка – %3$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s зірочки – %3$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s зірочок – %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b>: %2$s зірочки – %3$s – %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>: %2$s зірочка – %3$s – %4$s</item>
+        <item quantity="few">&lt;b>%1$s&lt;/b>: %2$s зірочки – %3$s – %4$s</item>
+        <item quantity="many">&lt;b>%1$s&lt;/b>: %2$s зірочок – %3$s – %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">%1$d користувача вважають цей відгук корисним. Позначити коментар як корисний</item>
+        <item quantity="one">%1$d користувач вважає цей відгук корисним. Позначити коментар як корисний</item>
+        <item quantity="few">%1$d користувачі вважають цей відгук корисним. Позначити коментар як корисний</item>
+        <item quantity="many">%1$d користувачів вважають цей відгук корисним. Позначити коментар як корисний</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d користувача вважають цей відгук корисним. Видалити позначку</item>
+        <item quantity="one">%1$d користувач вважає цей відгук корисним. Видалити позначку</item>
+        <item quantity="few">%1$d користувачі вважають цей відгук корисним. Видалити позначку</item>
+        <item quantity="many">%1$d користувачів вважають цей відгук корисним. Видалити позначку</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Оцінка: &lt;b>%1$s зірочки&lt;/b></item>
+        <item quantity="one">Оцінка: &lt;b>%1$s зірочка&lt;/b></item>
+        <item quantity="few">Оцінка: &lt;b>%1$s зірочки&lt;/b></item>
+        <item quantity="many">Оцінка: &lt;b>%1$s зірочок&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">у %1$s відгуку</item>
+        <item quantity="one">у %1$s відгуку</item>
+        <item quantity="few">у %1$s відгуках</item>
+        <item quantity="many">у %1$s відгуках</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s зірочки&lt;/b> – %2$s</item>
+        <item quantity="one">&lt;b>%1$s зірочка&lt;/b> – %2$s</item>
+        <item quantity="few">&lt;b>%1$s зірочки&lt;/b> – %2$s</item>
+        <item quantity="many">&lt;b>%1$s зірочок&lt;/b> – %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Востаннє використовувався %1$d дня тому</item>
+        <item quantity="one">Востаннє використовувався %1$d день тому</item>
+        <item quantity="few">Востаннє використовувався %1$d дні тому</item>
+        <item quantity="many">Востаннє використовувався %1$d днів тому</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Відновити %1$d вибраного додатка</item>
+        <item quantity="one">Відновити %1$d вибраний додаток</item>
+        <item quantity="few">Відновити %1$d вибрані додатки</item>
+        <item quantity="many">Відновити %1$d вибраних додатків</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">зірочки</item>
+        <item quantity="one">зірочка</item>
+        <item quantity="few">зірочки</item>
+        <item quantity="many">зірочок</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Додатки невдовзі буде встановлено.</item>
+        <item quantity="one">Додатки невдовзі буде встановлено.</item>
+        <item quantity="few">Додатки невдовзі буде встановлено.</item>
+        <item quantity="many">Додатки невдовзі буде встановлено.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Додатки невдовзі буде оновлено.</item>
+        <item quantity="one">Додатки невдовзі буде оновлено.</item>
+        <item quantity="few">Додатки невдовзі буде оновлено.</item>
+        <item quantity="many">Додатки невдовзі буде оновлено.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Востаннє використовувався %1$d дня тому</item>
+        <item quantity="one">Востаннє використовувався %1$d день тому</item>
+        <item quantity="few">Востаннє використовувався %1$d дні тому</item>
+        <item quantity="many">Востаннє використовувався %1$d днів тому</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Востаннє використовувався %1$d місяця тому</item>
+        <item quantity="one">Востаннє використовувався %1$d місяць тому</item>
+        <item quantity="few">Востаннє використовувався %1$d місяці тому</item>
+        <item quantity="many">Востаннє використовувався %1$d місяців тому</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в налаштуваннях пам’яті.</item>
+        <item quantity="one">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в налаштуваннях пам’яті.</item>
+        <item quantity="few">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в налаштуваннях пам’яті.</item>
+        <item quantity="many">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в налаштуваннях пам’яті.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню &lt;a href=\"\">Налаштування > Пам’ять&lt;/a>.</item>
+        <item quantity="one">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню &lt;a href=\"\">Налаштування > Пам’ять&lt;/a>.</item>
+        <item quantity="few">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню &lt;a href=\"\">Налаштування > Пам’ять&lt;/a>.</item>
+        <item quantity="many">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню &lt;a href=\"\">Налаштування > Пам’ять&lt;/a>.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню \"Налаштування > Пам’ять\".</item>
+        <item quantity="one">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню \"Налаштування > Пам’ять\".</item>
+        <item quantity="few">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню \"Налаштування > Пам’ять\".</item>
+        <item quantity="many">Щоб установити або оновити додатки на цьому пристрої, видаліть непотрібні додатки. Ви також можете звільнити місце, видаливши медіафайли в меню \"Налаштування > Пам’ять\".</item>
+    </plurals>
+</resources>

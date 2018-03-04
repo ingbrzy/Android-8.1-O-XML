@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Áfram</string>
+    <string name="suw_back_button_label">Til baka</string>
+    <string name="suw_more_button_label">Meira</string>
+    <string name="vzw_wfc_activation_error">Ekki er hægt að virkja Wi-Fi-símtöl. Reyndu aftur síðar.</string>
+    <string name="vzw_address_update_error">Ekki er hægt að uppfæra núverandi heimilisfang vegna neyðartilvika eins og er. Reyndu aftur síðar.</string>
+    <string name="emergency_address_app_label">Stjórnun heimilisfangs í neyðartilvikum</string>
+    <string name="progress_text">Augnablik…</string>
+    <string name="vzw_tos_title">Virkja Wi-Fi-símtöl</string>
+    <string name="cancel">Hætta við</string>
+    <string name="vzw_tos_text">"Með Wi-Fi-símtölum geturðu hringt gegnum Wi-Fi þegar farsímakerfið er ekki í boði.
+
+Til að setja upp Wi-Fi-símtöl þarftu að slá inn heimilisfang í Bandaríkjunum. Neyðarþjónusta á staðnum notar þetta heimilisfang ef þú hringir neyðarsímtal (E911) gegnum Wi-Fi úr þessum síma innan Bandaríkjanna.
+
+Við mælum með að þú breytir þessu heimilisfangi þegar þú hringir gegnum annað Wi-Fi-net til að staðsetningarupplýsingarnar séu réttar. Þú getur breytt staðsetningunni þinni hvenær sem er með því að opna stillingavalmyndina fyrir Wi-Fi-símtöl."</string>
+    <string name="vzw_tos_link">Skilmálar</string>
+    <string name="tos_continue">Áfram</string>
+    <string name="vzw_e911_title">Staðarupplýsingar vegna neyðartilvika</string>
+    <string name="vzw_e911_description"><b>MIKILVÆGT – HEIMILISFANGS VEGNA 911-NEYÐARTILVIKA ER KRAFIST</b>"
+Til að kveikja á Wi-Fi-símtölum skaltu slá inn heimilisfang innan Bandaríkjanna þangað sem þú vilt láta senda neyðarþjónustu ef þú hringir í 911. Þú getur farið í „Stillingar“ og breytt þessu heimilisfangi hvenær sem er. Það er mjög mikilvægt að uppfæra þetta heimilisfang þegar þú flytur á milli staða."</string>
+    <string name="vzw_e911_warning"><b>VIÐVÖRUN – TAKMARKANIR Á 911-NEYÐARSÍMTÖLUM</b>"
+Þegar þú hringir í 911 skaltu alltaf segja þeim sem svarar hvar þú ert. 911-símtalinu verður aðeins beint um Wi-Fi ef farsímakerfið er ekki tiltækt. 911-símtal í gegnum Wi-Fi getur tafist eða misheppnast, til dæmis ef 911-kerfið kannast ekki við heimilisfangið, í rafmagnsleysi eða ef Wi-Fi-tengingin virkar ekki. Neyðarþjónusta verður send á heimilisfangið sem gefið er upp hér að ofan og því skaltu uppfæra það þegar þú færir þig á milli staða."</string>
+    <string name="house_number">Húsnúmer</string>
+    <string name="street">Gata</string>
+    <string name="apt_suite_number">Íbúð o.s.frv.</string>
+    <string name="city">Borg</string>
+    <string name="state">Ríki</string>
+    <string name="zip_code">Póstnúmer</string>
+    <string name="save">Vista</string>
+    <string name="vzw_address_confirm_text_part1">Heimilisfangið sem þú slóst inn fannst ekki vegna þess að gata og húsnúmer fundust ekki, eða hugsanlega eru upplýsingar um borg, ríki og póstnúmer ekki réttar.</string>
+    <string name="vzw_address_confirm_text_part2">Ef borgin, ríkið og póstnúmerið eru ekki rétt skaltu ýta á %1$s, annars á %2$s.</string>
+    <string name="save_anyway">Vista samt</string>
+    <string name="edit_address">Breyta heimilisfangi</string>
+    <string name="ok">Í lagi</string>
+    <string name="vzw_address_select_text">Við fundum ekki heimilisfangið sem þú slóst inn:</string>
+    <string name="vzw_address_alternate_text">Áttirðu við:</string>
+    <string name="vzw_partial_confirm_head">Neyðarþjónustuaðilar gátu ekki staðfest heimilisfangið sem fært var inn.</string>
+    <string name="vzw_partial_confirm_text">Ertu viss um að þú viljir nota þetta heimilisfang í neyðartilviki?</string>
+    <string name="vzw_partial_failure_text_part1">Borgin, ríkið eða póstnúmerið sem þú færðir inn gæti verið rangt.</string>
+    <string name="vzw_partial_failure_text_part2">Athugaðu heimilisfangið og reyndu aftur.</string>
+    <string name="vzw_address_update_success_toast">Neyðarheimilisfang uppfært</string>
+    <string name="connect_to_wifi_or_web_portal_title">Slökkt er á Wi-Fi</string>
+    <string name="connect_to_wifi_or_web_portal_message">Þú getur sett upp Wi-Fi símtöl á farsímakerfi en þú þarft að kveikja á Wi-Fi og tengjast neti til að nota eiginleikann.</string>
+    <string name="button_turn_on_wifi">Kveikja á Wi-Fi</string>
+    <string name="button_setup_web_portal">Halda uppsetningu áfram</string>
+</resources>

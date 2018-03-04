@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enhetskonfigurering</string>
+    <string name="sim_locked_notification_content">Spør %1$s om denne enheten kan låses opp. Trykk her for kontaktdetaljer.</string>
+    <string name="sim_locked_notification_content_no_contact">Spør operatøren din om denne enheten kan låses opp</string>
+    <string name="sim_locked_notification_title">SIM-kortet støttes ikke</string>
+    <string name="sim_unlock_failure_notification_content">Du må kontakte %1$s. Trykk for å få mer informasjon.</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">Du må kontakte operatøren din</string>
+    <string name="sim_unlock_failure_notification_title">Kunne ikke fjerne operatørlåsen</string>
+    <string name="sim_unlocked_notification_content">Nå kan enheten brukes i alle nettverk</string>
+    <string name="sim_unlocked_notification_title">Operatørlåsen er fjernet</string>
+    <string name="zero_touch_disclaimer_no_contact_info">Denne enheten er konfigurert for administrering. Hvis dette er en feil, må du kontakte leverandøren av enheten</string>
+    <string name="zero_touch_disclaimer_with_support_link">%1$s har konfigurert denne enheten sånn at den kan administreres av organisasjonen din. Hvis dette er en feil, må du &lt;a href=%2$s>kontakte leverandøren av enheten&lt;/a>.&lt;br>&lt;br>Følgende app blir brukt til å administrere enheten din:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"%s har konfigurert denne enheten sånn at den kan administreres av organisasjonen din. Hvis dette er en feil, må du kontakte leverandøren av enheten.
+
+Følgende app blir brukt til å administrere enheten din:"</string>
+    <string name="zero_touch_header">Enheten din jobber automatisk</string>
+    <string name="zero_touch_notification_content">Tilbakestiller automatisk snart</string>
+    <string name="zero_touch_notification_title">Enheten administreres av administratoren</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">%1$s har konfigurert denne enheten sånn at den kan administreres av organisasjonen din. Hvis dette er en feil, må du &lt;a href=%2$s>kontakte leverandøren av enheten&lt;/a>.&lt;br>&lt;br>Før konfigureringen kan fortsette, må denne enheten bli tilbakestilt. Alle dataene på enheten blir slettet.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"%s har konfigurert denne enheten sånn at den kan administreres av organisasjonen din. Hvis dette er en feil, må du kontakte leverandøren av enheten.
+
+Før konfigureringen kan fortsette, må denne enheten bli tilbakestilt. Alle dataene på enheten blir slettet."</string>
+    <string name="zero_touch_reset_now">tilbakestill nå</string>
+    <string name="zero_touch_reset_soon">Enheten din blir snart tilbakestilt automatisk.</string>
+    <string name="zero_touch_reset_wait">OK</string>
+    <string name="zero_touch_retrieving_header">Sjekker enhetsinformasjonen …</string>
+    <string name="zero_touch_retrieving_text">Dette tar ikke lang tid</string>
+    <string name="zero_touch_support_title">Brukerstøtte</string>
+    <string name="zero_touch_url_error">Kan ikke vise denne linken.</string>
+</resources>

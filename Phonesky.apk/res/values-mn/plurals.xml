@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">Taны үнэлгээ: %1$s од</item>
+        <item quantity="one">Таны үнэлгээ: %1$s од</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d сэтгэгдэл</item>
+        <item quantity="one">%1$d сэтгэгдэл</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">%1$d одоор үнэлсэн %2$d сэтгэгдэл</item>
+        <item quantity="one">%1$dодоор үнэлсэн %2$d сэтгэгдэл</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">Суулгалтыг түр зогсоосон</item>
+        <item quantity="one">Суулгалтыг түр зогсоосон</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">Аппыг %1$d хоногийн өмнө скан хийсэн</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">%1$d аюултай аппыг устгасан. %2$s.</item>
+        <item quantity="one">%1$d аюултай аппыг устгасан. %2$s.</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d шинэчлэл зөвшөөрөл хүссэн</item>
+        <item quantity="one">%1$d шинэчлэл зөвшөөрөл хүссэн</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d шинэ шинэчлэл</item>
+        <item quantity="one">%1$d шинэ шинэчлэл</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d шинэчлэл боломжтой</item>
+        <item quantity="one">%1$d шинэчлэл боломжтой</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Бүгдийг шинэчлэх</item>
+        <item quantity="one">Шинэчлэх</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d апп-д шинэчлэл хийсэн</item>
+        <item quantity="one">%1$d апп-д шинэчлэл хийсэн</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s од</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s од</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s од - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s од - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s од - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s од - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">Энэ сэтгэгдлийг %1$d хэрэглэгч хэрэгтэй гэж үзсэн. Хэрэгтэй сэтгэгдлээ тэмдэглэнэ үү</item>
+        <item quantity="one">Энэ сэтгэгдлийг %1$d хэрэглэгч хэрэгтэй гэж үзсэн. Хэрэгтэй сэтгэгдлээ тэмдэглэнэ үү</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d хэрэглэгч энэ шүүмжийг хэрэгтэй гэж үзсэн. Сэтгэгдлийг хэрэгтэй гэж тэмдэглэхээ болих</item>
+        <item quantity="one">%1$d хэрэглэгч энэ шүүмжийг хэрэгтэй гэж үзсэн. Сэтгэгдлийг хэрэгтэй гэж тэмдэглэх</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Үүнийг &lt;b>%1$s одоор&lt;/b&amp;gt үнэлсэн;</item>
+        <item quantity="one">Үүнийг &lt;b>%1$s одоор&lt;/b&amp;gt үнэлсэн;</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s шүүмжид</item>
+        <item quantity="one">%1$s шүүмжид</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s од&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s од&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Хамгийн сүүлд %1$d өдрийн өмнө ашигласан</item>
+        <item quantity="one">Хамгийн сүүлд %1$d өдрийн өмнө ашигласан</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">Сонгосон %1$d апп-уудыг сэргээх</item>
+        <item quantity="one">Сонгосон апп-г сэргээх</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">од</item>
+        <item quantity="one">од</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">Апп-г удахгүй суулгана.</item>
+        <item quantity="one">Апп-г удахгүй суулгана.</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">Апп-н шинэчлэлтийг удахгүй суулгана.</item>
+        <item quantity="one">Апп-н шинэчлэлтийг удахгүй суулгана.</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">Хамгийн сүүлд %1$d өдрийн өмнө ашигласан</item>
+        <item quantity="one">Хамгийн сүүлд %1$d өдрийн өмнө ашигласан</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">Хамгийн сүүлд %1$d сарна өмнө ашигласан</item>
+        <item quantity="one">Хамгийн сүүлд %1$d сарын өмнө ашигласан</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэх бол ашиглахаа больсон апп-аа устгана уу. Мөн та Сангийн тохиргоо хэсгээс медиа файл устгаснаар багтаамжаа нэмэгдүүлэх боломжтой.</item>
+        <item quantity="one">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэхийн тулд ашиглахаа больсон апп-аа устгана уу. Мөн та Сангийн тохиргоо хэсгээс медиа файл устгаснаар багтаамжаа нэмэгдүүлэх боломжтой.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэх бол ашиглахаа больсон апп-аа устгана уу. Мөн та &lt;a href=\"\">Тохиргоо > Сан&lt;/a> хэсгээс медиа файл устгаснаар багтаамж нэмэгдүүлэх боломжтой.</item>
+        <item quantity="one">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэхийн тулд ашиглахаа больсон апп-аа устгана уу. Мөн та &lt;a href=\"\">Тохиргоо > Сан&lt;/a> хэсгээс медиа файл устгаснаар багтаамж нэмэгдүүлэх боломжтой.</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэх бол ашиглахаа больсон апп-аа устгана уу. Мөн та Тохиргоо > Сан хэсгээс медиа файл устгаснаар багтаамжаа нэмэгдүүлэх боломжтой.</item>
+        <item quantity="one">Энэ төхөөрөмжид апп суулгах, эсвэл шинэчлэхийн тулд ашиглахаа больсон апп-аа устгана уу. Мөн та Тохиргоо > Сан хэсгээс медиа файл устгаснаар багтаамжаа нэмэгдүүлэх боломжтой.</item>
+    </plurals>
+</resources>

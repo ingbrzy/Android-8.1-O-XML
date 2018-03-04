@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">अर्को</string>
+    <string name="suw_back_button_label">पछाडि जानुहोस्</string>
+    <string name="suw_more_button_label">थप</string>
+    <string name="vzw_wfc_activation_error">Wi-Fi कलिङलाई सक्रिय गर्न सकिएन। कृपया पछि फेरि प्रयास गर्नुहोस्।</string>
+    <string name="vzw_address_update_error">यस समय हालको आपतकालीन ठेगानालाई अद्यावधिक गर्न सकिएन। कृपया पछि फेरि प्रयास गर्नुहोस्।</string>
+    <string name="emergency_address_app_label">आपतकालीन ठेगानाको व्यवस्थापन</string>
+    <string name="progress_text">कृपया कुर्नुहोस्...</string>
+    <string name="vzw_tos_title">Wi-Fi कलिङलाई सक्रिय गर्नुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="vzw_tos_text">"Wi-Fi कलिङले मोबाइल नेटवर्क उपलब्ध नहुँदा Wi-Fi को प्रयोग गरी कल गर्न दिन्छ।
+
+Wi-Fi कलिङलाई सेट अप गर्न तपाईंले कुनै अमेरिकी ठेगाना प्रविष्ट गर्न आवश्यक हुनेछ। तपाईंले यस फोन मार्फत Wi-Fi को प्रयोग गरी अमेरिकाभित्र कुनै आपतकालीन (E911) कल गर्दा यस ठेगानाको प्रयोग गरिनेछ।
+
+तपाईंको स्थान सम्बन्धी जानकारी सटीक होस् भन्नका खातिर हामी तपाईंलाई तपाईंले कुनै फरक Wi-Fi नेटवर्कको प्रयोग गरी फोन गर्दा यो ठेगाना परिवर्तन गर्न सिफारिस गर्छौं। तपाईं जुनसुकै समय Wi-Fi कलिङ सम्बन्धी सेटिङहरूको मेनुमा गई आफ्नो स्थान परिवर्तन गर्न सक्नुहुन्छ।"</string>
+    <string name="vzw_tos_link">नियम र सर्तहरू</string>
+    <string name="tos_continue">जारी राख्नुहोस्</string>
+    <string name="vzw_e911_title">आपतकालीन स्थान सम्बन्धी जानकारी</string>
+    <string name="vzw_e911_description"><b>महत्वपूर्ण - ९११ सम्बन्धी आपतकालीन ठेगाना आवश्यक छ</b>"
+Wi-Fi कलिङलाई सक्रिय गर्न तपाईंले ९११ मा कल गर्दा आपतकालीन सेवाहरू पठाउन चाहनुभएको अमेरिकी ठेगाना प्रविष्ट गर्नुहोस्। तपाईं जुनसुकै समय सेटिङहरूमा गई यस ठेगानालाई परिवर्तन गर्न सक्नुहुन्छ। तपाईंले जहिलेसुकै आफ्नो स्थान परिवर्तन गर्दा यस ठेगानालाई अद्यावधिक गर्न अत्यावश्यक हुन्छ।"</string>
+    <string name="vzw_e911_warning"><b>चेतावनीहरू - ९११ मा आपतकालीन कल गर्ने सम्बन्धी सीमाहरू</b>"
+९११ मा कल गर्दा, अपरेटरलाई सधैँ आफू रहेको स्थान बताउनुहोस्। मोबाइल नेटवर्क उपलब्ध नभएको खण्डमा, Wi-Fi मार्फत मात्र ९११ मा कल गरिनेछ। Wi-Fi मार्फत ९११ मा कल गर्दा, ९११ को प्रणालीले तपाईंको ठेगाना पहिचान नगरेको, बिजुली नभएको वा तपाईंको Wi-Fi जडानले काम नगरेको जस्ता परिस्थितिहरूमा कल ढिला वा असफल हुन सक्छ। आपतकालीन सेवाहरूलाई तपाईंले माथि प्रदान गर्नुभएको ठेगानामा पठाइनेछन्, त्यसैले तपाईंले आफ्नो स्थान परिवर्तन गर्दा कृपया उक्त ठेगानालाई पनि सोही अनुसार अद्यावधिक गर्नुहोस्।"</string>
+    <string name="house_number">ठेगाना सम्बन्धी नम्बर</string>
+    <string name="street">सडक</string>
+    <string name="apt_suite_number">अपार्टमेन्ट, सुइट, आदि</string>
+    <string name="city">सहर</string>
+    <string name="state">राज्य</string>
+    <string name="zip_code">जिप कोड</string>
+    <string name="save">सुरक्षित गर्नुहोस्</string>
+    <string name="vzw_address_confirm_text_part1">सडकको ठेगाना भेट्टाउन नसकिएका कारण वा सहर, राज्य र जिप कोड सही नभएका कारण हामीले तपाईंले प्रविष्‍ट गर्नुभएको ठेगाना भेट्टाउन सकेनौँ।</string>
+    <string name="vzw_address_confirm_text_part2">तपाईंको सहर, राज्य र जिप जस्ता कुराहरू सही छैनन् भने %1$s मा ट्याप गर्नुहोस्, नत्रभने %2$s मा ट्याप गर्नुहोस्।</string>
+    <string name="save_anyway">जे भए पनि सुरक्षित गर्नुहोस्</string>
+    <string name="edit_address">ठेगाना सम्पादन गर्नुहोस्</string>
+    <string name="ok">ठीक छ</string>
+    <string name="vzw_address_select_text">हामीले तपाईंले प्रविष्ट गर्नुभएको ठेगाना भेट्टाउन सकेनौँ:</string>
+    <string name="vzw_address_alternate_text">तपाईंले यो भन्न खोज्नु भएको हो:</string>
+    <string name="vzw_partial_confirm_head">प्रविष्ट गरिएको ठेगानालाई आपतकालीन सेवा प्रदायकहरूले प्रमाणीकरण गर्न सकेनन्।</string>
+    <string name="vzw_partial_confirm_text">तपाईं साँच्चिकै कुनै आपतकालीन अवस्थामा यस ठेगानाको प्रयोग गर्न चाहनुहुन्छ?</string>
+    <string name="vzw_partial_failure_text_part1">तपाईंले प्रविष्ट गर्नुभएको सहर, राज्य वा जिप कोड सही नहुन सक्छ।</string>
+    <string name="vzw_partial_failure_text_part2">उक्त ठेगानाको जाँच गरी फेरि प्रयास गर्नुहोस्।</string>
+    <string name="vzw_address_update_success_toast">आपतकालीन ठेगाना अद्यावधिक गरियो</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi लाई निष्क्रिय पारिएको छ</string>
+    <string name="connect_to_wifi_or_web_portal_message">तपाईंले मोबाइल नेटवर्कको प्रयोग गरी Wi-Fi कलिङ सेटअप गर्न सक्नुहुन्छ, तर तपाईंले यस सुविधाको प्रयोग गर्न Wi-Fi लाई सक्रिय गरेर कुनै नेटवर्कमा जडान गर्नुपर्ने हुन्छ।</string>
+    <string name="button_turn_on_wifi">Wi-Fi सक्रिय गर्नुहोस्</string>
+    <string name="button_setup_web_portal">सेटअप जारी राख्नुहोस्</string>
+</resources>

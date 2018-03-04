@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%2$s লেবেলে %1$dটি পরিচিতি যোগ করা হয়েছে</item>
+        <item quantity="one">%2$s লেবেলে %1$dটি পরিচিতি যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">লেবেল %2$s এ %1$dটি পরিচিতি যোগ করা হচ্ছে</item>
+        <item quantity="one">লেবেল %2$s এ %1$dটি পরিচিতি যোগ করা হচ্ছে</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">%dটি পরিচিতির জন্য প্রস্তাবিত তথ্য পর্যালোচনা করুন</item>
+        <item quantity="one">%dটি পরিচিতির জন্য প্রস্তাবিত তথ্য পর্যালোচনা করুন</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%dটি জাঙ্ক পরিচিতি</item>
+        <item quantity="one">%dটি জাঙ্ক পরিচিতি</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%dটি ডুপ্লিকেট পরিচিতি</item>
+        <item quantity="one">%dটি ডুপ্লিকেট পরিচিতি</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$dটি সাম্প্রতিক করা কল • %2$s তারিখে শেষবার</item>
+        <item quantity="one">%1$dটি সাম্প্রতিক করা কল • %2$s তারিখে শেষবার</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">পরিচিতিগুলিকে ইতিমধ্যেই %1$s লেবেলে যোগ করা হয়েছেj</item>
+        <item quantity="one">পরিচিতিগুলিকে ইতিমধ্যেই %1$s লেবেলে যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%dটি পরিচিতি</item>
+        <item quantity="one">%dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$dটি পরিচিতি · %2$s</item>
+        <item quantity="one">%1$dটি পরিচিতি · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$dটি পরিচিতি মোছা হয়েছে</item>
+        <item quantity="one">%1$dটি পরিচিতি মোছা হয়েছে</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Google পরিচিতিগুলি এবং আপনার সমস্ত সিঙ্ক করা ডিভাইস থেকে এই পরিচিতিগুলিকে সরানো হবে</item>
+        <item quantity="one">Google পরিচিতিগুলি এবং আপনার সমস্ত সিঙ্ক করা ডিভাইস থেকে এই পরিচিতিগুলিকে সরানো হবে</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">আপনার অন্যান্য অ্যাকাউন্টে %1$dটি পরিচিতি</item>
+        <item quantity="one">আপনার অন্যান্য অ্যাকাউন্টে %1$dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$dটি পরিচিতি</item>
+        <item quantity="one">%1$dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1টি পরিচিতি • ^2</item>
+        <item quantity="one">^1টি পরিচিতি • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">এই %1$dটি পরিচিতিকে %2$s এ সরাবেন?</item>
+        <item quantity="one">এই %1$dটি পরিচিতিকে %2$s এ সরাবেন?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%dটি পরিচিতি সরানো হয়েছে</item>
+        <item quantity="one">%dটি পরিচিতি সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%dটি পরিচিতি সরানোর কাজটি সমাপ্ত হয়েছে</item>
+        <item quantity="one">%dটি পরিচিতি সরানোর কাজটি সমাপ্ত হয়েছে</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">%dটি পরিচিতি সরানো হচ্ছে</item>
+        <item quantity="one">%dটি পরিচিতি সরানো হচ্ছে</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%2$s এ %1$dটি পরিচিতির ব্যাক আপ নেওয়া হয়েছে</item>
+        <item quantity="one">%2$s এ %1$dটি পরিচিতির ব্যাক আপ নেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">সিম কার্ডগুলি থেকে আমদানি করুন</item>
+        <item quantity="one">সিম কার্ডগুলি থেকে আমদানি করুন</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%dটি পরিচিতি</item>
+        <item quantity="one">%dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">সিম কার্ডে থাকা %dটি পরিচিতি আমদানি করা হয়েছে</item>
+        <item quantity="one">সিম কার্ডে থাকা %dটি পরিচিতি আমদানি করা হয়েছে</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">এর মাধ্যমে পরিচিতিগুলি শেয়ার করুন</item>
+        <item quantity="one">এর মাধ্যমে পরিচিতিগুলি শেয়ার করুন</item>
+    </plurals>
+</resources>

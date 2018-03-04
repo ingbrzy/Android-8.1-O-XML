@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Следно</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Повеќе</string>
+    <string name="vzw_wfc_activation_error">„Повикувањето преку Wi-Fi“ не може да се активира. Обидете се повторно подоцна.</string>
+    <string name="vzw_address_update_error">Во моментов не може да се ажурира тековната адреса за службите за итни случаи. Обидете се повторно подоцна.</string>
+    <string name="emergency_address_app_label">Управување со адреса за итни случаи</string>
+    <string name="progress_text">Почекајте…</string>
+    <string name="vzw_tos_title">Активирајте „Повикување преку Wi-Fi“</string>
+    <string name="cancel">Откажи</string>
+    <string name="vzw_tos_text">"Повикувањето преку Wi-Fi ви овозможува да воспоставувате повици преку Wi-Fi кога мобилната мрежа не е достапна.
+
+За да поставите „Повикување преку Wi-Fi“, треба да внесете адреса во САД. Адресата ќе ја користат службите за итни случаи на вашата локација ако воспоставите повик во итен случај (E911) преку Wi-Fi од телефонов во границите на САД.
+
+Препорачуваме да ја промените адресава кога ќе воспоставувате повици преку друга Wi-Fi-мрежа за да бидат точни информациите за вашата локација. Локацијата може да ја промените во секое време во менито со поставки за „Повикување преку Wi-Fi“."</string>
+    <string name="vzw_tos_link">Одредби и услови</string>
+    <string name="tos_continue">Продолжи</string>
+    <string name="vzw_e911_title">Информации за локација за итни случаи</string>
+    <string name="vzw_e911_description"><b>ВАЖНО - ПОТРЕБНА Е АДРЕСА ЗА СЛУЖБИТЕ ЗА ИТНИ СЛУЧАИ 911</b>"
+За да вклучите „Повикување преку Wi-Fi“, внесете ја адресата во САД каде што сакате да се испраќаат службите за итни случаи ако повикате 911. Адресава може да ја промените во „Поставки“ во секое време. Многу е важно да ја ажурирате адресата секогаш кога ќе ја промените вашата локација."</string>
+    <string name="vzw_e911_warning"><b>ПРЕДУПРЕДУВАЊА - ОГРАНИЧУВАЊА НА ПОВИЦИ 192 ВО СЛУЖБАТА ЗА ИТНИ СЛУЧАИ </b>"
+Кога повикувате 192, секогаш кажувајте му на операторот каде се наоѓате. Повикот во службата 192 ќе се воспостави преку Wi-Fi само ако мобилната мрежа е недостапна. Повикот во службата 192 преку Wi-Fi може да доцни или да не успее, на пример, ако системот на службата 192 не ја препознае адресата, ако има прекин на електричната енергија или пак, ако врската преку Wi-Fi не функционира. Службите за итни случаи ќе се испратат на адресата што ја наведовте погоре, па ажурирајте ја при промена на вашата локација."</string>
+    <string name="house_number">Број од адреса</string>
+    <string name="street">Улица</string>
+    <string name="apt_suite_number">Апартман, стан, итн.</string>
+    <string name="city">Град</string>
+    <string name="state">Држава</string>
+    <string name="zip_code">Поштенски број</string>
+    <string name="save">Зачувај</string>
+    <string name="vzw_address_confirm_text_part1">Не можевме да ја најдеме адресата што ја внесовте, затоа што не можеше да се најде адресата на улицата или пак, можеби не се точни градот, државата и поштенскиот број.</string>
+    <string name="vzw_address_confirm_text_part2">Ако градот, државата и поштенскиот број не се точни, допрете %1$s. Во спротивно, допрете %2$s.</string>
+    <string name="save_anyway">Сепак зачувај</string>
+    <string name="edit_address">Измени ја адресата</string>
+    <string name="ok">ВО РЕД</string>
+    <string name="vzw_address_select_text">Адресата што ја внесовте не можеше да се најде:</string>
+    <string name="vzw_address_alternate_text">Дали мислевте:</string>
+    <string name="vzw_partial_confirm_head">Давателите на услуги во итни случаи не можеа да ја потврдат внесената адреса.</string>
+    <string name="vzw_partial_confirm_text">Дали сигурно сакате да ја користите оваа адреса во итни случаи?</string>
+    <string name="vzw_partial_failure_text_part1">Градот, државата или поштенскиот број што ги внесовте можеби не се точни.</string>
+    <string name="vzw_partial_failure_text_part2">Проверете ја адресата и обидете се повторно.</string>
+    <string name="vzw_address_update_success_toast">Адресата за итни случаи е ажурирана</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi е исклучена</string>
+    <string name="connect_to_wifi_or_web_portal_message">Може да поставите „Повици преку Wi-Fi“ преку мобилната мрежа, но ќе треба да вклучите Wi-Fi и да се поврзете на мрежа за да ја користите функцијава.</string>
+    <string name="button_turn_on_wifi">Вклучи Wi-Fi</string>
+    <string name="button_setup_web_portal">Продолжи со поставувањето</string>
+</resources>

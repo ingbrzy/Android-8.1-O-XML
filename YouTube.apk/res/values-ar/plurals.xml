@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">‏زر \"لم يعجبني\"، لقد أبدى %1$d شخص عدم إعجابهم بهذا الفيديو</item>
+        <item quantity="zero">زر \"لم يعجبني\"</item>
+        <item quantity="one">الزر \"لم يعجبني\"، لقد أبدى شخص واحد عدم إعجابه بهذا الفيديو</item>
+        <item quantity="two">زر \"لم يعجبني\"، لقد أبدى شخصان عدم إعجابهما بهذا الفيديو</item>
+        <item quantity="few">"‏زر \"لم يعجبني\"، لقد أبدى  %1$d أشخاص عدم إعجابهم بهذا الفيديو"</item>
+        <item quantity="many">‏زر \"لم يعجبني\"، لقد أبدى %1$d شخصًا عدم إعجابهم بهذا الفيديو</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">‏زر \"أعجبني\"، لقد أبدى %1$d شخص إعجابهم بهذا الفيديو</item>
+        <item quantity="zero">زر \"أعجبني\"</item>
+        <item quantity="one">الزر \"أعجبني\"، لقد أبدى شخص واحد إعجابه بهذا الفيديو</item>
+        <item quantity="two">زر \"أعجبني\"، لقد أبدى شخصان إعجابهما بهذا الفيديو</item>
+        <item quantity="few">‏زر \"أعجبني\"، لقد أبدى %1$d أشخاص إعجابهم بهذا الفيديو</item>
+        <item quantity="many">‏زر \"أعجبني\"، لقد أبدى %1$d شخصًا إعجابهم بهذا الفيديو</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">تخطي الإعلان بعد %1$d ثانية</item>
+        <item quantity="zero">تخطي الإعلان الآن</item>
+        <item quantity="one">تخطي الإعلان بعد ثانية واحدة</item>
+        <item quantity="two">تخطي الإعلان بعد ثانيتين</item>
+        <item quantity="few">تخطي الإعلان بعد %1$d ثوانٍ</item>
+        <item quantity="many">تخطي الإعلان بعد %1$d ثانية</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">‏زر \"التراجع عن إبداء عدم الإعجاب\"، لقد أبدى %1$d شخص عدم إعجابهم بهذا الفيديو</item>
+        <item quantity="zero">زر\" التراجع عن إبداء عدم الإعجاب\"</item>
+        <item quantity="one">الزر \"تراجع عن إبداء عدم الإعجاب\"، لقد أبدى شخص واحد عدم إعجابه بهذا الفيديو</item>
+        <item quantity="two">زر \"التراجع عن إبداء عدم الإعجاب\"، لقد أبدى شخصان عدم إعجابهما بهذا الفيديو</item>
+        <item quantity="few">‏زر \"التراجع عن إبداء عدم الإعجاب\"، لقد أبدى %1$d أشخاص عدم إعجابهم بهذا الفيديو</item>
+        <item quantity="many">‏زر \"التراجع عن إبداء عدم الإعجاب\"، لقد أبدى %1$d شخصًا عدم إعجابهم بهذا الفيديو</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">‏زر \"التراجع عن إبداء الإعجاب\"، لقد أبدى %1$d شخص إعجابهم بهذا الفيديو</item>
+        <item quantity="zero">زر \"التراجع عن إبداء الإعجاب\"</item>
+        <item quantity="one">الزر \"تراجع عن إبداء الإعجاب\"، لقد أبدى شخص واحد إعجابه بهذا الفيديو</item>
+        <item quantity="two">زر \"التراجع عن إبداء الإعجاب\"، لقد أبدى شخصان إعجابهما بهذا الفيديو</item>
+        <item quantity="few">‏زر \"التراجع عن إبداء الإعجاب\"، لقد أبدى %1$d أشخاص إعجابهم بهذا الفيديو</item>
+        <item quantity="many">‏زر \"التراجع عن إبداء الإعجاب\"، لقد أبدى %1$d شخصًا إعجابهم بهذا الفيديو</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d من المشاهدات</item>
+        <item quantity="zero">%1$s · %2$,d من المشاهدات</item>
+        <item quantity="one">%1$s · %2$,d مشاهدة واحدة</item>
+        <item quantity="two">%1$s · %2$,d من المشاهدات</item>
+        <item quantity="few">%1$s · %2$,d من المشاهدات</item>
+        <item quantity="many">%1$s · %2$,d من المشاهدات</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">مزامنة %1$d فيديو جديد</item>
+        <item quantity="zero">مزامنة %1$d فيديو جديد</item>
+        <item quantity="one">مزامنة فيديو واحد جديد (%1$d)</item>
+        <item quantity="two">مزامنة مقطعي فيديو جديدين (%1$d)</item>
+        <item quantity="few">مزامنة %1$d مقاطع فيديو جديدة</item>
+        <item quantity="many">مزامنة %1$d مقطع فيديو جديد</item>
+    </plurals>
+    <plurals name="auto_offline_video_duration_minutes">
+        <item quantity="other">‏%1$d دقيقة</item>
+        <item quantity="zero">‏%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">‏%1$d دقائق</item>
+        <item quantity="many">‏%1$d دقيقة</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">يتبقى %1$d من الأيام</item>
+        <item quantity="one">يتبقى يوم واحد</item>
+        <item quantity="two">يتبقى يومان</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">لم يتم تحديد مدة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">لم يتم تحديد مدة</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%1$d ثوانٍ</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">تتبقى %1$d من الساعات</item>
+        <item quantity="one">تتبقى ساعة واحدة</item>
+        <item quantity="two">تتبقى ساعتان</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">تتبقى %1$d من الدقائق</item>
+        <item quantity="one">تتبقى دقيقة واحدة</item>
+        <item quantity="two">تتبقى دقيقتان</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">‏%1$d من إجمالي %2$d من مقاطع الفيديو</item>
+        <item quantity="zero">لم يتم تنزيل أي فيديو وما من مقاطع فيديو في قائمة التشغيل</item>
+        <item quantity="one">‏%1$d من مقطع فيديو واحد</item>
+        <item quantity="two">‏%1$d من إجمالي %2$d من مقاطع الفيديو</item>
+        <item quantity="few">‏%1$d من إجمالي %2$d من مقاطع الفيديو</item>
+        <item quantity="many">‏%1$d من إجمالي %2$d من مقاطع الفيديو</item>
+    </plurals>
+    <plurals name="notification_video_list_completed">
+        <item quantity="other">‏تم حفظ %1$d فيديو جديد</item>
+        <item quantity="zero">لم يتم حفظ أي فيديو جديد</item>
+        <item quantity="one">تم حفظ فيديو واحد جديد</item>
+        <item quantity="two">تم حفظ مقطعي فيديو جديدين</item>
+        <item quantity="few">‏تم حفظ %1$d مقاطع فيديو جديدة</item>
+        <item quantity="many">‏تم حفظ %1$d مقطع فيديو جديدًا</item>
+    </plurals>
+    <plurals name="offline_pending_time_window_plural">
+        <item quantity="other">إجمالي %1$d فيديو. تم تعيين الحفظ: من %2$s إلى %3$s.</item>
+        <item quantity="zero"></item>
+        <item quantity="one">تم التعيين للحفظ: من %2$s إلى %3$s.</item>
+        <item quantity="two">إجمالي مقطعَي فيديو (%1$d). تم تعيين الحفظ: من %2$s إلى %3$s.</item>
+        <item quantity="few">إجمالي %1$d مقاطع فيديو. تم تعيين الحفظ: من %2$s إلى %3$s.</item>
+        <item quantity="many">إجمالي %1$d مقطع فيديو. تم تعيين الحفظ: من %2$s إلى %3$s.</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d من مقاطع الفيديو</item>
+        <item quantity="one">فيديو واحد</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">‏%d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="many">‏%d ثانية</item>
+    </plurals>
+    <plurals name="upload_notification_active_progress">
+        <item quantity="other">جارٍ تحميل %1$d من %2$d فيديو</item>
+        <item quantity="one">جارٍ تحميل فيديو واحد</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">‏تمّ تحميل %1$,d%%</item>
+        <item quantity="zero">‏تمّ تحميل %1$,d%%</item>
+        <item quantity="one">‏تمّ تحميل %1$,d%%</item>
+        <item quantity="two">‏تمّ تحميل %1$,d%%</item>
+        <item quantity="few">‏تمّ تحميل %1$,d%%</item>
+        <item quantity="many">‏تمّ تحميل %1$,d%%</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">‏يمكنك النقر نقرًا مزدوجًا على الجهة اليمنى أو اليسرى لتخطّي %d ثانية</item>
+        <item quantity="one">يمكنك النقر نقرًا مزدوجًا على الجهة اليمنى أو اليسرى لتخطّي ثانية واحدة</item>
+        <item quantity="many">‏يمكنك النقر نقرًا مزدوجًا على الجهة اليمنى أو اليسرى لتخطّي %d ثانية</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">‏%1$d فيديو</item>
+        <item quantity="zero">ما من مقاطع فيديو</item>
+        <item quantity="one">مقطع فيديو واحد</item>
+        <item quantity="two">مقطعا فيديو</item>
+        <item quantity="few">‏%1$d مقاطع فيديو</item>
+        <item quantity="many">‏%1$d مقطع فيديو</item>
+    </plurals>
+</resources>

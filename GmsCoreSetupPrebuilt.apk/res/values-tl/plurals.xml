@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Lahat ng %1$d na app</item>
+        <item quantity="one">Lahat ng %1$d app</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d na app ang pinili</item>
+        <item quantity="one">%1$d app ang pinili</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d na app ang na-install na</item>
+        <item quantity="one">%1$d app ang na-install na</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">May %1$d na app ang iyong backup. Pumili ng ilan o kunin ang lahat ng ito.</item>
+        <item quantity="one">May %1$d app ang iyong backup. Pumili ng ilan o kunin ang lahat ng ito.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d na contact sa device</item>
+        <item quantity="one">%1$d contact sa device</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d na contact sa SIM, %2$d na contact sa device</item>
+        <item quantity="one">%1$d contact sa SIM, %2$d contact sa device</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d na contact sa iCloud®</item>
+        <item quantity="one">%1$d contact sa iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d na contact sa SIM</item>
+        <item quantity="one">%1$d contact sa SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Nakakita kami ng %1$d na app. Pumili ng ilan o kunin ang lahat ng ito.</item>
+        <item quantity="one">Nakakita kami ng %1$d app. Pumili ng ilan o kunin ang lahat ng ito.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">May nakita kaming tugma para sa %1$d sa iyong mga iOS® app. Sa pamamagitan ng pag-install sa bawat app, sumasang-ayon ka sa mga pahintulot nito. &lt;annotation id="apps_permissions_learn_more">Matuto pa&lt;/annotation></item>
+        <item quantity="one">May nakita kaming tugma para sa %1$d sa iyong mga iOS® app. Sa pamamagitan ng pag-install sa bawat app, sumasang-ayon ka sa mga pahintulot nito. &lt;annotation id="apps_permissions_learn_more">Matuto pa&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d na item pa…</item>
+        <item quantity="one">%1$d item pa…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Paalala! Hindi na kasama sa kaganapang ito ang mga sumusunod na attendee:</item>
+        <item quantity="one">Paalala! Hindi na kasama sa kaganapang ito ang mga sumusunod na attendee:</item>
+    </plurals>
+</resources>

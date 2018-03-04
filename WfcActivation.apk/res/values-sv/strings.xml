@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Nästa</string>
+    <string name="suw_back_button_label">Tillbaka</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="vzw_wfc_activation_error">Det gick inte att aktivera Wi-Fi-samtal. Försök igen senare.</string>
+    <string name="vzw_address_update_error">Det går inte att uppdatera adressen för nödfall just nu. Försök igen senare.</string>
+    <string name="emergency_address_app_label">Hantera adress för nödfall</string>
+    <string name="progress_text">Vänta …</string>
+    <string name="vzw_tos_title">Aktivera Wi-Fi-samtal</string>
+    <string name="cancel">Avbryt</string>
+    <string name="vzw_tos_text">"Med Wi-Fi-samtal kan du ringa via Wi-Fi när det mobila nätverket inte är tillgängligt.
+
+Du måste ange en adress i USA om du vill konfigurera Wi-Fi-samtal. Om du ringer till larmcentralen (E911) via Wi-Fi från den här mobilen inom USA används adressen av räddningstjänsten i ditt område.
+
+Vi rekommenderar att du ändrar adressen när du ringer från ett annat Wi-Fi-nätverk så att din platsinformation är korrekt. Du kan när som helst ändra din plats genom att öppna inställningsmenyn för Wi-Fi-samtal."</string>
+    <string name="vzw_tos_link">Användarvillkor</string>
+    <string name="tos_continue">Fortsätt</string>
+    <string name="vzw_e911_title">Information om plats för nödfall</string>
+    <string name="vzw_e911_description"><b>VIKTIGT – ADRESS FÖR NÖDFALL MÅSTE ANGES</b>"
+Aktivera Wi-Fi-samtal genom att ange den adress i USA dit du vill att räddningstjänst ska skickas om du ringer larmcentralen 911. Du kan när som helst ändra adressen under Inställningar. Det är mycket viktigt att adressen uppdateras varje gång du befinner dig på att nytt ställe."</string>
+    <string name="vzw_e911_warning"><b>VARNING – BEGRÄNSNINGAR AV NÖDSAMTAL TILL 911</b>"
+När du ringer till larmcentralen 911 ska du alltid berätta för operatören var du befinner dig. Nödsamtalet görs bara via Wi-Fi om det mobila nätverket inte är tillgängligt. Samtal till 911 via Wi-Fi kan fördröjas eller misslyckas, t.ex. om systemet för 911 inte känner igen adressen, om det är strömavbrott eller om Wi-Fi-anslutningen inte fungerar. Räddningstjänst skickas till adressen som du har angett ovan så uppdatera den varje gång du befinner dig på ett nytt ställe."</string>
+    <string name="house_number">Gatunummer i adress</string>
+    <string name="street">Gatuadress</string>
+    <string name="apt_suite_number">Lägenhetsnummer, etc.</string>
+    <string name="city">Ort</string>
+    <string name="state">Delstat</string>
+    <string name="zip_code">Postnummer</string>
+    <string name="save">Spara</string>
+    <string name="vzw_address_confirm_text_part1">Det gick inte att hitta den angivna adressen eftersom gatuadressen inte hittades. Det kan också vara så att du har angett fel ort, delstat eller postnummer.</string>
+    <string name="vzw_address_confirm_text_part2">Om du har angett fel ort, delstat och postnummer trycker du på %1$s. Annars trycker du på %2$s.</string>
+    <string name="save_anyway">Spara ändå</string>
+    <string name="edit_address">Redigera adress</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Det gick inte att hitta den angivna adressen:</string>
+    <string name="vzw_address_alternate_text">Menade du:</string>
+    <string name="vzw_partial_confirm_head">Adressen som angavs kunde inte valideras av räddningstjänsten.</string>
+    <string name="vzw_partial_confirm_text">Vill du ange den här adressen som adress vid nödfall?</string>
+    <string name="vzw_partial_failure_text_part1">Du kanske har angett fel ort, delstat eller postnummer.</string>
+    <string name="vzw_partial_failure_text_part2">Kontrollera webbadressen och försök igen.</string>
+    <string name="vzw_address_update_success_toast">Adressen för nödfall har uppdaterats</string>
+    <string name="connect_to_wifi_or_web_portal_title">Wi-Fi är inaktiverat</string>
+    <string name="connect_to_wifi_or_web_portal_message">Du kan konfigurera Wi-Fi-samtal via ett mobilnätverk, men du måste aktivera Wi-Fi och ansluta till ett nätverk om du vill använda funktionen.</string>
+    <string name="button_turn_on_wifi">Aktivera Wi-Fi</string>
+    <string name="button_setup_web_portal">Fortsätt konfigurationen</string>
+</resources>

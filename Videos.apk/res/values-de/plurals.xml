@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Bewertung mit %1$s Sternen von %2$d Personen</item>
+        <item quantity="one">Bewertung mit %1$s Sternen von einer Person</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Läuft in %1$d Tagen ab</item>
+        <item quantity="one">Läuft in %1$d Tag ab</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Läuft in %1$d Stunden ab</item>
+        <item quantity="one">Läuft in %1$d Stunde ab</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">Noch %1$d</item>
+        <item quantity="one">Noch %1$d</item>
+    </plurals>
+</resources>

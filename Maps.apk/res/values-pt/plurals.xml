@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="STARTING_PHOTO_UPLOADS_TITLE">
+        <item quantity="other">Iniciando o upload de %d fotos no Google Maps</item>
+        <item quantity="one">Iniciando o upload de %d foto no Google Maps</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TEXT">
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">%1$d de %2$d</item>
+    </plurals>
+    <plurals name="UPLOAD_IN_PROGRESS_TITLE">
+        <item quantity="other">Adicionando %d fotos ao Maps</item>
+        <item quantity="one">Adicionando %d foto ao Maps</item>
+    </plurals>
+    <plurals name="UPLOAD_PENDING_TASK_TITLE">
+        <item quantity="other">"Aguardando Wi-Fi.
+ %d fotos pendentes."</item>
+        <item quantity="one">"Aguardando Wi-Fi.
+ %d foto pendente."</item>
+    </plurals>
+</resources>

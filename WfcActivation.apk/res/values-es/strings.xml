@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Siguiente</string>
+    <string name="suw_back_button_label">Atrás</string>
+    <string name="suw_more_button_label">Más</string>
+    <string name="vzw_wfc_activation_error">No se ha podido activar la función Llamada por Wi-Fi. Vuelve a intentarlo más tarde.</string>
+    <string name="vzw_address_update_error">En este momento, no se puede actualizar la dirección de emergencia actual. Vuelve a intentarlo más tarde.</string>
+    <string name="emergency_address_app_label">Gestión de direcciones de emergencia</string>
+    <string name="progress_text">Por favor, espera…</string>
+    <string name="vzw_tos_title">Activar llamadas por Wi-Fi</string>
+    <string name="cancel">Cancelar</string>
+    <string name="vzw_tos_text">"Llamada por Wi-Fi te permite llamar a través de redes Wi-Fi si la red móvil no está disponible.
+
+Para configurar esta función, debes introducir una dirección de Estados Unidos. Los servicios de emergencia de tu ubicación utilizarán esta dirección si haces una llamada de emergencia (E911) por Wi-Fi con este teléfono en Estados Unidos.
+
+Te recomendamos que cambies esta dirección cuando hagas llamadas con otra red Wi-Fi para que la información sobre la ubicación sea precisa. Puedes cambiar la ubicación en cualquier momento en el menú de ajustes de la función de llamadas por Wi-Fi."</string>
+    <string name="vzw_tos_link">Términos y condiciones</string>
+    <string name="tos_continue">Continuar</string>
+    <string name="vzw_e911_title">Información de la ubicación de emergencia</string>
+    <string name="vzw_e911_description"><b>IMPORTANTE: DIRECCIÓN DE EMERGENCIA 911 OBLIGATORIA</b>"
+Para activar las llamadas por Wi-Fi, escribe la dirección de Estados Unidos a la que quieres que se envíen los servicios de emergencia en caso de que llames al 911. Para cambiarla, puedes acceder a Ajustes en cualquier momento. Es muy importante que actualices esta dirección cada vez que cambies de ubicación."</string>
+    <string name="vzw_e911_warning"><b>ADVERTENCIAS: LIMITACIONES DE LLAMADA DE EMERGENCIA 911</b>"
+Cuando llames al 911, indica siempre al operador dónde estás. La llamada se transmitirá a través de la red Wi-Fi si la red móvil no está disponible. Es posible que las llamadas al 911 realizadas a través de Wi-Fi funcionen con retraso o no funcionen correctamente (por ejemplo, si el sistema del 911 no reconoce la dirección, si no hay suministro eléctrico o si la conexión Wi-Fi no funciona). Los servicios de emergencia acudirán a la dirección que has indicado, por lo que debes actualizarla al cambiar la ubicación."</string>
+    <string name="house_number">Número de la dirección</string>
+    <string name="street">Calle</string>
+    <string name="apt_suite_number">Apartamento, piso, etc.</string>
+    <string name="city">Ciudad</string>
+    <string name="state">Estado</string>
+    <string name="zip_code">Código postal</string>
+    <string name="save">Guardar</string>
+    <string name="vzw_address_confirm_text_part1">No hemos podido reconocer la dirección que has escrito porque la ciudad, el estado o el código postal no son correctos o porque no se ha encontrado la dirección postal.</string>
+    <string name="vzw_address_confirm_text_part2">Si la ciudad, el estado o el código postal no son correctos, toca %1$s. Si todo está bien, toca %2$s.</string>
+    <string name="save_anyway">Guardar de todos modos</string>
+    <string name="edit_address">Editar dirección</string>
+    <string name="ok">Aceptar</string>
+    <string name="vzw_address_select_text">No hemos podido encontrar la dirección que has escrito:</string>
+    <string name="vzw_address_alternate_text">Quizás quisiste decir:</string>
+    <string name="vzw_partial_confirm_head">Los proveedores de servicios de emergencia no han podido validar la dirección introducida.</string>
+    <string name="vzw_partial_confirm_text">¿Seguro que quieres utilizar esta dirección en caso de emergencia?</string>
+    <string name="vzw_partial_failure_text_part1">Es posible que la ciudad, el estado o el código postal que has escrito no sean correctos.</string>
+    <string name="vzw_partial_failure_text_part2">Comprueba la dirección e inténtalo de nuevo.</string>
+    <string name="vzw_address_update_success_toast">Dirección de emergencia actualizada</string>
+    <string name="connect_to_wifi_or_web_portal_title">La conexión Wi-Fi está desactivada</string>
+    <string name="connect_to_wifi_or_web_portal_message">Puedes configurar las llamadas Wi-Fi mediante la red móvil, pero tendrás que activar la conexión Wi-Fi y conectarte a una red para usar esta función.</string>
+    <string name="button_turn_on_wifi">Activar Wi-Fi</string>
+    <string name="button_setup_web_portal">Continuar con la configuración</string>
+</resources>

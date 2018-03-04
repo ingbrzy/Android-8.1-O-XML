@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Ďalej</string>
+    <string name="suw_back_button_label">Späť</string>
+    <string name="suw_more_button_label">Viac</string>
+    <string name="vzw_wfc_activation_error">Volanie cez Wi‑Fi sa nepodarilo aktivovať. Skúste to znova neskôr.</string>
+    <string name="vzw_address_update_error">Tiesňová adresa sa teraz nedá aktualizovať. Skúste to znova neskôr.</string>
+    <string name="emergency_address_app_label">Správa tiesňovej adresy</string>
+    <string name="progress_text">Čakajte…</string>
+    <string name="vzw_tos_title">Aktivácia Volania cez Wi‑Fi</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="vzw_tos_text">"Volanie cez Wi‑Fi vám umožní telefonovať prostredníctvom siete Wi‑Fi, keď je mobilná sieť nedostupná.
+
+Ak chcete nastaviť túto funkciu, budete musieť zadať adresu v USA. Túto adresu použijú záchranné služby vo vašej oblasti, ak uskutočníte tiesňové volanie (911) cez Wi‑Fi z tohto telefónu na území USA.
+
+Ak telefonujete pomocou inej siete Wi‑Fi, odporúčame túto adresu zmeniť, aby informácie o vašom mieste zostali presné. Toto miesto môžete kedykoľvek zmeniť v ponuke nastavení funkcie Volanie cez Wi‑Fi."</string>
+    <string name="vzw_tos_link">Zmluvné podmienky</string>
+    <string name="tos_continue">Pokračovať</string>
+    <string name="vzw_e911_title">Informácie o mieste tiesňového volania</string>
+    <string name="vzw_e911_description"><b>DÔLEŽITÉ – VYŽADUJE SA NÚDZOVÁ ADRESA PRE POHOTOVOSTNÚ SLUŽBU 911</b>"
+Ak chcete zapnúť Volanie cez Wi‑Fi, zadajte adresu, na ktorú treba poslať záchrannú službu, keď zavoláte na číslo 911. Túto adresu môžete kedykoľvek zmeniť v Nastaveniach. Keď sa presťahujete, nezabudnite túto adresu aktualizovať."</string>
+    <string name="vzw_e911_warning"><b>UPOZORNENIA – OBMEDZENIA TIESŇOVÝCH VOLANÍ NA ČÍSLO 911</b>"
+Keď zavoláte na číslo 911, operátorovi vždy povedzte, kde sa nachádzate. Hovor na číslo 911 pôjde cez sieť Wi‑Fi iba vtedy, keď mobilná sieť nebude k dispozícii. Hovor na číslo 911 cez Wi‑Fi môže byť omeškaný alebo neúspešný (ak napríklad systém 911 nerozpozná adresu, dôjde k výpadku prúdu alebo nefunguje pripojenie Wi‑Fi). Záchrannú službu pošleme na adresu, ktorú ste uviedli vyššie. V prípade presťahovania ju teda aktualizujte."</string>
+    <string name="house_number">Súpisné číslo</string>
+    <string name="street">Ulica</string>
+    <string name="apt_suite_number">Apartmán, izba a pod.</string>
+    <string name="city">Mesto</string>
+    <string name="state">Štát</string>
+    <string name="zip_code">PSČ</string>
+    <string name="save">Uložiť</string>
+    <string name="vzw_address_confirm_text_part1">Adresu, ktorú ste zadali, sa nepodarilo nájsť, pretože sa nenašla príslušná ulica alebo je nesprávne uvedené mesto, štát či PSČ.</string>
+    <string name="vzw_address_confirm_text_part2">Ak ste uviedli nesprávne mesto, štát alebo PSČ, klepnite na možnosť %1$s. Inak klepnite na možnosť %2$s.</string>
+    <string name="save_anyway">Uložiť aj tak</string>
+    <string name="edit_address">Upraviť adresu</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Adresu, ktorú ste zadali, sa nepodarilo nájsť:</string>
+    <string name="vzw_address_alternate_text">Mysleli ste:</string>
+    <string name="vzw_partial_confirm_head">Poskytovateľom pohotovostných služieb sa zadanú adresu nepodarilo overiť.</string>
+    <string name="vzw_partial_confirm_text">Naozaj chcete túto adresu použiť v prípade núdze?</string>
+    <string name="vzw_partial_failure_text_part1">Údaje o meste, štáte alebo PSČ, ktoré ste zadali, sú pravdepodobne nesprávne.</string>
+    <string name="vzw_partial_failure_text_part2">Skontrolujte adresu a skúste to znova.</string>
+    <string name="vzw_address_update_success_toast">Tiesňová adresa bola aktualizovaná</string>
+    <string name="connect_to_wifi_or_web_portal_title">Pripojenie Wi‑Fi je vypnuté</string>
+    <string name="connect_to_wifi_or_web_portal_message">Môžete si nastaviť volanie cez Wi‑Fi pomocou mobilnej siete. Ak budete chcieť použiť túto funkciu, musíte zapnúť Wi‑Fi a pripojiť sa k sieti.</string>
+    <string name="button_turn_on_wifi">Zapnúť Wi‑Fi</string>
+    <string name="button_setup_web_portal">Pokračovať v nastavovaní</string>
+</resources>

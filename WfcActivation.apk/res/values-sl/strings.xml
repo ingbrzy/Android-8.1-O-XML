@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Naprej</string>
+    <string name="suw_back_button_label">Nazaj</string>
+    <string name="suw_more_button_label">Več</string>
+    <string name="vzw_wfc_activation_error">Klicanja prek Wi-Fi-ja ni mogoče aktivirati. Poskusite znova pozneje.</string>
+    <string name="vzw_address_update_error">Obstoječega naslova za nujne primere trenutno ni mogoče posodobiti. Poskusite znova pozneje.</string>
+    <string name="emergency_address_app_label">Upravljanje naslova za nujne primere</string>
+    <string name="progress_text">Počakajte …</string>
+    <string name="vzw_tos_title">Aktiviranje klicanja prek Wi-Fi-ja</string>
+    <string name="cancel">Prekliči</string>
+    <string name="vzw_tos_text">"Klicanje prek Wi-Fi-ja omogoča klicanje prek povezave Wi-Fi, kadar mobilno omrežje ni na voljo.
+
+Če želite nastaviti klicanje prek Wi-Fi-ja, morate vnesti naslov v Združenih državah. Ta naslov bodo uporabile intervencijske službe na vaši lokaciji, če v Združenih državah s tem telefonom opravite klic v sili prek povezave Wi-Fi.
+
+Priporočamo, da pri klicanju prek drugega omrežja Wi-Fi ta naslov spremenite, da bodo podatki o lokaciji točnejši. Lokacijo je mogoče kadar koli spremeniti v meniju z nastavitvami klicanja prek Wi-Fi-ja."</string>
+    <string name="vzw_tos_link">Določila in pogoji</string>
+    <string name="tos_continue">Nadaljuj</string>
+    <string name="vzw_e911_title">Podatki o lokaciji za nujne primere</string>
+    <string name="vzw_e911_description"><b>POMEMBNO – POTREBEN JE NASLOV ZA NUJNE PRIMERE</b>"
+Če želite vklopiti klicanje prek Wi-Fi-ja, vnesite naslov v Združenih državah, na katerega pridejo intervencijske službe, če uporabite klic v sili. Ta naslov lahko kadar koli spremenite v nastavitvah. Zelo je pomembno, da ta naslov posodobite, ko se preselite."</string>
+    <string name="vzw_e911_warning"><b>OPOZORILA – OMEJITVE KLICA V SILI</b>"
+Pri klicu v sili telefonistu vedno povejte, kje ste. Klic v sili je opravljen prek povezave Wi-Fi samo, če mobilno omrežje ni na voljo. Klic v sili prek povezave Wi-Fi ima morda zakasnitev ali se morda ne opravi, če na primer sistem klicev v sili ne prepozna naslova, če zmanjka elektrike ali če povezava Wi-Fi ne deluje. Intervencijske službe bodo napotene na zgoraj navedeni naslov, zato ga ob selitvi posodobite."</string>
+    <string name="house_number">Številka naslova</string>
+    <string name="street">Ulica</string>
+    <string name="apt_suite_number">Stanovanje, apartma ipd.</string>
+    <string name="city">Kraj</string>
+    <string name="state">Zvezna država</string>
+    <string name="zip_code">Poštna številka</string>
+    <string name="save">Shrani</string>
+    <string name="vzw_address_confirm_text_part1">Vnesenega naslova ni bilo mogoče najti, ker ni bilo mogoče najti uličnega naslova, ali pa ste morda narobe vnesli kraj, zvezno državo ali poštno številko.</string>
+    <string name="vzw_address_confirm_text_part2">Če je napaka v kraju, zvezni državi ali poštni številki, se dotaknite %1$s, drugače se dotaknite %2$s.</string>
+    <string name="save_anyway">Vseeno shrani</string>
+    <string name="edit_address">Uredi naslov</string>
+    <string name="ok">V redu</string>
+    <string name="vzw_address_select_text">Vnesenega naslova ni bilo mogoče najti:</string>
+    <string name="vzw_address_alternate_text">Ste morda mislili:</string>
+    <string name="vzw_partial_confirm_head">Službe za storitve v sili niso mogle preveriti vnesenega naslova.</string>
+    <string name="vzw_partial_confirm_text">Ali res želite uporabiti ta naslov za nujne primere?</string>
+    <string name="vzw_partial_failure_text_part1">Morda ste narobe vnesli kraj, zvezno državo ali poštno številko.</string>
+    <string name="vzw_partial_failure_text_part2">Preverite naslov in poskusite znova.</string>
+    <string name="vzw_address_update_success_toast">Naslov za nujne primere je posodobljen</string>
+    <string name="connect_to_wifi_or_web_portal_title">Povezava Wi-Fi je izklopljena</string>
+    <string name="connect_to_wifi_or_web_portal_message">Klicanje prek povezave Wi-Fi lahko nastavite z mobilnim omrežjem, vendar morate za uporabo te funkcije vklopiti povezavo Wi-Fi in se povezati z omrežjem.</string>
+    <string name="button_turn_on_wifi">Vklopi Wi-Fi</string>
+    <string name="button_setup_web_portal">Nadaljuj nastavitev</string>
+</resources>

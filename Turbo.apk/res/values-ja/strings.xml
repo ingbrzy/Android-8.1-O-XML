@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_autocomplete_clear_button">検索をクリア</string>
+    <string name="place_autocomplete_search_hint">検索</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="anomaly_entry_system">Android システム</string>
+    <string name="background_battery_usage_description">バックグラウンドで電池を多く使用しています</string>
+    <string name="battery_history_days">%1$d日と%2$d時間%3$d分%4$d秒</string>
+    <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
+    <string name="battery_history_minutes">%1$d分%2$d秒</string>
+    <string name="battery_history_seconds">%1$d秒</string>
+    <string name="battery_history_days_no_seconds">%1$d日と%2$d時間%3$d分</string>
+    <string name="battery_history_hours_no_seconds">%1$d時間%2$d分</string>
+    <string name="battery_history_minutes_no_seconds">%1$d分</string>
+    <string name="notification_channel_name">電池残量の低下の通知</string>
+    <string name="time_remaining_warning_subtext">残り時間: 約 %1$s（使用状況に基づく）</string>
+    <string name="time_remaining_warning_text">もうすぐ電池がなくなります</string>
+    <string name="usage_alerts_empty_state">前回のフル充電以降、通知はありません</string>
+    <string name="usage_alerts_title">使用状況に関する通知</string>
+</resources>

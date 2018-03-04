@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">"S'han afegit %1$d contactes a l'etiqueta %2$s"</item>
+        <item quantity="one">"S'ha afegit %1$d contacte a l'etiqueta %2$s"</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">"S'estan afegint %1$d contactes a l'etiqueta %2$s"</item>
+        <item quantity="one">"S'està afegint %1$d contacte a l'etiqueta %2$s"</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Revisa la informació suggerida per a %d contactes</item>
+        <item quantity="one">Revisa la informació suggerida per a %d contacte</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d contactes brossa</item>
+        <item quantity="one">%d contacte brossa</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d contactes duplicats</item>
+        <item quantity="one">1 contacte duplicat</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">"%1$d trucades recents • L'última el dia %2$s"</item>
+        <item quantity="one">"%1$d trucada recent • L'última el dia %2$s"</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">"Els contactes ja s'han afegit a l'etiqueta %1$s"</item>
+        <item quantity="one">"El contacte ja s'ha afegit a l'etiqueta %1$s"</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">%d contacte</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d contactes · %2$s</item>
+        <item quantity="one">%1$d contacte · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">"S'han suprimit %1$d contactes"</item>
+        <item quantity="one">"S'ha suprimit %1$d contacte"</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Aquests contactes se suprimiran de Contactes de Google i de tots els dispositius sincronitzats</item>
+        <item quantity="one">Aquest contacte se suprimirà de Contactes de Google i de tots els dispositius sincronitzats</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d contactes als altres comptes que tens</item>
+        <item quantity="one">1 contacte als altres comptes que tens</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 contactes • ^2</item>
+        <item quantity="one">^1 contacte • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Vols moure aquests %1$d contactes a %2$s?</item>
+        <item quantity="one">Vols moure aquest contacte a %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">"S'han mogut %d contactes"</item>
+        <item quantity="one">"S'ha mogut %d contacte"</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">"S'han acabat de moure els %d contactes"</item>
+        <item quantity="one">"S'ha acabat de moure el contacte"</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">"S'estan movent els %d contactes"</item>
+        <item quantity="one">"S'està movent el contacte"</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Hi ha %1$d contactes amb còpia de seguretat a %2$s</item>
+        <item quantity="one">Hi ha %1$d contacte amb còpia de seguretat a %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importa de les targetes SIM</item>
+        <item quantity="one">Importa de la targeta SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">"S'han importat %d contactes de la SIM"</item>
+        <item quantity="one">"S'ha importat 1 contacte de la SIM"</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Comparteix els contactes per</item>
+        <item quantity="one">Comparteix el contacte per</item>
+    </plurals>
+</resources>

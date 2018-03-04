@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye!</string>
+    <string name="abc_activity_chooser_view_see_all">Shikoji të gjitha</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_search_hint">Kërko...</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Shpërnda publikisht me</string>
+    <string name="abc_shareactionprovider_share_with_application">Shpërnda publikisht me %s</string>
+    <string name="abc_toolbar_collapse_description">Shpalos</string>
+    <string name="app_has_in_app_purchases">Blerjet përmes aplikacionit</string>
+    <string name="app_has_permissions">Lejet: %s</string>
+    <string name="app_has_runtime_permissions">Aplikacioni do të kërkojë leje</string>
+    <string name="app_picker_loading">Po gjen aplikacionet që ofrohen…</string>
+    <string name="app_picker_loading_toast">Aplikacionet që ofrohen do të ngarkohen së shpejti</string>
+    <string name="app_picker_no_apps">Nuk u përzgjodh asnjë apl.</string>
+    <string name="app_picker_no_apps_found">Nuk u gjet asnjë aplikacion</string>
+    <string name="apps_permissions_described_v2">"Vetëm aplikacionet më të njohura dhe falas të iOS® mund të përputhen me aplikacionet e Android. Shumica e blerjeve përmes aplikacioneve nuk do të transferohen. Mund të gjesh më shumë aplikacione në \"Dyqanin e Play\" pasi të përfundosh konfigurimin.
+
+Mund të jetë e nevojshme t'u japësh disa aplikacioneve leje paraprake për të pasur qasje në aftësi specifike ose në informacionet në pajisjen tënde. Lejet organizohen në grupe lejesh. Duke zgjedhur që t'i instalosh këto aplikacione, ti pranon lejet që janë pjesë e çdo grupi. Më poshtë jepet një përshkrim i çdo grupi të lejeve.
+
+Disa aplikacione mund të mos kërkojnë pranimin e lejeve paraprakisht. Kur përdor një nga këto aplikacione, mund t'i lejosh ose t'i refuzosh lejet individuale para se aplikacioni të përdorë ato lloje të dhënash.
+
+^1"</string>
+    <string name="backup_d2d_migration_tool_activity_name">Vegla e transferimit të të dhënave</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="byteShort">bajt</string>
+    <string name="cancel_copy_button_text">Mos kopjo</string>
+    <string name="close_button_label">Mbyll</string>
+    <string name="cloud_restore_app_picker_button">Restauro</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Rezervimi yt nuk ka asnjë aplikacion</string>
+    <string name="cloud_restore_app_picker_title">Zgjidh aplikacionet që do të restaurohen</string>
+    <string name="common_cancel">Anulo</string>
+    <string name="common_google_play_services_enable_button">Aktivizo</string>
+    <string name="common_google_play_services_enable_text">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_enable_title">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_install_button">Instalo</string>
+    <string name="common_google_play_services_install_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde.</string>
+    <string name="common_google_play_services_install_title">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_notification_ticker">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote.</string>
+    <string name="common_google_play_services_update_button">Përditëso</string>
+    <string name="common_google_play_services_update_text">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="common_google_play_services_update_title">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="common_google_play_services_updating_text">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="common_google_play_services_wear_update_text">Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti.</string>
+    <string name="common_ok">Në rregull</string>
+    <string name="common_open_on_phone">Hape në telefon</string>
+    <string name="common_signin_button_text">Identifikohu</string>
+    <string name="common_signin_button_text_long">Identifikohu me Google</string>
+    <string name="contacts_number_device_and_icloud">%1$d në iCloud®, %2$d në pajisje</string>
+    <string name="contacts_number_device_and_icloud_with_google">Kontaktet e Google, %1$d në iCloud®, %2$d në pajisje</string>
+    <string name="contacts_number_device_and_sim_with_google">Kontaktet e Google, %1$d në SIM, %2$d në pajisje</string>
+    <string name="contacts_number_device_with_google">Kontaktet e Google, %1$d në pajisje</string>
+    <string name="contacts_number_icloud_with_google">Kontaktet e Google, %1$d në iCloud®</string>
+    <string name="contacts_number_sim_with_google">Kontaktet e Google, %1$d në kartën SIM</string>
+    <string name="copy_confirmation_description">Do të kopjosh të dhënat, siç janë llogaria e Google dhe aplikacionet, në telefonin e ri</string>
+    <string name="copy_confirmation_title">Do të kopjosh te telefoni i ri?</string>
+    <string name="d2d_app_picker_description_no_apps">Nuk mund të gjenim asnjë aplikacion</string>
+    <string name="d2d_app_picker_title">Aplikacionet</string>
+    <string name="d2d_migration_canceled_on_source">Kopjimi u anulua</string>
+    <string name="data_copied_fragment_description">Të dhënat e tua janë kopjuar te telefoni yt i ri. Mund ta shkëputësh kabllon.</string>
+    <string name="data_copied_fragment_description_cancel">Zgjodhe që të ndalosh kopjimin, kështu që vetëm disa të dhëna janë kopjuar te telefoni yt i ri.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Zgjodhe që të ndalosh kopjimin, kështu që asnjë e dhënë nuk është kopjuar te telefoni yt i ri.</string>
+    <string name="data_copied_fragment_description_error">"Ndodhi një gabim, kështu që nuk mund t'i kopjonim të gjitha."</string>
+    <string name="data_copied_fragment_description_error_no_data">"Ndodhi një gabim, kështu që nuk mund t'i kopjonim të dhënat e tua."</string>
+    <string name="data_copied_fragment_no_data_title">Nuk mund të kopjoheshin</string>
+    <string name="data_copied_fragment_some_data_title">Disa të dhëna u kopjuan</string>
+    <string name="data_copied_fragment_title">Të dhënat u kopjuan</string>
+    <string name="device_not_supported_fragment_new_device">Je lidhur me një telefon të ri. Për të vazhduar, lidhe përsëri me telefonin tënd të mëparshëm.</string>
+    <string name="device_not_supported_fragment_new_device_title">Lidhe përsëri me telefonin e mëparshëm</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kjo kabllo nuk mund të transferojë të dhëna. Lidhe përsëri me një kabllo tjetër dhe provo përsëri.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Provo një kabllo tjetër</string>
+    <string name="device_not_supported_fragment_retry_description">Sigurohu që telefoni yt i vjetër të jetë i shkyçur, më pas shkëpute dhe rilidhe kabllon</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Ndodhi një gabim</string>
+    <string name="device_not_supported_ios_supervised_description">Meqenëse pajisja jote iPhone® është e mbikëqyrur, do të duhet të zgjedhësh një mënyrë tjetër për kopjimin e të dhënave</string>
+    <string name="device_picker_skip">Mos restauro</string>
+    <string name="durationDayHour">%1$d ditë %2$d orë</string>
+    <string name="durationDayHours">%1$d ditë %2$d orë</string>
+    <string name="durationDays">%1$d ditë</string>
+    <string name="durationHourMinute">%1$d orë e %2$d minutë</string>
+    <string name="durationHourMinutes">%1$d orë e %2$d minuta</string>
+    <string name="durationHours">%1$d orë</string>
+    <string name="durationMinute">%1$d minutë</string>
+    <string name="durationMinutes">%1$d minuta</string>
+    <string name="encryption_warning_fragment_description">"Enkriptimi i rezervimit është i aktivizuar për pajisjen tënde iPhone®. Nëse nuk e ke aktivizuar këtë vetë, ai mund të jetë aktivizuar nga administratori i TI-së.
+
+Vetëm fotografitë, muzika dhe videot mund të transferohen. Për më shumë informacion, vizito "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Enkriptimi i rezervimit</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Nuk e gjej dot përshtatësin</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Gjej përshtatësin Quick Switch Adapter që ke marrë në të njëjtën kuti si pajisja jote ^1.
+
+Lidh kabllon me përshtatësin."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Lidh përshtatësin dhe kabllon</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Shkyç telefonin e vjetër dhe më pas lidh përshtatësin me këtë telefon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Lidh dy telefonat</string>
+    <string name="fragment_usb_dialog_cancel_description">Nëse përdor kabllo, do të marrësh shumicën e përmbajtjes. Nëse kabllot në kuti nuk i përshtaten telefonit të vjetër, mund të përdorësh një kabllo të dhënash ose ngarkimi që funksionon me telefonin e vjetër.</string>
+    <string name="fragment_usb_dialog_cancel_title">"Dëshiron t'i kopjosh të dhënat në mënyrë tjetër?"</string>
+    <string name="fragment_usb_dont_copy">Mos kopjo</string>
+    <string name="fragment_usb_dont_have_cable">Nuk kam kabllo</string>
+    <string name="fragment_usb_dont_have_old_phone">nuk mund ta përdorësh telefonin e vjetër?</string>
+    <string name="fragment_usb_find_cable_description">Përdor një kabllo që i përshtatet telefonit të vjetër, siç është kablloja e të dhënave ose e ngarkimit.</string>
+    <string name="fragment_usb_find_cable_title">Gjej kabllon e duhur</string>
+    <string name="fragment_usb_initial_description">Të nevojitet pajisja jote e vjetër Android ose iPhone®. Ndize dhe mbaje të shkyçur.</string>
+    <string name="fragment_usb_initial_title">Merr telefonin e vjetër</string>
+    <string name="fragment_usb_legacy_description">"Kjo është mënyra më e shpejtë për të transferuar shumicën e të dhënave.
+
+Gjej përshtatësin në kuti dhe lidhe me telefonin tënd të ri. Lidhi telefonat me anë të kabllos dhe më pas shkyçe telefonin e vjetër."</string>
+    <string name="fragment_usb_missing_data_description">Mund të vazhdosh konfigurimin e Pixel gjatë transferimit.</string>
+    <string name="fragment_usb_missing_data_title">"Le t'i kopjojmë të dhënat e tua"</string>
+    <string name="fragment_usb_other_ways">Kopjo pa kabllo</string>
+    <string name="fragment_usb_plug_cable">Lidh kabllon me telefonin e vjetër</string>
+    <string name="fragment_waiting_title">Vetëm një sekondë…</string>
+    <string name="gigabyteShort">gigabajt</string>
+    <string name="google_contacts_static_text">\"Kontaktet e Google\" do të sinkronizohen</string>
+    <string name="google_contacts_static_text_off">Kontaktet e Google do të sinkronizohen përsëri</string>
+    <string name="i_message_dialog_message">"Për të vazhduar të marrësh mesazhe SMS nga përdoruesit e iPhone®, do të duhet të çaktivizosh iMessage®.
+
+Vizito "<b>g.co/iMessageHelp</b> për udhëzime.</string>
+    <string name="instructions_fragment_title">Vazhdo në telefonin tjetër</string>
+    <string name="ios_connected_fragment_description">"Në ekranin tjetër mund të identifikohesh në llogarinë tënde të Google ose mund të krijosh një të re.
+
+Nëse nuk shton llogarinë tënde të Google, ngjarjet e tua në iOS Calendar® nuk do të transferohen."</string>
+    <string name="ios_message_attachment_explanation">[Bashkëngjitjet e mesazhit janë te Fotografitë e Google > Dosjet e pajisjes > Bashkëngjitjet e mesazheve]</string>
+    <string name="ios_message_attachment_failed_explanation">"[Disa bashkëngjitje nuk mund të kopjoheshin. Bashkëngjitjet që u transferuan mund t'i gjesh te Fotografitë e Google > Dosjet e pajisjes > Bashkëngjitjet e mesazheve]"</string>
+    <string name="ios_message_attachment_placeholder">[Bashkëngjitja u ruajt te Fotografitë e Google > Dosjet e pajisjes > Bashkëngjitjet e mesazheve]</string>
+    <string name="ios_message_attachments_placeholder">[Bashkëngjitjet u ruajtën te Fotografitë e Google > Dosjet e pajisjes > Bashkëngjitjet e mesazheve]</string>
+    <string name="ios_migration_default_calendar_title">Kalendari</string>
+    <string name="ios_migration_other_contact_relation">Tjetër</string>
+    <string name="ios_photos_dialog_message">"Fotografitë e ruajtura në iCloud® nuk mund të kopjohen.
+
+Për t'i sjellë këto fotografi te pajisja jote ^1, instalo aplikacionin \"Fotografitë e Google\" në pajisjen tënde iPhone® dhe aktivizo \"Rezervimi dhe sinkronizimi\". Vizito "<b>g.co/datatransferhelp</b> për më shumë udhëzime.</string>
+    <string name="kilobyteShort">kilobajt</string>
+    <string name="lockscreen_smartdevice_action_next">Përpara</string>
+    <string name="megabyteShort">megabajt</string>
+    <string name="petabyteShort">petabajt</string>
+    <string name="photos_filtering_option_all">Të gjitha</string>
+    <string name="photos_filtering_option_none">Asnjë</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kontaktet e kopjuara do të ruhen te llogaria jote e Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kontaktet dhe kalendarët e kopjuar do të ruhen te llogaria jote e Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Disa nga të dhënat e tua mund të mos kopjohen te pajisja jote ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Mëso më shumë</annotation></string>
+    <string name="restore_choice_deselect_some_content">Hiq përzgjedhjen nga disa përmbajtje për të vazhduar</string>
+    <string name="restore_choice_learn_more_android">"Disa të dhëna nga telefoni yt i vjetër nuk mund të kopjohen automatikisht:
+
+ ● Shkarkimet (si skedarët PDF)
+
+ ● Fotografitë, muzika dhe videot e ruajtura në dosjet e fshehura
+
+ ● Fotografitë, muzika dhe videot e marra me mesazhe me tekst
+
+ ● Aplikacionet që nuk janë nga \"Dyqani i Google Play\"
+
+ ● Të dhënat e aplikacioneve (nëse aplikacioni nuk përdor rezervimin e Android)
+
+ ● Cilësime të caktuara të pajisjes
+
+ ● Llogaritë e ndryshme nga llogaritë e Google (dhe të dhënat përkatëse)
+
+ ● Kontaktet dhe kalendarët e sinkronizuar me shërbime të ndryshme nga Google
+
+ ● Tonet e ziles
+
+ Për më shumë detaje dhe ndihmë për kopjimin e disa prej këtyre të dhënave, vizito g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Disa të dhëna nga telefoni yt i vjetër nuk mund të kopjohen automatikisht:
+
+ ● Aplikacionet dhe të dhënat e aplikacioneve
+
+ ● Fotografitë kur në telefonin tënd nuk është ruajtur një origjinale (për shembull, nëse cilësimi \"Optimizo hapësirën ruajtëse\" është aktiv, fotografitë origjinale janë ruajtur në iCloud®)
+
+ ● Skedarët dhe dokumentet e ruajtura në iCloud®
+
+ ● Cilësimet e pajisjes (si fjalëkalimet e Wi-Fi dhe imazhi i sfondit)
+
+ ● Muzika e mbrojtur me mbrojtjen e \"Menaxhimit të të drejtave dixhitale\" (DRM) (për shembull, muzika në iTunes® e blerë para prillit 2009 ose muzika e shkarkuar për ta dëgjuar jashtë linje në një aplikacion të transmetimit të muzikës)
+
+ ● Llogaritë e ndryshme nga llogaritë e Google (dhe të dhënat përkatëse)
+
+ ● Kontaktet dhe kalendarët e sinkronizuar me shërbime të ndryshme nga Google ose iCloud®
+
+ ● Faqeshënuesit nga Safari®
+
+ Bashkëngjitjet e iMessage® do të jenë të disponueshme në Fotografitë e Google > Dosjet e pajisjes > Bashkëngjitjet e mesazheve.
+
+ Për më shumë detaje dhe ndihmë për kopjimin e disa prej këtyre të dhënave, vizito g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nuk ka hapësirë të mjaftueshme</string>
+    <string name="restore_choice_total_text">nga totali i disponueshëm %1$s / %2$s transferim</string>
+    <string name="restore_item_appdata">Të dhënat e aplikacioneve</string>
+    <string name="restore_item_calendar">Kalendari</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, \"Kalendari i Google\"</string>
+    <string name="restore_item_calendar_ical_off_description">\"Kalendari i Google\" do të sinkronozohet përsëri</string>
+    <string name="restore_item_calendar_sync_description">\"Kalendari i Google\" do të sinkronizohet</string>
+    <string name="restore_item_call_logs">Historiku i telefonatave</string>
+    <string name="restore_item_contacts">Kontaktet</string>
+    <string name="restore_item_device_settings_description">Fjalëkalimet e Wi-Fi dhe më shumë</string>
+    <string name="restore_item_downloads">Shkarkimet</string>
+    <string name="restore_item_email">Dërgo mail</string>
+    <string name="restore_item_email_description">Gmail do të sinkronizohet</string>
+    <string name="restore_item_message_attachments">Bashkëngjitjet e mesazheve</string>
+    <string name="restore_item_messages">Mesazhet</string>
+    <string name="restore_item_music">Muzika</string>
+    <string name="restore_item_photos">Fotografitë dhe videot</string>
+    <string name="restore_item_settings">Cilësimet e pajisjes</string>
+    <string name="restore_item_sms">Mesazhet SMS</string>
+    <string name="restore_item_will_be_synced_text">Këto të dhëna do të sinkronizohen te telefoni</string>
+    <string name="restore_progress_title">Po restaurohet…</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="small_time_duration">Më pak se 1 minutë</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Hiqe</string>
+    <string name="stop_copying_dialog_message_before_transfer">Të dhënat e tua nuk janë kopjuar në telefonin e ri</string>
+    <string name="stop_copying_dialog_message_during_transfer">Disa nga të dhënat e tua nuk janë kopjuar në telefonin e ri</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Mos kopjo</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Ndalo</string>
+    <string name="stop_copying_dialog_title_before_transfer">Të mos kopjohet?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Të ndalohet kopjimi?</string>
+    <string name="suw_back_button_label">Prapa</string>
+    <string name="suw_more_button_label">Më shumë</string>
+    <string name="suw_next_button_label">Përpara</string>
+    <string name="target_default_source_device_model">pajisja e vjetër</string>
+    <string name="target_device_not_supported_cant_continue_description">Duhet të zgjedhësh një mënyrë tjetër për të kopjuar të dhënat</string>
+    <string name="target_device_not_supported_cant_continue_title">Telefoni tjetër nuk mbështetet</string>
+    <string name="target_device_not_supported_try_restarting_description">"Shkëput kabllon dhe rinise telefonin tënd të vjetër, më pas lidhe përsëri kabllon dhe ndiq udhëzimet në telefonin tënd Pixel.
+
+Nëse vazhdon të shikosh këtë gabim, mund të jetë e nevojshme që të provosh ta kopjosh në një mënyrë tjetër."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefoni mund të mos mbështetet</string>
+    <string name="target_pixelmigrate_notification_description">E disponueshme ose në progres</string>
+    <string name="target_pixelmigrate_notification_title">Transferimi i të dhënave</string>
+    <string name="target_smart_device_timeout_add_account">SHTO LLOGARI</string>
+    <string name="target_smart_device_timeout_description">Nëse dëshiron, mund ta provosh ta shtosh llogarinë tënde në mënyrë manuale</string>
+    <string name="target_smart_device_timeout_dismiss">HIQ</string>
+    <string name="target_smart_device_timeout_title">Ke probleme?</string>
+    <string name="terabyteShort">terabajt</string>
+    <string name="toast_phones_connected">Telefonat janë lidhur</string>
+    <string name="toast_reconnect_cable">Rilidhe kabllon</string>
+    <string name="transfer_finished_fragment_title">Po përfundon rregullimet e fundit...</string>
+    <string name="transfer_summary_copied">Të dhënat u kopjuan</string>
+    <string name="transfer_summary_fragment_description">Mund ta shkëputësh kabllon</string>
+    <string name="transfer_summary_fragment_finish">PËRFUNDO</string>
+    <string name="transfer_summary_fragment_title">Telefoni yt është pothuajse gati</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Disa nga fotografitë e tua nuk u kopjuan. <annotation id="transfer_summary_learn_more">Mëso më shumë</annotation></string>
+    <string name="transfer_summary_not_copied">Të dhënat nuk u kopjuan</string>
+    <string name="transfer_summary_partial">%1$s / %2$s u kopjuan</string>
+    <string name="transfer_summary_will_sync">Të dhënat do të sinkronizohen pas konfigurimit</string>
+    <string name="transferring_fragment_calculating_remaining_time">Po llogarit kohën e mbetur...</string>
+    <string name="transferring_fragment_header">Po kopjon...</string>
+    <string name="transferring_fragment_remaining_time">%1$s të mbetura</string>
+    <string name="trust_instructions_description">Për të vazhduar, kontrollo pajisjen tënde iPhone® dhe mirato lidhjen</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari dhe iTunes janë marka tregtare të Apple Inc., të regjistruara në Shtetet e Bashkuara dhe në shtete të tjera.</string>
+</resources>

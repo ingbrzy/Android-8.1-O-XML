@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>kein Betreff</item>
+        <item>Kein Betreff</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Ja</item>
+        <item>Nein</item>
+        <item>Okay</item>
+        <item>Hihi</item>
+        <item>Danke</item>
+        <item>Einverstanden</item>
+        <item>Wunderbar</item>
+        <item>Bin auf dem Weg</item>
+        <item>OK, ich melde mich später.</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS mit einem Link</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Immer als SMS erneut senden</item>
+        <item>Als SMS erneut senden, wenn kein Roaming aktiv ist</item>
+        <item>Vor erneutem Senden fragen</item>
+        <item>Nie als SMS erneut senden</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Immer als SMS/MMS erneut senden</item>
+        <item>Als SMS/MMS erneut senden, wenn kein Roaming aktiv ist</item>
+        <item>Vor erneutem Senden fragen</item>
+        <item>Nie als SMS/MMS erneut senden</item>
+    </string-array>
+</resources>

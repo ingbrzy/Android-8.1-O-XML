@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d контаката је додато у ознаку %2$s</item>
+        <item quantity="one">%1$d контакт је додат у ознаку %2$s</item>
+        <item quantity="few">%1$d контакта су додата у ознаку %2$s</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Додаје се %1$d контаката у ознаку %2$s</item>
+        <item quantity="one">Додаје се %1$d контакт у ознаку %2$s</item>
+        <item quantity="few">Додају се %1$d контакта у ознаку %2$s</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Прегледајте предложене информације за %d контаката</item>
+        <item quantity="one">Прегледајте предложене информације за %d контакт</item>
+        <item quantity="few">Прегледајте предложене информације за %d контакта</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d непожељних контаката</item>
+        <item quantity="one">%d непожељан контакт</item>
+        <item quantity="few">%d непожељна контакта</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d дуплираних контаката</item>
+        <item quantity="one">%d дуплирани контакт</item>
+        <item quantity="few">%d дуплирана контакта</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d недавних позива • Последњи пут %2$s</item>
+        <item quantity="one">%1$d недавни позив • Последњи пут %2$s</item>
+        <item quantity="few">%1$d недавна позива • Последњи пут %2$s</item>
+    </plurals>
+    <plurals name="contactsAlreadyInGroup">
+        <item quantity="other">Контакти су већ додати у ознаку %1$s</item>
+        <item quantity="one">Контакти су већ додати у ознаку %1$s</item>
+        <item quantity="few">Контакти су већ додати у ознаку %1$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d контаката</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d контаката · %2$s</item>
+        <item quantity="one">%1$d контакт · %2$s</item>
+        <item quantity="few">%1$d контакта · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d контаката је избрисано</item>
+        <item quantity="one">%1$d контакт је избрисан</item>
+        <item quantity="few">%1$d контакта су избрисана</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Ови контакти ће бити уклоњени из Google контаката и са свих синхронизованих уређаја</item>
+        <item quantity="one">Ови контакти ће бити уклоњени из Google контаката и са свих синхронизованих уређаја</item>
+        <item quantity="few">Ови контакти ће бити уклоњени из Google контаката и са свих синхронизованих уређаја</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d контаката на другим налозима</item>
+        <item quantity="one">%1$d контакт на другим налозима</item>
+        <item quantity="few">%1$d контакта на другим налозима</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d контаката</item>
+        <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакта</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 контаката • ^2</item>
+        <item quantity="one">^1 контакт • ^2</item>
+        <item quantity="few">^1 контакта • ^2</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Желите ли да преместите ових %1$d контаката на %2$s?</item>
+        <item quantity="one">Желите ли да преместите овај %1$d контакт на %2$s?</item>
+        <item quantity="few">Желите ли да преместите ова %1$d контакта на %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">Преместили сте %d контаката</item>
+        <item quantity="one">Преместили сте %d контакт</item>
+        <item quantity="few">Преместили сте %d контакта</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">Премештање %d контаката је завршено</item>
+        <item quantity="one">Премештање %d контакта је завршено</item>
+        <item quantity="few">Премештање %d контакта је завршено</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Премешта се %d контаката</item>
+        <item quantity="one">Премешта се %d контакт</item>
+        <item quantity="few">Премештају се %d контакта</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">Направљена је резервна копија %1$d контаката на %2$s</item>
+        <item quantity="one">Направљена је резервна копија %1$d контакта на %2$s</item>
+        <item quantity="few">Направљена је резервна копија %1$d контакта на %2$s</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Увезите са SIM картица</item>
+        <item quantity="one">Увезите са SIM картица</item>
+        <item quantity="few">Увезите са SIM картица</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d контаката</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Увезено је %d контаката са SIM картице</item>
+        <item quantity="one">Увезен је %d контакт са SIM картице</item>
+        <item quantity="few">Увезена су %d контакта са SIM картице</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Делите контакте преко</item>
+        <item quantity="one">Делите контакте преко</item>
+        <item quantity="few">Делите контакте преко</item>
+    </plurals>
+</resources>

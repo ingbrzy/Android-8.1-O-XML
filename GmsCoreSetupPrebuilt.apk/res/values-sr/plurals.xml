@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Свих %1$d апликација</item>
+        <item quantity="one">Свих %1$d апликација</item>
+        <item quantity="few">Све %1$d апликације</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Изабрано је %1$d апликација</item>
+        <item quantity="one">Изабрана је %1$d апликација</item>
+        <item quantity="few">Изабране су %1$d апликације</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d апликација је већ инсталирано</item>
+        <item quantity="one">%1$d апликација је већ инсталирана</item>
+        <item quantity="few">%1$d апликације су већ инсталиране</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Резервна копија садржи %1$d апликација. Изаберите неколико или их вратите све.</item>
+        <item quantity="one">Резервна копија садржи %1$d апликацију. Изаберите неколико или их вратите све.</item>
+        <item quantity="few">Резервна копија садржи %1$d апликације. Изаберите неколико или их вратите све.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d контаката на уређају</item>
+        <item quantity="one">%1$d контакт на уређају</item>
+        <item quantity="few">%1$d контакта на уређају</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM (%1$d), уређај (%2$d)</item>
+        <item quantity="one">SIM (%1$d), уређај (%2$d)</item>
+        <item quantity="few">SIM (%1$d), уређај (%2$d)</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® контаката</item>
+        <item quantity="one">%1$d iCloud® контакт</item>
+        <item quantity="few">%1$d iCloud® контакта</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM контаката</item>
+        <item quantity="one">%1$d SIM контакт</item>
+        <item quantity="few">%1$d SIM контакта</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Пронашли смо %1$d апликација. Изаберите неколико или их вратите све.</item>
+        <item quantity="one">Пронашли смо %1$d апликацију. Изаберите неколико или их вратите све.</item>
+        <item quantity="few">Пронашли смо %1$d апликације. Изаберите неколико или их вратите све.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Пронашли смо подударање за %1$d iOS® апликација. Ако инсталирате апликације, прихватате њихове дозволе. &lt;annotation id="apps_permissions_learn_more">Сазнајте више&lt;/annotation></item>
+        <item quantity="one">Пронашли смо подударање за %1$d iOS® апликацију. Ако инсталирате апликације, прихватате њихове дозволе. &lt;annotation id="apps_permissions_learn_more">Сазнајте више&lt;/annotation></item>
+        <item quantity="few">Пронашли смо подударање за %1$d iOS® апликације. Ако инсталирате апликације, прихватате њихове дозволе. &lt;annotation id="apps_permissions_learn_more">Сазнајте више&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Преостало је %1$d ставки…</item>
+        <item quantity="one">Преостала је %1$d ставка…</item>
+        <item quantity="few">Преостале су %1$d ставке…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Напомена! Овај догађај више не обухвата следеће учеснике:</item>
+        <item quantity="one">Напомена! Овај догађај више не обухвата следеће учеснике:</item>
+        <item quantity="few">Напомена! Овај догађај више не обухвата следеће учеснике:</item>
+    </plurals>
+</resources>

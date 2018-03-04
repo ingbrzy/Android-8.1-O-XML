@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="app_has_in_app_purchases">Sovelluksen sisäiset ostokset</string>
+    <string name="app_has_permissions">Käyttöoikeudet: %s</string>
+    <string name="app_has_runtime_permissions">Sovellus pyytää käyttöoikeuksia.</string>
+    <string name="app_picker_app_already_installed_toast">Tämä sovellus on jo asennettu.</string>
+    <string name="app_picker_loading">Etsitään käytettävissä olevia sovelluksia…</string>
+    <string name="app_picker_loading_toast">Käytettävissä olevia sovelluksia ladataan.</string>
+    <string name="app_picker_no_apps">Ei valittuja sovelluksia</string>
+    <string name="app_picker_no_apps_found">Sovelluksia ei löytynyt.</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Sovelluksen sisäisiä ostoksia ei siirretä laitteelle ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Joitakin sovelluksen sisäisiä ostoksia ei ehkä siirretä laitteelle ^1.</string>
+    <string name="apps_permissions_described_v2">"Vain yleisesti käytetyistä maksuttomista iOS®-sovelluksista voidaan hankkia siirrossa Android-versiot. Useimmat sovellusten sisäiset ostokset eivät siirry. Määrityksen jälkeen löydät lisää sovelluksia Play Kaupasta.
+
+Voit joutua antamaan joillekin sovelluksille etukäteen luvan käyttää laitteesi joitakin ominaisuuksia tai tietoja. Käyttöluvat on järjestetty käyttöluparyhmiin. Valitsemalla näiden sovellusten asennuksen hyväksyt kunkin ryhmän käyttöluvat. Alta löydät käyttöluparyhmien kuvaukset.
+
+Jotkin sovellukset eivät vaadi käyttölupien hyväksymistä etukäteen. Käyttäessäsi tällaista sovellusta voit hyväksyä tai hylätä yksittäisiä käyttölupapyyntöjä, ennen kuin sovellus käyttää siihen liittyviä tietoja.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Asentamalla kunkin sovelluksen hyväksyt sen käyttöoikeudet. <annotation id="apps_permissions_learn_more">Lisätietoja</annotation></string>
+    <string name="auto_restore_summary">Palauta varmuuskopioidut asetukset ja tiedot, kun sovellus asennetaan uudelleen.</string>
+    <string name="auto_restore_title">Automaattinen palautus</string>
+    <string name="backup_configure_account_default_summary">Mikään tili ei tällä hetkellä tallenna varmuuskopioituja tietoja.</string>
+    <string name="backup_configure_account_title">Varmuuskopiointitili</string>
+    <string name="backup_data_summary">Varmuuskopioi sovellusten tiedot, Wi-Fi-salasanat ja muut asetukset Google Driveen.</string>
+    <string name="backup_data_summary_full">"Varmuuskopioi laitteen tiedot (kuten Wi-Fi-salasanat ja soittohistoria) sekä sovellusten tiedot (kuten asetukset ja sovellusten tallentamat tiedostot) automaattisesti etäyhteyden kautta.
+
+Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten tiedot varmuuskopioidaan säännöllisesti etäyhteyden kautta. Sovellusten tietoihin voi sisältyä mitä tahansa tietoja, joita sovellukset ovat tallentaneet (kehittäjien asetuksien perusteella). Ne saattavat sisältää myös arkaluontoisia tietoja, kuten yhteystietoja, viestejä ja valokuvia."</string>
+    <string name="backup_data_title">Varmuuskopioi Google Driveen</string>
+    <string name="backup_erase_dialog_message">Haluatko lopettaa Wi-Fi-salasanojen, kirjanmerkkien, muiden asetuksien ja sovellustietojen varmuuskopioinnin ja poistaa kaikki kopiot Google Drivesta?</string>
+    <string name="backup_erase_dialog_message_full">Lopetetaanko laitteen tietojen (kuten Wi-Fi-salasanojen ja puheluhistorian) ja sovellusten tietojen (kuten asetusten ja sovellusten tallentamien tiedostojen) automaattinen varmuuskopiointi? Myös vanhat varmuuskopiot poistetaan Google Drivesta.</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Valokuva-asetusten avaaminen epäonnistui</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kun otat käyttöön automaattisen varmuuskopioinnin:
+
+ ● Laitteesi asetukset ja sovellustiedot tallennetaan säännöllisesti yksityiseen Google Drive ‑kansioon. Sovellustiedot voivat sisältää mitä tahansa sovelluksen tallentamia tietoja (kehittäjien asetusten perusteella), myös mahdollisesti arkaluontoisia tietoja, kuten yhteystietoja, viestejä ja valokuvia.
+
+ Suuria tiedostoja sekä tiedostoja, jotka kehittäjät ovat sulkeneet palvelun ulkopuolelle, ei varmuuskopioida.
+
+ ● Laitteelle tallennetut valokuvat ja videot synkronoidaan Google Kuvien kirjastoosi, jonka kautta voit hakea, muokata, poistaa ja jakaa niitä kaikilla laitteillasi.
+
+ Lähetettävät valokuvat ja videot käyttävät oletuksena enimmäistarkkuutta, eivätkä ne kuluta Drivessa käytettävissä olevaa tallennustilaasi.
+
+ ● Laitteelle tallennetut yhteystiedot ja niihin liittyvät tiedot synkronoidaan Google-yhteystietoihin. Google-yhteystiedot-sovelluksen kautta voit hakea, muokata, poistaa ja jakaa yhteystietoja kaikilla laitteillasi.
+
+ ● Laitteelle tallennetut kalenterimerkinnät ja niihin liittyvät tiedot synkronoidaan Google Kalenteriin. Google Kalenteri ‑sovelluksen kautta voit hakea, muokata, poistaa ja jakaa yhteystietoja kaikilla laitteillasi.
+
+ Varmuuskopioidut tiedot eivät kuluta Drivessa käytettävissä olevaa tallennustilaasi."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kun otat automaattisen varmuuskopioinnin käyttöön:
+
+ ● Laitteen ja sovelluksien tietoja tallennetaan säännöllisesti yksityiseen kansioon Google Drivessa. Sovelluksien tiedot voivat olla mitä tahansa (kehittäjän asetuksien perusteella määräytyviä) sovelluksen tallentamia tietoja, ja ne voivat sisältää mahdollisesti arkaluontoisia tietoja kuten yhteystietoja, viestejä ja kuvia.
+
+ Suuria tiedostoja tai tiedostoja, jotka kehittäjät ovat jättäneet palvelun ulkopuolelle, ei varmuuskopioida.
+
+ ● Laitteelle tallennetut yhteystiedot ja niihin liittyvät tiedot synkronoidaan Google-yhteystietoihin. Google-yhteystiedot-sovelluksen kautta voit hakea, muokata, poistaa ja jakaa yhteystietoja kaikilla laitteillasi. 
+
+ ● Laitteelle tallennetut kalenterimerkinnät ja niihin liittyvät tiedot synkronoidaan Google Kalenteriin. Google Kalenteri ‑sovelluksen kautta voit hakea, muokata, poistaa ja jakaa yhteystietoja kaikilla laitteillasi.
+
+ Varmuuskopiotiedot eivät vähennä Drivessa käytössä olevaa tallennustilaasi."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalenteri, yhteystiedot, valokuvat ja videot synkronoidaan Google-tilillesi, ja niitä voidaan käyttää eri palveluissa.</string>
+    <string name="backup_opt_in_backup_description_v2">Automaattisen varmuuskopioinnin avulla voit helposti palauttaa puhelimen tai vaihtaa puhelimia koska vain.<annotation id="backup_opt_in_learn_more">Lisätietoja</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Tämä poistaa seuraavien kohteiden varmuuskopioinnin käytöstä:
+
+Sovellukset ja sovellustiedot
+Soittohistoria
+Laiteasetukset
+Kuvat ja videot
+Tekstiviestit.
+
+Kalenteri ja yhteystiedot synkronoidaan jatkossakin Google-tilillesi. Kun määritys on valmis, voit muuttaa synkronointiasetuksia valitsemalla "<annotation id="backup_opt_in_settings_instructions">Asetukset > Tilit > Google.</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Poistetaanko varmuuskopiointi käytöstä?</string>
+    <string name="backup_opt_in_backup_list">"Sovellukset ja sovellustiedot
+Kalenteri
+Soittohistoria
+Yhteystiedot
+Laiteasetukset (esim. Wi-Fi-salasanat)
+Valokuvat ja videot
+Tekstiviestit"</string>
+    <string name="backup_opt_in_backup_list_header">Seuraavat kohteet varmuuskopioidaan:</string>
+    <string name="backup_opt_in_backup_title">Varmuuskopioi Google Driveen</string>
+    <string name="backup_opt_in_disable_backup">Poista varmuuskopiointi käytöstä</string>
+    <string name="backup_photos_update">Päivitä Google Kuvat</string>
+    <string name="backup_settings_activity_backup_title">Varmuuskopio</string>
+    <string name="backup_settings_activity_title">Varmuuskopiointi ja palautus</string>
+    <string name="byteShort">t</string>
+    <string name="cancel_copy_button_text">Älä kopioi</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="cloud_restore_app_picker_button">Palauta</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Varmuuskopiossasi ei ole sovelluksia.</string>
+    <string name="cloud_restore_app_picker_title">Valitse palautettavat sovellukset</string>
+    <string name="common_accept">Hyväksy</string>
+    <string name="common_add_account_label">Lisää tili</string>
+    <string name="common_ads_settings_title">Mainokset</string>
+    <string name="common_agree">Hyväksyn</string>
+    <string name="common_app_name">Google Play Palvelut</string>
+    <string name="common_asm_preferences_settings_title">Tiliasetukset</string>
+    <string name="common_asm_privacy_settings_title">Henkilötiedot ja yksityisyys</string>
+    <string name="common_asm_security_settings_title">Kirjautuminen ja tietosuoja</string>
+    <string name="common_audience_edit_button_label">Muokkaa</string>
+    <string name="common_cancel">Peruuta</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts-sovellusta ei voi käynnistää (käyttöoikeusvirhe).</string>
+    <string name="common_car_permission_desc">Autopalvelun käyttöoikeus.</string>
+    <string name="common_car_permission_label">Autopalvelu</string>
+    <string name="common_chips_label_empty_circles">Ei piirejä</string>
+    <string name="common_chips_label_extended_circles">Laajennetut piirit</string>
+    <string name="common_chips_label_only_you">Vain sinä</string>
+    <string name="common_chips_label_public">Julkinen</string>
+    <string name="common_chips_label_your_circles">Piirisi</string>
+    <string name="common_choose_account_label">Valitse tili</string>
+    <string name="common_clear_app_data_menu_item">Sovellustietojen tyhjentäminen</string>
+    <string name="common_connected">Yhdistetty</string>
+    <string name="common_connected_apps_settings_title">Yhdistetyt sovellukset</string>
+    <string name="common_connecting">Yhdistetään…</string>
+    <string name="common_continue">Jatka</string>
+    <string name="common_disagree">En hyväksy</string>
+    <string name="common_disconnect">Katkaise yhteys</string>
+    <string name="common_done">Valmis</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Lähettäjä:</string>
+    <string name="common_games_settings_title">Play Pelit</string>
+    <string name="common_get_started">Aloita</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_error_dialog_title">Virhe</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_updating_title">Google Play Palveluita päivitetään</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play Palvelut on asennettu väärällä arkkitehtuurilla.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play Palvelut on asennettu arkkitehtuurilla (%1$s), joka eroaa laitteesi arkkitehtuurista (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Väärä arkkitehtuuri</string>
+    <string name="common_google_settings">Google-asetukset</string>
+    <string name="common_google_settings_account">Tili</string>
+    <string name="common_google_settings_credentials_title">Smart Lock salasanoille</string>
+    <string name="common_google_settings_developer">Kehittäjä</string>
+    <string name="common_google_settings_services">Palvelut</string>
+    <string name="common_got_it">Selvä</string>
+    <string name="common_install">Asenna</string>
+    <string name="common_learn_more">Lisätietoja</string>
+    <string name="common_list_apps_menu_help">Ohje</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ohje ja palaute</string>
+    <string name="common_loading">Ladataan…</string>
+    <string name="common_location_settings_title">Sijainti</string>
+    <string name="common_magictether_settings_title">Yhteyden pikajakaminen</string>
+    <string name="common_maps_settings_title">Maps ja Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">Ulkoista URL-osoitetta ei voi näyttää, koska näyttämiseen sopivaa ohjelmaa ei ole.</string>
+    <string name="common_more_options">Lisää vaihtoehtoja</string>
+    <string name="common_networking_settings_title">Verkko</string>
+    <string name="common_no_browser_for_restricted_url">Käyttöoikeus on rajoitettu. Selainta ei löytynyt.</string>
+    <string name="common_no_devices_found">Laitteita ei löydy</string>
+    <string name="common_no_network">Ei käytettävissä, koska laite on offline-tilassa</string>
+    <string name="common_no_thanks">Ei kiitos</string>
+    <string name="common_not_now">Ei nyt</string>
+    <string name="common_off">Ei käytössä</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Käytössä</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_open_source_licenses">Avoimen lähdekoodin käyttöluvat</string>
+    <string name="common_people_settings_title">Yhteystiedot</string>
+    <string name="common_permissions_enable_in_settings">Aktivoi Asetuksissa</string>
+    <string name="common_permissions_missing_end">Jatka avaamalla Asetukset, valitsemalla Käyttöoikeudet ja sallimalla kaikki luetellut kohteet.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Ota käyttöön valitsemalla
+Asetukset >
+Käyttöoikeudet >
+Google Play Palvelut."</string>
+    <string name="common_permissions_missing_start">Tämä sovellus ei toimi oikein, ellet myönnä Google Play Palveluille seuraavia käyttöoikeuksia:</string>
+    <string name="common_permissions_open_settings">Avaa asetukset</string>
+    <string name="common_phone">Puhelin</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Tietosuojakäytäntö</string>
+    <string name="common_restore">Palauta</string>
+    <string name="common_retry">Yritä uudelleen</string>
+    <string name="common_search_settings_title">Haku</string>
+    <string name="common_security_ootp_setting_title">Turvakoodi</string>
+    <string name="common_security_settings_title">Tietoturva</string>
+    <string name="common_send">Lähetä</string>
+    <string name="common_sending">Lähetetään…</string>
+    <string name="common_set_up_nearby_device_settings_title">Määritä lähellä oleva laite</string>
+    <string name="common_settings">Asetukset</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string name="common_something_went_wrong">Jokin meni vikaan.</string>
+    <string name="common_system_info">Järjestelmätiedot</string>
+    <string name="common_take_photo_label">Ota valokuva</string>
+    <string name="common_terms_of_service">Käyttöehdot</string>
+    <string name="common_try_again">Yritä uudelleen</string>
+    <string name="common_turn_on_bluetooth">Ota Bluetooth käyttöön</string>
+    <string name="common_ui_confirm_deleting_button">Poista</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ymmärrän. Haluan poistaa tiedot.</string>
+    <string name="common_unknown">Tuntematon</string>
+    <string name="common_update">Päivitä</string>
+    <string name="common_url_load_unsuccessful_message">Android-laitteesi ei ole yhteydessä verkkoon. Voit tarkastella näitä tietoja verkkoselaimella osoitteessa %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android-laitettasi ei ole yhdistetty Wi-Fi-verkkoon. Voit tarkastella näitä tietoja siirtymällä selaimella osoitteeseen %s.</string>
+    <string name="common_url_login_notice">Kirjaudu sisään nimellä %1$s</string>
+    <string name="common_usage_and_diagnostics">Käyttö‑ ja diagnostiikkatiedot</string>
+    <string name="common_yesterday">Eilen</string>
+    <string name="confirm_copy_button_text">Kopioi</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloudissa®, %2$d laitteella</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google-yhteystiedot, %1$d iCloudissa®, %2$d laitteella</string>
+    <string name="contacts_number_device_and_sim_with_google">Google-yhteystiedot, %1$d SIM-kortilla, %2$d laitteella</string>
+    <string name="contacts_number_device_with_google">Google-yhteystiedot, %1$d laitteella</string>
+    <string name="contacts_number_icloud_with_google">Google-yhteystiedot, %1$d iCloud®:ssa</string>
+    <string name="contacts_number_sim_with_google">Google-yhteystiedot, %1$d SIM-kortilla</string>
+    <string name="copy_confirmation_description">Google-tilisi, sovellukset ja muut tiedot kopioidaan uuteen puhelimeen.</string>
+    <string name="copy_confirmation_title">Aloitetaanko kopiointi uuteen puhelimeen?</string>
+    <string name="d2d_app_picker_description_no_apps">Sovelluksia ei löytynyt.</string>
+    <string name="d2d_app_picker_title">Sovellukset</string>
+    <string name="d2d_migration_canceled_on_source">Kopiointi peruutettu</string>
+    <string name="data_copied_fragment_description">Tietosi on kopioitu uuteen puhelimeen. Voit irrottaa kaapelin.</string>
+    <string name="data_copied_fragment_description_cancel">Koska pysäytit kopioinnin, uuteen puhelimeesi kopioitiin vain osa tiedoista.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Koska pysäytit kopioinnin, uuteen puhelimeesi ei kopioitu mitään tietoja.</string>
+    <string name="data_copied_fragment_description_error">Jokin meni vikaan, eikä kaikkea voitu kopioida.</string>
+    <string name="data_copied_fragment_description_error_no_data">Jokin meni vikaan, eikä mitään tietoja voitu kopioida.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiointi epäonnistui</string>
+    <string name="data_copied_fragment_some_data_title">Osa tiedoista kopioitiin</string>
+    <string name="data_copied_fragment_title">Tiedot kopioitu</string>
+    <string name="device_backup_title">Laitteen varmuuskopiointi</string>
+    <string name="device_not_supported_fragment_new_device">Olet yhteydessä uuteen puhelimeen. Jatka muodostamalla yhteys edelliseen puhelimeesi uudelleen.</string>
+    <string name="device_not_supported_fragment_new_device_title">Yhdistä edelliseen puhelimeen</string>
+    <string name="device_not_supported_fragment_no_data_cable">Tätä johtoa ei voi käyttää tiedonsiirtoon. Yhdistä laitteet käyttämällä toista johtoa ja yritä uudelleen.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Käytä toista johtoa</string>
+    <string name="device_not_supported_fragment_retry_description">Varmista, että vanhan puhelimesi lukitus on avattu, irrota johto ja liitä se takaisin.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Jokin meni vikaan.</string>
+    <string name="device_not_supported_ios_supervised_description">Koska iPhone®-laitteesi on valvottu, sinun on valittava toinen tapa kopioida tietoja.</string>
+    <string name="device_picker_description">Varmuuskopiot tallennetaan Google Driveen</string>
+    <string name="device_picker_empty">Tilin %1$s varmuuskopioita ei löytynyt.</string>
+    <string name="device_picker_empty_title">Varmuuskopioita ei löytynyt</string>
+    <string name="device_picker_item">Laitteen %1$s varmuuskopio</string>
+    <string name="device_picker_last_used">Käytetty viimeksi: ^1</string>
+    <string name="device_picker_skip">Älä palauta</string>
+    <string name="device_picker_title">Valitse palautettava varmuuskopio</string>
+    <string name="disabled_by_admin_summary_text">Järjestelmänvalvoja hallinnoi tätä asetusta</string>
+    <string name="download_msg_error_invalid">Lataus määritettiin virheellisesti.</string>
+    <string name="download_msg_in_progress">Lataus on käynnissä.</string>
+    <string name="download_msg_not_allowed_space">Tila ei riitä lataamiseen.</string>
+    <string name="download_msg_pending">Lataus odottaa.</string>
+    <string name="download_notification_description">%1$s pyysi tätä.</string>
+    <string name="download_notification_title">Haetaan lisää tietoja</string>
+    <string name="drive_backup_account">Tili</string>
+    <string name="drive_backup_apps_in_backup">Varmuuskopioidut sovellustiedot</string>
+    <string name="drive_backup_apps_last_backup">Viimeisin varmuuskopio</string>
+    <string name="drive_backup_apps_loading">Ladataan…</string>
+    <string name="drive_backup_apps_screen_title">Sovellustiedot</string>
+    <string name="drive_backup_content_apps_title">Sovellustiedot</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Kalenterin tapahtumat synkronoidaan kaikille laitteille, joilla olet kirjautuneena Google-tilillesi.</string>
+    <string name="drive_backup_content_calendar_title">Kalenteri</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Soitettujen ja vastattujen puhelujen päivämäärä ja vastaanottaja sisältyvät varmuuskopioon.</string>
+    <string name="drive_backup_content_callhistory_title">Soittohistoria</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google-yhteystiedot synkronoidaan kaikille laitteille, joilla olet kirjautuneena Google-tilillesi.</string>
+    <string name="drive_backup_content_contacts_title">Yhteystiedot</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Varmuuskopio sisältää laitteen määritystiedot, esim. taustakuvan, Wi-Fi-salasanat ja oletussovellukset.</string>
+    <string name="drive_backup_content_devicesettings_title">Laiteasetukset</string>
+    <string name="drive_backup_content_header">Sisältö</string>
+    <string name="drive_backup_content_photos_dialog_message">Ensisijaista varmuuskopiointitiliä on vaihdettu. Voit vaihtaa tilin %s myös Google Kuvien varmuuskopiointitiliksi.</string>
+    <string name="drive_backup_content_photos_dialog_no">OHITA</string>
+    <string name="drive_backup_content_photos_dialog_title">Muutetaanko myös kuvien ja videoiden tiliä?</string>
+    <string name="drive_backup_content_photos_dialog_yes">VAIHDA</string>
+    <string name="drive_backup_content_photos_title">Valokuvat ja videot</string>
+    <string name="drive_backup_content_sms_dialog_message">Lähetetyt ja vastaanotetut viestit sisältyvät varmuuskopioon. Tämä ei sisällä MMS-mediasisältöä.</string>
+    <string name="drive_backup_content_sms_title">Tekstiviestit</string>
+    <string name="drive_backup_content_status_dolly_action">Selvä</string>
+    <string name="drive_backup_content_status_error">Virhe haettaessa edellisen synkronoinnin päivämäärää</string>
+    <string name="drive_backup_content_status_lastsaved">Viimeksi varmuuskopioitu: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Viimeksi synkronoitu: %1$s</string>
+    <string name="drive_backup_content_status_never">Odotetaan varmuuskopiointia</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synkronointiasetukset</string>
+    <string name="drive_backup_content_status_sync_off">Synkronointi on POIS KÄYTÖSTÄ</string>
+    <string name="drive_backup_content_status_updating">Tarkistetaan tilaa…</string>
+    <string name="drive_backup_disabled_backuplist">"Seuraavat varmuuskopioidaan:
+→– Sovellukset ja sovellustiedot
+→– Soittohistoria
+→– Laiteasetukset (esim. Wi-Fi-salasanat)
+→– Google Kalenteri
+→– Google-yhteystiedot
+→– Valokuvat ja videot
+→– Tekstiviestit"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Varmuuskopiotietoja ovat esimerkiksi
+\u0009– sovellukset ja sovellustiedot 
+\u0009– soittohistoria
+\u0009– laiteasetukset (myös Wi-Fi-salasanat)
+\u0009– Google Kalenteri
+\u0009– Google-yhteystiedot
+\u0009– tekstiviestit."</string>
+    <string name="drive_backup_disabled_by_device_owner">Järjestelmänvalvoja on poistanut toiminnon käytöstä.</string>
+    <string name="drive_backup_disabled_detailedinfo">"Kalenteri, yhteystiedot, valokuvat ja videot synkronoidaan Google-tilille ja niitä voidaan käyttää kaikissa palveluissa.
+
+Synkronointi voi olla käytössä, vaikka varmuuskopiointi olisi pois päältä. Voit muuttaa synkronointiasetuksia valitsemalla Asetukset > Tilit > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Kalenteri ja Google-yhteystiedot synkronoidaan Google-tiliisi, jolloin eri Google-palvelut voivat käyttää tietoja.
+
+Synkronointi voi olla käytössä, vaikka varmuuskopiointi olisi poissa käytöstä. Voit muuttaa synkronointiasetuksia valitsemalla Asetukset > Tilit > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automaattisen varmuuskopioinnin avulla voit helposti palauttaa puhelimen tai vaihtaa puhelimia koska vain.</string>
+    <string name="drive_backup_settings_title">Varmuuskopiointi</string>
+    <string name="drive_backup_state">Varmuuskopioi Google Driveen</string>
+    <string name="drive_backup_state_dialog_message">"Tämän laitteen varmuuskopiotiedot poistetaan pysyvästi Google Drivesta.
+
+Aiemmin varmuuskopioidut kuvat ja videot ovat yhä käytettävissä Google Drivessa.
+
+Kalenteri ja yhteystiedot synkronoidaan jatkossakin Google-tilillesi. Voit muuttaa synkronointiasetuksia valitsemalla Asetukset > Tilit > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Tämän laitteen varmuuskopiotiedot poistetaan pysyvästi Google Drivesta.
+
+Kalenteri ja yhteystiedot synkronoidaan jatkossakin Google-tilillesi. Voit muuttaa synkronointiasetuksia valitsemalla Asetukset > Tilit > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Poista käytöstä ja poista</string>
+    <string name="drive_backup_state_dialog_title">Poistetaanko käytöstä ja poistetaanko varmuuskopio?</string>
+    <string name="durationDayHour">%1$d päivä %2$d t</string>
+    <string name="durationDayHours">%1$d päivä %2$d t</string>
+    <string name="durationDays">%1$d päivää</string>
+    <string name="durationHourMinute">%1$d t %2$d min</string>
+    <string name="durationHourMinutes">%1$d t %2$d min</string>
+    <string name="durationHours">%1$d tuntia</string>
+    <string name="durationMinute">%1$d minuutti</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d minuuttia</string>
+    <string name="durationSecond">%1$d sekunti</string>
+    <string name="durationSeconds">%1$d sekuntia</string>
+    <string name="encryption_warning_fragment_description">"Varmuuskopioiden salaus on otettu käyttöön iPhone®-laitteellasi. Jos et ottanut tätä käyttöön itse, IT-järjestelmänvalvojasi on voinut tehdä sen.
+
+Vain valokuvat, musiikki ja videot voidaan kopioida. Lue lisää osoitteesta "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Varmuuskopioiden salaus</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">En löydä sovitinta</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Quick Switch Adapter -pikasovitin ja ^1 löytyvät samasta pakkauksesta.
+
+Liitä johto sovittimeen."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Yhdistä sovitin ja johto</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Avaa vanhan puhelimesi lukitus ja yhdistä sovitin sitten tähän puhelimeen.</string>
+    <string name="fragment_usb_connect_both_phones_title">Yhdistä molemmat puhelimet</string>
+    <string name="fragment_usb_dialog_cancel_description">Saat siirrettyä eniten sisältöä, jos käytät johtoa. Jos pakkauksessa tulleet johdot eivät ole yhteensopivia, kokeile vanhaan puhelimeen sopivaa tiedonsiirto- tai latausjohtoa.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kopioidaanko tietoja eri tavalla?</string>
+    <string name="fragment_usb_dont_have_cable">Minulla ei ole johtoa</string>
+    <string name="fragment_usb_dont_have_old_phone">Minulla ei ole vanhaa puhelintani</string>
+    <string name="fragment_usb_find_cable_description">Käytä vanhaan puhelimeesi sopivaa johtoa, esim. tiedonsiirto- tai latausjohtoa.</string>
+    <string name="fragment_usb_find_cable_title">Etsi oikea johto</string>
+    <string name="fragment_usb_initial_description">Siirrä tietoja vanhasta puhelimestasi laitteelle ^1.</string>
+    <string name="fragment_usb_initial_title">Kopioidaan tietosi</string>
+    <string name="fragment_usb_legacy_description">"Tämä on nopein tapa siirtää suurin osa tiedoista.
+
+Kytke pakkauksessa oleva sovitin uuteen puhelimeesi. Yhdistä puhelimet kaapelilla ja avaa sitten vanhan puhelimesi lukitus."</string>
+    <string name="fragment_usb_other_ways">Kopioi ilman johtoa</string>
+    <string name="fragment_usb_plug_cable">Liitä johto vanhaan puhelimeesi</string>
+    <string name="fragment_waiting_title">Hetki vain…</string>
+    <string name="gigabyteShort">Gt</string>
+    <string name="google_contacts_static_text">Google-yhteystiedot synkronoidaan</string>
+    <string name="google_contacts_static_text_off">Google-yhteystiedot synkronoidaan silti</string>
+    <string name="header_set_backup_account">Aseta varmuuskopiointitili</string>
+    <string name="i_message_dialog_message">"Jos haluat saada tekstiviestejä iPhone®-käyttäjiltä, poista iMessage® käytöstä.
+
+Löydät ohjeet osoitteesta "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Jatka toisella puhelimella</string>
+    <string name="ios_connected_fragment_description">"Seuraavalla näytöllä voit kirjautua Google-tilillesi tai luoda uuden tilin.
+
+Jos et lisää Google-tiliä, iOS:n Kalenteri®-tapahtumia ei voi siirtää."</string>
+    <string name="ios_message_attachment_explanation">[Liitetiedostojen tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_message_attachment_failed_explanation">[Kaikkia liitetiedostoja ei voitu kopioida. Siirrettyjen liitetiedostojen sijainti on Google Kuvat > Laitteen kansiot > Viestien liitteet.]</string>
+    <string name="ios_message_attachment_placeholder">[Liitetiedoston tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_message_attachments_placeholder">[Liitetiedostojen tallennussijainti: Google Kuvat > Laitteen kansiot > Viestien liitteet]</string>
+    <string name="ios_migration_default_calendar_title">Kalenteri</string>
+    <string name="ios_migration_other_contact_relation">Muu</string>
+    <string name="ios_photos_dialog_message">"iCloudiin® tallennettuja kuvia ei voi kopioida.
+
+Jos haluat tuoda nämä kuvat laitteelle ^1, asenna Google Kuvat ‑sovellus iPhone®-laitteellesi ja ota käyttöön Varmuuskopiointi ja synkronointi. Saat lisätietoja osoitteesta "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">Kt</string>
+    <string name="list_item_add_account">Lisää tili</string>
+    <string name="lockscreen_smartdevice_action_next">Seuraava</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Jatka laitteen määritystä avaamalla lukitus.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Tietoturvasyistä sinun on annettava näytön lukituksen avaamistapa, ennen kuin määritystä voidaan jatkaa.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Vahvista näytön lukitus</string>
+    <string name="manage_data_label">Google-tili</string>
+    <string name="master_clear_title">Tehdasasetuksien palauttaminen</string>
+    <string name="megabyteShort">Mt</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Määritä varmuuskopioinnin tili.</string>
+    <string name="notification_content_title_set_backup_account">Varmuuskopiointi</string>
+    <string name="notification_ticker_set_backup_account">Varmuuskopiointitili tarvitaan</string>
+    <string name="permgrouplab_calendar">Kalenteri</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Yhteystiedot</string>
+    <string name="permgrouplab_location">Sijainti</string>
+    <string name="permgrouplab_microphone">Mikrofoni</string>
+    <string name="permgrouplab_phone">Puhelin</string>
+    <string name="permgrouplab_sensors">Kehon anturit</string>
+    <string name="permgrouplab_sms">Tekstiviestit</string>
+    <string name="permgrouplab_storage">Tallennustila</string>
+    <string name="petabyteShort">Pt</string>
+    <string name="photo_backup_configure_account_default_summary">Mikään tili ei tällä hetkellä tallenna varmuuskopioituja kuvia.</string>
+    <string name="photos_backup_title">Kuvien varmuuskopiointi</string>
+    <string name="photos_filtering_option_all">Kaikki</string>
+    <string name="photos_filtering_option_none">Ei mitään</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopioidut yhteystiedot tallennetaan Google-tilille.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopioidut yhteystiedot ja kalenteritiedot tallennetaan Google-tilille.</string>
+    <string name="restore_choice_data_disclaimer_v2">Kaikkia tietojasi ei ehkä ole kopioitu laitteelle ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Lisätietoja</annotation></string>
+    <string name="restore_choice_deselect_some_content">Poista joidenkin sisältöjen valinta, niin voit jatkaa</string>
+    <string name="restore_choice_learn_more_android">"Seuraavia puhelimesi tietoja ei voi kopioida automaattisesti:
+
+ ● Lataukset (esim. PDF:t)
+
+ ● Piilotettuihin kansioihin tallennetut kuvat, videot ja musiikki
+
+ ● Tekstiviestillä saadut kuvat, videot ja musiikki
+
+ ● Muualta kuin Google Play Kaupasta ladatut sovellukset
+
+ ● Sovellustiedot (jos sovellus ei käytä Android-varmuuskopiointia)
+
+ ● Tietyt laiteasetukset
+
+ ● Tilit, jotka eivät ole Google-tilejä (ja niiden tiedot)
+
+ ● Muihin kuin Googlen palveluihin synkronoidut yhteystiedot ja kalenterit
+
+ ● Soittoäänet
+
+ Lisätietoja ja ohjeita joidenkin tietotyyppien kopioimiseen on osoitteessa g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Seuraavia puhelimesi tietoja ei voi kopioida automaattisesti:
+
+ ● Sovellukset ja sovellustiedot
+
+ ● Kuvat, joiden alkuperäinen versio ei ole laitteella (esim. jos tallennustilan optimointi on käytössä, jolloin alkuperäiset kuvat tallennetaan iCloudiin®)
+
+ ● iCloudiin® tallennetut tiedostot ja dokumentit
+
+ ● Laiteasetukset (esim. Wi-Fi-salasanat ja taustakuvat)
+
+ ● Digital Rights Management (DRM) ‑tekniikalla suojattu musiikki (esim. ennen vuoden 2009 huhtikuuta ostettu iTunes®-musiikki tai striimaussovelluksesta offline-kuuntelua varten ladattu musiikki)
+
+ ● Tilit, jotka eivät ole Google-tilejä (ja niiden tiedot)
+
+ ● Muihin kuin Googlen palveluihin tai iCloudiin® synkronoidut yhteystiedot ja kalenterit
+
+ ● Safarin® kirjanmerkit
+
+ iMessage®-liitteet siirretään sijaintiin Google Kuvat > Laitteen kansiot > Viestien liitteet.
+
+ Lisätietoja ja ohjeita joidenkin tietotyyppien kopioimiseen on osoitteessa g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Tallennustila ei riitä.</string>
+    <string name="restore_choice_total_text">käytettävissä olevasta tilasta %1$s / siirron kesto %2$s</string>
+    <string name="restore_error_message">Valitettavasti jokin meni vikaan palautettaessa.</string>
+    <string name="restore_item_appdata">Sovellustiedot</string>
+    <string name="restore_item_calendar">Kalenteri</string>
+    <string name="restore_item_calendar_ical_description">iOS®-kalenteri, Google Kalenteri</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalenteri synkronoidaan silti</string>
+    <string name="restore_item_calendar_sync_description">Google Kalenteri synkronoidaan</string>
+    <string name="restore_item_call_logs">Soittohistoria</string>
+    <string name="restore_item_contacts">Yhteystiedot</string>
+    <string name="restore_item_device_settings_description">Wi-Fi-salasanat ja muuta</string>
+    <string name="restore_item_downloads">Lataukset</string>
+    <string name="restore_item_email">Sähköpostiviestit</string>
+    <string name="restore_item_email_description">Gmail synkronoidaan</string>
+    <string name="restore_item_message_attachments">Viestien liitteet</string>
+    <string name="restore_item_messages">Viestit</string>
+    <string name="restore_item_music">Musiikki</string>
+    <string name="restore_item_photos">Valokuvat ja videot</string>
+    <string name="restore_item_settings">Laiteasetukset</string>
+    <string name="restore_item_sms">Tekstiviestit</string>
+    <string name="restore_item_will_be_synced_text">Tämä synkronoidaan puhelimeesi.</string>
+    <string name="restore_progress_title">Palautetaan…</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="small_time_duration">Alle 1 minuutti</string>
+    <string name="source_connected_description">Valmistellaan…</string>
+    <string name="source_connected_title">%1$s on yhdistetty</string>
+    <string name="source_copying_description">Valitsemiasi tietoja kopioidaan uuteen puhelimeen.</string>
+    <string name="source_copying_title">Kopioidaan…</string>
+    <string name="source_default_target_device_name">uusi laite</string>
+    <string name="source_notification_device_disconnected">Yhdistä kaapeli uudelleen.</string>
+    <string name="source_notification_text">Siirtäminen puhelinten välillä käynnissä</string>
+    <string name="source_notification_title">Tiedonsiirto</string>
+    <string name="source_success_description">Viimeistele määritys laitteella %1$s.</string>
+    <string name="source_success_screen_title">Valmis!</string>
+    <string name="source_unplugged_description">Yhdistä laitteeseen %1$s</string>
+    <string name="source_unplugged_title">Johto irrotettu</string>
+    <string name="source_waiting_title">Jatka määritystä laitteella %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Hylkää</string>
+    <string name="stop_copying_dialog_message_before_transfer">Tietojasi ei ole kopioitu uuteen puhelimeen.</string>
+    <string name="stop_copying_dialog_message_during_transfer">Kaikkia tietojasi ei ole kopioitu uuteen puhelimeen.</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Älä kopioi</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Pysäytä</string>
+    <string name="stop_copying_dialog_title_before_transfer">Peruutetaanko kopiointi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Pysäytetäänkö kopiointi?</string>
+    <string name="storage_management_wear_descriptive_text">Sovellukset käyttävät laitteesi tallennustilaa voidakseen replikoida tietoja puettaviin laitteisiin.</string>
+    <string name="storage_management_wear_manage_size_label">Hallinnoi puettavien tilankäyttöä</string>
+    <string name="storage_management_wear_size_label">Puettavien tilankäyttö</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play -palveluiden tilankäyttö yhteensä, hakukone ja muut tiedot mukaan luettuna.</string>
+    <string name="storage_managment_clear_all_data">Poista kaikki tiedot</string>
+    <string name="storage_managment_computing_size">Lasketaan…</string>
+    <string name="storage_managment_icing_size_label">Hakutiedot</string>
+    <string name="storage_managment_manage_icing_button">Hallitse hakutietoja</string>
+    <string name="storage_managment_search_index_descriptive_text">Appsille tarkoitettu hakukone, jolla saat vauhtia laitteella tekemiisi hakuihin.</string>
+    <string name="storage_managment_title">Google Play -palveluiden tallennustila</string>
+    <string name="storage_managment_total_size_label">Tallennustila yhteensä</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="suw_next_button_label">Seuraava</string>
+    <string name="target_default_source_device_model">vanha laite</string>
+    <string name="target_device_not_supported_cant_continue_description">Valitse toinen tapa tietojen kopiointiin.</string>
+    <string name="target_device_not_supported_cant_continue_title">Toista puhelinta ei tueta</string>
+    <string name="target_device_not_supported_try_restarting_description">"Irrota johto, käynnistä vanha puhelin uudestaan, liitä johto uudestaan puhelimeen ja noudata Pixelissä näkyviä ohjeita.
+
+Jos näet tämän virheen toistuvasti, kokeile toista kopiointitapaa."</string>
+    <string name="target_device_not_supported_try_restarting_title">Puhelinta ei välttämättä tueta</string>
+    <string name="target_smart_device_timeout_add_account">LISÄÄ TILI</string>
+    <string name="target_smart_device_timeout_description">Voit yrittää lisätä tilisi manuaalisesti.</string>
+    <string name="target_smart_device_timeout_dismiss">OHITA</string>
+    <string name="target_smart_device_timeout_title">Eikö onnistu?</string>
+    <string name="terabyteShort">Tt</string>
+    <string name="toast_phones_connected">Puhelimet yhdistettiin.</string>
+    <string name="toast_reconnect_cable">Kytke kaapeli uudelleen.</string>
+    <string name="transfer_finished_fragment_title">Viimeistellään…</string>
+    <string name="transfer_summary_copied">Tiedot kopioitu</string>
+    <string name="transfer_summary_fragment_description">Voit irrottaa kaapelin.</string>
+    <string name="transfer_summary_fragment_finish">VALMIS</string>
+    <string name="transfer_summary_fragment_title">Puhelimesi on melkein valmis</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Kaikkia valokuvia ei kopioitu. <annotation id="transfer_summary_learn_more">Lisätietoja</annotation></string>
+    <string name="transfer_summary_not_copied">Tietoja ei kopioitu</string>
+    <string name="transfer_summary_partial">%1$s/%2$s kopioitu</string>
+    <string name="transfer_summary_will_sync">Tiedot synkronoidaan määrityksen jälkeen</string>
+    <string name="transferring_fragment_calculating_remaining_time">Lasketaan jäljellä olevaa aikaa…</string>
+    <string name="transferring_fragment_header">Kopioidaan…</string>
+    <string name="transferring_fragment_remaining_time">%1$s jäljellä</string>
+    <string name="trust_instructions_description">Jatka hyväksymällä yhteys iPhone®-laitteessa.</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ja iTunes ovat Apple Inc:n Yhdysvalloissa ja muissa maissa rekisteröityjä tavaramerkkejä.</string>
+</resources>

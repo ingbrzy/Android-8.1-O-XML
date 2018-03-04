@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">التالي</string>
+    <string name="suw_back_button_label">رجوع</string>
+    <string name="suw_more_button_label">المزيد</string>
+    <string name="vzw_wfc_activation_error">‏تعذّر تفعيل الاتصال عبر Wi-Fi، والرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="vzw_address_update_error">تعذر تحديث عنوان الطوارئ الحالي في الوقت الحالي، والرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="emergency_address_app_label">إدارة عنوان الطوارئ</string>
+    <string name="progress_text">يُرجى الانتظار…</string>
+    <string name="vzw_tos_title">‏تنشيط الاتصال عبر Wi-Fi</string>
+    <string name="cancel">إلغاء</string>
+    <string name="vzw_tos_text">"‏يتيح لك الاتصال عبر Wi-Fi إمكانية إجراء مكالمات باستخدام شبكة Wi-Fi عند عدم توفر شبكة الجوّال.
+
+لإعداد الاتصال عبر Wi-Fi، يلزمك إدخال عنوان في الولايات المتحدة. سيتم استخدام هذا العنوان من قِبل خدمات الطوارئ في موقعك إذا أجريت مكالمة طوارئ (E911) عبر شبكة Wi-Fi من هذا الهاتف داخل الولايات المتحدة.
+
+نوصي بتغيير هذا العنوان عند إجراء مكالمات باستخدام شبكة Wi-Fi أخرى حتى تكون معلومات موقعك دقيقة. يمكنك تغيير موقعك متى شئت من خلال الانتقال إلى قائمة إعدادات الاتصال عبر Wi-Fi."</string>
+    <string name="vzw_tos_link">الأحكام والشروط</string>
+    <string name="tos_continue">متابعة</string>
+    <string name="vzw_e911_title">معلومات موقع الطوارئ</string>
+    <string name="vzw_e911_description">‏<b>هام - عنوان الطوارئ 911 مطلوب</b>"
+لتشغيل الاتصال عبر Wi-Fi، ينبغي إدخال عنوان الولايات المتحدة حيث تريد وصول خدمات الطوارئ عند الاتصال بالرقم 911. ويمكنك الانتقال إلى الإعدادات وتغيير هذا العنوان في أي وقت. وتجدر الإشارة إلى أهمية تحديث هذا العنوان متى غيَّرت موقعك."</string>
+    <string name="vzw_e911_warning">‏<b>تحذيرات - قيود الاتصال بخدمات الطوارئ على الرقم </b>"
+عند الاتصال بالرقم 911، لا تنس إخبار العامل الذي سيرد عليك بمكانك. وسيتم إجراء الاتصال برقم 911 عبر شبكة Wi-Fi فقط إذا كانت شبكة الجوّال غير متاحة. وقد يحدث تأخر في الاتصال برقم 911 الذي يتم إجراؤه عبر شبكة Wi-Fi وربما لا ينجح، وذلك في حالة عدم تعرّف نظام 911 على العنوان، أو انقطاع الطاقة الكهربائية، أو توقف اتصال Wi-Fi عن العمل مثلاً. وسيتم إرسال خدمات الطوارئ إلى العنوان الذي ذكرته أعلاه، ولذلك يُرجى تحديثه عند تغيير مواقعك."</string>
+    <string name="house_number">رقم العنوان</string>
+    <string name="street">الشارع</string>
+    <string name="apt_suite_number">الشقة، الجناح، وهكذا</string>
+    <string name="city">المدينة</string>
+    <string name="state">الولاية</string>
+    <string name="zip_code">الرمز البريدي</string>
+    <string name="save">حفظ</string>
+    <string name="vzw_address_confirm_text_part1">تعذر العثور على العنوان الذي أدخلته نظرًا لتعذر العثور على عنوان الشارع، أو قد يكون اسم المدينة أو الولاية أو الرمز البريدي غير صحيح.</string>
+    <string name="vzw_address_confirm_text_part2">إذا لم يكن اسم المدينة أو الولاية أو الرمز البريدي صحيحًا، يمكنك النقر على %1$s، وإلا فانقر على %2$s.</string>
+    <string name="save_anyway">حفظ على أي حال</string>
+    <string name="edit_address">تعديل العنوان</string>
+    <string name="ok">موافق</string>
+    <string name="vzw_address_select_text">تعذر العثور على العنوان الذي أدخلته:</string>
+    <string name="vzw_address_alternate_text">هل تقصد:</string>
+    <string name="vzw_partial_confirm_head">تعذر التحقق من العنوان الذي تم إدخاله بواسطة مقدمي خدمة الطوارئ.</string>
+    <string name="vzw_partial_confirm_text">هل تريد فعلًا استخدام هذا العنوان في حالة حدوث طوارئ؟</string>
+    <string name="vzw_partial_failure_text_part1">قد يكون اسم المدينة أو الولاية أو الرمز البريدي الذي أدخلته غير صحيح.</string>
+    <string name="vzw_partial_failure_text_part2">يُرجى التحقق من العنوان وإعادة المحاولة.</string>
+    <string name="vzw_address_update_success_toast">تم تحديث عنوان الطوارئ</string>
+    <string name="connect_to_wifi_or_web_portal_title">‏تم إيقاف Wi-Fi</string>
+    <string name="connect_to_wifi_or_web_portal_message">‏يمكنك إعداد اتصال Wi-Fi باستخدام شبكة الجوّال، ومع ذلك ينبغي عليك تشغيل Wi-Fi والاتصال بشبكة لاستخدام هذه الميزة.</string>
+    <string name="button_turn_on_wifi">‏تشغيل Wi-Fi</string>
+    <string name="button_setup_web_portal">متابعة الإعداد</string>
+</resources>

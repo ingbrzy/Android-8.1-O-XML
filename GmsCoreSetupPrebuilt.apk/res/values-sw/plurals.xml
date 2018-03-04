@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Programu zote %1$d</item>
+        <item quantity="one">Programu 1</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Umechagua programu %1$d</item>
+        <item quantity="one">Umechagua programu 1</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">Tayari umesakinisha programu %1$d</item>
+        <item quantity="one">Tayari umesakinisha programu 1</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Umehifadhi nakala %1$d za programu. Chagua utakazorejesha au urejeshe zote.</item>
+        <item quantity="one">Umehifadhi nakala %1$d ya programu.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">Anwani %1$d kwenye kifaa</item>
+        <item quantity="one">Anwani 1 kwenye kifaa</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">Anwani %1$d kwenye SIM, %2$d kwenye kifaa</item>
+        <item quantity="one">Anwani %1$d kwenye SIM, %2$d kwenye kifaa</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">Anwani %1$d kwenye iCloud®</item>
+        <item quantity="one">Anwani 1 kwenye iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">Anwani %1$d za SIM</item>
+        <item quantity="one">Anwani 1 ya SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Tumepata programu %1$d. Chagua utakazorejesha au urejeshe zote.</item>
+        <item quantity="one">Tumepata programu %1$d. Ungependa kuirejesha?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Tumepata programu inayolingana na programu zako %1$d za iOS®. Kwa kusakinisha kila programu, unakubali ruhusa zake. &lt;annotation id="apps_permissions_learn_more">Pata maelezo zaidi&lt;/annotation></item>
+        <item quantity="one">Tumepata programu inayolingana na moja ya programu zako za iOS®. Kwa kusakinisha programu hii, unakubali ruhusa zake. &lt;annotation id="apps_permissions_learn_more">Pata maelezo zaidi&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Vimesalia vipengee %1$d…</item>
+        <item quantity="one">Kimesalia kipengee %1$d…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Tunakudokeza! Tukio hili haliwajumuishi watu hawa tena:</item>
+        <item quantity="one">Tunakudokeza! Tukio hili halimjumuishi mtu huyu tena:</item>
+    </plurals>
+</resources>

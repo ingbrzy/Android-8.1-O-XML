@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="content_description_rated">
+        <item quantity="other">คะแนนของคุณ: %1$s ดาว</item>
+        <item quantity="one">คะแนนของคุณ: %1$s ดาว</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">%1$d รีวิว</item>
+        <item quantity="one">%1$d รีวิว</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">มีรีวิว %1$d รายการที่ให้คะแนน %2$d ดาว</item>
+        <item quantity="one">มีรีวิว %1$d รายการที่ให้คะแนน %2$d ดาว</item>
+    </plurals>
+    <plurals name="installs_paused">
+        <item quantity="other">หยุดการติดตั้งชั่วคราวแล้ว</item>
+        <item quantity="one">หยุดการติดตั้งชั่วคราวแล้ว</item>
+    </plurals>
+    <plurals name="myapps_security_last_scanned_days_ago">
+        <item quantity="other">แอปที่สแกนเมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="myapps_security_recently_removed_message">
+        <item quantity="other">นำแอปที่เป็นอันตรายออกแล้ว %1$d แอป %2$s</item>
+        <item quantity="one">นำแอปที่เป็นอันตรายออกแล้ว %1$d แอป %2$s</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">การอัปเดต %1$d รายการต้องมีการอนุมัติ</item>
+        <item quantity="one">การอัปเดต %1$d รายการต้องมีการอนุมัติ</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d การอัปเดตใหม่</item>
+        <item quantity="one">%1$d การอัปเดตใหม่</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">มีการอัปเดต %1$d รายการให้บริการ</item>
+        <item quantity="one">มีการอัปเดต %1$d รายการให้บริการ</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">อัปเดตทั้งหมด</item>
+        <item quantity="one">อัปเดต</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">อัปเดต %1$d แอปพลิเคชันแล้ว</item>
+        <item quantity="one">อัปเดต %1$d แอปพลิเคชันแล้ว</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ดาว</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ดาว</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ดาว - %3$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ดาว - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>%1$s&lt;/b> %2$s ดาว - %3$s - %4$s</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> %2$s ดาว - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ ทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+        <item quantity="one">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ ทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ เลิกทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+        <item quantity="one">ผู้ใช้ %1$d คนเห็นว่ารีวิวนี้มีประโยชน์ เลิกทำเครื่องหมายความคิดเห็นว่ามีประโยชน์</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">ให้คะแนน &lt;b>%1$s ดาว&lt;/b></item>
+        <item quantity="one">ให้คะแนน &lt;b>%1$s ดาว&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">ใน %1$s รีวิว</item>
+        <item quantity="one">ใน %1$s รีวิว</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>%1$s ดาว&lt;/b> %2$s</item>
+        <item quantity="one">&lt;b>%1$s ดาว&lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">คืนค่า %1$d แอปที่เลือก</item>
+        <item quantity="one">คืนค่าแอปที่เลือก</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">ดาว</item>
+        <item quantity="one">ดาว</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_installs_v2">
+        <item quantity="other">ระบบจะติดตั้งแอปในไม่ช้า</item>
+        <item quantity="one">ระบบจะติดตั้งแอปในไม่ช้า</item>
+    </plurals>
+    <plurals name="uninstall_manager_app_uninstallation_progress_updates_v2">
+        <item quantity="other">ระบบจะติดตั้งการอัปเดตแอปในไม่ช้า</item>
+        <item quantity="one">ระบบจะติดตั้งการอัปเดตแอปในไม่ช้า</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">ใช้ล่าสุดเมื่อ %1$d เดือนที่ผ่านมา</item>
+        <item quantity="one">ใช้ล่าสุดเมื่อ %1$d เดือนที่ผ่านมา</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_accessibility_v2">
+        <item quantity="other">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อใน \"การตั้งค่าพื้นที่เก็บข้อมูล\"</item>
+        <item quantity="one">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อใน \"การตั้งค่าพื้นที่เก็บข้อมูล\"</item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_exact_v2">
+        <item quantity="other">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังสามารถเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อใน&lt;a href=\"\">การตั้งค่า > พื้นที่เก็บข้อมูล&lt;/a></item>
+        <item quantity="one">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังสามารถเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อใน&lt;a href=\"\">การตั้งค่า > พื้นที่เก็บข้อมูล&lt;/a></item>
+    </plurals>
+    <plurals name="uninstall_manager_subtitle_fallback_v2">
+        <item quantity="other">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อในการตั้งค่า > พื้นที่เก็บข้อมูล</item>
+        <item quantity="one">หากต้องการติดตั้งหรืออัปเดตแอปบนอุปกรณ์นี้ ให้ลบแอปที่คุณไม่ได้ใช้แล้ว และคุณยังเพิ่มพื้นที่ว่างได้โดยลบไฟล์สื่อในการตั้งค่า > พื้นที่เก็บข้อมูล</item>
+    </plurals>
+</resources>

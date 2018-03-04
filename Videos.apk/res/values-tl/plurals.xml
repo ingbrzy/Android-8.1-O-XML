@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_aggregate_rating_badge_description">
+        <item quantity="other">Binigyan ng rating na %1$s (na) star ng %2$d na tao</item>
+        <item quantity="one">Binigyan ng rating na %1$s (na) star ng %2$d tao</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Mag-e-expire sa loob ng %1$d na araw</item>
+        <item quantity="one">Mag-e-expire sa loob ng %1$d araw</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Mag-e-expire sa loob ng %1$d na oras</item>
+        <item quantity="one">Mag-e-expire sa loob ng %1$d oras</item>
+    </plurals>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d pa</item>
+        <item quantity="one">%1$d pa</item>
+    </plurals>
+</resources>

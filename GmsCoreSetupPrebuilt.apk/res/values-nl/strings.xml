@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="app_has_in_app_purchases">In-app-aankopen</string>
+    <string name="app_has_permissions">Rechten: %s</string>
+    <string name="app_has_runtime_permissions">App vraagt om rechten</string>
+    <string name="app_picker_app_already_installed_toast">Deze app is al geïnstalleerd</string>
+    <string name="app_picker_loading">Beschikbare apps zoeken…</string>
+    <string name="app_picker_loading_toast">Beschikbare apps worden binnenkort geladen</string>
+    <string name="app_picker_no_apps">Geen apps geselecteerd</string>
+    <string name="app_picker_no_apps_found">Geen apps gevonden</string>
+    <string name="apps_in_app_purchases_disclaimer_all">In-app-aankopen worden niet overgezet naar je ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Sommige in-app-aankopen worden mogelijk niet overgezet naar je ^1.</string>
+    <string name="apps_permissions_described_v2">"Er kunnen alleen overeenkomende Android-apps worden gevonden voor populaire, gratis iOS®-apps. De meeste in-app-aankopen worden niet overgezet. Je kunt meer apps vinden in de Play Store zodra de configuratie is voltooid.
+
+Je moet bepaalde apps mogelijk van tevoren rechten verlenen voor toegang tot specifieke functies of informatie op je apparaat. Rechten worden ingedeeld in rechtengroepen. Als je ervoor kiest deze apps te installeren, accepteer je de rechten die deel uitmaken van elke groep. Hieronder vind je een beschrijving van elke rechtengroep.
+
+Voor sommige apps hoef je de rechten mogelijk niet van tevoren te accepteren. Wanneer je een van deze apps gebruikt, kun je afzonderlijke rechten toestaan of weigeren voordat de app dat type gegevens gebruikt.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Door een app te installeren, ga je akkoord met de gevraagde rechten. <annotation id="apps_permissions_learn_more">Meer informatie</annotation></string>
+    <string name="auto_restore_summary">In een back-up opgeslagen instellingen of andere gegevens herstellen bij het opnieuw installeren van een app</string>
+    <string name="auto_restore_title">Automatisch terugzetten</string>
+    <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-upgegevens</string>
+    <string name="backup_configure_account_title">Back-upaccount</string>
+    <string name="backup_data_summary">Een back-up van apps-gegevens, wifi-wachtwoorden en andere instellingen maken op Google Drive</string>
+    <string name="backup_data_summary_full">"Automatisch op afstand een back-up maken van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden opgeslagen door apps).
+
+Als je de functie voor automatische back-ups inschakelt, worden apparaat- en app-gegevens periodiek op afstand opgeslagen. App-gegevens kunnen gegevens omvatten die een app heeft opgeslagen (op basis van de instellingen van de ontwikkelaar), waaronder potentieel gevoelige gegevens als contacten, berichten en foto's."</string>
+    <string name="backup_data_title">Back-up maken op Google Drive</string>
+    <string name="backup_erase_dialog_message">Weet je zeker dat je het maken van back-ups van je wifi-wachtwoorden, bladwijzers, andere instellingen en apps-gegevens wilt stoppen en alle kopieën in Google Drive wilt wissen?</string>
+    <string name="backup_erase_dialog_message_full">Wil je stoppen met het maken van back-ups van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden die zijn opgeslagen door apps), en alle kopieën in Google Drive wissen?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">"Er is een fout opgetreden bij het openen van de instellingen van Google Foto's"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Wanneer je automatische back-up inschakelt, gebeurt het volgende:
+
+ ● Apparaatinstellingen en app-gegevens worden periodiek opgeslagen in een privémap op Google Drive. App-gegevens kunnen alle gegevens zijn die een app heeft opgeslagen (op basis van ontwikkelaarsinstellingen), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+ Er wordt geen back-up gemaakt van grote bestanden of bestanden die ontwikkelaars hebben uitgesloten van de service.
+
+ ● Foto's en video-opnamen op dit apparaat worden gesynchroniseerd met je Google Foto's-bibliotheek zodat je items kunt zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ Foto's en video's worden standaard geüpload met volledige resolutie. Deze foto's en video's tellen niet mee voor je opslagquotum voor Drive.
+
+ ● Contacten en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Contacten. Je kunt de Google Contacten-app gebruiken om contacten te zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ ● Agenda-afspraken en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Agenda. Je kunt de Google Agenda-app gebruiken om afspraken te zoeken, bewerken, delen en verwijderen vanaf elk van je apparaten.
+
+ Back-upgegevens tellen niet mee voor je Drive-opslagquotum."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Wanneer je automatische back-ups inschakelt, gebeurt het volgende:
+
+ ● Apparaatinstellingen en app-gegevens worden periodiek opgeslagen in een privémap op Google Drive. App-gegevens kunnen alle gegevens zijn die een app heeft opgeslagen (op basis van ontwikkelaarsinstellingen), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+ Er wordt geen back-up gemaakt van grote bestanden of bestanden die ontwikkelaars hebben uitgesloten van de service.
+
+ ● Contacten en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Contacten. Je kunt de Google Contacten-app gebruiken om contacten te zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ ● Agenda-afspraken en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Agenda. Je kunt de Google Agenda-app gebruiken om afspraken te zoeken, bewerken, delen en verwijderen vanaf elk van je apparaten.
+
+ Back-upgegevens tellen niet mee voor je Drive-opslagquotum."</string>
+    <string name="backup_opt_in_backup_description_extra">"Agenda's contacten, foto's en video's zijn gesynchroniseerd met je Google-account en kunnen worden gebruikt in verschillende services."</string>
+    <string name="backup_opt_in_backup_description_v2">Als je automatische back-ups instelt, kun je gemakkelijk je telefoon herstellen of overstappen naar een nieuwe telefoon. <annotation id="backup_opt_in_learn_more">Meer informatie</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Hiermee wordt de back-up uitgeschakeld voor:
+
+Apps en app-gegevens
+Oproepgeschiedenis
+Apparaatinstellingen
+Foto's en video's
+Sms
+
+Je agenda en contacten worden nog steeds gesynchroniseerd met je Google-account. Wanneer de configuratie is voltooid, kun je de synchronisatie-instellingen wijzigen via "<annotation id="backup_opt_in_settings_instructions">Instellingen > Accounts > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Back-up uitschakelen?</string>
+    <string name="backup_opt_in_backup_list">"Apps en app-gegevens
+Agenda
+Oproepgeschiedenis
+Contacten
+Apparaatinstellingen (waaronder wifi-wachtwoorden)
+Foto's en video's
+Sms'jes"</string>
+    <string name="backup_opt_in_backup_list_header">Back-up bevat:</string>
+    <string name="backup_opt_in_backup_title">Back-up maken op Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Back-up uitschakelen</string>
+    <string name="backup_photos_update">"Update Google Foto's"</string>
+    <string name="backup_settings_activity_backup_title">Back-up</string>
+    <string name="backup_settings_activity_title">Back-up maken en resetten</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Niet kopiëren</string>
+    <string name="close_button_label">Sluiten</string>
+    <string name="cloud_restore_app_picker_button">Herstellen</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Je back-up bevat geen apps</string>
+    <string name="cloud_restore_app_picker_title">Kies apps om te herstellen</string>
+    <string name="common_accept">Accepteren</string>
+    <string name="common_add_account_label">Een account toevoegen</string>
+    <string name="common_ads_settings_title">Advertenties</string>
+    <string name="common_agree">Akkoord</string>
+    <string name="common_app_name">Google Play-services</string>
+    <string name="common_asm_preferences_settings_title">Accountvoorkeuren</string>
+    <string name="common_asm_privacy_settings_title">Persoonlijke info en privacy</string>
+    <string name="common_asm_security_settings_title">Inloggen en beveiliging</string>
+    <string name="common_audience_edit_button_label">Bewerken</string>
+    <string name="common_cancel">Annuleren</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan niet worden gestart (toestemmingsfout).</string>
+    <string name="common_car_permission_desc">Toegang tot de autoservice.</string>
+    <string name="common_car_permission_label">Autoservice</string>
+    <string name="common_chips_label_empty_circles">Geen kringen</string>
+    <string name="common_chips_label_extended_circles">Uitgebreide kringen</string>
+    <string name="common_chips_label_only_you">Alleen jij</string>
+    <string name="common_chips_label_public">Openbaar</string>
+    <string name="common_chips_label_your_circles">Je kringen</string>
+    <string name="common_choose_account_label">Een account kiezen</string>
+    <string name="common_clear_app_data_menu_item">App-gegevens wissen</string>
+    <string name="common_connected">Verbonden</string>
+    <string name="common_connected_apps_settings_title">Gekoppelde apps</string>
+    <string name="common_connecting">Verbinding maken…</string>
+    <string name="common_continue">Doorgaan</string>
+    <string name="common_disagree">Niet akkoord</string>
+    <string name="common_disconnect">Ontkoppelen</string>
+    <string name="common_done">Gereed</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Van:</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_started">Aan de slag</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_error_dialog_title">Fout</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_updating_title">Google Play-services worden geüpdatet</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play-services geïnstalleerd met de verkeerde architectuur.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play-services zijn geïnstalleerd met een architectuur (%1$s) die afwijkt van de architectuur op je apparaat (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Verkeerde architectuur</string>
+    <string name="common_google_settings">Google Instellingen</string>
+    <string name="common_google_settings_account">Account</string>
+    <string name="common_google_settings_credentials_title">Smart Lock voor wachtwoorden</string>
+    <string name="common_google_settings_developer">Ontwikkelaar</string>
+    <string name="common_google_settings_services">Services</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Installeren</string>
+    <string name="common_learn_more">Meer informatie</string>
+    <string name="common_list_apps_menu_help">Help</string>
+    <string name="common_list_apps_menu_help_and_feedback">Help en feedback</string>
+    <string name="common_loading">Laden…</string>
+    <string name="common_location_settings_title">Locatie</string>
+    <string name="common_magictether_settings_title">Instant-tethering</string>
+    <string name="common_maps_settings_title">Maps en Latitude</string>
+    <string name="common_mdm_feature_name">Android Apparaatbeheer</string>
+    <string name="common_missing_url_viewer">Er is geen viewer voor het weergeven van een externe URL.</string>
+    <string name="common_more_options">Meer opties</string>
+    <string name="common_networking_settings_title">Netwerken</string>
+    <string name="common_no_browser_for_restricted_url">Beperkte toegang. Er is geen browser gevonden.</string>
+    <string name="common_no_devices_found">Geen apparaten gevonden</string>
+    <string name="common_no_network">Niet beschikbaar omdat het apparaat offline is</string>
+    <string name="common_no_thanks">Nee, bedankt</string>
+    <string name="common_not_now">Niet nu</string>
+    <string name="common_off">Uit</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Aan</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_open_source_licenses">Open-sourcelicenties</string>
+    <string name="common_people_settings_title">Contacten</string>
+    <string name="common_permissions_enable_in_settings">Inschakelen in Instellingen</string>
+    <string name="common_permissions_missing_end">Als je wilt doorgaan, open je Instellingen en vervolgens Rechten en sta je alle vermelde items toe.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Als je dit wilt inschakelen, ga je naar
+Instellingen >
+Rechten >
+Google Play-services"</string>
+    <string name="common_permissions_missing_start">Deze app werkt niet correct, tenzij je Google Play-services toegang geeft tot het volgende:</string>
+    <string name="common_permissions_open_settings">Instellingen openen</string>
+    <string name="common_phone">Telefoon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privacybeleid</string>
+    <string name="common_restore">Herstellen</string>
+    <string name="common_retry">Opnieuw proberen</string>
+    <string name="common_search_settings_title">Zoeken</string>
+    <string name="common_security_ootp_setting_title">Beveiligingscode</string>
+    <string name="common_security_settings_title">Beveiliging</string>
+    <string name="common_send">Verzenden</string>
+    <string name="common_sending">Verzenden...</string>
+    <string name="common_set_up_nearby_device_settings_title">Een apparaat in de buurt instellen</string>
+    <string name="common_settings">Instellingen</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="common_something_went_wrong">Er is iets misgegaan</string>
+    <string name="common_system_info">Systeeminformatie</string>
+    <string name="common_take_photo_label">Foto maken</string>
+    <string name="common_terms_of_service">Servicevoorwaarden</string>
+    <string name="common_try_again">Opnieuw proberen</string>
+    <string name="common_turn_on_bluetooth">Bluetooth inschakelen</string>
+    <string name="common_ui_confirm_deleting_button">Verwijderen</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ik begrijp dit en wil wissen</string>
+    <string name="common_unknown">Onbekend</string>
+    <string name="common_update">Updaten</string>
+    <string name="common_url_load_unsuccessful_message">Je Android-apparaat heeft geen verbinding met een gegevensservice. Als je deze gegevens nu wilt bekijken, ga je via een webbrowser naar %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Je Android-apparaat is niet verbonden met een wifi-netwerk. Als je deze informatie nu wilt bekijken, ga je in een webbrowser naar %s.</string>
+    <string name="common_url_login_notice">Inloggen als %1$s</string>
+    <string name="common_usage_and_diagnostics">Gebruik en diagnostische gegevens</string>
+    <string name="common_yesterday">Gisteren</string>
+    <string name="confirm_copy_button_text">Kopiëren</string>
+    <string name="contacts_number_device_and_icloud">%1$d in iCloud®, %2$d op apparaat</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacten, %1$d in iCloud®, %2$d op apparaat</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacten, %1$d op simkaart, %2$d op apparaat</string>
+    <string name="contacts_number_device_with_google">Google Contacten, %1$d op apparaat</string>
+    <string name="contacts_number_icloud_with_google">Google Contacten, %1$d in iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacten, %1$d op simkaart</string>
+    <string name="copy_confirmation_description">Je kopieert gegevens, zoals je Google-account en apps, naar je nieuwe telefoon</string>
+    <string name="copy_confirmation_title">Kopiëren naar je nieuwe telefoon?</string>
+    <string name="d2d_app_picker_description_no_apps">We kunnen geen apps vinden</string>
+    <string name="d2d_app_picker_title">Apps</string>
+    <string name="d2d_migration_canceled_on_source">Kopiëren geannuleerd</string>
+    <string name="data_copied_fragment_description">Je gegevens zijn gekopieerd naar je nieuwe telefoon. Je kunt de kabel loskoppelen.</string>
+    <string name="data_copied_fragment_description_cancel">Je hebt ervoor gekozen het kopiëren stop te zetten. Daarom is slechts een deel van je gegevens gekopieerd naar je nieuwe telefoon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Je hebt ervoor gekozen het kopiëren stop te zetten. Daarom is er niets gekopieerd naar je nieuwe telefoon.</string>
+    <string name="data_copied_fragment_description_error">Er is iets misgegaan, dus we hebben niet alles kunnen kopiëren.</string>
+    <string name="data_copied_fragment_description_error_no_data">Er is iets misgegaan. We kunnen je gegevens daarom niet kopiëren.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiëren mislukt</string>
+    <string name="data_copied_fragment_some_data_title">Sommige gegevens gekopieerd</string>
+    <string name="data_copied_fragment_title">Gegevens gekopieerd</string>
+    <string name="device_backup_title">Back-up van apparaat maken</string>
+    <string name="device_not_supported_fragment_new_device">Je bent verbonden met een nieuwe telefoon. Maak opnieuw verbinding met je vorige telefoon om door te gaan.</string>
+    <string name="device_not_supported_fragment_new_device_title">Verbinding maken met de vorige telefoon</string>
+    <string name="device_not_supported_fragment_no_data_cable">Met deze kabel kunnen geen gegevens worden overgezet. Sluit het apparaat aan met een andere kabel en probeer het opnieuw.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Probeer een andere kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Zorg dat je oude telefoon is ontgrendeld, haal de kabel los en sluit deze weer aan</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Er is iets misgegaan</string>
+    <string name="device_not_supported_ios_supervised_description">Omdat je iPhone®-apparaat onder beheer staat, kun je je gegevens alleen met een andere methode kopiëren</string>
+    <string name="device_picker_description">Back-ups worden opgeslagen in Google Drive</string>
+    <string name="device_picker_empty">Geen back-ups gelinkt aan %1$s.</string>
+    <string name="device_picker_empty_title">Geen back-ups gevonden</string>
+    <string name="device_picker_item">Back-up van %1$s</string>
+    <string name="device_picker_last_used">Laatst gebruikt: ^1</string>
+    <string name="device_picker_skip">Niet terugzetten</string>
+    <string name="device_picker_title">Een back-up kiezen om te herstellen</string>
+    <string name="disabled_by_admin_summary_text">Ingesteld door beheerder</string>
+    <string name="download_msg_error_invalid">De download is onjuist geconfigureerd.</string>
+    <string name="download_msg_in_progress">De download wordt uitgevoerd.</string>
+    <string name="download_msg_not_allowed_space">Er is onvoldoende ruimte om de download uit te voeren.</string>
+    <string name="download_msg_pending">De download is in behandeling.</string>
+    <string name="download_notification_description">%1$s heeft dit aangevraagd.</string>
+    <string name="download_notification_title">Meer gegevens ophalen</string>
+    <string name="drive_backup_account">Account</string>
+    <string name="drive_backup_apps_in_backup">App-gegevens waarvan een back-up is gemaakt</string>
+    <string name="drive_backup_apps_last_backup">Laatste back-up</string>
+    <string name="drive_backup_apps_loading">Laden...</string>
+    <string name="drive_backup_apps_screen_title">App-gegevens</string>
+    <string name="drive_backup_content_apps_title">App-gegevens</string>
+    <string name="drive_backup_content_calendar_dialog_message">Afspraken die in Google Agenda zijn gemaakt, worden gesynchroniseerd op alle apparaten die zijn ingelogd op je Google-account.</string>
+    <string name="drive_backup_content_calendar_title">Agenda</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Back-ups omvatten datums en ontvangers van uitgevoerde en ontvangen oproepen.</string>
+    <string name="drive_backup_content_callhistory_title">Oproepgeschiedenis</string>
+    <string name="drive_backup_content_contacts_dialog_message">Contacten die in Google Contacten zijn gemaakt, worden gesynchroniseerd op alle apparaten die zijn ingelogd op je Google-account.</string>
+    <string name="drive_backup_content_contacts_title">Contacten</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Back-ups omvatten apparaatconfiguratiegegevens zoals achtergrond, wifi-wachtwoorden en standaard-apps.</string>
+    <string name="drive_backup_content_devicesettings_title">Apparaatinstellingen</string>
+    <string name="drive_backup_content_header">Content</string>
+    <string name="drive_backup_content_photos_dialog_message">"Je primaire back-upaccount is gewijzigd. Je kunt het back-upaccount voor Google Foto's ook wijzigen in %s."</string>
+    <string name="drive_backup_content_photos_dialog_no">AFWIJZEN</string>
+    <string name="drive_backup_content_photos_dialog_title">"Wil je het account voor foto's en video's ook wijzigen?"</string>
+    <string name="drive_backup_content_photos_dialog_yes">WIJZIGEN</string>
+    <string name="drive_backup_content_photos_title">"Foto's en video's"</string>
+    <string name="drive_backup_content_sms_dialog_message">Back-ups omvatten verzonden en ontvangen berichten. Dit omvat geen mms-media.</string>
+    <string name="drive_backup_content_sms_title">Sms-berichten</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Fout bij het ophalen van laatste datum van synchronisatie</string>
+    <string name="drive_backup_content_status_lastsaved">Laatste back-up: %1$s</string>
+    <string name="drive_backup_content_status_lastsync">Laatste synchronisatie: %1$s</string>
+    <string name="drive_backup_content_status_never">Wachten op back-up</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synchronisatie-instellingen</string>
+    <string name="drive_backup_content_status_sync_off">Synchroniseren uitgeschakeld</string>
+    <string name="drive_backup_content_status_updating">Status controleren…</string>
+    <string name="drive_backup_disabled_backuplist">"De back-up is inclusiefde volgende gegevens:
+\u0009- Apps en app-gegevens
+\u0009- Oproepgeschiedenis
+\u0009- Apparaatinstellingen (inclusief wifi-wachtwoorden)
+\u0009- Google Agenda
+\u0009- Google Contacten
+\u0009- Foto's en video's
+\u0009- Sms"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"De back-up is inclusief de volgende gegevens:
+\u0009- Apps en app-gegevens
+\u0009- Oproepgeschiedenis
+\u0009- Apparaatinstellingen (inclusief wifi-wachtwoorden)
+\u0009- Google Agenda
+\u0009- Google Contacten
+\u0009- Sms"</string>
+    <string name="drive_backup_disabled_by_device_owner">Uitgeschakeld door je beheerder</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Agenda, Google Contacten, foto's en video's worden gesynchroniseerd met je Google-account en worden mogelijk voor andere services gebruikt.
+
+Synchronisatie is mogelijk ingeschakeld, zelfs als back-ups zijn uitgeschakeld. Je kunt de synchronisatie-instellingen wijzigen via Instellingen > Accounts > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Agenda en Google Contacten worden gesynchroniseerd met je Google-account en kunnen in verschillende services worden gebruikt.
+
+Synchronisatie kan ook zijn ingeschakeld als back-ups zijn uitgeschakeld. Je kunt de synchronisatie-instellingen wijzigen via > Accounts > Google."</string>
+    <string name="drive_backup_disabled_introduction">Als je automatische back-ups instelt, kun je gemakkelijk je telefoon herstellen of overstappen naar een nieuw apparaat.</string>
+    <string name="drive_backup_settings_title">Back-up maken</string>
+    <string name="drive_backup_state">Back-up maken op Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"De back-upgegevens van dit apparaat op Google Drive worden definitief verwijderd.
+
+Foto's en video's waarvan al een back-up is gemaakt, zijn nog steeds beschikbaar via Google Drive.
+
+Google Agenda en Google Contacten worden nog steeds gesynchroniseerd met je Google-account. Je kunt de synchronisatie-instellingen wijzigen via Instellingen > Accounts > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"De back-upgegevens van dit apparaat in Google Drive worden definitief verwijderd.
+
+Google Agenda en Google Contacten worden nog steeds gesynchroniseerd met je Google-account. Je kunt de synchronisatie-instellingen wijzigen via > Accounts > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Uitschakelen en verwijderen</string>
+    <string name="drive_backup_state_dialog_title">Back-up uitschakelen en verwijderen?</string>
+    <string name="durationDayHour">%1$d dag %2$d uur</string>
+    <string name="durationDayHours">%1$d dag %2$d uur</string>
+    <string name="durationDays">%1$d dagen</string>
+    <string name="durationHourMinute">%1$d uur %2$d min</string>
+    <string name="durationHourMinutes">%1$d uur %2$d min</string>
+    <string name="durationHours">%1$d uur</string>
+    <string name="durationMinute">%1$d minuut</string>
+    <string name="durationMinuteSecond">%1$d min %2$d sec</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d sec</string>
+    <string name="durationMinutes">%1$d minuten</string>
+    <string name="durationSecond">%1$d seconde</string>
+    <string name="durationSeconds">%1$d seconden</string>
+    <string name="encryption_warning_fragment_description">"Back-upversleuteling is ingeschakeld voor je iPhone®. Als je de functie niet zelf hebt ingeschakeld, is deze mogelijk ingeschakeld door je IT-beheerder.
+
+Alleen foto's, muziek en video's kunnen worden gekopieerd. Ga naar "<b>g.co/datatransferhelp</b> voor meer informatie.</string>
+    <string name="encryption_warning_fragment_title">Back-upversleuteling</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ik kan de adapter niet vinden</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Zoek de Quick Switch Adapter die bij je ^1 is geleverd.
+
+Sluit de kabel aan op de adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Sluit de adapter en kabel aan</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Ontgrendel je oude telefoon en sluit de adapter vervolgens aan op deze nieuwe telefoon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Sluit beide telefoons op elkaar aan</string>
+    <string name="fragment_usb_dialog_cancel_description">Je kunt de meeste content overzetten als je een kabel gebruikt. Als de kabel in de doos niet past, gebruik je een oplaad- of gegevenskabel die geschikt is voor je oude telefoon.</string>
+    <string name="fragment_usb_dialog_cancel_title">Gegevens op een andere manier kopiëren?</string>
+    <string name="fragment_usb_dont_have_cable">Ik heb geen kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Ik heb mijn oude telefoon niet</string>
+    <string name="fragment_usb_find_cable_description">Gebruik een kabel die geschikt is voor je oude telefoon, zoals je gegevens- of oplaadkabel.</string>
+    <string name="fragment_usb_find_cable_title">Zoek de juiste kabel</string>
+    <string name="fragment_usb_initial_description">Zet gegevens van je oude telefoon over naar deze ^1.</string>
+    <string name="fragment_usb_initial_title">Laten we je gegevens gaan kopiëren</string>
+    <string name="fragment_usb_legacy_description">"Dit is de snelste manier om de meeste gegevens over te zetten.
+
+Zoek de adapter in de doos en sluit deze aan op je nieuwe telefoon. Sluit de telefoons met een kabel op elkaar aan en ontgrendel je oude telefoon."</string>
+    <string name="fragment_usb_other_ways">Kopiëren zonder kabel</string>
+    <string name="fragment_usb_plug_cable">Sluit de kabel aan op je oude telefoon</string>
+    <string name="fragment_waiting_title">Een ogenblik geduld…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Contacten worden gesynchroniseerd</string>
+    <string name="google_contacts_static_text_off">Google Contacten wordt nog steeds gesynchroniseerd</string>
+    <string name="header_set_backup_account">Back-upaccount instellen</string>
+    <string name="i_message_dialog_message">"Als je sms'jes van iPhone®-gebruikers wilt blijven ontvangen, moet je iMessage® uitschakelen.
+
+Ga naar "<b>g.co/iMessageHelp</b> voor instructies.</string>
+    <string name="instructions_fragment_title">Ga verder op je andere telefoon</string>
+    <string name="ios_connected_fragment_description">"Op het volgende scherm kun je inloggen op je Google-account of een nieuw account maken.
+
+Als je geen Google-account toevoegt, worden je afspraken uit iOS Calendar® niet overgezet."</string>
+    <string name="ios_message_attachment_explanation">"[Je berichtbijlagen bevinden zich in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Sommige bijlagen kunnen niet worden gekopieerd. Je kunt bijlagen die wel zijn overgezet, vinden in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachment_placeholder">"[Bijlage opgeslagen in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachments_placeholder">"[Bijlagen opgeslagen in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_migration_default_calendar_title">Agenda</string>
+    <string name="ios_migration_other_contact_relation">Anders</string>
+    <string name="ios_photos_dialog_message">"Foto's die zijn opgeslagen in iCloud®, kunnen niet worden gekopieerd.
+
+Als je deze foto's wilt overzetten naar je ^1, installeer je de Google Foto's-app op je iPhone® en schakel je 'Back-up en synchronisatie' in. Ga naar "<b>g.co/datatransferhelp</b> voor meer instructies.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Account toevoegen</string>
+    <string name="lockscreen_smartdevice_action_next">Volgende</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Ontgrendel het apparaat om door te gaan met de configuratie</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Uit veiligheidsoverwegingen moet je je schermvergrendeling bevestigen om door te gaan met de configuratie</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Je schermvergrendeling bevestigen</string>
+    <string name="manage_data_label">Google-account</string>
+    <string name="master_clear_title">Terugzetten op fabrieksinstellingen</string>
+    <string name="megabyteShort">MB</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_content_text_set_backup_account">Het back-upaccount moet worden ingesteld</string>
+    <string name="notification_content_title_set_backup_account">Back-up</string>
+    <string name="notification_ticker_set_backup_account">Back-upaccount nodig</string>
+    <string name="permgrouplab_calendar">Agenda</string>
+    <string name="permgrouplab_camera">Camera</string>
+    <string name="permgrouplab_contacts">Contacten</string>
+    <string name="permgrouplab_location">Locatie</string>
+    <string name="permgrouplab_microphone">Microfoon</string>
+    <string name="permgrouplab_phone">Telefoon</string>
+    <string name="permgrouplab_sensors">Lichaamssensoren</string>
+    <string name="permgrouplab_sms">Sms</string>
+    <string name="permgrouplab_storage">Opslag</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">"Er is momenteel geen account ingesteld voor het opslaan van back-ups van foto's"</string>
+    <string name="photos_backup_title">"Back-up van foto's maken"</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Geen</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Gekopieerde contacten worden opgeslagen in je Google-account.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">"Gekopieerde contacten en agenda's worden opgeslagen in je Google-account."</string>
+    <string name="restore_choice_data_disclaimer_v2">Sommige van je gegevens worden mogelijk niet gekopieerd naar je ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Meer informatie</annotation></string>
+    <string name="restore_choice_deselect_some_content">Hef de selectie van bepaalde content op om door te gaan</string>
+    <string name="restore_choice_learn_more_android">"Sommige gegevens van je oude telefoon kunnen niet automatisch worden gekopieerd:
+
+ ● Downloads (zoals pdf-bestanden)
+
+ ● Foto's, video's en muziek die zijn opgeslagen in verborgen mappen
+
+ ● Foto's, video's en muziek die zijn ontvangen via sms'jes
+
+ ● Apps die niet afkomstig zijn uit de Google Play Store
+
+ ● App-gegevens (als de app de back-upservice van Android niet gebruikt))
+
+ ● Bepaalde apparaatinstellingen
+
+ ● Andere accounts dan Google-accounts (en bijbehorende gegevens)
+
+ ● Contacten en agenda's die zijn gesynchroniseerd met andere services van Google
+
+ ● Beltonen
+
+ Ga naar g.co/datatransferhelp voor meer informatie en hulp bij het kopiëren van sommige van deze gegevens."</string>
+    <string name="restore_choice_learn_more_ios">"Sommige gegevens van je oude telefoon kunnen niet automatisch worden gekopieerd:
+
+ ● Apps en app-gegevens
+
+ ● Foto's waarvan het origineel niet is opgeslagen op je telefoon (als de instelling voor het optimaliseren van de opslag bijvoorbeeld is ingeschakeld, worden originele foto's opgeslagen in iCloud®)
+
+ ● Bestanden en documenten die zijn opgeslagen in iCloud®
+
+ ● Apparaatinstellingen (zoals wifi-wachtwoorden en achtergronden)
+
+ ● Muziek die wordt beschermd met DRM-beveiliging (Digital Rights Management) (bijvoorbeeld iTunes®-muziek die vóór april 2009 is gekocht of muziek die is gedownload voor offline luisteren in een app voor het streamen van muziek)
+
+ ● Andere accounts dan Google-accounts (en bijbehorende gegevens)
+
+ ● Contacten en agenda's die zijn gesynchroniseerd met andere services dan Google of iCloud®
+
+ ● Bladwijzers uit Safari®
+
+ iMessage®-bijlagen zijn beschikbaar in Google Foto's > Apparaatmappen > Berichtbijlagen.
+
+ Ga naar g.co/datatransferhelp voor meer informatie en hulp bij het kopiëren van sommige van deze gegevens."</string>
+    <string name="restore_choice_not_enough_space">Onvoldoende ruimte</string>
+    <string name="restore_choice_total_text">van je beschikbare overdracht van %1$s/%2$s</string>
+    <string name="restore_error_message">Er is iets misgegaan bij het herstellen.</string>
+    <string name="restore_item_appdata">App-gegevens</string>
+    <string name="restore_item_calendar">Agenda</string>
+    <string name="restore_item_calendar_ical_description">iOS® Agenda, Google Agenda</string>
+    <string name="restore_item_calendar_ical_off_description">Google Agenda wordt nog steeds gesynchroniseerd</string>
+    <string name="restore_item_calendar_sync_description">Google Agenda wordt gesynchroniseerd</string>
+    <string name="restore_item_call_logs">Oproepgeschiedenis</string>
+    <string name="restore_item_contacts">Contacten</string>
+    <string name="restore_item_device_settings_description">Wifi-wachtwoorden en meer</string>
+    <string name="restore_item_downloads">Downloads</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">Gmail wordt gesynchroniseerd</string>
+    <string name="restore_item_message_attachments">Berichtbijlagen</string>
+    <string name="restore_item_messages">Berichten</string>
+    <string name="restore_item_music">Muziek</string>
+    <string name="restore_item_photos">"Foto's en video's"</string>
+    <string name="restore_item_settings">Apparaatinstellingen</string>
+    <string name="restore_item_sms">"Sms'jes"</string>
+    <string name="restore_item_will_be_synced_text">Deze gegevens worden gesynchroniseerd met je telefoon</string>
+    <string name="restore_progress_title">Herstellen…</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="small_time_duration">Minder dan één minuut</string>
+    <string name="source_connected_description">Voorbereiden...</string>
+    <string name="source_connected_title">Verbonden met je %1$s</string>
+    <string name="source_copying_description">De geselecteerde gegevens worden naar je nieuwe telefoon gekopieerd</string>
+    <string name="source_copying_title">Kopiëren...</string>
+    <string name="source_default_target_device_name">nieuw apparaat</string>
+    <string name="source_notification_device_disconnected">Sluit je kabel opnieuw aan</string>
+    <string name="source_notification_text">Overdracht van telefoon naar telefoon wordt uitgevoerd</string>
+    <string name="source_notification_title">Gegevensoverdracht</string>
+    <string name="source_success_description">Voltooi de configuratie op je %1$s.</string>
+    <string name="source_success_screen_title">Klaar!</string>
+    <string name="source_unplugged_description">Sluit de kabel opnieuw aan op je %1$s</string>
+    <string name="source_unplugged_title">Kabel losgekoppeld</string>
+    <string name="source_waiting_title">Ga verder met de installatie op je %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Sluiten</string>
+    <string name="stop_copying_dialog_message_before_transfer">Je gegevens zijn niet gekopieerd naar je nieuwe telefoon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sommige van je gegevens zijn niet gekopieerd naar je nieuwe telefoon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Niet kopiëren</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stoppen</string>
+    <string name="stop_copying_dialog_title_before_transfer">Niet kopiëren?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopiëren stoppen?</string>
+    <string name="storage_management_wear_descriptive_text">Apps gebruiken je apparaatopslag om gegevens te kopiëren naar een wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Opslag van wearable beheren</string>
+    <string name="storage_management_wear_size_label">Opslag van wearable</string>
+    <string name="storage_managment_all_storage_descriptive_text">Totale gegevens gebruikt door Google Play-services, inclusief de zoekmachine en andere gegevens.</string>
+    <string name="storage_managment_clear_all_data">Alle gegevens wissen</string>
+    <string name="storage_managment_computing_size">Berekenen…</string>
+    <string name="storage_managment_icing_size_label">Zoekgegevens</string>
+    <string name="storage_managment_manage_icing_button">Zoekgegevens beheren</string>
+    <string name="storage_managment_search_index_descriptive_text">We versnellen het zoeken op je apparaat door een zoekmachine te bieden die je apps kunnen gebruiken.</string>
+    <string name="storage_managment_title">Opslag voor Google Play-services</string>
+    <string name="storage_managment_total_size_label">Totale opslag</string>
+    <string name="suw_back_button_label">Terug</string>
+    <string name="suw_more_button_label">Meer</string>
+    <string name="suw_next_button_label">Volgende</string>
+    <string name="target_default_source_device_model">oude apparaat</string>
+    <string name="target_device_not_supported_cant_continue_description">Je moet een andere methode kiezen om gegevens te kopiëren</string>
+    <string name="target_device_not_supported_cant_continue_title">De andere telefoon wordt niet ondersteund</string>
+    <string name="target_device_not_supported_try_restarting_description">"Koppel de kabel los en start je oude telefoon opnieuw op. Sluit de kabel vervolgens weer aan en volg de instructies op je Pixel.
+
+Als deze foutmelding opnieuw wordt weergegeven, moet je mogelijk op een andere manier kopiëren."</string>
+    <string name="target_device_not_supported_try_restarting_title">De telefoon wordt mogelijk niet ondersteund</string>
+    <string name="target_smart_device_timeout_add_account">ACCOUNT TOEVOEGEN</string>
+    <string name="target_smart_device_timeout_description">Je kunt proberen je account handmatig toe te voegen</string>
+    <string name="target_smart_device_timeout_dismiss">AFWIJZEN</string>
+    <string name="target_smart_device_timeout_title">Problemen?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefoons zijn verbonden</string>
+    <string name="toast_reconnect_cable">Sluit je kabel opnieuw aan</string>
+    <string name="transfer_finished_fragment_title">Nog even de laatste details…</string>
+    <string name="transfer_summary_copied">Gegevens gekopieerd</string>
+    <string name="transfer_summary_fragment_description">Je kunt de kabel loskoppelen.</string>
+    <string name="transfer_summary_fragment_finish">VOLTOOIEN</string>
+    <string name="transfer_summary_fragment_title">Je telefoon is bijna klaar</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Sommige van je foto's zijn niet gekopieerd. "<annotation id="transfer_summary_learn_more">Meer informatie</annotation></string>
+    <string name="transfer_summary_not_copied">Gegevens niet gekopieerd</string>
+    <string name="transfer_summary_partial">%1$s/%2$s Gekopieerd</string>
+    <string name="transfer_summary_will_sync">Gegevens worden gesynchroniseerd na configuratie</string>
+    <string name="transferring_fragment_calculating_remaining_time">Resterende tijd berekenen…</string>
+    <string name="transferring_fragment_header">Kopiëren...</string>
+    <string name="transferring_fragment_remaining_time">%1$s resterend</string>
+    <string name="trust_instructions_description">Als je wilt doorgaan, controleer je je iPhone® en keur je de verbinding goed</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari en iTunes zijn handelsmerken van Apple Inc., gedeponeerd in de Verenigde Staten en andere landen.</string>
+</resources>

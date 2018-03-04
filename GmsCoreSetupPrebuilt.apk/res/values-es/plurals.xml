@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Las %1$d aplicaciones</item>
+        <item quantity="one">1 aplicación</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplicaciones seleccionadas</item>
+        <item quantity="one">1 aplicación seleccionada</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d aplicaciones ya están instaladas</item>
+        <item quantity="one">1 aplicación ya está instalada</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Hay %1$d aplicaciones en tu copia de seguridad. Elige algunas o selecciónalas todas.</item>
+        <item quantity="one">Hay %1$d aplicación en tu copia de seguridad.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d contactos del dispositivo</item>
+        <item quantity="one">1 contacto del dispositivo</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d de la SIM y %2$d del dispositivo</item>
+        <item quantity="one">%1$d de la SIM y %2$d del dispositivo</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d contactos de iCloud®</item>
+        <item quantity="one">1 contacto de iCloud®</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contactos de la SIM</item>
+        <item quantity="one">1 contacto de la SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Hemos encontrado %1$d aplicaciones. Elige algunas o selecciónalas todas.</item>
+        <item quantity="one">Hemos encontrado %1$d aplicación. ¿Quieres restaurarla?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">Hemos encontrado equivalentes para %1$d de tus aplicaciones de iOS®. Al descargar cada aplicación, aceptas sus permisos. &lt;annotation id="apps_permissions_learn_more">Más información&lt;/annotation></item>
+        <item quantity="one">Hemos encontrado un equivalente para una de tus aplicaciones de iOS®. Al descargar esta aplicación, aceptas sus permisos. &lt;annotation id="apps_permissions_learn_more">Más información&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Quedan %1$d elementos…</item>
+        <item quantity="one">Queda %1$d elemento…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">¡Aviso! Este evento ya no incluye a los siguientes asistentes:</item>
+        <item quantity="one">¡Aviso! Este evento ya no incluye al siguiente asistente:</item>
+    </plurals>
+</resources>

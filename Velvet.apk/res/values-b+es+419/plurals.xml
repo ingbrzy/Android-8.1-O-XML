@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daysAgo">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+    </plurals>
+    <plurals name="episode_list_header_full">
+        <item quantity="other">%1$d episodios</item>
+        <item quantity="one">%1$d episodio</item>
+    </plurals>
+    <plurals name="favoritesSelected">
+        <item quantity="other">%1$d podcasts seleccionados</item>
+        <item quantity="one">%1$d podcast seleccionado</item>
+    </plurals>
+    <plurals name="hoursAgo">
+        <item quantity="other">Hace %1$d horas</item>
+        <item quantity="one">Hace %1$d hora</item>
+    </plurals>
+    <plurals name="image_viewer_reviews_label">
+        <item quantity="other">%s reseñas</item>
+        <item quantity="one">%s reseña</item>
+    </plurals>
+    <plurals name="minutesAgo">
+        <item quantity="other">Hace %1$d minutos</item>
+        <item quantity="one">Hace %1$d minuto</item>
+    </plurals>
+    <plurals name="minutesRemaining">
+        <item quantity="other">Faltan %1$d minutos</item>
+        <item quantity="one">Falta %1$d minuto</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+</resources>

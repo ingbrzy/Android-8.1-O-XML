@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Device setup</string>
+    <string name="sim_locked_notification_content">Ask %1$s whether this device can be unlocked. Tap here for contact details.</string>
+    <string name="sim_locked_notification_content_no_contact">Ask your operator whether this device can be unlocked</string>
+    <string name="sim_locked_notification_title">"SIM card isn't supported"</string>
+    <string name="sim_unlock_failure_notification_content">"You'll need to contact %1$s. Tap for details."</string>
+    <string name="sim_unlock_failure_notification_content_no_contact">"You'll need to contact your operator"</string>
+    <string name="sim_unlock_failure_notification_title">"Operator lock couldn't be removed"</string>
+    <string name="sim_unlocked_notification_content">The device can now be used on any network</string>
+    <string name="sim_unlocked_notification_title">Operator lock removed</string>
+    <string name="zero_touch_disclaimer_no_contact_info">"This device has been configured for management. If this is an error, contact your device's provider"</string>
+    <string name="zero_touch_disclaimer_with_support_link">%1$s has set up this device to be managed by your organisation. If this is an error, &lt;a href=%2$s>contact your device’s provider&lt;/a>.&lt;br>&lt;br>The following app will manage your device:</string>
+    <string name="zero_touch_disclaimer_without_support_link">"%s has set up this device to be managed by your organisation. If this is an error, contact your device's provider.
+
+The following app will manage your device:"</string>
+    <string name="zero_touch_header">Your device at work</string>
+    <string name="zero_touch_notification_content">Automatically resetting soon</string>
+    <string name="zero_touch_notification_title">Device managed by admin</string>
+    <string name="zero_touch_reset_disclaimer_with_support_link">%1$s has set up this device to be managed by your organisation. If this is an error, &lt;a href=%2$s>contact your device’s provider&lt;/a>.&lt;br>&lt;br>To continue setup, this device needs to be reset. All data on the device will be deleted.</string>
+    <string name="zero_touch_reset_disclaimer_without_support_link">"%s has set up this device to be managed by your organisation. If this is an error, contact your device's provider.
+
+To continue setup, this device needs to be reset. All data on the device will be deleted."</string>
+    <string name="zero_touch_reset_now">Reset now</string>
+    <string name="zero_touch_reset_soon">Your device will automatically reset soon.</string>
+    <string name="zero_touch_reset_wait">OK</string>
+    <string name="zero_touch_retrieving_header">Checking device info…</string>
+    <string name="zero_touch_retrieving_text">"This won't take long"</string>
+    <string name="zero_touch_support_title">Support</string>
+    <string name="zero_touch_url_error">This link cannot be displayed.</string>
+</resources>

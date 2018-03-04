@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>teema puudub</item>
+        <item>teemapuudub</item>
+    </string-array>
+    <string-array name="notification_reply_choices">
+        <item>Jah</item>
+        <item>Ei</item>
+        <item>OK</item>
+        <item>Hehe</item>
+        <item>Aitäh!</item>
+        <item>Nõustun</item>
+        <item>Tore</item>
+        <item>Olen teel</item>
+        <item>OK, vastan hiljem</item>
+        <item>:)</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="rcs_default_sharing_method_options">
+        <item>MMS</item>
+        <item>SMS koos lingiga</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_sms_dialog_options">
+        <item>Saada uuesti alati SMS-ina</item>
+        <item>Saada uuesti SMS-ina, kui rändlus on välja lülitatud</item>
+        <item>Küsi enne uuesti saatmist</item>
+        <item>Ära kunagi saada uuesti SMS-ina</item>
+    </string-array>
+    <string-array name="rcs_fallback_to_xms_dialog_options">
+        <item>Saada uuesti alati SMS-i/MMS-ina</item>
+        <item>Saada uuesti SMS-i/MMS-ina, kui rändlus on välja lülitatud</item>
+        <item>Küsi enne uuesti saatmist</item>
+        <item>Ära kunagi saada uuesti SMS-i/MMS-ina</item>
+    </string-array>
+</resources>
